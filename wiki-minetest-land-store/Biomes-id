@@ -1,0 +1,548 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Biomes/id - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"eee4d3534c0239a2feb6a9aa","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Biomes/id","wgTitle":"Biomes/id","wgCurRevisionId":27659,"wgRevisionId":27659,"wgArticleId":1516,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Indonesian"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Biomes/id","wgRelevantArticleId":1516,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user"
+:"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=ext.cite.styles%7Cmediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Biomes_id rootpage-Biomes skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Biomes/id</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/Biomes" title="Biomes">Biomes</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> Bahasa:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><a href="/Biomes" title="Biomes">English</a>&#160;• <bdi lang="de"><a href="/Biomes/de" title="Biomes/de">Deutsch</a></bdi>&#160;• <bdi lang="fr"><a href="/Biomes/fr" title="Biomes/fr">français</a></bdi><b>&#160;• <bdi lang="id"><a class="mw-selflink selflink">Bahasa Indonesia</a></bdi></b>&#160;• <bdi lang="ja"><a href="/Biomes/ja" title="Biomes/ja">日本語</a></bdi>&#160;• <bdi lang="ms"><a href="/Biomes/ms" title="Biomes/ms">Bahasa Melayu</a></bdi></td>
+</tr></tbody></table>
+<p>Bioma dalam Minetest merupakan bagian dari <a href="/index.php?title=Map_generator/id&amp;action=edit&amp;redlink=1" class="new" title="Map generator/id (page does not exist)">pembuatan peta</a>. Bioma merupakan wilayah dengan keadaan tanah dan bawah tanah dan tetumbuhan yang mirip.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Jenis_bioma"><span class="tocnumber">1</span> <span class="toctext">Jenis bioma</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#v5.2C_v7.2C_valleys.2C_flat.2C_fractal"><span class="tocnumber">1.1</span> <span class="toctext">v5, v7, valleys, flat, fractal</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#v6"><span class="tocnumber">1.2</span> <span class="toctext">v6</span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="#Bioma"><span class="tocnumber">1.2.1</span> <span class="toctext">Bioma</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#Landscape_features"><span class="tocnumber">1.2.2</span> <span class="toctext">Landscape features</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Sejarah"><span class="tocnumber">2</span> <span class="toctext">Sejarah</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Jenis_bioma">Jenis bioma</span></h2>
+<p>Bioma-bioma tergantung pada pembuat peta yang digunakan. Kebanyakan pembuat peta memiliki bioma yang sama, namum v6 berbeda.
+</p>
+<h3><span id="v5,_v7,_valleys,_flat,_fractal"></span><span class="mw-headline" id="v5.2C_v7.2C_valleys.2C_flat.2C_fractal">v5, v7, valleys, flat, fractal</span></h3>
+<p>Bioma dalam pembuat peta ini diatur oleh mod. Jika tidak diatur, pembuat peta ini hanya akan membuat dunia <a href="/index.php?title=Stone/id&amp;action=edit&amp;redlink=1" class="new" title="Stone/id (page does not exist)">batu</a>. Bioma dalam pembuat peta berikut tidak tertaut dengan bentuk dunia; yang berarti bioma apapun (termasuk padang rumput) dapat terbentuk di wilayah datar maupun berbukit-gunung.
+Bagian ini menampilkan bioma yang digunakan oleh <a href="/index.php?title=Games/Minetest_Game/id&amp;action=edit&amp;redlink=1" class="new" title="Games/Minetest Game/id (page does not exist)">Minetest Game</a>.
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th width="15%">Nama dan Ciri
+</th>
+<th>Penjelasan
+</th>
+<th width="355px">Gambar
+</th></tr>
+<tr>
+<td><i><b>Grassland</b></i><br />(Padang rumput)<br /><a href="/index.php?title=Stone/id&amp;action=edit&amp;redlink=1" class="new" title="Stone/id (page does not exist)">Batu</a>, <a href="/index.php?title=Dirt/id&amp;action=edit&amp;redlink=1" class="new" title="Dirt/id (page does not exist)">Tanah</a>, <a href="/index.php?title=Dirt_with_Grass/id&amp;action=edit&amp;redlink=1" class="new" title="Dirt with Grass/id (page does not exist)">Tanah Berumput</a>, <a href="/index.php?title=Grass/id&amp;action=edit&amp;redlink=1" class="new" title="Grass/id (page does not exist)">Rumput</a>, <a href="/index.php?title=Flower/id&amp;action=edit&amp;redlink=1" class="new" title="Flower/id (page does not exist)">Bunga</a>, <a href="/index.php?title=Bush_Leaves/id&amp;action=edit&amp;redlink=1" class="new" title="Bush Leaves/id (page does not exist)">Daun Semak</a>, <a href="/index.php?title=Bush_Stem/id&amp;action=edit&amp;redlink=1" class="new" title="Bush Stem/id (page does not exist)">Batang Semak</a>
+</td>
+<td>Padang rumput memiliki jumlah node <a href="/index.php?title=Dirt/id&amp;action=edit&amp;redlink=1" class="new" title="Dirt/id (page does not exist)">tanah</a> dan <a href="/index.php?title=Dirt_with_Grass/id&amp;action=edit&amp;redlink=1" class="new" title="Dirt with Grass/id (page does not exist)">tanah berumput</a> dalam jumlah besar, yang di atasnya dapat muncul <a href="/index.php?title=Flower/id&amp;action=edit&amp;redlink=1" class="new" title="Flower/id (page does not exist)">bunga-bunga</a>. <a href="/index.php?title=Grass/id&amp;action=edit&amp;redlink=1" class="new" title="Grass/id (page does not exist)">Rumput</a> dan semak dapat muncul alami di wilayah ini. Bawah tanahnya terbuat dari <a href="/index.php?title=Stone/id&amp;action=edit&amp;redlink=1" class="new" title="Stone/id (page does not exist)">batu</a>.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Minetest_Game_plains_v7.jpg" class="image"><img alt="" src="/images/thumb/8/8c/Minetest_Game_plains_v7.jpg/350px-Minetest_Game_plains_v7.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/8/8c/Minetest_Game_plains_v7.jpg/525px-Minetest_Game_plains_v7.jpg 1.5x, /images/thumb/8/8c/Minetest_Game_plains_v7.jpg/700px-Minetest_Game_plains_v7.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Minetest_Game_plains_v7.jpg" class="internal" title="Enlarge"></a></div>Padang rumput di 0.4.15</div></div></div>
+</td></tr>
+<tr>
+<td><i><b>Coniferous forest</b></i><br />(Hutan konifer)<br /><a href="/index.php?title=Stone/id&amp;action=edit&amp;redlink=1" class="new" title="Stone/id (page does not exist)">Batu</a>, <a href="/index.php?title=Dirt/id&amp;action=edit&amp;redlink=1" class="new" title="Dirt/id (page does not exist)">Tanah</a>, <a href="/index.php?title=Dirt_with_Grass/id&amp;action=edit&amp;redlink=1" class="new" title="Dirt with Grass/id (page does not exist)">Tanah Berumput</a>, <a href="/index.php?title=Pine_Tree/id&amp;action=edit&amp;redlink=1" class="new" title="Pine Tree/id (page does not exist)">Pohon Pinus</a>, <a href="/index.php?title=Leaves/id&amp;action=edit&amp;redlink=1" class="new" title="Leaves/id (page does not exist)">Daun Pinus</a>, <a href="/index.php?title=Grass/id&amp;action=edit&amp;redlink=1" class="new" title="Grass/id (page does not exist)">Rumput</a>, <a href="/index.php?title=Flower/id&amp;action=edit&amp;redlink=1" class="new" title="Flower/id (page does not exist)">Bunga</a>, <a href="/index.php?title=Red_Mushroom/id&amp;action=edit&amp;redlink=1" class="new" title="Red Mushroom/id (page does not exist)">Jamur Merah</a>, <a href="/index.php?title=Brown_Mushroom/id&amp;action=edit&amp;redlink=1" class="new" title="Brown Mushroom/id (page does not exist)">Jamur Cokelat</a>
+</td>
+<td>Hutan konifer tumbuh di wilayah yang lebih dingin dan dipenuhi dengan pohon pinus. Hutan pohon pinus juga dapat diselimuti dengan salju pada wilayah-wilayah dingin.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Pine_forest.jpg" class="image"><img alt="" src="/images/thumb/d/da/Pine_forest.jpg/350px-Pine_forest.jpg" decoding="async" width="350" height="213" class="thumbimage" srcset="/images/thumb/d/da/Pine_forest.jpg/525px-Pine_forest.jpg 1.5x, /images/thumb/d/da/Pine_forest.jpg/700px-Pine_forest.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Pine_forest.jpg" class="internal" title="Enlarge"></a></div>Hutan pohon pinus di 0.4.13.</div></div></div>
+</td></tr>
+<tr>
+<td><i><b>Deciduous forest</b></i><br />(Hutan gugur)<br /><a href="/index.php?title=Stone/id&amp;action=edit&amp;redlink=1" class="new" title="Stone/id (page does not exist)">Batu</a>, <a href="/index.php?title=Dirt/id&amp;action=edit&amp;redlink=1" class="new" title="Dirt/id (page does not exist)">Tanah</a>, <a href="/index.php?title=Dirt_with_Grass/id&amp;action=edit&amp;redlink=1" class="new" title="Dirt with Grass/id (page does not exist)">Tanah Berumput</a>, <a href="/index.php?title=Tree/id&amp;action=edit&amp;redlink=1" class="new" title="Tree/id (page does not exist)">Pohon</a>, <a href="/index.php?title=Leaves/id&amp;action=edit&amp;redlink=1" class="new" title="Leaves/id (page does not exist)">Daun</a>, <a href="/index.php?title=Aspen_Tree/id&amp;action=edit&amp;redlink=1" class="new" title="Aspen Tree/id (page does not exist)">Pohon Aspen</a>, <a href="/index.php?title=Leaves/id&amp;action=edit&amp;redlink=1" class="new" title="Leaves/id (page does not exist)">Daun Aspen</a>, <a href="/index.php?title=Apple/id&amp;action=edit&amp;redlink=1" class="new" title="Apple/id (page does not exist)">Apel</a>, <a href="/index.php?title=Red_Mushroom/id&amp;action=edit&amp;redlink=1" class="new" title="Red Mushroom/id (page does not exist)">Jamur Merah</a>, <a href="/index.php?title=Brown_Mushroom/id&amp;action=edit&amp;redlink=1" class="new" title="Brown Mushroom/id (page does not exist)">Jamur Cokelat</a>, <a href="/index.php?title=Bush_Leaves/id&amp;action=edit&amp;redlink=1" class="new" title="Bush Leaves/id (page does not exist)">Daun Semak</a>, <a href="/index.php?title=Bush_Stem/id&amp;action=edit&amp;redlink=1" class="new" title="Bush Stem/id (page does not exist)">Batang Semak</a>
+</td>
+<td>Hutan gugur adalah bioma yang paling umum di Minetest dan terbentuk di wilayah suhu sedang. Pohon, pohon apel, dan pohon aspen tumbuh di sini. Umumnya dalam hutan dapat ditemukan danau, kolam, dan sungai. Hutan gugur biasanya mengelilingi tanah lapang.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Deciduous_forest_v7.jpg" class="image"><img alt="" src="/images/thumb/8/84/Deciduous_forest_v7.jpg/350px-Deciduous_forest_v7.jpg" decoding="async" width="350" height="213" class="thumbimage" srcset="/images/thumb/8/84/Deciduous_forest_v7.jpg/525px-Deciduous_forest_v7.jpg 1.5x, /images/thumb/8/84/Deciduous_forest_v7.jpg/700px-Deciduous_forest_v7.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Deciduous_forest_v7.jpg" class="internal" title="Enlarge"></a></div>Hutan dengan pohon biasa dan pohon aspen di 0.4.15</div></div></div>
+</td></tr>
+<tr>
+<td><i><b>Rainforest</b></i><br />(Hutan hujan)<br /><a href="/index.php?title=Stone/id&amp;action=edit&amp;redlink=1" class="new" title="Stone/id (page does not exist)">Batu</a>, <a href="/index.php?title=Dirt/id&amp;action=edit&amp;redlink=1" class="new" title="Dirt/id (page does not exist)">Tanah</a>, <a href="/index.php?title=Dirt_with_Rainforest_Litter/id&amp;action=edit&amp;redlink=1" class="new" title="Dirt with Rainforest Litter/id (page does not exist)">Tanah Hutan Hujan</a>, <a href="/index.php?title=Jungle_Grass/id&amp;action=edit&amp;redlink=1" class="new" title="Jungle Grass/id (page does not exist)">Rumput Rimba</a>, <a href="/index.php?title=Jungle_Tree/id&amp;action=edit&amp;redlink=1" class="new" title="Jungle Tree/id (page does not exist)">Pohon Rimba</a>, <a href="/index.php?title=Jungle_Leaves/id&amp;action=edit&amp;redlink=1" class="new" title="Jungle Leaves/id (page does not exist)">Daun Pohon Rimba</a>, <a href="/index.php?title=Brown_Mushroom/id&amp;action=edit&amp;redlink=1" class="new" title="Brown Mushroom/id (page does not exist)">Jamur Cokelat</a>, <a href="/index.php?title=Waterlily/id&amp;action=edit&amp;redlink=1" class="new" title="Waterlily/id (page does not exist)">Teratai</a>
+</td>
+<td>Hutan hujan (atau hutan rimba) terbuat dari pohon rimba besar yang tumbuh berdekatan. <a href="/index.php?title=Jungle_Grass/id&amp;action=edit&amp;redlink=1" class="new" title="Jungle Grass/id (page does not exist)">Rumput rimba</a> dan <a href="/index.php?title=Jungle_Tree/id&amp;action=edit&amp;redlink=1" class="new" title="Jungle Tree/id (page does not exist)">pohon rimba</a> dengan <a href="/index.php?title=Jungle_Leaves/id&amp;action=edit&amp;redlink=1" class="new" title="Jungle Leaves/id (page does not exist)">daunnya</a> tumbuh alami di sini. Pada batang pohon rimba yang jatuh, jamur cokelat langka dapat tumbuh. Hutan rimba dekat laut dapat membentuk rawa dengan teratai.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Minetest_Game_jungle_v7.jpg" class="image"><img alt="" src="/images/thumb/4/4a/Minetest_Game_jungle_v7.jpg/350px-Minetest_Game_jungle_v7.jpg" decoding="async" width="350" height="212" class="thumbimage" srcset="/images/thumb/4/4a/Minetest_Game_jungle_v7.jpg/525px-Minetest_Game_jungle_v7.jpg 1.5x, /images/thumb/4/4a/Minetest_Game_jungle_v7.jpg/700px-Minetest_Game_jungle_v7.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Minetest_Game_jungle_v7.jpg" class="internal" title="Enlarge"></a></div>Hutan hujan dalam v7 di 0.4.16</div></div></div> <div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Minetest_Game_jungle_swamp.jpg" class="image"><img alt="" src="/images/thumb/c/cc/Minetest_Game_jungle_swamp.jpg/350px-Minetest_Game_jungle_swamp.jpg" decoding="async" width="350" height="212" class="thumbimage" srcset="/images/thumb/c/cc/Minetest_Game_jungle_swamp.jpg/525px-Minetest_Game_jungle_swamp.jpg 1.5x, /images/thumb/c/cc/Minetest_Game_jungle_swamp.jpg/700px-Minetest_Game_jungle_swamp.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Minetest_Game_jungle_swamp.jpg" class="internal" title="Enlarge"></a></div>Rawa hutan hujan di 0.4.15</div></div></div>
+</td></tr>
+<tr>
+<td><i><b>Savanna</b></i><br />(Sabana)<br /><a href="/index.php?title=Stone/id&amp;action=edit&amp;redlink=1" class="new" title="Stone/id (page does not exist)">Batu</a>, <a href="/index.php?title=Dirt/id&amp;action=edit&amp;redlink=1" class="new" title="Dirt/id (page does not exist)">Tanah</a>, <a href="/index.php?title=Dirt_with_Dry_Grass/id&amp;action=edit&amp;redlink=1" class="new" title="Dirt with Dry Grass/id (page does not exist)">Tanah Berumput Kering</a>, <a href="/index.php?title=Dry_Grass/id&amp;action=edit&amp;redlink=1" class="new" title="Dry Grass/id (page does not exist)">Rumput Kering</a>, <a href="/index.php?title=Acacia_Tree/id&amp;action=edit&amp;redlink=1" class="new" title="Acacia Tree/id (page does not exist)">Pohon Akasia</a>, <a href="/index.php?title=Leaves/id&amp;action=edit&amp;redlink=1" class="new" title="Leaves/id (page does not exist)">Daun Pohon Akasia</a>, <a href="/index.php?title=Bush_Leaves/id&amp;action=edit&amp;redlink=1" class="new" title="Bush Leaves/id (page does not exist)">Daun Semak Akasia</a>, <a href="/index.php?title=Acacia_Bush_Stem/id&amp;action=edit&amp;redlink=1" class="new" title="Acacia Bush Stem/id (page does not exist)">Batang Semak Akasia</a>, <a href="/index.php?title=Waterlily/id&amp;action=edit&amp;redlink=1" class="new" title="Waterlily/id (page does not exist)">Teratai</a>, <a href="/index.php?title=Papyrus/id&amp;action=edit&amp;redlink=1" class="new" title="Papyrus/id (page does not exist)">Papirus</a>
+</td>
+<td>Sabana adalah daratan kering namun bukan gurun, dihuni oleh pohon akasia dan rumput kering. Air datar yang berbatasan dengan sabana mungkin memiliki <a href="/index.php?title=Waterlily/id&amp;action=edit&amp;redlink=1" class="new" title="Waterlily/id (page does not exist)">teratai</a> dan <a href="/index.php?title=Papyrus/id&amp;action=edit&amp;redlink=1" class="new" title="Papyrus/id (page does not exist)">papirus</a>.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Savannah.jpg" class="image"><img alt="" src="/images/thumb/2/2c/Savannah.jpg/350px-Savannah.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/2/2c/Savannah.jpg/525px-Savannah.jpg 1.5x, /images/thumb/2/2c/Savannah.jpg/700px-Savannah.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Savannah.jpg" class="internal" title="Enlarge"></a></div>Sabana di 0.4.15</div></div></div>
+</td></tr>
+<tr>
+<td><i><b>Desert</b></i><br />(Gurun)<br /><a href="/index.php?title=Desert_Stone/id&amp;action=edit&amp;redlink=1" class="new" title="Desert Stone/id (page does not exist)">Batu Gurun</a>, <a href="/index.php?title=Desert_Sand/id&amp;action=edit&amp;redlink=1" class="new" title="Desert Sand/id (page does not exist)">Pasir Gurun</a>, <a href="/index.php?title=Cactus/id&amp;action=edit&amp;redlink=1" class="new" title="Cactus/id (page does not exist)">Kaktus</a>, <a href="/index.php?title=Dry_Shrub/id&amp;action=edit&amp;redlink=1" class="new" title="Dry Shrub/id (page does not exist)">Belukar Kering</a>
+</td>
+<td>Gurun memiliki <a href="/index.php?title=Desert_Stone/id&amp;action=edit&amp;redlink=1" class="new" title="Desert Stone/id (page does not exist)">batu</a> dan <a href="/index.php?title=Desert_Sand/id&amp;action=edit&amp;redlink=1" class="new" title="Desert Sand/id (page does not exist)">pasir gurun</a> dalam jumlah yang besar. <a href="/index.php?title=Cactus/id&amp;action=edit&amp;redlink=1" class="new" title="Cactus/id (page does not exist)">Kaktus</a> dan <a href="/index.php?title=Dry_Shrub/id&amp;action=edit&amp;redlink=1" class="new" title="Dry Shrub/id (page does not exist)">belukar kering</a> juga muncul alami di pasir gurun. Kaktus dapat tumbuh dalam dua bentuk yang berbeda. Gurun terbentuk di wilayah panas dan kering.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Minetest_Game_desert.jpg" class="image"><img alt="" src="/images/thumb/d/d6/Minetest_Game_desert.jpg/350px-Minetest_Game_desert.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/d/d6/Minetest_Game_desert.jpg/525px-Minetest_Game_desert.jpg 1.5x, /images/thumb/d/d6/Minetest_Game_desert.jpg/700px-Minetest_Game_desert.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Minetest_Game_desert.jpg" class="internal" title="Enlarge"></a></div>Gurun dalam v7 di 0.4.15</div></div></div>
+</td></tr>
+<tr>
+<td><i><b>Sandstone desert</b></i><br />(Gurun berbatu pasir)<br /><a href="/index.php?title=Sand/id&amp;action=edit&amp;redlink=1" class="new" title="Sand/id (page does not exist)">Pasir</a>, <a href="/index.php?title=Sandstone/id&amp;action=edit&amp;redlink=1" class="new" title="Sandstone/id (page does not exist)">Batu Pasir</a>, <a href="/index.php?title=Dry_Shrub/id&amp;action=edit&amp;redlink=1" class="new" title="Dry Shrub/id (page does not exist)">Belukar Kering</a>
+</td>
+<td>Gurun berbatu pasir merupakan wilayah luas yang tandus yang diselimuti oleh <a href="/index.php?title=Sand/id&amp;action=edit&amp;redlink=1" class="new" title="Sand/id (page does not exist)">pasir</a> dengan <a href="/index.php?title=Sandstone/id&amp;action=edit&amp;redlink=1" class="new" title="Sandstone/id (page does not exist)">batu pasir</a> di bawahnya. Mereka terbentuk di iklim kering bersuhu sedang.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Minetest_Game_sandstone_desert.jpg" class="image"><img alt="" src="/images/thumb/5/53/Minetest_Game_sandstone_desert.jpg/350px-Minetest_Game_sandstone_desert.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/5/53/Minetest_Game_sandstone_desert.jpg/525px-Minetest_Game_sandstone_desert.jpg 1.5x, /images/thumb/5/53/Minetest_Game_sandstone_desert.jpg/700px-Minetest_Game_sandstone_desert.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Minetest_Game_sandstone_desert.jpg" class="internal" title="Enlarge"></a></div>Gurun berbatu pasir di 0.4.15</div></div></div>
+</td></tr>
+<tr>
+<td><i><b>Cold desert</b></i><br />(Gurun dingin)<br /><a href="/index.php?title=Silver_Sand/id&amp;action=edit&amp;redlink=1" class="new" title="Silver Sand/id (page does not exist)">Pasir Perak</a>, <a href="/index.php?title=Stone/id&amp;action=edit&amp;redlink=1" class="new" title="Stone/id (page does not exist)">Batu</a>, <a href="/index.php?title=Dry_Shrub/id&amp;action=edit&amp;redlink=1" class="new" title="Dry Shrub/id (page does not exist)">Belukar Kering</a>
+</td>
+<td>Gurun dingin merupakan wilayah luas yang tandus yang diselimuti oleh <a href="/index.php?title=Silver_Sand/id&amp;action=edit&amp;redlink=1" class="new" title="Silver Sand/id (page does not exist)">pasir perak</a> di atas <a href="/index.php?title=Stone/id&amp;action=edit&amp;redlink=1" class="new" title="Stone/id (page does not exist)">batu</a>. Mereka terbentuk di wilyah dingin dan kering.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Minetest_Game_cold_desert.jpg" class="image"><img alt="" src="/images/thumb/f/fd/Minetest_Game_cold_desert.jpg/350px-Minetest_Game_cold_desert.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/f/fd/Minetest_Game_cold_desert.jpg/525px-Minetest_Game_cold_desert.jpg 1.5x, /images/thumb/f/fd/Minetest_Game_cold_desert.jpg/700px-Minetest_Game_cold_desert.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Minetest_Game_cold_desert.jpg" class="internal" title="Enlarge"></a></div>Gurun dingin di 0.4.15</div></div></div>
+</td></tr>
+<tr>
+<td><i><b>Snowy grassland</b></i><br />(Padang rumput bersalju)<br /><a href="/index.php?title=Stone/id&amp;action=edit&amp;redlink=1" class="new" title="Stone/id (page does not exist)">Batu</a>, <a href="/index.php?title=Dirt/id&amp;action=edit&amp;redlink=1" class="new" title="Dirt/id (page does not exist)">Tanah</a>, <a href="/index.php?title=Snow/id&amp;action=edit&amp;redlink=1" class="new" title="Snow/id (page does not exist)">Salju</a>, <a href="/index.php?title=Dirt_with_Snow/id&amp;action=edit&amp;redlink=1" class="new" title="Dirt with Snow/id (page does not exist)">Tanah Bersalju</a>, <a href="/index.php?title=Bush_Leaves/id&amp;action=edit&amp;redlink=1" class="new" title="Bush Leaves/id (page does not exist)">Daun Semak</a>, <a href="/index.php?title=Bush_Stem/id&amp;action=edit&amp;redlink=1" class="new" title="Bush Stem/id (page does not exist)">Batang Semak</a>
+</td>
+<td>Bioma padang rumput bersalju biasanya berbatasan dengan padang rumput dan sepenuhnya diselimuti oleh lapisan tipis <a href="/index.php?title=Snow/id&amp;action=edit&amp;redlink=1" class="new" title="Snow/id (page does not exist)">salju</a> di atas <a href="/index.php?title=Dirt_with_Snow/id&amp;action=edit&amp;redlink=1" class="new" title="Dirt with Snow/id (page does not exist)">tanah bersalju</a>. Beberapa semak berselimut salju dapat ditemukan di sini.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Snow_biome.jpg" class="image"><img alt="" src="/images/thumb/6/65/Snow_biome.jpg/350px-Snow_biome.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/6/65/Snow_biome.jpg/525px-Snow_biome.jpg 1.5x, /images/thumb/6/65/Snow_biome.jpg/700px-Snow_biome.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Snow_biome.jpg" class="internal" title="Enlarge"></a></div>Padang rumput bersalju di 0.4.15</div></div></div>
+</td></tr>
+<tr>
+<td><b>Taiga</b><br /><a href="/index.php?title=Stone/id&amp;action=edit&amp;redlink=1" class="new" title="Stone/id (page does not exist)">Batu</a>, <a href="/index.php?title=Dirt/id&amp;action=edit&amp;redlink=1" class="new" title="Dirt/id (page does not exist)">Tanah</a>, <a href="/index.php?title=Snow/id&amp;action=edit&amp;redlink=1" class="new" title="Snow/id (page does not exist)">Salju</a>, <a href="/index.php?title=Dirt_with_Snow/id&amp;action=edit&amp;redlink=1" class="new" title="Dirt with Snow/id (page does not exist)">Tanah Bersalju</a>, <a href="/index.php?title=Pine_Tree/id&amp;action=edit&amp;redlink=1" class="new" title="Pine Tree/id (page does not exist)">Pohon Pinus</a>, <a href="/index.php?title=Leaves/id&amp;action=edit&amp;redlink=1" class="new" title="Leaves/id (page does not exist)">Daun Pohon Pinus</a>, <a href="/index.php?title=Dry_Shrub/id&amp;action=edit&amp;redlink=1" class="new" title="Dry Shrub/id (page does not exist)">Belukar Kering</a>, <a href="/index.php?title=Brown_Mushroom/id&amp;action=edit&amp;redlink=1" class="new" title="Brown Mushroom/id (page does not exist)">Jamur Cokelat</a>, <a href="/index.php?title=Red_Mushroom/id&amp;action=edit&amp;redlink=1" class="new" title="Red Mushroom/id (page does not exist)">Jamur Merah</a>
+</td>
+<td>Taiga adalah bioma dingin berselimut salju dengan tetumbuhan lebat dengan <a href="/index.php?title=Snow/id&amp;action=edit&amp;redlink=1" class="new" title="Snow/id (page does not exist)">salju</a> dan <a href="/index.php?title=Dirt_with_Snow/id&amp;action=edit&amp;redlink=1" class="new" title="Dirt with Snow/id (page does not exist)">tanah bersalju</a> sebagai permukaannya. Mereka dihuni dengan pohon pinus berselimut salju. Pada hutan pohon pinus, jamur langka dapat tumbuh pada batang pohon pinus yang jatuh.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Minetest_Game_taiga.jpg" class="image"><img alt="" src="/images/thumb/c/cf/Minetest_Game_taiga.jpg/350px-Minetest_Game_taiga.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/c/cf/Minetest_Game_taiga.jpg/525px-Minetest_Game_taiga.jpg 1.5x, /images/thumb/c/cf/Minetest_Game_taiga.jpg/700px-Minetest_Game_taiga.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Minetest_Game_taiga.jpg" class="internal" title="Enlarge"></a></div>Pohon pinus dalam taiga di 0.4.13</div></div></div>
+</td></tr>
+<tr>
+<td><b>Tundra</b><br /><a href="/index.php?title=Stone/id&amp;action=edit&amp;redlink=1" class="new" title="Stone/id (page does not exist)">Batu</a>, <a href="/index.php?title=Snow_Block/id&amp;action=edit&amp;redlink=1" class="new" title="Snow Block/id (page does not exist)">Blok Salju</a>
+</td>
+<td>Tundra adalah bioma tandus pada iklim yang sangat dingin dengan tanpa tetumbuhan dan selapis <a href="/index.php?title=Snow_Block/id&amp;action=edit&amp;redlink=1" class="new" title="Snow Block/id (page does not exist)">blok salju</a> di atas <a href="/index.php?title=Stone/id&amp;action=edit&amp;redlink=1" class="new" title="Stone/id (page does not exist)">batu</a>. Mereka biasanya ditemukan antara taiga, padang rumput bersalju, dan gletser. Ini salah satu dari sedikit bioma yang dapat ditemukan blok salju (daripada hanya lapisan salju).
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Minetest_Game_tundra.jpg" class="image"><img alt="" src="/images/thumb/c/ca/Minetest_Game_tundra.jpg/350px-Minetest_Game_tundra.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/c/ca/Minetest_Game_tundra.jpg/525px-Minetest_Game_tundra.jpg 1.5x, /images/thumb/c/ca/Minetest_Game_tundra.jpg/700px-Minetest_Game_tundra.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Minetest_Game_tundra.jpg" class="internal" title="Enlarge"></a></div>Tundra di 0.4.15</div></div></div>
+</td></tr>
+<tr>
+<td><i><b>Glacier</b></i><br />(Gletser)<br /><a href="/index.php?title=Ice/id&amp;action=edit&amp;redlink=1" class="new" title="Ice/id (page does not exist)">Es</a>, <a href="/index.php?title=Snow_Block/id&amp;action=edit&amp;redlink=1" class="new" title="Snow Block/id (page does not exist)">Blok Salju</a>
+</td>
+<td>Gletser terbentuk hanya di wilayah paling dingin dan terbuat dari es dalam jumlah besar, diselimuti lapisan blok salju tebal dengan tanpa tetumbuhan. Bioma gletser dapat berbentuk seperti gunung seperti di tangkapan layar di samping atau sangat datar. Bioma gletser biasanya berbatasan dengan bioma lembaran es dekat laut.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Glacier.jpg" class="image"><img alt="" src="/images/thumb/8/8c/Glacier.jpg/350px-Glacier.jpg" decoding="async" width="350" height="213" class="thumbimage" srcset="/images/thumb/8/8c/Glacier.jpg/525px-Glacier.jpg 1.5x, /images/thumb/8/8c/Glacier.jpg/700px-Glacier.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Glacier.jpg" class="internal" title="Enlarge"></a></div>Bongkahan gletser besar, berbatasan dengan bioma es biasa, di 0.4.13</div></div></div>
+</td></tr>
+<tr>
+<td><i><b>Ice sheet</b></i><br />(Lembaran es)<br /><a href="/index.php?title=Ice/id&amp;action=edit&amp;redlink=1" class="new" title="Ice/id (page does not exist)">Es</a>, <a href="/index.php?title=Snow_Block/id&amp;action=edit&amp;redlink=1" class="new" title="Snow Block/id (page does not exist)">Blok Salju</a>
+</td>
+<td>Lembaran es hanya terbentuk di wilayah terdingin di atas laut dan biasanya berbatasan dengan bioma gletser. Lembaran es sangat datar dan hanya terdiri dari selapis blok salju dengan sampai 10 lapis es di bawahnya, “mengapung” di atas air di lautan dalam.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Minetest_Game_ice_sheet.jpg" class="image"><img alt="" src="/images/thumb/2/2b/Minetest_Game_ice_sheet.jpg/350px-Minetest_Game_ice_sheet.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/2/2b/Minetest_Game_ice_sheet.jpg/525px-Minetest_Game_ice_sheet.jpg 1.5x, /images/thumb/2/2b/Minetest_Game_ice_sheet.jpg/700px-Minetest_Game_ice_sheet.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Minetest_Game_ice_sheet.jpg" class="internal" title="Enlarge"></a></div>Lembaran es di 0.4.15</div></div></div>
+</td></tr>
+</tbody></table>
+<h3><span class="mw-headline" id="v6">v6</span></h3>
+<p><span style="color:red;font-size:larger;"><i><b>Bagian ini belum selesai diterjemahkan!</b></i></span>
+</p><p>Pembuat peta v6 memiliki daftar bioma yang telah diatur yang tidak dapat diubah oleh mod secara langsung. Keluaran di subpermainan yang berbeda umumnya akan sangat mirip. Pada umumnya, bioma v6 sangat lebih sederhana dibandingkan bioma dari pembuat peta lain.
+</p>
+<h4><span class="mw-headline" id="Bioma">Bioma</span></h4>
+<table class="wikitable">
+<tbody><tr>
+<th>Nama
+</th>
+<th>Blok Utama<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</th>
+<th>Hiasan<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</th>
+<th>Penjelasan
+</th>
+<th width="355px">Gambar
+</th></tr>
+<tr>
+<td><i><b>Plains</b></i><br />(Dataran)
+</td>
+<td><a href="/index.php?title=Stone/id&amp;action=edit&amp;redlink=1" class="new" title="Stone/id (page does not exist)">Batu</a>, <a href="/index.php?title=Dirt/id&amp;action=edit&amp;redlink=1" class="new" title="Dirt/id (page does not exist)">Tanah</a>, <a href="/index.php?title=Dirt_with_Grass/id&amp;action=edit&amp;redlink=1" class="new" title="Dirt with Grass/id (page does not exist)">Tanah Berumput</a>
+</td>
+<td><a href="/index.php?title=Grass/id&amp;action=edit&amp;redlink=1" class="new" title="Grass/id (page does not exist)">Rumput</a>, <a href="/index.php?title=Flower/id&amp;action=edit&amp;redlink=1" class="new" title="Flower/id (page does not exist)">Bunga</a>
+</td>
+<td>Dataran adalah bioma yang cukup datar. Terdapat dalam jumlah besar, node <a href="/index.php?title=Dirt/id&amp;action=edit&amp;redlink=1" class="new" title="Dirt/id (page does not exist)">tanah</a> dan <a href="/index.php?title=Dirt_with_Grass/id&amp;action=edit&amp;redlink=1" class="new" title="Dirt with Grass/id (page does not exist)">tanah berumput</a> yang di atasnya dapat tumbuh <a href="/index.php?title=Flower/id&amp;action=edit&amp;redlink=1" class="new" title="Flower/id (page does not exist)">bunga</a> dan <a href="/index.php?title=Grass/id&amp;action=edit&amp;redlink=1" class="new" title="Grass/id (page does not exist)">rumput</a> (sejak 0.4.7). Tidak ada semak. Bawah tanahnya terbuat dari <a href="/index.php?title=Stone/id&amp;action=edit&amp;redlink=1" class="new" title="Stone/id (page does not exist)">batu</a>.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Large_plains.png" class="image"><img alt="" src="/images/thumb/7/7e/Large_plains.png/350px-Large_plains.png" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/7/7e/Large_plains.png/525px-Large_plains.png 1.5x, /images/thumb/7/7e/Large_plains.png/700px-Large_plains.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Large_plains.png" class="internal" title="Enlarge"></a></div>Dataran di 0.4.13</div></div></div>
+</td></tr>
+<tr>
+<td><b>Forest</b>
+</td>
+<td><a href="/Stone" title="Stone">Stone</a>, <a href="/Dirt" title="Dirt">Dirt</a>, <a href="/Dirt_with_Grass" title="Dirt with Grass">Dirt with Grass</a>, <a href="/Tree" class="mw-redirect" title="Tree">Tree</a>, <a href="/Leaves" title="Leaves">Leaves</a>, <a href="/Apple" title="Apple">Apple</a>
+</td>
+<td><a href="/Grass" title="Grass">Grass</a>, <a href="/Flower" title="Flower">Flower</a>
+</td>
+<td>Forests are one of the most common biomes in v6 and form in temperate zones. Regular <a href="/Trees" title="Trees">trees</a> and apple trees grow here naturally. Forests usually surround plains. There are no aspen trees or fallen tree logs.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Mapgen_v6_0_4_9.jpg" class="image"><img alt="" src="/images/thumb/f/f2/Mapgen_v6_0_4_9.jpg/350px-Mapgen_v6_0_4_9.jpg" decoding="async" width="350" height="224" class="thumbimage" srcset="/images/thumb/f/f2/Mapgen_v6_0_4_9.jpg/525px-Mapgen_v6_0_4_9.jpg 1.5x, /images/thumb/f/f2/Mapgen_v6_0_4_9.jpg/700px-Mapgen_v6_0_4_9.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mapgen_v6_0_4_9.jpg" class="internal" title="Enlarge"></a></div>A forest of regular trees in 0.4.9</div></div></div>
+</td></tr>
+<tr>
+<td><b>Desert</b>
+</td>
+<td><a href="/Desert_Stone" title="Desert Stone">Desert Stone</a>, <a href="/Desert_Sand" title="Desert Sand">Desert Sand</a>
+</td>
+<td><a href="/Cactus" title="Cactus">Cactus</a>, <a href="/Dry_Shrub" title="Dry Shrub">Dry Shrub</a>
+</td>
+<td>Deserts contain large amounts of <a href="/Desert_Sand" title="Desert Sand">desert sand</a> and <a href="/Desert_Stone" title="Desert Stone">desert stone</a> and often form large cliffs or canyons. <a href="/Cactus" title="Cactus">Cacti</a> and <a href="/Dry_Shrub" title="Dry Shrub">dry shrubs</a> also spawn here naturally in clusters on desert sand. Deserts spawn underground rivers and lakes which can be over 200 blocks deep. In v6, cacti only form in a “column” shape of up to 4 blocks high.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Desert_at_sunset_0.4.7.png" class="image"><img alt="" src="/images/thumb/6/69/Desert_at_sunset_0.4.7.png/350px-Desert_at_sunset_0.4.7.png" decoding="async" width="350" height="213" class="thumbimage" srcset="/images/thumb/6/69/Desert_at_sunset_0.4.7.png/525px-Desert_at_sunset_0.4.7.png 1.5x, /images/thumb/6/69/Desert_at_sunset_0.4.7.png/700px-Desert_at_sunset_0.4.7.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Desert_at_sunset_0.4.7.png" class="internal" title="Enlarge"></a></div>Desert biome, as of 0.4.7</div></div></div>
+</td></tr>
+<tr>
+<td><b>Jungle</b>
+</td>
+<td><a href="/Stone" title="Stone">Stone</a>, <a href="/Dirt" title="Dirt">Dirt</a>, <a href="/Dirt_with_Grass" title="Dirt with Grass">Dirt with Grass</a>, <a href="/Jungle_Tree" title="Jungle Tree">Jungle Tree</a>, <a href="/Jungle_Leaves" class="mw-redirect" title="Jungle Leaves">Jungle Leaves</a>, <a href="/Jungle_Grass" title="Jungle Grass">Jungle Grass</a>
+</td>
+<td><a href="/Flower" title="Flower">Flower</a>, <a href="/Grass" title="Grass">Grass</a>
+</td>
+<td>Jungles contains large trees which grow thickly packed together. <a href="/Jungle_Grass" title="Jungle Grass">Jungle Grass</a> and <a href="/Jungle_Tree" title="Jungle Tree">Jungle Trees</a> bearing <a href="/Leaves" title="Leaves">Jungle Leaves</a> spawn here naturally. Jungles in v6 very similar to the jungles in the other map generators, but there are no fallen tree logs, mushrooms or swamps.
+<p>Although technically possible, flowers and grasses only appear rarely in this biome.
+</p>
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Jungle_v6.jpg" class="image"><img alt="" src="/images/thumb/d/d7/Jungle_v6.jpg/350px-Jungle_v6.jpg" decoding="async" width="350" height="213" class="thumbimage" srcset="/images/thumb/d/d7/Jungle_v6.jpg/525px-Jungle_v6.jpg 1.5x, /images/thumb/d/d7/Jungle_v6.jpg/700px-Jungle_v6.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Jungle_v6.jpg" class="internal" title="Enlarge"></a></div>Jungle biome as of 0.4.16</div></div></div>
+</td></tr>
+<tr>
+<td><b>Taiga</b>
+</td>
+<td><a href="/Stone" title="Stone">Stone</a>, <a href="/Snow_Block" title="Snow Block">Snow Block</a>, <a href="/Dirt_with_Snow" title="Dirt with Snow">Dirt with Snow</a>, <a href="/Snow" title="Snow">Snow</a>, <a href="/Pine_Tree" title="Pine Tree">Pine Tree</a>, <a href="/Leaves" title="Leaves">Pine Needles</a>
+</td>
+<td>
+</td>
+<td>The surface is covered with snow blocks on top of dirt with snow. Snow-covered pine tree forests are common in this biome.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Mapgen_v6_taiga.jpg" class="image"><img alt="" src="/images/thumb/2/27/Mapgen_v6_taiga.jpg/350px-Mapgen_v6_taiga.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/2/27/Mapgen_v6_taiga.jpg/525px-Mapgen_v6_taiga.jpg 1.5x, /images/thumb/2/27/Mapgen_v6_taiga.jpg/700px-Mapgen_v6_taiga.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mapgen_v6_taiga.jpg" class="internal" title="Enlarge"></a></div>The two main features of taigas: snow blocks and pine trees (0.4.15)</div></div></div>
+</td></tr>
+<tr>
+<td><b>Tundra</b>
+</td>
+<td><a href="/Stone" title="Stone">Stone</a>, <a href="/Dirt_with_Snow" title="Dirt with Snow">Dirt with Snow</a>, <a href="/Snow" title="Snow">Snow</a>
+</td>
+<td><a href="/Dry_Shrub" title="Dry Shrub">Dry Shrub</a>
+</td>
+<td>Tundras are large open fields with thin layers of snow and are populated by dry shrubs. There are two variations of this biome.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Mapgen_v6_tundra.jpg" class="image"><img alt="" src="/images/thumb/2/20/Mapgen_v6_tundra.jpg/350px-Mapgen_v6_tundra.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/2/20/Mapgen_v6_tundra.jpg/525px-Mapgen_v6_tundra.jpg 1.5x, /images/thumb/2/20/Mapgen_v6_tundra.jpg/700px-Mapgen_v6_tundra.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mapgen_v6_tundra.jpg" class="internal" title="Enlarge"></a></div>Tundra biome in 0.4.15</div></div></div>
+</td></tr>
+<tr>
+<td><b>Ice sheet</b>
+</td>
+<td><a href="/Ice" title="Ice">Ice</a>, <a href="/Water" title="Water">Water</a>
+</td>
+<td>
+</td>
+<td>Ice sheets are two layers of <a href="/Ice" title="Ice">ice</a> on top of ocean water. They generate bordering directly to taigas and tundras.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Ice_sheet_v6.jpg" class="image"><img alt="" src="/images/thumb/8/88/Ice_sheet_v6.jpg/350px-Ice_sheet_v6.jpg" decoding="async" width="350" height="213" class="thumbimage" srcset="/images/thumb/8/88/Ice_sheet_v6.jpg/525px-Ice_sheet_v6.jpg 1.5x, /images/thumb/8/88/Ice_sheet_v6.jpg/700px-Ice_sheet_v6.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Ice_sheet_v6.jpg" class="internal" title="Enlarge"></a></div>Ice sheet in 0.4.15</div></div></div>
+</td></tr></tbody></table>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Blok dibuat oleh pembuat peta v6 inti</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Blok tambahan dari Minetest Game, dapat diatur dengan tanda (<i>flag</i>) pembuat peta <code>decorations</code>. Lihat juga: <a href="/index.php?title=Map_generator_features/id&amp;action=edit&amp;redlink=1" class="new" title="Map generator features/id (page does not exist)">Map generator features/id#Ciri yang dibagikan</a></span>
+</li>
+</ol></div>
+<h4><span class="mw-headline" id="Landscape_features">Landscape features</span></h4>
+<p>Landscape features form (more or less) separately from biomes.
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>Name
+</th>
+<th>Blocks
+</th>
+<th>Description
+</th>
+<th width="355px">Images
+</th></tr>
+<tr>
+<td><b>Sand beach</b>
+</td>
+<td><a href="/Water" title="Water">Water</a>, <a href="/Stone" title="Stone">Stone</a>, <a href="/Sand" title="Sand">Sand</a>, <i><a href="/Clay" title="Clay">Clay</a></i>
+</td>
+<td>Sand beaches are made out of <a href="/Sand" title="Sand">sand</a> and form at at <a href="/Coordinates" title="Coordinates">height</a> of Y=2 and below, which is near the sea level by default. Sand beaches often extend deep into the ocean, which can easily turn a large part of the ocean floor into sand. The sand replaces the floor of other biomes. Depending on the terrain shape, sand beaches can be short or very long and wide (as seen in the screenshot). <a href="/Clay" title="Clay">Clay</a> can be found in the sand and forms in small to medium-sized “blobs” underwater (Technically, clay is generated as an ore by Minetest Game).
+<p>Sand beaches are generated based on height and Perlin noise; they technically form independent of the water of oceans. This effect can be noted if the water level (with the setting <code>water_level</code>) has been reduced.
+</p>
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Mapgen_v6_beach.jpg" class="image"><img alt="" src="/images/thumb/0/01/Mapgen_v6_beach.jpg/350px-Mapgen_v6_beach.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/0/01/Mapgen_v6_beach.jpg/525px-Mapgen_v6_beach.jpg 1.5x, /images/thumb/0/01/Mapgen_v6_beach.jpg/700px-Mapgen_v6_beach.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mapgen_v6_beach.jpg" class="internal" title="Enlarge"></a></div>A sand beach bordering a desert in 0.4.15</div></div></div>
+</td></tr>
+<tr>
+<td><b>Ocean</b>
+</td>
+<td><a href="/Water" title="Water">Water</a>, <a href="/Stone" title="Stone">Stone</a>, <a href="/Dirt" title="Dirt">Dirt</a>, <a href="/Sand" title="Sand">Sand</a>
+</td>
+<td>Oceans are a landscape feature that seemed to be implemented around <a href="/index.php?title=Version_History&amp;action=edit&amp;redlink=1" class="new" title="Version History (page does not exist)">0.2.20110731_1 Pre-Alpha</a>. An ocean is just a large body of water that can be up to 250 blocks deep. They may be referred to as lakes, but are called oceans because they can be so huge, sometimes even 200-350 blocks across. The natural ocean floor is <a href="/Dirt" title="Dirt">dirt</a>, but <a href="/Sand" title="Sand">sand</a> is also common because of sand beaches.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Mapgen_v6_ocean.jpg" class="image"><img alt="" src="/images/thumb/b/bf/Mapgen_v6_ocean.jpg/350px-Mapgen_v6_ocean.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/b/bf/Mapgen_v6_ocean.jpg/525px-Mapgen_v6_ocean.jpg 1.5x, /images/thumb/b/bf/Mapgen_v6_ocean.jpg/700px-Mapgen_v6_ocean.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mapgen_v6_ocean.jpg" class="internal" title="Enlarge"></a></div>A large ocean in 0.4.15</div></div></div>
+</td></tr>
+<tr>
+<td><b>Island</b>
+</td>
+<td><i>All blocks from the v6 biomes</i>, <a href="/Water" title="Water">Water</a>
+</td>
+<td>Islands occur many times in oceans. Islands usually raise out of the ground 3-10 blocks, but can get as large as 40-80 blocks tall.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Island_0.4.7.jpg" class="image"><img alt="" src="/images/thumb/d/de/Island_0.4.7.jpg/350px-Island_0.4.7.jpg" decoding="async" width="350" height="213" class="thumbimage" srcset="/images/thumb/d/de/Island_0.4.7.jpg/525px-Island_0.4.7.jpg 1.5x, /images/thumb/d/de/Island_0.4.7.jpg/700px-Island_0.4.7.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Island_0.4.7.jpg" class="internal" title="Enlarge"></a></div>A small beach-style island, as of 0.4.7</div></div></div>
+</td></tr>
+<tr>
+<td><b>Mountain</b>
+</td>
+<td><i>Blocks are similar to those of forests and plains</i>
+</td>
+<td>Mountains are the most treacherous to scale. Trees grow here naturally. It is quite easy to be killed in a mountain landscape if you don't pay attention to where you are going.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Mountain.png" class="image"><img alt="" src="/images/thumb/3/39/Mountain.png/350px-Mountain.png" decoding="async" width="350" height="260" class="thumbimage" srcset="/images/thumb/3/39/Mountain.png/525px-Mountain.png 1.5x, /images/thumb/3/39/Mountain.png/700px-Mountain.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mountain.png" class="internal" title="Enlarge"></a></div>Mountains, before 0.4.7</div></div></div>
+</td></tr>
+<tr>
+<td><b>Plateau</b>
+</td>
+<td><i>Almost all blocks from the v6 biomes</i>
+</td>
+<td>A giant structure that seems to have appeared from version 0.4 on, plateaus are very common in deserts but also in mountainous terrain. Plateaus can even float above ground and generate miniature biomes on top of it.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Plateau_0.4.7_alternative.png" class="image"><img alt="" src="/images/thumb/3/3b/Plateau_0.4.7_alternative.png/350px-Plateau_0.4.7_alternative.png" decoding="async" width="350" height="213" class="thumbimage" srcset="/images/thumb/3/3b/Plateau_0.4.7_alternative.png/525px-Plateau_0.4.7_alternative.png 1.5x, /images/thumb/3/3b/Plateau_0.4.7_alternative.png/700px-Plateau_0.4.7_alternative.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Plateau_0.4.7_alternative.png" class="internal" title="Enlarge"></a></div>A plateau, as of 0.4.7</div></div></div>
+</td></tr>
+<tr>
+<td><b>Water cave</b>
+</td>
+<td><a href="/Stone" title="Stone">Stone</a>, <a href="/Water" title="Water">Water</a>
+</td>
+<td>Water caves are caves that only occur at sea level, which turn into a huge underground river or lake. In extreme cases, these caves can lead thousands of blocks down and are extremely easily to get lost in.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Water_cave_0.4.7_alternative.png" class="image"><img alt="" src="/images/thumb/9/9a/Water_cave_0.4.7_alternative.png/350px-Water_cave_0.4.7_alternative.png" decoding="async" width="350" height="215" class="thumbimage" srcset="/images/thumb/9/9a/Water_cave_0.4.7_alternative.png/525px-Water_cave_0.4.7_alternative.png 1.5x, /images/thumb/9/9a/Water_cave_0.4.7_alternative.png/700px-Water_cave_0.4.7_alternative.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Water_cave_0.4.7_alternative.png" class="internal" title="Enlarge"></a></div>A water cave, as of 0.4.7</div></div></div>
+</td></tr>
+<tr>
+<td><b>Gravel area</b>
+</td>
+<td><a href="/Gravel" title="Gravel">Gravel</a>
+</td>
+<td>Very rarely, unusually large areas of <a href="/Gravel" title="Gravel">gravel</a> can appear on the surface. These areas consist of nothing but gravel.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Mapgen_v6_gravel_biome.png" class="image"><img alt="" src="/images/thumb/0/0e/Mapgen_v6_gravel_biome.png/350px-Mapgen_v6_gravel_biome.png" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/0/0e/Mapgen_v6_gravel_biome.png/525px-Mapgen_v6_gravel_biome.png 1.5x, /images/thumb/0/0e/Mapgen_v6_gravel_biome.png/700px-Mapgen_v6_gravel_biome.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mapgen_v6_gravel_biome.png" class="internal" title="Enlarge"></a></div>A gravel area in 0.4.15</div></div></div>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Sejarah">Sejarah</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/File:Putkiksia.png" class="image"><img alt="" src="/images/thumb/9/9c/Putkiksia.png/200px-Putkiksia.png" decoding="async" width="200" height="150" class="thumbimage" srcset="/images/thumb/9/9c/Putkiksia.png/300px-Putkiksia.png 1.5x, /images/thumb/9/9c/Putkiksia.png/400px-Putkiksia.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Putkiksia.png" class="internal" title="Enlarge"></a></div>Bioma pertama; bioma "Chaos" (kacau)</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/File:Mapgen_updated.png" class="image"><img alt="" src="/images/thumb/0/0c/Mapgen_updated.png/300px-Mapgen_updated.png" decoding="async" width="300" height="225" class="thumbimage" srcset="/images/thumb/0/0c/Mapgen_updated.png/450px-Mapgen_updated.png 1.5x, /images/thumb/0/0c/Mapgen_updated.png/600px-Mapgen_updated.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mapgen_updated.png" class="internal" title="Enlarge"></a></div>Bioma tanpa nama (0.0.1)</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/File:Plains.png" class="image"><img alt="" src="/images/thumb/5/52/Plains.png/300px-Plains.png" decoding="async" width="300" height="223" class="thumbimage" srcset="/images/thumb/5/52/Plains.png/450px-Plains.png 1.5x, /images/thumb/5/52/Plains.png/600px-Plains.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Plains.png" class="internal" title="Enlarge"></a></div>Bioma dataran, sebelum 0.4.3</div></div></div>
+<p>Sebelum Minetest punya nomor versi, bioma tidak dapat diartikan dan hanya terdiri dari 4 material rumput, batu, cahaya, dan "air" (seperti tampak di kanan). Saat 0.0.1 muncul itu membawa bioma sebenarnya ke tabel, tapi sebelum <a href="/index.php?title=Version_History/id&amp;action=edit&amp;redlink=1" class="new" title="Version History/id (page does not exist)">0.2.20110529 Pre-Alpha</a> pembuatan peta masih berantakan. Bioma dapat memotong satu sama lain, dan belum dapat dibedakan. Sejauh ini 0.4 memiliki pembuatan bioma paling stabil.
+</p><p>Untuk rincian lebih lanjut tentang evolusi pembuat peta lihat halaman <a href="/index.php?title=Map_Generator_Evolution/id&amp;action=edit&amp;redlink=1" class="new" title="Map Generator Evolution/id (page does not exist)">Evolusi Pembuat Peta</a>.
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20230709103858
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.611 seconds
+Real time usage: 2.313 seconds
+Preprocessor visited node count: 310/1000000
+Post‐expand include size: 1887/2097152 bytes
+Template argument size: 417/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 13/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 676/5000000 bytes
+Lua time usage: 0.130/7 seconds
+Lua virtual size: 5.54 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  689.531      1 Template:Languages
+100.00%  689.531      1 -total
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:1516-0!canonical and timestamp 20230709103856 and revision id 27659
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Biomes/id&amp;oldid=27659">http://wiki.minetest.net/index.php?title=Biomes/id&amp;oldid=27659</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/Category:Indonesian" title="Category:Indonesian">Indonesian</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Biomes%2Fid" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Biomes/id" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Biomes/id&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Biomes/id">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Biomes/id&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Biomes/id&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Biomes/id" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Biomes/id" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Biomes/id&amp;oldid=27659" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Biomes/id&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 29 January 2023, at 14:28.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.611","walltime":"2.313","ppvisitednodes":{"value":310,"limit":1000000},"postexpandincludesize":{"value":1887,"limit":2097152},"templateargumentsize":{"value":417,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":13,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":676,"limit":5000000},"timingprofile":["100.00%  689.531      1 Template:Languages","100.00%  689.531      1 -total"]},"scribunto":{"limitreport-timeusage":{"value":"0.130","limit":"7"},"limitreport-virtmemusage":{"value":5808128,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709103858","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":271});});</script></body></html>

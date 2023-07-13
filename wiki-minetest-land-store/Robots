@@ -1,0 +1,302 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Robots - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"7dfee0a66244554a6c74e816","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Robots","wgTitle":"Robots","wgCurRevisionId":24891,"wgRevisionId":24891,"wgArticleId":4949,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Robots","wgRelevantArticleId":4949,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready",
+"user.options":"loading","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Robots rootpage-Robots skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Robots</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>Robots are entitys in a game, that can act independently of the player.
+</p><p>There have been some robot-mods written:
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Current_mods"><span class="tocnumber">1</span> <span class="toctext">Current mods</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Builders_.26_Construction-machines"><span class="tocnumber">1.1</span> <span class="toctext">Builders &amp; Construction-machines</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Misc.2FVehicles"><span class="tocnumber">1.2</span> <span class="toctext">Misc/Vehicles</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Computing"><span class="tocnumber">1.3</span> <span class="toctext">Computing</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Robots"><span class="tocnumber">1.4</span> <span class="toctext">Robots</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Old_mods"><span class="tocnumber">2</span> <span class="toctext">Old mods</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Current_mods">Current mods</span></h2>
+<h3><span id="Builders_&amp;_Construction-machines"></span><span class="mw-headline" id="Builders_.26_Construction-machines">Builders &amp; Construction-machines</span></h3>
+<ul><li><a href="/Mods/basic_machines" title="Mods/basic machines"> basic_machines</a>: <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=12033">Forum</a> <a rel="nofollow" class="external text" href="https://github.com/ac-minetest/basic_machines/">github</a> by rnd - mod for automation, logic, electronics building. <a rel="nofollow" class="external text" href="https://github.com/ac-minetest/basic_machines/wiki">Wiki at github</a>.</li>
+<li><a href="/Mods/digtron" title="Mods/digtron">digtron</a>: <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=16295&amp;p=244751#p244751">Forum</a> <a rel="nofollow" class="external text" href="https://github.com/FaceDeer/digtron/">github</a> by FaceDeer - A modular tunnel boring/construction machine.</li>
+<li>TBM 0.4: <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=11&amp;t=4015">Forum</a> <a rel="nofollow" class="external text" href="https://dl.dropboxusercontent.com/u/65428713/tunnel_boring_machine%20(tbm).zip">dropbox</a> <a rel="nofollow" class="external text" href="https://dl.dropboxusercontent.com/u/419967/tbm.zip">dropbox2</a> by aldobr - Tunnel Boring Machine [0.4 beta]</li>
+<li>TBM 0.5: <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=11&amp;t=7065">Forum</a> <a rel="nofollow" class="external text" href="https://github.com/DanDuncombe/tbm_mod/archive/master.zip">github</a> by Dan Duncombe - TBM Reloaded! [0.5]</li>
+<li>TBM 0.6: <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=11&amp;t=7065&amp;start=50#p170834">Forum</a> <a rel="nofollow" class="external text" href="https://github.com/kpoppel/tbm_mod.git">github</a> by kpo - 2015-02-22</li></ul>
+<dl><dd></dd></dl>
+<ul><li>Towntest: <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?p=233784#p233784">Forum</a> <a rel="nofollow" class="external text" href="https://github.com/Sokomine/village_towntest/">github</a> by Sokomine - Grow a town in minetest.</li>
+<li>TownChest: <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=15704">Forum</a> <a rel="nofollow" class="external text" href="https://github.com/bell07/minetest-townchest">github</a> by bell07 - builds houses. Fork of towntest.</li>
+<li>see also Alive-AI</li></ul>
+<h3><span id="Misc/Vehicles"></span><span class="mw-headline" id="Misc.2FVehicles">Misc/Vehicles</span></h3>
+<ul><li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=8097">RC-Car</a> <a rel="nofollow" class="external text" href="https://github.com/kaeza/minetest-rc_car">github</a> by kaeza - toycar, drives back&amp;forth between two points</li>
+<li>Tractor: <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=16385">Forum</a> <a rel="nofollow" class="external text" href="https://github.com/mootpoint/tractor">github</a> by mootpoint - Cute little tractor for harvesting and planting wheat and other crops.</li></ul>
+<h3><span class="mw-headline" id="Computing">Computing</span></h3>
+<ul><li><a href="/Mods/basic_robot_csm" title="Mods/basic robot csm">basic_robot_csm</a> by rnd - Forum <a rel="nofollow" class="external text" href="https://github.com/ac-minetest/basic_robot_csm">github</a> - a lua-sandbox / chat-bot / calculator, with multi-tab editor.</li>
+<li>ComputerTest by Neuromancer - <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=8399&amp;p=236138">Forum</a> <a rel="nofollow" class="external text" href="https://github.com/Neuromancer56/ComputerTest/">github</a> - something similar to <a rel="nofollow" class="external text" href="http://www.computercraft.info">ComputerCraft</a> (2014-01)</li></ul>
+<ul><li>Digiterms [digiterm] by hdastwb - <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?pid=103857">Forum</a> <a rel="nofollow" class="external text" href="https://github.com/hdastwb/digiterm">github</a> - terminal nodes for interaction with digiline networks (2013-08)</li></ul>
+<dl><dd>Needs <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?id=5263">Digilines</a> and <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?id=628">mesecons_luacontroller</a></dd></dl>
+<ul><li>Functional Lua Computers [digicompute] by octacian - <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=16538">Forum</a> <a rel="nofollow" class="external text" href="https://github.com/octacian/digicompute">github</a> - attempt at functional computers and networking devices</li>
+<li>Lua Computers [datamine] by Byakuren <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?t=15886">Forum</a> <a rel="nofollow" class="external text" href="https://github.com/raymoo/datamine">github</a> - working computer</li></ul>
+<dl><dd>Currently, the computer runs a simple OS that only supports echoing the user's input back.</dd></dl>
+<ul><li>Computers by kaeza <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?id=3830">Forum</a> <a rel="nofollow" class="external text" href="https://github.com/kaeza/minetest-computer/">github</a> - Decorative Computers</li></ul>
+<dl><dd>See also mod <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?t=2041">HomeDecor</a></dd></dl>
+<ul><li>Realistics laptops: [computers] by Jimy Byerley <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?t=9567">Forum</a> <a rel="nofollow" class="external text" href="https://github.com/jimy-byerley/minetest-computers">github</a> - can be closed, opened, can type commands that are executed.</li></ul>
+<dl><dd>Uses graphics and parts from mod <a rel="nofollow" class="external text" href="http://forum.minetest.net/viewtopic.php?f=9&amp;t=9566&amp;p=145690">technology</a>.</dd></dl>
+<h3><span class="mw-headline" id="Robots">Robots</span></h3>
+<ul><li>Alive-AI: <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=16083&amp;p=243314#p243314">Forum</a> by UjEdwin - WIP, builds houses. See also <a href="/Mods:Mobs#Alive_AI_V1.5_.5Baliveai.5D" title="Mods:Mobs">mobs</a>.</li></ul>
+<ul><li>Maidroid: <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=14808">Forum</a> <a rel="nofollow" class="external text" href="https://github.com/tacigar/maidroid">github</a> by tig-m5. Inspired by littleMaidMob.</li></ul>
+<ul><li>Advanced NPC; <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=17918">Forum</a> <a rel="nofollow" class="external text" href="https://github.com/hkzorman/advanced_npc">github</a>+wiki by zorman2000 - NPCs to interact with (talk, trade...) that simulate having some kind of life (i.e. a daily schedule). Support for mg_villages mod.</li></ul>
+<ul><li><a rel="nofollow" class="external text" href="https://github.com/HybridDog/simple_robots">simple_robots</a> <a rel="nofollow" class="external text" href="https://github.com/HybridDog/simple_robots">github</a> by HybridDog, 2015-08 - working, but cumbersome userinterface. Uses a BASIC-like language</li>
+<li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=14195">MinersRobots</a>, <a rel="nofollow" class="external text" href="https://github.com/lovelas/miners_robots/">github</a> by lovelas, 2016-03 - Fork of simple_robots</li>
+<li><a href="/Mods/TurtleMiner" title="Mods/TurtleMiner">TurtleMiner</a>: <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=15689">Forum</a> <a rel="nofollow" class="external text" href="https://github.com/BiLachner/TurtleMiner">github</a> by BirgitLachner - WIP / <a href="/index.php?title=Mods/TurtleMiner-Tutor&amp;action=edit&amp;redlink=1" class="new" title="Mods/TurtleMiner-Tutor (page does not exist)">Tutor</a>. Aim is to teach kids how to program in Lua.
+<ul><li>Fork by ,,,</li>
+<li>Fork by <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=15689&amp;start=50#p241631">rubenwardy</a> <a rel="nofollow" class="external text" href="https://github.com/minetest-edu/turtleminer">github</a> - With <a rel="nofollow" class="external text" href="https://github.com/rubenwardy/editor">editor</a>.</li>
+<li><a rel="nofollow" class="external text" href="https://github.com/hajo4/turtleminer">my patches</a></li></ul></li></ul>
+<ul><li><b><a href="/Mods/basic_robot" title="Mods/basic robot">basic_robot</a></b>: <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=15850">Forum</a>, <a rel="nofollow" class="external text" href="https://github.com/ac-minetest/basic_robot/">github</a> by rnd/ac-minetest -  programmable robot for minetest, usable in multiplayer. Uses <a rel="nofollow" class="external text" href="http://www.lua.org/">Lua</a>.</li></ul>
+<dl><dd>Programs from the <a href="/index.php?title=Basic_robot/Tutorial&amp;action=edit&amp;redlink=1" class="new" title="Basic robot/Tutorial (page does not exist)">tutorial</a> at <a href="/ROBOTS-server" title="ROBOTS-server">ROBOTS-server</a>
+<dl><dd>More new programs for basic_robot by <a rel="nofollow" class="external text" href="https://github.com/silizium/basic_robot/tree/master/scripts/hanno">silizium</a> - 'new', as in 'using coroutines' (new since 2020-11)</dd></dl></dd></dl>
+<ul><li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=22465">sign-bot</a> - A robot controlled by signs - <a rel="nofollow" class="external text" href="https://github.com/joe7575/signs_bot">github</a></li>
+<li>visual-bots - "turtle" style bots, programmable in a visual way - <a rel="nofollow" class="external text" href="https://github.com/nyje/visual-bots/tree/1.0_Stable">github</a></li></ul>
+<ul><li>...</li></ul>
+<h2><span class="mw-headline" id="Old_mods">Old mods</span></h2>
+<p>Probably abandoned / downloads expired / not working:
+</p>
+<ul><li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=4732">forth turtle thing</a> by jin_xi, 2013-02-11 v0.2, download-link down, likely abondoned</li>
+<li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=11098">Turtles (robots)</a> <a rel="nofollow" class="external text" href="https://github.com/Ekdohibs/turtle">github</a> by Nore/Ekdohibs: WIP 2015-02 - uses pipeworks, digilines, Forth</li>
+<li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?t=2576">Workers</a> by LocaL_ALchemisT / LionsDen, 2013-08</li>
+<li><a rel="nofollow" class="external text" href="https://github.com/Pilcrow182/hoverbot">HoverBot</a> by Pilcrow182, 2015-04</li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<ul><li><a href="/index.php?title=Mods:Learning&amp;action=edit&amp;redlink=1" class="new" title="Mods:Learning (page does not exist)">Mods:Learning</a></li>
+<li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=11&amp;t=628">Mesecons</a></li>
+<li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=11&amp;t=2155">Pipeworks</a></li>
+<li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=11&amp;t=2538">Technic</a></li></ul>
+<ul><li><a href="/Mods:Vehicles" title="Mods:Vehicles">Vehicles</a>
+<ul><li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=11&amp;t=14726">Advanced Trains</a></li>
+<li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=18012">Hyperloop</a></li></ul></li></ul>
+<hr />
+<!-- 
+NewPP limit report
+Cached time: 20230709184319
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.074 seconds
+Real time usage: 0.085 seconds
+Preprocessor visited node count: 31/1000000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    0.000      1 -total
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:4949-0!canonical and timestamp 20230709184319 and revision id 24891
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Robots&amp;oldid=24891">http://wiki.minetest.net/index.php?title=Robots&amp;oldid=24891</a>"</div>
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Robots" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Robots" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Robots&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Robots">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Robots&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Robots&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Robots" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Robots" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Robots&amp;oldid=24891" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Robots&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 8 April 2021, at 21:44.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.074","walltime":"0.085","ppvisitednodes":{"value":31,"limit":1000000},"postexpandincludesize":{"value":0,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20230709184319","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":404});});</script></body></html>

@@ -1,0 +1,298 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Privileges/zh-hans - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"f781e5153de0218f8d6a89e8","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Privileges/zh-hans","wgTitle":"Privileges/zh-hans","wgCurRevisionId":27884,"wgRevisionId":27884,"wgArticleId":4937,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Chinese"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Privileges/zh-hans","wgRelevantArticleId":4937,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready",
+"user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Privileges_zh-hans rootpage-Privileges skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Privileges/zh-hans</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/Privileges" title="Privileges">Privileges</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> 语言:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><a href="/Privileges" title="Privileges">English</a>&#160;• <bdi lang="de"><a href="/Privileges/de" title="Privileges/de">Deutsch</a></bdi>&#160;• <bdi lang="fr"><a href="/Privileges/fr" title="Privileges/fr">français</a></bdi>&#160;• <bdi lang="it"><a href="/Privileges/it" title="Privileges/it">italiano</a></bdi>&#160;• <bdi lang="ja"><a href="/Privileges/ja" title="Privileges/ja">日本語</a></bdi><b>&#160;• <bdi lang="zh-hans"><a class="mw-selflink selflink">中文（简体）‎</a></bdi></b></td>
+</tr></tbody></table>
+<p>每个播放器都有一组特权，每个服务器的特权不同。粗略地说，一个人的特权决定了一个人可以做什么，而不能做什么。每个特权都有一个名称（其含义如下所述）。任何具有“特权”特权的玩家都可以授予和撤销其他玩家的特权。在具有默认配置的多人游戏服务器上，新玩家会以称为“交互”和“喊叫”的特权开始。要查看自己的特权，可以发出<a href="/Server_commands" title="Server commands">server command</a>“ /privs”。
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#.E5.86.85.E7.BD.AE.E7.89.B9.E6.9D.83"><span class="tocnumber">1</span> <span class="toctext">内置特权</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#.E4.B8.8D.E5.8F.AF.E6.92.A4.E9.94.80.E7.9A.84.E7.89.B9.E6.9D.83"><span class="tocnumber">2</span> <span class="toctext">不可撤销的特权</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#.E7.89.B9.E6.9D.83_.E5.92.8C_mods_games"><span class="tocnumber">3</span> <span class="toctext">特权 和 mods  games</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Minetest_Game"><span class="tocnumber">3.1</span> <span class="toctext">Minetest Game</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Mods"><span class="tocnumber">3.2</span> <span class="toctext">Mods</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#.E6.9C.8D.E5.8A.A1.E5.99.A8.E9.85.8D.E7.BD.AE"><span class="tocnumber">4</span> <span class="toctext">服务器配置</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#.E5.8F.A6.E8.AF.B7.E5.8F.82.E9.98.85"><span class="tocnumber">5</span> <span class="toctext">另请参阅</span></a></li>
+</ul>
+</div>
+
+<h2><span id="内置特权"></span><span class="mw-headline" id=".E5.86.85.E7.BD.AE.E7.89.B9.E6.9D.83">内置特权</span></h2>
+<p>从Minetest 5.0.0开始，Minetest具有以下特权：
+</p>
+<ul><li>与游戏相关：
+<ul><li><b>interact</b>-可以<a href="/Building" title="Building">Bauen</a>, <a href="/Mining" title="Mining">Abbauen</a> or <a href="/Using" title="Using">Benutzen</a> von Blöcken进行交互</li>
+<li><b>give</b>-可以使用 /give 和 /giveme 命令</li>
+<li><b>teleport</b>-可以使用 <b>/teleport</b> 命令将自己传送到某些<a href="/Coordinates" title="Coordinates">coordinates</a>或另一个<a href="/Player" title="Player">player</a></li>
+<li><b>bring</b>-与<i><b>teleport</b></i>结合使用，可以使用 /teleport 命令将任何玩家传送到特定坐标或另一个玩家</li>
+<li><b>fast</b>-允许玩家快速激活<a href="/Controls#Movement_modes" title="Controls">Schnell-Bewegungs-Modus</a></li>
+<li><b>fly</b>-允许玩家激活飞行模式</li>
+<li><b>noclip</b>-允许玩家激活“ noclip”模式，这使他们可以飞过墙壁</li></ul></li>
+<li>与聊天相关：
+<ul><li><b>shout</b>-可以与其他人聊天<a href="/Chat" title="Chat">chatten</a></li></ul></li>
+<li>与世界操作有关的：
+<ul><li><b>settime</b>-可以使用 /time 设置一天中的时间<a href="/Time_of_day" title="Time of day">Tageszeit</a></li></ul></li>
+<li>适度相关：
+<ul><li><b>privs</b>-可以使用 /grant 和 /revoke 设置玩家的任何特权 (→<a href="/Server_commands#Privilege_manipulation" title="Server commands">Privilegien ändern</a>)</li>
+<li><b>basic_privs</b>-可以使用 /grant 和 /revoke 设置“交互”和“禁止”权限</li>
+<li><b>kick</b>-可以用 /kick 踢球员</li>
+<li><b>ban</b>-可以使用 /ban 和 /unban 禁止/取消禁止IP和名称</li>
+<li><b>rollback</b>-可以使用<a href="/index.php?title=Rollback&amp;action=edit&amp;redlink=1" class="new" title="Rollback (page does not exist)">rollback</a>功能</li>
+<li><b>protection_bypass</b>-可以绕过块的保护（例如，可以打开所有人的<a href="/Locked_Chest" title="Locked Chest">locked chests</a> 或 <a href="/Steel_Door" class="mw-redirect" title="Steel Door">steel doors</a>）</li></ul></li>
+<li>行政相关：
+<ul><li><b>server</b>-可以进行服务器维护，例如 /shutdown ， /clearobjects ， /set ，...</li>
+<li><b>debug</b>-可以访问高级<a href="/Debug" title="Debug">debug</a>功能和信息，例如调试屏幕（<kbd> F5 </kbd>）中的wirewrame</li></ul></li></ul>
+<h2><span id="不可撤销的特权"></span><span class="mw-headline" id=".E4.B8.8D.E5.8F.AF.E6.92.A4.E9.94.80.E7.9A.84.E7.89.B9.E6.9D.83">不可撤销的特权</span></h2>
+<p>在某些情况下，玩家的特权可能无法撤销。然后，无法使用 /revoke 撤销这些特权。
+</p><p>在多人游戏<a href="/Server" title="Server">server</a>中，名称等于<a href="/Minetest.conf" title="Minetest.conf">minetest.conf</a>设置“名称”的玩家会自动拥有所有特权，而所有这些特权都是不可撤销的。对于启动服务器（而非专用服务器）的玩家，情况也是如此。
+在<a href="/index.php?title=Singleplayer&amp;action=edit&amp;redlink=1" class="new" title="Singleplayer (page does not exist)">singleplayer</a>中，您以<b>interact</b>，<b>shout</b>，<b>privs</b>和<b>basic_privs</b>开始。这些特权是不可撤销的。
+</p>
+<h2><span id="特权_和_mods_games"></span><span class="mw-headline" id=".E7.89.B9.E6.9D.83_.E5.92.8C_mods_games">特权 和 mods  <a href="/Games" title="Games">games</a></span></h2>
+<h3><span class="mw-headline" id="Minetest_Game"><a href="/Games/Minetest_Game" title="Games/Minetest Game">Minetest Game</a></span></h3>
+<ul><li><b>home</b>-可以使用 /home 和 /sethome 。</li></ul>
+<h3><span class="mw-headline" id="Mods">Mods</span></h3>
+<p><a href="/Mods" title="Mods">Mods</a>可能会在服务器上提供其他特权。发出服务器命令 /help privs ，以接收服务器上所有可能的特权的完整列表（和简短描述）。
+</p>
+<h2><span id="服务器配置"></span><span class="mw-headline" id=".E6.9C.8D.E5.8A.A1.E5.99.A8.E9.85.8D.E7.BD.AE">服务器配置</span></h2>
+<p>使用服务器的配置文件，可以操纵许多与权限有关的东西。
+</p><p>配置文件中有一个选项可以为新播放器设置默认权限。 default_privs = interact, shout
+</p><p>在配置的“名称”字段中具有名称的播放器拥有所有特权。
+特权存储在auth.txt文件中。该文件中每一行的格式是 name:hashed_password:privs 一个真实的示例： celeron55:CcCUjNUDVJxmXmTHj+7WKHvA9Ds:interact,shout
+</p><p>该auth.txt文件是在关闭时定期写入的，因此仅当服务器未运行时才应对其进行编辑。
+</p>
+<h2><span id="另请参阅"></span><span class="mw-headline" id=".E5.8F.A6.E8.AF.B7.E5.8F.82.E9.98.85">另请参阅</span></h2>
+<ul><li><a href="/Server" title="Server">Server</a></li>
+<li><a href="/Server_commands" title="Server commands">Server commands</a></li></ul>
+<!-- 
+NewPP limit report
+Cached time: 20230709184131
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.179 seconds
+Real time usage: 0.365 seconds
+Preprocessor visited node count: 102/1000000
+Post‐expand include size: 1985/2097152 bytes
+Template argument size: 451/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 13/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.110/7 seconds
+Lua virtual size: 5.57 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  279.429      1 Template:Languages
+100.00%  279.429      1 -total
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:4937-0!canonical and timestamp 20230709184130 and revision id 27884
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Privileges/zh-hans&amp;oldid=27884">http://wiki.minetest.net/index.php?title=Privileges/zh-hans&amp;oldid=27884</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/Category:Chinese" title="Category:Chinese">Chinese</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Privileges%2Fzh-hans" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Privileges/zh-hans" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Privileges/zh-hans&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Privileges/zh-hans">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Privileges/zh-hans&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Privileges/zh-hans&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Privileges/zh-hans" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Privileges/zh-hans" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Privileges/zh-hans&amp;oldid=27884" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Privileges/zh-hans&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 15 June 2023, at 14:02.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.179","walltime":"0.365","ppvisitednodes":{"value":102,"limit":1000000},"postexpandincludesize":{"value":1985,"limit":2097152},"templateargumentsize":{"value":451,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":13,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  279.429      1 Template:Languages","100.00%  279.429      1 -total"]},"scribunto":{"limitreport-timeusage":{"value":"0.110","limit":"7"},"limitreport-virtmemusage":{"value":5840896,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709184131","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":807});});</script></body></html>

@@ -1,0 +1,333 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Server/TechWelt/Mese-Welt - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"6f625335403aa002f101e492","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Server/TechWelt/Mese-Welt","wgTitle":"Server/TechWelt/Mese-Welt","wgCurRevisionId":23758,"wgRevisionId":23758,"wgArticleId":3792,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Server"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Server/TechWelt/Mese-Welt","wgRelevantArticleId":3792,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready",
+"noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Server_TechWelt_Mese-Welt rootpage-Server skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Server/TechWelt/Mese-Welt</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/Server" title="Server">Server</a>&lrm; | <a href="/Server/TechWelt" title="Server/TechWelt">TechWelt</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>This is part of TechWelt, a server showing technical mods
+for educational purposes.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Mese-Welt"><span class="tocnumber">1</span> <span class="toctext">Mese-Welt</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Teleport-Arrival"><span class="tocnumber">1.1</span> <span class="toctext">Teleport-Arrival</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Infopoint"><span class="tocnumber">1.2</span> <span class="toctext">Infopoint</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Mesecons-basics"><span class="tocnumber">1.3</span> <span class="toctext">Mesecons-basics</span></a>
+<ul>
+<li class="toclevel-3 tocsection-5"><a href="#A01_-_Lightbox_.26_Sensor"><span class="tocnumber">1.3.1</span> <span class="toctext">A01 - Lightbox &amp; Sensor</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#A02_-_mesetorch_and_wires"><span class="tocnumber">1.3.2</span> <span class="toctext">A02 - mesetorch and wires</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#A03_-_mesecons-devices"><span class="tocnumber">1.3.3</span> <span class="toctext">A03 - mesecons-devices</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="#A04_-_mesecons-switch:_lever"><span class="tocnumber">1.3.4</span> <span class="toctext">A04 - mesecons-switch: lever</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="#A05_-_Rezeptor-Types"><span class="tocnumber">1.3.5</span> <span class="toctext">A05 - Rezeptor-Types</span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="#A06_-_Effectors"><span class="tocnumber">1.3.6</span> <span class="toctext">A06 - Effectors</span></a></li>
+<li class="toclevel-3 tocsection-11"><a href="#A07_-_Extras"><span class="tocnumber">1.3.7</span> <span class="toctext">A07 - Extras</span></a></li>
+<li class="toclevel-3 tocsection-12"><a href="#A08_-_Mese-Mine"><span class="tocnumber">1.3.8</span> <span class="toctext">A08 - Mese-Mine</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-13"><a href="#Mesecons-Advanced"><span class="tocnumber">1.4</span> <span class="toctext">Mesecons-Advanced</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Mese-Welt">Mese-Welt</span></h2>
+<p>A nice parcour with stations for introducing the various parts of mesecons.
+</p>
+<h3><span class="mw-headline" id="Teleport-Arrival">Teleport-Arrival</span></h3>
+<p>Location: 1755,45,699
+</p><p>Arrival-area atop a tall hill, with nice panorama.<br />
+The area has a shaft for jumping down.
+</p>
+<h3><span class="mw-headline" id="Infopoint">Infopoint</span></h3>
+<p>Location: 1750,15,745
+</p><p>Info-signs: here, the path splits into
+</p>
+<ul><li>(A) Introduction to mesecons-basics</li>
+<li>(B) Advanced topics</li></ul>
+<h3><span class="mw-headline" id="Mesecons-basics">Mesecons-basics</span></h3>
+<h4><span id="A01_-_Lightbox_&amp;_Sensor"></span><span class="mw-headline" id="A01_-_Lightbox_.26_Sensor">A01 - Lightbox &amp; Sensor</span></h4>
+<p>Location: 1742,25,814
+</p><p>A mesecons_wire connects a mesecons_detector with a lightbox (from xdecor).<br />
+If a player comes within range 6 of the sensor, it turns from red to green,
+and powers the wire.<br />
+When powered, the wire turns into a lighter shade of yellow,<br />
+and attached devices (such as the lightbox) turn on.
+</p>
+<h4><span class="mw-headline" id="A02_-_mesetorch_and_wires">A02 - mesetorch and wires</span></h4>
+<p>Location: 1760,24,835
+</p>
+<ul><li>The mesecons_torch is a (weak) source of power</li>
+<li>Examples how to build and connect mesecons_wires</li></ul>
+<h4><span class="mw-headline" id="A03_-_mesecons-devices">A03 - mesecons-devices</span></h4>
+<p>Location: 1795,28,839
+</p><p>Some simple lightsources, powered by mesecons:
+</p>
+<ul><li>iron_lightbox (from xdecor)</li>
+<li>lightstone_red</li></ul>
+<p>Examples how to connect them to a mesetorch directly, and via a wire.
+</p>
+<h4><span class="mw-headline" id="A04_-_mesecons-switch:_lever">A04 - mesecons-switch: lever</span></h4>
+<p>Location: 1795,24,890
+</p><p>How to connect mesecons-levers to lightstones.
+</p>
+<h4><span class="mw-headline" id="A05_-_Rezeptor-Types">A05 - Rezeptor-Types</span></h4>
+<p>Location: 1774,21,951 .. 1734,23,972
+</p>
+<dl><dt>!! The players inventory gets "cleared" = destroyed at several points at this station&#160;!!</dt></dl>
+<ul><li>Mese-torch, Power-Plant, Blinky-Plant.</li>
+<li>Lever, Switch</li>
+<li>node-detector, object-detector</li>
+<li>Pressure-plate, button</li>
+<li>Solar-panel, hydroturbine</li>
+<li>Meseblock</li></ul>
+<h4><span class="mw-headline" id="A06_-_Effectors">A06 - Effectors</span></h4>
+<p>Location: 1712,24,972
+</p>
+<ul><li>normal piston, sticky piston</li>
+<li>sticky block</li>
+<li>movestone, vertical movestone</li>
+<li>noteblock</li>
+<li>Removestone, Ghoststone</li>
+<li>mesecons-lamp, lightstones</li></ul>
+<p>Lightshow: 1658,26,937
+</p>
+<h4><span class="mw-headline" id="A07_-_Extras">A07 - Extras</span></h4>
+<p>Location: 1663,26,927
+</p>
+<ul><li>vertical mesecons-wire</li></ul>
+<p>Examples for usage
+</p>
+<h4><span class="mw-headline" id="A08_-_Mese-Mine">A08 - Mese-Mine</span></h4>
+<p>Location: 1755,25,876
+</p><p>Mese-Mine: 1739,-72,887
+</p><p>End of part A: 1676,10,853
+</p><p>Mesecons-center: 1658,21,762
+</p><p>Teleporter: 1652,18,734
+</p>
+<dl><dd>Missing: torch-as-inverter,  delayer, logic, lua-controller, fpga</dd></dl>
+<p>...
+</p>
+<h3><span class="mw-headline" id="Mesecons-Advanced">Mesecons-Advanced</span></h3>
+<p>...
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20230709184830
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.043 seconds
+Real time usage: 0.051 seconds
+Preprocessor visited node count: 43/1000000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    0.000      1 -total
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:3792-0!canonical and timestamp 20230709184830 and revision id 23758
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Server/TechWelt/Mese-Welt&amp;oldid=23758">http://wiki.minetest.net/index.php?title=Server/TechWelt/Mese-Welt&amp;oldid=23758</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/Category:Server" title="Category:Server">Server</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Server%2FTechWelt%2FMese-Welt" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Server/TechWelt/Mese-Welt" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Server/TechWelt/Mese-Welt&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Server/TechWelt/Mese-Welt">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Server/TechWelt/Mese-Welt&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Server/TechWelt/Mese-Welt&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Server/TechWelt/Mese-Welt" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Server/TechWelt/Mese-Welt" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Server/TechWelt/Mese-Welt&amp;oldid=23758" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Server/TechWelt/Mese-Welt&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 7 January 2020, at 10:33.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.043","walltime":"0.051","ppvisitednodes":{"value":43,"limit":1000000},"postexpandincludesize":{"value":0,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20230709184830","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":362});});</script></body></html>

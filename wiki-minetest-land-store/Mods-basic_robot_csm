@@ -1,0 +1,648 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Mods/basic_robot_csm - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"57f8afaa336baaa13d579a61","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Mods/basic_robot_csm","wgTitle":"Mods/basic robot csm","wgCurRevisionId":26279,"wgRevisionId":26279,"wgArticleId":3670,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Mods"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Mods/basic_robot_csm","wgRelevantArticleId":3670,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready",
+"user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Mods_basic_robot_csm rootpage-Mods skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Mods/basic_robot_csm</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/Mods" title="Mods">Mods</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p><br />
+</p>
+<table class="wikitable" width="200px" style="float:right;text-align:left;margin:0 0 0.5em 1em;padding:5px;font-size:90%;position:relative;clear:right;overflow:auto;z-index:1">
+
+<tbody><tr>
+<th colspan="2" style="font-size:110%;text-align:center">basic_robot_csm
+</th></tr>
+<tr>
+<th colspan="2"><div class="center"><a href="/File:Blank.png" class="image"><img alt="Blank.png" src="/images/d/d2/Blank.png" decoding="async" width="150" height="150" /></a></div>
+</th></tr>
+<tr>
+<th colspan="2" align="center">A <a href="/Mods" title="Mods">mod</a>
+</th></tr>
+<tr>
+<td><b>Mod Type</b>
+</td>
+<td>Robots
+</td></tr>
+<tr>
+<td><b>Author</b>
+</td>
+<td>rnd
+</td></tr>
+<tr>
+<td><b>Latest version</b>
+</td>
+<td><a rel="nofollow" class="external text" href="https://github.com/ac-minetest/basic_robot_csm/archive/master.zip">2017-08-19</a>
+</td></tr>
+<tr>
+<td><b>Forum topic</b>
+</td>
+<td><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=53&amp;t=18415">Forum</a>
+</td></tr>
+<tr>
+<td><b>Source code</b>
+</td>
+<td><a rel="nofollow" class="external text" href="https://github.com/ac-minetest/basic_robot_csm/">GitHub</a>
+</td></tr>
+<tr>
+<td><b>ContentDB</b>
+</td>
+<td><i>N/A</i>
+</td></tr>
+<tr>
+<td><b>Technical name</b>
+</td>
+<td>basic_robot_csm
+</td></tr></tbody></table>
+<p>This is the user-documentation about the mod <b>basic_robot_csm</b> by rnd - <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=53&amp;t=18415">Forum</a> <a rel="nofollow" class="external text" href="https://github.com/ac-minetest/basic_robot_csm">github</a>,<br />
+a lua-sandbox / chat-bot / calculator.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Intro"><span class="tocnumber">1</span> <span class="toctext">Intro</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#How_to_get"><span class="tocnumber">1.1</span> <span class="toctext">How to get</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#How_to_use"><span class="tocnumber">1.2</span> <span class="toctext">How to use</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Commands"><span class="tocnumber">2</span> <span class="toctext">Commands</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#misc"><span class="tocnumber">2.1</span> <span class="toctext">misc</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#self"><span class="tocnumber">2.2</span> <span class="toctext">self</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#code"><span class="tocnumber">2.3</span> <span class="toctext">code</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#os"><span class="tocnumber">2.4</span> <span class="toctext">os</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#table"><span class="tocnumber">2.5</span> <span class="toctext">table</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#string"><span class="tocnumber">2.6</span> <span class="toctext">string</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#math"><span class="tocnumber">2.7</span> <span class="toctext">math</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Example_programs"><span class="tocnumber">3</span> <span class="toctext">Example programs</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#HelloWorld"><span class="tocnumber">3.1</span> <span class="toctext">HelloWorld</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Execute_command"><span class="tocnumber">3.2</span> <span class="toctext">Execute command</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Report_time"><span class="tocnumber">3.3</span> <span class="toctext">Report time</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Report_position"><span class="tocnumber">3.4</span> <span class="toctext">Report position</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Play_sound"><span class="tocnumber">3.5</span> <span class="toctext">Play sound</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Screenshot"><span class="tocnumber">3.6</span> <span class="toctext">Screenshot</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#MiniMap"><span class="tocnumber">3.7</span> <span class="toctext">MiniMap</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#FormSpec"><span class="tocnumber">3.8</span> <span class="toctext">FormSpec</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#Calculations"><span class="tocnumber">3.9</span> <span class="toctext">Calculations</span></a>
+<ul>
+<li class="toclevel-3 tocsection-22"><a href="#Math_2"><span class="tocnumber">3.9.1</span> <span class="toctext">Math</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-23"><a href="#Chat-listener"><span class="tocnumber">3.10</span> <span class="toctext">Chat-listener</span></a></li>
+<li class="toclevel-2 tocsection-24"><a href="#Chat-bell"><span class="tocnumber">3.11</span> <span class="toctext">Chat-bell</span></a>
+<ul>
+<li class="toclevel-3 tocsection-25"><a href="#Chat-bell2"><span class="tocnumber">3.11.1</span> <span class="toctext">Chat-bell2</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-26"><a href="#Quiz-Solver"><span class="tocnumber">3.12</span> <span class="toctext">Quiz-Solver</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-27"><a href="#Questions.2FIdeas.2FSuggestions"><span class="tocnumber">4</span> <span class="toctext">Questions/Ideas/Suggestions</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Intro">Intro</span></h2>
+<p>basic_robot_csm is a lightweight robot mod running on the minetest-client.
+</p><p>Users can write programs for this bot in <a rel="nofollow" class="external text" href="http://www.lua.org/">Lua</a>.
+</p><p>For safety, these programs are executed inside a sandbox that only allows certain lua-commands.
+</p><p>Input &amp; Output happens mainly via chat, but it is also possible to play sounds, <br />
+and to process formspecs.
+<br />
+There is no robot-entity that moves independent of the player like in the mod <a href="/Mods/basic_robot" title="Mods/basic robot">basic_robot</a>.
+</p>
+<h3><span class="mw-headline" id="How_to_get">How to get</span></h3>
+<ul><li>install a minetest-version 0.4.16dev, 0.5.0 or later</li>
+<li>download mod from github</li>
+<li>unpack in "minetest DIR"/clientmods/</li>
+<li>enable client mods in advanced settings menu or in minetest.conf</li>
+<li>inside /clientmods/mods.conf there should be a line:</li></ul>
+<dl><dd>load_mod_basic_robot_csm = true</dd></dl>
+<ul><li>while playing say ".bot"</li></ul>
+<h3><span class="mw-headline" id="How_to_use">How to use</span></h3>
+<p>The chat-command '.bot' will present an editor-form with tabs and some buttons:
+</p>
+<ul><li>Tabs 1-8 for source-code.</li>
+<li>Button "<b>Start</b>" starts executing the code of the program in the current tab.</li>
+<li>Button "<b>Stop</b>" stops the program.</li>
+<li>Button "<b>Help</b>" shows some helptext.</li>
+<li>Button "<b>Save</b>" saves the program of the current tab (using mod-storage).</li></ul>
+<p>Select a tab, 
+enter a program (or use cut&amp;paste)
+</p>
+<dl><dd>e.g. say("Hi")</dd></dl>
+<p>press SAVE-button,
+press START-button.
+</p><p>The first line of text is used as the tab-title.
+</p>
+<h2><span class="mw-headline" id="Commands">Commands</span></h2>
+<p>See commands in init.lua, function getSandboxEnv().<br />
+See also
+</p>
+<ul><li><a rel="nofollow" class="external text" href="https://github.com/minetest/minetest/blob/master/doc/client_lua_api.md">client_lua_api</a></li>
+<li><a rel="nofollow" class="external text" href="https://rubenwardy.com/minetest_modding_book/lua_api.html">Lua Modding API Reference</a></li></ul>
+<p>Lua-docs:
+</p>
+<ul><li><a rel="nofollow" class="external free" href="https://www.lua.org/docs.html">https://www.lua.org/docs.html</a></li>
+<li><a rel="nofollow" class="external free" href="http://lua-users.org/wiki/">http://lua-users.org/wiki/</a></li></ul>
+<h3><span class="mw-headline" id="misc">misc</span></h3>
+<ul><li>robot_version</li>
+<li>say</li>
+<li>colorize</li>
+<li>tonumber</li>
+<li>pairs</li>
+<li>ipairs</li>
+<li>error</li>
+<li>type</li>
+<li>rom</li>
+<li>minetest</li></ul>
+<dl><dd>see <a rel="nofollow" class="external text" href="https://rubenwardy.com/minetest_modding_book/lua_api.html#helper-functions">Lua Modding API Reference</a>, 'Helper functions' and below</dd></dl>
+<h3><span class="mw-headline" id="self">self</span></h3>
+<ul><li>self.name</li>
+<li>self.pos</li>
+<li>self.viewdir</li>
+<li>self.listen_msg</li>
+<li>self.sent_msg</li>
+<li>self.read_form</li>
+<li>self.sound</li>
+<li>self.sound_stop</li>
+<li>self.remove</li></ul>
+<h3><span class="mw-headline" id="code">code</span></h3>
+<ul><li>code.set</li>
+<li>code.run</li></ul>
+<h3><span class="mw-headline" id="os">os</span></h3>
+<ul><li>os.date</li>
+<li>os.clock</li>
+<li>os.time</li>
+<li>os.difftime</li></ul>
+<h3><span class="mw-headline" id="table">table</span></h3>
+<ul><li>table.maxn</li>
+<li>table.concat</li>
+<li>table.insert</li>
+<li>table.remove</li>
+<li>table.sort</li></ul>
+<h3><span class="mw-headline" id="string">string</span></h3>
+<ul><li>string.byte</li>
+<li>string.char</li>
+<li>string.len</li></ul>
+<ul><li>string.find</li>
+<li>string.gmatch</li></ul>
+<ul><li>string.format</li>
+<li>string.lower</li>
+<li>string.upper</li></ul>
+<ul><li>string.rep</li>
+<li>string.reverse</li></ul>
+<ul><li>string.sub</li>
+<li>string.gsub</li></ul>
+<h3><span class="mw-headline" id="math">math</span></h3>
+<ul><li>math.abs</li>
+<li>math.min</li>
+<li>math.max</li>
+<li>math.ceil</li>
+<li>math.floor</li></ul>
+<ul><li>math.huge</li>
+<li>math.modf</li>
+<li>math.fmod</li></ul>
+<ul><li>math.random</li></ul>
+<ul><li>math.exp</li>
+<li>math.frexp</li>
+<li>math.ldexp</li></ul>
+<ul><li>math.log</li>
+<li>math.log10</li></ul>
+<ul><li>math.pow</li>
+<li>math.sqrt</li></ul>
+<ul><li>math.pi</li>
+<li>math.deg</li>
+<li>math.rad</li></ul>
+<ul><li>math.acos</li>
+<li>math.cos</li>
+<li>math.cosh</li></ul>
+<ul><li>math.asin</li>
+<li>math.sin</li>
+<li>math.sinh</li></ul>
+<ul><li>math.tan</li>
+<li>math.tanh</li>
+<li>math.atan</li>
+<li>math.atan2</li></ul>
+<p>...
+</p>
+<h2><span class="mw-headline" id="Example_programs">Example programs</span></h2>
+<p>When a program is started,
+it is executed repeatedly (about once per second)
+until stopped.<br />
+To stop it, press the STOP-button,
+or use the command
+</p>
+<dl><dd>self.remove()</dd></dl>
+<p>in the program.
+</p>
+<h3><span class="mw-headline" id="HelloWorld">HelloWorld</span></h3>
+<pre>--HW
+say("Hi")
+self.remove()
+</pre>
+<h3><span class="mw-headline" id="Execute_command">Execute command</span></h3>
+<p>The second parameter for say() specifies that the text goes 'to server'.
+</p>
+<pre>--Cmd
+say("/time",true)
+say("/who",true)
+self.remove()
+</pre>
+<h3><span class="mw-headline" id="Report_time">Report time</span></h3>
+<pre>--TimeDate
+td = os.date("%Y-%m-%d  %H:%M:%S")
+say( "Time&amp;Date: "..td )
+-- this will repeat
+</pre>
+<h3><span class="mw-headline" id="Report_position">Report position</span></h3>
+<p>Show the position of the player:
+</p>
+<pre>--Pos.
+p = self.pos()  -- returns a table, with elements x, y, and z
+say("Position: x=" .. p.x .. ", y=" ..  p.y .. ", z=" ..  p.z)
+-- this will repeat
+</pre>
+<h3><span class="mw-headline" id="Play_sound">Play sound</span></h3>
+<p>This can only play soundfiles that are already on the server.
+</p>
+<pre>--Sound
+self.sound("default_break_glass")
+self.remove()
+</pre>
+<h3><span class="mw-headline" id="Screenshot">Screenshot</span></h3>
+<pre>-- sc
+minetest.take_screenshot()
+self.remove()
+</pre>
+<h3><span class="mw-headline" id="MiniMap">MiniMap</span></h3>
+<p>Switch the minimap on / off:
+</p>
+<pre>--mm
+local mmm=minetest.ui.minimap:get_mode()
+say('minimap-mode='..mmm)  -- 0:off, 1..6
+
+if mmm==0 then
+  minetest.ui.minimap:show()
+else
+  minetest.ui.minimap:hide()
+end
+self.remove()
+</pre>
+<h3><span class="mw-headline" id="FormSpec">FormSpec</span></h3>
+<pre>-- todo
+</pre>
+<h3><span class="mw-headline" id="Calculations">Calculations</span></h3>
+<pre>--Calc
+if not i then i=1 end
+x=17/i
+say(i.." --&gt; "..x)
+i=i+1
+if i&gt;20 then say("Stop."); self.remove() end
+</pre>
+<h4><span class="mw-headline" id="Math_2">Math</span></h4>
+<pre>--Math
+if not i then
+  i=0
+  say("pi="..math.pi)
+end
+i=i+1
+x=math.random(1,6)
+say(x)
+if i&gt;=5 then say("Stop."); self.remove() end
+-- Todo: statistics
+</pre>
+<h3><span class="mw-headline" id="Chat-listener">Chat-listener</span></h3>
+<p>Check the chat-messages for keywords,
+and answer with a message.
+</p>
+<pre>--Chat
+msg = self.listen_msg();
+if msg then
+  p=string.find(msg,"help")
+  if p then say("What is the problem&#160;?") end
+  --
+  p=string.find(msg,"wiki")
+  www="<a rel="nofollow" class="external free" href="http://wiki.minetest.net/ROBOTS_SKYBLOCK">http://wiki.minetest.net/ROBOTS_SKYBLOCK</a>"
+  if p then say("see the wiki at "..www) end
+  --
+end
+</pre>
+<dl><dd>Note: this is an example, not ready for regular use, because it will find</dd>
+<dd>those keywords in a lot of places, where triggering is unintended.</dd></dl>
+<p><br />
+</p>
+<h3><span class="mw-headline" id="Chat-bell">Chat-bell</span></h3>
+<p>Plays a sound when your name appears in the text on chat.
+</p>
+<pre>--chatbell
+if not myname then 
+  myname="hajo"
+  bell  ="default_break_glass" -- can only play soundfiles from the server
+end
+
+msg = self.listen_msg();
+if msg then
+  p1=string.find(msg,"&gt;")
+  if p1 then
+    p2=string.find(msg,myname) or 0
+    if p2&gt;p1 then  -- don't trigger on your own chat
+      self.sound(bell) 
+    end
+  end
+end
+</pre>
+<h4><span class="mw-headline" id="Chat-bell2">Chat-bell2</span></h4>
+<p>Plays a sound when your name appears in the text on chat,
+but ignore some players.
+</p>
+<pre>--todo
+--chatbell2
+if not bell then 
+  bell1 = "note_a" -- can only play soundfiles from the server
+  bell2 = "fire_flint_and_steel"
+  bell3 = "default_break_glass"
+  myname= self.name()
+  ignorelist="x y z"
+end
+
+msg = self.listen_msg();
+if msg then
+  p=string.find(msg,"&gt;")
+  if p then
+    who=string.sub(msg,2,p-1)
+    msg=string.sub(msg,p+1)
+    bell=""
+    p=string.find(msg,myname) or 0
+    p=string.find(ignorelist,who) or 0
+    say(who.."&gt;"..p)
+--todo...
+  end
+end
+</pre>
+<h3><span class="mw-headline" id="Quiz-Solver">Quiz-Solver</span></h3>
+<p>At the tutorial on the server <a href="/ROBOTS_SKYBLOCK" class="mw-redirect" title="ROBOTS SKYBLOCK">ROBOTS_SKYBLOCK</a>,
+the robot #18 runs a math-quiz,<br />
+asking questions like "WHAT IS 12*13", via chat.<br />
+The following program watches for these questions,
+calculates the result, and answers via chat.
+</p>
+<pre>-- Quiz-solver - 2017-09-03
+-- for tutorial-robot #18
+if not q then q=0 end
+
+msg = self.listen_msg();
+if msg then
+  p=string.find(msg,"WHAT IS")
+  if p then  -- get the numbers of the math-question:
+    q1=string.sub(msg,p+8,p+9)
+    q2=string.sub(msg,p+11,p+12)
+  --say(p.."&gt;"..q1.."&gt;&gt;"..q2)
+    n1=tonumber(q1)
+    n2=tonumber(q2)
+    say( n1*n2, true )
+    q=q+1
+    if q&gt;10 then say("Stop."); self.remove() end
+  end
+end
+</pre>
+<h2><span id="Questions/Ideas/Suggestions"></span><span class="mw-headline" id="Questions.2FIdeas.2FSuggestions">Questions/Ideas/Suggestions</span></h2>
+<ul><li>move SAVE-button to top</li>
+<li>strip "--" from tab-text</li></ul>
+<ul><li>".bot 1" .. ".bot 8" run code from corresponding source-tab</li>
+<li>".bot 0"  - stop program</li>
+<li>".bot -1" - pause/unpause program</li>
+<li>".bot anyText" - use as input to current running program</li></ul>
+<ul><li>command / special tab for autostart-program</li></ul>
+<dl><dd>eg. to do settings / commands when joining a server</dd></dl>
+<ul><li>if mod-storage is empty, create short demo-program in first tab</li></ul>
+<ul><li>say(text,target) - extend target-spec (from only 'toserver' now) to 'owner' and 'userX'</li></ul>
+<dl><dd>eg. to show debug-messages only to owner, or send PM to a certain user</dd></dl>
+<ul><li>how to catch chat-messages starting with "***"&#160;?</li></ul>
+<ul><li>write text to file, eg. chatlog&#160;?</li></ul>
+<ul><li>set player-attributes, e.g. skin</li></ul>
+<ul><li>error when soundfile not found</li></ul>
+<!-- 
+NewPP limit report
+Cached time: 20230709183039
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.248 seconds
+Real time usage: 1.015 seconds
+Preprocessor visited node count: 142/1000000
+Post‐expand include size: 1540/2097152 bytes
+Template argument size: 234/2097152 bytes
+Highest expansion depth: 4/40
+Expensive parser function count: 1/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.120/7 seconds
+Lua virtual size: 5.68 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  615.934      1 Template:Mod_Data
+100.00%  615.934      1 -total
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:3670-0!canonical and timestamp 20230709183038 and revision id 26279
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Mods/basic_robot_csm&amp;oldid=26279">http://wiki.minetest.net/index.php?title=Mods/basic_robot_csm&amp;oldid=26279</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/Category:Mods" title="Category:Mods">Mods</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Mods%2Fbasic+robot+csm" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Mods/basic_robot_csm" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Mods/basic_robot_csm&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Mods/basic_robot_csm">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Mods/basic_robot_csm&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Mods/basic_robot_csm&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Mods/basic_robot_csm" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Mods/basic_robot_csm" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Mods/basic_robot_csm&amp;oldid=26279" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Mods/basic_robot_csm&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 18 April 2021, at 05:25.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.248","walltime":"1.015","ppvisitednodes":{"value":142,"limit":1000000},"postexpandincludesize":{"value":1540,"limit":2097152},"templateargumentsize":{"value":234,"limit":2097152},"expansiondepth":{"value":4,"limit":40},"expensivefunctioncount":{"value":1,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  615.934      1 Template:Mod_Data","100.00%  615.934      1 -total"]},"scribunto":{"limitreport-timeusage":{"value":"0.120","limit":"7"},"limitreport-virtmemusage":{"value":5951488,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709183039","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":1684});});</script></body></html>

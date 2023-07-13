@@ -1,0 +1,624 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Games/MineClone 2/Differences from Minetest Game - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"1ead754b2f641b5e3f988f62","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Games/MineClone_2/Differences_from_Minetest_Game","wgTitle":"Games/MineClone 2/Differences from Minetest Game","wgCurRevisionId":25356,"wgRevisionId":25356,"wgArticleId":4819,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Incomplete pages"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Games/MineClone_2/Differences_from_Minetest_Game","wgRelevantArticleId":4819,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,
+"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Games_MineClone_2_Differences_from_Minetest_Game rootpage-Games skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Games/MineClone 2/Differences from Minetest Game</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/Games" title="Games">Games</a>&lrm; | <a href="/Games/MineClone_2" title="Games/MineClone 2">MineClone 2</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="margin: 0 auto 1em; text-align: justify; border-collapse: collapse; border-width: 1px; border-style: dashed; width: 100%; clear: both; border-color:#f28500; background:#ffe;">
+<tbody><tr>
+<td style="border: none; padding: 2px 0 2px 0.9em; text-align: center;">
+ <img alt="Mbox important.png" src="/images/thumb/7/79/Mbox_important.png/25px-Mbox_important.png" decoding="async" width="25" height="25" srcset="/images/thumb/7/79/Mbox_important.png/38px-Mbox_important.png 1.5x, /images/7/79/Mbox_important.png 2x" /></td>
+<td style="border: none; padding: 0.25em 0.9em; width: 100%;"><b>This article is incomplete.</b><br />
+Please help expand this article to include more useful information.</td>
+
+</tr></tbody></table>
+<p>For players familar with <a href="/Games/Minetest_Game" title="Games/Minetest Game">Minetest Game</a>, 
+this is a list of differences when playing <a href="/Games/MineClone_2" title="Games/MineClone 2">MineClone 2</a>&#160;:
+</p><p>(As observed on <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=10&amp;t=19974">Mark Server - MC2-Survival</a>, 2019-12 .. 2020-04,
+then reset+restarted with a new map)
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Apperance"><span class="tocnumber">1</span> <span class="toctext">Apperance</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Control_.26_Inventory"><span class="tocnumber">2</span> <span class="toctext">Control &amp; Inventory</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Mobs"><span class="tocnumber">3</span> <span class="toctext">Mobs</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Friendly.2FAnimals"><span class="tocnumber">3.1</span> <span class="toctext">Friendly/Animals</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Monsters.2Fneutral"><span class="tocnumber">3.2</span> <span class="toctext">Monsters/neutral</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Monsters"><span class="tocnumber">3.3</span> <span class="toctext">Monsters</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Nether"><span class="tocnumber">3.4</span> <span class="toctext">Nether</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#End"><span class="tocnumber">3.5</span> <span class="toctext">End</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Blocks"><span class="tocnumber">4</span> <span class="toctext">Blocks</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Plants"><span class="tocnumber">4.1</span> <span class="toctext">Plants</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Liquids"><span class="tocnumber">4.2</span> <span class="toctext">Liquids</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Stones"><span class="tocnumber">4.3</span> <span class="toctext">Stones</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Ore"><span class="tocnumber">4.4</span> <span class="toctext">Ore</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Items_.26_Equipment"><span class="tocnumber">4.5</span> <span class="toctext">Items &amp; Equipment</span></a>
+<ul>
+<li class="toclevel-3 tocsection-15"><a href="#Redstone"><span class="tocnumber">4.5.1</span> <span class="toctext">Redstone</span></a>
+<ul>
+<li class="toclevel-4 tocsection-16"><a href="#Hopper"><span class="tocnumber">4.5.1.1</span> <span class="toctext">Hopper</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-17"><a href="#Traps"><span class="tocnumber">4.6</span> <span class="toctext">Traps</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Bugs"><span class="tocnumber">4.7</span> <span class="toctext">Bugs</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-19"><a href="#Builtin_Mods"><span class="tocnumber">5</span> <span class="toctext">Builtin Mods</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#World"><span class="tocnumber">6</span> <span class="toctext">World</span></a>
+<ul>
+<li class="toclevel-2 tocsection-21"><a href="#Spoiler"><span class="tocnumber">6.1</span> <span class="toctext">Spoiler</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Apperance">Apperance</span></h2>
+<ul><li>Graphics and textures</li>
+<li>sight underwater is very poor</li>
+<li>Sounds</li>
+<li>HUD - the hotbar is the bottom row</li></ul>
+<h2><span id="Control_&amp;_Inventory"></span><span class="mw-headline" id="Control_.26_Inventory">Control &amp; Inventory</span></h2>
+<ul><li>Digging - the player must use proper tool/weapon (otherwise no effect, or no drops). <br /> E.g. you can break stones by hand (slowly), but then you get no drops.</li>
+<li>Picking up stuff - nearby stuff is collected 'magnetically'. <br />That also means, you have to throw away unwanted stuff.</li>
+<li>Inventory - size is 4x9, stack limit is only 64 for most items. For some items it is only 16 (eg. eggs or snowballs).</li>
+<li>Crafting - player's crafting grid is only size 2×2, and doesn't work as inventory space. <br /> E.g. after crafting, its contents are put back into inventory, or dropped (if the inventory is full).</li>
+<li>Eating - put food on hotbar, eat it with rightclick.</li>
+<li>Torches - cannot be placed in water (and cannot make a breathing room), and don't stick on ceilings.</li>
+<li>There is no screwdriver, so tiles cannot be rotated after placing. <br /> Also, slabs cannot be placed vertically as walls.</li>
+<li>Death - the player is moved back to spawn (or last used bed), at full health, with inventory intact. <br /> Note: documentation says that inventory is lost / dropped to floor&#160;! <br />So beware - this might be a server-setting&#160;!</li></ul>
+<h2><span class="mw-headline" id="Mobs">Mobs</span></h2>
+<p>Mobs can spawn on trees, and inside player-houses. Monsters prefer darkness. <br />
+Mobs can also move thru teleporters and portals. <br />
+Some animals can be tamed and breed, with food. Each kind of animal prefers different food. <br /> 
+Animals move towards the player when the right kind of food is selected on the hotbar.  <br />
+For breeding, bring 2 tame animals together (eg. inside a fence), and feed them again.
+</p>
+<h3><span id="Friendly/Animals"></span><span class="mw-headline" id="Friendly.2FAnimals">Friendly/Animals</span></h3>
+<p>They drop 5 different, edible kinds of meat
+(as opposed to only 2 types in MTG):
+</p>
+<ul><li>Rabbit  - easy to kill, drops rabbit-hide. These hides can be crafted into leather.</li>
+<li>Chicken - lays eggs &amp; drops feathers / meat must be cooked. Can be tamed with wheat-seeds.</li>
+<li>Pig     - dies with a loud squeak. Can be tamed with carrots or potatoes. <br /> Can be saddled and ridden. To steer use a carrot-on-a-stick. <br /> If the pig dies (eg. after an attack by a creeper), it drops the saddle.</li>
+<li>Sheep   - drops wool (white, gray, lightgray, black, brown). Can be tamed with wheat.</li>
+<li>Cow     - gives milk (use bucket), drops leather. Can be tamed with wheat. <br /> Can be milked several times each day.</li>
+<li>Llama   - ('Mountain-sheep') - drops leather, no meat.</li>
+<li>Donkey  - gray, long ears - drops leather.</li>
+<li>Horse   - colored, short ears - drops leather. Can be tamed, saddled, ridden, wear horse-armor. <br /> Can jump up to 5 blocks.</li>
+<li>Mule    - colored, long ears - drops leather. Appears when breeding a horse with a donkey.</li></ul>
+<p>So, when inventory-space gets tight, you  should manage what you hunt and eat.
+</p>
+<h3><span id="Monsters/neutral"></span><span class="mw-headline" id="Monsters.2Fneutral">Monsters/neutral</span></h3>
+<p>(neutral: hostile only when attacked)
+</p>
+<ul><li>Wolf     - if attacked, other wolves in range also attack!  Can be tamed with bones. <br /> Tame wolves fight against mobs the player has attacked.</li>
+<li>Icebear  - drops fish.</li>
+<li>Skeleton-horse - harmless, drops bones.</li>
+<li>Enderman   - (slow, black, long arms&amp;legs) - drops ender-pearl.</li></ul>
+<h3><span class="mw-headline" id="Monsters">Monsters</span></h3>
+<p>(some are hostile only at night, or when attacked)
+</p>
+<ul><li>Zombie - slow, drops rotten meat (disgusting / poisonous) and rarely other stuff (carrot, potato...).</li>
+<li>Husk   - another zombie-type. Moves faster, drops rotten meat.</li></ul>
+<p>Both also come baby-sized, which can be hard to see among grass, or in corners. <br />Those babies can also enter houses thru 1x1 openings&#160;!
+</p>
+<ul><li>Spider   - drops strings, and spider-eyes. Strings can be crafted into wool.</li>
+<li>Skeleton - shoots arrows. Drops bones, bows, arrows.</li>
+<li>Creeper    - (green-blue, silent) explodes. This costs about half the players health&#160;! <br /> Drops gunpowder when killed in time.</li>
+<li>Slimes     - (bouncing green cubes) underground. Big slimecubes split into 4 smaller cubes. Drop slimeballs. <br /> Slimeballs can be crafted into slimeblocks.</li></ul>
+<h3><span class="mw-headline" id="Nether">Nether</span></h3>
+<p>Monsters in nether-dimension: (iron armor or better is recommanded here)
+</p>
+<ul><li>Magma cube - (like darkgray slimes) - drop magma-cream.</li>
+<li>Blazes     - (Floating, rotating) shoots fireballs,  drop blaze-rods.</li>
+<li>Skeleton   - with sword</li>
+<li>Zombie-Pigman - (neutral?) fights with golden sword - drops rotten meat and sometimes gold nuggets or a golden sword.</li>
+<li>Iron Golem    - (neutral?) drops poppies and iron ingots.</li>
+<li>Ghast         - (big 4x4x4, white, flying) shoots exploding bullets. Drops ghast-tears.</li>
+<li>..</li></ul>
+<h3><span class="mw-headline" id="End">End</span></h3>
+<p>Monsters in end-dimension:  (not yet finished - eg. no ender-dragon)
+</p>
+<ul><li>Shulker    - (pink box) rapid shooter.  Drops shulker-shell (needed for shulker-boxes). Best attacked with bow&amp;arrows.</li>
+<li>lots of endermen</li></ul>
+<p>..more...
+</p>
+<h2><span class="mw-headline" id="Blocks">Blocks</span></h2>
+<h3><span class="mw-headline" id="Plants">Plants</span></h3>
+<ul><li>Plants
+<ul><li>Trees: Acacia, Birch, Oak, Dark Oak, Jungle, Spruce. <br />Trees grow bigger with age, and may grow vines.</li>
+<li>Saplings for each type of tree</li>
+<li>Leaves - need shears to collect them. <br />So, for new players they are not usable as cheap fuel.</li>
+<li>Vines - can be climbed - Need shears to collect them.</li>
+<li>Cobwebs - slow down movement, like fluids. Need shears to collect them (otherwise drop as strings),</li>
+<li>Apples  - drop randomly from oak leaves and dark oak leaves. <br />So, apples are not visible on a tree.</li>
+<li>Flowers - Give various dyes:
+<ul><li>Rose-red:  Rosebush, red tulip, Poppy  Also: Beetroot</li>
+<li>Dandelion-yellow: Dandelion, sunflower</li>
+<li>Pink: Peony, Pink tulip</li>
+<li>Orange: orange tulip</li>
+<li>Magenta: Allium, Lilac</li>
+<li>Light blue: blue orchid</li>
+<li>light-grey: white tulip, azure bluet, oxeye daisy</li></ul></li>
+<li>Other sources for dye:
+<ul><li>white: bonemeal</li>
+<li>grey&#160;: bonemeal + ink-sac</li>
+<li>black: ink-sac</li></ul></li></ul></li></ul>
+<ul><li><ul><li><ul><li>cactus-green: cactus</li>
+<li>lime: cactus-green + bonemeal</li>
+<li>blue:  lapis-lazuli</li>
+<li>cyan: lapis-lazuli + cactus-green</li>
+<li>purple: lapis-lazuli + rose-red</li>
+<li>brown: cocoa-beans</li></ul></li></ul></li></ul>
+<ul><li><ul><li>Food-plants - grow on farmland (use hoe on dirt):
+<ul><li>Wheat    - drops wheat &amp; wheat-seeds. Can be crafted to bread without furnace. <br />Also: cookies, pie, haybale.</li>
+<li>Beetroot - drops beetroot &amp; beetroot-seeds.  Gives red dye, and beetroot-soup.</li>
+<li>Carrot   - drops itself, is its own seed.</li>
+<li>Potato   - drops itself, is its own seed. Can be baked. <br /> Sometimes, a poisonous potato shows up&#160;!</li>
+<li>Melon  - drops melon-slices <br /> Melon-slices can be crafted into melon-seeds, or whole melons.</li>
+<li>Pumpkin - drops itself <br /> Can be crafted into pumpkin-seeds, Jack-o-lantern or pumpkin-cake.</li></ul></li>
+<li>Sugar-cane - grows next to water. Can be processed into sugar, paper, books, book&amp;quill. <br /> 'Next to' means directly adjacent&#160;!</li>
+<li>Cocoa-beans - grows on the sides of jungle-trees/wood. Gives brown dye. Also cookies.</li>
+<li>golden apple     - craftable from gold-nuggets &amp; apple.</li>
+<li>golden carrot    - craftable from gold-nuggets &amp; carrot.</li>
+<li>glistening melon - craftable from gold-nuggets &amp; melon-slice.</li>
+<li>Cactus - grows on sand - hurts nearby players &amp; animals. Gives green dye.</li>
+<li>Tall grass and fern - randomly drop wheat seeds.</li>
+<li>Dead bushes - drop sticks.</li>
+<li>Red &amp; brown mushrooms - with bowl, can be made into a soup.</li>
+<li>Giant mushrooms - grow like trees, drop small mushrooms.</li>
+<li>Chorus-flower - must be planted on endstone. Grows into a tall, random tree of chorus-fruits.</li>
+<li>Chorus-fruit  - causes random, shortrange teleportation when eaten.</li></ul></li></ul>
+<h3><span class="mw-headline" id="Liquids">Liquids</span></h3>
+<ul><li>Liquids - come as 'source' and 'flowing'.
+<ul><li>Water</li>
+<li>Lava</li></ul></li></ul>
+<p>A source-block generates flowing blocks on empty surrounding spaces, and below.
+These flowing blocks have a height less then a full block (8). <br />
+Flowing blocks likewise generate flowing blocks, but each with less height.
+</p>
+<h3><span class="mw-headline" id="Stones">Stones</span></h3>
+<ul><li><ul><li>Dirt: normal, coarse, podzol, mycelium. Also dirt with grass/gardenpath or snow.</li>
+<li>Stone/Cobblestone, mossy cobblestone. <br />Can be crafted into blocks, slabs, stairs, walls.</li>
+<li>Andesite, Diorite, Granite  <br />Can be crafted into polished, slab and stair-variants.</li>
+<li>Bedrock  - not minable. Bottom of the overworld, as well as top&amp;bottom of nether-dimension.</li>
+<li>Obsidian - A lava-source is converted to obsidian when it meets water. Needed for portals, and ender-chests.</li>
+<li>Clay - When mined, drops as 4 balls of clay. <br /> They can be made into bricks, colored/hardened clay, terracotta, glazed terracotta.</li>
+<li>Concrete - can be made from concrete-powder and water.</li></ul></li>
+<li>Unstable
+<ul><li>Sand: yellow, red - falls down, can be crafted into sandstone, cut sandstone or smelted into glass.</li>
+<li>Gravel          - falls down, can drop flint. Can be mixed with dirt to make coarse dirt.</li>
+<li>Concrete-powder - falls down (crafted from 4 sand, 4 gravel, 1 dye).</li></ul></li></ul>
+<p>Caution: sand or other stuff that ends up at the same location as the players head, 
+will cause suffocation (as in 'drowning')&#160;! <br /> Also: Piston, bed &amp; teleporter-pad without enough headroom.
+</p>
+<ul><li>Snow       - drops snowballs. (Eg. when you dig the block underneath, eg. dirt or leaves)</li>
+<li>Ice        - cannot be collected.  With light (other than sun), melts into a water-source.</li>
+<li>Packed ice - dito - Appear as peaks in ice biome.</li></ul>
+<h3><span class="mw-headline" id="Ore">Ore</span></h3>
+<ul><li><ul><li>Coal, Iron, Gold, Diamonds, Lapis-lazuli, Redstone</li></ul></li></ul>
+<ul><li>Nether-dimension (hot, mostly red - no water)
+<ul><li>Netherrack   - red, like stone, but easier to dig.  Can be smelted &amp; crafted into nether-bricks and nether-fences.</li>
+<li>Soulsand     - brown - slows movement. Needed to grow netherwarts.</li>
+<li>Netherquartz - like iron ore. Can be crafted into quartz-blocks.</li>
+<li>Glowstone    - glows brightly, drops as glowstone-powder (like clay).</li>
+<li>Magma        - hot as lava, but not a liquid.</li>
+<li>Netherwarts  - (a plant, no ore) grows on soulsand. Can be crafted into blocks.</li></ul></li></ul>
+<ul><li>End-dimension (dark static, mostly pale yellow - beware the endless void&#160;! )
+<ul><li>Endstone - pale yellow</li></ul></li></ul>
+<ul><li>Teleporters and Portals
+<ul><li>Teleporter-pad - You can set its name, and select a destination. <br /> All teleporters are public (as opposed to the mod travelnet).</li>
+<li>Portals have to be built from obsidian, and activated with a firestarter.
+<ul><li>Nether-portal: upright frame 4x5</li>
+<li>End-portal: horizontal frame 3x3, with 12 eyes-of-ender on top.</li></ul></li></ul></li></ul>
+<h3><span id="Items_&amp;_Equipment"></span><span class="mw-headline" id="Items_.26_Equipment">Items &amp; Equipment</span></h3>
+<ul><li><ul><li>Crafting table (3×3 crafting grid) <br />Has no built-in storage (as in xdecor).</li>
+<li>Furnace - cook meat, smelt ore - Has only 1 output slot. <br />But see also hopper.</li>
+<li>Anvil   - to repair tools, weapons and armor &amp; name items (eg. nametag to put on tame animals) <br /> For repairing, put in the damaged item and matching material, eg. leather helm + leather.</li>
+<li>Cauldron - can hold water</li>
+<li>Flowerpot</li>
+<li>Chests
+<ul><li>regular: size 9x3 <br />Same size as player's inventory.</li>
+<li>large chest (double-size) , size 9x6 - place 2 regular chests next to each other.</li>
+<li>trapped chest - 9x3. No trap inside, but gives a redstone-signal when opened.  Also double-sized.</li>
+<li>Shulkerbox  - 9x3, purple portable 'backpack'. Can be colored. <br /> The contents can be accessed in protected areas&#160;! <br /> Caution: Only change the color of an empty shulkerbox, or its contents get lost&#160;!</li></ul></li></ul></li></ul>
+<ul><li><ul><li><ul><li>Ender chest - private storage for each player, accessable from each enderchest.</li>
+<li>Wifi storage - Caution:  gets destroyed by digging with wrong tool&#160;!</li>
+<li>Smartshop - sell upto 4 types of items. - Caution:  gets destroyed by digging.</li>
+<li>Hopper - 5 inventory-slots, see below under machines. <br />Contents can be accessed in protected areas&#160;!<br /> Can also repair items.</li>
+<li>Armor-stand - can hold one set of armor.</li></ul></li>
+<li>Mob-Spawner - not craftable, appear in random dungeons. <br /> Can be deactivated by placing torches on top &amp; all sides.</li></ul></li></ul>
+<ul><li>Weapons and Tools
+<ul><li>Torch - doesn't stick to the ceiling, and not in/under water. <br /> Also, washed away by flowing water&#160;!</li>
+<li>Pickaxe, axe (2 sticks + 3 wood, stone, iron, gold, or diamond), shovel (2 sticks + 1)</li>
+<li>Sword (1 stick + 2 wood, stone, iron, gold, or diamond).</li>
+<li>Bow and arrows (needs wood, string, flint, feathers).</li></ul></li></ul>
+<ul><li><ul><li>Hoe     - to change dirt into farmland.</li>
+<li>Shears  - collect vines, leaves, grass, fern, wool from sheep.</li></ul></li></ul>
+<ul><li><ul><li>Bowl    - make soup/stew from mushrooms, beetroot, and rabbit stew.</li>
+<li>Bucket  - collect liquids or milk.  <br /> Lava is a good furnace-fuel (burns 1000s = 16m40s --&gt; 66 items a 15s).</li>
+<li>Bottle  - can contain 1/3 block of water.</li></ul></li></ul>
+<ul><li><ul><li>Book&amp;Quill  - player can make notes by entering some text.</li>
+<li>Firestarter - make fire, and activate portals.</li></ul></li></ul>
+<ul><li><ul><li>Lookup tool - show help for whatever you are pointing.</li>
+<li>Compass - points to coordinates 0,0 when used on the hotbar.</li>
+<li>Map     - allows to activate the minimap (must be on hotbar, then press F9).</li>
+<li>Clock   - shows the time-of-day at the overworld, as the positions of sun and moon on the dial when used on hotbar.</li></ul></li></ul>
+<ul><li><ul><li>Saddle            - cannot be crafted (so, get it from admin-shop, or random treasure-chests).</li>
+<li>Horse-Armor       - iron, gold, diamond. Can only be used on horses.</li>
+<li>Carrot-on-a-stick - for steering when riding a pig.</li></ul></li></ul>
+<ul><li><ul><li>Bonemeal  - grows grass and flowers, advances growth stages of wheat and some other plants <br /> Also useful as white dye.</li>
+<li>Boneblock - 9 compressed bonemeal.</li></ul></li></ul>
+<ul><li>Armor: Helm (5), Breastplate (8), Leggings (7), Boots (4), from leather, iron, chain, gold, diamonds.</li></ul>
+<ul><li>Wooden items:
+<ul><li>Charcoal - burns longer than wood. Works like coal, but is a renewable resource.</li>
+<li>Planks   - Craft: 1 wood --&gt; 4 planks</li>
+<li>Bark     -</li>
+<li>Sticks - for tools, torches, ladders, fences, levers etc.  2 planks --&gt; 4 sticks.</li>
+<li>Doors &amp; trapdoors - each type of wood results in a different design.</li>
+<li>Slabs, Stairs</li>
+<li>Ladder</li>
+<li>Fence &amp; Fencegate - cant be jumped over with a single jump <br /> So, it can keep monsters out and tamed animals in. <br /> But sometimes, animals can escape nevertheless&#160;!</li>
+<li>Bowl    - for soup &amp; stew.</li>
+<li>Buttons, Levers, Pressure plates - see also machines.</li>
+<li>Sign       - can show 4 lines of text of 15 chars each.</li>
+<li>Bookshelf  - has no inventory-space.</li>
+<li>Item-frame - can store&amp;display one item, eg. as wall-decoration.</li>
+<li>Boat       - move over water, faster then swimming.</li></ul></li></ul>
+<ul><li>Items from wool - can be colored with dye.
+<ul><li>Carpet  - mobs dont spawn on carpet&#160;?</li>
+<li>Bed     - Sleeping in it skips night&amp;thunderstorm. Also sets player's respawn-point after dying.</li>
+<li>Banners - in many colors.</li></ul></li></ul>
+<ul><li>Glass - different colors.  Caution: digging glass destroys it&#160;!
+<ul><li>glass-panes - for windows and 'fences'.</li>
+<li>bottles</li></ul></li></ul>
+<ul><li>Items from iron (see also tools, armor)
+<ul><li>Bucket, shears</li>
+<li>Door, trapdoor - iron doors can only be operated by a redstone-signal, eg. button or lever. <br /> This is different from MTG, where only the area-owner can open iron doors&amp;trapdoors&#160;!</li>
+<li>Iron bars  - used for chain-armor, windows and 'fences'.</li>
+<li>Steelblock - needed for anvil.</li>
+<li>Anvil - repairing, naming.</li></ul></li></ul>
+<ul><li>Other
+<ul><li>Block of slime - no falling damage.</li>
+<li>Haybale        - falling damage reduced by 80%</li></ul></li></ul>
+<ul><li>Rails and Minecarts
+<ul><li>regular minecart only (no variants as in minecraft)</li>
+<li>normal rails  - connect automatically to surrounding rails.</li>
+<li>powered rails - with/without redstone signal accelerate/brake minecarts.</li>
+<li>detector-rail - gives a redstone signal when a minecart is on rail. <br /> Caution: water washes rails away&#160;!</li>
+<li>Tip: carry a 2nd minecart, in case the 1st runs away&#160;!</li></ul></li></ul>
+<h4><span class="mw-headline" id="Redstone">Redstone</span></h4>
+<p>Redstone works somewhat like mese, but is much more common. <br />
+It is put on surfaces, and connects automatically to surrounding redstone.
+As opposed to mese, there are no wires &amp; insulated wires, or vertical connections.
+</p>
+<ul><li><ul><li>Switches:
+<ul><li>Button - gives a short redstone-signal when rightclicked.</li>
+<li>Pressure-plate - gives a redstone-signal while someone stands on it.</li>
+<li>Lever - can turn a redstone-signal on&amp;off.</li>
+<li>Redstone-torch - inverts the redstone-signal of the block it is attached to.</li>
+<li>Daylight-sensor - gives a redstone-signal depending on day/night.</li>
+<li>Trapped chest   - gives a redstone-signal when opened.</li>
+<li>Observer        - gives a redstone-signal when the observed, adjacent block changes.</li>
+<li>Detector-rail   - gives a redstone-signal when a minecart is on it.</li>
+<li>Redstone-repeater / delayer - forward an incoming redstone-signal, with delay 0.1s .. 0.4s</li></ul></li></ul></li></ul>
+<p>As opposed to minecraft, redstone-signals here dont have a strength, and no range-limit.
+There is also no redstone-comparator (yet?).
+</p>
+<ul><li><ul><li>Machines that react to a redstone-signal:
+<ul><li>Doors, Trapdoors - open&amp;close.</li>
+<li>Hopper - get &amp; put items from/in chests&amp;furnaces. 5 inventory-slots. <br /> A redstone-signal turns the hopper off.</li>
+<li>Piston: regular, sticky - move (and pull) adjecent block <br />Can cause suffocation&#160;!</li>
+<li>Redstone-lamp - lights up when powered by a redstone-signal.</li>
+<li>Noteblock - plays a sound.</li>
+<li>Deployer - Places/shoots/drops an item from its inventory. Exact action depends on itemtype.</li>
+<li>Dropper  - can also output an item, but slightly different from the deployer. <br /> Contents can be accessed in protected areas&#160;!</li></ul></li></ul></li></ul>
+<h5><span class="mw-headline" id="Hopper">Hopper</span></h5>
+<p>At a rate of about 1 per second, it sucks in items from the block above,
+and feeds them to a block with an inventory below or to the side. <br />
+This output-direction must be set when placing it (can be seen at the tip of the funnel).
+</p><p>So, a hopper above a furnace feeds stuff into the furnace's inputslot (and gets items from a chest above), <br />
+a hopper below a furnace gets the items from the furnace's output (and puts them into a chest below),  <br />
+and a hopper at the side of the furnace feeds into the fuelslot. <br />
+A redstone-signal, eg. from a lever, stops the hopper from moving items. <br />
+So, to automate cooking&amp;smelting, we need 1 furnace, 3 hoppers and 2+ chests.
+</p><p>A hopper with a chest below can work as a mailbox.
+</p><p><br />
+</p>
+<ul><li><ul><li>Signs, Billboards and banners</li>
+<li>Protection API support (needs sepa itemtype.rate protection mod)
+<ul><li>Protection-block - secure an area, and chests within that range</li></ul></li></ul></li></ul>
+<ul><li><ul><li>Fun:
+<ul><li>Jukebox   - plays a music-cd (eg. found in a treasure-chest, or from an admin-shop)</li>
+<li>Noteblock - plays a note when clicked - or a redstone-signal is active. Needs air above it.</li></ul></li></ul></li></ul>
+<p>Sound-effect depends on the block under the noteblock:
+</p>
+<ul><li>glass - Sticks</li>
+<li>wood  - Bass guitar</li>
+<li>stone - Bass drum</li>
+<li>sand, gravel - snare drum</li>
+<li>other - piano  (eg. dirt)</li></ul>
+<p>Rightclick to change the note (24 halftones available = 2 octaves), <br />
+Leftclick  to play the sound.
+</p>
+<ul><li><ul><li>Useless Stuff (purely decorative / in current version - but maybe I missed some details&#160;:)
+<ul><li>Rabbit's foot</li>
+<li>Spider eye &amp; fermented spider eye</li>
+<li>rotten meat (poisonous)</li>
+<li>Zombie-heads (gray, green)</li>
+<li>Ghast-tear</li>
+<li>Bookshelf - digging it only gives a book</li>
+<li>Cauldron &amp; waterbottles</li>
+<li>Snow/snowballs (no effect/no damage)</li></ul></li></ul></li></ul>
+<p>Also, given the rapid spawnrate of animals, breeding and farming is mostly pointless.
+</p>
+<h3><span class="mw-headline" id="Traps">Traps</span></h3>
+<p>Most traps rely on area-protection, otherwise it would be easy to disable them, or dig them out.
+</p>
+<ul><li>Simple deathfall, eg. a deep shaft, maybe surrounded by tall grass</li></ul>
+<ul><li>Iron doors, can trap players in a room. (But can escape with the command /home)</li></ul>
+<ul><li>Pistons, eg. shift player onto a dangerous tile, retract to uncover a hole in the ground, or extend into headroom.</li></ul>
+<ul><li>Teleporter-pad, with no headroom</li></ul>
+<p>...
+</p>
+<h3><span class="mw-headline" id="Bugs">Bugs</span></h3>
+<ul><li>Weather-effects even deep underground.</li>
+<li>Mobs getting stuck in walls (rabbits, pigs, slimes...)</li>
+<li>Dumb mob movement (running straight into trees, walls, hillsides...)</li>
+<li>Mobs seem to take no damage from cactus or magma.</li></ul>
+<h2><span class="mw-headline" id="Builtin_Mods">Builtin Mods</span></h2>
+<ul><li>Help and lookup tool - Shows info about blocks, tools, etc.</li>
+<li>Hunger - Player needs to eat</li>
+<li>Achievements</li>
+<li>(TNT turned off)</li></ul>
+<h2><span class="mw-headline" id="World">World</span></h2>
+<ul><li>Worldsize
+<ul><li>clouds are at height 64</li>
+<li>bedrock is at depth -64 (give or take a few blocks)</li></ul></li>
+<li>Mapgenerator
+<ul><li>lots of sliced-up landscapes (eg. hills/islands cut in half...)</li>
+<li>Waterfalls, Lavafalls <br /> Also, new water&amp;lava sources may appear at random&#160;!</li>
+<li>Some new biomes (eg. with giant mushrooms, 'Mesa'-clay ...)</li></ul></li>
+<li>Weather: Snow, Rain, Lightning (causes fires)</li>
+<li>Generated structures:
+<ul><li>Mobspawners in small dungeons (rooms of mossy cobblestone), often with random treasure-chests.</li>
+<li>Old/abandoned mines with wooden beams&amp;torches, rails and sometimes treasure-chests.</li></ul></li>
+<li>Nether  - below depth -28900. To reach, use an upright portal. <br /> The nether also has bedrock at the bottom, at -28945.</li>
+<li>the End - below depth -26900. To reach, use a horizontal portal. (The programming for this part is not yet finished).</li></ul>
+<h5><span class="mw-headline" id="Spoiler">Spoiler</span></h5>
+<p>Inspired by minecraft, there is supposed to be a 'story', were players have to reach&amp;defeat 'the end'.
+</p><p>To find/make/repair a portal to go to the end-dimension, they need eyes-of-ender.
+</p><p>To make eyes-of-ender, they need ender-pearls and blaze-powder.
+</p><p>Ender-pearls come from endermen, blaze-powder comes from blazes in the nether.
+</p><p>To make portals to the nether, they need steel&amp;flint and obsidian.
+</p><p>To mine obsidian, they need diamonds, to make a diamond-pickaxe.
+</p><p>Everything else is a bonus...
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20230708204120
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.148 seconds
+Real time usage: 0.301 seconds
+Preprocessor visited node count: 106/1000000
+Post‐expand include size: 1268/2097152 bytes
+Template argument size: 120/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   44.354      1 -total
+100.00%   44.354      1 Template:Incomplete
+ 62.16%   27.571      1 Template:Mbox
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:4819-0!canonical and timestamp 20230708204119 and revision id 25356
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Games/MineClone_2/Differences_from_Minetest_Game&amp;oldid=25356">http://wiki.minetest.net/index.php?title=Games/MineClone_2/Differences_from_Minetest_Game&amp;oldid=25356</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/Category:Incomplete_pages" title="Category:Incomplete pages">Incomplete pages</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Games%2FMineClone+2%2FDifferences+from+Minetest+Game" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Games/MineClone_2/Differences_from_Minetest_Game" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Games/MineClone_2/Differences_from_Minetest_Game&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Games/MineClone_2/Differences_from_Minetest_Game">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Games/MineClone_2/Differences_from_Minetest_Game&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Games/MineClone_2/Differences_from_Minetest_Game&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Games/MineClone_2/Differences_from_Minetest_Game" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Games/MineClone_2/Differences_from_Minetest_Game" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Games/MineClone_2/Differences_from_Minetest_Game&amp;oldid=25356" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Games/MineClone_2/Differences_from_Minetest_Game&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 9 April 2021, at 18:16.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.148","walltime":"0.301","ppvisitednodes":{"value":106,"limit":1000000},"postexpandincludesize":{"value":1268,"limit":2097152},"templateargumentsize":{"value":120,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%   44.354      1 -total","100.00%   44.354      1 Template:Incomplete"," 62.16%   27.571      1 Template:Mbox"]},"cachereport":{"timestamp":"20230708204120","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":254});});</script></body></html>

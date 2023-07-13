@@ -1,0 +1,2013 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Mods/basic_robot - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"0493f1d567c0fa9b540683ee","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Mods/basic_robot","wgTitle":"Mods/basic robot","wgCurRevisionId":26702,"wgRevisionId":26702,"wgArticleId":2802,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using deprecated source tags","Pages with syntax highlighting errors","Mods"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Mods/basic_robot","wgRelevantArticleId":2802,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],
+"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","ext.pygments":"ready","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=ext.pygments%7Cmediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Mods_basic_robot rootpage-Mods skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Mods/basic_robot</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/Mods" title="Mods">Mods</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p><br />
+</p>
+<table class="wikitable" width="200px" style="float:right;text-align:left;margin:0 0 0.5em 1em;padding:5px;font-size:90%;position:relative;clear:right;overflow:auto;z-index:1">
+
+<tbody><tr>
+<th colspan="2" style="font-size:110%;text-align:center">basic_robot
+</th></tr>
+<tr>
+<th colspan="2"><div class="center"><a href="/File:Robot_(basic_robot).png" class="image"><img alt="Robot (basic robot).png" src="/images/9/95/Robot_%28basic_robot%29.png" decoding="async" width="150" height="150" /></a></div>
+</th></tr>
+<tr>
+<th colspan="2" align="center">A <a href="/Mods" title="Mods">mod</a>
+</th></tr>
+<tr>
+<td><b>Mod Type</b>
+</td>
+<td>Learning
+</td></tr>
+<tr>
+<td><b>Author</b>
+</td>
+<td>rnd
+</td></tr>
+<tr>
+<td><b>Latest version</b>
+</td>
+<td><a rel="nofollow" class="external text" href="https://github.com/ac-minetest/basic_robot/archive/master.zip">2017-08-03</a>
+</td></tr>
+<tr>
+<td><b>Forum topic</b>
+</td>
+<td><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=15850">15850</a>
+</td></tr>
+<tr>
+<td><b>Source code</b>
+</td>
+<td><a rel="nofollow" class="external text" href="https://github.com/ac-minetest/basic_robot/">GitHub</a>
+</td></tr>
+<tr>
+<td><b>ContentDB</b>
+</td>
+<td><i>N/A</i>
+</td></tr>
+<tr>
+<td><b>Technical name</b>
+</td>
+<td>basic_robot
+</td></tr></tbody></table>
+<p><a href="/Special:PrefixIndex/Mods/basic_robot/" title="Special:PrefixIndex/Mods/basic robot/">Subpages</a>
+</p><p>BASIC_ROBOT is lightweight robot mod for multiplayer.<br />
+Those robots can do almost everything (with proper programming, and may need privs).
+</p><p>This is the user-documentation about the mod 
+<a class="mw-selflink selflink">basic_robot</a> (<a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=15850">Forum</a>, <a rel="nofollow" class="external text" href="https://github.com/ac-minetest/basic_robot/">github</a>) by rnd.
+</p><p>This page is also intended as an introduction to programming,
+using the programming-language <a rel="nofollow" class="external text" href="http://www.lua.org">lua</a> with the robot.
+</p><p>Also, there is a 'live' <a href="/index.php?title=Basic_robot/Tutorial&amp;action=edit&amp;redlink=1" class="new" title="Basic robot/Tutorial (page does not exist)">tutorial-parcour</a> about robots-programs,  
+at the old <a href="/ROBOTS-server" title="ROBOTS-server">ROBOTS-server</a>, 46.150.38.198:30000,
+and now at the new <a href="/ROBOTS_SKYBLOCK" class="mw-redirect" title="ROBOTS SKYBLOCK">ROBOTS_SKYBLOCK</a>, 46.150.38.60:30000.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Intro"><span class="tocnumber">1</span> <span class="toctext">Intro</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#How_to_get"><span class="tocnumber">1.1</span> <span class="toctext">How to get</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Controlling_Form"><span class="tocnumber">1.2</span> <span class="toctext">Controlling Form</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Notes"><span class="tocnumber">1.3</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Server"><span class="tocnumber">1.4</span> <span class="toctext">Server</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Robot-commands_-_Part_1"><span class="tocnumber">2</span> <span class="toctext">Robot-commands - Part 1</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Example_programs_-_simple"><span class="tocnumber">3</span> <span class="toctext">Example programs - simple</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#HelloWorld"><span class="tocnumber">3.1</span> <span class="toctext">HelloWorld</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#HelloWorld1"><span class="tocnumber">3.2</span> <span class="toctext">HelloWorld1</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#HelloWorld2"><span class="tocnumber">3.3</span> <span class="toctext">HelloWorld2</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#CatchMe1"><span class="tocnumber">3.4</span> <span class="toctext">CatchMe1</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#CatchMe2"><span class="tocnumber">3.5</span> <span class="toctext">CatchMe2</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Run1"><span class="tocnumber">3.6</span> <span class="toctext">Run1</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Run2"><span class="tocnumber">3.7</span> <span class="toctext">Run2</span></a>
+<ul>
+<li class="toclevel-3 tocsection-15"><a href="#Notes_2"><span class="tocnumber">3.7.1</span> <span class="toctext">Notes</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#New_pages"><span class="tocnumber">4</span> <span class="toctext">New pages</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#Remote-Control"><span class="tocnumber">5</span> <span class="toctext">Remote-Control</span></a>
+<ul>
+<li class="toclevel-2 tocsection-18"><a href="#Intro_2"><span class="tocnumber">5.1</span> <span class="toctext">Intro</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#RC0"><span class="tocnumber">5.2</span> <span class="toctext">RC0</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#RC1"><span class="tocnumber">5.3</span> <span class="toctext">RC1</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#RC2_-_ReportPosition"><span class="tocnumber">5.4</span> <span class="toctext">RC2 - ReportPosition</span></a></li>
+<li class="toclevel-2 tocsection-22"><a href="#RC3_-_Talk_OnOff"><span class="tocnumber">5.5</span> <span class="toctext">RC3 - Talk OnOff</span></a></li>
+<li class="toclevel-2 tocsection-23"><a href="#RC4_-_Paving.2Fbridgebuilding"><span class="tocnumber">5.6</span> <span class="toctext">RC4 - Paving/bridgebuilding</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-24"><a href="#Example_programs_-_not-so-simple"><span class="tocnumber">6</span> <span class="toctext">Example programs - not-so-simple</span></a>
+<ul>
+<li class="toclevel-2 tocsection-25"><a href="#Build1_-_Fence"><span class="tocnumber">6.1</span> <span class="toctext">Build1 - Fence</span></a></li>
+<li class="toclevel-2 tocsection-26"><a href="#Build2_-_Fence2"><span class="tocnumber">6.2</span> <span class="toctext">Build2 - Fence2</span></a>
+<ul>
+<li class="toclevel-3 tocsection-27"><a href="#Notes_3"><span class="tocnumber">6.2.1</span> <span class="toctext">Notes</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-28"><a href="#Build3_-_Instant_shelter"><span class="tocnumber">6.3</span> <span class="toctext">Build3 - Instant shelter</span></a></li>
+<li class="toclevel-2 tocsection-29"><a href="#Build4_-_House1"><span class="tocnumber">6.4</span> <span class="toctext">Build4 - House1</span></a>
+<ul>
+<li class="toclevel-3 tocsection-30"><a href="#Notes_4"><span class="tocnumber">6.4.1</span> <span class="toctext">Notes</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-31"><a href="#Build5_-_another_housebuilder"><span class="tocnumber">6.5</span> <span class="toctext">Build5 - another housebuilder</span></a>
+<ul>
+<li class="toclevel-3 tocsection-32"><a href="#Code"><span class="tocnumber">6.5.1</span> <span class="toctext">Code</span></a></li>
+<li class="toclevel-3 tocsection-33"><a href="#Notes_5"><span class="tocnumber">6.5.2</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-3 tocsection-34"><a href="#Command-Overview"><span class="tocnumber">6.5.3</span> <span class="toctext">Command-Overview</span></a></li>
+<li class="toclevel-3 tocsection-35"><a href="#Building_the_house"><span class="tocnumber">6.5.4</span> <span class="toctext">Building the house</span></a></li>
+<li class="toclevel-3 tocsection-36"><a href="#Building_the_program"><span class="tocnumber">6.5.5</span> <span class="toctext">Building the program</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-37"><a href="#Example_programs_-_useful"><span class="tocnumber">7</span> <span class="toctext">Example programs - useful</span></a>
+<ul>
+<li class="toclevel-2 tocsection-38"><a href="#Farming"><span class="tocnumber">7.1</span> <span class="toctext">Farming</span></a>
+<ul>
+<li class="toclevel-3 tocsection-39"><a href="#Sapling-Mill"><span class="tocnumber">7.1.1</span> <span class="toctext">Sapling-Mill</span></a></li>
+<li class="toclevel-3 tocsection-40"><a href="#Sapling-Mill_2"><span class="tocnumber">7.1.2</span> <span class="toctext">Sapling-Mill 2</span></a></li>
+<li class="toclevel-3 tocsection-41"><a href="#Farming101"><span class="tocnumber">7.1.3</span> <span class="toctext">Farming101</span></a></li>
+<li class="toclevel-3 tocsection-42"><a href="#Farming102"><span class="tocnumber">7.1.4</span> <span class="toctext">Farming102</span></a></li>
+<li class="toclevel-3 tocsection-43"><a href="#Farming103"><span class="tocnumber">7.1.5</span> <span class="toctext">Farming103</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-44"><a href="#Mining"><span class="tocnumber">7.2</span> <span class="toctext">Mining</span></a>
+<ul>
+<li class="toclevel-3 tocsection-45"><a href="#Mining101_-_simple_digger1x1"><span class="tocnumber">7.2.1</span> <span class="toctext">Mining101 - simple digger1x1</span></a></li>
+<li class="toclevel-3 tocsection-46"><a href="#Mining102"><span class="tocnumber">7.2.2</span> <span class="toctext">Mining102</span></a></li>
+<li class="toclevel-3 tocsection-47"><a href="#Mining103_-_tunnel_2x1"><span class="tocnumber">7.2.3</span> <span class="toctext">Mining103 - tunnel 2x1</span></a>
+<ul>
+<li class="toclevel-4 tocsection-48"><a href="#Code_2"><span class="tocnumber">7.2.3.1</span> <span class="toctext">Code</span></a></li>
+<li class="toclevel-4 tocsection-49"><a href="#Notes_6"><span class="tocnumber">7.2.3.2</span> <span class="toctext">Notes</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-50"><a href="#Building"><span class="tocnumber">7.3</span> <span class="toctext">Building</span></a>
+<ul>
+<li class="toclevel-3 tocsection-51"><a href="#BoxHouse_-_BasicHousing"><span class="tocnumber">7.3.1</span> <span class="toctext">BoxHouse - BasicHousing</span></a>
+<ul>
+<li class="toclevel-4 tocsection-52"><a href="#Notes_7"><span class="tocnumber">7.3.1.1</span> <span class="toctext">Notes</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-53"><a href="#Misc"><span class="tocnumber">7.4</span> <span class="toctext">Misc</span></a>
+<ul>
+<li class="toclevel-3 tocsection-54"><a href="#Simple_Shop"><span class="tocnumber">7.4.1</span> <span class="toctext">Simple Shop</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-55"><a href="#Robot-commands_-_Part_2"><span class="tocnumber">8</span> <span class="toctext">Robot-commands - Part 2</span></a>
+<ul>
+<li class="toclevel-2 tocsection-56"><a href="#Time.2C_date_.26_clock"><span class="tocnumber">8.1</span> <span class="toctext">Time, date &amp; clock</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-57"><a href="#Robot-commands_-_Part_3"><span class="tocnumber">9</span> <span class="toctext">Robot-commands - Part 3</span></a>
+<ul>
+<li class="toclevel-2 tocsection-58"><a href="#Inventory-Lister1"><span class="tocnumber">9.1</span> <span class="toctext">Inventory-Lister1</span></a></li>
+<li class="toclevel-2 tocsection-59"><a href="#Inventory-Lister2_-_Fast"><span class="tocnumber">9.2</span> <span class="toctext">Inventory-Lister2 - Fast</span></a></li>
+<li class="toclevel-2 tocsection-60"><a href="#Chest-Mover"><span class="tocnumber">9.3</span> <span class="toctext">Chest-Mover</span></a>
+<ul>
+<li class="toclevel-3 tocsection-61"><a href="#Chest-Mover1"><span class="tocnumber">9.3.1</span> <span class="toctext">Chest-Mover1</span></a></li>
+<li class="toclevel-3 tocsection-62"><a href="#Chest-Mover2"><span class="tocnumber">9.3.2</span> <span class="toctext">Chest-Mover2</span></a></li>
+<li class="toclevel-3 tocsection-63"><a href="#Chest-Mover3_.2F_DropBox"><span class="tocnumber">9.3.3</span> <span class="toctext">Chest-Mover3 / DropBox</span></a></li>
+<li class="toclevel-3 tocsection-64"><a href="#Todo"><span class="tocnumber">9.3.4</span> <span class="toctext">Todo</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-65"><a href="#Robot-commands_-_Part_4"><span class="tocnumber">10</span> <span class="toctext">Robot-commands - Part 4</span></a>
+<ul>
+<li class="toclevel-2 tocsection-66"><a href="#Book-lister"><span class="tocnumber">10.1</span> <span class="toctext">Book-lister</span></a></li>
+<li class="toclevel-2 tocsection-67"><a href="#Big_news-display"><span class="tocnumber">10.2</span> <span class="toctext">Big news-display</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-68"><a href="#Robot-commands_-_Part_5"><span class="tocnumber">11</span> <span class="toctext">Robot-commands - Part 5</span></a>
+<ul>
+<li class="toclevel-2 tocsection-69"><a href="#Lookout"><span class="tocnumber">11.1</span> <span class="toctext">Lookout</span></a></li>
+<li class="toclevel-2 tocsection-70"><a href="#OreDetector1"><span class="tocnumber">11.2</span> <span class="toctext">OreDetector1</span></a></li>
+<li class="toclevel-2 tocsection-71"><a href="#OreDetector2"><span class="tocnumber">11.3</span> <span class="toctext">OreDetector2</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-72"><a href="#Todo_.2F_Debug"><span class="tocnumber">12</span> <span class="toctext">Todo / Debug</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Intro">Intro</span></h2>
+<p>basic_robot is a lightweight programmable robot for minetest,
+usable in multiplayer.
+</p>
+<dl><dd>'lightweight': the mod only has 2 main objects: robot and remotecontrol,</dd>
+<dd>plus 'keyboard'-buttons: blocks in different colors, or with numbers/letters/symbols.</dd></dl>
+<p>The robot can move around, sense the blocks, dig, build, and much more.
+</p>
+<dl><dd>Since version 12/21a, there is also a remote control.</dd></dl>
+<p>Users can write programs for the bot in <a rel="nofollow" class="external text" href="http://www.lua.org/">Lua</a>.
+</p><p>The system uses a spawner ("cpu-box") that the player has to place on the ground.<br />
+This spawner presents a form for controlling, programming and running the robot ("worker").<br />
+Only this worker moves around, and it has a limited range (about 23 nodes from player and spawner).
+</p><p>A keypad from the mod <a href="/Mods/basic_machines" title="Mods/basic machines">basic_machines</a> 
+can be set up to start a robot<br />
+with a button-push by other players, 
+and for keyboard-entry.
+</p>
+<dl><dd>This is useful for robots that perform a task for other players, e.g. as a shop, mailbox, chatbot, game, etc.</dd></dl>
+<h4><span class="mw-headline" id="How_to_get">How to get</span></h4>
+<p><b>Creative:</b><br />
+To obtain a spawner in creative mode, use the command "/giveme basic_robot:spawner".<br />
+For a remote control, use the command "/giveme basic_robot:control".
+</p><p><b>Crafting:</b>
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th scope="row">Name
+</th>
+<th scope="col">Ingredients
+</th>
+<th scope="col">Input &#8594; Output
+</th>
+<th scope="col">Description
+</th></tr>
+<tr>
+<th scope="row"><a class="mw-selflink selflink">Robot spawner</a>
+</th>
+<td align="center"><a href="/Mese_Crystal" title="Mese Crystal">Mese Crystals</a><br />+ <a href="/Steel_Ingot" title="Steel Ingot">Steel Ingot</a><br />+ <a href="/Stone" title="Stone">Stone</a>
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Mese_Crystal" title="Mese Crystal"><img alt="Mese Crystal.png" src="/images/thumb/7/7b/Mese_Crystal.png/32px-Mese_Crystal.png" decoding="async" width="32" height="32" srcset="/images/thumb/7/7b/Mese_Crystal.png/48px-Mese_Crystal.png 1.5x, /images/thumb/7/7b/Mese_Crystal.png/64px-Mese_Crystal.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Mese_Crystal" title="Mese Crystal"><img alt="Mese Crystal.png" src="/images/thumb/7/7b/Mese_Crystal.png/32px-Mese_Crystal.png" decoding="async" width="32" height="32" srcset="/images/thumb/7/7b/Mese_Crystal.png/48px-Mese_Crystal.png 1.5x, /images/thumb/7/7b/Mese_Crystal.png/64px-Mese_Crystal.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Mese_Crystal" title="Mese Crystal"><img alt="Mese Crystal.png" src="/images/thumb/7/7b/Mese_Crystal.png/32px-Mese_Crystal.png" decoding="async" width="32" height="32" srcset="/images/thumb/7/7b/Mese_Crystal.png/48px-Mese_Crystal.png 1.5x, /images/thumb/7/7b/Mese_Crystal.png/64px-Mese_Crystal.png 2x" /></a></div></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Mese_Crystal" title="Mese Crystal"><img alt="Mese Crystal.png" src="/images/thumb/7/7b/Mese_Crystal.png/32px-Mese_Crystal.png" decoding="async" width="32" height="32" srcset="/images/thumb/7/7b/Mese_Crystal.png/48px-Mese_Crystal.png 1.5x, /images/thumb/7/7b/Mese_Crystal.png/64px-Mese_Crystal.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Mese_Crystal" title="Mese Crystal"><img alt="Mese Crystal.png" src="/images/thumb/7/7b/Mese_Crystal.png/32px-Mese_Crystal.png" decoding="async" width="32" height="32" srcset="/images/thumb/7/7b/Mese_Crystal.png/48px-Mese_Crystal.png 1.5x, /images/thumb/7/7b/Mese_Crystal.png/64px-Mese_Crystal.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Mese_Crystal" title="Mese Crystal"><img alt="Mese Crystal.png" src="/images/thumb/7/7b/Mese_Crystal.png/32px-Mese_Crystal.png" decoding="async" width="32" height="32" srcset="/images/thumb/7/7b/Mese_Crystal.png/48px-Mese_Crystal.png 1.5x, /images/thumb/7/7b/Mese_Crystal.png/64px-Mese_Crystal.png 2x" /></a></div></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Stone" title="Stone"><img alt="Stone.png" src="/images/thumb/d/d4/Stone.png/32px-Stone.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/d4/Stone.png/48px-Stone.png 1.5x, /images/thumb/d/d4/Stone.png/64px-Stone.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Steel_Ingot" title="Steel Ingot"><img alt="Steel Ingot.png" src="/images/thumb/b/bd/Steel_Ingot.png/32px-Steel_Ingot.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/bd/Steel_Ingot.png/48px-Steel_Ingot.png 1.5x, /images/thumb/b/bd/Steel_Ingot.png/64px-Steel_Ingot.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Stone" title="Stone"><img alt="Stone.png" src="/images/thumb/d/d4/Stone.png/32px-Stone.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/d4/Stone.png/48px-Stone.png 1.5x, /images/thumb/d/d4/Stone.png/64px-Stone.png 2x" /></a></div></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/Robot_spawner_(basic_robot)" title="Robot spawner (basic robot)"><img alt="Robot spawner (basic robot).png" src="/images/thumb/f/f0/Robot_spawner_%28basic_robot%29.png/32px-Robot_spawner_%28basic_robot%29.png" decoding="async" width="32" height="32" srcset="/images/thumb/f/f0/Robot_spawner_%28basic_robot%29.png/48px-Robot_spawner_%28basic_robot%29.png 1.5x, /images/thumb/f/f0/Robot_spawner_%28basic_robot%29.png/64px-Robot_spawner_%28basic_robot%29.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black"></span></div></div>
+</td></tr></tbody></table>
+</td>
+<td>Used to spawn a robot-worker.
+</td></tr>
+<tr>
+<th scope="row"><a class="mw-selflink selflink">Robot remote control</a>
+</th>
+<td align="center"><a href="/Stick" title="Stick">Stick</a><br />+ <a href="/Mese_Crystal" title="Mese Crystal">Mese Crystal</a>
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Stick" title="Stick"><img alt="Stick.png" src="/images/thumb/a/aa/Stick.png/32px-Stick.png" decoding="async" width="32" height="32" srcset="/images/thumb/a/aa/Stick.png/48px-Stick.png 1.5x, /images/thumb/a/aa/Stick.png/64px-Stick.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Mese_Crystal" title="Mese Crystal"><img alt="Mese Crystal.png" src="/images/thumb/7/7b/Mese_Crystal.png/32px-Mese_Crystal.png" decoding="async" width="32" height="32" srcset="/images/thumb/7/7b/Mese_Crystal.png/48px-Mese_Crystal.png 1.5x, /images/thumb/7/7b/Mese_Crystal.png/64px-Mese_Crystal.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/Robot_remote_control_(basic_robot)" title="Robot remote control (basic robot)"><img alt="Robot remote control (basic robot).png" src="/images/thumb/e/e6/Robot_remote_control_%28basic_robot%29.png/32px-Robot_remote_control_%28basic_robot%29.png" decoding="async" width="32" height="32" srcset="/images/thumb/e/e6/Robot_remote_control_%28basic_robot%29.png/48px-Robot_remote_control_%28basic_robot%29.png 1.5x, /images/thumb/e/e6/Robot_remote_control_%28basic_robot%29.png/64px-Robot_remote_control_%28basic_robot%29.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black"></span></div></div>
+</td></tr></tbody></table>
+</td>
+<td>Used to control a robot.
+</td></tr></tbody></table>
+<h4><span class="mw-headline" id="Controlling_Form">Controlling Form</span></h4>
+<p>Rightclicking the spawner opens a form with buttons and a textbox for writing a program.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/File:BasicRobot-Form.png" class="image"><img alt="" src="/images/thumb/5/5c/BasicRobot-Form.png/300px-BasicRobot-Form.png" decoding="async" width="300" height="225" class="thumbimage" srcset="/images/thumb/5/5c/BasicRobot-Form.png/450px-BasicRobot-Form.png 1.5x, /images/thumb/5/5c/BasicRobot-Form.png/600px-BasicRobot-Form.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:BasicRobot-Form.png" class="internal" title="Enlarge"></a></div>controlling form for basic_robot</div></div></div>
+<ul><li>Button "<b>Save</b>" saves the program. This must be done before starting a program.</li></ul>
+<dl><dd>Note: Saving is not permanent - there is no file to save to, just a quick syntax-check.</dd>
+<dd>Also, picking up the spawner clears the textarea with the code.</dd>
+<dd>So, use cut&amp;paste to save your code to a texteditor, such as <a rel="nofollow" class="external text" href="https://notepad-plus-plus.org">notepad</a>.</dd></dl>
+<ul><li>Button "<b>Start</b>" creates a robot-worker (on top of the spawner) that starts executing the program.</li></ul>
+<dl><dd>The robot looks like a simple box, with a face on its frontside, and an arrow on top.</dd></dl>
+<ul><li>Button "<b>Stop</b>" stops the program and removes the robot-worker.</li></ul>
+<ul><li>Entryfield <b>id</b> for controlling several robots.</li></ul>
+<dl><dd>Players without the priv 'robot' can only use the ids 1 and 2.</dd>
+<dd>This means they are only allowed to run 2 robots at the same time.</dd></dl>
+<ul><li>Button "<b>Inventory</b>" opens the inventory of the bot.</li></ul>
+<dl><dd>The inventory has 8*4 slots, same size as a chest.</dd></dl>
+<ul><li>Button "<b>Library</b>" opens a "bookshelf". The robot can read and write books here.</li></ul>
+<dl><dd>This can be used for programcode, input and output.</dd></dl>
+<ul><li>Button "<b>Help</b>" shows some helptext.</li>
+<li>Press <b>ESC</b> to exit the form.</li></ul>
+<h4><span class="mw-headline" id="Notes">Notes</span></h4>
+<p>Each spawner can only run one bot at a time.<br />
+To pick up the spawner, its inventory and library must be empty (like a chest).
+</p>
+<dl><dd>While the robots is running, rightclicking it will also open the form</dd>
+<dd>(without the Start-button), so you can stop it, and access its inventory.</dd></dl>
+<p>The code of a program is executed repeatedly, about once every second.
+</p><p>...
+</p>
+<h4><span class="mw-headline" id="Server">Server</span></h4>
+<p>There is a server dedicated to robots:
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Address[:Port]</th>
+<th>MaxPlayers</th>
+<th>Version/Game/Mapgen</th>
+<th>Name</th>
+<th>Description</th>
+<th>Flags
+</th></tr>
+<tr>
+<td>46.150.38.198:30000</td>
+<td>15</td>
+<td>0.4.15/minetest/v7</td>
+<td><a href="/ROBOTS-server" title="ROBOTS-server">ROBOTS</a></td>
+<td>program your own robot</td>
+<td>Ded Dmg PvP
+</td></tr></tbody></table>
+<p><b>Flags</b>
+</p>
+<ul><li>Cre -	Creative mode</li></ul>
+<ul><li>Ded -	Dedicated Server</li>
+<li>Dmg -	Damage enabled</li></ul>
+<ul><li>Far -	Players can see far away names</li>
+<li>Liq -	Finite Liquids</li></ul>
+<ul><li>Pvp -	Players can damage other players</li>
+<li>Pwd -	Players need to set a password at first connect</li>
+<li>Rol -	Rollback enabled</li></ul>
+<p><b>See also:</b> 
+<a rel="nofollow" class="external text" href="http://www.minetest.net/servers/">Serverlist</a> and
+<a rel="nofollow" class="external text" href="http://servers.minetest.net/">Servers</a>
+</p>
+<h2><span class="mw-headline" id="Robot-commands_-_Part_1">Robot-commands - Part 1</span></h2>
+<p>List of simple commands, to start learning how to use the robot:
+</p>
+<ul><li>say("Hi") - output text to chat.</li>
+<li>self.label("Hugo") - assign a name to the robot.</li></ul>
+<dl><dd></dd></dl>
+<ul><li>turn.left() - rotates bot 90°.</li>
+<li>turn.right()</li></ul>
+<dl><dd></dd></dl>
+<ul><li>move.forward() - move one step in a given direction, if the path is clear.</li>
+<li>move.backward()</li>
+<li>move.up()</li>
+<li>move.down()</li>
+<li>move.left()</li>
+<li>move.right()</li></ul>
+<dl><dd></dd></dl>
+<ul><li>dig.forward() - get/mine the block in the given direction.</li></ul>
+<dl><dd>!! Caution, the robot can dig stuff like its own spawner, chests owned by the player etc.&#160;!!</dd></dl>
+<ul><li>place.backward("default:dirt") - build a block of the specifed stuff in a given direction.</li></ul>
+<ul><li>p = self.pos() - returns the position of the bot, as a table p with entries for x, y, z.</li></ul>
+<dl><dd>Note: in an earlier version of basic_robot, this command was "selfpos()"</dd></dl>
+<ul><li>n = read_node.forward() - returns a string with the name of the block in a given direction.</li></ul>
+<p>...
+</p>
+<h2><span class="mw-headline" id="Example_programs_-_simple">Example programs - simple</span></h2>
+<p>First, some simple programs with explanations, as an introduction 
+to show how the robot and programming works.
+</p>
+<h3><span class="mw-headline" id="HelloWorld">HelloWorld</span></h3>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre> say("Hi")
+ turn.left()</pre></div>
+<p>The robot will repeatedly say "Hi", while spinning atop the spawner.<br />
+To stop it, rightclick the robot or spawner, and press the Stop-button.
+</p>
+<dl><dd>Changing the program while the robot is running has no effect.</dd></dl>
+<h3><span class="mw-headline" id="HelloWorld1">HelloWorld1</span></h3>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre>if (i == nil) then 
+   say("Hi&#160;!")
+   self.label("Hugo")
+   i = 0 
+end
+
+i = i+1
+turn.left()
+say(i)</pre></div>
+<p>Outputs "Hi&#160;!" (only once), then start counting and turning.
+</p>
+<dl><dd><b>==</b> is the check to compare the values on both sides, i.e. "if i is-equal-to nil".</dd>
+<dd><b>=</b> is an assignment, i.e. "i=0" means "put the value 0 into the variable i".</dd></dl>
+<p>To calculate <b>i+1</b>, the variable <b>i</b> must have a value assigned first.<br />
+And because all the code is executed again every second, <br />
+this first assignment must be done only once. 
+</p>
+<dl><dd>(Otherwise, we couldn't count to 2)  <br /></dd></dl>
+<p>At the start, no variables exist yet, so we can test for <b>nil</b> ("no-value").
+</p>
+<dl><dd>Note: nil is different from any string or number&#160;!</dd></dl>
+<h3><span class="mw-headline" id="HelloWorld2">HelloWorld2</span></h3>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre> if i==nil then i="Hi&#160;!"; say(i); i=0 end
+ i=i+1  say(i)</pre></div>
+<p>Same as above, but with multiple statements in one line, <br />
+and some variations (e.g. braces and ";" are optional).
+</p>
+<dl><dd>In lua, the value of a variables can be of any type.</dd>
+<dd>Here, <b>i</b> first is assigned the string "Hi&#160;!", and later a number.</dd></dl>
+<p>A quick way to clear the code in the textarea is control-a, then delete or backspace.<br />
+Also, picking up the spawner, and placing it again will clear the code.
+</p>
+<h3><span class="mw-headline" id="CatchMe1">CatchMe1</span></h3>
+<p>This shows some program that works perfectly well, 
+but still shoots the player's foot&#160;:-)
+</p>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre> dig.down()
+ move.down()</pre></div>
+<p>The robot keeps digging down, until stopped or until it finds a cave, or an unloaded map-block.<br />
+With the first dig, it will also destroy its spawner.<br />
+So, to get at the stop-button, the user has to jump into the hole to get at the robot.<br />
+(Quickly, otherwise the player also gets falling damage&#160;!)
+</p>
+<dl><dd>Leaving the game, and entering again probably also stops the bot...</dd></dl>
+<p>(Maybe a bug: without the spawner, the inventory of the robot is not accessible)
+</p>
+<h3><span class="mw-headline" id="CatchMe2">CatchMe2</span></h3>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre> dig.up()
+ move.up()
+ place.down("default:dirt")
+ p = self.pos()  -- returns a table, with elements x, y, and z
+ say("Position: " .. p.x .. "," ..  p.y .. "," ..  p.z)</pre></div>
+<p>Now we go up, instead of down.<br />
+After stopping the robot, and pressing start again, <br />
+there will be a block of dirt above the bot from the first go.<br />
+We need to dig away this block so that the bot can move up again.
+</p>
+<dl><dd>! Caution, check the correct spelling of the <a href="/Blocks" class="mw-redirect" title="Blocks">blocks</a> you want to build/place&#160;!</dd></dl>
+<p>The command "say()" outputs a single string,
+but several strings can be concatenated with '..'.
+</p>
+<dl><dd>Numbers are automatically converted to strings for output (e.g. the number in p.x).</dd></dl>
+<p>With the robot announcing its position, 
+the player can use a command like "/teleport 11,12,13" 
+to get at the top of the column that was built.
+</p>
+<dl><dd>Note: y is used as the height here in minetest.</dd></dl>
+<p>Clouds fly at a height of about 120.
+</p><p>Use left-shift to sneak to the edge of the block to look down without falling.<br />
+Use the command "/home" to get down again. 
+</p>
+<dl><dd>Make sure to "/sethome" before teleporting up.</dd></dl>
+<p>Also, read the documentation, i.e. about "fly", "noclip", and "<a href="/Bones" title="Bones">bones</a>".
+</p>
+<h3><span class="mw-headline" id="Run1">Run1</span></h3>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre> if (i==nil) then say("Demo1"); i=0 end
+  
+ if read_node.forward()=="air" then
+   move.forward()
+ else
+   turn.right()
+ end</pre></div>
+<p>If nothing ("air" mean nothing solid) is in front of it, the robot moves forward, otherwise it turns.<br />
+The robot can "fly" one block above the ground, like the player can reach by jumping up. 
+The bot just doesn't need to bounce up &amp; down.<br />
+</p><p>That means, if the robot reaches a place where the ground one step ahead
+is more then one block lower, he cannot move forward. 
+</p><p>With the above program, he just stops moving,
+because there are no instructions in the code to handle that case.
+</p>
+<h3><span class="mw-headline" id="Run2">Run2</span></h3>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre> local function report_pos(msg)
+   p = self.pos()
+   say(msg .. " position x=" .. p.x .. " y=" .. p.y .. " z=" .. p.z)
+ end
+ --
+ if (i==nil) then say("\nDemo2"); i=0 end
+ --
+ n = read_node.forward()
+ if n~="air" then
+   report_pos("Now at") 
+   say("found "..n..", turning")
+   turn.right()
+ else
+   if move.forward() then 
+     i=i+1  -- move was ok
+   else
+     report_pos("cannot move at")
+     --self.remove()  -- stop program, and remove robot
+   end
+ end</pre></div>
+<h4><span class="mw-headline" id="Notes_2">Notes</span></h4>
+<ul><li>".." is the lua-command for concatenating strings.</li>
+<li>"\n" is newline.</li>
+<li>"~=" is the check for not-equal.</li>
+<li>"--" starts a comment. Text after this until the end of the line is ignored.</li></ul>
+<dl><dd>Here, we have also commented-out the statement "self.remove()",</dd>
+<dd>so that it doesn't get executed.</dd></dl>
+<p>This is essentially the same program as 'Run1' above, but with more checking and reporting:<br />
+now there is a check if the move was successful, and output to report the position.
+</p><p>Because we want to report the current position of the bot at more then one place in the code,<br />
+the common instructions for that have been moved into a function.<br />
+When called, the function gets a string as a parameter, that is used in the message that is generated.<br />
+There is no return-statement at the end of the function, 
+because we don't need a result.<br />
+</p>
+<h2><span class="mw-headline" id="New_pages">New pages</span></h2>
+<ul><li><a href="/Mods/basic_robot/Commands_Part-1" title="Mods/basic robot/Commands Part-1">Mods/basic_robot/Commands_Part-1</a></li>
+<li><a href="/index.php?title=Mods/basic_robot/Commands_Part-2&amp;action=edit&amp;redlink=1" class="new" title="Mods/basic robot/Commands Part-2 (page does not exist)">Mods/basic_robot/Commands_Part-2</a></li>
+<li><a href="/index.php?title=Mods/basic_robot/Commands_Part-3&amp;action=edit&amp;redlink=1" class="new" title="Mods/basic robot/Commands Part-3 (page does not exist)">Mods/basic_robot/Commands_Part-3</a></li></ul>
+<p>...
+</p>
+<ul><li><a href="/Mods/basic_robot/RC" title="Mods/basic robot/RC">Mods/basic_robot/RC</a></li></ul>
+<p>...
+</p>
+<ul><li><a href="/Mods/basic_robot/Programs" title="Mods/basic robot/Programs">Mods/basic_robot/Programs</a> - Programs for support/maintainance/admins</li></ul>
+<p>...
+</p>
+<h2><span class="mw-headline" id="Remote-Control">Remote-Control</span></h2>
+<h3><span class="mw-headline" id="Intro_2">Intro</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/File:BasicRobot-colored-RC.png" class="image"><img alt="" src="/images/thumb/3/34/BasicRobot-colored-RC.png/300px-BasicRobot-colored-RC.png" decoding="async" width="300" height="225" class="thumbimage" srcset="/images/thumb/3/34/BasicRobot-colored-RC.png/450px-BasicRobot-colored-RC.png 1.5x, /images/thumb/3/34/BasicRobot-colored-RC.png/600px-BasicRobot-colored-RC.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:BasicRobot-colored-RC.png" class="internal" title="Enlarge"></a></div>Spawner and basic_robot, remote control with colored buttons</div></div></div>
+<p>A remote control (rc for short) can be used to give orders to a robot.
+</p><p>It has 2 modes:
+</p>
+<ul><li>manual (leftclick) - without any programming, it shows a form with buttons for moving, turning and digging.</li>
+<li>programming (rightclick) - shows a small textarea for entering a few lines of code, and a SAVE-button.</li></ul>
+<p>Those remote controller are very useful, 
+see the extra page <a href="/Mods/basic_robot/RC" title="Mods/basic robot/RC">Mods/basic_robot/RC</a> for more.
+</p><p>But now, for a short demonstration, get one spawner ("/giveme basic_robot:spawner" )
+and 2-3 remotes ("/giveme basic_robot:control 2").<br />
+Place the spawner on the ground, and the remotes on the hotbar.<br />
+</p><p>Rightclick the spawner, and enter this program:
+</p>
+<h3><span class="mw-headline" id="RC0">RC0</span></h3>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre> --Spawner
+ if (i==nil) then say("RC-demo"); i=0; talk=1 end
+ i = i+1
+ if talk&gt;0 then say(i) end</pre></div>
+<p>Press SAVE, then press START.<br />
+The robot appears on top of the spawner, greets, and starts to count.
+</p><p>Now select the first rc and leftclick: the form for 'manual'-mode appears,
+with buttons to steer the robot around. <br />
+Try it.  To stop, press ESC.<br />
+</p>
+<dl><dd>Note: "Left" means move-left, "TLeft" means turn-left. "Go" means move-forward.</dd></dl>
+<p>Now rightclick the rc, without pointing at some node. 
+</p>
+<dl><dd>The programming form pops up, with a textarea and a SAVE-button.</dd></dl>
+<p>Enter a simple program, like this line of code:
+</p>
+<h3><span class="mw-headline" id="RC1">RC1</span></h3>
+<pre>say("Hi")
+</pre>
+<p>Then press SAVE, and (with this rc still selected) leftclick. <br />
+Instead of the manual-mode-form with buttons popping up as before, <br />
+the robot executes the line of code entered into the form, once. <br />
+In the chat-text a line with "Hi" should appear between all that counting.
+</p><p>Rightclick the rc again, and change the code in the textarea to:
+</p>
+<h3><span class="mw-headline" id="RC2_-_ReportPosition">RC2 - ReportPosition</span></h3>
+<pre>p  = self.pos()
+say("Step="..i.." Position x="..p.x.." y=".. p.y.." z=".. p.z)
+</pre>
+<p>Save, then leftclick - the robot should report its position, 
+as well as the running counter from the program RC0 above.<br />
+</p><p>(... Todo: rightclick with remote on a node ...)
+</p><p>With another 'empty' rc you can steer the robot via the manual-buttons,<br />
+and by selecting and clicking the rc with the code, you get the report.
+</p><p>Now we use another rc to to deactivate the "say"-instruction in RC0,
+to stop cluttering the chat:
+</p>
+<h3><span class="mw-headline" id="RC3_-_Talk_OnOff">RC3 - Talk OnOff</span></h3>
+<pre>if talk&gt;0 then talk=0 else talk=1 end
+--say("talk="..talk)
+</pre>
+<p>This switches the contents of variable talk with each leftclick,<br />
+and so controls the output from RC0.
+</p>
+<h3><span id="RC4_-_Paving/bridgebuilding"></span><span class="mw-headline" id="RC4_-_Paving.2Fbridgebuilding">RC4 - Paving/bridgebuilding</span></h3>
+<p>Paving one step in front of the robot:
+</p>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre> s="default:dirt"
+ --s="default:cobble"
+ dig.forward_down()
+ place.forward_down(s)
+ move.forward()</pre></div>
+<p>This also works on water, or thru the air, to build bridges.<br />
+The robot needs building-material in its inventory.
+</p>
+<h2><span class="mw-headline" id="Example_programs_-_not-so-simple">Example programs - not-so-simple</span></h2>
+<p>Now, we show some programs that might be actually useful.
+</p>
+<h3><span class="mw-headline" id="Build1_-_Fence">Build1 - Fence</span></h3>
+<p>This program builds a small, simple fences around the spawner, with a gate on one side.<br />
+Here, the idea is to divide the whole work ("build a complete fence") <br />
+into a single, simpler task ("build one corner") that just needs to be repeated.
+</p>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre> local function init(progname)
+  if (stat==nil) then
+   say(progname)
+   i=0  stat="ok" w=0
+ 
+   s1="default:fence_wood"
+   s2="doors:gate_wood_closed"
+ 
+ --turn.right()
+   move.forward()
+   turn.left()
+  end
+ end
+ 
+ local function work()
+   w=w+1  say("working on part #"..w)
+   move.forward()
+   place.down(s1)
+   turn.left()
+   move.forward()
+   place.down(s1)
+ end
+ 
+ init("Build-a-fence")
+ 
+ if w==3 then
+   dig.down()
+   place.down(s2)
+ end
+ 
+ if w&gt;=4 then
+   stat="Done."  say(stat)  self.remove()
+ else
+   work() 
+ end</pre></div>
+<p>The instructions in <b>work()</b> do one corner of the fence. 
+After executing it four times, the fence is done.<br />
+The fence-gate is placed after the 3rd corner, replacing one of the fenceposts.
+</p>
+<dl><dd>The move&amp;turn-instructions in init() get the bot to a proper starting position.</dd></dl>
+<h3><span class="mw-headline" id="Build2_-_Fence2">Build2 - Fence2</span></h3>
+<p>More fences, and a program more organized.
+</p>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre> local function init(progname)
+   if (stat==nil) then 
+     say("\n"..progname) 
+     i=0  stat="ok"  w=0  debug=0
+ 
+     s1=0  stuff1="default:stone"
+     s2=0  stuff2="default:wood"
+     s3=0  stuff3="doors:door_wood"
+ 
+     s1=0  stuff1="default:fence_wood"
+     s2=0  stuff2="doors:gate_wood_closed"
+     s3=0  stuff3="flowers:rose"
+ 
+   --turn.right()
+     move.forward()
+     turn.left()
+   end
+ end
+ 
+ local function report_pos(msg) 
+    p = self.pos()   -- table p with entries for x,y,z
+    say(msg.." Position x="..p.x.." y=".. p.y.." z=".. p.z) 
+ end 
+ 
+ local function _say(msg) 
+   if debug&gt;0 then say(msg) end
+ end
+ 
+ local function work(s)
+   if (stat~="ok") then return end
+   --
+   w=w+1
+   _say("work#"..w.."&#160;: "..s)
+   s=string.lower(s)
+   i=0
+   while #s&gt;0 do
+     c1= string.sub(s,1,1)  -- get first char from workstring
+     i=i+1
+     if (c1=="f") then move.forward() end
+     if (c1=="u") then move.up()   end
+     if (c1=="d") then move.down() end
+     if (c1=="r") then turn.right()   end
+     if (c1=="l") then turn.left()    end
+ 
+     if (c1=="-") then
+       n = read_node.down()  _say("dig: "..n)
+       dig.down()
+     end
+ 
+     n = read_node.down()  _say(i.."&#160;: "..n)
+     if n == "air" then 
+       if (c1=="1") then place.down(stuff1) s1=s1+1 end
+       if (c1=="2") then place.down(stuff2) s2=s2+1 end 
+       if (c1=="3") then place.down(stuff3) s3=s3+1 end 
+     else
+       if c1=="3" then _say("! cannot place&#160;: "..c1.." over "..n) end
+     end
+  
+     s = string.sub(s,2)  -- remove first char from workstring
+   end --while
+ end
+ 
+ init("UniBuilder v0.4")
+ --work("F-LF-")  --cleanup
+ work("F1LF1 ")  --build
+ 
+ if w==2 then  work("-2")  end
+ --if w==2 then  work("-")  end  --cleanup
+ 
+ if w&gt;4  then  work("FRF") w=0 end
+ 
+ _say("w="..w.. " s1="..s1.." s2="..s2)
+ if s1&gt;=28 and s2&gt;=4 then  
+   work("RF3")
+   say("Done.")  self.remove()  
+ end</pre></div>
+<h4><span class="mw-headline" id="Notes_3">Notes</span></h4>
+<p>This needs at least 7x7 clear spaces of flat terrain.
+The program builds some fences and gates.<br />
+It is a variation of the above program "Build1", 
+building the same fence 4 times at different places.
+</p><p>The code is organized into several functions:
+</p>
+<ul><li>init() - set up variables, assign values, announce the program-name</li>
+<li>report_pos() - report the position of the bot</li>
+<li>_say() - a wrapper around say(), for easy switching on/off printing messages while testing</li>
+<li>work() - defines one-letter-shortcuts for moving, digging, building etc.</li></ul>
+<dl><dd>Note that this work()-function has no fixed workload as in the previous Build1,</dd>
+<dd>and gets a string with commands as a parameter.</dd></dl>
+<p>After the functions follows the actual logic for building the fences.
+</p>
+<dl><dd>There are some commented-out "cleanup"-statements to undo the built, and remove the fence.</dd>
+<dd>(You need to stop the robot by hand when running a cleanup)</dd></dl>
+<p>Fence-gates don't align themselves with the nearby fenceposts, 
+and the robot cannot change that. <br />
+So the player has to use a <a href="/Screwdriver" title="Screwdriver">screwdriver</a> to finish this
+(or dig &amp; rebuild the mis-aligned gates).
+</p>
+<h3><span class="mw-headline" id="Build3_-_Instant_shelter">Build3 - Instant shelter</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/File:Instant-Shelter-booth.png" class="image"><img alt="" src="/images/thumb/a/ac/Instant-Shelter-booth.png/300px-Instant-Shelter-booth.png" decoding="async" width="300" height="225" class="thumbimage" srcset="/images/thumb/a/ac/Instant-Shelter-booth.png/450px-Instant-Shelter-booth.png 1.5x, /images/thumb/a/ac/Instant-Shelter-booth.png/600px-Instant-Shelter-booth.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Instant-Shelter-booth.png" class="internal" title="Enlarge"></a></div>A small, safe place.</div></div></div>
+<p>The robot builds a shelter around the spawner, like a phone-booth.
+</p>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre> if not pn then pn="Instant shelter v1.7"  say(pn)
+ --pickup(8)
+   i=0
+   m0="default:dirt";  m1="default:glass"; m2="default:cobble"
+   m8="default:sand";  m9="default:torch"  
+   mS=m0;  mC=m2     -- material for sides and corners
+ end
+ 
+  i=i+1; --say(i)
+  if i&lt;100 then
+    dig.forward(); move.forward()
+    place.right(mC)
+    move.backward()
+    place.forward(mS)  
+    turn.left()
+  end
+ 
+  if i== 4 then move.up()  place.down(m8)  mS=m1 end
+  if i== 8 then move.up()  place.down(m8)  mS=m0 end
+  if i==12 then 
+    place.up(m1); 
+    i=100
+  end
+  if i==101 then 
+    dig.down(); move.down()
+    place.up(m9); 
+  end
+
+ if i&gt;=102 then
+    dig.down();  --&#160;!! needs check for spawner
+    say(pn .." done.");  self.remove()  
+ end
+--</pre></div>
+<p>Usage: if you need some protection NOW, set the spawner on the ground,<br />
+stand on it, put the building-materials into the spawner, start the program <br />
+and the robot builds the shelter around you and the spawner.
+</p><p>In the picture, the side are built with dirt, to make it easier to dig out.
+</p>
+<dl><dd>But you could also use the robot for digging, if you had no pickaxe.</dd></dl>
+<h3><span class="mw-headline" id="Build4_-_House1">Build4 - House1</span></h3>
+<p>Now we try to build a house.<br />
+A hut.  Ok, it's a really small hut&#160;:-)
+</p>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre>local function init(progname)
+ if (i==nil) then 
+  say(progname)
+  self.label(progname)
+  i=0  stat="ok"
+  draw=0
+  stuff="default:stone"
+  stuff="default:dirt"
+ end
+end
+
+local function work(s)
+  say("work: "..s)
+  s=string.lower(s)
+  i=0
+  while #s&gt;0 do
+    c1= string.sub(s,1,1)  i=i+1
+    say(c1)
+    if (c1==".") then say("Stop.") self.remove() end
+
+    if (c1=="-") then draw=0 end
+    if (c1=="+") then draw=1 end
+
+    if (c1=="u") then move.up()    end
+    if (c1=="d") then move.down()  end
+    if (c1=="l") then move.left()  end
+    if (c1=="r") then move.right() end
+    if (c1=="&lt;") then turn.left()  end
+    if (c1=="&gt;") then turn.right() end
+
+    if (c1=="f") then 
+      move.forward() 
+      if draw&gt;0 then place.backward(stuff) say(stuff) end
+    end
+
+    s = string.sub(s,2)
+  end
+end
+
+init("UniBuilder v0.7")
+
+work("fd&lt;F")
+work("+F&gt;ffff&gt;FFFF&gt;ffff&gt;ff-uF")
+work("+F&gt;ffff&gt;FFFF&gt;ffff&gt;ff-uF")
+--&#160;?? execution limit</pre></div>
+<p>BTW, to see some 'happy accidents', replace the last lines with this:
+</p>
+<pre>work("fd&lt;F&gt;")
+work("+fff&gt;FF&gt;fff&gt;f-uF")
+</pre>
+<h4><span class="mw-headline" id="Notes_4">Notes</span></h4>
+<p>Essentially, we use the functions from the above program "Build2",<br />
+and write some new logic for building a house instead of a fence.
+</p><p>The procedure is quite similar: the robot moves around like the shape of the walls,
+and builds a block after each move.<br />
+But now it also needs to move up, and repeat this for each layer of the wall.<br />
+Finally, some extra processing to close the roof.
+</p>
+<h3><span class="mw-headline" id="Build5_-_another_housebuilder">Build5 - another housebuilder</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/File:BasicRobot-Build3a.png" class="image"><img alt="" src="/images/thumb/e/e0/BasicRobot-Build3a.png/300px-BasicRobot-Build3a.png" decoding="async" width="300" height="225" class="thumbimage" srcset="/images/thumb/e/e0/BasicRobot-Build3a.png/450px-BasicRobot-Build3a.png 1.5x, /images/thumb/e/e0/BasicRobot-Build3a.png/600px-BasicRobot-Build3a.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:BasicRobot-Build3a.png" class="internal" title="Enlarge"></a></div>'Hut-Builder 3x4, v0.2' at work</div></div></div>
+<h4><span class="mw-headline" id="Code">Code</span></h4>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre> local function init()
+   if i~=nil then return end
+     --
+     progname="Test"
+     prg="!&gt;&gt;&gt;&gt;."
+     --
+     progname="Build hut 1x3, v0.1"
+     prg = "!&lt;fd&gt;"
+     prg = prg .. "+fff&gt;FF&gt;fff&gt;uFF&gt;"
+     prg = prg .. "+fff&gt;FF&gt;ffuf&gt;F,F&gt;"
+     prg = prg .. "+f&amp;f&amp;f&gt;FF&gt;fu-."
+     stuff="default:dirt"
+     --
+     progname="Hut-Builder 3x4, v0.2"
+     prg = "!&lt;fd+f&gt;"
+     prg = prg .. "FFFFF&gt;ffff&gt;"
+     prg = prg .. "FFFFF&gt;fuf-F+f&gt;"
+     prg = prg .. "FFFFF&gt;ffff&gt;"
+     prg = prg .. "FFFFF&gt;"
+     prg = prg .. "uffff&gt;"  .. "F&amp;F&amp;F&amp;F&amp;F&gt;"
+     prg = prg .. "ff&amp;f&amp;f&gt;" .. "F&amp;F&amp;F&amp;F&amp;u"
+     prg = prg .. "-&gt;f_f&gt;"  .. "_f_."
+     stuff="default:stone"
+
+     i=0  cs=0  stat="ok" 
+     draw=0 raze=0
+ end
+ 
+ local function report_pos(msg) 
+    p = self.pos()   -- table p with entries for x,y,z
+    say(msg.." Position x="..p.x.." y=".. p.y.." z=".. p.z) 
+ end 
+ 
+ -- get first char from prg, and do 1 step
+ local function work1()
+     s=string.lower(prg)
+     if #s&gt;0 then
+        c1= string.sub(s,1,1)  
+        i=i+1
+        say(i.." work1: "..s.."&#160;: "..c1)
+ 
+        if (c1==".") then say("Stop.") self.remove() end
+ 
+        if (c1=="!") then 
+          --say(progname)
+          self.label(progname)
+          report_pos(progname.." now at") 
+        end
+ 
+        if (c1=="+") then draw=1 end
+        if (c1=="-") then draw=0 end
+        if (c1=="(") then raze=1 end
+        if (c1==")") then raze=0 end
+ 
+        --$%&amp; ^|_
+        if (c1=="$") then place.front(stuff) cs=cs+1 end
+ 
+        if (c1=="%") then place.left( stuff) cs=cs+1 end
+        if (c1=="&amp;") then place.right(stuff) cs=cs+1 end
+        if (c1=="^") then place.up(   stuff) cs=cs+1 end
+        if (c1=="|") then place.down( stuff) cs=cs+1 end
+        if (c1=="_") then place.forward_down(stuff) cs=cs+1 end
+
+        -- /() =?  * #' ,;.:
+        if (c1=="'") then dig.up()      end
+        if (c1==",") then dig.down()    end
+        if (c1==":") then dig.right()   end
+        if (c1=="*") then dig.forward() end
+        if (c1==";") then dig.forward_down() end
+
+        if (c1=="l") then move.left()  end
+        if (c1=="r") then move.right() end
+        if (c1=="&lt;") then turn.left()  end
+        if (c1=="&gt;") then turn.right() end
+
+        if (c1=="f") then 
+          if raze&gt;0 then dig.forward() end
+          move.forward() 
+          if draw&gt;0 then place.backward(stuff) cs=cs+1 end
+        end
+        if (c1=="u") then 
+          if raze&gt;0 then dig.up() end
+          move.up()
+          if draw&gt;0 then place.down(stuff) cs=cs+1 end
+        end
+        if (c1=="d") then 
+          if raze&gt;0 then dig.down() end
+          move.down()
+          if draw&gt;0 then place.up(stuff) cs=cs+1 end
+        end
+ 
+        prg = string.sub(s,2)
+     end
+ end
+ 
+ init()
+ work1()</pre></div>
+<h4><span class="mw-headline" id="Notes_5">Notes</span></h4>
+<p>Running Build3 revealed some problems with the sandbox of basic_robot.<br />
+So, this is an alternative approach, with a simplified, restructured program:
+</p>
+<ul><li>init() -- only runs once, to do all the setup.</li>
+<li>work1() -- runs once every tick, and does one step of the program in prg.</li></ul>
+<p>We still use the basic idea of a 'turtle' / <a rel="nofollow" class="external text" href="http://dev.minetest.net/Introduction_to_L-system_trees#Turtle_graphics">l-system</a>, that is used as a pen/brush for drawing,<br />
+that is controlled with a program consisting of 1-character-commands.
+</p><p>But now, we process only one command per 'tick'.<br />
+This could be optimized a bit, e.g. some commands don't need time,<br />
+so a second command could be done during the same tick.
+</p>
+<h4><span class="mw-headline" id="Command-Overview">Command-Overview</span></h4>
+<p>Upper- and lowercase are considered the same,
+</p>
+<dl><dd>so both "ffffffffff" and "fffFFfffFF" do the same.</dd></dl>
+<ul><li>F,B, U,D, R,L - Move forward,backward, up,down, right,left</li>
+<li>&lt;,&gt; - Turn left, right</li>
+<li>+,- - Switch building on/off</li>
+<li>(,) - Switch digging  on/off</li>
+<li>!   - Announce position</li>
+<li>. - End program</li>
+<li>' , *&#160;; - Dig up, down, forward, forward-down</li>
+<li>$&#160;% &amp;  ^ | _ - Build forward,left,right, up,down,forward-down</li>
+<li>0,1,2, etc. - Select material to build (not used yet)</li>
+<li>:,[,],/ - reserved for future use (e.g. subroutines)</li></ul>
+<h4><span class="mw-headline" id="Building_the_house">Building the house</span></h4>
+<p>The entrance will be at the position of the spawner,<br />
+and the house/hut will be built in the direction the robot spawns.
+</p>
+<h4><span class="mw-headline" id="Building_the_program">Building the program</span></h4>
+<p>The easy way to develop a building-program is by using a remote, and copy/paste.<br />
+We start with a short program in init(), like 
+</p>
+<pre>prg = "!&lt;fd+"
+</pre>
+<p>that lets the bot just climb down from the spawner, 
+and turns on 'drawing' = building.
+</p><p>As this program is run, chars are removed from the front, 
+and the corresponding commands executed.<br />
+When all chars have been used (and the program has not ended with "."),
+the bot just sits there, waiting.<br />
+Now we use a remote to give the bot the next few instructions to build:<br />
+Rightclick the remote (without pointing at the bot or spawner), 
+and enter into the textbox
+</p>
+<pre>prg="f&gt;FFFFF&gt;"
+</pre>
+<p>and click the SAVE-button.
+</p><p>Then leftclick the bot with the remote, 
+to let him execute the commands from the textbox.<br />
+Watch the bot, correct any errors using an 'empty' remote.
+</p><p>Continue with the next few building-instructions, e.g.
+</p>
+<pre>prg="ffff&gt;"
+</pre>
+<p>Etc. until the building is complete.
+</p><p>Copy&amp;paste all the snippets into an editor, 
+make a single string from it, e.g.
+</p>
+<pre>  prg = "!&lt;fd+f&gt;"
+  prg = prg .. "FFFFF&gt;ffff&gt;" .. "FFFFF&gt;fuf-F+f&gt;"
+  prg = prg .. "FFFFF&gt;ffff&gt;" .. "FFFFF&gt;" .. "uffff&gt;"  
+  prg = prg .. "F&amp;F&amp;F&amp;F&amp;F&gt;"  .. "ff&amp;f&amp;f&gt;" .. "F&amp;F&amp;F&amp;F&amp;u"
+  prg = prg .. "-&gt;f_f&gt;"      .. "_f_."
+</pre>
+<p>and finally put that finished building-string into init().
+</p>
+<h2><span class="mw-headline" id="Example_programs_-_useful">Example programs - useful</span></h2>
+<p>Now some programs that might be actually useful during play.
+</p>
+<h3><span class="mw-headline" id="Farming">Farming</span></h3>
+<p>Programs that help with farming.
+</p>
+<h4><span class="mw-headline" id="Sapling-Mill">Sapling-Mill</span></h4>
+<p>When a player picks up leaves, or a leave decays,<br />
+there is a small chance (about 5%) that it drops a sapling.<br />
+So, when harvesting a tree, a player can normally expect to find 1-2 saplings.
+</p><p>This program just repeats placing and picking up leaves,<br />
+until it has no more leaves in its inventory.
+</p>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre> -- Mike's sapling-mill v1.0
+ -- Turn leaves into saplings.
+ 
+ leaves = "default:jungleleaves"
+ leaves = "default:pine_needles";
+ leaves = "default:leaves"
+ 
+ dig.forward()  -- first dig &amp; collect
+ pickup(8)      -- collect saplings that dropped on the ground
+ 
+ if not place.forward(leaves) then say("empty&#160;!") self.remove() end
+ turn.left()</pre></div>
+<p>The mill stops when the place-command fails, i.e. it has run out of leaves.
+</p>
+<dl><dd>But that command can also fail for other reasons.</dd></dl>
+<p>Note: For proper operation, put some leaves into the robot's inventory before starting.<br />and set/uncomment the matching statement 'leaves="..."'.
+</p>
+<dl><dd>(When running as admin or in singleplayer, it might work even without leaves:)</dd></dl>
+<h4><span class="mw-headline" id="Sapling-Mill_2">Sapling-Mill 2</span></h4>
+<p>A more advanced version of the sapling-mill:
+</p>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre> if not s then s="Sapling-mill v1.2c" -- say(s)
+   fail=0
+ 
+ --leaves = "default:grass"        --&gt; wheat-seeds / server-error&#160;??
+ --leaves = "default:grass_1"      --&gt; wheat-seeds 
+ --leaves = "default:junglegrass"  --&gt; cotton-seeds
+ 
+ --leaves = "default:acacia_leaves" --&gt; acacia-tree
+ --leaves = "default:aspen_leaves"  --&gt; aspen-tree
+ --leaves = "default:pine_needles"  --&gt; pine-tree
+ --leaves = "default:jungleleaves"  --&gt; jungle-trees
+   leaves = "default:leaves"        --&gt; sappling for apple-trees
+ end
+ 
+ dig.forward()	-- first dig &amp; collect, then place
+ pickup(8)     	-- collect saplings on ground that dropped after dig
+ 
+ if place.forward(leaves) then 
+   fail=0
+ else 
+   fail=fail+1 
+ end
+ 
+ turn.left()
+ 
+ if fail&gt;4 then
+   say(s.." done with "..leaves)  self.remove() 
+ end</pre></div>
+<p>Here we have a more complete list of leave-types,<br />
+and the mill keeps running until all placed leaves 
+have been collected again, <br />
+and tried again, until they all have been used up.
+</p><p>...
+</p>
+<h4><span class="mw-headline" id="Farming101">Farming101</span></h4>
+<p>Harvesting and re-planting wheat, cotton etc. gets tedious pretty fast, 
+so let's automate that.
+</p><p>First, we try a simple 'remote lawnmover'-mode.<br />
+This uses one robot, with no program, and two remote-controllers.<br />
+</p>
+<ul><li>RC#1 is 'empty', and is used to steer the robot around.</li>
+<li>RC#2 gets programmed (rightclick) with this code&#160;:</li></ul>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre> ripe="farming:wheat_8"; seed="farming:seed_wheat" 
+ if read_node.forward() == ripe  then dig.forward() end
+ if read_node.forward() == "air" then place.forward(seed) end
+ move.forward()</pre></div>
+<dl><dd>Note: on the ROBOTS-server, farming also needs fertilizer.</dd>
+<dd>Placing fertilizer is not included in this program&#160;!</dd></dl>
+<p>After manoeuvring the robot to the first ripe fruit with RC#1,<br />
+we use RC#2 (with leftclick) to move the bot forward while harvesting &amp; planting.
+</p><p>This will only harvest ripe fruits, and only plant seeds on empty spaces.<br />
+But it does not check if that space has wet farming soil.
+</p><p>The advantage is, harvesting is now somewhat automated, we can use any terrain, <br />
+and we don't need to build walls or fences around the field.
+</p><p>The disadvantage is, this is still a lot of work, and gets tedious again.
+</p>
+<h4><span class="mw-headline" id="Farming102">Farming102</span></h4>
+<p>For a more 'hands-off' mode of harvesting, 
+we need to automate the movement of the robot.
+</p><p>One way is to build a wall or fence around the field, 
+and the robot turns around if it hits that wall.
+</p>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre> ...todo...</pre></div>
+<p>...
+</p>
+<h4><span class="mw-headline" id="Farming103">Farming103</span></h4>
+<p>Harvesting wheat, cotton etc. all works the same,
+because the plants grow directly on the ground,<br />
+and can be harvested with just one action.
+</p><p>Harvesting trees is harder, because the robot has to move
+in the 3rd dimension to get at all parts.<br />
+Also, different trees grow in different forms.
+</p>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre> ...todo...</pre></div>
+<p>See also <a href="/index.php?title=Basic_robot/Tutorial&amp;action=edit&amp;redlink=1" class="new" title="Basic robot/Tutorial (page does not exist)">Tutorial - Tree-Harvester</a>,
+</p>
+<h3><span class="mw-headline" id="Mining">Mining</span></h3>
+<p>Programs that help with mining.
+</p>
+<h4><span class="mw-headline" id="Mining101_-_simple_digger1x1">Mining101 - simple digger1x1</span></h4>
+<p>This program digs a 1x1 tunnel straight ahead.<br />
+The drops of the mined nodes (i.e. the resulting ore) go to the storage of the robot.
+</p><p>Place the spawner at the place where you want to start digging, 
+and press the start-button.
+</p>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre> -- simple digger1x1
+ if not i then  -- Init:
+   i=0
+   turn.left()  -- initital positioning: aim robot in a different direction
+ --move.up()
+ end
+
+ -- Work:
+ i=i+1  say(i)
+ if i&lt;=20 then
+   dig.forward()
+   move.forward()
+ end</pre></div>
+<p>The robot spawns facing in a fixed direction, 
+to have him dig in some other direction <br />
+we need to turn him in the init-part of the program.
+</p>
+<dl><dd>Or use a remote-control for that.</dd></dl>
+<p>The counter is just to ensure that the bot doesn't run away too far.
+</p><p>To get a walkable tunnel, just run the program a 2nd time, <br />
+with the command "move.up()" uncommented.
+</p>
+<h4><span class="mw-headline" id="Mining102">Mining102</span></h4>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre> -- simple digger2x1
+ if not i then  -- Init:
+   i=0
+   turn.left()  -- initital positioning: aim robot in a different direction
+ --move.up()
+ end
+
+ -- Work:
+ i=i+1  say(i)
+ if i&lt;=20 then
+   dig.forward()
+   --&#160;??
+   dig.up()       --&#160;!! doesn't work with setting 'maxdig=1'
+   move.forward()
+ else
+   say("stop")  self.remove()
+ end
+--</pre></div>
+<p>Same as above, but now we dig a walkable 2x1 tunnel in one pass.
+</p><p>...
+</p>
+<h4><span class="mw-headline" id="Mining103_-_tunnel_2x1">Mining103 - tunnel 2x1</span></h4>
+<p>Digging a 2x1 tunnel forward.
+</p><p>This is another variant with turtle-like movement, 
+using a string of 1-character-commands.
+</p>
+<h5><span class="mw-headline" id="Code_2">Code</span></h5>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre>  -- rnd 2017-01-23 / hajo 2017-01-26
+  if not commands then
+	--turn.left()  -- aim robot in a different direction
+	--move.up()
+
+	script = "DuDdf"  -- Variant 1 - uses only dig-forward
+	script = "^Df"    -- Variant 2: DigUp, DigForward, MoveForward
+
+	commands = {
+		["f"] = function() move.forward()  end,
+		["b"] = function() move.backward() end,
+		["l"] = function() move.left()  end,
+		["r"] = function() move.right() end,
+		["u"] = function() move.up()   end,
+		["d"] = function() move.down() end,
+
+		["&lt;"] = function() turn.left()  end,
+		["&gt;"] = function() turn.right() end,
+
+		["D"] = function() dig.forward() end,
+		["^"] = function() dig.up() end,
+	}
+ 	
+ 	i=1; n=string.len(script)
+  end
+
+  c=string.sub(script,i,i); commands[c]();
+  if i&gt;=n then i=1 else i=i+1 end</pre></div>
+<h5><span class="mw-headline" id="Notes_6">Notes</span></h5>
+<p><i>commands</i> is an array containing functions, indexed by characters. <br />
+These functions contain the lua-code to execute for that (turtlecommand-)character.
+</p><p><i>script</i> is a string that contains the (turtle-)instructions for the bot.
+</p><p>With each tick, one char from the script is extracted, <br />
+and the corresponding function from commands is executed.
+</p>
+<h3><span class="mw-headline" id="Building">Building</span></h3>
+<p>Programs that build something.
+</p>
+<h4><span class="mw-headline" id="BoxHouse_-_BasicHousing">BoxHouse - BasicHousing</span></h4>
+<p>This is a house-builder that uses the keyboard-blocks of the robot.<br />
+The advantage is, the house doesn't need any materials.<br />
+The disadvantage is, the result looks like a plastic toyhouse&#160;:)
+</p>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre> if not pn then pn="BoxHouse 0.5b"  -- hajo, 2017-03-03
+  say(pn) 
+  pos = self.spawnpos();
+  n=2; h=2               --&#160;!! set size here&#160;!!
+  c=2 -- 1=white 2=grey 3=red 4=green 5=blue 6=yellow
+
+  y= h; c=3; -- roof
+  for z=-n,n do  for x=-n,n do 
+    keyboard.set({x=pos.x+x,y=pos.y+y,z=pos.z+z}, c)
+  end  end 
+  y= -1; c=2; -- base/floor
+  for z=-n,n do  for x=-n,n do  keyboard.set({x=pos.x+x,y=pos.y+y,z=pos.z+z}, c) end end
+ 
+ function wall(x,y,z)
+  w=0
+  if x==0 and y==0 and z==0 then return -1 end  -- don't overwrite spawner&#160;!!
+  if y&lt;0        then return 4 end -- 2:grey, base
+  if y&gt;=h       then return 3 end -- 3:red, roof
+  a=math.abs(x); b=math.abs(z)
+  if y==1 and (a==0 or b==0) then return 0 end  -- door/window
+  if a==n and b==n then return 5 end  -- 5:blue, corners
+  if a==n then return 6 end -- 6:yellow, E,W walls
+  if b==n then return 1 end -- 1:white,  N,S walls
+  return w
+ end
+
+  for y=0,h do  for z=-n,n do  for x=-n,n do 
+    w=wall(x,y,z); c=w;  --say(x.."/"..y.."/"..z.. " --&gt; "..w)  
+ --c=0  -- 0:air, for cleanup
+  if w&gt;0 then keyboard.set({x=pos.x+x,y=pos.y+y,z=pos.z+z}, c) end
+  end  end  end
+ 
+  say("done");  self.remove()
+ end</pre></div>
+<h5><span class="mw-headline" id="Notes_7">Notes</span></h5>
+<p><b>Usage:</b><br />
+Put the spawner at the intended center of the house,<br />
+set the size (n=1 .. n=4), and start.
+</p>
+<dl><dd>Any material at the building-site gets overwritten with the key-blocks,</dd>
+<dd>so if you need some of that dirt, dig it out before starting.</dd></dl>
+<p>If you uncomment the 'cleanup'-line, a (misbuild) house will be removed.
+</p><p>Note: this works correctly in singleplayer, and for admin.<br />
+Otherwise, it stops after some blocks with 'execution limit exceeded'.
+</p><p><b>Settings:</b><br />
+h is the height of the roof. The spawner is at y=0, the floor at y=-1.
+n is the size, and is used as -n .. +n, with the spawner at x=0, z=0.<br />
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th>n</th>
+<th>inner size</th>
+<th>outer size</th>
+<th>remarks
+</th></tr>
+<tr>
+<td>1</td>
+<td>1x1</td>
+<td>3x3</td>
+<td>see also 'Instant shelter'
+</td></tr>
+<tr>
+<td>2</td>
+<td>3x3</td>
+<td>5x5</td>
+<td>'Basic housing'
+</td></tr>
+<tr>
+<td>3</td>
+<td>5x5</td>
+<td>7x7</td>
+<td>'Decent housing'
+</td></tr>
+<tr>
+<td>4</td>
+<td>7x7</td>
+<td>9x9</td>
+<td>'Roomy housing'
+</td></tr></tbody></table>
+<p>There is a big x/y/z - loop over the whole size of the house,<br />
+and the function wall(x,y,z) returns a code that decides <br />
+what type/color of block to build at every location.<br />
+</p><p>Each wall has one hole/window at the center,
+and you can decide yourself <br />
+where to dig another block, to make it into a door.
+</p>
+<h3><span class="mw-headline" id="Misc">Misc</span></h3>
+<p>Misc. useful programs.
+</p>
+<h4><span class="mw-headline" id="Simple_Shop">Simple Shop</span></h4>
+<p>This is a simple shop, to be used on a server in multiplayer.<br />
+The shop would be set up in a secured area (e.g. in range of a protector),<br />
+and we also need a normal chest and a keypad (from the mod basic_machines).<br />
+Also, some lights, and placing a sign for announcing the shop should be considered.
+</p>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre> --say("Shop out of order ... check back soon&#160;!"); self.remove()
+ --
+ if not pn then pn="SimpleShop v0.2" -- Hajo, 2017-03-03+
+  say(pn)
+  p=find_player(4)
+  if p==nil then s="Hello&#160;!" else s="Hello "..p[1].."&#160;!" end
+  say(s)
+  --
+  -- m1="default:torch";  m2="default:dirt" --Test
+ 
+  m1="default:sword_steel"  -- Example 1: sell 1 sword for 1 gold
+  m2="default:gold_ingot"
+ 
+  --m1="basic_machines:keypad"  -- Example 2: sell 1 keypad for 2 steel
+  --m2="default:steel_ingot 2"
+ 
+  ok1 = check_inventory.self(m1,"main") -- look at robot's inventory
+  if not ok1 then say("Out of stock: "..m1); self.remove() end
+ 
+  ok2 = check_inventory.up(m2,"main")   -- look at chest above robot
+  if not ok2 then say("No payment in chest ("..m2..")"); self.remove() end
+ 
+  say("Selling "..m1.." for "..m2) 
+  take.up(m2)
+  insert.up(m1)
+  say("Thanks for your purchase&#160;!");
+ end</pre></div>
+<p>The robot's inventory stores the items to be sold, as well as the payments.<br />
+The chest is for the items to be exchanged,<br />
+and the keypad-button activates the shop.
+</p><p>This shop simply exchanges one item from the chest 
+for one other item from the robot's inventory.
+</p>
+<dl><dd>But it would be easy to change the logic to any combination of items.</dd></dl>
+<h2><span class="mw-headline" id="Robot-commands_-_Part_2">Robot-commands - Part 2</span></h2>
+<p>Date- and time commands:
+</p>
+<ul><li>os.time() -- returns the current date and time, coded as the number of seconds since the epoch.</li>
+<li>os.date ([format [, time]]) -- Returns a string or a table containing date and time, formatted according to the given string format.</li></ul>
+<dl><dd>See manual at <a rel="nofollow" class="external text" href="http://www.lua.org/pil/22.1.html">Lua.org</a> or <a rel="nofollow" class="external text" href="http://lua-users.org/wiki/DateAndTime">Lua-users.org</a></dd></dl>
+<ul><li>os.clock() -- returns cpu-time used</li>
+<li>os.difftime (t2, t1) -- Returns the difference, in seconds, from time t1 to time t2 (where the times are values returned by os.time)</li></ul>
+<h3><span id="Time,_date_&amp;_clock"></span><span class="mw-headline" id="Time.2C_date_.26_clock">Time, date &amp; clock</span></h3>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre> s=os.date()          -- default-format
+ say("os.date="..s)
+ s=os.date("%Y-%m-%d %H:%M")  -- Year, month, day, Hour, Minute
+ say("os.date: "..s)
+ 
+ -- from rosettacode.org:
+ function duration (secs)
+    local units, dur = {"wk", "d", "hr", "min"}, ""
+    for i, v in ipairs({604800, 86400, 3600, 60}) do
+        if secs &gt;= v then
+            dur = dur .. math.floor(secs / v) .. " " .. units[i] .. ", "
+            secs = secs&#160;% v
+        end
+    end
+    if secs == 0 then 
+        return dur:sub(1, -3)
+    else
+        return dur .. secs .. " sec"
+    end
+ end
+ 
+ s=os.time()  -- time since jan 1, 1970
+ say("os.time="..s)
+ d=duration(s)
+ say("--&gt; "..d)
+ 
+ s=os.clock()  -- time since program started
+ say("os.clock="..s)
+ say("==&gt;".. duration(s) )
+ 
+ self.remove()</pre></div>
+<p>This program outputs lines like
+</p>
+<dl><dd>os.date=2017-01-26 13:14</dd>
+<dd>os.time=1485465321</dd>
+<dd>os.clock=123.456  --&gt; 2 min, 3.456 sec</dd></dl>
+<p>The function duration() converts these numbers into weeks, days, hour, minutes.
+</p>
+<h2><span class="mw-headline" id="Robot-commands_-_Part_3">Robot-commands - Part 3</span></h2>
+<p>Commands for inventory-access&#160;:
+</p>
+<ul><li>pickup(8)  - pick up items from the ground within range</li></ul>
+<dl><dd>e.g. saplings that dropped while harvesting trees</dd></dl>
+<ul><li>take.forward(item) - take items from a chest in the given direction</li>
+<li>insert.forward(item) - put item into a chest</li>
+<li>check_inventory.forward() - check an inventory for an item:
+<ul><li>ok=check_inventory.forward(item,inventory) - returns true if item exists</li>
+<li>item=check_inventory.self("",inventory,index) - returns item at index-position</li></ul></li></ul>
+<h3><span class="mw-headline" id="Inventory-Lister1">Inventory-Lister1</span></h3>
+<p>This program can list the robot's own inventory (inside the spawner),<br />
+or the contents of a chest.
+</p>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre> if not pn then pn="Inventory-Lister1"; say(pn)
+   move.forward() move.down() --turn.left() -- move into position, to look at chest
+   i=0
+   inv="main"  -- furnace also has an inventory-slot "fuel"
+   free=0
+ end
+ 
+ i=i+1  --say(i)
+ m=check_inventory.forward("",inv,i) -- look at chest in front of robot
+ --m=check_inventory.self("",inv,i)      -- look at robot's own inventory
+ 
+ if m=="" then
+   free=free+1
+ else
+   say(i..": "..m) 
+ end
+ 
+ if i&gt;=32 then
+   say(free.." free slots")
+   self.remove() 
+ end</pre></div>
+<p>This version is quite slow, because it checks one slot per tick.
+</p>
+<h3><span class="mw-headline" id="Inventory-Lister2_-_Fast">Inventory-Lister2 - Fast</span></h3>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre> if not pn then pn="Inventory-Lister2"; say(pn)
+ --move.forward() move.down() --turn.left() -- move into position, to look at chest
+  inv="main"
+  free=0
+  for i=1,32 do
+    m=check_inventory.self("",inv,i)      -- look at robot's own inventory
+    m=check_inventory.forward("",inv,i)   -- look at chest in front
+    if m=="" then free=free+1 else say(i..": "..m) end
+  end
+  say(free.." free slots")
+ end
+ self.remove()</pre></div>
+<p>This version runs faster, but might crash because of the sandbox-restrictions.
+</p>
+<h3><span class="mw-headline" id="Chest-Mover">Chest-Mover</span></h3>
+<p>Get all items from a chest, and put them into another chest.<br />
+For reorganizing, when you have many chests filled with stuff.
+</p>
+<h4><span class="mw-headline" id="Chest-Mover1">Chest-Mover1</span></h4>
+<p>Part1: move to chest#1, and take out all items.
+</p>
+<dl><dd>That is, move them into the robot's own inventory.</dd></dl>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre> if not pn then pn="Chest mover1"; say(pn)
+ --get robot next to chest#1:
+   turn.left() 
+   move.forward()  move.down()
+   move.forward()  turn.right()
+   inv="main"  free=0 c=0  i=0
+ end
+ 
+ i=i+1  --say(i)
+ --m=check_inventory.self(s,i)
+ m=check_inventory.forward("",inv,i)
+ if m=="" then
+   free=free+1
+ else 
+   take.forward(m); c=c+1
+   --say(i..": "..m)
+ end
+ if i&gt;32 then
+   say("Taken:"..c..", free:"..free)
+ --self.remove()
+ end</pre></div>
+<h4><span class="mw-headline" id="Chest-Mover2">Chest-Mover2</span></h4>
+<p>Part2: move to chest#2, and put all items from the robot's inventory into that chest.
+</p>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre> if not pn then pn="Chest mover2"; say(pn)
+ --get robot next to chest#2:
+   --turn.left() 
+   move.forward()  move.down()
+   move.forward()  turn.left() -- move.forward()
+   inv="main"; free=0; c=0; i=0
+ end
+  
+ i=i+1  --say(i)
+ m=check_inventory.self("",inv,i)
+ --m=check_inventory.forward("",inv,i)
+ if m=="" then
+   free=free+1
+ else 
+  ok=insert.forward(m)
+  c=c+1
+--[[
+  if ok then
+   say(i..": "..m) 
+  else
+   say(i.." error: "..m); self.remove()
+  end
+--]]
+ end
+ 
+ if i&gt;32 then
+   say("Done:"..c..", free:"..free)
+ --self.remove()
+ end</pre></div>
+<p>Obviously, the move-commands need to be adjusted for the locations of the chests.
+</p>
+<h4><span id="Chest-Mover3_/_DropBox"></span><span class="mw-headline" id="Chest-Mover3_.2F_DropBox">Chest-Mover3 / DropBox</span></h4>
+<p>Swap contents of box with robot's inventory
+</p>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre> if not pn then pn="DropBox v0.3"; say(pn)
+  pickup(8)
+
+  inv="main"
+  free=0
+
+  m=check_inventory.forward("",inv,1)  -- look at slot1 of chest in front
+  if m=="" then 
+    say("chest is empty")  -- move robot's inventory to chest
+    for i=1,32 do
+      m=check_inventory.self("",inv,i)
+      if m=="" then
+	free=free+1 
+      else
+        -- say(i..": "..m) 
+        insert.forward(m)
+      end 
+    end
+
+  else
+
+   say("1: "..m) 
+    say("getting chest")
+    for i=1,32 do
+      m=check_inventory.forward("",inv,i)  -- look at chest in front
+      if m=="" then 
+        free=free+1 
+      else
+   	--say(i..": "..m) 
+        take.forward(m)
+      end
+   end
+  end
+
+ end
+
+ self.remove()
+--</pre></div>
+<p>This could be used as a shared chest in multiplayer, to exchange stuff between groupmembers.<br />
+The robot would be activated by a password-protected keypad.
+</p>
+<h4><span class="mw-headline" id="Todo">Todo</span></h4>
+<ul><li>write a book of the chest/inventory-contents.</li>
+<li>make a version of the mover that uses the remote control.</li>
+<li>filter while moving</li>
+<li>count total / stats  (e.g. "default:stone&#160;: 3000 items in 31 stacks")</li></ul>
+<h2><span class="mw-headline" id="Robot-commands_-_Part_4">Robot-commands - Part 4</span></h2>
+<p>Commands about books&#160;:
+</p>
+<ul><li>title, text = book.read(i) -- returns the title and contents of the book at i-th position in the library,</li></ul>
+<dl><dd>with i in the range 1..32</dd></dl>
+<ul><li>book.write(i,text) -- writes text into the book at i-th position in the library.</li></ul>
+<dl><dd>Those books get the title "program book".</dd></dl>
+<ul><li>display_text(text,linelen,size) -- show text on the "face" of the robot</li></ul>
+<dl><dd>size=1 means the robot stays its normal size of 1 cube.</dd>
+<dd>With size=2, the robot shows the display at double size.</dd></dl>
+<ul><li>read_text.forward(s) -- reads text of signs, chests and other blocks.</li></ul>
+<dl><dd>s is optional, defaults to "infotext", to be used for other meta.</dd>
+<dd>It is possible to use the text read as code to execute (see next chapter).</dd></dl>
+<h3><span class="mw-headline" id="Book-lister">Book-lister</span></h3>
+<p>Lists the books in the library of the spawner.
+</p>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre>  if i==nil then
+   i=0
+   say("Books:")
+   t="title T"
+   c="contents C"
+   book.write(9,t,c)   -- creates/overwrites the book in slot 9 of the library
+ 
+   t="(unknown title)"
+  end
+ 
+  i=i+1
+  if i&gt;32 then say("done.") self.remove() end
+ 
+  t, c = book.read(i)
+  if c==nil then c="(empty)" end
+--say("Book #"..i.."&#160;: "..c)
+  say("Book #"..i.."&#160;: "..t.." - "..c)</pre></div>
+<p>To access books in a spawner/bookshelf at "home", 
+you need to put in the coordinates.
+</p>
+<h3><span class="mw-headline" id="Big_news-display">Big news-display</span></h3>
+<p>Show text from the book in slot#1 on a big screen.
+</p>
+<dl><dd>"\n" is a newline.</dd></dl>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre>--[[
+if not msg then  -- Write news-text to book
+  msg="*** NEW ***\n\n"
+  msg=msg.."Really big news-\n display&#160;!\n"
+  msg=msg.."\n"
+  msg=msg.."Never seen before&#160;!\n"
+  msg=msg.."Now available&#160;!\n"
+  msg=msg.."Low cost&#160;!\n"
+  msg=msg.."Big display&#160;!\n"
+  msg=msg.."High quality&#160;!\n"
+  msg=msg.."\n"
+  msg=msg.."Unbelievable&#160;!\n"
+  msg=msg.."Come and see it&#160;!\n"
+  msg=msg.."\n"
+  msg=msg.."&lt;Your ad here&gt;\n"
+  msg=msg.."...\n"
+
+  text = "News:".."\n"..os.date("%Y-%m-%d %H:%M") .. "\n\n" .. msg; 
+  book.write(1,"news",text)
+end
+--]]
+
+if not pn then pn="BigDisplay"  -- show news on big display
+  title,text = book.read(1);
+  if not text then  say("no text"); self.remove(); goto ex  end
+
+  self.name("")
+  self.label(title)
+  self.display_text(text,20,3)  --triple-size, 20 char per line
+
+--turn.left()  --turn into the direction of the player
+  turn.right()
+end
+
+::ex::</pre></div>
+<h2><span class="mw-headline" id="Robot-commands_-_Part_5">Robot-commands - Part 5</span></h2>
+<p>Commands to look at the world&#160;:
+</p>
+<ul><li>f = find_nodes("default:stone", 3)  -- returns true/false if a <a href="/Block" class="mw-redirect" title="Block">block</a> of the specified type is found within the given distance.</li></ul>
+<dl><dd>The maximum range for this search is 8 blocks.</dd></dl>
+<h3><span class="mw-headline" id="Lookout">Lookout</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/File:Screenshot_lookout-torch1.png" class="image"><img alt="" src="/images/thumb/2/24/Screenshot_lookout-torch1.png/300px-Screenshot_lookout-torch1.png" decoding="async" width="300" height="225" class="thumbimage" srcset="/images/thumb/2/24/Screenshot_lookout-torch1.png/450px-Screenshot_lookout-torch1.png 1.5x, /images/thumb/2/24/Screenshot_lookout-torch1.png/600px-Screenshot_lookout-torch1.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Screenshot_lookout-torch1.png" class="internal" title="Enlarge"></a></div>Lookout - we found a torch</div></div></div>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre> if rg==nil then
+   rg=9
+   s="default:stone"
+ --s="default:gravel"
+ --s="default:stone_with_coal"
+ --s="default:water_source"
+   s="default:torch_wall"  -- also: torch_ceiling
+   s="default:torch"
+   say("Looking for "..s)
+ end
+ 
+ rg=rg-1
+ f = find_nodes(s, rg) 
+ 
+ if f then
+   msg="Found "
+ else
+   msg="No "
+ end
+ say(msg..s.." within "..rg.." blocks")
+ 
+ if not f then  say("done.")  self.remove()  end</pre></div>
+<p>The program starts with the maximum allowed range, counts down,
+and stops when nothing is found.
+</p><p><br />
+</p>
+<h3><span class="mw-headline" id="OreDetector1">OreDetector1</span></h3>
+<p>This program checks if blocks of ore are in range:
+</p>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre> if (rg==nil) then s="Ore-detector v0.3"
+   say(s)
+   self.label(s)
+   rg=9  i=1  next=0
+   ore={'diamond', 'mese', 'gold', 'copper', 'iron', 'coal', '-'}  --Table of valueable stuff
+ end
+ 
+ if (ore[i]=="-") then next=1  i=0 end
+ if next&gt;0 then
+   i=i+1  rg=9  next=0
+   say("Seaching: "..ore[i])
+ end
+ if (rg&gt;8) then rg=8 end
+ 
+ f = find_nodes("default:stone_with_"..ore[i], rg)  -- returns true/false
+ if f then
+   say("Found "..ore[i].." within range "..rg) 
+   rg=rg-1
+ else
+   --say("no "..i.." @ rg"..rg)
+   next=1 
+ end</pre></div>
+<p>Run this detector on the robot, and use an 'empty' remote controller
+to move the bot around to find the good stuff.
+</p>
+<h3><span class="mw-headline" id="OreDetector2">OreDetector2</span></h3>
+<p>This program is a faster, optimized version of the above OreDetector<br />
+giving only one output-line for each type of ore:
+</p>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre> if not s then s="Ore-detector2 v0.4f"
+   say(s)
+   self.label(s)
+   rg=9  i=1  next=0  msg=""
+ 
+   --Table of stuff to search:
+   ore={'@diamond', '@mese', '@gold', 
+  '@copper', '@iron', '@coal', 
+ --'!torch', '!torch_wall',
+  '!lava_source',  '!lava_flowing',
+  '!water_source', '!water_flowing',
+  '-'}   --todo: moreores, mobs
+   say(#ore) --
+ end
+ 
+ if (ore[i]=="-") then next=1  i=0  
+   --say("done.")  self.remove()
+ end
+ if next&gt;0 then
+   i=i+1  rg=9  next=0
+   --msg="Seaching: "..ore[i]  say(msg)  msg=""
+ end
+ if (rg&gt;8) then rg=8 end
+
+ s  = ore[i]
+ c1 = string.sub(s,1,1)
+ s  = string.sub(s,2)
+ if c1=="@" then s="default:stone_with_"..s end
+ if c1=="!" then s="default:"           ..s end
+
+ f = find_nodes(s, rg)  -- returns true/false
+ if f then
+   msg="Found "..s.." within range "..rg
+   rg=rg-1
+ else
+ --say(i.." no "..s.." @ rg"..rg)  --debug
+   if #msg&gt;0 then say("--&gt; "..msg)  end
+   msg=""
+   next=1 
+ end</pre></div>
+<p>It also searches for water and lava, 
+to prevent surprises during mining.
+</p><p><br />
+</p>
+<h2><span id="Todo_/_Debug"></span><span class="mw-headline" id="Todo_.2F_Debug">Todo / Debug</span></h2>
+<p>see <a href="/Mods/basic_robot/Todo" title="Mods/basic robot/Todo">Mods/basic_robot/Todo</a>
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20230709032858
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.802 seconds
+Real time usage: 2.031 seconds
+Preprocessor visited node count: 821/1000000
+Post‐expand include size: 14990/2097152 bytes
+Template argument size: 561/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 1/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 24063/5000000 bytes
+Lua time usage: 0.290/7 seconds
+Lua virtual size: 6.57 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  719.910      1 -total
+ 50.58%  364.152      1 Template:Mod_Data
+ 49.23%  354.411      2 Template:Grid/Craft
+ 45.33%  326.344     20 Template:Grid
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:2802-0!canonical and timestamp 20230709032856 and revision id 26702
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Mods/basic_robot&amp;oldid=26702">http://wiki.minetest.net/index.php?title=Mods/basic_robot&amp;oldid=26702</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/index.php?title=Category:Pages_using_deprecated_source_tags&amp;action=edit&amp;redlink=1" class="new" title="Category:Pages using deprecated source tags (page does not exist)">Pages using deprecated source tags</a></li><li><a href="/index.php?title=Category:Pages_with_syntax_highlighting_errors&amp;action=edit&amp;redlink=1" class="new" title="Category:Pages with syntax highlighting errors (page does not exist)">Pages with syntax highlighting errors</a></li><li><a href="/Category:Mods" title="Category:Mods">Mods</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Mods%2Fbasic+robot" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Mods/basic_robot" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Mods/basic_robot&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Mods/basic_robot">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Mods/basic_robot&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Mods/basic_robot&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Mods/basic_robot" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Mods/basic_robot" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Mods/basic_robot&amp;oldid=26702" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Mods/basic_robot&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 19 March 2022, at 17:08.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.802","walltime":"2.031","ppvisitednodes":{"value":821,"limit":1000000},"postexpandincludesize":{"value":14990,"limit":2097152},"templateargumentsize":{"value":561,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":1,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":24063,"limit":5000000},"timingprofile":["100.00%  719.910      1 -total"," 50.58%  364.152      1 Template:Mod_Data"," 49.23%  354.411      2 Template:Grid/Craft"," 45.33%  326.344     20 Template:Grid"]},"scribunto":{"limitreport-timeusage":{"value":"0.290","limit":"7"},"limitreport-virtmemusage":{"value":6885376,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709032858","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":340});});</script></body></html>

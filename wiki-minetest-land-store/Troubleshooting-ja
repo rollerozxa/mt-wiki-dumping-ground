@@ -1,0 +1,390 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Troubleshooting/ja - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"69e9671ddbaab6f9680c3041","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Troubleshooting/ja","wgTitle":"Troubleshooting/ja","wgCurRevisionId":26693,"wgRevisionId":26693,"wgArticleId":5070,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages","Gameplay","Japanese"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Troubleshooting/ja","wgRelevantArticleId":5070,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":
+"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Troubleshooting_ja rootpage-Troubleshooting skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Troubleshooting/ja</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/Troubleshooting" title="Troubleshooting">Troubleshooting</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> 言語:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><a href="/Troubleshooting" title="Troubleshooting">English</a>&#160;• <bdi lang="fr"><a href="/Troubleshooting/fr" title="Troubleshooting/fr">français</a></bdi>&#160;• <bdi lang="it"><a href="/Troubleshooting/it" title="Troubleshooting/it">italiano</a></bdi><b>&#160;• <bdi lang="ja"><a class="mw-selflink selflink">日本語</a></bdi></b>&#160;• <bdi lang="ms"><a href="/Troubleshooting/ms" title="Troubleshooting/ms">Bahasa Melayu</a></bdi></td>
+</tr></tbody></table>
+<p>このページでは、クラッシュする場合やエラーメッセージ(引用符で囲んでいます)出るなど一般的な技術的問題と、考えられる解決方法、その解説を掲載しています。技術的ではない一般的な質問については<a href="/FAQ/ja" title="FAQ/ja">FAQ</a>をご覧ください。
+</p><p>バグを報告するための方法などは、<a href="/Reporting_bugs" title="Reporting bugs">Reporting bugs</a>をご覧ください。
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#.E3.82.B0.E3.83.A9.E3.83.95.E3.82.A3.E3.83.83.E3.82.AF.E3.81.A8.E3.82.B5.E3.82.A6.E3.83.B3.E3.83.89"><span class="tocnumber">1</span> <span class="toctext">グラフィックとサウンド</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#.E7.94.BB.E9.9D.A2.E3.81.8C.E6.9A.97.E3.81.99.E3.81.8E.E3.81.BE.E3.81.99"><span class="tocnumber">1.1</span> <span class="toctext">画面が暗すぎます</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#.E3.82.B2.E3.83.BC.E3.83.A0.E5.86.85.E3.81.AE.E3.81.99.E3.81.B9.E3.81.A6.E3.81.AE.E7.89.A9.E3.81.AE.E8.89.B2.E3.81.8C.E5.A4.89.E3.81.AA.E8.89.B2.28.E3.81.A8.E3.81.8F.E3.81.AB.E8.B5.A4.E8.89.B2.29.E3.81.AB.E3.81.AA.E3.81.A3.E3.81.A6.E8.99.B9.E3.81.AE.E3.82.88.E3.81.86.E3.81.AB.E3.81.AA.E3.82.8A.E3.81.BE.E3.81.99.E3.80.82.E3.81.9D.E3.81.97.E3.81.A6.E9.83.A8.E5.88.86.E7.9A.84.E3.81.AB.E7.89.A9.E3.81.8C.E9.80.8F.E3.81.91.E3.81.BE.E3.81.99"><span class="tocnumber">1.2</span> <span class="toctext">ゲーム内のすべての物の色が変な色(とくに赤色)になって虹のようになります。そして部分的に物が透けます</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Windows.E3.81.A7.E9.9F.B3.E3.81.8C.E5.87.BA.E3.81.BE.E3.81.9B.E3.82.93"><span class="tocnumber">1.3</span> <span class="toctext">Windowsで音が出ません</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#.E3.83.86.E3.82.AF.E3.82.B9.E3.83.81.E3.83.A3.E3.81.AF.E3.83.9C.E3.82.B1.E3.81.BE.E3.81.97.E3.81.9F.E3.81.8C.E3.80.81.E3.83.94.E3.82.AF.E3.82.BB.E3.83.AB.E3.82.92.E3.81.8F.E3.81.A3.E3.81.8D.E3.82.8A.E8.A1.A8.E7.A4.BA.E3.81.95.E3.81.9B.E3.81.9F.E3.81.84.E3.81.A7.E3.81.99.EF.BC.81"><span class="tocnumber">1.4</span> <span class="toctext">テクスチャはボケましたが、ピクセルをくっきり表示させたいです！</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#.E3.82.A8.E3.83.A9.E3.83.BC.E3.83.A1.E3.83.83.E3.82.BB.E3.83.BC.E3.82.B8.E3.81.8C.E8.A1.A8.E7.A4.BA.E3.81.95.E3.82.8C.E3.81.BE.E3.81.99.E3.81.8C.E3.82.AF.E3.83.A9.E3.83.83.E3.82.B7.E3.83.A5.E3.81.AF.E3.81.97.E3.81.BE.E3.81.9B.E3.82.93"><span class="tocnumber">2</span> <span class="toctext">エラーメッセージが表示されますがクラッシュはしません</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#.22unable_to_open_database_file.22_.28.E3.83.87.E3.83.BC.E3.82.BF.E3.83.99.E3.83.BC.E3.82.B9.E3.83.95.E3.82.A1.E3.82.A4.E3.83.AB.E3.82.92.E9.96.8B.E3.81.8F.E3.81.93.E3.81.A8.E3.81.8C.E3.81.A7.E3.81.8D.E3.81.BE.E3.81.9B.E3.82.93.29"><span class="tocnumber">2.1</span> <span class="toctext">"unable to open database file" (データベースファイルを開くことができません)</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#.E2.80.9CUnsupported_texture_format.E2.80.9D_.28.E3.82.B5.E3.83.9D.E3.83.BC.E3.83.88.E3.81.97.E3.81.AA.E3.81.84.E3.83.86.E3.82.AF.E3.82.B9.E3.83.81.E3.83.A3.E5.BD.A2.E5.BC.8F.E3.81.A7.E3.81.99.29"><span class="tocnumber">2.2</span> <span class="toctext">“Unsupported texture format” (サポートしないテクスチャ形式です)</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#.E2.80.9CGenerating_dummy_image_for_.5B.E2.80.A6.5D.png.E2.80.9D_.28.5B.E2.80.A6.5D.png.E3.81.AE.E3.83.80.E3.83.9F.E3.83.BC.E7.94.BB.E5.83.8F.E3.82.92.E7.94.9F.E6.88.90.E3.81.97.E3.81.A6.E3.81.84.E3.81.BE.E3.81.99.29"><span class="tocnumber">2.3</span> <span class="toctext">“Generating dummy image for […].png” ([…].pngのダミー画像を生成しています)</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#.22ERROR:_No_world_name_given_or_no_game_selected.22_in_create_world_.28.E3.83.AF.E3.83.BC.E3.83.AB.E3.83.89.E7.94.9F.E6.88.90.E6.99.82.E3.81.AB.E3.80.8C.E3.82.A8.E3.83.A9.E3.83.BC:.E3.83.AF.E3.83.BC.E3.83.AB.E3.83.89.E5.90.8D.E3.81.8C.E6.8C.87.E5.AE.9A.E3.81.95.E3.82.8C.E3.81.A6.E3.81.84.E3.81.AA.E3.81.84.E3.81.8B.E3.82.B2.E3.83.BC.E3.83.A0.E3.81.8C.E9.81.B8.E6.8A.9E.E3.81.95.E3.82.8C.E3.81.A6.E3.81.84.E3.81.BE.E3.81.9B.E3.82.93.E3.80.8D.E3.81.A8.E8.A1.A8.E7.A4.BA.E3.81.95.E3.82.8C.E3.82.8B.29"><span class="tocnumber">2.4</span> <span class="toctext">"ERROR: No world name given or no game selected" in create world (ワールド生成時に「エラー:ワールド名が指定されていないかゲームが選択されていません」と表示される)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#.E3.82.AF.E3.83.A9.E3.83.83.E3.82.B7.E3.83.A5.E3.81.97.E3.81.BE.E3.81.99"><span class="tocnumber">3</span> <span class="toctext">クラッシュします</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#OS.E5.85.A8.E8.88.AC"><span class="tocnumber">3.1</span> <span class="toctext">OS全般</span></a>
+<ul>
+<li class="toclevel-3 tocsection-13"><a href="#.E2.80.9CMinetest_can_not_load_.5B.E2.80.A6.5D.2Finit.lua.E2.80.9D_.28Minetest.E3.81.AF.5B.E2.80.A6.5D.2Finit.lua.E3.82.92.E3.83.AD.E3.83.BC.E3.83.89.E3.81.A7.E3.81.8D.E3.81.BE.E3.81.9B.E3.82.93.29"><span class="tocnumber">3.1.1</span> <span class="toctext">“Minetest can not load […]/init.lua” (Minetestは[…]/init.luaをロードできません)</span></a></li>
+<li class="toclevel-3 tocsection-14"><a href="#.E2.80.9Dattempt_to_index_field_.27.3Cany_value.3E.27_.28a_nil_value.29.E2.80.9D"><span class="tocnumber">3.1.2</span> <span class="toctext">”attempt to index field '&lt;any value&gt;' (a nil value)”</span></a></li>
+<li class="toclevel-3 tocsection-15"><a href="#.E2.80.9CAssertion_.270.27_failed.E2.80.9D"><span class="tocnumber">3.1.3</span> <span class="toctext">“Assertion '0' failed”</span></a></li>
+<li class="toclevel-3 tocsection-16"><a href="#.E2.80.9CServerEnvironment::loadMeta.28.29:_EnvArgsEnd_not_found.E2.80.9D"><span class="tocnumber">3.1.4</span> <span class="toctext">“ServerEnvironment::loadMeta(): EnvArgsEnd not found”</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-17"><a href="#Windows"><span class="tocnumber">3.2</span> <span class="toctext">Windows</span></a>
+<ul>
+<li class="toclevel-3 tocsection-18"><a href="#.E2.80.9CMSCP2010.dll_is_not_found.E2.80.9D_.28or_similar.29_.28.E3.80.8CMSCP2010.dll.E3.81.8C.E8.A6.8B.E3.81.A4.E3.81.8B.E3.82.8A.E3.81.BE.E3.81.9B.E3.82.93.E3.80.8D.E3.81.BE.E3.81.9F.E3.81.AF.E4.BC.BC.E3.81.9F.E3.83.A1.E3.83.83.E3.82.BB.E3.83.BC.E3.82.B8.29"><span class="tocnumber">3.2.1</span> <span class="toctext">“MSCP2010.dll is not found” (or similar) (「MSCP2010.dllが見つかりません」または似たメッセージ)</span></a></li>
+<li class="toclevel-3 tocsection-19"><a href="#Minetest.E3.81.8C.E8.B5.B7.E5.8B.95.E3.81.97.E3.81.BE.E3.81.9B.E3.82.93"><span class="tocnumber">3.2.2</span> <span class="toctext">Minetestが起動しません</span></a></li>
+<li class="toclevel-3 tocsection-20"><a href="#.E2.80.9Cwhat.28.29.3DAccess_Violation.E2.80.9D_.28what.28.29.3D.E3.82.A2.E3.82.AF.E3.82.BB.E3.82.B9.E9.81.95.E5.8F.8D.29"><span class="tocnumber">3.2.3</span> <span class="toctext">“what()=Access Violation” (what()=アクセス違反)</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-21"><a href="#.E6.93.8D.E4.BD.9C"><span class="tocnumber">4</span> <span class="toctext">操作</span></a>
+<ul>
+<li class="toclevel-2 tocsection-22"><a href="#.E3.83.88.E3.83.A9.E3.83.83.E3.82.AF.E3.83.91.E3.83.83.E3.83.89.E3.82.92.E4.BD.BF.E3.81.A3.E3.81.A6.E3.81.84.E3.81.BE.E3.81.99.E3.81.8C.E7.A7.BB.E5.8B.95.E3.81.A8.E8.A6.96.E7.82.B9.E5.A4.89.E6.9B.B4.E3.81.8C.E5.90.8C.E6.99.82.E3.81.AB.E3.81.A7.E3.81.8D.E3.81.BE.E3.81.9B.E3.82.93"><span class="tocnumber">4.1</span> <span class="toctext">トラックパッドを使っていますが移動と視点変更が同時にできません</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span id="グラフィックとサウンド"></span><span class="mw-headline" id=".E3.82.B0.E3.83.A9.E3.83.95.E3.82.A3.E3.83.83.E3.82.AF.E3.81.A8.E3.82.B5.E3.82.A6.E3.83.B3.E3.83.89">グラフィックとサウンド</span></h2>
+<h3><span id="画面が暗すぎます"></span><span class="mw-headline" id=".E7.94.BB.E9.9D.A2.E3.81.8C.E6.9A.97.E3.81.99.E3.81.8E.E3.81.BE.E3.81.99">画面が暗すぎます</span></h3>
+<p>画面が暗すぎると感じた場合、ディスプレイのガンマ値をより最適な値に調整できます。1.0から3.0までの値の間のうちデフォルトでは1.0に設定されていますが、数字が<u>大きくなるほど</u>明るくなります。
+</p><p>ディスプレイのガンマ値を変更するには、<b>[設定]</b>タブを開いて<b>[すべての設定]</b>ボタンから「display_gamma」を検索して、「高度曲線のガンマ」の値を変更します。
+設定ファイル<a href="/Minetest.conf/ja" title="Minetest.conf/ja">minetest.conf/ja</a>を直接変更する場合は以下の行を追加します(値は3.0に変更する場合)。
+</p>
+<pre> display_gamma = 3.0
+</pre>
+<p>それでも画面が暗い場合、ディスプレイの設定を変更する以外に簡単に解決する方法はありません。ほかに解決策がなく、それでも明るさを上げたい場合は、テキストファイルを編集する必要があります。これは、シェーダーが有効な場合のみ機能します。テキストエディタで<code>(Minetestディレクトリ)/client/shaders/nodes_shader/opengl_fragment.glsl</code>を開いて以下の行を検索します。
+</p>
+<pre>vec4 base = texture2D(baseTexture, uv).rgba;
+</pre>
+<p>そして次のように変更します
+</p>
+<pre>vec4 base = texture2D(baseTexture, uv).rgba;
+float factor = 1.2;
+base.rgb *= factor;
+</pre>
+<p>値は1.2の代わりにほかの値を試せます。値は高いほど明るくなりますが、整数値を使用する場合でも一部ドライバーでは<code>float factor = 2;</code>のようにすると受け付けないものもあるので、<code>float factor = 2.0;</code>のように小数点以下の値も追加してください。
+</p>
+<h3><span id="ゲーム内のすべての物の色が変な色(とくに赤色)になって虹のようになります。そして部分的に物が透けます"></span><span class="mw-headline" id=".E3.82.B2.E3.83.BC.E3.83.A0.E5.86.85.E3.81.AE.E3.81.99.E3.81.B9.E3.81.A6.E3.81.AE.E7.89.A9.E3.81.AE.E8.89.B2.E3.81.8C.E5.A4.89.E3.81.AA.E8.89.B2.28.E3.81.A8.E3.81.8F.E3.81.AB.E8.B5.A4.E8.89.B2.29.E3.81.AB.E3.81.AA.E3.81.A3.E3.81.A6.E8.99.B9.E3.81.AE.E3.82.88.E3.81.86.E3.81.AB.E3.81.AA.E3.82.8A.E3.81.BE.E3.81.99.E3.80.82.E3.81.9D.E3.81.97.E3.81.A6.E9.83.A8.E5.88.86.E7.9A.84.E3.81.AB.E7.89.A9.E3.81.8C.E9.80.8F.E3.81.91.E3.81.BE.E3.81.99">ゲーム内のすべての物の色が変な色(とくに赤色)になって虹のようになります。そして部分的に物が透けます</span></h3>
+<p><b>[設定]</b>タブにある「シェーダー」を無効にしてください。お使いのグラフィックカードではサポートされていません。
+</p>
+<h3><span id="Windowsで音が出ません"></span><span class="mw-headline" id="Windows.E3.81.A7.E9.9F.B3.E3.81.8C.E5.87.BA.E3.81.BE.E3.81.9B.E3.82.93">Windowsで音が出ません</span></h3>
+<p><b>注: 通常、OpenALは同梱されています。</b>
+</p><p>Windowsでサウンドを再生するには、OpenALをダウンロードしてインストールする必要があります。インストールに必要なファイルは<a rel="nofollow" class="external text" href="http://sfan.sf.funpic.de/oalinst.exe">oalinst.exe</a>です。ダウンロードしたら実行してインストールします。FirefoxやChromeをお使いの方は、ファイルを保存するかダウンロードを続けるかを選択の必要があります。Internet Explorerをお使いの方は実行ボタンを押す必要があります。ほかのブラウザでは同じ場合や違う場合があります。お使いのブラウザで失敗した場合は別のブラウザをお試しください。
+</p>
+<h3><span id="テクスチャはボケましたが、ピクセルをくっきり表示させたいです！"></span><span class="mw-headline" id=".E3.83.86.E3.82.AF.E3.82.B9.E3.83.81.E3.83.A3.E3.81.AF.E3.83.9C.E3.82.B1.E3.81.BE.E3.81.97.E3.81.9F.E3.81.8C.E3.80.81.E3.83.94.E3.82.AF.E3.82.BB.E3.83.AB.E3.82.92.E3.81.8F.E3.81.A3.E3.81.8D.E3.82.8A.E8.A1.A8.E7.A4.BA.E3.81.95.E3.81.9B.E3.81.9F.E3.81.84.E3.81.A7.E3.81.99.EF.BC.81">テクスチャはボケましたが、ピクセルをくっきり表示させたいです！</span></h3>
+<p><b>[設定]</b>タブの「テクスチャリング」を「フィルター無し」にします。
+</p>
+<h2><span id="エラーメッセージが表示されますがクラッシュはしません"></span><span class="mw-headline" id=".E3.82.A8.E3.83.A9.E3.83.BC.E3.83.A1.E3.83.83.E3.82.BB.E3.83.BC.E3.82.B8.E3.81.8C.E8.A1.A8.E7.A4.BA.E3.81.95.E3.82.8C.E3.81.BE.E3.81.99.E3.81.8C.E3.82.AF.E3.83.A9.E3.83.83.E3.82.B7.E3.83.A5.E3.81.AF.E3.81.97.E3.81.BE.E3.81.9B.E3.82.93">エラーメッセージが表示されますがクラッシュはしません</span></h2>
+<h3><span id="&quot;unable_to_open_database_file&quot;_(データベースファイルを開くことができません)"></span><span class="mw-headline" id=".22unable_to_open_database_file.22_.28.E3.83.87.E3.83.BC.E3.82.BF.E3.83.99.E3.83.BC.E3.82.B9.E3.83.95.E3.82.A1.E3.82.A4.E3.83.AB.E3.82.92.E9.96.8B.E3.81.8F.E3.81.93.E3.81.A8.E3.81.8C.E3.81.A7.E3.81.8D.E3.81.BE.E3.81.9B.E3.82.93.29">"unable to open database file" (データベースファイルを開くことができません)</span></h3>
+<p>以下のようなエラーメッセージが表示された場合は、Minetestのインストール先をASCII文字のみのパスに移動させてください。例: <code>C:\Games\Minetest\</code>のような場所に移動させます
+</p>
+<pre>AsyncErr: ServerThread::run Lua: Runtime error from mod '*builtin*' in callback on_prejoinplayer():
+Failed to open SQLite3 database file C:\Users\ПЛАТЫ\Downloads\minetest-unzip\bin\..\worlds\newname
+\auth.sqlite: unable to open database file
+</pre>
+<h3><span id="“Unsupported_texture_format”_(サポートしないテクスチャ形式です)"></span><span class="mw-headline" id=".E2.80.9CUnsupported_texture_format.E2.80.9D_.28.E3.82.B5.E3.83.9D.E3.83.BC.E3.83.88.E3.81.97.E3.81.AA.E3.81.84.E3.83.86.E3.82.AF.E3.82.B9.E3.83.81.E3.83.A3.E5.BD.A2.E5.BC.8F.E3.81.A7.E3.81.99.29">“Unsupported texture format” (サポートしないテクスチャ形式です)</span></h3>
+<p>心配ありません。これは正常です。Minetestは動作します。
+</p>
+<h3><span id="“Generating_dummy_image_for_[…].png”_([…].pngのダミー画像を生成しています)"></span><span class="mw-headline" id=".E2.80.9CGenerating_dummy_image_for_.5B.E2.80.A6.5D.png.E2.80.9D_.28.5B.E2.80.A6.5D.png.E3.81.AE.E3.83.80.E3.83.9F.E3.83.BC.E7.94.BB.E5.83.8F.E3.82.92.E7.94.9F.E6.88.90.E3.81.97.E3.81.A6.E3.81.84.E3.81.BE.E3.81.99.29">“Generating dummy image for […].png” ([…].pngのダミー画像を生成しています)</span></h3>
+<p>このメッセージが出た場合は、Modやテクスチャパックの作者に問題を報告してください。
+これは問題のあるModやテクスチャパックがオブジェクト用画像を提供していないために起こります。Minetestは問題なく動作しますが、指定したオブジェクトにはランダムな色の代わりの画像(ダミー画像)が使われます。
+</p>
+<h3><span id="&quot;ERROR:_No_world_name_given_or_no_game_selected&quot;_in_create_world_(ワールド生成時に「エラー:ワールド名が指定されていないかゲームが選択されていません」と表示される)"></span><span class="mw-headline" id=".22ERROR:_No_world_name_given_or_no_game_selected.22_in_create_world_.28.E3.83.AF.E3.83.BC.E3.83.AB.E3.83.89.E7.94.9F.E6.88.90.E6.99.82.E3.81.AB.E3.80.8C.E3.82.A8.E3.83.A9.E3.83.BC:.E3.83.AF.E3.83.BC.E3.83.AB.E3.83.89.E5.90.8D.E3.81.8C.E6.8C.87.E5.AE.9A.E3.81.95.E3.82.8C.E3.81.A6.E3.81.84.E3.81.AA.E3.81.84.E3.81.8B.E3.82.B2.E3.83.BC.E3.83.A0.E3.81.8C.E9.81.B8.E6.8A.9E.E3.81.95.E3.82.8C.E3.81.A6.E3.81.84.E3.81.BE.E3.81.9B.E3.82.93.E3.80.8D.E3.81.A8.E8.A1.A8.E7.A4.BA.E3.81.95.E3.82.8C.E3.82.8B.29">"ERROR: No world name given or no game selected" in create world (ワールド生成時に「エラー:ワールド名が指定されていないかゲームが選択されていません」と表示される)</span></h3>
+<dl><dd>ワールド生成ダイアログのリストボックスで、ゲーム名を選択してください。</dd>
+<dd>「新規作成」をクリックする前には、以下のアイコンを選択(クリック)してください。
+<dl><dd>- minetestアイコン(Minetest Game ワールド)</dd>
+<dd>- 直行座標アイコン(開発者用 Development Test ワールド)</dd></dl></dd>
+<dd>ほかのゲームをインストールしている場合は、別のアイコンがあるかもしれません。</dd></dl>
+<h2><span id="クラッシュします"></span><span class="mw-headline" id=".E3.82.AF.E3.83.A9.E3.83.83.E3.82.B7.E3.83.A5.E3.81.97.E3.81.BE.E3.81.99">クラッシュします</span></h2>
+<p><i>ここの二重引用符で囲まれたすべてのサブセクションのタイトルは、そのエラーメッセージを表示してMinetestがクラッシュしたことを意味しています。</i>
+</p>
+<h3><span id="OS全般"></span><span class="mw-headline" id="OS.E5.85.A8.E8.88.AC">OS全般</span></h3>
+<h4><span id="“Minetest_can_not_load_[…]/init.lua”_(Minetestは[…]/init.luaをロードできません)"></span><span class="mw-headline" id=".E2.80.9CMinetest_can_not_load_.5B.E2.80.A6.5D.2Finit.lua.E2.80.9D_.28Minetest.E3.81.AF.5B.E2.80.A6.5D.2Finit.lua.E3.82.92.E3.83.AD.E3.83.BC.E3.83.89.E3.81.A7.E3.81.8D.E3.81.BE.E3.81.9B.E3.82.93.29">“Minetest can not load […]/init.lua” (Minetestは[…]/init.luaをロードできません)</span></h4>
+<p>以下は考えられる原因とそれの解決方法です。
+</p><p><b>間違ったModディレクトリ名を付けている</b>
+</p><p>Modを展開する場合、不要な名前が付く場合があります。GitHubからダウンロードしたzipはディレクトリ名の後ろに「-master」と付けます(例「mod名-master」)。これを解決するにはフォルダ名の末尾から「-master」や「-v2.0」のような不要な部分を削除します。
+</p><p>正しい名前がわからない場合は、フォーラムでそのModトピックのタイトルを確認して、角括弧「[]」の中のMod名をコピーしてください。
+</p><p><b>無効な場所にインストールしている</b>
+</p><p>Modを正しい場所(Windowsの場合は、<code>(Minetestのフォルダ)\mods\</code>フォルダ。Linuxの場合は、<code>~/.minetest/mods/</code>)にインストールされているか確認してください(modディレクトリは空になっていますか?)。もう一度、<a href="/Installing_Mods" title="Installing Mods">Modのインストール</a>を読んでください。
+</p><p><b>まったく動かない</b>
+</p><p>何も解決しない場合は、Mod自体に問題があるかもしれません。Modの作者に、<code>debug.txt</code>の<code>=====ERROR FROM LUA=====</code>から始まる部分、またはこの問題に関連する行をコピー・アンド・ペーストして、Modのフォーラムトピックか可能ならGitHubのページまで報告してください。
+</p>
+<h4><span id="”attempt_to_index_field_'&lt;any_value&gt;'_(a_nil_value)”"></span><span class="mw-headline" id=".E2.80.9Dattempt_to_index_field_.27.3Cany_value.3E.27_.28a_nil_value.29.E2.80.9D">”attempt to index field '&lt;any value&gt;' (a nil value)”</span></h4>
+<p>これらのエラーは以下のように表示されます。
+</p>
+<pre>init.lua:2: attempt to index field 'settings' (a nil value)
+init.lua:18: attempt to call field 'register_lbm' (a nil value)
+tools.lua:61: attempt to call global 'nodeupdate' (a nil value)
+</pre>
+<p>最初の2つのエラーは、Minetestのバージョンが古いことが原因です。残りの1つは、古いModが削除されたAPI関数を呼び出そうとすることが原因です。最初の場合は、<a rel="nofollow" class="external text" href="http://minetest.net/download">Minetestをアップデートする</a>かMinetest開発版で試して動作するか確認します。もう1つの場合は、Modのアップデートを確認するか、Mod作者に問題を報告してください。
+</p>
+<h4><span id="“Assertion_'0'_failed”"></span><span class="mw-headline" id=".E2.80.9CAssertion_.270.27_failed.E2.80.9D">“Assertion '0' failed”</span></h4>
+<p>これは、Modのエラーです。Modの作者に報告してください。
+Modの名前は、Modのエラー行の<code>init.lua</code>へのパスのinit.luaの前の部分を見てください。
+</p>
+<pre> ERROR: An unhandled exception occurred: LuaError: error: mods/minetest/&lt;Mod名&gt;/init.lua:69: [...]
+</pre>
+<h4><span id="“ServerEnvironment::loadMeta():_EnvArgsEnd_not_found”"></span><span class="mw-headline" id=".E2.80.9CServerEnvironment::loadMeta.28.29:_EnvArgsEnd_not_found.E2.80.9D">“ServerEnvironment::loadMeta(): EnvArgsEnd not found”</span></h4>
+<p>これは、worldsフォルダーにある<code>env_meta.txt</code>が破損しているために起こります。重要な情報は含まれていないので、このファイルを削除して、Minetestに再生成させてください。
+</p>
+<h3><span class="mw-headline" id="Windows">Windows</span></h3>
+<h4><span id="“MSCP2010.dll_is_not_found”_(or_similar)_(「MSCP2010.dllが見つかりません」または似たメッセージ)"></span><span class="mw-headline" id=".E2.80.9CMSCP2010.dll_is_not_found.E2.80.9D_.28or_similar.29_.28.E3.80.8CMSCP2010.dll.E3.81.8C.E8.A6.8B.E3.81.A4.E3.81.8B.E3.82.8A.E3.81.BE.E3.81.9B.E3.82.93.E3.80.8D.E3.81.BE.E3.81.9F.E3.81.AF.E4.BC.BC.E3.81.9F.E3.83.A1.E3.83.83.E3.82.BB.E3.83.BC.E3.82.B8.29">“MSCP2010.dll is not found” (or similar) (「MSCP2010.dllが見つかりません」または似たメッセージ)</span></h4>
+<p>Microsoft C++ 2010 再配布可能パッケージがインストールされていないために起こります。 <a rel="nofollow" class="external text" href="https://www.microsoft.com/ja-jp/download/details.aspx?id=26999">ダウンロード</a>
+</p>
+<h4><span id="Minetestが起動しません"></span><span class="mw-headline" id="Minetest.E3.81.8C.E8.B5.B7.E5.8B.95.E3.81.97.E3.81.BE.E3.81.9B.E3.82.93">Minetestが起動しません</span></h4>
+<p>メインウィンドウが開く前に動作が停止して、<code>debug.txt</code>にエラーメッセージが出力されていない場合は、コンピューターを再起動してみてください(Windows Updateが原因で<code>0x00005</code>エラーが発生する場合があります)。
+</p><p>それ以外の場合は、<code>debug.txt</code>を開いてエラーメッセージを探すかフォーラムで同様のトラブルの記事を検索してみてください。
+</p>
+<h4><span id="“what()=Access_Violation”_(what()=アクセス違反)"></span><span class="mw-headline" id=".E2.80.9Cwhat.28.29.3DAccess_Violation.E2.80.9D_.28what.28.29.3D.E3.82.A2.E3.82.AF.E3.82.BB.E3.82.B9.E9.81.95.E5.8F.8D.29">“what()=Access Violation” (what()=アクセス違反)</span></h4>
+<p>これは、Direct3Dのドライバーが原因で起こります。
+修正するには<a href="/Minetest.conf/ja" title="Minetest.conf/ja">minetest.conf</a>ファイルを開いて、以下の記述がある場所を探します。
+</p>
+<pre> video_driver = direct3d9
+</pre>
+<p>これを次のように変更して保存します。
+</p>
+<pre> video_driver = opengl
+</pre>
+<h2><span id="操作"></span><span class="mw-headline" id=".E6.93.8D.E4.BD.9C">操作</span></h2>
+<h4><span id="トラックパッドを使っていますが移動と視点変更が同時にできません"></span><span class="mw-headline" id=".E3.83.88.E3.83.A9.E3.83.83.E3.82.AF.E3.83.91.E3.83.83.E3.83.89.E3.82.92.E4.BD.BF.E3.81.A3.E3.81.A6.E3.81.84.E3.81.BE.E3.81.99.E3.81.8C.E7.A7.BB.E5.8B.95.E3.81.A8.E8.A6.96.E7.82.B9.E5.A4.89.E6.9B.B4.E3.81.8C.E5.90.8C.E6.99.82.E3.81.AB.E3.81.A7.E3.81.8D.E3.81.BE.E3.81.9B.E3.82.93">トラックパッドを使っていますが移動と視点変更が同時にできません</span></h4>
+<p>これはMinetestの問題ではなく使用しているOSのトラックパッド設定の問題です。一部のOSではトラックパッドを使っているとき、キーボード入力を無効にするように設定できます。これが有効になっているためです。
+</p><p>GNOMEデスクトップ環境で、これを修正するには「<a rel="nofollow" class="external text" href="https://packages.ubuntu.com/focal/gnome-tweaks">gnome-tweaks</a>」をインストールして起動します。そして「キーボードとマウス」セクションを開いて「タイピング中は無効にする」をオフにします。
+</p><p>その他のOSでこの問題を修正するには、ウェブでトラックパッドの同様の設定を変更する方法を検索してください。
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20230709190006
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.220 seconds
+Real time usage: 0.716 seconds
+Preprocessor visited node count: 130/1000000
+Post‐expand include size: 1886/2097152 bytes
+Template argument size: 401/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 13/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.120/7 seconds
+Lua virtual size: 5.54 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  427.816      1 Template:Languages
+100.00%  427.816      1 -total
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:5070-0!canonical and timestamp 20230709190005 and revision id 26693
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Troubleshooting/ja&amp;oldid=26693">http://wiki.minetest.net/index.php?title=Troubleshooting/ja&amp;oldid=26693</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li><li><a href="/Category:Gameplay" title="Category:Gameplay">Gameplay</a></li><li><a href="/Category:Japanese" title="Category:Japanese">Japanese</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Troubleshooting%2Fja" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Troubleshooting/ja" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Troubleshooting/ja&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Troubleshooting/ja">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Troubleshooting/ja&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Troubleshooting/ja&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Troubleshooting/ja" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Troubleshooting/ja" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Troubleshooting/ja&amp;oldid=26693" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Troubleshooting/ja&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 17 February 2022, at 04:44.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.220","walltime":"0.716","ppvisitednodes":{"value":130,"limit":1000000},"postexpandincludesize":{"value":1886,"limit":2097152},"templateargumentsize":{"value":401,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":13,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  427.816      1 Template:Languages","100.00%  427.816      1 -total"]},"scribunto":{"limitreport-timeusage":{"value":"0.120","limit":"7"},"limitreport-virtmemusage":{"value":5808128,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709190006","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":1492});});</script></body></html>

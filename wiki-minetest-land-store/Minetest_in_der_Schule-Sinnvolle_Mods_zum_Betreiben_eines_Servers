@@ -1,0 +1,280 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Minetest in der Schule/Sinnvolle Mods zum Betreiben eines Servers - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"ab10630fd65ada828bc34a55","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Minetest_in_der_Schule/Sinnvolle_Mods_zum_Betreiben_eines_Servers","wgTitle":"Minetest in der Schule/Sinnvolle Mods zum Betreiben eines Servers","wgCurRevisionId":13532,"wgRevisionId":13532,"wgArticleId":2713,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["German","Minetest as Educational Tool"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Minetest_in_der_Schule/Sinnvolle_Mods_zum_Betreiben_eines_Servers","wgRelevantArticleId":2713,
+"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Minetest_in_der_Schule_Sinnvolle_Mods_zum_Betreiben_eines_Servers rootpage-Minetest_in_der_Schule skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Minetest in der Schule/Sinnvolle Mods zum Betreiben eines Servers</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/Minetest_in_der_Schule" title="Minetest in der Schule">Minetest in der Schule</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>Neben den Mods, die der Ausstattung der Welt und Änderungen bei der Bedienoberfläche betreffen, gibt es auch einige Mods, die sinnvoll bei Online betriebenen Server oder generell Mehrspieler-Welten sinnvoll sind. Generell geht es dabei um Einschränkungen für die Nicht-Admins, damit das gemeinsamen Spielen in geordneten Bahnen abläuft. 
+</p><p>Die folgende Auswahl ist sicher nicht vollständig und ich versuche, soweit ich das Mods kenne und ausprobiert habe die Fähigkeiten zu beschreiben. Manchmal muss ich allerdings auf die vorhandenen Hinwiese im Forum zurückgreifen. Es wäre schön, wenn gefundene Fehler oder weitere Mods ergänzt werden könnten, auch wenn sie neue Features bekommen. Auf der anderen Seite braucht man vielleicht nur einen Teil eines Mods, den ich mir dann ganz gezielt rausgesucht habe und hier beschreibe.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Missbrauch_von_Materialien"><span class="tocnumber">1</span> <span class="toctext">Missbrauch von Materialien</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Sicherungen_von_Bereichen_und_Material"><span class="tocnumber">2</span> <span class="toctext">Sicherungen von Bereichen und Material</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Tools_f.C3.BCr_den_Admin"><span class="tocnumber">3</span> <span class="toctext">Tools für den Admin</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Verbessertes_Inventar"><span class="tocnumber">4</span> <span class="toctext">Verbessertes Inventar</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Informationen_weitergeben"><span class="tocnumber">5</span> <span class="toctext">Informationen weitergeben</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Missbrauch_von_Materialien">Missbrauch von Materialien</span></h2>
+<p>Wer andere ärgern will, zerstört entweder am liebsten die Bauten des anderen oder klaut Material. Zwei Stoffe stehen da im Vordergrund: und das ist Lava und TNT. Lava kommt ja natürlich vor und daher werden vor allem bei Holzgebäude und etwa Anpflanzungen ein Eimer abgekippt und die Lava fließt auf die Zielobjekte und lässt sie verbrennen. Bringt man dann noch Wasser ins Spiel, bilden die zwei zusammen Bruchsteine und damit wird der Bau nebenbei zugebaut.
+</p><p>Auch Feuer kann etwas zerstören.
+</p><p>Beim Erstellen des Servers kann man in der Datei ... bereits einige Dinge deaktivieren, um so den Zerstörern die Möglichkeiten zu nehmen.
+</p>
+<h2><span class="mw-headline" id="Sicherungen_von_Bereichen_und_Material">Sicherungen von Bereichen und Material</span></h2>
+<p>Insgesamt geht es darum, dass manchmal faule Spieler sich das Material von anderen holen, weil sie zu faul sind zu suchen oder es sich zu bauen. Das betrifft gebaute Strukturen oder auch Truhen, in denen man Material, was nicht mehr ins Inventar passt, ablegen kann. Wenn diese Truhen nicht gesichert sind, kann sich ein Besucher einfach bedienen.
+</p><p>Generell sollte man beachten, dass man sich besser auf ein SicherungsMod für das Sichern von Grundstücken beschränken sollte. Mehrere Mods dieser Art können Probleme verursachen! 
+</p><p><br />
+Das Mod <b><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=11&amp;t=12754">Areas</a></b> bietet viele Möglichkeiten einen Bereich zu markieren und zu sichern. Es kann kombiniert werden mit dem Mod <b><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=11&amp;t=7239">Markers</a></b>, um statt mit Textbefehlen mit Stöcken Bereich zu markieren.
+Areas bietet auch die Möglichkeiten Gebiete zu schachteln, dass man z.B. in einem größeren Schutzgebiet kleine Gebiete freigibt.
+</p><p>Für Spieler kann man das Recht (Wo?) einstellen, dass sie sich selber Gebiete markieren und damit sichern können, wobei die maximale Größe und Anzahl festgelegt werden kann.
+</p><p>Die <a rel="nofollow" class="external text" href="https://github.com/ShadowNinja/areas">Git-Seite von Areas</a> bietet ein kleines Handbuch mit den Befehlen.
+</p><p><br />
+<b><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=11&amp;t=9035">Simple Protection</a></b> ist ein Mod bei dem Spieler mit Hilfe eines "Claim-Stocks" Bereiche von fest definierter Größe für sich reservieren kann. Die Größe wird in der Konfigurationsdatei eingestellt. Admins mit dem entsprechenden Privileg haben Zugriff auch auf reservierte Bereiche. Es kann auch eine Bestrafung eingestellt werden, falls jemand auf dem reservierten Bereich etwas abbauen will. Der Untergrund, also ganz unter der Erde, kann nichts reserviert werden. Die Bereiche sind also immer an der Oberfläche.
+</p><p>Im Forum-Thread findet man Textbefehle mit denen man Informationen zu einem Bereich bekommen kann und es steht dort auch , wie weitere Spieler das Bauen und Abbauen auf einem Bereich erlaubt werden kann.
+</p><p><br />
+Ein weitere Mod namens XXX bietet Schutzsteine, die um sich herum den Bereich gegen Zugriff sichern. Wird ein solcher Stein gesetzt, ist automatisch das Bauen in diesem Bereich auf den Spieler beschränkt, der den Stein gesetzt hat. Allerdings kann man als Besitzer des Steins auch weiteren Spieler erlauben, dort zu bauen, was bei größeren Bereichen, die mit vielen Steinen gesichert werden mussten, umständlich ist. Als Admin mit den entsprechenden Rechten kann man dort trotzdem abbauen und auch den Stein entfernen.
+Auf einem Server fand ich die Möglichkeit, dass der Schutz eines Schutzsteins nicht von vorne herein unendlich lang gilt sondern sich durch die Anwesenheit des Spielers auf der Welt erst nach und nach verlängert. So muss man als Admins nicht eingreifen, wenn ein Spieler die Lust verliert.
+</p><p><br />
+</p><p>Hat ein Spieler zu viel Material, um alles im Inventar mit sich herum zu tragen, gibt es verschiedene Möglichkeiten:
+</p>
+<ul><li>Generell gibt es in Mintest eine verschlossene Truhe, in der man seine Sachen sicher ablegen kann. Da kann aber kein anderer zugreifen.</li>
+<li>Seit der Version 0.4.15 gibt es einen Skelett-Schlüssel der das Teilen von verschlossenen Kisten erlaubt.</li>
+<li>Das Technic-Mod bietet die zwei Möglichkeiten:
+<ul><li>Es gibt Rucksäcke, die eigene Bereiche darstellen, in denen man Material ablegen kann. Das ist ein verschachteltes Inventar. Umständlich, aber es funktioniert. Solche Ideen bieten auch andere Mods an.</li>
+<li>Es gibt verschiedene Größen an Truhen, die abschließbar sind. Sie bieten auch weitere Funktionen, wie Sortierbarkeit, aber bisher kann nur der Besitzer zugreifen.</li></ul></li></ul>
+<h2><span id="Tools_für_den_Admin"></span><span class="mw-headline" id="Tools_f.C3.BCr_den_Admin">Tools für den Admin</span></h2>
+<h2><span class="mw-headline" id="Verbessertes_Inventar">Verbessertes Inventar</span></h2>
+<h2><span class="mw-headline" id="Informationen_weitergeben">Informationen weitergeben</span></h2>
+<p>Um auf einem immer laufenden Server, den die Schüler auch in ihrer Freizeit ohne den Lehrer betreten können, Informationen weiter zu geben gibt es verschiedene Möglichkeiten:
+</p>
+<ul><li><b>Schilder</b>, um kurze Hinweise und Anweisungen zu geben. Es gibt zwar Schilder im Basis-Minetest, aber die sind meiner Meinung nach nicht so sonderlich gut. Man kann sie auch nur lesen, wenn man mir der Maus drüber geht oder das Schild anklickt.</li></ul>
+<dl><dd><dl><dd><dl><dd>Auch ohne Hover-Effekt lesbare bunte Schule bietet das Mod <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?t=13762"><b>kaeza's/VanessaE's signs_lib mod</b></a>, das auch eine <a rel="nofollow" class="external text" href="http://daconcepts.com/vanessa/hobbies/minetest/signs_usage_guide/signs-usage.html">Online-Anleitung</a> zu bieten hat.</dd>
+<dd>Noch hübschere Schilder bietet <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=11&amp;t=13563"><b>Display Modpack</b></a>, das gut lesbare Schilder und auch Poster für mehr Text anbietet.</dd></dl></dd></dl></dd></dl>
+<ul><li><b>MotD</b> = Motto of the day ist gedacht als Begrüßungsmeldung, die man beim Anmelden, wenn man auf den Server kommt, im Chat angezeigt bekommt. Dies stellt man in der Datei <i>ninetest.conf</i> ein.</li>
+<li><b>Regelmäßige Server-Meldungen</b>, vielleicht auch mehrere die per Zufall ausgewählt, die für alle angemeldeten Benutzer im Chat angezeigt werden.</li></ul>
+<dl><dd><dl><dd><dl><dd>So etwas wollen die Mods ServerExtended und bieten. Allerdings hat das Mod ServerExtended bei Versuchen Probleme bereitet.</dd></dl></dd></dl></dd></dl>
+<ul><li>Meldung per <b>Commando-Block mit Näherungssensor</b>, beides Bauteile aus dem Mod "Mesecons". Man kann es so regeln, dass ein sich nähernder Benutzer eine Melung bekommt.</li>
+<li><b>Meldung beim Betreten eines Gebietes</b>, dass geschützt ist.</li>
+<li><b>Bücher</b>, die man auslegt oder an Spieler verteilt. So könnte man größere Mengen an Informationen weiter geben.</li></ul>
+<!-- 
+NewPP limit report
+Cached time: 20230709182648
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.033 seconds
+Real time usage: 0.040 seconds
+Preprocessor visited node count: 15/1000000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    0.000      1 -total
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:2713-0!canonical and timestamp 20230709182648 and revision id 13532
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Minetest_in_der_Schule/Sinnvolle_Mods_zum_Betreiben_eines_Servers&amp;oldid=13532">http://wiki.minetest.net/index.php?title=Minetest_in_der_Schule/Sinnvolle_Mods_zum_Betreiben_eines_Servers&amp;oldid=13532</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:German" title="Category:German">German</a></li><li><a href="/Category:Minetest_as_Educational_Tool" title="Category:Minetest as Educational Tool">Minetest as Educational Tool</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Minetest+in+der+Schule%2FSinnvolle+Mods+zum+Betreiben+eines+Servers" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Minetest_in_der_Schule/Sinnvolle_Mods_zum_Betreiben_eines_Servers" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Minetest_in_der_Schule/Sinnvolle_Mods_zum_Betreiben_eines_Servers&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Minetest_in_der_Schule/Sinnvolle_Mods_zum_Betreiben_eines_Servers">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Minetest_in_der_Schule/Sinnvolle_Mods_zum_Betreiben_eines_Servers&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Minetest_in_der_Schule/Sinnvolle_Mods_zum_Betreiben_eines_Servers&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Minetest_in_der_Schule/Sinnvolle_Mods_zum_Betreiben_eines_Servers" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Minetest_in_der_Schule/Sinnvolle_Mods_zum_Betreiben_eines_Servers" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Minetest_in_der_Schule/Sinnvolle_Mods_zum_Betreiben_eines_Servers&amp;oldid=13532" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Minetest_in_der_Schule/Sinnvolle_Mods_zum_Betreiben_eines_Servers&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 6 March 2017, at 07:22.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.033","walltime":"0.040","ppvisitednodes":{"value":15,"limit":1000000},"postexpandincludesize":{"value":0,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20230709182648","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":350});});</script></body></html>

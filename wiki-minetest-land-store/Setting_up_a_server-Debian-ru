@@ -1,0 +1,407 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Setting up a server/Debian/ru - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"d74fcc090c5488b70045547d","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Setting_up_a_server/Debian/ru","wgTitle":"Setting up a server/Debian/ru","wgCurRevisionId":17113,"wgRevisionId":17113,"wgArticleId":1909,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages","Server","Tutorials","Russian"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Setting_up_a_server/Debian/ru","wgRelevantArticleId":1909,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],
+"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Setting_up_a_server_Debian_ru rootpage-Setting_up_a_server skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Setting up a server/Debian/ru</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/Setting_up_a_server" title="Setting up a server">Setting up a server</a>&lrm; | <a href="/Setting_up_a_server/Debian" title="Setting up a server/Debian">Debian</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> Язык:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><a href="/Setting_up_a_server/Debian" title="Setting up a server/Debian">English</a>&#160;• <bdi lang="de"><a href="/Setting_up_a_server/Debian/de" title="Setting up a server/Debian/de">Deutsch</a></bdi>&#160;• <bdi lang="ja"><a href="/Setting_up_a_server/Debian/ja" title="Setting up a server/Debian/ja">日本語</a></bdi><b>&#160;• <bdi lang="ru"><a class="mw-selflink selflink">русский</a></bdi></b></td>
+</tr></tbody></table>
+<p>Эти инструкции были протестированы в Debian Jessie ("Testing" в январе 2015 года), который включает в себя пакет   <code>minetest-server</code>.
+</p><p>Простые Minetest <a href="/Server/ru" title="Server/ru">сервера</a> могут быть запущены в любом Debian (Ubuntu, Linux Mint, или другом дистрибутиве), в котором есть <code>minetest</code>, перейдя в игре на вкладку "Server", однако такой способ только частично подходит для длительного игрового сеанса.
+</p><p>Это руководство направлено на обеспечение более постоянного, с минимальной средой сервера без графического окружения рабочего стола, сервера.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#.D0.A3.D1.81.D1.82.D0.B0.D0.BD.D0.BE.D0.B2.D0.BA.D0.B0_.D0.B8_.D0.BD.D0.B0.D1.87.D0.B0.D0.BB.D1.8C.D0.BD.D0.B0.D1.8F_.D0.BF.D0.BE.D0.B4.D0.B3.D0.BE.D1.82.D0.BE.D0.B2.D0.BA.D0.B0"><span class="tocnumber">1</span> <span class="toctext">Установка и начальная подготовка</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#.D0.9F.D0.BE.D0.B4.D0.B3.D0.BE.D1.82.D0.BE.D0.B2.D0.BA.D0.B0_.D0.B2.D0.B8.D1.80.D1.82.D1.83.D0.B0.D0.BB.D1.8C.D0.BD.D0.BE.D0.B9_.D0.BC.D0.B0.D1.88.D0.B8.D0.BD.D1.8B_Debian_7_.28.D0.BE.D0.BF.D1.86.D0.B8.D0.BE.D0.BD.D0.B0.D0.BB.D1.8C.D0.BD.D0.BE.29"><span class="tocnumber">1.1</span> <span class="toctext">Подготовка виртуальной машины Debian 7 (опционально)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#.D0.A3.D1.81.D1.82.D0.B0.D0.BD.D0.BE.D0.B2.D0.BA.D0.B0_.D1.81.D0.B5.D1.80.D0.B2.D0.B5.D1.80.D0.B0_Minetest"><span class="tocnumber">2</span> <span class="toctext">Установка сервера Minetest</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#.D0.97.D0.B0.D0.BF.D1.83.D1.81.D0.BA.D0.B0_.D1.81.D0.B5.D1.80.D0.B2.D0.B5.D1.80.D0.B0_.D0.B2.D1.80.D1.83.D1.87.D0.BD.D1.83.D1.8E"><span class="tocnumber">3</span> <span class="toctext">Запуска сервера вручную</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#.D0.9E.D1.81.D1.82.D0.B0.D0.BD.D0.BE.D0.B2.D0.BA.D0.B0_.D1.81.D0.B5.D1.80.D0.B2.D0.B5.D1.80.D0.B0_.D0.B2.D1.80.D1.83.D1.87.D0.BD.D1.83.D1.8E"><span class="tocnumber">4</span> <span class="toctext">Остановка сервера вручную</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#.D0.9D.D0.B0.D1.81.D1.82.D1.80.D0.BE.D0.B9.D0.BA.D0.B0_.D0.B0.D0.B2.D1.82.D0.BE.D0.BC.D0.B0.D1.82.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.BE.D0.B3.D0.BE_.D0.B7.D0.B0.D0.BF.D1.83.D1.81.D0.BA.D0.B0_.D0.BF.D1.80.D0.B8_.D0.B7.D0.B0.D0.B3.D1.80.D1.83.D0.B7.D0.BA.D0.B5"><span class="tocnumber">5</span> <span class="toctext">Настройка автоматического запуска при загрузке</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#.D0.A1_.D0.BA.D0.BE.D0.BC.D0.B0.D0.BD.D0.B4.D0.BE.D0.B9_.D0.B7.D0.B0.D0.BF.D0.BB.D0.B0.D0.BD.D0.B8.D1.80.D0.BE.D0.B2.D0.B0.D0.BD.D0.BD.D0.BE.D0.B9_.D0.B7.D0.B0.D0.B3.D1.80.D1.83.D0.B7.D0.BA.D0.B8_.28.D1.82.D0.BE.D0.BB.D1.8C.D0.BA.D0.BE_.D0.B4.D0.BB.D1.8F_.D0.B2.D0.B5.D1.80.D1.81.D0.B8.D0.B9_0.4.10.2Brepack-3_.D0.B8_.D0.BD.D0.B8.D0.B6.D0.B5.29"><span class="tocnumber">5.1</span> <span class="toctext">С командой запланированной загрузки (только для версий 0.4.10+repack-3 и ниже)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#.D0.97.D0.B0.D0.BF.D1.83.D1.81.D0.BA_.D1.81.D0.B5.D1.80.D0.B2.D0.B5.D1.80.D0.B0_Minetest_.D0.BA.D0.B0.D0.BA_.D1.81.D0.B5.D1.80.D0.B2.D0.B8.D1.81_Systemd_.D0.B8.D0.BB.D0.B8_sysV-init_.D0.B4.D0.B5.D0.BC.D0.BE.D0.BD"><span class="tocnumber">6</span> <span class="toctext">Запуск сервера Minetest как сервис Systemd или sysV-init демон</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Systemd"><span class="tocnumber">6.1</span> <span class="toctext">Systemd</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#sysV-init"><span class="tocnumber">6.2</span> <span class="toctext">sysV-init</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#.D0.94.D0.BE.D0.BF.D0.BE.D0.BB.D0.BD.D0.B8.D1.82.D0.B5.D0.BB.D1.8C.D0.BD.D0.B0.D1.8F_.D0.B8.D0.BD.D1.84.D0.BE.D1.80.D0.BC.D0.B0.D1.86.D0.B8.D1.8F"><span class="tocnumber">6.3</span> <span class="toctext">Дополнительная информация</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#.D0.9D.D0.B5.D1.81.D0.BA.D0.BE.D0.BB.D1.8C.D0.BA.D0.BE_.D1.81.D0.BE.D0.B2.D0.B5.D1.82.D0.BE.D0.B2"><span class="tocnumber">7</span> <span class="toctext">Несколько советов</span></a></li>
+</ul>
+</div>
+
+<h2><span id="Установка_и_начальная_подготовка"></span><span class="mw-headline" id=".D0.A3.D1.81.D1.82.D0.B0.D0.BD.D0.BE.D0.B2.D0.BA.D0.B0_.D0.B8_.D0.BD.D0.B0.D1.87.D0.B0.D0.BB.D1.8C.D0.BD.D0.B0.D1.8F_.D0.BF.D0.BE.D0.B4.D0.B3.D0.BE.D1.82.D0.BE.D0.B2.D0.BA.D0.B0">Установка и начальная подготовка</span></h2>
+<p><i> Команды с префиксом <b>$</b> должны запускаться с ограниченными правами, в то время как команды с префиксом <b>#</b> следует использовать с правами администратора (как правило, с помощью <code>sudo</code>). </i>
+</p>
+<h3><span id="Подготовка_виртуальной_машины_Debian_7_(опционально)"></span><span class="mw-headline" id=".D0.9F.D0.BE.D0.B4.D0.B3.D0.BE.D1.82.D0.BE.D0.B2.D0.BA.D0.B0_.D0.B2.D0.B8.D1.80.D1.82.D1.83.D0.B0.D0.BB.D1.8C.D0.BD.D0.BE.D0.B9_.D0.BC.D0.B0.D1.88.D0.B8.D0.BD.D1.8B_Debian_7_.28.D0.BE.D0.BF.D1.86.D0.B8.D0.BE.D0.BD.D0.B0.D0.BB.D1.8C.D0.BD.D0.BE.29">Подготовка виртуальной машины Debian 7 (опционально)</span></h3>
+<p>Если вы хотите установить Minetest в своей выделенной среде, интересно сделать это на хосте KVM, в качестве выделенной виртуальной машины.
+</p><p>Это требует предварительного установку и настройку KVM и <b> virtinst </b> пакетов на вашей хост-системе. Вы также можете настроить сетевой мост, чтобы ваш Интернет имел прямой доступ к серверу в той же подсети.
+</p><p>Следующая команда подготовит виртуальную машину с именем "dungeon" в существующем хосте KVM:
+</p>
+<pre>sudo virt-install -n dungeon -r 1024 --disk path=/var/lib/libvirt/images/dungeon.img,bus=virtio,size=10 -l <a rel="nofollow" class="external free" href="http://ftp.ca.debian.org/debian/dists/wheezy/main/installer-i386/">http://ftp.ca.debian.org/debian/dists/wheezy/main/installer-i386/</a> --accelerate -b br0,model=virtio --connect=qemu:///system --vnc --noautoconsole -v
+</pre>
+<p>После установки, вы можете получить доступ к консоли через VNC.
+</p>
+<h2><span id="Установка_сервера_Minetest"></span><span class="mw-headline" id=".D0.A3.D1.81.D1.82.D0.B0.D0.BD.D0.BE.D0.B2.D0.BA.D0.B0_.D1.81.D0.B5.D1.80.D0.B2.D0.B5.D1.80.D0.B0_Minetest">Установка сервера Minetest</span></h2>
+<p>Установите <code>minetest-server</code> package:
+</p>
+<pre># apt-get install minetest-server
+</pre>
+<p>Текущий пакет Debian в Jessie автоматически не настроит сервер Minetest на запуск в качестве службы. Он может работать под <code>root</code> пользователем, но предпочтительно создать пользователя, чтобы запустить его:
+</p><p>&#160;# adduser minetest
+</p><p>Начиная с версии 0.4.10+repack-3 ручная конфигурация пакета minetest-server в Debian не нужна. Пожалуйста, обратитесь к разделу о systemd и sysV-init ниже.
+</p><p>Перед установкой автозапуска при загрузке, запустите сервер вручную, чтобы лучше определить параметры командной строки.
+</p>
+<h2><span id="Запуска_сервера_вручную"></span><span class="mw-headline" id=".D0.97.D0.B0.D0.BF.D1.83.D1.81.D0.BA.D0.B0_.D1.81.D0.B5.D1.80.D0.B2.D0.B5.D1.80.D0.B0_.D0.B2.D1.80.D1.83.D1.87.D0.BD.D1.83.D1.8E">Запуска сервера вручную</span></h2>
+<p>Сервер может быть запущен вручную, по команде:
+</p><p>&#160;$ minetestserver --info
+</p><p>Последние несколько строк вывода терминала должны быть похожи на это:
+&#160; 
+</p>
+<pre>03:33:25: INFO[main]: Server: Loading environment metadata
+03:33:25: INFO[main]: Server: Loading players
+03:33:25: INFO[main]: Starting server on port 30000...
+03:33:25: ACTION[main]:         .__               __                   __   
+03:33:25: ACTION[main]:   _____ |__| ____   _____/  |_  ____   _______/  |_ 
+03:33:25: ACTION[main]:  /     \|  |/    \_/ __ \   __\/ __ \ /  ___/\   __\
+03:33:25: ACTION[main]: |  Y Y  \  |   |  \  ___/|  | \  ___/ \___ \  |  |  
+03:33:25: ACTION[main]: |__|_|  /__|___|  /\___  &gt;__|  \___  &gt;____  &gt; |__|  
+03:33:25: ACTION[main]:       \/        \/     \/          \/     \/        
+03:33:25: ACTION[main]: World at [/home/minetest/.minetest/worlds/world]
+03:33:25: ACTION[main]: Server for gameid="minetest" listening on port 30000.
+03:33:25: INFO[ServerThread]: Server creating detached inventory "creative"
+03:33:28: INFO[ServerThread]: ServerMap: SQLite3 database opened
+</pre>
+<p>&#160;
+</p>
+<h2><span id="Остановка_сервера_вручную"></span><span class="mw-headline" id=".D0.9E.D1.81.D1.82.D0.B0.D0.BD.D0.BE.D0.B2.D0.BA.D0.B0_.D1.81.D0.B5.D1.80.D0.B2.D0.B5.D1.80.D0.B0_.D0.B2.D1.80.D1.83.D1.87.D0.BD.D1.83.D1.8E">Остановка сервера вручную</span></h2>
+<p>Чтобы остановить сервер, нажмите <kbd>Ctrl + C</kbd>. <b>Старайтесь его его убивать</b>, так как это может привести к повреждению мира.
+</p><p>Последние несколько строк вывода терминала должен быть похож на это:
+</p>
+<pre>03:34:52: INFO: sigint_handler(): Ctrl-C pressed, shutting down.
+03:34:52: INFO[main]: Dedicated server quitting
+03:34:52: INFO[main]: Server destructing
+03:34:52: INFO[main]: Server: Saving players
+03:34:52: INFO[main]: Server: Saving environment metadata
+03:34:52: INFO[main]: Server: Stopping and waiting threads
+03:34:52: INFO[main]: Server: Threads stopped
+03:34:52: INFO[main]: ServerMap: Saved map to /home/minetest/.minetest/worlds/world
+03:34:52: INFO[main]: RollbackManager::~RollbackManager()
+03:34:52: INFO[main]: RollbackManager::flush()
+03:34:52: INFO[main]: BanManager: saving to /home/minetest/.minetest/worlds/world/ipban.txt
+03:34:52: INFO[main]: Server: Deinitializing scripting
+</pre>
+<h2><span id="Настройка_автоматического_запуска_при_загрузке"></span><span class="mw-headline" id=".D0.9D.D0.B0.D1.81.D1.82.D1.80.D0.BE.D0.B9.D0.BA.D0.B0_.D0.B0.D0.B2.D1.82.D0.BE.D0.BC.D0.B0.D1.82.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.BE.D0.B3.D0.BE_.D0.B7.D0.B0.D0.BF.D1.83.D1.81.D0.BA.D0.B0_.D0.BF.D1.80.D0.B8_.D0.B7.D0.B0.D0.B3.D1.80.D1.83.D0.B7.D0.BA.D0.B5">Настройка автоматического запуска при загрузке</span></h2>
+<h3><span id="С_командой_запланированной_загрузки_(только_для_версий_0.4.10+repack-3_и_ниже)"></span><span class="mw-headline" id=".D0.A1_.D0.BA.D0.BE.D0.BC.D0.B0.D0.BD.D0.B4.D0.BE.D0.B9_.D0.B7.D0.B0.D0.BF.D0.BB.D0.B0.D0.BD.D0.B8.D1.80.D0.BE.D0.B2.D0.B0.D0.BD.D0.BD.D0.BE.D0.B9_.D0.B7.D0.B0.D0.B3.D1.80.D1.83.D0.B7.D0.BA.D0.B8_.28.D1.82.D0.BE.D0.BB.D1.8C.D0.BA.D0.BE_.D0.B4.D0.BB.D1.8F_.D0.B2.D0.B5.D1.80.D1.81.D0.B8.D0.B9_0.4.10.2Brepack-3_.D0.B8_.D0.BD.D0.B8.D0.B6.D0.B5.29">С командой запланированной загрузки (только для версий 0.4.10+repack-3 и ниже)</span></h3>
+<p>ВАЖНО: это ручная настройка автоматического сервера Minetest при загрузке не нужна с 0.4.10+repack-3. Эти усовершенствование доступно при установке пакета из экспериментальных репозиториев Debian, на момент написания этой статьи.
+</p><p>После того, как вы удовлетворены параметрами командной строки и проверив работу сервера, вы можете настроить автоматический запуск при загрузке:
+</p>
+<ol><li>Залогинтесь в качестве пользователя, ранее созданного. Это может быть не привилегированный пользователь.</li>
+<li>Добавьте <code>minetestserver</code> после тестирования с ручным запуском сервера в <code>crontab</code>
+<ol><li>Вызовите редактор  <code>crontab</code>: <pre>$ crontab -e</pre></li>
+<li>Добавить вашу команду, которая будет выполнена при перезагрузке, в самый конец файла, например: <pre>@reboot /usr/games/minetestserver --info --worldname MyWorld</pre></li></ol></li>
+<li>Сохранить файл (Ctrl-X при использовании редактора <code>nano</code>)</li></ol>
+<h2><span id="Запуск_сервера_Minetest_как_сервис_Systemd_или_sysV-init_демон"></span><span class="mw-headline" id=".D0.97.D0.B0.D0.BF.D1.83.D1.81.D0.BA_.D1.81.D0.B5.D1.80.D0.B2.D0.B5.D1.80.D0.B0_Minetest_.D0.BA.D0.B0.D0.BA_.D1.81.D0.B5.D1.80.D0.B2.D0.B8.D1.81_Systemd_.D0.B8.D0.BB.D0.B8_sysV-init_.D0.B4.D0.B5.D0.BC.D0.BE.D0.BD">Запуск сервера Minetest как сервис Systemd или sysV-init демон</span></h2>
+<p>Начиная с версии 0.4.10+repack-3 пакет Minetest-server в Debian автоматически создает общесистемного, непривилегированного пользователя с именем <b>Debian-minetest</b>. Домашний каталог этого пользователя - <i> /var/games/minetest-server</i>. Вы можете сделать все настройки в <i> /etc/minetest/minetest.conf.</i> Все файлы журналов записываются в <i>/etc/minetest/minetest.conf </i>.
+</p>
+<h3><span class="mw-headline" id="Systemd">Systemd</span></h3>
+<p>Запуск сервера
+</p>
+<ol><li>systemctl start minetest-server</li></ol>
+<p>Остановка сервера
+</p>
+<pre># systemctl stop minetest-server
+</pre>
+<p>Вы можете отключить сервер при загрузке
+</p>
+<pre># systemctl disable minetest-server
+</pre>
+<p>Вы можете запустить несколько серверов с различными конфигурациями с помощью блока шаблона функцию Systemd годов.
+</p>
+<pre># systemctl start minetest-server@pvp.service
+</pre>
+<p>Вы можете запустить несколько серверов с различными конфигурациями с помощью блока шаблона функций systemd.
+</p><p>&#160;# systemctl start minetest-server@pvp.service
+</p><p>Если вы сохранили файл конфигурации для этого сервера в <code>/etc/minetest/pvp.conf</code>, сервер теперь будет использовать эту вторую конфигурацию и записывать все в  <code>/var/log/minetest/pvp.log</code>.
+Просто замените <code>pvp</code> после @ желаемым именем.
+</p>
+<h3><span class="mw-headline" id="sysV-init">sysV-init</span></h3>
+<p>Если Systemd не ваша система инициализации по умолчанию, и вы по-прежнему предпочитаете использовать конфигурацию старого sysV-init, вы можете использовать команду обслуживания, чтобы запустить или остановить сервер.
+</p>
+<pre># service minetest-server start
+</pre>
+<p>или:
+</p>
+<pre>#service minetest-server stop
+</pre>
+<h3><span id="Дополнительная_информация"></span><span class="mw-headline" id=".D0.94.D0.BE.D0.BF.D0.BE.D0.BB.D0.BD.D0.B8.D1.82.D0.B5.D0.BB.D1.8C.D0.BD.D0.B0.D1.8F_.D0.B8.D0.BD.D1.84.D0.BE.D1.80.D0.BC.D0.B0.D1.86.D0.B8.D1.8F">Дополнительная информация</span></h3>
+<ul><li>Для получения подробных описаний файле конфигурации сервера, смотрите <a rel="nofollow" class="external text" href="http://github.com/minetest/minetest/blob/master/minetest.conf.example">minetest.conf</a>.</li>
+<li>Используйте другую <a href="/Database_backends" title="Database backends">базу данных</a> для вашего мира.</li>
+<li><a rel="nofollow" class="external text" href="Http://forum.minetest.net/viewtopic.php?f=3&amp;t=3837">Онлайн-скрипт для установки / компиляции Minetest Git, для Debian / Ubuntu / Mint</a></li>
+<li><a rel="nofollow" class="external text" href="http://forum.minetest.net/viewtopic.php?f=10&amp;t=1825">Оптимизация сервера</a></li>
+<li><a href="/Server_commands" title="Server commands">Комманды сервера</a>  страница списка полезных команд.</li>
+<li><a href="/Itemstrings" title="Itemstrings"> Коды предметов</a> для использования с  <code>/give</code> и <code>/giveme</code> командами.</li>
+<li>Смотрите страницу  <a href="/Privileges" title="Privileges">прав</a> для получения подробной информации о системе привилегий.</li></ul>
+<h2><span id="Несколько_советов"></span><span class="mw-headline" id=".D0.9D.D0.B5.D1.81.D0.BA.D0.BE.D0.BB.D1.8C.D0.BA.D0.BE_.D1.81.D0.BE.D0.B2.D0.B5.D1.82.D0.BE.D0.B2">Несколько советов</span></h2>
+<ul><li>Каталог <code>.minetest</code> содержит данные игры  (<code>worlds, config, debug.txt</code>).</li>
+<li>Файловая структура с папками Minetest изменяется после некоторого использования в качестве клиента и сервера, она обозначена в скобках (...).</li></ul>
+<p>&#160; minetest/
+</p>
+<pre>├── bin/
+├── builtin/
+├── cache/
+│   ├── media/
+│   └── tmp/
+├── client/
+│   ├── serverlist/
+│   └── shaders/
+│       ├── …
+├── doc/
+├── fonts/
+├── games/
+│   ├── minetest_game/
+│   ├── minimal/
+│   └── … (установленые дополнительные игры)
+├── locale/ (множество языковых папок)
+├── mods/
+│   └── … (установленные дополнительные моды и сборники модов)
+├── textures/
+│   ├── base/
+│   │   └── pack/
+│   └── … (установлены дополнительные пакеты текстур)
+└── worlds/
+    └── … (сохранные миры. Некоторые расширения модов мира)
+</pre>
+<!-- 
+NewPP limit report
+Cached time: 20230709184745
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.196 seconds
+Real time usage: 0.401 seconds
+Preprocessor visited node count: 108/1000000
+Post‐expand include size: 1821/2097152 bytes
+Template argument size: 385/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 13/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 94/5000000 bytes
+Lua time usage: 0.120/7 seconds
+Lua virtual size: 5.55 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  311.269      1 Template:Languages
+100.00%  311.269      1 -total
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:1909-0!canonical and timestamp 20230709184745 and revision id 17113
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Setting_up_a_server/Debian/ru&amp;oldid=17113">http://wiki.minetest.net/index.php?title=Setting_up_a_server/Debian/ru&amp;oldid=17113</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li><li><a href="/Category:Server" title="Category:Server">Server</a></li><li><a href="/Category:Tutorials" title="Category:Tutorials">Tutorials</a></li><li><a href="/Category:Russian" title="Category:Russian">Russian</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Setting+up+a+server%2FDebian%2Fru" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Setting_up_a_server/Debian/ru" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Setting_up_a_server/Debian/ru&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Setting_up_a_server/Debian/ru">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Setting_up_a_server/Debian/ru&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Setting_up_a_server/Debian/ru&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Setting_up_a_server/Debian/ru" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Setting_up_a_server/Debian/ru" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Setting_up_a_server/Debian/ru&amp;oldid=17113" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Setting_up_a_server/Debian/ru&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 3 September 2017, at 18:54.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.196","walltime":"0.401","ppvisitednodes":{"value":108,"limit":1000000},"postexpandincludesize":{"value":1821,"limit":2097152},"templateargumentsize":{"value":385,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":13,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":94,"limit":5000000},"timingprofile":["100.00%  311.269      1 Template:Languages","100.00%  311.269      1 -total"]},"scribunto":{"limitreport-timeusage":{"value":"0.120","limit":"7"},"limitreport-virtmemusage":{"value":5820416,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709184745","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":761});});</script></body></html>

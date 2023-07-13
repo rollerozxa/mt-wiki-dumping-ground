@@ -1,0 +1,299 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Licensing - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"512b910757b48d84592aee40","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Licensing","wgTitle":"Licensing","wgCurRevisionId":25748,"wgRevisionId":25748,"wgArticleId":915,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["About Minetest","Languages pages"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Licensing","wgRelevantArticleId":915,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready",
+"user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Licensing rootpage-Licensing skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Licensing</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> Language:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><b><a class="mw-selflink selflink">English</a></b></td>
+</tr></tbody></table>
+<p>Recently a considerable number of Minetest-based games have been appearing in the Android playstore, and Google Play. See the <a href="/Overview_of_Minetest_forks" title="Overview of Minetest forks">list of Minetest forks</a> for examples of these.
+</p><p><i>Please look at: <a rel="nofollow" class="external text" href="http://www.flightgear.org/flightprosim.html">FlightGear</a> as they have the same issue as Minetest has.</i>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Complying_with_the_License"><span class="tocnumber">1</span> <span class="toctext">Complying with the License</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Where_should_I_put_any_links.3F"><span class="tocnumber">1.1</span> <span class="toctext">Where should I put any links?</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#What_if_I_use_proprietary_source_code.2Flibraries.3F"><span class="tocnumber">1.2</span> <span class="toctext">What if I use proprietary source code/libraries?</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#See_also"><span class="tocnumber">1.3</span> <span class="toctext">See also</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#What_to_do_if_I_spot_a_program_that_is_possibly_infringing_Minetest.27s_license.3F"><span class="tocnumber">2</span> <span class="toctext">What to do if I spot a program that is possibly infringing Minetest's license?</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#What_not_to_do_if_a_program_is_infringing_Minetest.27s_license"><span class="tocnumber">2.1</span> <span class="toctext">What not to do if a program is infringing Minetest's license</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Complying_with_the_License">Complying with the License</span></h2>
+<p>The code of both the Minetest Engine and Minetest Game are licensed under <a rel="nofollow" class="external text" href="https://www.gnu.org/licenses/lgpl-2.1.html">LGPL 2.1+ free software license</a>. Other components may be similarly licensed, however this document does not cover them. <b>Note that this document is only intended for informational purposes</b>, for the real legally binding terms you should read the <a rel="nofollow" class="external text" href="https://www.gnu.org/licenses/lgpl-2.1.html">LGPL 2.1+ license</a>.
+</p>
+<ul><li>You must link to the source code behind your software
+<ul><li>Which must also be licensed under LGPL 2.1 or later, or a compatible license. Also see <i>"what if I use proprietary source code/libraries?"</i>.</li>
+<li>If any modifications were made to the Minetest Engine or Game, you must state this inside of your application, and provide a means to download the **modified** source code.</li>
+<li>If you did not modify any source code, you must still link to the source code behind the software - however this can be the official Minetest repo if unmodified</li></ul></li>
+<li>You must not remove any copyright notices.</li>
+<li>You must state significant changes to the software.</li>
+<li>You must not mix proprietary and LGPLv2.1+ code, see  <i>"what if I use proprietary source code/libraries?"</i>.</li>
+<li>You should place the following attribution on any pages where the software can be downloaded, including but not limited to Google Play or a website:</li></ul>
+ <blockquote><p>This [app/game/...] uses the Minetest engine [and game], Copyright 2010-2018 Perttu Ahola and contributors, licensed under LGPLv2.1+</p></blockquote>
+<p><b>It is an infringement to only link back to the original source code if you made modifications</b>
+</p>
+<h3><span id="Where_should_I_put_any_links?"></span><span class="mw-headline" id="Where_should_I_put_any_links.3F">Where should I put any links?</span></h3>
+<ul><li>Any locations where the software is downloaded, including but not limited to Google Play or a website.</li>
+<li>You should place a link in the main menu (for example, in the credits tab).</li></ul>
+<h3><span id="What_if_I_use_proprietary_source_code/libraries?"></span><span class="mw-headline" id="What_if_I_use_proprietary_source_code.2Flibraries.3F">What if I use proprietary source code/libraries?</span></h3>
+<ul><li><b>Don't mix proprietary code with LGPL code.</b> For example, if you use a proprietary ad library, then you can only call it from proprietary code.</li>
+<li><b>Any LGPL code must be replaceable.</b> The user must be able to use their own version of any LGPL code with your software. You must also provide documentation on how to do this.</li>
+<li>Any proprietary code you wrote must not forbid reverse-compilation for the purpose of debugging modifications to the LGPL code.</li>
+<li>You must <b>fully and prominently attribute</b> the Minetest project if your software contains any proprietary code.</li></ul>
+<p>This, in affect, means that you will need to completely rewrite the Java section of the app and just use Minetest as an NDK library.
+Make sure you include instructions on how to replace any LGPLv2.1+ code.
+</p><p>The legal text behind this is in <a rel="nofollow" class="external text" href="https://www.gnu.org/licenses/lgpl.html#section4">section 4</a>.
+Also see <a rel="nofollow" class="external autonumber" href="https://opensource.stackexchange.com/questions/4357/how-can-lgpl-and-proprietary-licenses-be-combined">[1]</a>
+</p>
+<h3><span class="mw-headline" id="See_also">See also</span></h3>
+<ul><li><a rel="nofollow" class="external free" href="https://tldrlegal.com/license/gnu-lesser-general-public-license-v3-(lgpl-3)">https://tldrlegal.com/license/gnu-lesser-general-public-license-v3-(lgpl-3)</a></li>
+<li><a rel="nofollow" class="external free" href="https://www.gnu.org/licenses/lgpl-2.1.html">https://www.gnu.org/licenses/lgpl-2.1.html</a></li>
+<li><a rel="nofollow" class="external free" href="https://softwareengineering.stackexchange.com/questions/86142/what-exactly-do-i-need-to-do-if-i-use-a-lgpl-licenced-library">https://softwareengineering.stackexchange.com/questions/86142/what-exactly-do-i-need-to-do-if-i-use-a-lgpl-licenced-library</a></li></ul>
+<h2><span id="What_to_do_if_I_spot_a_program_that_is_possibly_infringing_Minetest's_license?"></span><span class="mw-headline" id="What_to_do_if_I_spot_a_program_that_is_possibly_infringing_Minetest.27s_license.3F">What to do if I spot a program that is possibly infringing Minetest's license?</span></h2>
+<p>If you think that a certain program is infringing on Minetest's LGPL 2.1 license, please check with the program's website to see if it is licensed under similar terms, and if the source code is being distributed.If the license seems to be proprietary, and if the developer alleges that the program is their own work, then contact <a rel="nofollow" class="external text" href="mailto:celeron55@gmail.com">celeron55</a>. Alternatively, join the <a rel="nofollow" class="external text" href="http://webchat.freenode.net/?channels=#minetest">Minetest IRC channel</a> and report it there. It doesn't matter if anyone replies or not, it will be logged and the community will check on it themselves. There is also an attempt to list forks of Minetest at the "<a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?p=242219#p242219">Making a list of Minetest forks for Android</a>" thread in the forums. If the programm you discovered is missing there you could add it.
+</p><p><br />
+</p>
+<h3><span id="What_not_to_do_if_a_program_is_infringing_Minetest's_license"></span><span class="mw-headline" id="What_not_to_do_if_a_program_is_infringing_Minetest.27s_license">What not to do if a program is infringing Minetest's license</span></h3>
+<p><b>DO NOT TAKE ANY ACTION AGAINST THE DEVELOPER</b> - You must report it to the Minetest devs instead.
+</p><p>Even if it is as clear as day that a certain program is using code and artwork from Minetest and is not distributing it under similar conditions, please do not attempt, or do the following:
+</p>
+<ol><li>Do not launch a witch-hunt. This is the 21<sup>st</sup> century. Please behave appropriately.</li>
+<li>Do not attempt to crack, grief, or crash their servers.</li>
+<li>Do not attempt to contact the infringing program's developer. Any contact made with the developer shall be after consensus with respected members of the community at large and the Core Development Team.</li></ol>
+<p>The above has largely only resulted in a lot of drama, mostly ending with the infringing developer gaining the upper hand and getting away with using Minetest's code while violating the license. Please don't do it.
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20230708220611
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.181 seconds
+Real time usage: 0.385 seconds
+Preprocessor visited node count: 72/1000000
+Post‐expand include size: 1047/2097152 bytes
+Template argument size: 140/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 14/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.130/7 seconds
+Lua virtual size: 5.55 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  305.785      1 Template:Languages
+100.00%  305.785      1 -total
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:915-0!canonical and timestamp 20230708220610 and revision id 25748
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Licensing&amp;oldid=25748">http://wiki.minetest.net/index.php?title=Licensing&amp;oldid=25748</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:About_Minetest" title="Category:About Minetest">About Minetest</a></li><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Licensing" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Licensing" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Licensing&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Licensing">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Licensing&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Licensing&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Licensing" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Licensing" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Licensing&amp;oldid=25748" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Licensing&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 16 April 2021, at 05:27.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.181","walltime":"0.385","ppvisitednodes":{"value":72,"limit":1000000},"postexpandincludesize":{"value":1047,"limit":2097152},"templateargumentsize":{"value":140,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":14,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  305.785      1 Template:Languages","100.00%  305.785      1 -total"]},"scribunto":{"limitreport-timeusage":{"value":"0.130","limit":"7"},"limitreport-virtmemusage":{"value":5820416,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230708220611","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":286});});</script></body></html>

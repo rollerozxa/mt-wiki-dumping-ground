@@ -1,0 +1,583 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Server/SteamWorks/Tips-Advanced - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"769db6853dcc6840d3869b12","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Server/SteamWorks/Tips-Advanced","wgTitle":"Server/SteamWorks/Tips-Advanced","wgCurRevisionId":26706,"wgRevisionId":26706,"wgArticleId":5085,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Server/SteamWorks/Tips-Advanced","wgRelevantArticleId":5085,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":
+"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Server_SteamWorks_Tips-Advanced rootpage-Server skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Server/SteamWorks/Tips-Advanced</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/Server" title="Server">Server</a>&lrm; | <a href="/Server/SteamWorks" title="Server/SteamWorks">SteamWorks</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Tips_-_Advanced"><span class="tocnumber">1</span> <span class="toctext">Tips - Advanced</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Farming"><span class="tocnumber">1.1</span> <span class="toctext">Farming</span></a>
+<ul>
+<li class="toclevel-3 tocsection-3"><a href="#Basic_farming"><span class="tocnumber">1.1.1</span> <span class="toctext">Basic farming</span></a>
+<ul>
+<li class="toclevel-4 tocsection-4"><a href="#Nutrition-Values"><span class="tocnumber">1.1.1.1</span> <span class="toctext">Nutrition-Values</span></a></li>
+</ul>
+</li>
+<li class="toclevel-3 tocsection-5"><a href="#Advanced_farming"><span class="tocnumber">1.1.2</span> <span class="toctext">Advanced farming</span></a>
+<ul>
+<li class="toclevel-4 tocsection-6"><a href="#Example_field-layout"><span class="tocnumber">1.1.2.1</span> <span class="toctext">Example field-layout</span></a></li>
+<li class="toclevel-4 tocsection-7"><a href="#Tip_for_easy_farming"><span class="tocnumber">1.1.2.2</span> <span class="toctext">Tip for easy farming</span></a></li>
+</ul>
+</li>
+<li class="toclevel-3 tocsection-8"><a href="#Industrial_farming"><span class="tocnumber">1.1.3</span> <span class="toctext">Industrial farming</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-9"><a href="#Woodworking"><span class="tocnumber">1.2</span> <span class="toctext">Woodworking</span></a>
+<ul>
+<li class="toclevel-3 tocsection-10"><a href="#No_woodworking"><span class="tocnumber">1.2.1</span> <span class="toctext">No woodworking</span></a></li>
+<li class="toclevel-3 tocsection-11"><a href="#Basic_woodworking"><span class="tocnumber">1.2.2</span> <span class="toctext">Basic woodworking</span></a></li>
+<li class="toclevel-3 tocsection-12"><a href="#Advanced_woodworking"><span class="tocnumber">1.2.3</span> <span class="toctext">Advanced woodworking</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-13"><a href="#Mining"><span class="tocnumber">1.3</span> <span class="toctext">Mining</span></a>
+<ul>
+<li class="toclevel-3 tocsection-14"><a href="#Basic_mining"><span class="tocnumber">1.3.1</span> <span class="toctext">Basic mining</span></a></li>
+<li class="toclevel-3 tocsection-15"><a href="#Advanced_mining"><span class="tocnumber">1.3.2</span> <span class="toctext">Advanced mining</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-16"><a href="#Building"><span class="tocnumber">1.4</span> <span class="toctext">Building</span></a>
+<ul>
+<li class="toclevel-3 tocsection-17"><a href="#Basic_building"><span class="tocnumber">1.4.1</span> <span class="toctext">Basic building</span></a></li>
+<li class="toclevel-3 tocsection-18"><a href="#Advanced_building"><span class="tocnumber">1.4.2</span> <span class="toctext">Advanced building</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-19"><a href="#Technic.2C_pipeworks.2C_mesecons"><span class="tocnumber">1.5</span> <span class="toctext">Technic, pipeworks, mesecons</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Tips_-_Advanced">Tips - Advanced</span></h2>
+<h3><span class="mw-headline" id="Farming">Farming</span></h3>
+<p>You don't have to farm, but it makes it easier to get different kinds of food reliably. <br />
+Some alternatives:
+</p>
+<ul><li>Buy food, eg. at spawn or at shops/restaurants</li>
+<li>Collect while exploring, eg. apples, bananas, onions, berries, pine-nuts
+<ul><li>Roasted fir-cones (needs a furnace)</li></ul></li>
+<li>Go fishing (make a fishing-rod from sticks and strings, get worms from 2 dirt)</li></ul>
+<dl><dd>you can catch fish at any block of water (random chance, about 5%)</dd></dl>
+<h4><span class="mw-headline" id="Basic_farming">Basic farming</span></h4>
+<ul><li>Dig grass until you find some seeds for wheat, rye, barley or oats</li>
+<li>find a place with at least 1 block of water, and some dirt</li>
+<li>Make a hoe, convert dirt to soil</li></ul>
+<dl><dd>the soil needs to be within range 3 of the water, or it will dry out again</dd></dl>
+<ul><li>Plant seeds on soil</li>
+<li>While the plants grow, craft a furnace and a mortar&amp;pestle (needs 11 cobblestone)&#160;:
+<ul><li>the furnace needs 8 cobblestones</li>
+<li>in the furnace, cook 3 cobble to stone</li></ul></li></ul>
+<dl><dd>grass or leaves can be used as cheap, low-grade fuel in the furnace</dd></dl>
+<ul><li><ul><li>mortar&amp;pestle needs 1 stick and 3 stones</li></ul></li>
+<li>Harvest when crops are fully grown (eg. wheat at growth-stage 8)</li></ul>
+<dl><dd>careful: avoid digging the soil under the crops while harvesting</dd></dl>
+<ul><li><ul><li>Re-plant seeds</li></ul></li>
+<li>Make bread:
+<ul><li>with mortar&amp;pestle; 4 wheat/rye/oats/barley yield 1 flour</li>
+<li>cook flour in furnace to bread: 1 flour --&gt; 1 bread</li></ul></li></ul>
+<h5><span class="mw-headline" id="Nutrition-Values">Nutrition-Values</span></h5>
+<ul><li>apple     - 2</li>
+<li>banana    - 4</li>
+<li>pineapple -</li>
+<li>orange    -</li>
+<li>olive     -</li>
+<li>coconut-slice  - 2</li>
+<li>potato (raw)   - 1</li>
+<li>baked potato   - 5</li>
+<li>bread            - 5</li>
+<li>ricebread        - 6</li>
+<li>corn (raw)       - 3</li>
+<li>corn-on-the-cob  - 5</li>
+<li>cornbread        - 10.4</li>
+<li>multigrain-bread -</li>
+<li>carrot   - 3</li>
+<li>tomato   - 1
+<ul><li>tomato-slice</li></ul></li>
+<li>onion    - 1.5
+<ul><li>onion-slice</li>
+<li>onion-soup</li></ul></li>
+<li>garlic   -</li>
+<li>chili    - 3</li>
+<li>beetroot - 1.3</li>
+<li>beetroot-soup -</li>
+<li>cucumber - 3</li>
+<li>brown mushrooms - 2
+<ul><li>mushroom-soup  -</li></ul></li>
+<li>pine-nut             - 0.6 ,, 0.9</li>
+<li>roasted fir-cone nut - 1</li>
+<li>..</li>
+<li>healing leaf -</li>
+<li>raw fish     -</li>
+<li>cooked fish  -</li>
+<li>blueberry    - 1</li>
+<li>raspberry    - 1</li>
+<li>strawberry   - 1</li>
+<li>rhubarb      - 1</li></ul>
+<ul><li>green beans -</li>
+<li>grapes   -</li>
+<li>melon slice   -</li>
+<li>pumpkin slice -</li>
+<li>pea      -</li>
+<li>pea soup</li></ul>
+<ul><li>cookie        -</li>
+<li>rhubarb-pie   -</li>
+<li>chocolate-bar - 3</li>
+<li>cooked meat   -</li>
+<li>pizza         - 4 .. 5</li>
+<li>hamburger     -</li>
+<li>super taco    - 7 .. 8</li>
+<li>pasta  -</li></ul>
+<p>Drinks:  (note: those don't fill up the thirst-bar&#160;!)
+</p>
+<ul><li>soda-can    - 2.6</li>
+<li>carot-juice - 5</li>
+<li>coffee -</li>
+<li>mint tea  -</li>
+<li>cactus-juice -</li></ul>
+<p>...
+</p>
+<h4><span class="mw-headline" id="Advanced_farming">Advanced farming</span></h4>
+<ul><li>Craft a sicle (2 sticks, 1 stone) for harvesting without the risk of digging up soil</li>
+<li>hand-driven mill (1 stick, 2 stones, 1 iron-ingot) - makes flour from grains</li></ul>
+<dl><dd>eg. from the surplus-grains left over after replanting, or the output of the threshing floor</dd>
+<dd>only works with wheat</dd></dl>
+<ul><li>threshing floor &amp; stick (locked chest, stone, 4 junglewood-planks) - makes grains and straw from wheat</li></ul>
+<dl><dd>yields 3 grains from 4 wheat (triple as much as mortar&amp;pestle)</dd>
+<dd>only works with wheat</dd></dl>
+<ul><li>Get some more kinds of plants</li></ul>
+<dl><dd>onions, potatoes, cotton can be found in the jungle</dd>
+<dd>also check grassy, swampy areas</dd></dl>
+<ul><li>Look out for corn, bamboo and papyrus, too</li>
+<li>Build a water-turbine and a water-powered grinder</li></ul>
+<dl><dd>This can grind all kinds of grains to flour, as well as rice and corn.</dd>
+<dd>It can also grind lumps of mined minerals, thus doubling the output.</dd></dl>
+<h5><span class="mw-headline" id="Example_field-layout">Example field-layout</span></h5>
+<p>size 8x8 - 3 rings of soil around a 2x2 pool of water:
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>2</td>
+<td>3</td>
+<td>3</td>
+<td>4</td>
+<td>4
+</td></tr>
+<tr>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>2</td>
+<td>3</td>
+<td>3</td>
+<td>4</td>
+<td>4
+</td></tr>
+<tr>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>2</td>
+<td>3</td>
+<td>3</td>
+<td>4</td>
+<td>4
+</td></tr>
+<tr>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>W</td>
+<td>W</td>
+<td>6</td>
+<td>6</td>
+<td>6
+</td></tr>
+<tr>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>W</td>
+<td>W</td>
+<td>6</td>
+<td>6</td>
+<td>6
+</td></tr>
+<tr>
+<td>7</td>
+<td>7</td>
+<td>8</td>
+<td>8</td>
+<td>9</td>
+<td>9</td>
+<td>c</td>
+<td>c
+</td></tr>
+<tr>
+<td>7</td>
+<td>7</td>
+<td>8</td>
+<td>8</td>
+<td>9</td>
+<td>9</td>
+<td>c</td>
+<td>c
+</td></tr>
+<tr>
+<td>7</td>
+<td>7</td>
+<td>8</td>
+<td>8</td>
+<td>9</td>
+<td>9</td>
+<td>c</td>
+<td>c
+</td></tr></tbody></table>
+<p>W: water from a 2x2-pool regenerates, so provides infinite water <br />
+1-9, c:  2x3 areas each for 10 different crops, eg.
+wheat, rye, oats, rice, potatoes.
+tomatoes, onions, raspberries, blueberries, corn.
+</p>
+<dl><dd>Modify as needed, to include carrots, cucumbers, rhubarb, strawberries, beetroots, melons, pumpkins, chili, pepper, hemp</dd>
+<dd>Beans and grapes need a supporting structure.</dd></dl>
+<h5><span class="mw-headline" id="Tip_for_easy_farming">Tip for easy farming</span></h5>
+<ul><li>With no furnace: carrots, tomatoes &amp; onions (sliced), some berries</li>
+<li>Using only a furnace: as above, plus corn &amp; potatoes (both baked)</li></ul>
+<p>Also: cocoa --&gt; chocolate-bars, and cocoa+wheat --&gt; cookies. <br />
+Additionally: plant papyrus on dirt near water, to make paper (needed for cables) and sugar.
+</p>
+<h4><span class="mw-headline" id="Industrial_farming">Industrial farming</span></h4>
+<p>There is an electric-powered thresher, that also supports automation via pipeworks. <br />
+But it is MV (medium voltage), so you need to build up some LV-machines (low voltage) first.
+</p><p>There are also 
+</p>
+<ul><li>the mithril-scythe - a tool that harvests and replants in one action</li>
+<li>the digtron (softdiggers and builders can be used for harvesting and planting),</li>
+<li>(from technic) the walking tractor - needs to be charged (just like the chainsaw) can do tilling and harvesting</li></ul>
+<dl><dd>modes 1..4&#160;: tilling</dd>
+<dd>modes 5..8&#160;: harvesting</dd></dl>
+<ul><li>(from technic) the planter - needs to be charged, just like the chainsaw</li></ul>
+<dl><dd>modes 1 .. 4&#160;:</dd></dl>
+<ul><li>nodebreaker + nodedetector + deployer</li>
+<li>nodebreaker + mithril-scythe</li></ul>
+<p>...
+</p>
+<h3><span class="mw-headline" id="Woodworking">Woodworking</span></h3>
+<p>Crafting most things requires some wooden parts, so we need wood.
+</p>
+<h4><span class="mw-headline" id="No_woodworking">No woodworking</span></h4>
+<p>collect leaves, then craft leaves --&gt; twigs --&gt; sticks --&gt; planks --&gt; wooden tools. small backpack, chest etc.
+</p><p>Also: leaves --&gt; oil-extract --&gt; parafin --&gt; plastic.
+</p><p>With autocrafters, pipes and injectors, this processing can be automated. Chainsaws are also helpful. 
+</p><p>With a chainsaw-equipped nodebreaker, a node-detector, a deployer and some cabling
+this would went straight to 'industrial woodworking'.
+</p>
+<h4><span class="mw-headline" id="Basic_woodworking">Basic woodworking</span></h4>
+<ul><li>cut trees by hand (slow)</li>
+<li>plant saplings</li>
+<li>wood --&gt; planks</li></ul>
+<h4><span class="mw-headline" id="Advanced_woodworking">Advanced woodworking</span></h4>
+<ul><li>wooden axe</li>
+<li>stone axe</li></ul>
+<dl><dd>...</dd></dl>
+<ul><li>handsaw</li>
+<li>chainsaw</li></ul>
+<dl><dd>...</dd></dl>
+<ul><li>circular saw</li>
+<li>sawmill</li></ul>
+<h3><span class="mw-headline" id="Mining">Mining</span></h3>
+<p>Mining stone, ore/minerals and gems.
+</p>
+<h4><span class="mw-headline" id="Basic_mining">Basic mining</span></h4>
+<ul><li>wooden pickaxe - wears out fast</li>
+<li>stone pickaxe (3 stones, plus sticks)</li>
+<li>furnace       (8 stones) - smelts ore-lumps or dust to ingots</li>
+<li>regular torch: stick + coal</li></ul>
+<dl><dd>make charcoal from wood, if you find no coal near the surface</dd></dl>
+<ul><li>kalite-torch - cold light (doesn't hurt player), burns in water</li></ul>
+<p>The first minerals needed are coal, iron and copper.
+</p>
+<h4><span class="mw-headline" id="Advanced_mining">Advanced mining</span></h4>
+<ul><li>grinder       - makes 2 dust from 1 lump of ore</li>
+<li>alloy-furnace - eg. to make bronze</li>
+<li>drill         - tool for digging up to 3 blocks in a row</li>
+<li>digtron</li></ul>
+<p>Furnaces come in different types: fuel-fired, and electric.
+</p><p>They can be automated with pipes.
+</p><p>...
+</p>
+<h3><span class="mw-headline" id="Building">Building</span></h3>
+<p>Building houses, etc.
+</p>
+<h4><span class="mw-headline" id="Basic_building">Basic building</span></h4>
+<ul><li>protection</li>
+<li>dirt - ugly</li>
+<li>wood</li>
+<li>cobblestone - works, but looks ugly</li>
+<li>chests, furnace</li></ul>
+<p>...
+</p>
+<h4><span class="mw-headline" id="Advanced_building">Advanced building</span></h4>
+<ul><li>other materials</li>
+<li>door</li>
+<li>window</li>
+<li>roof</li>
+<li>interior</li>
+<li>decoration</li></ul>
+<p>...
+</p>
+<h3><span id="Technic,_pipeworks,_mesecons"></span><span class="mw-headline" id="Technic.2C_pipeworks.2C_mesecons">Technic, pipeworks, mesecons</span></h3>
+<ul><li>Basic technic:
+<ul><li>grinder - makes 2 piles of dust from 1 lump of mineral</li></ul></li></ul>
+<dl><dd>furnace smelts each dust to an ingot</dd></dl>
+<ul><li><ul><li>alloy furnace - to make brass etc.</li>
+<li>plastic</li></ul></li></ul>
+<p>...
+</p><p>Electric machines fall into categories
+</p>
+<ul><li>generators</li>
+<li>connectors (switches, cables, batteries)</li>
+<li>consumers - machines doing some useful work</li></ul>
+<p>Energy is measured in EU, electric units. <br />
+Supply and demand is calculated every second.
+</p><p>When the demand is greater then the supply, the machines don't work <br />
+unless a batterybox in the network has enough capacity to help out.
+</p><p>There are 3 tiers of electric power:
+</p>
+<ul><li>LV - low voltage</li>
+<li>MV - medium voltage</li>
+<li>HV - high voltage</li></ul>
+<p>Example of a small electric network (LV):
+</p>
+<ul><li>water-driven generator</li>
+<li>switching station</li>
+<li>batterybox</li>
+<li>electric grinder</li>
+<li>electric furnace</li>
+<li>LV-cables</li></ul>
+<p>...
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20230709184521
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.097 seconds
+Real time usage: 0.244 seconds
+Preprocessor visited node count: 56/1000000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    0.000      1 -total
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:5085-0!canonical and timestamp 20230709184521 and revision id 26706
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Server/SteamWorks/Tips-Advanced&amp;oldid=26706">http://wiki.minetest.net/index.php?title=Server/SteamWorks/Tips-Advanced&amp;oldid=26706</a>"</div>
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Server%2FSteamWorks%2FTips-Advanced" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Server/SteamWorks/Tips-Advanced" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Server/SteamWorks/Tips-Advanced&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Server/SteamWorks/Tips-Advanced">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Server/SteamWorks/Tips-Advanced&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Server/SteamWorks/Tips-Advanced&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Server/SteamWorks/Tips-Advanced" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Server/SteamWorks/Tips-Advanced" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Server/SteamWorks/Tips-Advanced&amp;oldid=26706" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Server/SteamWorks/Tips-Advanced&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 28 March 2022, at 01:46.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.097","walltime":"0.244","ppvisitednodes":{"value":56,"limit":1000000},"postexpandincludesize":{"value":0,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20230709184521","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":882});});</script></body></html>

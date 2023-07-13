@@ -1,0 +1,607 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>How to build your first house/ms - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"9ed51702f560e9ec7b9dfce9","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"How_to_build_your_first_house/ms","wgTitle":"How to build your first house/ms","wgCurRevisionId":27640,"wgRevisionId":27640,"wgArticleId":3725,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages","Tutorials","Malay"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"How_to_build_your_first_house/ms","wgRelevantArticleId":3725,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],
+"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","jquery.tablesorter.styles":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=jquery.tablesorter.styles%7Cmediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-How_to_build_your_first_house_ms rootpage-How_to_build_your_first_house skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">How to build your first house/ms</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/How_to_build_your_first_house" title="How to build your first house">How to build your first house</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> Bahasa:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><a href="/How_to_build_your_first_house" title="How to build your first house">English</a>&#160;• <bdi lang="de"><a href="/How_to_build_your_first_house/de" title="How to build your first house/de">Deutsch</a></bdi>&#160;• <bdi lang="fr"><a href="/How_to_build_your_first_house/fr" title="How to build your first house/fr">français</a></bdi>&#160;• <bdi lang="ja"><a href="/How_to_build_your_first_house/ja" title="How to build your first house/ja">日本語</a></bdi><b>&#160;• <bdi lang="ms"><a class="mw-selflink selflink">Bahasa Melayu</a></bdi></b></td>
+</tr></tbody></table>
+<p><b>Artikel ini akan memberitahu anda bagaimana caranya untuk membuat dunia baru, membina rumah dan meneranginya dalam subpermainan <a href="/Games/Minetest_Game/ms" title="Games/Minetest Game/ms">Minetest Game</a></b>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Memulakan_dunia_baru"><span class="tocnumber">1</span> <span class="toctext">Memulakan dunia baru</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Sumber_pertama"><span class="tocnumber">2</span> <span class="toctext">Sumber pertama</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Mencari_pokok_atau_belukar"><span class="tocnumber">2.1</span> <span class="toctext">Mencari pokok atau belukar</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Menebang_pokok"><span class="tocnumber">2.2</span> <span class="toctext">Menebang pokok</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Mencantas_belukar"><span class="tocnumber">2.3</span> <span class="toctext">Mencantas belukar</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Menggunakan_inventori_anda"><span class="tocnumber">3</span> <span class="toctext">Menggunakan inventori anda</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Mencipta_alatan_pertama"><span class="tocnumber">4</span> <span class="toctext">Mencipta alatan pertama</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Penggalian_dan_penciptaan_yang_lebih_serius"><span class="tocnumber">5</span> <span class="toctext">Penggalian dan penciptaan yang lebih serius</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Membina_sebuah_rumah"><span class="tocnumber">6</span> <span class="toctext">Membina sebuah rumah</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Baca_lagi"><span class="tocnumber">7</span> <span class="toctext">Baca lagi</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Memulakan_dunia_baru">Memulakan dunia baru</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/File:Tree_pic.png" class="image"><img alt="" src="/images/thumb/4/4f/Tree_pic.png/300px-Tree_pic.png" decoding="async" width="300" height="294" class="thumbimage" srcset="/images/4/4f/Tree_pic.png 1.5x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Tree_pic.png" class="internal" title="Enlarge"></a></div>Pokok biasa dalam Minetest Game</div></div></div>
+<p>Mula-mula sekali, setelah membuka <a href="/Minetest/ms" title="Minetest/ms">Minetest</a>, anda mestilah mencipta sebuah <a href="/index.php?title=Maps/ms&amp;action=edit&amp;redlink=1" class="new" title="Maps/ms (page does not exist)">dunia</a> baru. Untuk mencipta dunia, sila tekan “Buat Baru” atau “New” pada skrin permulaan. Apa anda perlu buat hanyalah masukkan nama untuk dunia baru anda. Kemudian tekan “Cipta” atau “Create”.
+</p><p>Sekarang anda telah mencipta dunia anda, anda perlu bermain di dunia tersebut. Pilih dunia tadi dengan menekan namanya dalam senarai dan tekan “Mula Main” atau “Play”. Anda akan nampak bar kemajuan yang menunjukkan permainan tersebut sedang memuatkan dunia.
+</p><p>Itu dia! Anda patut muncul dalam sebuah dunia baru. Namun begitu, tiada gunanya berdiri saja di situ. Asalnya, kekunci <kbd>W</kbd> menggerakkan anda ke depan, kekunci <kbd>D</kbd> ke kanan, kekunci <kbd>A</kbd> ke kiri, dan kekunci <kbd>S</kbd> ke belakang. Lompat dengan kekunci <kbd>space bar</kbd>. Untuk pusing dan lihat atas bawah, hanya perlu gerakkan tetikus. (Lihat juga: <a href="/Controls/ms" title="Controls/ms">Kawalan</a>.)
+</p>
+<h2><span class="mw-headline" id="Sumber_pertama">Sumber pertama</span></h2>
+<p>Sekarang anda sudah tahu bergerak, anda perlu mendapatkan beberapa blok <a href="/index.php?title=Wood/ms&amp;action=edit&amp;redlink=1" class="new" title="Wood/ms (page does not exist)">papan kayu</a>. Ini salah satu dari tugasan utama dan paling penting ketika bermula bermain dalam Minetest Game.
+</p>
+<h3><span class="mw-headline" id="Mencari_pokok_atau_belukar">Mencari pokok atau belukar</span></h3>
+<p>Mula-mula, anda perlu mencari <a href="/index.php?title=Trees/ms&amp;action=edit&amp;redlink=1" class="new" title="Trees/ms (page does not exist)">pokok</a> atau <a href="/Bushes/ms" title="Bushes/ms">belukar</a>. Terdapat beberapa spesis pokok dan belukar. Pokok lebih bagus berbanding belukar kerana mereka boleh menghasilkan lebih banyak kayu.
+</p><p>Jika anda tidak nampak sebarang pokok atau belukar dengan serta-merta, merayaulah di kawasan sekitar sehingga anda nampak pokok atau belukar.
+</p>
+<ul><li>Petua: Jika anda bermula di tengah-tengah kawasan lapang yang tidak diketahui, mula berjalan di kawasan sekitar sehingga anda nampak kawasan lapang berumput, dan tuju ke situ. Anda boleh jumpa belukar di kawasan lapang berumput, dan hutan selalunya tak jauh dari situ. Jika anda menjumpai rumput yang berwarna kuning, itu <a href="/Dry_Grass/ms" title="Dry Grass/ms">rumput kering</a> dan anda telah menjumpai sebuah savana, iaitu rumah kepada <a href="/Acacia_Tree/ms" title="Acacia Tree/ms">pokok akasia</a>.</li>
+<li>Petua: Jika anda bermula di tengah-tengah kawasan lautan, anda perlu berenang ke daratan. Teruskan menekan kekunci <kbd>space bar</kbd> apabila berada dalam <a href="/Water/ms" title="Water/ms">air</a> untuk kekal terapung dan tidak lemas!</li></ul>
+<h3><span class="mw-headline" id="Menebang_pokok">Menebang pokok</span></h3>
+<p>Apabila anda menjumpai pokok, pergi kepada <a href="/Tree/ms" title="Tree/ms">kayu pokok</a> (tak kira spesis), dan lihat padanya. Apabila anda berada dekat dengannya, anda patut nampak garis bentuk hitam di sekeliling bahagian kayu pokok yang anda sedang lihat. Kemudian anda perlu terus menekan butang tetikus kiri. Anda patut mula melihat rekahan muncul pada kayu pokok tersebut. Setelah beberapa saat, bahagian kayu pokok yang anda lihat tadi akan hilang. Anda mungkin akan memegang kayu pokok tadi dalam tangan anda sekarang. Apa yang anda buat sebentar tadi dipanggil “<a href="/Mining/ms" title="Mining/ms">menggali</a>”. Jika anda mampu melihat sebuah gambar kecil bahagia kayu pokok dalam salah satu kotak di bawah skrin anda, ia bermakna benda tadi menjadi sebuah <a href="/Items/ms" class="mw-redirect" title="Items/ms">item</a> di dalam <a href="/index.php?title=Inventory/ms&amp;action=edit&amp;redlink=1" class="new" title="Inventory/ms (page does not exist)">inventori</a> anda. Kotak tersebut merupakan <a href="/index.php?title=Hotbar/ms&amp;action=edit&amp;redlink=1" class="new" title="Hotbar/ms (page does not exist)">hotbar</a> anda. Untuk memilih item berbeza daripada hotbar, gunakan roda tetikus, atau kekunci nombor <kbd>1</kbd>-<kbd>8</kbd>.
+</p>
+<h3><span class="mw-headline" id="Mencantas_belukar">Mencantas belukar</span></h3>
+<p>Belukar ialah sumber alternatif untuk mencipta papan kayu, tetapi mereka menghasilkan kurang papan kayu berbanding kayu pokok. Untuk mencantas, buat apa yang anda akan buat dengan pokok biasa, kecuali anda akan berjalan ke arah <a href="/Bushes/ms" title="Bushes/ms">belukar</a> (tak kira spesis), kemudian gali <a href="/Bush_Leaves/ms" title="Bush Leaves/ms">daun belukar</a> dahulu (supaya boleh sampai pada batang belukar), kemudian gali <a href="/Bush_Stem/ms" title="Bush Stem/ms">batang belukar</a>.
+</p>
+<h2><span class="mw-headline" id="Menggunakan_inventori_anda">Menggunakan inventori anda</span></h2>
+<p>Setelah anda dapatkan kayu pokok atau batang belukar, buka inventori anda.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/File:Inventory_menu_illustrated_(Malay).png" class="image"><img alt="" src="/images/thumb/5/52/Inventory_menu_illustrated_%28Malay%29.png/300px-Inventory_menu_illustrated_%28Malay%29.png" decoding="async" width="300" height="310" class="thumbimage" srcset="/images/thumb/5/52/Inventory_menu_illustrated_%28Malay%29.png/450px-Inventory_menu_illustrated_%28Malay%29.png 1.5x, /images/5/52/Inventory_menu_illustrated_%28Malay%29.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Inventory_menu_illustrated_(Malay).png" class="internal" title="Enlarge"></a></div>Menu inventori yang asal</div></div></div>
+<p>Untuk membuka <a href="/index.php?title=Inventory_menu/ms&amp;action=edit&amp;redlink=1" class="new" title="Inventory menu/ms (page does not exist)">menu inventori</a> anda, tekan kekunci <kbd>I</kbd> pada papan kekunci anda. Sekarang ini sepatutnya skrin akan menunjukkan beberapa baris kotak kelabu. Ini semua merupakan pelbagai slot dalam inventori anda. Untuk memindahkan item, klik kiri pada item menggunakan tetikus, kemudian klik di tempat yang anda ingin pindahkan (sebuah kotak kosong).
+</p><p>Sekarang, cuba gali lagi kayu pokok atau batang belukar. Anda patut nampak nombor kecil naik di sebelah gambar item tersebut dalam inventori. Nombor ini menunjukkan berapa bilangan item tersebut yang anda ada. 
+</p><p>Apabila anda membuka inventori anda, anda akan nampak kotak bersaiz 3×3 di sebelah atas. Itulah <a href="/Crafting/ms#Grid_pertukangan_dan_slot_output" title="Crafting/ms">grid pertukangan</a>. Di situlah anda akan <a href="/Crafting/ms" title="Crafting/ms">mencipta</a> pelbagai item.
+</p><p>Sekarang, anda perlu mencipta <a href="/index.php?title=Wooden_Planks/ms&amp;action=edit&amp;redlink=1" class="new" title="Wooden Planks/ms (page does not exist)">papan kayu</a>. Untuk menciptanya, klik pada item kayu pokok atau batang belukar untuk memilih mereka. Kemudian, letakkan mereka di mana-mana saja dalam grid pertukangan. Sekarang ini menu inventori anda patut kelihatan seperti ini:
+</p>
+<table class="wikitable collapsible">
+
+<tbody><tr>
+<th scope="row" width="50px">Nama
+</th>
+<th scope="col" width="140px">Bahan-bahan
+</th>
+<th class="unsortable" scope="col">Input &#8594; Output
+</th></tr>
+<tr>
+<th scope="row"><a href="/index.php?title=Wood/ms&amp;action=edit&amp;redlink=1" class="new" title="Wood/ms (page does not exist)">Papan Kayu</a>
+</th>
+<td align="center"><a href="/Tree/ms" title="Tree/ms">Kayu Pokok</a>
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Tree" title="Tree"><img alt="Tree.png" src="/images/thumb/a/ac/Tree.png/32px-Tree.png" decoding="async" width="32" height="32" srcset="/images/thumb/a/ac/Tree.png/48px-Tree.png 1.5x, /images/thumb/a/ac/Tree.png/64px-Tree.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/Wooden_Planks" title="Wooden Planks"><img alt="Wooden Planks.png" src="/images/thumb/e/e6/Wooden_Planks.png/32px-Wooden_Planks.png" decoding="async" width="32" height="32" srcset="/images/thumb/e/e6/Wooden_Planks.png/48px-Wooden_Planks.png 1.5x, /images/thumb/e/e6/Wooden_Planks.png/64px-Wooden_Planks.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black">4</span></div></div>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p>Atau seperti ini:
+</p>
+<table class="wikitable collapsible">
+
+<tbody><tr>
+<th scope="row" width="50px">Nama
+</th>
+<th scope="col" width="140px">Bahan-bahan
+</th>
+<th class="unsortable" scope="col">Input &#8594; Output
+</th></tr>
+<tr>
+<th scope="row"><a href="/index.php?title=Wood/ms&amp;action=edit&amp;redlink=1" class="new" title="Wood/ms (page does not exist)">Papan Kayu</a>
+</th>
+<td align="center"><a href="/Bush_Stem/ms" title="Bush Stem/ms">Batang Belukar</a>
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Bush_Stem" title="Bush Stem"><img alt="Bush Stem.png" src="/images/thumb/1/10/Bush_Stem.png/32px-Bush_Stem.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/10/Bush_Stem.png/48px-Bush_Stem.png 1.5x, /images/thumb/1/10/Bush_Stem.png/64px-Bush_Stem.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/Wooden_Planks" title="Wooden Planks"><img alt="Wooden Planks.png" src="/images/thumb/e/e6/Wooden_Planks.png/32px-Wooden_Planks.png" decoding="async" width="32" height="32" srcset="/images/thumb/e/e6/Wooden_Planks.png/48px-Wooden_Planks.png 1.5x, /images/thumb/e/e6/Wooden_Planks.png/64px-Wooden_Planks.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black"></span></div></div>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p>Jika anda menebang spesis pokok atau belukar yang berbeza (spt. <a href="/Acacia_Tree/ms" title="Acacia Tree/ms">pokok akasia</a>), ia akan memberikan papan kayu yang berbeza, namun perlakuannya serupa sahaja.
+</p><p>Dalam kotak di sebelah kanan grid, anda akan nampak gambar papan kayu (atau yang serupa dengannya). Klik di situ, dan anda akan mengambil papan kayu. Anda juga akan perasan kayu pokok atau batang belukar tadi telah hilang daripada tindanannya dalam grid pertukangan. Tahniah! Anda telah mencipta item anda yang pertama! Anda boleh <a href="/Building/ms" title="Building/ms">meletakkan</a> mana-mana blok dalam dunia anda dengan berjalan ke arah nod yang lain dan klik-kanan pada permukaannya untuk meletakkan nod yang anda sedang pegang di situ.
+</p>
+<h2><span class="mw-headline" id="Mencipta_alatan_pertama">Mencipta alatan pertama</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:162px;"><a href="/File:Wooden_Pickaxe.png" class="image"><img alt="" src="/images/b/b3/Wooden_Pickaxe.png" decoding="async" width="160" height="160" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Wooden_Pickaxe.png" class="internal" title="Enlarge"></a></div>Sebilah beliung kayu</div></div></div>
+<p>Sebelum anda membina rumah anda, ada 2 lagi yang anda perlu buat.
+</p><p>Pertamanya untuk membuat <a href="/index.php?title=Stick/ms&amp;action=edit&amp;redlink=1" class="new" title="Stick/ms (page does not exist)">serpihan kayu</a>. Pilih papan kayu dalam inventori anda. Kemudian klik-kanan pada salah satu slot dalam grid pertukangan. Ini akan meletakkan hanya satu blok papan kayu di situ dan bukannya seluruh tindanan. Kemudian klik-kiri di mana-mana slot dalam inventori untuk meletakkan baki papan kayu di situ. Kotak output pertukangan patut menunjukkan serpihan kayu ketika ini. Klik pada item serpihan kayu untuk mengambil empat serpihan kayu tersebut.
+</p>
+<table class="wikitable collapsible">
+
+<tbody><tr>
+<th scope="row" width="50px">Nama
+</th>
+<th scope="col" width="140px">Bahan-bahan
+</th>
+<th class="unsortable" scope="col">Input &#8594; Output
+</th></tr>
+<tr>
+<th scope="row"><a href="/index.php?title=Stick/ms&amp;action=edit&amp;redlink=1" class="new" title="Stick/ms (page does not exist)">Serpihan Kayu</a>
+</th>
+<td align="center"><a href="/index.php?title=Wood/ms&amp;action=edit&amp;redlink=1" class="new" title="Wood/ms (page does not exist)">Papan Kayu</a>
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Wooden_Planks" title="Wooden Planks"><img alt="Wooden Planks.png" src="/images/thumb/e/e6/Wooden_Planks.png/32px-Wooden_Planks.png" decoding="async" width="32" height="32" srcset="/images/thumb/e/e6/Wooden_Planks.png/48px-Wooden_Planks.png 1.5x, /images/thumb/e/e6/Wooden_Planks.png/64px-Wooden_Planks.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/Stick" title="Stick"><img alt="Stick.png" src="/images/thumb/a/aa/Stick.png/32px-Stick.png" decoding="async" width="32" height="32" srcset="/images/thumb/a/aa/Stick.png/48px-Stick.png 1.5x, /images/thumb/a/aa/Stick.png/64px-Stick.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black">4</span></div></div>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p>Sekarang, masa untuk cipta alatan pertama anda! Ianya sebilah <a href="/index.php?title=Pickaxe/ms&amp;action=edit&amp;redlink=1" class="new" title="Pickaxe/ms (page does not exist)">beliung kayu</a>. Ianya digunakan untuk menggali <a href="/Stone/ms" title="Stone/ms">batu</a>, <a href="/Ores/ms" title="Ores/ms">bijih</a> dan beberapa blok lainnya.
+Untuk mencipta beliung kayu, menggunakan klik kanan, letakkan 1 blok papan kayu (tak kira spesis) ke dalam setiap satu daripada 3 kotak teratas dalam grid pertukangan. Kemudian, lettakkan serpihan kayu di bahagian tengah baris tengah dan baris bawah. Outputnya akan menunjukkan sebuah beliung.
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th scope="row" width="50px">Nama
+</th>
+<th scope="col" width="140px">Bahan-bahan
+</th>
+<th class="unsortable" scope="col">Input &#8594; Output
+</th></tr>
+<tr>
+<th scope="row"><a href="/index.php?title=Pickaxe/ms&amp;action=edit&amp;redlink=1" class="new" title="Pickaxe/ms (page does not exist)">Beliung Kayu</a>
+</th>
+<td align="center"><a href="/index.php?title=Wood/ms&amp;action=edit&amp;redlink=1" class="new" title="Wood/ms (page does not exist)">Papan Kayu</a> + <a href="/index.php?title=Stick/ms&amp;action=edit&amp;redlink=1" class="new" title="Stick/ms (page does not exist)">Serpihan Kayu</a>
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Wooden_Planks" title="Wooden Planks"><img alt="Wooden Planks.png" src="/images/thumb/e/e6/Wooden_Planks.png/32px-Wooden_Planks.png" decoding="async" width="32" height="32" srcset="/images/thumb/e/e6/Wooden_Planks.png/48px-Wooden_Planks.png 1.5x, /images/thumb/e/e6/Wooden_Planks.png/64px-Wooden_Planks.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Wooden_Planks" title="Wooden Planks"><img alt="Wooden Planks.png" src="/images/thumb/e/e6/Wooden_Planks.png/32px-Wooden_Planks.png" decoding="async" width="32" height="32" srcset="/images/thumb/e/e6/Wooden_Planks.png/48px-Wooden_Planks.png 1.5x, /images/thumb/e/e6/Wooden_Planks.png/64px-Wooden_Planks.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Wooden_Planks" title="Wooden Planks"><img alt="Wooden Planks.png" src="/images/thumb/e/e6/Wooden_Planks.png/32px-Wooden_Planks.png" decoding="async" width="32" height="32" srcset="/images/thumb/e/e6/Wooden_Planks.png/48px-Wooden_Planks.png 1.5x, /images/thumb/e/e6/Wooden_Planks.png/64px-Wooden_Planks.png 2x" /></a></div></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Stick" title="Stick"><img alt="Stick.png" src="/images/thumb/a/aa/Stick.png/32px-Stick.png" decoding="async" width="32" height="32" srcset="/images/thumb/a/aa/Stick.png/48px-Stick.png 1.5x, /images/thumb/a/aa/Stick.png/64px-Stick.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Stick" title="Stick"><img alt="Stick.png" src="/images/thumb/a/aa/Stick.png/32px-Stick.png" decoding="async" width="32" height="32" srcset="/images/thumb/a/aa/Stick.png/48px-Stick.png 1.5x, /images/thumb/a/aa/Stick.png/64px-Stick.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/Woodpick" title="Woodpick"><img alt="Wooden Pickaxe.png" src="/images/thumb/b/b3/Wooden_Pickaxe.png/32px-Wooden_Pickaxe.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/b3/Wooden_Pickaxe.png/48px-Wooden_Pickaxe.png 1.5x, /images/thumb/b/b3/Wooden_Pickaxe.png/64px-Wooden_Pickaxe.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black"></span></div></div>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p>Ambil beliung tersebut, letakkan di bahagian atas inventori anda. Keluar inventori kemudian tatal roda tetikus untuk memilihnya. Anda patut kelihatan seperti sedang memegang beliung.
+</p>
+<h2><span class="mw-headline" id="Penggalian_dan_penciptaan_yang_lebih_serius">Penggalian dan penciptaan yang lebih serius</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:152px;"><a href="/File:Stone.png" class="image"><img alt="" src="/images/d/d4/Stone.png" decoding="async" width="150" height="150" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Stone.png" class="internal" title="Enlarge"></a></div>Batu</div></div></div>
+<p>Sekarang, anda perlu dapatkan <a href="/Stone/ms" title="Stone/ms">batu</a>. Berjalan di sekeliling kawasan sehingga anda nampak blok berwarna kelabu. Blok ini boleh dilihat di cenuram apabila berada di atas tanah. Pergi dekat kepadanya, dan gunakan beliung untuk menggali 12 blok batu seperti mana anda menggali blok kayu pokok sebelum ini. Anda akan jumpa mereka bertukar menjadi bahan yang dipanggil “<a href="/Cobblestone/ms" title="Cobblestone/ms">batu buntar</a>” di dalam inventori. 
+</p><p>Sekarang ini, kemungkinan besar hari menjadi semakin gelap. Anda pelu mencipta <a href="/index.php?title=Torch/ms&amp;action=edit&amp;redlink=1" class="new" title="Torch/ms (page does not exist)">obor</a> untuk kekal <a href="/index.php?title=Light/ms&amp;action=edit&amp;redlink=1" class="new" title="Light/ms (page does not exist)">terang</a>.
+</p><p>Untuk membuat obor, berjalan sekitar kawasan batu sehingga anda nampak batu yang mempunyai tompokan hitam di atasnya. Itulah <a href="/Coal_Ore/ms" title="Coal Ore/ms">bijih batu arang</a>. Gali keseluruhan gugusan batu arang menggunakan beliung anda, ia bukannya lama mana pun.
+</p><p>Kemudian, buat lebih banyak serpihan kayu. Di bahagian bawah grid pertukangan, letakkan serpihan kayu dalam salah satu kotak. Kemudian, letakkan <a href="/index.php?title=Coal_Lump/ms&amp;action=edit&amp;redlink=1" class="new" title="Coal Lump/ms (page does not exist)">gumpalan batu arang</a> (iaitu benda yang anda dapat apabila menggali bijih batu arang sebelum ini) dalam kotak betul-betul di atas kotak serpihan kayu tadi. Anda akan dapat empat obor.
+</p>
+<table class="wikitable collapsible">
+
+<tbody><tr>
+<th scope="row" width="50px">Nama
+</th>
+<th scope="col" width="140px">Bahan-bahan
+</th>
+<th class="unsortable" scope="col">Input &#8594; Output
+</th></tr>
+<tr>
+<th scope="row"><a href="/index.php?title=Torch/ms&amp;action=edit&amp;redlink=1" class="new" title="Torch/ms (page does not exist)">Obor</a>
+</th>
+<td align="center"><a href="/index.php?title=Stick/ms&amp;action=edit&amp;redlink=1" class="new" title="Stick/ms (page does not exist)">Serpihan Kayu</a> <br /> + <a href="/index.php?title=Coal_Lump/ms&amp;action=edit&amp;redlink=1" class="new" title="Coal Lump/ms (page does not exist)">Gumpalan Batu Arang</a>
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Coal" title="Coal"><img alt="Coal.png" src="/images/thumb/a/a7/Coal.png/32px-Coal.png" decoding="async" width="32" height="32" srcset="/images/thumb/a/a7/Coal.png/48px-Coal.png 1.5x, /images/thumb/a/a7/Coal.png/64px-Coal.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Stick" title="Stick"><img alt="Stick.png" src="/images/thumb/a/aa/Stick.png/32px-Stick.png" decoding="async" width="32" height="32" srcset="/images/thumb/a/aa/Stick.png/48px-Stick.png 1.5x, /images/thumb/a/aa/Stick.png/64px-Stick.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/Torch" title="Torch"><img alt="Torch.png" src="/images/thumb/b/b2/Torch.png/32px-Torch.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/b2/Torch.png/48px-Torch.png 1.5x, /images/thumb/b/b2/Torch.png/64px-Torch.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black">4</span></div></div>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p>Letakkan benda ini seperti blok biasa dan mereka akan mengeluarkan cahaya. Obor ini tidak akan padam, jadi anda boleh biarkan mereka terus menyala sepanjang hari.
+</p>
+<h2><span class="mw-headline" id="Membina_sebuah_rumah">Membina sebuah rumah</span></h2>
+<p>Sekarang ini, masa untuk membina rumah. Gunakan panduan tadi sebagai asas anda. <br />
+Binalah seperti mana yang anda suka, pada waktu ini gunakan papan kayu (tebang lebih banyak pokok untuk menciptanya) buat sementara waktu. <br />
+Gunakan obor untuk menerangi rumah anda.
+</p><p>Lihat juga <a href="/index.php?title=Building_a_home/ms&amp;action=edit&amp;redlink=1" class="new" title="Building a home/ms (page does not exist)">Membina sebuah rumah</a>.
+</p><p>Seterusnya anda perlu mencipta <a href="/index.php?title=Furnace/ms&amp;action=edit&amp;redlink=1" class="new" title="Furnace/ms (page does not exist)">relau</a>. <br />
+Untuk menciptanya, isikan seluruh grid pertukangan dengan batu buntar kecuali kotak yang berada di tengah:
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th scope="row" width="50px">Nama
+</th>
+<th scope="col" width="140px">Bahan-bahan
+</th>
+<th class="unsortable" scope="col">Input &#8594; Output
+</th></tr>
+<tr>
+<th scope="row"><a href="/index.php?title=Furnace/ms&amp;action=edit&amp;redlink=1" class="new" title="Furnace/ms (page does not exist)">Relau</a>
+</th>
+<td align="center"><a href="/Cobblestone/ms" title="Cobblestone/ms">Batu Buntar</a>
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Cobblestone" title="Cobblestone"><img alt="Cobblestone.png" src="/images/thumb/6/67/Cobblestone.png/32px-Cobblestone.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/67/Cobblestone.png/48px-Cobblestone.png 1.5x, /images/thumb/6/67/Cobblestone.png/64px-Cobblestone.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Cobblestone" title="Cobblestone"><img alt="Cobblestone.png" src="/images/thumb/6/67/Cobblestone.png/32px-Cobblestone.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/67/Cobblestone.png/48px-Cobblestone.png 1.5x, /images/thumb/6/67/Cobblestone.png/64px-Cobblestone.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Cobblestone" title="Cobblestone"><img alt="Cobblestone.png" src="/images/thumb/6/67/Cobblestone.png/32px-Cobblestone.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/67/Cobblestone.png/48px-Cobblestone.png 1.5x, /images/thumb/6/67/Cobblestone.png/64px-Cobblestone.png 2x" /></a></div></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Cobblestone" title="Cobblestone"><img alt="Cobblestone.png" src="/images/thumb/6/67/Cobblestone.png/32px-Cobblestone.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/67/Cobblestone.png/48px-Cobblestone.png 1.5x, /images/thumb/6/67/Cobblestone.png/64px-Cobblestone.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Cobblestone" title="Cobblestone"><img alt="Cobblestone.png" src="/images/thumb/6/67/Cobblestone.png/32px-Cobblestone.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/67/Cobblestone.png/48px-Cobblestone.png 1.5x, /images/thumb/6/67/Cobblestone.png/64px-Cobblestone.png 2x" /></a></div></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Cobblestone" title="Cobblestone"><img alt="Cobblestone.png" src="/images/thumb/6/67/Cobblestone.png/32px-Cobblestone.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/67/Cobblestone.png/48px-Cobblestone.png 1.5x, /images/thumb/6/67/Cobblestone.png/64px-Cobblestone.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Cobblestone" title="Cobblestone"><img alt="Cobblestone.png" src="/images/thumb/6/67/Cobblestone.png/32px-Cobblestone.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/67/Cobblestone.png/48px-Cobblestone.png 1.5x, /images/thumb/6/67/Cobblestone.png/64px-Cobblestone.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Cobblestone" title="Cobblestone"><img alt="Cobblestone.png" src="/images/thumb/6/67/Cobblestone.png/32px-Cobblestone.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/67/Cobblestone.png/48px-Cobblestone.png 1.5x, /images/thumb/6/67/Cobblestone.png/64px-Cobblestone.png 2x" /></a></div></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/Furnace" title="Furnace"><img alt="Furnace.png" src="/images/thumb/0/0f/Furnace.png/32px-Furnace.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/0f/Furnace.png/48px-Furnace.png 1.5x, /images/thumb/0/0f/Furnace.png/64px-Furnace.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black"></span></div></div>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p>Ambil relau daripada <a href="/Crafting/ms#Grid_pertukangan_dan_slot_output" title="Crafting/ms">slot output</a>. 
+Letakkan relau di mana-mana dalam rumah anda. <br />
+Anda akan perlu gunakan relau tersebut untuk <a href="/Smelting/ms" class="mw-redirect" title="Smelting/ms">meleburkan</a> bijih, setelah anda melombong bijih kelak. 
+Namun jangan risaukan perkara tersebut buat masa ini.
+Kerana anda baru sahaja menyiapkan rumah pertama anda yang hebat, saya harap anda sukakan rumah baru anda!&#160;:-)
+</p>
+<h2><span class="mw-headline" id="Baca_lagi">Baca lagi</span></h2>
+<ul><li><a href="/index.php?title=Getting_Started/ms&amp;action=edit&amp;redlink=1" class="new" title="Getting Started/ms (page does not exist)">Cara Main</a>.</li>
+<li><a href="/Blocks/ms" class="mw-redirect" title="Blocks/ms">Blok</a></li>
+<li><a href="/Items/ms" class="mw-redirect" title="Items/ms">Item</a></li></ul>
+<p>Anda mungkin perasan yang beberapa resipi pertukangan yang anda baru gunakan ada variasi berbeza. Cth. beliung kayu juga boleh dicipta menggunakan papan kayu akasia menggantikan papan kayu biasa. Baca halaman <a href="/Crafting/ms" title="Crafting/ms">Pertukangan</a> dan halaman item yang berkaitan untuk mengetahui lebih lanjut mengenai perkara ini.
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20230709180819
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.599 seconds
+Real time usage: 1.204 seconds
+Preprocessor visited node count: 740/1000000
+Post‐expand include size: 35960/2097152 bytes
+Template argument size: 922/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 13/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.510/7 seconds
+Lua virtual size: 6.46 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  863.871      1 -total
+ 64.69%  558.839      6 Template:Grid/Craft
+ 59.42%  513.355     60 Template:Grid
+ 35.01%  302.451      1 Template:Languages
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:3725-0!canonical and timestamp 20230709180817 and revision id 27640
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=How_to_build_your_first_house/ms&amp;oldid=27640">http://wiki.minetest.net/index.php?title=How_to_build_your_first_house/ms&amp;oldid=27640</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li><li><a href="/Category:Tutorials" title="Category:Tutorials">Tutorials</a></li><li><a href="/Category:Malay" title="Category:Malay">Malay</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=How+to+build+your+first+house%2Fms" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/How_to_build_your_first_house/ms" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:How_to_build_your_first_house/ms&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/How_to_build_your_first_house/ms">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=How_to_build_your_first_house/ms&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=How_to_build_your_first_house/ms&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/How_to_build_your_first_house/ms" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/How_to_build_your_first_house/ms" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=How_to_build_your_first_house/ms&amp;oldid=27640" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=How_to_build_your_first_house/ms&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 29 January 2023, at 14:16.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.599","walltime":"1.204","ppvisitednodes":{"value":740,"limit":1000000},"postexpandincludesize":{"value":35960,"limit":2097152},"templateargumentsize":{"value":922,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":13,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  863.871      1 -total"," 64.69%  558.839      6 Template:Grid/Craft"," 59.42%  513.355     60 Template:Grid"," 35.01%  302.451      1 Template:Languages"]},"scribunto":{"limitreport-timeusage":{"value":"0.510","limit":"7"},"limitreport-virtmemusage":{"value":6770688,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709180819","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":1610});});</script></body></html>

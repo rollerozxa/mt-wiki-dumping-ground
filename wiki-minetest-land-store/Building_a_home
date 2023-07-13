@@ -1,0 +1,2229 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Building a home - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"cad689ee292b2ac0f363d206","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Building_a_home","wgTitle":"Building a home","wgCurRevisionId":27617,"wgRevisionId":27617,"wgArticleId":2891,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages","Tutorials"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Building_a_home","wgRelevantArticleId":2891,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":
+"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Building_a_home rootpage-Building_a_home skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Building a home</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> Language:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><b><a class="mw-selflink selflink">English</a></b>&#160;• <bdi lang="de"><a href="/Building_a_home/de" title="Building a home/de">Deutsch</a></bdi>&#160;• <bdi lang="fr"><a href="/Building_a_home/fr" title="Building a home/fr">français</a></bdi></td>
+</tr></tbody></table>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Intro"><span class="tocnumber">1</span> <span class="toctext">Intro</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Resources"><span class="tocnumber">2</span> <span class="toctext">Resources</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Collecting_stuff"><span class="tocnumber">2.1</span> <span class="toctext">Collecting stuff</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Surviving_the_night_without_building_a_home"><span class="tocnumber">3</span> <span class="toctext">Surviving the night without building a home</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Timeskip_.2F_Fast-Forward"><span class="tocnumber">3.1</span> <span class="toctext">Timeskip / Fast-Forward</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Beach_.2F_Desert_.2F_Snow"><span class="tocnumber">3.2</span> <span class="toctext">Beach / Desert / Snow</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Water_.2F_Air"><span class="tocnumber">3.3</span> <span class="toctext">Water / Air</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Podest_.2F_Column"><span class="tocnumber">3.4</span> <span class="toctext">Podest / Column</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Building_a_home"><span class="tocnumber">4</span> <span class="toctext">Building a home</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Cave-home_.2F_Bunker"><span class="tocnumber">4.1</span> <span class="toctext">Cave-home / Bunker</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Dirt-Box"><span class="tocnumber">4.2</span> <span class="toctext">Dirt-Box</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Hut"><span class="tocnumber">4.3</span> <span class="toctext">Hut</span></a>
+<ul>
+<li class="toclevel-3 tocsection-13"><a href="#Preparations"><span class="tocnumber">4.3.1</span> <span class="toctext">Preparations</span></a></li>
+<li class="toclevel-3 tocsection-14"><a href="#Work"><span class="tocnumber">4.3.2</span> <span class="toctext">Work</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-15"><a href="#5x4-Hut"><span class="tocnumber">4.4</span> <span class="toctext">5x4-Hut</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Cavehome_2"><span class="tocnumber">4.5</span> <span class="toctext">Cavehome 2</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Nicer_Houses"><span class="tocnumber">4.6</span> <span class="toctext">Nicer Houses</span></a>
+<ul>
+<li class="toclevel-3 tocsection-18"><a href="#Simple_House_5x5"><span class="tocnumber">4.6.1</span> <span class="toctext">Simple House 5x5</span></a></li>
+<li class="toclevel-3 tocsection-19"><a href="#Small_Igloo_5x7"><span class="tocnumber">4.6.2</span> <span class="toctext">Small Igloo 5x7</span></a></li>
+<li class="toclevel-3 tocsection-20"><a href="#Bigger_Igloo_9x7"><span class="tocnumber">4.6.3</span> <span class="toctext">Bigger Igloo 9x7</span></a></li>
+<li class="toclevel-3 tocsection-21"><a href="#Small_House_7x7"><span class="tocnumber">4.6.4</span> <span class="toctext">Small House 7x7</span></a></li>
+<li class="toclevel-3 tocsection-22"><a href="#Starter_House_7x7"><span class="tocnumber">4.6.5</span> <span class="toctext">Starter House 7x7</span></a></li>
+<li class="toclevel-3 tocsection-23"><a href="#Small_House_7x5x4"><span class="tocnumber">4.6.6</span> <span class="toctext">Small House 7x5x4</span></a></li>
+<li class="toclevel-3 tocsection-24"><a href="#Realistic_House_8x10"><span class="tocnumber">4.6.7</span> <span class="toctext">Realistic House 8x10</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-25"><a href="#Tower"><span class="tocnumber">4.7</span> <span class="toctext">Tower</span></a>
+<ul>
+<li class="toclevel-3 tocsection-26"><a href="#Slim_Tower_3x3"><span class="tocnumber">4.7.1</span> <span class="toctext">Slim Tower 3x3</span></a></li>
+<li class="toclevel-3 tocsection-27"><a href="#Small_Tower_5x5"><span class="tocnumber">4.7.2</span> <span class="toctext">Small Tower 5x5</span></a></li>
+<li class="toclevel-3 tocsection-28"><a href="#Bigger_Tower_9x9"><span class="tocnumber">4.7.3</span> <span class="toctext">Bigger Tower 9x9</span></a>
+<ul>
+<li class="toclevel-4 tocsection-29"><a href="#Variant_1"><span class="tocnumber">4.7.3.1</span> <span class="toctext">Variant 1</span></a></li>
+<li class="toclevel-4 tocsection-30"><a href="#Variant_2"><span class="tocnumber">4.7.3.2</span> <span class="toctext">Variant 2</span></a></li>
+</ul>
+</li>
+<li class="toclevel-3 tocsection-31"><a href="#Round_Tower_9x9"><span class="tocnumber">4.7.4</span> <span class="toctext">Round Tower 9x9</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-32"><a href="#Castle"><span class="tocnumber">4.8</span> <span class="toctext">Castle</span></a>
+<ul>
+<li class="toclevel-3 tocsection-33"><a href="#Real-live_castles"><span class="tocnumber">4.8.1</span> <span class="toctext">Real-live castles</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Intro">Intro</span></h2>
+<p>You may have noticed, there is a page on the wiki <a href="/Help:How_to_build_your_first_house" class="mw-redirect" title="Help:How to build your first house">How to build your first house</a>,<br />
+but it doesn't actually show how to do it.
+</p><p>I was going to fix that page, but as it turns out, 
+there is a lot to think about before putting down the first stone...
+</p><p>First we should consider
+</p>
+<ul><li>What is our situation (as in, creative-mode, or first day in a survival game)&#160;?</li></ul>
+<dl><dd>Also:</dd></dl>
+<ul><li><ul><li>What landscape is around us (as in, forest, mountains, or desert)&#160;?</li>
+<li>What server, what game, what mobs, is pvp enabled&#160;?</li>
+<li>What happens when you die, ie. to the character and its inventory&#160;?</li></ul></li></ul>
+<dl><dd><dl><dd><dl><dd>eg. inventory is lost (hard) / stored in bones / stays intact (easy)</dd></dl></dd></dl></dd></dl>
+<ul><li>What do we need (as in, urgently need now)&#160;?</li>
+<li>What do we have (as in, tools, materials, food)&#160;?</li></ul>
+<dl><dd><dl><dd>Note: some servers provide new players with generous initial stuff,</dd>
+<dd>or have a spawn-area with shops etc.</dd>
+<dd>This will make it much easier.</dd></dl></dd></dl>
+<ul><li>What can we do (as in, right here, right now, until sundown)&#160;?</li></ul>
+<p>In creative-mode, we can just skip to <a href="/index.php?title=House-Building&amp;action=edit&amp;redlink=1" class="new" title="House-Building (page does not exist)">House-Building</a>, and build something nice.<br />
+Same if you already have enough tools, building materials etc.
+</p><p>Otherwise, we might just need a home / shelter for the night,
+and maybe the next few days.
+</p>
+<dl><dd>With standard-settings, a 'day' in Minetest lasts 20 minutes.</dd></dl>
+<h2><span class="mw-headline" id="Resources">Resources</span></h2>
+<ul><li><a href="/Tool" title="Tool">Tools</a></li></ul>
+<dl><dd><a href="/Axe" title="Axe">Axe</a> - to cut down trees and other organic stuff (such as cactus)</dd>
+<dd><a href="/Pickaxe" title="Pickaxe">Pickaxe</a> - for mining stone</dd>
+<dd><a href="/Shovel" title="Shovel">Shovel</a>  - for mining sand, gravel etc.</dd>
+<dd><a href="/Torch" title="Torch">Torch</a>   - light, for working at night and underground</dd>
+<dd>Other: screwdriver, flint, ...</dd></dl>
+<ul><li>Building materials</li></ul>
+<dl><dd><a href="/Dirt" title="Dirt">Dirt</a> - the most basic building material</dd>
+<dd><a href="/Leaves" title="Leaves">Leaves</a> - 'cheaper than dirt' (when trees are around), can be used as fences, scaffolding, etc.</dd>
+<dd><a href="/Wood" title="Wood">Wood</a> - basic - almost everything has some component that is made of wood</dd>
+<dd><a href="/Stone" title="Stone">Stone</a> - comes in several variants (cobblestone, sandstone, etc.)</dd>
+<dd>Other
+<dl><dd><a href="/Coal" class="mw-redirect" title="Coal">Coal</a> - for making torches, and as fuel for the furnace</dd>
+<dd><a href="/Iron_Ore" title="Iron Ore">Iron Ore</a> - for making steel tools</dd>
+<dd><a href="/Wool" title="Wool">Wool</a> - for making a bed</dd>
+<dd><a href="/Dye" title="Dye">Dye</a> - for making a bed</dd></dl></dd></dl>
+<dl><dd>Extras / non-essentials
+<dl><dd><a href="/Sand" title="Sand">Sand</a> - for making glass for windows</dd>
+<dd><a href="/Clay" title="Clay">Clay</a> - for making bricks</dd>
+<dd>Other ores - eg, copper, mese, diamond ...</dd></dl></dd></dl>
+<p>...
+</p>
+<dl><dd>Furniture
+<dl><dd><a href="/Torch" title="Torch">Torch</a> - light</dd>
+<dd><a href="/Door" title="Door">Door</a> - to keep critters out</dd>
+<dd><a href="/Chest" title="Chest">Chest</a> - to store stuff</dd>
+<dd><a href="/Furnace" title="Furnace">Furnace</a> - for smelting ore, and other recipes</dd>
+<dd><a href="/Bed" title="Bed">Bed</a> - for setting the spawn-position</dd>
+<dd>Other (depending on installed mods): Workbench, tables, chairs, bookshelves ...</dd></dl></dd></dl>
+<ul><li>Building ground - Location, Location, Location: some things to consider:</li></ul>
+<dl><dd>is the terrain suitable for a house? (i.e. big enough, flat)</dd>
+<dd>are the immediate surroundings clear (i.e. no place to hide for hostile mobs)</dd>
+<dd>how far is the distance to the 'workplace' (i.e. for mining/harvesting etc.)</dd></dl>
+<ul><li>Time, Food</li></ul>
+<dl><dd>stuff you need while working</dd></dl>
+<h3><span class="mw-headline" id="Collecting_stuff">Collecting stuff</span></h3>
+<p>Finding stuff also needs time, and travelling / exploring.
+</p><p>After playing a few games, it is still amazing to find
+situations were some basic stuff is not available.
+</p><p>E.g. a <a href="/Biomes#Desert" title="Biomes">desert</a> with no <a href="/Dirt" title="Dirt">dirt</a> and no <a href="/Tree" class="mw-redirect" title="Tree">trees</a>.
+</p>
+<dl><dd>Blocks of <a href="/Sand" title="Sand">sand</a> fall down,</dd>
+<dd>so you cannot make a roof out of sand.</dd></dl>
+<p>Also, finding coal (for torches) near the surface is often a problem.
+</p>
+<dl><dd>Note: some mods have a recipe for making coal from wood</dd>
+<dd>(eg.  tree =&gt; wood charcoal, then 2 wood charcoal -&gt; 1 coal-lump),</dd>
+<dd>so you should check what your game provides.</dd></dl>
+<p>...
+</p>
+<h2><span class="mw-headline" id="Surviving_the_night_without_building_a_home">Surviving the night without building a home</span></h2>
+<p>Without mobs, building a house is not really urgent.<br />
+So the following is written with an eye to dangerous mobs, and nighttime.
+</p><p>We will consider the available options in order of required resources,
+starting with no/low requirements.
+</p>
+<h3><span id="Timeskip_/_Fast-Forward"></span><span class="mw-headline" id="Timeskip_.2F_Fast-Forward">Timeskip / Fast-Forward</span></h3>
+<p>The really cheap&amp;lazy option: logoff, wait a few minutes, login again.
+</p>
+<dl><dd>If a complete day lasts 20 minutes, the night should last about 8 minutes</dd></dl>
+<p>Hopefully, your timing is right and the night is just over when you return.
+</p>
+<dl><dd>With permissions, you could also give a command like "/time 6:00"</dd></dl>
+<h3><span id="Beach_/_Desert_/_Snow"></span><span class="mw-headline" id="Beach_.2F_Desert_.2F_Snow">Beach / Desert / Snow</span></h3>
+<p>Stay in the open, on light-colored ground, 
+like sand, ice or snow.
+</p>
+<dl><dd>These terrains provides better visibility in the dark.</dd></dl>
+<p>This is risky, but you might even get some work done, e.g. collecting sand.
+</p>
+<dl><dd>If the game has mobs, beware of sandmonsters in the desert.</dd></dl>
+<h3><span id="Water_/_Air"></span><span class="mw-headline" id="Water_.2F_Air">Water / Air</span></h3>
+<ul><li>If there is an area of water, you can go swimming.</li></ul>
+<dl><dd>Some monsters are hurt by water, eg. dirtmonsters and sandmonsters.</dd></dl>
+<ul><li>With permissions, you could also fly around during the night.</li></ul>
+<dl><dd>So you would stay out of reach of all nonflying mobs (i.e. all except ghosts)</dd></dl>
+<h3><span id="Podest_/_Column"></span><span class="mw-headline" id="Podest_.2F_Column">Podest / Column</span></h3>
+<p>This is not a 'home' or shelter, just a quick installation for spending the night <br />in an emergency when hostile mobs are around.<br />
+Build a stack of 3-4 blocks of dirt, sand or leaves, and stand on that.<br />
+</p>
+<dl><dd>So most common mobs like zombies cannot reach you.</dd>
+<dd>This doesn't work against flying mobs, e.g. ghosts.</dd>
+<dd>Also, beware of <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=14030">smart mobs</a>&#160;!</dd></dl>
+<p>Climbing a tree would serve the same purpose,
+but there might be places with no trees around.
+</p>
+<dl><dd>Also, treemonsters spawn near trees</dd></dl>
+<p>Digging dirt and sand can be done with no tools.<br />
+You can build directly beneath you by jumping up (space-key),
+while looking down <br />
+and building dirt or leaves (selected on the hotbar) 
+by rightclicking at the right moment, <br />
+just when you reach the high point of the jump.
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Resources needed</th>
+<th>Type</th>
+<th>Amount
+</th></tr>
+<tr>
+<td>Tools</td>
+<td>-none-</td>
+<td>-none-
+</td></tr>
+<tr>
+<td>Building blocks</td>
+<td>Sand or Dirt</td>
+<td>2-3
+</td></tr>
+<tr>
+<td>Work</td>
+<td>Digs</td>
+<td>2-3
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Building_a_home">Building a home</span></h2>
+<h3><span id="Cave-home_/_Bunker"></span><span class="mw-headline" id="Cave-home_.2F_Bunker">Cave-home / Bunker</span></h3>
+<p>Digging in.<br />
+Needs a place where the dirt is at least 2-4 blocks deep.
+</p>
+<dl><dd>There are places with solid stone under one block of dirt,</dd>
+<dd>and digging stone needs a pickaxe.</dd></dl>
+<p>If there is a hill or cliff, you don't need stairs down,<br />
+just dig straight into the hillside (viewed from the side):
+</p>
+<table>
+
+<tbody><tr>
+<td>D</td>
+<td>D</td>
+<td>D</td>
+<td>D</td>
+<td>
+</td></tr>
+<tr>
+<td>D</td>
+<td>i</td>
+<td>_</td>
+<td>_</td>
+<td>
+</td></tr>
+<tr>
+<td>D</td>
+<td>i</td>
+<td>_</td>
+<td>x</td>
+<td>
+</td></tr>
+<tr>
+<td>S</td>
+<td>S</td>
+<td>S</td>
+<td>S</td>
+<td>
+</td></tr></tbody></table>
+<p>With i=Player, S=Stone or dirt, _=Nothing, D=Dirt, x=Dirt placed as half a 'door'.
+</p>
+<table>
+
+<tbody><tr>
+<td><div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/File:CaveHome-0.png" class="image"><img alt="" src="/images/thumb/8/81/CaveHome-0.png/300px-CaveHome-0.png" decoding="async" width="300" height="225" class="thumbimage" srcset="/images/thumb/8/81/CaveHome-0.png/450px-CaveHome-0.png 1.5x, /images/thumb/8/81/CaveHome-0.png/600px-CaveHome-0.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:CaveHome-0.png" class="internal" title="Enlarge"></a></div>Construction site: hillside</div></div></div></td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/File:CaveHome-1.png" class="image"><img alt="" src="/images/thumb/2/26/CaveHome-1.png/300px-CaveHome-1.png" decoding="async" width="300" height="225" class="thumbimage" srcset="/images/thumb/2/26/CaveHome-1.png/450px-CaveHome-1.png 1.5x, /images/thumb/2/26/CaveHome-1.png/600px-CaveHome-1.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:CaveHome-1.png" class="internal" title="Enlarge"></a></div>Cavehome-entrance after first dig</div></div></div></td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/File:CaveHome-2.png" class="image"><img alt="" src="/images/thumb/f/ff/CaveHome-2.png/300px-CaveHome-2.png" decoding="async" width="300" height="225" class="thumbimage" srcset="/images/thumb/f/ff/CaveHome-2.png/450px-CaveHome-2.png 1.5x, /images/thumb/f/ff/CaveHome-2.png/600px-CaveHome-2.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:CaveHome-2.png" class="internal" title="Enlarge"></a></div>Small cavehome ready</div></div></div>
+</td></tr></tbody></table>
+<p>Note: at this site there was stone under the first layer of dirt.<br />
+So, a pickaxe was needed for digging.
+</p>
+<dl><dd>In the first picture, you can find a block of coal-ore,</dd>
+<dd>that came in handy for making torches.</dd></dl>
+<p><br />
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Resources</th>
+<th>Type</th>
+<th>Amount needed
+</th></tr>
+<tr>
+<td>Tools</td>
+<td>-none-</td>
+<td>-none-
+</td></tr>
+<tr>
+<td>Building blocks</td>
+<td>Dirt or sand</td>
+<td>1 ("half-door")
+</td></tr>
+<tr>
+<td>Work</td>
+<td>Digs</td>
+<td>6
+</td></tr></tbody></table>
+<p>Instead of a door, a single block of dirt is placed.
+</p>
+<dl><dd>You could wall yourself in completely, but then you wouldn't see when the night is over.</dd></dl>
+<p>See also <a rel="nofollow" class="external text" href="http://wiki.minetest.net/Building_a_home#Cavehome_2">Cavehome2</a> below, 
+how this might look when expanded to complete base/lair.
+</p><p><br />
+With flat terrain, and no hill or cliff, we also need some stairs to get down,<br />
+e.g. underground shelter viewed from the side:
+</p>
+<table>
+
+<tbody><tr>
+<td>D</td>
+<td>D</td>
+<td>D</td>
+<td>_</td>
+<td>_</td>
+<td>_
+</td></tr>
+<tr>
+<td>D</td>
+<td>i</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>D
+</td></tr>
+<tr>
+<td>D</td>
+<td>i</td>
+<td>_</td>
+<td>x</td>
+<td>D</td>
+<td>D
+</td></tr>
+<tr>
+<td>S</td>
+<td>S</td>
+<td>S</td>
+<td>S</td>
+<td>S</td>
+<td>S
+</td></tr></tbody></table>
+<p>The player has a height of 2 blocks, 
+and needs one more free space above to climb stairs.
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Resources</th>
+<th>Type</th>
+<th>Amount needed
+</th></tr>
+<tr>
+<td>Tools</td>
+<td>-none-</td>
+<td>-none-
+</td></tr>
+<tr>
+<td>Building blocks</td>
+<td>Dirt or Sand</td>
+<td>1 ("half-door")
+</td></tr>
+<tr>
+<td>Work</td>
+<td>Digs</td>
+<td>3+4+3 = 10
+</td></tr></tbody></table>
+<dl><dd>This is 10 digs, for the stairs down, and the place to stand.</dd></dl>
+<p>You might want to extend that place, but you might also want a torch for light.
+</p>
+<dl><dd>Making a torch needs a stick (made from wood), and a lump of coal.</dd>
+<dd>Coal comes from stone-with-coal-ore (it might need time to search and find such ore),</dd>
+<dd>and digging stone requires a pickaxe (needs at least wood).
+<dl><dd>So, don't count on having a torch ready on your first night.</dd></dl></dd></dl>
+<h3><span class="mw-headline" id="Dirt-Box">Dirt-Box</span></h3>
+<p>This is the first building that looks like a house/hut/garden-shed.
+</p><p>It can be built on places with solid stone under one block of dirt,
+when you don't have tools yet.
+</p>
+<table>
+
+<tbody><tr>
+<td><div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/File:DirtHut1x3-0.png" class="image"><img alt="" src="/images/thumb/8/8b/DirtHut1x3-0.png/300px-DirtHut1x3-0.png" decoding="async" width="300" height="225" class="thumbimage" srcset="/images/thumb/8/8b/DirtHut1x3-0.png/450px-DirtHut1x3-0.png 1.5x, /images/thumb/8/8b/DirtHut1x3-0.png/600px-DirtHut1x3-0.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:DirtHut1x3-0.png" class="internal" title="Enlarge"></a></div>Construction site: stone covered with 1 layer of dirt</div></div></div></td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/File:DirtHut1x3-3.png" class="image"><img alt="" src="/images/thumb/d/d2/DirtHut1x3-3.png/300px-DirtHut1x3-3.png" decoding="async" width="300" height="225" class="thumbimage" srcset="/images/thumb/d/d2/DirtHut1x3-3.png/450px-DirtHut1x3-3.png 1.5x, /images/thumb/d/d2/DirtHut1x3-3.png/600px-DirtHut1x3-3.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:DirtHut1x3-3.png" class="internal" title="Enlarge"></a></div>Wall and corner is built</div></div></div></td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/File:DirtHut1x3-9.png" class="image"><img alt="" src="/images/thumb/b/b7/DirtHut1x3-9.png/300px-DirtHut1x3-9.png" decoding="async" width="300" height="225" class="thumbimage" srcset="/images/thumb/b/b7/DirtHut1x3-9.png/450px-DirtHut1x3-9.png 1.5x, /images/thumb/b/b7/DirtHut1x3-9.png/600px-DirtHut1x3-9.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:DirtHut1x3-9.png" class="internal" title="Enlarge"></a></div>Dirthut completed</div></div></div>
+</td></tr></tbody></table>
+<p>The design is pretty much like the small cave dug into a hillside from the above section,
+but now with a roof.
+</p>
+<dl><dd>The walls can be made of sand, but the roof needs dirt, because sand falls down.</dd></dl>
+<table>
+
+<tbody><tr>
+<td><div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/File:SandHut1x3-0.png" class="image"><img alt="" src="/images/thumb/9/9f/SandHut1x3-0.png/300px-SandHut1x3-0.png" decoding="async" width="300" height="225" class="thumbimage" srcset="/images/thumb/9/9f/SandHut1x3-0.png/450px-SandHut1x3-0.png 1.5x, /images/thumb/9/9f/SandHut1x3-0.png/600px-SandHut1x3-0.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:SandHut1x3-0.png" class="internal" title="Enlarge"></a></div>Construction site: sand</div></div></div></td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/File:Sandhut1x3-9.png" class="image"><img alt="" src="/images/thumb/7/72/Sandhut1x3-9.png/300px-Sandhut1x3-9.png" decoding="async" width="300" height="225" class="thumbimage" srcset="/images/thumb/7/72/Sandhut1x3-9.png/450px-Sandhut1x3-9.png 1.5x, /images/thumb/7/72/Sandhut1x3-9.png/600px-Sandhut1x3-9.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Sandhut1x3-9.png" class="internal" title="Enlarge"></a></div>Sandhut with dirt-roof, completed</div></div></div>
+</td></tr></tbody></table>
+<p>We collect dirt that covered the stone, 
+and use that for walls and roof.
+</p><p>Viewed from the side:
+</p>
+<table>
+
+<tbody><tr>
+<td>_</td>
+<td>W</td>
+<td>D</td>
+<td>D</td>
+<td>D</td>
+<td>
+</td></tr>
+<tr>
+<td>_</td>
+<td>W</td>
+<td>i</td>
+<td>_</td>
+<td>_</td>
+<td>
+</td></tr>
+<tr>
+<td>D</td>
+<td>W</td>
+<td>i</td>
+<td>_</td>
+<td>x</td>
+<td>_</td>
+<td>D
+</td></tr>
+<tr>
+<td>S</td>
+<td>S</td>
+<td>S</td>
+<td>S</td>
+<td>S</td>
+<td>S</td>
+<td>S
+</td></tr></tbody></table>
+<p>With i=Player, _=Nothing, S=Stone, D=Dirt, W=Wall (dirt or sand), x=Dirt placed as half a 'door'.
+</p><p>This minimal shelter would result in 1 space to stand on, 1 free space, 
+and 1 space for the 'door'.
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Resource</th>
+<th>Type</th>
+<th>Amount needed
+</th></tr>
+<tr>
+<td>Tools</td>
+<td>-none-</td>
+<td>-none-
+</td></tr>
+<tr>
+<td>Building blocks</td>
+<td>Sand or Dirt</td>
+<td>2+6+6+1 = 15
+</td></tr>
+<tr>
+<td>"</td>
+<td>Dirt</td>
+<td>3
+</td></tr>
+<tr>
+<td>Work</td>
+<td>Digs</td>
+<td>18
+</td></tr></tbody></table>
+<p>Making a real door requires 6 wooden planks (needs 2 blocks of tree).
+</p><p>...
+</p>
+<h3><span class="mw-headline" id="Hut">Hut</span></h3>
+<h4><span class="mw-headline" id="Preparations">Preparations</span></h4>
+<p>The next step up is building with <a href="/Wood" title="Wood">wood</a>.
+</p>
+<dl><dd>In the standard game, the player can cut trees by <a href="/Hand" title="Hand">hand</a>, without other <a href="/Tool" title="Tool">tools</a>,</dd>
+<dd>but there are some mods that make it more diffcult.</dd></dl>
+<p>Cutting wood goes faster with an <a href="/Axe" title="Axe">axe</a>.
+</p><p>We also want <a href="/Torch" title="Torch">torches</a> for light.
+</p>
+<dl><dd>Making a torch needs a <a href="/Stick" title="Stick">stick</a> (made from wood), and a lump of <a href="/Coal" class="mw-redirect" title="Coal">coal</a>.
+<dl><dd>Note: some games/mods allow sticks to be crafted from leaves, dry scrubs or saplings.</dd></dl></dd>
+<dd>Coal comes from stone-with-coal-ore, and digging stones requires a <a href="/Pickaxe" title="Pickaxe">pickaxe</a>.</dd>
+<dd>Some mods allow to make charcoal from wood, with a furnace.</dd></dl>
+<p>The most simple tools just need wood.
+</p><p>So, first we need some trees to chop down, and/or loose wood.
+</p>
+<dl><dd>Note that sometimes blocks of wood lie scattered on the ground.</dd></dl>
+<p>If you are in a desert or similar, you might need to travel until you find some trees.
+</p>
+<dl><dd>There might be bushes in the game - they have a stem inside, that is worth one tree-block.</dd>
+<dd>And the leaves can be used as low-grade fuel.</dd></dl>
+<p>There might be a mod that allows to craft twigs from leaves, sticks from twigs, 
+and planks from sticks.
+</p>
+<dl><dd>So, check the available recipes.</dd></dl>
+<p>...
+</p>
+<h4><span class="mw-headline" id="Work">Work</span></h4>
+<ol><li>Tree --&gt; Planks --&gt; Sticks</li>
+<li>Tree --&gt; Planks --&gt; Axe, Pickaxe</li></ol>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Raw material</th>
+<th>--&gt;</th>
+<th>Product 1</th>
+<th>Product 2
+</th></tr>
+<tr>
+<td>Tree</td>
+<td>--&gt;</td>
+<td>Planks</td>
+<td>Sticks
+</td></tr>
+<tr>
+<td>Tree</td>
+<td>--&gt;</td>
+<td>Planks</td>
+<td>Axe, PickAxe
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="5x4-Hut">5x4-Hut</span></h3>
+<p>This will be a nice, small hut with 3x2 indoor-space,
+that still has room for all the essentials:
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<td>W</td>
+<td>W</td>
+<td>W</td>
+<td>W</td>
+<td>W
+</td></tr>
+<tr>
+<td>W</td>
+<td>a</td>
+<td>_</td>
+<td>c</td>
+<td>W
+</td></tr>
+<tr>
+<td>W</td>
+<td>b</td>
+<td>_</td>
+<td>f</td>
+<td>W
+</td></tr>
+<tr>
+<td>W</td>
+<td>W</td>
+<td>D</td>
+<td>W</td>
+<td>W
+</td></tr></tbody></table>
+<p>W=wall/window  D=door  _=free space<br />
+a,b=bed  c=chest  f=furnace
+</p><p>The first, simple version of this hut will use a flat roof, 
+and leaves for windows.
+</p>
+<dl><dd>A proper roof requires somewhat advanced building-skills,</dd>
+<dd>so we leave that for later.</dd></dl>
+<p>(Also, the bed will most likely come much later, 
+but we can plan ahead and already reserve the space&#160;:)<br />
+Depending on the installed mods (eg, xdecor), 
+you could place a chair and table / workbench / crafting-table instead of the bed.
+</p><p>...
+</p>
+<h3><span class="mw-headline" id="Cavehome_2">Cavehome 2</span></h3>
+<p>This is the expanded version of the 'small/short' <a rel="nofollow" class="external text" href="http://wiki.minetest.net/Building_a_home#Cave-home_.2F_Bunker">Cave-Home/Bunker</a> above.<br />
+Enlarged to a room of size 3x4, with
+torches, door, furnace, some chests, bed,<br />
+and a ladder that leads down to the start of the mining-area.
+</p><p>The stones that were dug out have been used to make the furnace,<br />
+the stairs and pavement outside the entrance, and for new stonetools.
+</p>
+<table>
+
+<tbody><tr>
+<td><div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/File:CaveHome2-0.png" class="image"><img alt="" src="/images/thumb/7/7f/CaveHome2-0.png/300px-CaveHome2-0.png" decoding="async" width="300" height="225" class="thumbimage" srcset="/images/thumb/7/7f/CaveHome2-0.png/450px-CaveHome2-0.png 1.5x, /images/thumb/7/7f/CaveHome2-0.png/600px-CaveHome2-0.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:CaveHome2-0.png" class="internal" title="Enlarge"></a></div>Entrance with door and stairs.</div></div></div></td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/File:CaveHome2-1.png" class="image"><img alt="" src="/images/thumb/8/89/CaveHome2-1.png/300px-CaveHome2-1.png" decoding="async" width="300" height="225" class="thumbimage" srcset="/images/thumb/8/89/CaveHome2-1.png/450px-CaveHome2-1.png 1.5x, /images/thumb/8/89/CaveHome2-1.png/600px-CaveHome2-1.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:CaveHome2-1.png" class="internal" title="Enlarge"></a></div>Cavehome with basic furniture</div></div></div></td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/File:CaveHome2-2.png" class="image"><img alt="" src="/images/thumb/6/65/CaveHome2-2.png/300px-CaveHome2-2.png" decoding="async" width="300" height="225" class="thumbimage" srcset="/images/thumb/6/65/CaveHome2-2.png/450px-CaveHome2-2.png 1.5x, /images/thumb/6/65/CaveHome2-2.png/600px-CaveHome2-2.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:CaveHome2-2.png" class="internal" title="Enlarge"></a></div>Cavehome 3x4 overview</div></div></div>
+</td></tr></tbody></table>
+<p>Now, that's a proper base of operations&#160;:-)
+</p><p><br />
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Resources</th>
+<th>Type</th>
+<th>Amount</th>
+<th>needs
+</th></tr>
+<tr>
+<td>Tools</td>
+<td><a href="/Pickaxe" title="Pickaxe">Pickaxe</a></td>
+<td>1</td>
+<td>2 sticks + 3 wood
+</td></tr>
+<tr>
+<td>"</td>
+<td><a href="/Axe" title="Axe">Axe</a></td>
+<td>1</td>
+<td>2 sticks + 3 wood
+</td></tr>
+<tr>
+<td>Building blocks</td>
+<td>(stone)</td>
+<td>(3*4*2 = 24)</td>
+<td>(mined out)
+</td></tr>
+<tr>
+<td>Work</td>
+<td>Digs: <a href="/Dirt" title="Dirt">Dirt</a></td>
+<td>3
+</td></tr>
+<tr>
+<td>"</td>
+<td>Digs: <a href="/Stone" title="Stone">Stone</a></td>
+<td>2 + 3*4*2 = 26
+</td></tr>
+<tr>
+<td>Items</td>
+<td><a href="/Torch" title="Torch">Torch</a></td>
+<td>2</td>
+<td>2* 1 stick + 1 coal
+</td></tr>
+<tr>
+<td>"</td>
+<td><a href="/Door" title="Door">Door</a></td>
+<td>1</td>
+<td>6 wood
+</td></tr>
+<tr>
+<td>"</td>
+<td><a href="/Furnace" title="Furnace">Furnace</a></td>
+<td>1</td>
+<td>8 stone
+</td></tr>
+<tr>
+<td>"</td>
+<td><a href="/Chest" title="Chest">Chest</a></td>
+<td>3</td>
+<td>3* 8 wood
+</td></tr>
+<tr>
+<td>"</td>
+<td><a href="/Bed" title="Bed">Bed</a></td>
+<td>1</td>
+<td>3 wood + 3 wool + 2 red dye
+</td></tr>
+<tr>
+<td>Total:</td>
+<td>Wood</td>
+<td>17+24=41</td>
+<td>11 tree-blocks
+</td></tr></tbody></table>
+<p>Not included: <a href="/Stair" title="Stair">stairs</a> outside and the shaft &amp; <a href="/Ladder" class="mw-redirect" title="Ladder">ladder</a> down to the 'workplace' / mining-area.
+</p><p>The biggest, most time-consuming part was getting the wool and dye for making the bed,
+</p>
+<dl><dd>i.e. finding <a href="/Cotton" title="Cotton">cotton</a>-seeds and red <a href="/Flowers" class="mw-redirect" title="Flowers">flowers</a>.</dd></dl>
+<p>In total, this whole building (except for the bed) needs about 3 trees and 1 block of coal-ore.
+</p>
+<h3><span class="mw-headline" id="Nicer_Houses">Nicer Houses</span></h3>
+<p>For working with stone, we need tools.<br />
+Wooden tools are slow, and wear out fast, 
+so you should make stone tools with the first few stones you get.
+</p><p>Here some examples of houses:
+</p>
+<h4><span class="mw-headline" id="Simple_House_5x5">Simple House 5x5</span></h4>
+<p>The 'hunting-hut'.
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<td>W</td>
+<td>W</td>
+<td>D</td>
+<td>W</td>
+<td>W
+</td></tr>
+<tr>
+<td>W</td>
+<td>c</td>
+<td>_</td>
+<td>f</td>
+<td>W
+</td></tr>
+<tr>
+<td>W</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>W
+</td></tr>
+<tr>
+<td>W</td>
+<td>b</td>
+<td>_</td>
+<td>a</td>
+<td>W
+</td></tr>
+<tr>
+<td>W</td>
+<td>W</td>
+<td>W</td>
+<td>W</td>
+<td>W
+</td></tr></tbody></table>
+<p>W=wall/window  D=door  _=free space<br />
+a,b,c=chest  f=furnace
+</p><p>...
+</p>
+<h4><span class="mw-headline" id="Small_Igloo_5x7">Small Igloo 5x7</span></h4>
+<p>This is much like the 5x5 house, without corners,<br />
+and built with snowblocks and ice instead of wood and stone. 
+</p><p>The staight outer wall is 3 blocks,
+and the useable area inside is 9 spaces (plus 2 for the entrance-tunnel).
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<td>_</td>
+<td>W</td>
+<td>W</td>
+<td>W</td>
+<td>_</td>
+<td>
+</td></tr>
+<tr>
+<td>W</td>
+<td>a</td>
+<td>b</td>
+<td>c</td>
+<td>W</td>
+<td>w</td>
+<td>w
+</td></tr>
+<tr>
+<td>W</td>
+<td>f</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>D
+</td></tr>
+<tr>
+<td>W</td>
+<td>c</td>
+<td>b</td>
+<td>a</td>
+<td>W</td>
+<td>w</td>
+<td>w
+</td></tr>
+<tr>
+<td>_</td>
+<td>W</td>
+<td>W</td>
+<td>W</td>
+<td>_
+</td></tr></tbody></table>
+<p>W=Wall/window  D=door  _=free space<br />
+a,b=bed  c=chest  f=furnace
+</p><p>The entrance-area to the door is actually a short tunnel.<br />
+In real life, this area would be lower than the floor, to keep the warm air inside.
+</p>
+<h4><span class="mw-headline" id="Bigger_Igloo_9x7">Bigger Igloo 9x7</span></h4>
+<p>Somewhat bigger (ie. one layer of wall around the above small igloo)<br />
+(in other words, 7x7 with corners cut off, plus entrance-tunnel):
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<td>_</td>
+<td>_</td>
+<td>W</td>
+<td>W</td>
+<td>W</td>
+<td>_</td>
+<td></td>
+<td></td>
+<td>
+</td></tr>
+<tr>
+<td>_</td>
+<td>W</td>
+<td>a</td>
+<td>b</td>
+<td>c</td>
+<td>W</td>
+<td>_</td>
+<td></td>
+<td>
+</td></tr>
+<tr>
+<td>W</td>
+<td>c</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>W</td>
+<td>w</td>
+<td>w
+</td></tr>
+<tr>
+<td>W</td>
+<td>f</td>
+<td>_</td>
+<td>F</td>
+<td>_</td>
+<td>_</td>
+<td>D</td>
+<td>_</td>
+<td>D
+</td></tr>
+<tr>
+<td>W</td>
+<td>c</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>W</td>
+<td>w</td>
+<td>w
+</td></tr>
+<tr>
+<td>_</td>
+<td>W</td>
+<td>c</td>
+<td>b</td>
+<td>a</td>
+<td>W</td>
+<td>_</td>
+<td></td>
+<td>
+</td></tr>
+<tr>
+<td>_</td>
+<td>_</td>
+<td>W</td>
+<td>W</td>
+<td>W</td>
+<td>_</td>
+<td></td>
+<td></td>
+<td>
+</td></tr></tbody></table>
+<p>W=Wall/window,  D=door,   _=free space<br />
+a,b=bed,        c=chest,  f,F=furnace
+</p><p>The straight outer wall is 3 blocks,
+but now we extended the diagonal sides by one block.
+</p><p>The useable area inside is now 21 spaces, 
+and the entrance-tunnel got another door.
+</p><p>If the server runs mods that make snow smelt near torches and furnaces,
+put the furnace in the center.
+</p>
+<h4><span class="mw-headline" id="Small_House_7x7">Small House 7x7</span></h4>
+<p>This is my 'standard' design for a simple small house.<br />
+The inner living space is 5x5,
+and with a path and a fence around the house,<br />
+it will fit within the 11x11 area covered by one protection-block.
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<td>g</td>
+<td>g</td>
+<td>g</td>
+<td>g</td>
+<td>g</td>
+<td>_</td>
+<td>g</td>
+<td>g</td>
+<td>g</td>
+<td>g</td>
+<td>g
+</td></tr>
+<tr>
+<td>g</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>g
+</td></tr>
+<tr>
+<td>g</td>
+<td>_</td>
+<td>W</td>
+<td>W</td>
+<td>W</td>
+<td>D</td>
+<td>W</td>
+<td>W</td>
+<td>W</td>
+<td>_</td>
+<td>g
+</td></tr>
+<tr>
+<td>g</td>
+<td>_</td>
+<td>W</td>
+<td>c</td>
+<td>c</td>
+<td>_</td>
+<td>h</td>
+<td>t</td>
+<td>W</td>
+<td>_</td>
+<td>g
+</td></tr>
+<tr>
+<td>g</td>
+<td>_</td>
+<td>W</td>
+<td>c</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>h</td>
+<td>W</td>
+<td>_</td>
+<td>g
+</td></tr>
+<tr>
+<td>g</td>
+<td>_</td>
+<td>W</td>
+<td>f</td>
+<td>_</td>
+<td>P</td>
+<td>_</td>
+<td>_</td>
+<td>W</td>
+<td>_</td>
+<td>g
+</td></tr>
+<tr>
+<td>g</td>
+<td>_</td>
+<td>W</td>
+<td>c</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>c</td>
+<td>W</td>
+<td>_</td>
+<td>g
+</td></tr>
+<tr>
+<td>g</td>
+<td>_</td>
+<td>W</td>
+<td>c</td>
+<td>c</td>
+<td>_</td>
+<td>a</td>
+<td>b</td>
+<td>W</td>
+<td>_</td>
+<td>g
+</td></tr>
+<tr>
+<td>g</td>
+<td>_</td>
+<td>W</td>
+<td>W</td>
+<td>W</td>
+<td>D</td>
+<td>W</td>
+<td>W</td>
+<td>W</td>
+<td>_</td>
+<td>g
+</td></tr>
+<tr>
+<td>g</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>g
+</td></tr>
+<tr>
+<td>g</td>
+<td>g</td>
+<td>g</td>
+<td>g</td>
+<td>g</td>
+<td>g</td>
+<td>g</td>
+<td>g</td>
+<td>g</td>
+<td>g</td>
+<td>g
+</td></tr></tbody></table>
+<p>W=wall/window  D=door  _=free space<br />P=Protection-block at center<br />
+a,b=bed  c=chest  f=furnace h,t=chair,table  g=fence/leaves
+</p>
+<h4><span class="mw-headline" id="Starter_House_7x7">Starter House 7x7</span></h4>
+<p>As above, but a simplified design to be built by a <a href="/Mods/digtron" title="Mods/digtron">DigTron</a>,<br />
+eg. as welcome-present for starting players, or to quickly set up a village.
+</p><p>The inner living space is 5x5,
+and it can be built complete with interior,<br />
+eg. bed, chest, furnace, table&amp;chair, light (eg. a slice of glowglass).
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<td>W</td>
+<td>W</td>
+<td>W</td>
+<td>w</td>
+<td>W</td>
+<td>W</td>
+<td>W</td>
+<td>
+</td></tr>
+<tr>
+<td>W</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>W</td>
+<td>
+</td></tr>
+<tr>
+<td>W</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>h</td>
+<td>W</td>
+<td>
+</td></tr>
+<tr>
+<td>W</td>
+<td>c</td>
+<td>_</td>
+<td>L</td>
+<td>_</td>
+<td>T</td>
+<td>W</td>
+<td>
+</td></tr>
+<tr>
+<td>W</td>
+<td>F</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>b</td>
+<td>W</td>
+<td>
+</td></tr>
+<tr>
+<td>W</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>a</td>
+<td>W</td>
+<td>
+</td></tr>
+<tr>
+<td>W</td>
+<td>W</td>
+<td>W</td>
+<td>D</td>
+<td>W</td>
+<td>W</td>
+<td>W</td>
+<td>
+</td></tr>
+</tbody></table>
+<p>W=wall/window  D=door  _=free space  L=Light at ceiling<br />
+a,b=bed  c=chest  F=furnace h,T=chair,table
+</p>
+<h4><span class="mw-headline" id="Small_House_7x5x4">Small House 7x5x4</span></h4>
+<p>A small house presented on the <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?p=339558">forum</a> by LinuxDirk.
+</p><p>It adds some internal walls, to make it look like a 3-room-house. <br />
+It uses some tricks, eg. half-height slabs for walls and roof, and upside-down stairs.
+</p><p>The corners are made of regular treeblocks, the walls are half-height slabs, turned upright.
+</p><p>The roof is just one layer: <br />
+The outer ring of the roof is made of slabs that accupy the lower half of the roof-layer. <br />
+The center uses slabs that accupy the upper half, as well as upside-down stairs that also serve as part of the inside walls.
+</p><p>Windows need to be thin glass panes, to fit the slabs.  <br />
+The floor is made of wool, to look like a carpet.
+</p><p>So this house is harder to build, and might need a screwdriver to get it right.
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<td>T</td>
+<td>w</td>
+<td>w</td>
+<td>w</td>
+<td>w</td>
+<td>w</td>
+<td>T
+</td></tr>
+<tr>
+<td>!</td>
+<td>b</td>
+<td>!</td>
+<td>f</td>
+<td>!</td>
+<td>c</td>
+<td>s
+</td></tr>
+<tr>
+<td>g</td>
+<td>b</td>
+<td>_</td>
+<td>_</td>
+<td>!</td>
+<td>D</td>
+<td>s
+</td></tr>
+<tr>
+<td>g</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>s
+</td></tr>
+<tr>
+<td>T</td>
+<td>w</td>
+<td>g</td>
+<td>w</td>
+<td>D</td>
+<td>w</td>
+<td>T
+</td></tr></tbody></table>
+<p>T=Treeblock  W=wall/window  s=stair as wall&#160;!=slab as wall  D=door  _=free space<br />
+b=bed  c=chest  f=furnace  g=glass-pane for window
+</p><p><br />
+</p>
+<h4><span class="mw-headline" id="Realistic_House_8x10">Realistic House 8x10</span></h4>
+<p>'Realistic' in the sense that the inside is divided into several rooms,
+eg. kitchen, living room, bathroom, bedroom. 
+</p><p>Rooms need at least 2x2 (eg. bed/chest/furnace + free space to stand on), 
+plus surrounding walls/door/window.
+</p><p>Mods such as xdecor or homedecor will make it look much nicer than plain MTG.
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<td>W</td>
+<td>W</td>
+<td>g</td>
+<td>g</td>
+<td>g</td>
+<td>w</td>
+<td>w</td>
+<td>g</td>
+<td>W</td>
+<td>W
+</td></tr>
+<tr>
+<td>W</td>
+<td>c</td>
+<td>h</td>
+<td>h</td>
+<td>_</td>
+<td>s</td>
+<td>x</td>
+<td>c</td>
+<td>c</td>
+<td>W
+</td></tr>
+<tr>
+<td>g</td>
+<td>h</td>
+<td>t</td>
+<td>t</td>
+<td>4</td>
+<td>_</td>
+<td>d</td>
+<td>3</td>
+<td>f</td>
+<td>g
+</td></tr>
+<tr>
+<td>w</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>#</td>
+<td>x</td>
+<td>c</td>
+<td>c</td>
+<td>w
+</td></tr>
+<tr>
+<td>w</td>
+<td>=</td>
+<td>=</td>
+<td>=</td>
+<td>!</td>
+<td>_</td>
+<td>x</td>
+<td>=</td>
+<td>=</td>
+<td>w
+</td></tr>
+<tr>
+<td>g</td>
+<td>c</td>
+<td>_</td>
+<td>5</td>
+<td>d</td>
+<td>1</td>
+<td>d</td>
+<td>2</td>
+<td>h</td>
+<td>g
+</td></tr>
+<tr>
+<td>W</td>
+<td>a</td>
+<td>b</td>
+<td>c</td>
+<td>!</td>
+<td>_</td>
+<td>x</td>
+<td>_</td>
+<td>S</td>
+<td>W
+</td></tr>
+<tr>
+<td>W</td>
+<td>W</td>
+<td>g</td>
+<td>W</td>
+<td>M</td>
+<td>D</td>
+<td>W</td>
+<td>W</td>
+<td>W</td>
+<td>W
+</td></tr></tbody></table>
+<p>W,w=wall/window (stone)  x=interior wall (wood)  D,d=door  _=free space <br />
+!,=:slabs as walls, with embedded chest/shelf/TV etc.  M=Mailbox  #=ladder to roof<br />
+a,b=bed  c,s=chest,shelves  S=Shower  f=furnace  h,t=chair,table  g=glass=windows
+</p>
+<ul><li>1 - lobby 1.5x3, leading to livingroom</li>
+<li>2 - bathroom 3x3 (including interior walls and door)</li>
+<li>3 - kitchen  3x3 (sharing a wall with bathroom)</li>
+<li>4 - livingroom 4x5, open to lobby/entrance</li>
+<li>5 - bedroom  3x4 (sharing a wall+chests/shelves with livingroom)</li></ul>
+<p>The shared walls can have chests back-to-back, 
+or half embedded into the slab-wall.
+</p><p>If chests show ugly holes (eg. for pipeworks), those can be covered with pictures or frames.<br />
+Or use other furniture, such as a bookshelf, glass-shelf or cabinet.
+</p>
+<h3><span class="mw-headline" id="Tower">Tower</span></h3>
+<p>A stand-alone-tower is simple to build,
+it needs little space, can look impressive
+and might provide a nice view.
+</p><p>We also need towers as part of a proper castle.
+</p><p>...
+</p>
+<h4><span class="mw-headline" id="Slim_Tower_3x3">Slim Tower 3x3</span></h4>
+<p>The most simple: just a ladder surrounded by walls.
+</p><p>Platforms at the top and maybe at various heights. <br />
+Around those platforms, fences as handrails.
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<td>f</td>
+<td>f</td>
+<td>f</td>
+<td>f</td>
+<td>f</td>
+<td>f</td>
+<td>f
+</td></tr>
+<tr>
+<td>f</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>f
+</td></tr>
+<tr>
+<td>f</td>
+<td>_</td>
+<td>W</td>
+<td>x</td>
+<td>W</td>
+<td>_</td>
+<td>f
+</td></tr>
+<tr>
+<td>f</td>
+<td>_</td>
+<td>x</td>
+<td>#</td>
+<td>D</td>
+<td>_</td>
+<td>f
+</td></tr>
+<tr>
+<td>f</td>
+<td>_</td>
+<td>W</td>
+<td>x</td>
+<td>W</td>
+<td>_</td>
+<td>f
+</td></tr>
+<tr>
+<td>f</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>f
+</td></tr>
+<tr>
+<td>f</td>
+<td>f</td>
+<td>f</td>
+<td>f</td>
+<td>f</td>
+<td>f</td>
+<td>f
+</td></tr></tbody></table>
+<p>W=wall x=wall/window  D=door  #=ladder  _=platform  f=fence/glass-pane/chain/ironbars
+</p>
+<h4><span class="mw-headline" id="Small_Tower_5x5">Small Tower 5x5</span></h4>
+<p>We alter between solid rows of stone,
+and rows with a hole in the side. <br />
+Running along the inside of the walls, we put stairs (simple dirt for now),<br />
+and the center gets filled with leaves during the construction.
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<td>W</td>
+<td>W</td>
+<td>x</td>
+<td>W</td>
+<td>W
+</td></tr>
+<tr>
+<td>W</td>
+<td>d</td>
+<td>d</td>
+<td>d</td>
+<td>W
+</td></tr>
+<tr>
+<td>x</td>
+<td>d</td>
+<td>#</td>
+<td>d</td>
+<td>x
+</td></tr>
+<tr>
+<td>W</td>
+<td>d</td>
+<td>d</td>
+<td>d</td>
+<td>W
+</td></tr>
+<tr>
+<td>W</td>
+<td>W</td>
+<td>x</td>
+<td>W</td>
+<td>W
+</td></tr></tbody></table>
+<p>W=wall x=alternating wall/window  d=dirt/stairs  #=leaves or ladder as filler
+</p><p>In one of the walls in the bottom row
+the center stone gets removed, to make a door.
+</p><p>The holes in the sides can later be filled with glass, to make proper windows.
+</p><p>...
+</p>
+<h4><span class="mw-headline" id="Bigger_Tower_9x9">Bigger Tower 9x9</span></h4>
+<p>Another square floorplan, so it can also serve as a regular house.
+</p>
+<h5><span class="mw-headline" id="Variant_1">Variant 1</span></h5>
+<p>Outer size is 9x9, internal living space is 7x7, Windows are 2 blocks high, so the room is 4 high. <br />
+Straight stairs along one side.
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>.</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_
+</td></tr>
+<tr>
+<td>_</td>
+<td>W</td>
+<td>W</td>
+<td>w</td>
+<td>W</td>
+<td>w</td>
+<td>W</td>
+<td>w</td>
+<td>W</td>
+<td>W</td>
+<td>_
+</td></tr>
+<tr>
+<td>_</td>
+<td>W</td>
+<td>.</td>
+<td>s</td>
+<td>s</td>
+<td>s</td>
+<td>s</td>
+<td>s</td>
+<td>_</td>
+<td>W</td>
+<td>_
+</td></tr>
+<tr>
+<td>_</td>
+<td>w</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>.</td>
+<td>w</td>
+<td>_
+</td></tr>
+<tr>
+<td>_</td>
+<td>W</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>.</td>
+<td>W</td>
+<td>_
+</td></tr>
+<tr>
+<td>#</td>
+<td>D</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>^</td>
+<td>_</td>
+<td>_</td>
+<td>.</td>
+<td>w</td>
+<td>.
+</td></tr>
+<tr>
+<td>_</td>
+<td>W</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>.</td>
+<td>W</td>
+<td>_
+</td></tr>
+<tr>
+<td>_</td>
+<td>w</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>.</td>
+<td>w</td>
+<td>_
+</td></tr>
+<tr>
+<td>_</td>
+<td>W</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>W</td>
+<td>_
+</td></tr>
+<tr>
+<td>_</td>
+<td>W</td>
+<td>W</td>
+<td>w</td>
+<td>W</td>
+<td>w</td>
+<td>W</td>
+<td>w</td>
+<td>W</td>
+<td>W</td>
+<td>_
+</td></tr>
+<tr>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>.</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_
+</td></tr></tbody></table>
+<p>W=wall/window  D=door  _=free space  ^=center - with protection-block <br />
+a,b=bed  c=chest  F=furnace t,h=table,chair <br />
+s,#=stairs  P=platform/balcony  f=fence/glass-panes as handrail
+</p><p><br />
+<b>Sideview</b>:
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<td>X</td>
+<td>X</td>
+<td>=</td>
+<td>=</td>
+<td>=</td>
+<td>=</td>
+<td>=</td>
+<td>=</td>
+<td>=</td>
+<td>next floor
+</td></tr>
+<tr>
+<td>X</td>
+<td>x</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>s</td>
+<td>_</td>
+<td>_</td>
+<td>_
+</td></tr>
+<tr>
+<td>X</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>s</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>Window
+</td></tr>
+<tr>
+<td>X</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>s</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>Window
+</td></tr>
+<tr>
+<td>X</td>
+<td>x</td>
+<td>_</td>
+<td>s</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_
+</td></tr>
+<tr>
+<td>X</td>
+<td>X</td>
+<td>=</td>
+<td>=</td>
+<td>=</td>
+<td>=</td>
+<td>=</td>
+<td>=</td>
+<td>=</td>
+<td>Floor/Ceiling
+</td></tr>
+<tr>
+<td>X</td>
+<td>x</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_
+</td></tr></tbody></table>
+<h5><span class="mw-headline" id="Variant_2">Variant 2</span></h5>
+<p>Internal living space is quite roomy with 7x7. <br />
+Outer size with balcony is 11x11, with added fence/handrails 13x13. <br />
+Stairs around a corner.
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>P</td>
+<td>P</td>
+<td>P</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_
+</td></tr>
+<tr>
+<td>_</td>
+<td>W</td>
+<td>w</td>
+<td>w</td>
+<td>W</td>
+<td>D</td>
+<td>W</td>
+<td>w</td>
+<td>w</td>
+<td>W</td>
+<td>_</td>
+<td>_
+</td></tr>
+<tr>
+<td>_</td>
+<td>w</td>
+<td>#</td>
+<td>s</td>
+<td>s</td>
+<td>_</td>
+<td>.</td>
+<td>.</td>
+<td>.</td>
+<td>w</td>
+<td>_</td>
+<td>_
+</td></tr>
+<tr>
+<td>_</td>
+<td>w</td>
+<td>s</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>.</td>
+<td>w</td>
+<td>f</td>
+<td>f
+</td></tr>
+<tr>
+<td>_</td>
+<td>W</td>
+<td>s</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>.</td>
+<td>W</td>
+<td>P</td>
+<td>f
+</td></tr>
+<tr>
+<td>P</td>
+<td>D</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>^</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>D</td>
+<td>P</td>
+<td>f
+</td></tr>
+<tr>
+<td>_</td>
+<td>W</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>W</td>
+<td>P</td>
+<td>f
+</td></tr>
+<tr>
+<td>_</td>
+<td>w</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>w</td>
+<td>f</td>
+<td>f
+</td></tr>
+<tr>
+<td>_</td>
+<td>w</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>w</td>
+<td>_
+</td></tr>
+<tr>
+<td>_</td>
+<td>W</td>
+<td>w</td>
+<td>w</td>
+<td>W</td>
+<td>D</td>
+<td>W</td>
+<td>w</td>
+<td>w</td>
+<td>W</td>
+<td>_
+</td></tr>
+<tr>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>P</td>
+<td>P</td>
+<td>P</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_
+</td></tr></tbody></table>
+<p>W=wall/window  D=door  _=free space  ^=center - with protection-block, maybe ladder <br />
+a,b=bed  c=chest  F=furnace t,h=table,chair <br />
+s,#=stairs  P=platform/balcony  f=fence/glass-panes as handrail
+</p><p>Stairs are running around one corner of the tower. <br />
+On the next floor, it would continue (...) where the last stairs arrive. <br />
+So, the stairs make one complete turn after every 4 floors. <br />
+There is room below the stairs for 2 or 3 blocks, eg. chests and/or furnace.
+</p><p>To make the stairs fit, Windows need to be 1 block high, rooms 3 high.
+</p><p>...
+</p>
+<h4><span class="mw-headline" id="Round_Tower_9x9">Round Tower 9x9</span></h4>
+<p>A tower of size 7x7 with cut-off corners is the minimum to make it look somewhat 'round'.
+</p><p>With 9x9, it will look more well-rounded:
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<td>_</td>
+<td>_</td>
+<td>W</td>
+<td>W</td>
+<td>W</td>
+<td>W</td>
+<td>W</td>
+<td>_</td>
+<td>_</td>
+<td>
+</td></tr>
+<tr>
+<td>_</td>
+<td>W</td>
+<td>w</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>w</td>
+<td>W</td>
+<td>_</td>
+<td>
+</td></tr>
+<tr>
+<td>W</td>
+<td>w</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>w</td>
+<td>W</td>
+<td>
+</td></tr>
+<tr>
+<td>W</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>W</td>
+<td>
+</td></tr>
+<tr>
+<td>W</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>X</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>W</td>
+<td>
+</td></tr>
+<tr>
+<td>W</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>W</td>
+<td>
+</td></tr>
+<tr>
+<td>W</td>
+<td>w</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>w</td>
+<td>W</td>
+<td>
+</td></tr>
+<tr>
+<td>_</td>
+<td>W</td>
+<td>w</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>w</td>
+<td>W</td>
+<td>_</td>
+<td>
+</td></tr>
+<tr>
+<td>_</td>
+<td>_</td>
+<td>W</td>
+<td>W</td>
+<td>D</td>
+<td>W</td>
+<td>W</td>
+<td>_</td>
+<td>_</td>
+<td>
+</td></tr></tbody></table>
+<p>W=wall/window  D=door  _=free space<br />
+x=center
+</p><p>...
+</p>
+<h3><span class="mw-headline" id="Castle">Castle</span></h3>
+<p>The general layout of a castle might look like this,
+with a moat outside:
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<td>T</td>
+<td>w</td>
+<td>w</td>
+<td>w</td>
+<td>w</td>
+<td>w</td>
+<td>T
+</td></tr>
+<tr>
+<td>w</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>w
+</td></tr>
+<tr>
+<td>w</td>
+<td>_</td>
+<td>_</td>
+<td>K</td>
+<td>_</td>
+<td>_</td>
+<td>w
+</td></tr>
+<tr>
+<td>w</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>_</td>
+<td>w
+</td></tr>
+<tr>
+<td>T</td>
+<td>w</td>
+<td>T</td>
+<td>G</td>
+<td>T</td>
+<td>w</td>
+<td>T
+</td></tr></tbody></table>
+<p>T=Tower  w=wall  G=Gate   K=Keep
+</p><p>Those towers at the corners would be at least 5x5,
+and the keep 7x7 or bigger.<br />
+Walls would be 2 or 3 thick, so you can walk on them.<br />
+When each tower or section of wall has a width of 5,
+the whole building would be size 35x35.<br />
+</p><p>With protection-areas of size 16x16, we need 9 of those
+to cover an area of 48x48.<br />
+So, a moat of width 6 would fit inside the protected area as well.
+</p><p>The area-mod is often set to allow to protect an area of size 64x128x64,
+so we could size up our castle a bit.
+</p><p>Advice: Protect the whole building-site 
+(plus some of the surrounding area)
+before you start building.<br />
+It would be annoying if someone claimed some part of your intended project.
+</p><p>Also, have a look at mods like castle-masonry, castle-gates, castle-weapons, castle++
+</p>
+<h4><span class="mw-headline" id="Real-live_castles">Real-live castles</span></h4>
+<p>with floorplans:
+</p>
+<ul><li><a rel="nofollow" class="external text" href="https://en.wikipedia.org/wiki/Bodiam_Castle">Bodiam Castle</a> - moated, quadrangular castle with 4 round towers at the corners, <br />with a central courtyard, no keep, square towers in the walls, and 2 gatehouses with a barbican in front of the main gate. Size about 50x60.</li></ul>
+<p>...
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20230709044142
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.587 seconds
+Real time usage: 0.812 seconds
+Preprocessor visited node count: 273/1000000
+Post‐expand include size: 1493/2097152 bytes
+Template argument size: 272/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 14/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.130/7 seconds
+Lua virtual size: 5.55 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  312.165      1 Template:Languages
+100.00%  312.165      1 -total
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:2891-0!canonical and timestamp 20230709044141 and revision id 27617
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Building_a_home&amp;oldid=27617">http://wiki.minetest.net/index.php?title=Building_a_home&amp;oldid=27617</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li><li><a href="/Category:Tutorials" title="Category:Tutorials">Tutorials</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Building+a+home" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Building_a_home" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Building_a_home&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Building_a_home">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Building_a_home&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Building_a_home&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Building_a_home" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Building_a_home" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Building_a_home&amp;oldid=27617" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Building_a_home&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 28 January 2023, at 14:02.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.587","walltime":"0.812","ppvisitednodes":{"value":273,"limit":1000000},"postexpandincludesize":{"value":1493,"limit":2097152},"templateargumentsize":{"value":272,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":14,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  312.165      1 Template:Languages","100.00%  312.165      1 -total"]},"scribunto":{"limitreport-timeusage":{"value":"0.130","limit":"7"},"limitreport-virtmemusage":{"value":5824512,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709044142","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":262});});</script></body></html>

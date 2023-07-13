@@ -1,0 +1,577 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Help:Translation Notes/ms - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"d6840c88cb1d8be23fc75f19","wgCSPNonce":!1,"wgCanonicalNamespace":"Help","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":12,"wgPageName":"Help:Translation_Notes/ms","wgTitle":"Translation Notes/ms","wgCurRevisionId":23425,"wgRevisionId":23425,"wgArticleId":3237,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages","Malay"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Help:Translation_Notes/ms","wgRelevantArticleId":3237,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={
+"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=skins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-12 ns-subject page-Help_Translation_Notes_ms rootpage-Help_Translation_Notes skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Help:Translation Notes/ms</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/Help:Translation_Notes" title="Help:Translation Notes">Help:Translation Notes</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> Bahasa:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><a href="/Help:Translation_Notes" title="Help:Translation Notes">English</a>&#160;• <bdi lang="de"><a href="/Help:Translation_Notes/de" title="Help:Translation Notes/de">Deutsch</a></bdi>&#160;• <bdi lang="fr"><a href="/Help:Translation_Notes/fr" title="Help:Translation Notes/fr">français</a></bdi><b>&#160;• <bdi lang="ms"><a class="mw-selflink selflink">Bahasa Melayu</a></bdi></b>&#160;• <bdi lang="pl"><a href="/Help:Translation_Notes/pl" title="Help:Translation Notes/pl">polski</a></bdi></td>
+</tr></tbody></table>
+<p>This page contains information for Malay translators.
+</p>
+<h2><span class="mw-headline" id="Pemiawaian_istilah_asas">Pemiawaian istilah asas</span></h2>
+<p>Sila pastikan istilah-istilah berikut digunapakai. Senarai penuh boleh dilihat di dalam <a rel="nofollow" class="external text" href="https://hosted.weblate.org/dictionaries/minetest/ms/">glosari Weblate Minetest</a>.
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Bahasa Inggeris (Original English)</th>
+<th>Bahasa Melayu (Translated Malay)</th>
+<th>Terjemahan istilah Melayu (Translation of Malay definition)</th>
+<th>Keterangan (Explanation - in Malay only)
+</th></tr>
+<tr>
+<td><i>client</i></td>
+<td><i>klien</i></td>
+<td><i>client</i></td>
+<td>
+</td></tr>
+<tr>
+<td><i>server</i></td>
+<td><i>pelayan</i></td>
+<td><i>server</i></td>
+<td>Ini istilah rasmi bahasa Melayu dan digunapakai dalam Kamus Dewan, Kamus Komputer dan buku-buku berkaitan komputer dalam bahasa Melayu
+</td></tr>
+<tr>
+<td><i>map</i></td>
+<td><i>peta</i></td>
+<td><i>map</i></td>
+<td>
+</td></tr>
+<tr>
+<td><i>map generator</i></td>
+<td><i>penjana peta</i></td>
+<td><i>map generator</i></td>
+<td>
+</td></tr>
+<tr>
+<td><i>mapgen</i></td>
+<td><i>penjana peta</i></td>
+<td><i>map generator</i></td>
+<td>Istilah Inggeris <i>mapgen</i> hanyalah kependekan untuk <i>map generator</i> oleh itu guna terjemahan untuk istilah asal.
+</td></tr>
+<tr>
+<td><i>mode</i></td>
+<td><i>mod</i></td>
+<td><i>mode</i></td>
+<td>
+</td></tr>
+<tr>
+<td><i>mod / mods</i></td>
+<td><i>mods</i></td>
+<td><i>mod</i></td>
+<td>Istilah Inggeris tunggal <i>mod</i> atau jamaknya <i>mods</i> merupakan kependekan untuk <i>modules</i> (modul). Untuk terjemahan, gunakan <i>mods</i> sebagai singkatan <b>mod</b>ifika<b>s</b>i supaya tidak keliru dengan perkataan Melayu <i>mod</i> yang membawa maksud Inggeris <i>mode</i>. Untuk kata jamak Melayu, gunakan kata ganda <i>mods-mods</i>.
+</td></tr>
+<tr>
+<td><i>flags</i></td>
+<td><i>bendera</i></td>
+<td><i>flag</i></td>
+<td>Istilah rasmi bahasa Melayu dalam bidang komputer dan teknologi.
+</td></tr>
+<tr>
+<td><i>node</i></td>
+<td><i>nod</i></td>
+<td><i>node</i></td>
+<td>Istilah rasmi bahasa Melayu dalam bidang komputer dan teknologi.
+</td></tr>
+<tr>
+<td rowspan="2"><i>block</i></td>
+<td><i>blok</i></td>
+<td><i>block</i></td>
+<td>Digunakan untuk istilah teknikal yang tidak merujuk kepada barangan sebenar, contohnya: Kelegapan blok, Bentuk blok
+</td></tr>
+<tr>
+<td><i>bongkah</i></td>
+<td><i>block</i></td>
+<td>Digunakan untuk barangan sebenar, contohnya: Bongkah Gangsa, Bongkah Batu Arang
+</td></tr>
+<tr>
+<td><i>game</i></td>
+<td><i>permainan</i></td>
+<td><i>game</i></td>
+<td>Istilah rasmi bahasa Melayu dalam bidang komputer dan teknologi.
+</td></tr>
+<tr>
+<td><i>subgame</i></td>
+<td><i>subpermainan</i></td>
+<td><i>subgame</i></td>
+<td>Awalan <i>sub-</i> digabungkan dengan <i>permainan</i>, ini istilah lama di dalam enjin permainan, kini ia hanya dipanggil sebagai <i>permainan</i>.
+</td></tr>
+<tr>
+<td rowspan="2"><i>spawn</i></td>
+<td><i>lahir</i></td>
+<td><i>birth</i></td>
+<td>Digunakan untuk perbuatan mewujudkan sesuatu, contohnya, <i>spawn egg</i> menjadi <i>telur kelahiran</i>, <i>spawn an animal</i> menjadi <i>lahirkan haiwan</i>.
+</td></tr>
+<tr>
+<td><i>permulaan</i></td>
+<td><i>starting point</i></td>
+<td>Digunakan untuk titik atau kawasan seseorang itu dilahirkan ke dunia atau dilahirkan ke sesuatu tempat, contohnya, <i>spawn area</i> menjadi <i>kawasan permulaan</i>, <i>city spawn</i> menjadi <i>permulaan bandar</i>.
+</td></tr>
+<tr>
+<td><i>respawn</i></td>
+<td><i>lahir semula</i></td>
+<td><i>rebirth</i></td>
+<td>
+</td></tr>
+<tr>
+<td><i>noclip</i></td>
+<td><i>tembus blok</i></td>
+<td><i>go through block</i></td>
+<td>Istilah rasmi untuk <i>clip</i> ialah <i>ketip</i> dalam bidang komputer dan teknologi, <i>tidakketip</i> ialah perkataan rekaan untuk <i>noclip</i>, kapitan <i>ke…an</i> ditambah untuk menunjukkan perihal tidakketip. <b>KEMASKINI</b>: permainan tidak patut menjadi terlalu teknikal oleh itu istilah <i>ketidakketipan</i> telah digantikan dengan <i>tembus blok</i>.
+</td></tr>
+<tr>
+<td><i>deprecated</i></td>
+<td><i>terkecam</i></td>
+<td><i>the state of not recommended to use</i></td>
+<td>Tiada istilah rasmi dalam bidang komputer, tetapi istilah Inggeris <i>deprecate</i> secara umumnya bermaksud <i>kecam</i> iaitu menegur keburukan. Gunakan istilah ini sehingga istilah rasmi dikeluarkan dalam bahasa Melayu.
+</td></tr>
+<tr>
+<td><i>minimap</i></td>
+<td><i>peta mini</i></td>
+<td><i>mini map</i></td>
+<td>
+</td></tr>
+<tr>
+<td><i>screenshot</i></td>
+<td><i>tangkapan layar</i></td>
+<td><i>screen capture</i></td>
+<td>Istilah rasmi bahasa Melayu dalam bidang Komputer dan Teknologi
+</td></tr>
+<tr>
+<td><i>noise</i></td>
+<td><i>hingar</i></td>
+<td><i>noise</i></td>
+<td>Istilah rasmi bahasa Melayu dalam bidang Komputer dan Teknologi
+</td></tr>
+<tr>
+<td><i>noise parameter</i></td>
+<td><i>parameter hingar</i></td>
+<td><i>noise parameter</i></td>
+<td>
+</td></tr>
+<tr>
+<td><i>anisotropic filter</i></td>
+<td><i>tapisan anisotropik</i></td>
+<td><i>anisotropic filter</i></td>
+<td>
+</td></tr>
+<tr>
+<td><i>item</i></td>
+<td><i>item</i></td>
+<td><i>item</i></td>
+<td>Istilah khusus dalam Minetest yang resamnya perlu diikut
+</td></tr>
+<tr>
+<td><i>entity</i></td>
+<td><i>entiti</i></td>
+<td><i>entity</i></td>
+<td>Istilah khusus dalam Minetest yang resamnya perlu diikut
+</td></tr>
+<tr>
+<td><i>entities</i></td>
+<td><i>entiti-entiti</i></td>
+<td><i>entities</i></td>
+<td>Resam perlu diikut, tetapi pakai tatabahasa Melayu
+</td></tr>
+<tr>
+<td><i>instrumentation</i></td>
+<td><i>instrumentasi</i></td>
+<td><i>instrumentation</i></td>
+<td>Ini istilah dalam pengaturcaraan komputer, tiada padanan dalam bidang komputer dan menggunakan padanan dalam bidang muzik.
+</td></tr>
+<tr>
+<td><i>to instrument</i></td>
+<td><i>menginstrumentasikan</i></td>
+<td><i>to do instrumentation</i></td>
+<td>Tiada istilah yang sesuai yang wujud, maka ia dicipta dengan perkataan <i>instrumentasi</i>.
+</td></tr>
+<tr>
+<td rowspan="3"><i>am</i> / <i>is</i> / <i>are</i> / <i>was</i> / <i>were</i></td>
+<td><i>ialah</i></td>
+<td><i>is</i></td>
+<td>Gunakan <i>ialah</i> apabila frasa selepasnya frasa nama (seperti "Bongkah batu arang ialah blok").
+</td></tr>
+<tr>
+<td><i>adalah</i></td>
+<td><i>is</i></td>
+<td>Gunakan <i>adalah</i> apabila frasa selepasnya frasa adjektif (seperti "adalah lebih baik").
+</td></tr>
+<tr>
+<td><i>(perkataan yang sesuai)</i></td>
+<td><i>(any suitable word)</i></td>
+<td>Kadang-kala terdapat perkataan yang lebih sesuai berbanding <i>ialah</i> atau <i>adalah</i>, jadi gunakan perkataan tersebut atau tidak perlu terjemahnya. Bergantung kepada konteks penggunaan dalam artikel asal bahasa Inggeris.
+</td></tr>
+<tr>
+<td><i>maintenance</i></td>
+<td><i>penyenggaraan</i></td>
+<td><i>maintenance</i></td>
+<td>Jangan gunakan <i>penyelenggaraan</i> yang menerima sisipan <i>-el-</i> kerana ia membawa maksud berbeza sedikit. Lagipun perkataan <i>penyenggaraan</i> digunapakai dalam kamus komputer rasmi terbitan DBP walaupun <i>penyelenggaraan</i> lebih kerap digunakan.
+</td></tr>
+<tr>
+<td><i>protection</i></td>
+<td><i>perlindungan</i></td>
+<td><i>protection</i></td>
+<td>Perkataan ini digunapakai dalam kamus komputer rasmi terbitan DBP walaupun <i>pelindungan</i> tanpa huruf R juga digunakan.
+</td></tr>
+<tr>
+<td rowspan="3"><i>teleport</i></td>
+<td><i>teleportasi</i></td>
+<td><i>teleportation</i></td>
+<td>(noun / k.n) Perkataan ini digunapakai dalam kebanyakan novel bahasa Melayu dan dicadangkan oleh pihak DBP.
+</td></tr>
+<tr>
+<td><i>diteleportasikan</i></td>
+<td><i>teleported</i></td>
+<td>(verb / k.k) versi kata kerja - seseorang dipindahkan ke tempat lain
+</td></tr>
+<tr>
+<td><i>meneleportasikan</i></td>
+<td><i>teleporting</i></td>
+<td>(verb / k.k) versi kata kerja - memindahkan orang ke sesuatu tempat
+</td></tr>
+<tr>
+<td><i>pitchmove</i></td>
+<td><i>pergerakan mencuram</i></td>
+<td><i>movement that is in constant to one slope direction</i></td>
+<td>Pergerakan yang malar dalam sesuatu kecuraman apabila bergerak satu kali
+</td></tr>
+<tr>
+<td><i>placeholder</i></td>
+<td><i>pemegang tempat</i></td>
+<td><i>place holder</i></td>
+<td>Istilah sains rasmi untuk sesuatu yang memegang tempat buat sementara waktu
+</td></tr>
+<tr>
+<td><i>mapchunk</i></td>
+<td><i>ketulan peta</i></td>
+<td><i>map chunk</i></td>
+<td>Ketulan peta dalam enjin permainan
+</td></tr>
+<tr>
+<td><i>emerge</i></td>
+<td><i>timbul </i></td>
+<td><i>appear</i> / <i>floats</i></td>
+<td>Perkataan ini digunapakai dalam kamus komputer rasmi terbitan DBP.
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Istilah_untuk_item">Istilah untuk item</span></h2>
+<p>Apabila menerjemah artikel berkaitan item (alatan, senjata, blok, dll.), sila pastikan perkara berikut diikut.
+</p>
+<ol><li>Hanya gunakan perkataan <i>berlian</i> untuk batu berlian (diamond), gunakan perkataan <i>intan</i> untuk benda lain seperti kapak intan (diamond axe) atau bongkah intan (diamond block).</li>
+<li>Istilah untuk <i>pickaxe</i> dalam bahasa Melayu ialah <i>beliung</i> walaupun beliung itu asalnya digunakan sebagai alat pengukir kayu.</li>
+<li>Untuk perkataan <i>orange</i>, gunakan <i>jingga</i> sekiranya ia merujuk kepada warna dan gunakan <i>oren</i> sekiranya ia merujuk kepada buah. Untuk benda yang lain daripada warna dan buah, gunakan akal fikiran untuk tetapkan sama ada ia lebih dekat kepada warna ataupun dekat kepada buah.</li>
+<li>Jangan keliru di antara perkataan bahasa Inggeris <i>air</i> yang bermaksud <i>udara</i> dengan perkataan bahasa Melayu <i>air</i>. <i>Air</i> dalam bahasa Inggerisnya ditulis sebagai <i>water</i>.</li>
+<li>Jangan keliru di antara <i>kelikir</i> dan <i>kerikil</i>. Blok <i>gravel</i> ditulis sebagai <i>kelikir</i> walaupun <i>kerikil</i> juga terjemahan untuk <i>gravel</i>, hal ini kerana sifat blok <i>gravel</i> di dalam Minetest itu lebih kepada <i>kelikir</i> (sejenis pasir berbatu, digali guna penyodok) dan bukannya <i>kerikil</i> (sejenis batu berpasir, digali guna beliung).</li>
+<li>Galian <i>coal</i> dalam bahasa Melayu ialah <b>batu arang</b> manakala galian <i>charcoal</i> dalam bahasa Melayu ialah <b>arang</b> sahaja.</li>
+<li>Blok separuh yang dikenali sebagai <i>slab</i> dalam bahasa Inggeris perlu diterjemah sebagai <b>papak</b> dan bukannya <i>bidur</i> kerana <i>papak</i> lebih banyak digunapakai.</li></ol>
+<h2><span class="mw-headline" id="Istilah_warna">Istilah warna</span></h2>
+<p>Sila pastikan istilah-istilah berikut digunapakai untuk warna asas. Istilah warna lain boleh digunapakai sekiranya penampakan berbeza ataupun perlukan variasi yang lebih khusus, berdasarkan pandangan subjektif anda.
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Bahasa Inggeris<br />(Original English)</th>
+<th>Bahasa Melayu<br />(Translated Malay)</th>
+<th>Terjemahan istilah Melayu<br />(Translation of Malay definition)
+</th></tr>
+<tr>
+<td>White</td>
+<td>Putih</td>
+<td>White
+</td></tr>
+<tr>
+<td>Grey</td>
+<td>Kelabu</td>
+<td>Grey
+</td></tr>
+<tr>
+<td>Dark Grey</td>
+<td>Kelabu Gelap</td>
+<td>Dark Grey
+</td></tr>
+<tr>
+<td>Black</td>
+<td>Hitam</td>
+<td>Black
+</td></tr>
+<tr>
+<td>Violet</td>
+<td>Ungu</td>
+<td>Purple
+</td></tr>
+<tr>
+<td>Blue</td>
+<td>Biru</td>
+<td>Blue
+</td></tr>
+<tr>
+<td>Cyan</td>
+<td>Biru Kehijauan</td>
+<td>Greenish Blue
+</td></tr>
+<tr>
+<td>Green</td>
+<td>Hijau</td>
+<td>Green
+</td></tr>
+<tr>
+<td>Dark Green</td>
+<td>Hijau Gelap</td>
+<td>Dark Green
+</td></tr>
+<tr>
+<td>Red</td>
+<td>Merah</td>
+<td>Red
+</td></tr>
+<tr>
+<td>Pink</td>
+<td>Merah Jambu</td>
+<td>Syzgium Red
+</td></tr>
+<tr>
+<td>Magenta</td>
+<td>Merah Lembayung</td>
+<td>Hyacinth Red
+</td></tr>
+<tr>
+<td>Yellow</td>
+<td>Kuning</td>
+<td>Yellow
+</td></tr>
+<tr>
+<td>Brown</td>
+<td>Perang</td>
+<td>Brown
+</td></tr>
+<tr>
+<td>Orange</td>
+<td>Jingga</td>
+<td>Orange
+</td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Cached time: 20230709190438
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.228 seconds
+Real time usage: 0.430 seconds
+Preprocessor visited node count: 68/1000000
+Post‐expand include size: 1958/2097152 bytes
+Template argument size: 427/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 13/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.130/7 seconds
+Lua virtual size: 5.55 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  311.050      1 Template:Languages
+100.00%  311.050      1 -total
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:3237-0!canonical and timestamp 20230709190438 and revision id 23425
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Help:Translation_Notes/ms&amp;oldid=23425">http://wiki.minetest.net/index.php?title=Help:Translation_Notes/ms&amp;oldid=23425</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li><li><a href="/Category:Malay" title="Category:Malay">Malay</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Help%3ATranslation+Notes%2Fms" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-help" class="selected"><a href="/Help:Translation_Notes/ms" title="View the help page [c]" accesskey="c">Help page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Help_talk:Translation_Notes/ms&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Help:Translation_Notes/ms">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Help:Translation_Notes/ms&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Help:Translation_Notes/ms&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Help:Translation_Notes/ms" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Help:Translation_Notes/ms" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Help:Translation_Notes/ms&amp;oldid=23425" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Help:Translation_Notes/ms&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 30 October 2019, at 09:29.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.228","walltime":"0.430","ppvisitednodes":{"value":68,"limit":1000000},"postexpandincludesize":{"value":1958,"limit":2097152},"templateargumentsize":{"value":427,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":13,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  311.050      1 Template:Languages","100.00%  311.050      1 -total"]},"scribunto":{"limitreport-timeusage":{"value":"0.130","limit":"7"},"limitreport-virtmemusage":{"value":5816320,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709190438","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":878});});</script></body></html>

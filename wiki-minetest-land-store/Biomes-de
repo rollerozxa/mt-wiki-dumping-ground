@@ -1,0 +1,404 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Biomes/de - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"2f30578f7c4b67f231d56caf","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Biomes/de","wgTitle":"Biomes/de","wgCurRevisionId":25573,"wgRevisionId":25573,"wgArticleId":1765,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Karte","Deutsch","Languages pages"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Biomes/de","wgRelevantArticleId":1765,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready",
+"user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=skins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Biomes_de rootpage-Biomes skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Biomes/de</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/Biomes" title="Biomes">Biomes</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> Sprache:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><a href="/Biomes" title="Biomes">English</a><b>&#160;• <bdi lang="de"><a class="mw-selflink selflink">Deutsch</a></bdi></b>&#160;• <bdi lang="fr"><a href="/Biomes/fr" title="Biomes/fr">français</a></bdi>&#160;• <bdi lang="id"><a href="/Biomes/id" title="Biomes/id">Bahasa Indonesia</a></bdi>&#160;• <bdi lang="ja"><a href="/Biomes/ja" title="Biomes/ja">日本語</a></bdi>&#160;• <bdi lang="ms"><a href="/Biomes/ms" title="Biomes/ms">Bahasa Melayu</a></bdi></td>
+</tr></tbody></table>
+<p>Gemäß Wikipedia sind Biome als Gebiete der Erde mit klimatisch und geografisch ähnlichen Bedingungen definiert, wie Lebensräume von Pflanzen, Tieren und Bodenorganismen. Dies wird oft auch als Ökosystem bezeichnet.
+</p>
+<h1><span class="mw-headline" id="Biome"><b>Biome</b></span></h1>
+<table class="wikitable">
+<tbody><tr>
+<th width="15%">Name und Bestandteile
+</th>
+<th width="5%">Kartengenerator
+</th>
+<th>Beschreibung
+</th>
+<th width="355px">Bilder
+</th></tr>
+<tr>
+<td><b>Flachland</b><br /><a href="/Flower/de" title="Flower/de">Blumen</a>, <a href="/Grass/de" title="Grass/de">Gras</a>, <a href="/Dirt_with_Grass/de" title="Dirt with Grass/de">Erde mit Gras</a>, <a href="/Dirt/de" title="Dirt/de">Erde</a>, <a href="/Stone/de" title="Stone/de">Stein</a>, <a href="/Sandstone/de" title="Sandstone/de">Sandstein</a>
+</td>
+<td>v5, v6, v7
+</td>
+<td>Ebenen haben eine große Anzahl von <a href="/Dirt/de" title="Dirt/de">Erde-</a> und <a href="/index.php?title=Grass_Block/de&amp;action=edit&amp;redlink=1" class="new" title="Grass Block/de (page does not exist)">Grasblöcken</a> auf denen  (seit Version 0.4.7) <a href="/Flower/de" title="Flower/de">Blumen</a> und <a href="/Grass/de" title="Grass/de">Gras</a> wachsen können. Der Untergrund besteht entweder aus <a href="/Stone/de" title="Stone/de">Stein</a> oder <a href="/Sandstone/de" title="Sandstone/de">Sandstein</a>.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Large_plains.png" class="image"><img alt="" src="/images/thumb/7/7e/Large_plains.png/350px-Large_plains.png" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/7/7e/Large_plains.png/525px-Large_plains.png 1.5x, /images/thumb/7/7e/Large_plains.png/700px-Large_plains.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Large_plains.png" class="internal" title="Enlarge"></a></div>Flachlandbiom, in der 0.4.13</div></div></div>
+</td></tr>
+<tr>
+<td><b>Laubwald</b><br /><a href="/Trees/de" title="Trees/de">Bäume und Apfelbaum</a>, <a href="/Dirt_with_Grass/de" title="Dirt with Grass/de">Erde mit Gras</a>, <a href="/Dirt/de" title="Dirt/de">Erde</a>, <a href="/Stone/de" title="Stone/de">Stein</a>
+</td>
+<td>v5, v6, v7
+</td>
+<td>Sommergrüne Wälder sind die häufigsten Biome in den Temperaturzonen von Minetest. Bäume und Apfelbäume verbreiten sich hier auf natürliche Weise. Im Allgemeinen können in Wäldern Seen, Tümpel und Flüsse vorkommen. Normalerweise umgeben sommergrüne Wälder Ebenen.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Forest.png" class="image"><img alt="" src="/images/thumb/c/c1/Forest.png/350px-Forest.png" decoding="async" width="350" height="260" class="thumbimage" srcset="/images/thumb/c/c1/Forest.png/525px-Forest.png 1.5x, /images/thumb/c/c1/Forest.png/700px-Forest.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Forest.png" class="internal" title="Enlarge"></a></div>Ein Wald aus normalen Bäumen vor 0.4.7 aber immer noch korrekt für 0.4.7</div></div></div>
+</td></tr>
+<tr>
+<td><b>Nadelwald</b><br /><a href="/Trees/de" title="Trees/de">Kiefern</a>, <a href="/Flower/de" title="Flower/de">Blumen</a>, <a href="/Grass/de" title="Grass/de">Gras</a>, <a href="/Red_Mushroom/de" title="Red Mushroom/de">Fliegenpilz</a>, <a href="/Brown_Mushroom/de" title="Brown Mushroom/de">Brauner Pilz</a>, <a href="/Dirt_with_Grass/de" title="Dirt with Grass/de">Erde mit Gras</a>, <a href="/Dirt/de" title="Dirt/de">Erde</a>, <a href="/Stone/de" title="Stone/de">Stein</a>
+</td>
+<td>v5, v7
+</td>
+<td>Nadelwälder wachsen in kälteren Gegenden und bestehen aus Kiefern. Kieferwälder können in kalten Regionen mit Schnee bedeckt sein.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Pine_forest.jpg" class="image"><img alt="" src="/images/thumb/d/da/Pine_forest.jpg/350px-Pine_forest.jpg" decoding="async" width="350" height="213" class="thumbimage" srcset="/images/thumb/d/da/Pine_forest.jpg/525px-Pine_forest.jpg 1.5x, /images/thumb/d/da/Pine_forest.jpg/700px-Pine_forest.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Pine_forest.jpg" class="internal" title="Enlarge"></a></div>Ein Kiefernwald in 0.4.13.</div></div></div>
+</td></tr>
+<tr>
+<td><b>Wüste</b><br /><a href="/Desert_Stone/de" title="Desert Stone/de">Wüstenstein</a>, <a href="/Desert_Sand/de" title="Desert Sand/de">Wüstensand</a>, <a href="/Cactus/de" title="Cactus/de">Kaktus</a>, <a href="/Dry_Shrub/de" title="Dry Shrub/de">vertrockneter Strauch</a>
+</td>
+<td>v5, v6, v7
+</td>
+<td>Eingeführt in <a rel="nofollow" class="external text" href="http://c55.me/blog/?p=1047">0.4.dev-2012040 dev snapshot</a>, können Wüsten eine große Zahl von <a href="/Desert_Sand/de" title="Desert Sand/de">Wüstensand</a> und <a href="/Desert_Stone/de" title="Desert Stone/de">Wüstenstein</a> enthalten. <a href="/Cactus/de" title="Cactus/de">Kakteen</a> und <a href="/Dry_Shrub/de" title="Dry Shrub/de">vertrocknete Sträucher</a> verbreiten sich hier auf natürliche Weise in Gruppen auf Wüstensand. Unter Wüsten entstehen unterirdische Flüsse und Seen, die über 200 Blöcke tief sein können.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Desert_at_sunset_0.4.7.png" class="image"><img alt="" src="/images/thumb/6/69/Desert_at_sunset_0.4.7.png/350px-Desert_at_sunset_0.4.7.png" decoding="async" width="350" height="213" class="thumbimage" srcset="/images/thumb/6/69/Desert_at_sunset_0.4.7.png/525px-Desert_at_sunset_0.4.7.png 1.5x, /images/thumb/6/69/Desert_at_sunset_0.4.7.png/700px-Desert_at_sunset_0.4.7.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Desert_at_sunset_0.4.7.png" class="internal" title="Enlarge"></a></div>Wüstenbiom wie in 0.4.7</div></div></div>
+</td></tr>
+<tr>
+<td><b>Savanne</b><br /><a href="/Dry_Grass/de" class="mw-redirect" title="Dry Grass/de">trockenes Gras</a>, <a href="/Trees/de" title="Trees/de">Akazie</a>, <a href="/Dirt_with_Dry_Grass/de" class="mw-redirect" title="Dirt with Dry Grass/de">Erde mit vertrocknetem Gras</a>, <a href="/Dirt/de" title="Dirt/de">Erde</a>
+</td>
+<td>v5, v7
+</td>
+<td>Die Savanne ist ein trockenes Land, aber keine Wüste. Sie wird von Akazienbäumen und trockenem Gras besiedelt.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Savannah.jpg" class="image"><img alt="" src="/images/thumb/2/2c/Savannah.jpg/350px-Savannah.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/2/2c/Savannah.jpg/525px-Savannah.jpg 1.5x, /images/thumb/2/2c/Savannah.jpg/700px-Savannah.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Savannah.jpg" class="internal" title="Enlarge"></a></div>Eine Savanne in 0.4.13</div></div></div>
+</td></tr>
+
+<tr>
+<td><b>Dschungel</b><br /><a href="/Jungle_Grass/de" title="Jungle Grass/de">Tropengras</a>, <a href="/Jungle_Tree/de" title="Jungle Tree/de">Tropenbaum</a>, <a href="/Dirt_with_Grass/de" title="Dirt with Grass/de">Erde mit Gras</a>, <a href="/Dirt/de" title="Dirt/de">Erde</a>, <a href="/Stone/de" title="Stone/de">Stein</a>
+</td>
+<td>v5, v6, v7
+</td>
+<td>Dschungel enthält große Bäume, die dick aneinandergepackt wachsen. <a href="/Jungle_Grass/de" title="Jungle Grass/de">Tropengras</a> und <a href="/Jungle_Tree/de" title="Jungle Tree/de">Tropenbäume</a> tragen hier natürlich vorkommendes <a href="/Leaves_and_Jungle_Leaves/de" title="Leaves and Jungle Leaves/de">Tropenlaub</a>. In früheren Versionen des Entwicklungszweigs 0.4 waren Dschungel standardmäßig deaktiviert und mussten durch Hinzufügen von “v6_jungles” zur Variable <code>mg_flags</code> in der <a href="/Minetest.conf/de" title="Minetest.conf/de">minetest.conf</a> aktiviert werden, aber seit 0.4.10 sind Dschungel wieder standardmäßig aktiviert.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Jungle_0.4.7.jpg" class="image"><img alt="" src="/images/thumb/1/16/Jungle_0.4.7.jpg/350px-Jungle_0.4.7.jpg" decoding="async" width="350" height="213" class="thumbimage" srcset="/images/thumb/1/16/Jungle_0.4.7.jpg/525px-Jungle_0.4.7.jpg 1.5x, /images/thumb/1/16/Jungle_0.4.7.jpg/700px-Jungle_0.4.7.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Jungle_0.4.7.jpg" class="internal" title="Enlarge"></a></div>Dschungelbiom wie in 0.4.7</div></div></div>
+</td></tr>
+<tr>
+<td><b>Bergbiom</b><br /><a href="/Trees/de" title="Trees/de">Baum und Apfelbaum</a>, <a href="/Dirt_with_Grass/de" title="Dirt with Grass/de">Erde mit Gras</a>, <a href="/Dirt/de" title="Dirt/de">Erde</a>, <a href="/Stone/de" title="Stone/de">Stein</a>
+</td>
+<td>v6
+</td>
+<td>Gebirge sind am schwersten zu erklimmen. Hier kommen in der Natur Bäume und Apfelbäume vor. Sie können im Bergbiom sehr leicht sterben, falls Sie unvorsichtig sind, wohin sie treten.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Mountain.png" class="image"><img alt="" src="/images/thumb/3/39/Mountain.png/350px-Mountain.png" decoding="async" width="350" height="260" class="thumbimage" srcset="/images/thumb/3/39/Mountain.png/525px-Mountain.png 1.5x, /images/thumb/3/39/Mountain.png/700px-Mountain.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mountain.png" class="internal" title="Enlarge"></a></div>Bergbiom vor 0.4.7</div></div></div>
+</td></tr>
+<tr>
+<td><b>Schneebiom</b><br /><a href="/Snow/de" title="Snow/de">Schnee</a>, <a href="/Snow_Block/de" title="Snow Block/de">Schneeblock</a>, <a href="/Dirt_with_Snow/de" title="Dirt with Snow/de">Erde mit Schnee</a>, <a href="/Dirt/de" title="Dirt/de">Erde</a>, <a href="/Pine_Tree/de" title="Pine Tree/de">Kiefer</a>, <a href="/Dry_Shrub/de" title="Dry Shrub/de">vertrockneter Strauch</a>, <a href="/Stone/de" title="Stone/de">Stein</a>
+</td>
+<td>v5, v6 ,v7
+</td>
+<td>Schneebiome werden von Schnee bedeckt. Sie sind manchmal von Kiefernwäldern besiedelt.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Snow_biome.jpg" class="image"><img alt="" src="/images/thumb/6/65/Snow_biome.jpg/350px-Snow_biome.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/6/65/Snow_biome.jpg/525px-Snow_biome.jpg 1.5x, /images/thumb/6/65/Snow_biome.jpg/700px-Snow_biome.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Snow_biome.jpg" class="internal" title="Enlarge"></a></div>Schneebiom wie in 0.4.13</div></div></div> <div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Snow_pines.jpg" class="image"><img alt="" src="/images/thumb/d/de/Snow_pines.jpg/350px-Snow_pines.jpg" decoding="async" width="350" height="214" class="thumbimage" srcset="/images/thumb/d/de/Snow_pines.jpg/525px-Snow_pines.jpg 1.5x, /images/thumb/d/de/Snow_pines.jpg/700px-Snow_pines.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Snow_pines.jpg" class="internal" title="Enlarge"></a></div>Kiefernbäume in einer verschneiten Region wie in 0.4.13</div></div></div>
+</td></tr>
+<tr>
+<td><b>Gletscher</b><br /> <a href="/Snow_Block/de" title="Snow Block/de">Schneeblock</a>, <a href="/Ice/de" title="Ice/de">Eis</a>
+</td>
+<td>v5, v7
+</td>
+<td>Gletscher werden nur in den kältesten Regionen gebildet und bestehen aus einer großen Menge Eis, die von einer Schicht aus Schneeblöcken bedeckt ist. Gletscherbiome können entweder gebirgsartig wie auf dem Bildschirmfoto oder sehr flach sein. Außerdem können Gletscher große Teile vom Ozeanen begrenzen. Aufgrund der extremen Bedingungen ist hier keine Vegetation zu finden.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Glacier.jpg" class="image"><img alt="" src="/images/thumb/8/8c/Glacier.jpg/350px-Glacier.jpg" decoding="async" width="350" height="213" class="thumbimage" srcset="/images/thumb/8/8c/Glacier.jpg/525px-Glacier.jpg 1.5x, /images/thumb/8/8c/Glacier.jpg/700px-Glacier.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Glacier.jpg" class="internal" title="Enlarge"></a></div>Eine große Gletscherformation, begrenzt durch ein normales Schneebiom wie in 0.4.13.</div></div></div>
+</td></tr>
+<tr>
+<td><b>Kiesbiom</b><br /><a href="/Gravel/de" title="Gravel/de">Kies</a>, <a href="/Stone/de" title="Stone/de">Stein</a>
+</td>
+<td>v6
+</td>
+<td>Sehr selten, insbesondere können große Bereiche von <a href="/Gravel/de" title="Gravel/de">Kies</a> an der Geländeoberfläche auftauchen. Diese Bereiche bestehen aus nichts als Kies.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Gravel_Biome_0.4.7.png" class="image"><img alt="" src="/images/thumb/0/06/Gravel_Biome_0.4.7.png/350px-Gravel_Biome_0.4.7.png" decoding="async" width="350" height="213" class="thumbimage" srcset="/images/thumb/0/06/Gravel_Biome_0.4.7.png/525px-Gravel_Biome_0.4.7.png 1.5x, /images/thumb/0/06/Gravel_Biome_0.4.7.png/700px-Gravel_Biome_0.4.7.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Gravel_Biome_0.4.7.png" class="internal" title="Enlarge"></a></div>Ein Kiesbiom wie in 0.4.7</div></div></div>
+</td></tr></tbody></table>
+<h2><span id="Technische_Biome_(Kartengenerator_v6)"></span><span class="mw-headline" id="Technische_Biome_.28Kartengenerator_v6.29">Technische Biome (Kartengenerator v6)</span></h2>
+<table class="wikitable">
+<tbody><tr>
+<th width="15%">Name und Bestandteile
+</th>
+<th>Beschreibung
+</th>
+<th width="355px">Bilder
+</th></tr>
+<tr>
+<td><b>Ozean</b><br /><a href="/Sand/de" title="Sand/de">Sand</a>, <a href="/Water/de" title="Water/de">Wasser</a>
+</td>
+<td>Ozeane sind ein inoffizielles Biom, das offenbar mit Version <a href="/index.php?title=Version_History&amp;action=edit&amp;redlink=1" class="new" title="Version History (page does not exist)">0.2.20110731_1 Pre-Alpha</a> implementiert wurde. Dieses Biom ist nur ein großes Becken voller Wasser, das bis zu 250 Blöcke tief sein kann. Ozeane könnten auch Seen genannt werden, sie heißen jedoch aufgrund ihrer Größe von manchmal über 200-350 Blöcken Ozeane.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Beach_0.4.7.png" class="image"><img alt="" src="/images/thumb/f/f9/Beach_0.4.7.png/350px-Beach_0.4.7.png" decoding="async" width="350" height="213" class="thumbimage" srcset="/images/thumb/f/f9/Beach_0.4.7.png/525px-Beach_0.4.7.png 1.5x, /images/thumb/f/f9/Beach_0.4.7.png/700px-Beach_0.4.7.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Beach_0.4.7.png" class="internal" title="Enlarge"></a></div>Ein großer Ozean am Strand wie in 0.4.7</div></div></div>
+</td></tr>
+<tr>
+<td><b>Insel</b><br /><a href="/Sand/de" title="Sand/de">Sand</a>, <a href="/Water/de" title="Water/de">Wasser</a>
+</td>
+<td>Nicht als Biom einzuordnen, aber dennoch häufig genug, um als technisches Biom eingeordnet zu werden, können Inseln öfters in Ozeanen auftreten. Diese könnten auch als Unerbiom bezeichnet werden, die das Produkt eines anderen Bioms sind. Inseln wachsen üblicherweise aus den 3-10 Grundblöcken, können jedoch 40-80 Blöcke groß werden.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Island_0.4.7.jpg" class="image"><img alt="" src="/images/thumb/d/de/Island_0.4.7.jpg/350px-Island_0.4.7.jpg" decoding="async" width="350" height="213" class="thumbimage" srcset="/images/thumb/d/de/Island_0.4.7.jpg/525px-Island_0.4.7.jpg 1.5x, /images/thumb/d/de/Island_0.4.7.jpg/700px-Island_0.4.7.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Island_0.4.7.jpg" class="internal" title="Enlarge"></a></div>Eine kleine Insel wie in 0.4.7</div></div></div>
+</td></tr>
+<tr>
+<td><b>Plateau</b><br /><a href="/Dirt/de" title="Dirt/de">Erde</a>, <a href="/index.php?title=Grass_Block/de&amp;action=edit&amp;redlink=1" class="new" title="Grass Block/de (page does not exist)">Grasblock</a>, <a href="/Stone/de" title="Stone/de">Stein</a>
+</td>
+<td>Eine gigantische Struktur die nur in 0.4 vorzukommen scheint. Plateaus umgeben häufig Bergbiome. Plateaus können sich auch um den Grund herum legen und darauf Miniaturbiome erzeugen.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Plateau_0.4.7_alternative.png" class="image"><img alt="" src="/images/thumb/3/3b/Plateau_0.4.7_alternative.png/350px-Plateau_0.4.7_alternative.png" decoding="async" width="350" height="213" class="thumbimage" srcset="/images/thumb/3/3b/Plateau_0.4.7_alternative.png/525px-Plateau_0.4.7_alternative.png 1.5x, /images/thumb/3/3b/Plateau_0.4.7_alternative.png/700px-Plateau_0.4.7_alternative.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Plateau_0.4.7_alternative.png" class="internal" title="Enlarge"></a></div>Ein Plateau wie in 0.4.7</div></div></div>
+</td></tr>
+<tr>
+<td><b>Wasserhöhlen</b><br /><a href="/Stone/de" title="Stone/de">Stein</a>, <a href="/Water/de" title="Water/de">Wasser</a>
+</td>
+<td>Wasserhöhlen sind Höhlen, die nur auf Meereshöhe auftreten und die in einen riesigen Untergrundfluss oder -see münden. Diese Höhlen können tausende Blocks tief führen und es ist sehr leicht, sich darin zu verlaufen.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Water_cave_0.4.7_alternative.png" class="image"><img alt="" src="/images/thumb/9/9a/Water_cave_0.4.7_alternative.png/350px-Water_cave_0.4.7_alternative.png" decoding="async" width="350" height="215" class="thumbimage" srcset="/images/thumb/9/9a/Water_cave_0.4.7_alternative.png/525px-Water_cave_0.4.7_alternative.png 1.5x, /images/thumb/9/9a/Water_cave_0.4.7_alternative.png/700px-Water_cave_0.4.7_alternative.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Water_cave_0.4.7_alternative.png" class="internal" title="Enlarge"></a></div>Eine Wasserhöhle wie in 0.4.7</div></div></div>
+</td></tr>
+<tr>
+<td><b>Lavaseen</b><br /><a href="/Stone/de" title="Stone/de">Stein</a>, <a href="/Lava/de" title="Lava/de">Lava</a>, <a href="/Ores/de" title="Ores/de">Erze</a>
+</td>
+<td>Ziemlich häufig unterhalb -95 Blöcken sind diese Seen mit <a href="/Lava/de" title="Lava/de">Lava</a> geflutete Höhlen. <a href="/Ores/de" title="Ores/de">Erze</a> sind extrem oft um diese Seen herum auffindbar (siehe Bildschirmfoto). Allerdings sind diese Höhlen meist mit nichts verbunden und es ist sehr schwer, sie zu erreichen.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Lava_lake_0.4.7.jpg" class="image"><img alt="" src="/images/thumb/b/be/Lava_lake_0.4.7.jpg/350px-Lava_lake_0.4.7.jpg" decoding="async" width="350" height="213" class="thumbimage" srcset="/images/thumb/b/be/Lava_lake_0.4.7.jpg/525px-Lava_lake_0.4.7.jpg 1.5x, /images/thumb/b/be/Lava_lake_0.4.7.jpg/700px-Lava_lake_0.4.7.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Lava_lake_0.4.7.jpg" class="internal" title="Enlarge"></a></div>Ein Lavasee wie in 0.4.7</div></div></div>
+</td></tr>
+<tr>
+<td><b>Kerker</b><br /><a href="/Cobblestone/de" title="Cobblestone/de">Pflasterstein</a>, <a href="/Mossy_Cobblestone/de" title="Mossy Cobblestone/de">moosbewachsener Pflasterstein</a>, <a href="/Stair/de" title="Stair/de">Treppe</a>
+</td>
+<td>Kerker sind unterirdische Strukturen aus  <a href="/Air/de" title="Air/de">Luft</a>, die aus <a href="/Cobblestone/de" title="Cobblestone/de">Pflastersteinen</a> und <a href="/Mossy_Cobblestone/de" title="Mossy Cobblestone/de">moosbewachsenen Pflastersteinen</a> gebaut sind. Viele Pfade und gepflasterte <a href="/Stair/de" title="Stair/de">Treppen</a> verbinden sich zu einem komplexen System von Räumen. In Version 0.4.7 sind Kerker standardmäßig nicht aktiviert. “dungeons” musste der Variable <code>mg_flags</code> in der <a href="/Minetest.conf/de" title="Minetest.conf/de">minetest.conf</a> hinzugefügt werden, um den <a href="/Map_generator/de" class="mw-redirect" title="Map generator/de">Kartengenerator</a> zu veranlassen, Kerker zu erzeugen.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Dungeon_0.4.7.jpg" class="image"><img alt="" src="/images/thumb/d/d6/Dungeon_0.4.7.jpg/350px-Dungeon_0.4.7.jpg" decoding="async" width="350" height="213" class="thumbimage" srcset="/images/thumb/d/d6/Dungeon_0.4.7.jpg/525px-Dungeon_0.4.7.jpg 1.5x, /images/thumb/d/d6/Dungeon_0.4.7.jpg/700px-Dungeon_0.4.7.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Dungeon_0.4.7.jpg" class="internal" title="Enlarge"></a></div>Kerker wie in 0.4.7</div></div></div>
+</td></tr>
+<tr>
+<td><b>Wüstenkerker</b><br /><a href="/Desert_Stone/de" title="Desert Stone/de">Wüstenstein</a>, <a href="/Sandstone_Brick/de" title="Sandstone Brick/de">Sandsteinziegel</a>
+</td>
+<td>Wüstenkerker sind Kerkern ähnlich, erscheinen aber üblicherweise unter Wüstenbiomen und haben größere Räume und längere Treppen. Sie wurden entweder aus <a href="/Desert_Stone/de" title="Desert Stone/de">Wüstenstein</a> erstellt oder aus <a href="/Sandstone_Brick/de" title="Sandstone Brick/de">Sandsteinziegel</a>.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Desert_dungeon_desert_stone.jpg" class="image"><img alt="" src="/images/thumb/2/2e/Desert_dungeon_desert_stone.jpg/350px-Desert_dungeon_desert_stone.jpg" decoding="async" width="350" height="213" class="thumbimage" srcset="/images/thumb/2/2e/Desert_dungeon_desert_stone.jpg/525px-Desert_dungeon_desert_stone.jpg 1.5x, /images/thumb/2/2e/Desert_dungeon_desert_stone.jpg/700px-Desert_dungeon_desert_stone.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Desert_dungeon_desert_stone.jpg" class="internal" title="Enlarge"></a></div>Wüstenkerker mit Wüstenstein wie in 0.4.13</div></div></div> <div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Desert_dungeon_sandstone.jpg" class="image"><img alt="" src="/images/thumb/8/87/Desert_dungeon_sandstone.jpg/350px-Desert_dungeon_sandstone.jpg" decoding="async" width="350" height="213" class="thumbimage" srcset="/images/thumb/8/87/Desert_dungeon_sandstone.jpg/525px-Desert_dungeon_sandstone.jpg 1.5x, /images/thumb/8/87/Desert_dungeon_sandstone.jpg/700px-Desert_dungeon_sandstone.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Desert_dungeon_sandstone.jpg" class="internal" title="Enlarge"></a></div>Wüstenkerker mit Sandsteinziegel wie in 0.4.13</div></div></div>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Chronik">Chronik</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/File:Putkiksia.png" class="image"><img alt="" src="/images/thumb/9/9c/Putkiksia.png/200px-Putkiksia.png" decoding="async" width="200" height="150" class="thumbimage" srcset="/images/thumb/9/9c/Putkiksia.png/300px-Putkiksia.png 1.5x, /images/thumb/9/9c/Putkiksia.png/400px-Putkiksia.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Putkiksia.png" class="internal" title="Enlarge"></a></div>Das erste Biom, das "Chaos"-Biom</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/File:Mapgen_updated.png" class="image"><img alt="" src="/images/thumb/0/0c/Mapgen_updated.png/300px-Mapgen_updated.png" decoding="async" width="300" height="225" class="thumbimage" srcset="/images/thumb/0/0c/Mapgen_updated.png/450px-Mapgen_updated.png 1.5x, /images/thumb/0/0c/Mapgen_updated.png/600px-Mapgen_updated.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mapgen_updated.png" class="internal" title="Enlarge"></a></div>Ein undefinierbares Biom (0.0.1)</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/File:Plains.png" class="image"><img alt="" src="/images/thumb/5/52/Plains.png/300px-Plains.png" decoding="async" width="300" height="223" class="thumbimage" srcset="/images/thumb/5/52/Plains.png/450px-Plains.png 1.5x, /images/thumb/5/52/Plains.png/600px-Plains.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Plains.png" class="internal" title="Enlarge"></a></div>Ebenes Biom vor 0.4.3</div></div></div>
+<p>Bevor Minetest Versionsnummern hatte, waren Biome undefinierbar und bestanden aus vier Materialien: Gras, Stein, Licht und "Wasser" (wie unten zu sehen). Als 0.0.1 herauskam, brachte es echte Biome mit, aber vor <a href="/index.php?title=Version_History&amp;action=edit&amp;redlink=1" class="new" title="Version History (page does not exist)">0.2.20110529 Pre-Alpha</a> war die Erzeugung von Karten eine ziemliche Unordnung. Biome gingen kreuz und quer ineinander über und waren im Allgemeinen undefinierbar. Bisher hat 0.4 Dev die stabilste Biomerzeugung.
+</p><p>Weitere Einzelheiten über die Weiterentwicklung des Kartengenerators finden Sie auf der Seite <a href="/index.php?title=Map_Generator_Evolution/de&amp;action=edit&amp;redlink=1" class="new" title="Map Generator Evolution/de (page does not exist)">Kartengenerator</a>
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20230709000522
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.384 seconds
+Real time usage: 0.605 seconds
+Preprocessor visited node count: 180/1000000
+Post‐expand include size: 1890/2097152 bytes
+Template argument size: 419/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 13/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.120/7 seconds
+Lua virtual size: 5.54 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  290.275      1 Template:Languages
+100.00%  290.275      1 -total
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:1765-0!canonical and timestamp 20230709000521 and revision id 25573
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Biomes/de&amp;oldid=25573">http://wiki.minetest.net/index.php?title=Biomes/de&amp;oldid=25573</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Karte" title="Category:Karte">Karte</a></li><li><a href="/Category:Deutsch" title="Category:Deutsch">Deutsch</a></li><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Biomes%2Fde" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Biomes/de" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Biomes/de&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Biomes/de">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Biomes/de&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Biomes/de&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Biomes/de" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Biomes/de" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Biomes/de&amp;oldid=25573" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Biomes/de&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 9 April 2021, at 22:54.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.384","walltime":"0.605","ppvisitednodes":{"value":180,"limit":1000000},"postexpandincludesize":{"value":1890,"limit":2097152},"templateargumentsize":{"value":419,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":13,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  290.275      1 Template:Languages","100.00%  290.275      1 -total"]},"scribunto":{"limitreport-timeusage":{"value":"0.120","limit":"7"},"limitreport-virtmemusage":{"value":5808128,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709000522","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":287});});</script></body></html>

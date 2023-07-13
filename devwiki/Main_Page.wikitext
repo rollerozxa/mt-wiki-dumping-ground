@@ -1,0 +1,13 @@
+{{Languages}}
+
+Welcome to the '''Minetest Developer Wiki''', here you learn how Minetest and games and mods for Minetest are developed.
+
+'''Minetest''' is a [https://en.wikipedia.org/wiki/Game_engine game engine] inspired by Minecraft, Infiniminer and others. It's licensed under the GNU LGPL 2.1, with artwork generally covered by CC BY-SA 3.0. There are two major parts to the system, the first being a [[Engine structure|core engine]] written in C++, the second being a modding API that exposes useful functions to a Lua environment.
+
+The Minetest Wiki for players is located at [https://wiki.minetest.net/ wiki.minetest.net].
+
+{{Contributor Call to Action}}
+
+{{Main Content Links}}
+
+[[Category:Root-Category]]

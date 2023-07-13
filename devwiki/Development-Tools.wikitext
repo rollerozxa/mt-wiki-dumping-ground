@@ -1,0 +1,32 @@
+__NOTOC__
+This article lists various free software tools which help in development of Minetest and mods for Minetest.
+
+== Minetest development ==
+* [https://wiki.minetest.net/Games/Development_Test Development Test]: A testing game for testing various engine features
+* [https://github.com/minetest/minetest/tree/master/util /minetest/util]: Various maintenance utilities
+
+== Mod development ==
+=== Standalone software ===
+* [https://forum.minetest.net/viewtopic.php?f=14&t=2840 NodeBoxEditor]: Build [[Node boxes|node boxes]] by dragging their edges.
+* [https://forum.minetest.net/viewtopic.php?f=14&t=23724 MTS Editor]: A program to create, view and edit Minetest schematics, but it supports other file formats (e.g. Minecraft schematics) as well
+* [https://forum.minetest.net/viewtopic.php?f=14&t=18992 Schematic Creator]: A Java program to create schematics
+* [https://forum.minetest.net/viewtopic.php?f=14&t=18780& Model Creator]: A Java program to create meshes
+* [https://forum.minetest.net/viewtopic.php?t=23891 RocketLib Toolkit]: Lua-based SQLite3 map reader
+* [https://github.com/mpeterv/luacheck/ luacheck]: Lua linter and static code analyser (see also [https://rubenwardy.com/minetest_modding_book/en/quality/luacheck.html the chapter rubenwardy's modding book])
+* [https://olivinelabs.com/busted/ busted]: Lua unit testing framework (see also [https://rubenwardy.com/minetest_modding_book/en/quality/unit_testing.html the chapter rubenwardy's modding book])
+
+=== Minetest games and mods ===
+See the [https://content.minetest.net/packages/?tag=developer_tools Developer Tools] tag in ContentDB.
+
+== Scripts ==
+==== Formspecs ====
+* [https://luk3yx.gitlab.io/minetest-formspec-editor/ Minetest Formspec Editor]: A great online tool with drag and drop that allows you to import and export formspecs in different versions
+* [https://codepen.io/treer/pen/gOPZyov?editors=0010 Perlin noise tuner] Visualizes 2D Perlin noise that Minetest will generate with different noiseparams. (Emulation of Minetest Perlin noise can be wrong in extremes/edge-cases due to precision of JavaScript number type)
+
+==== Translation ====
+* [https://github.com/FaceDeer/update_translations update_translations]: Python script to create and update mod translation files (*.tr)
+* [https://codeberg.org/Wuzzy/minetest_check_translations minetest_check_translations]: Python script to check mod translation files for syntax errors
+* [https://notabug.org/pgimeno/minetest/src/translation-toolchain/util/findtext.lua findtext.lua]: Create mod translation template (buggy!) ([https://forum.minetest.net/viewtopic.php?f=47&t=23330 see also])
+* [https://notabug.org/pgimeno/minetest/src/translation-toolchain/util/updatetext.lua updatetext.lua]: Update mod translation template (buggy!) ([https://forum.minetest.net/viewtopic.php?f=47&t=23330 see also])
+
+[[Category:Misc]]

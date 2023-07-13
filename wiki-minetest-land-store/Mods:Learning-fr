@@ -1,0 +1,1026 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Mods:Learning/fr - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"55a7052ebfb83c807a5f5860","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Mods:Learning/fr","wgTitle":"Mods:Learning/fr","wgCurRevisionId":25072,"wgRevisionId":25072,"wgArticleId":4801,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages","French"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Mods:Learning/fr","wgRelevantArticleId":4801,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":
+"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Mods_Learning_fr rootpage-Mods_Learning skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Mods:Learning/fr</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> Langue&#160;:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><a href="/index.php?title=Mods:Learning&amp;action=edit&amp;redlink=1" class="new" title="Mods:Learning (page does not exist)">English</a><b>&#160;• <bdi lang="fr"><a class="mw-selflink selflink">français</a></bdi></b>&#160;• <bdi lang="ms"><a href="/Mods:Learning/ms" title="Mods:Learning/ms">Bahasa Melayu</a></bdi></td>
+</tr></tbody></table>
+<p>Cette page vise à lister l'ensemble des mods Minetest d'intérêt pédagogique et aux projets pédagogiques les utilisant.  Voir également <a rel="nofollow" class="external text" href="http://dev.minetest.net/Intro">le wiki dévelopeur</a> pour une liste de ressources pour apprendre le «&#160;modding&#160;» (c'est à dire la création de mods).
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Aide_dans_le_jeu"><span class="tocnumber">1</span> <span class="toctext">Aide dans le jeu</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Listes_des_mods_class.C3.A9s_par_disciplines_enseign.C3.A9es"><span class="tocnumber">2</span> <span class="toctext">Listes des mods classés par disciplines enseignées</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Travail_de_la_langue"><span class="tocnumber">2.1</span> <span class="toctext">Travail de la langue</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Math.C3.A9matiques"><span class="tocnumber">2.2</span> <span class="toctext">Mathématiques</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Histoire_-_Education_civique"><span class="tocnumber">2.3</span> <span class="toctext">Histoire - Education civique</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#G.C3.A9ographie"><span class="tocnumber">2.4</span> <span class="toctext">Géographie</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Biologie.2C_G.C3.A9ologie.2C_pal.C3.A9ontologie.2C_arch.C3.A9ologie.2C_climatologie.2C_sciences_physiques"><span class="tocnumber">2.5</span> <span class="toctext">Biologie, Géologie, paléontologie, archéologie, climatologie, sciences physiques</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Architecture"><span class="tocnumber">2.6</span> <span class="toctext">Architecture</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Economie"><span class="tocnumber">2.7</span> <span class="toctext">Economie</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Technologies"><span class="tocnumber">2.8</span> <span class="toctext">Technologies</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Programmation"><span class="tocnumber">2.9</span> <span class="toctext">Programmation</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Gestion_des_classes_et_groupes_par_l.27enseignants"><span class="tocnumber">2.10</span> <span class="toctext">Gestion des classes et groupes par l'enseignants</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#Utilisations_de_mods_complexes"><span class="tocnumber">3</span> <span class="toctext">Utilisations de mods complexes</span></a>
+<ul>
+<li class="toclevel-2 tocsection-14"><a href="#Utilisation_du_mod_Mesecons"><span class="tocnumber">3.1</span> <span class="toctext">Utilisation du mod Mesecons</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Cr.C3.A9ation_de_mondes_r.C3.A9alistes"><span class="tocnumber">3.2</span> <span class="toctext">Création de mondes réalistes</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Exportation_de_ressource_3D_cr.C3.A9es_dans_le_jeu_dans_d.27autres_formats"><span class="tocnumber">3.3</span> <span class="toctext">Exportation de ressource 3D crées dans le jeu dans d'autres formats</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Divers"><span class="tocnumber">3.4</span> <span class="toctext">Divers</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-18"><a href="#Ressources_p.C3.A9dagogiques"><span class="tocnumber">4</span> <span class="toctext">Ressources pédagogiques</span></a>
+<ul>
+<li class="toclevel-2 tocsection-19"><a href="#Projets_p.C3.A9dagogiques_et_articles_institutionnels_.C3.A0_conna.C3.AEtre"><span class="tocnumber">4.1</span> <span class="toctext">Projets pédagogiques et articles institutionnels à connaître</span></a>
+<ul>
+<li class="toclevel-3 tocsection-20"><a href="#Les_fondamentaux_pour_mieux_comprendre"><span class="tocnumber">4.1.1</span> <span class="toctext">Les fondamentaux pour mieux comprendre</span></a></li>
+<li class="toclevel-3 tocsection-21"><a href="#Liste_des_principales_communaut.C3.A9s_d.E2.80.99.C3.A9changes_pour_enseignants"><span class="tocnumber">4.1.2</span> <span class="toctext">Liste des principales communautés d’échanges pour enseignants</span></a></li>
+<li class="toclevel-3 tocsection-22"><a href="#Liste_des_principaux_projets_et_retours_d.27exp.C3.A9rience_p.C3.A9dagogiques"><span class="tocnumber">4.1.3</span> <span class="toctext">Liste des principaux projets et retours d'expérience pédagogiques</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-23"><a href="#Postes_du_Forum_et_autres_liens_.C3.A0_conna.C3.AEtre"><span class="tocnumber">4.2</span> <span class="toctext">Postes du Forum et autres liens à connaître</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Aide_dans_le_jeu">Aide dans le jeu</span></h2>
+<p>Certains mods permettent de générer des aides ou tutoriels aux joueurs entrant dans le monde que vous avez généré.
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Tableau listant les mods généraux d'aide à l'entrée dans le jeu
+</th></tr>
+<tr>
+<td><b>Nom du mod</b></td>
+<td><b>Discipline(s)</b></td>
+<td><b>Explications</b></td>
+<td><b>Liens vers les ressources</b>
+</td></tr>
+<tr>
+<td><a href="/Games/Tutorial" title="Games/Tutorial">Jeu/Tutoriel</a> par Wuzzy</td>
+<td>Aide</td>
+<td>Il s'agit d'un monde de la taille d'un château, avec un parcours en points d'étapes. Chaque point d'étape explique un aspect du minetest et offre des possibilités d'exercice. Pour apprendre à avancer / escalader / monter aux échelles / sauter / nager / plonger, etc.</td>
+<td><a rel="nofollow" class="external free" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=10192">https://forum.minetest.net/viewtopic.php?f=9&amp;t=10192</a>
+</td></tr>
+<tr>
+<td>Crafting Guide</td>
+<td>Aide au crafting</td>
+<td>Le guide d'artisanat le plus complet pour Minetest.</td>
+<td><a rel="nofollow" class="external free" href="https://github.com/minetest-mods/craftguide">https://github.com/minetest-mods/craftguide</a>
+</td></tr></tbody></table>
+<p>Dans le suite de cette page, nous avons choisi de classer les mods par thèmes disciplinaires, mais rien n'est figé&#160;!
+</p>
+<h1><span id="Listes_des_mods_classés_par_disciplines_enseignées"></span><span class="mw-headline" id="Listes_des_mods_class.C3.A9s_par_disciplines_enseign.C3.A9es">Listes des mods classés par disciplines enseignées</span></h1>
+<h2><span class="mw-headline" id="Travail_de_la_langue">Travail de la langue</span></h2>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Liste des mods permettant le travail de la langue à différents niveaux
+</th></tr>
+<tr>
+<td><b>Nom du mod</b></td>
+<td><b>Discipline(s)</b></td>
+<td><b>Explications</b></td>
+<td><b>Liens vers les ressources</b>
+</td></tr>
+<tr>
+<td>Alphabet, par cactuz_pl</td>
+<td>Apprentissage de la langue</td>
+<td>Ce mod simple ajoute des blocs avec des lettres (A-Z, a-z) des chiffres et des symboles.</td>
+<td><a rel="nofollow" class="external free" href="https://content.minetest.net/packages/cactuz_pl/alphabet/">https://content.minetest.net/packages/cactuz_pl/alphabet/</a>
+</td></tr>
+<tr>
+<td>Letters, par Amaz1</td>
+<td>Apprentissage de la langue</td>
+<td>Ajout de blocs comportant des lettres</td>
+<td><a rel="nofollow" class="external free" href="https://github.com/minetest-mods/letters">https://github.com/minetest-mods/letters</a>
+</td></tr>
+<tr>
+<td>Phonics, par Neuromancer</td>
+<td>Apprentissage de la langue</td>
+<td>Le but de ce mod est d'apprendre aux gens à lire.</td>
+<td><a rel="nofollow" class="external free" href="https://forum.minetest.net/viewtopic.php?id=4237">https://forum.minetest.net/viewtopic.php?id=4237</a>
+</td></tr>
+<tr>
+<td>Scrabble, par dvere</td>
+<td>Apprentissage de la langue</td>
+<td>Tuiles de lettres simples pour minetest.</td>
+<td><a rel="nofollow" class="external free" href="https://github.com/dvere/scrabble">https://github.com/dvere/scrabble</a>
+</td></tr>
+<tr>
+<td>Glowing letters, par webdesigner97</td>
+<td>Apprentissage de la langue</td>
+<td>Avec ce mod, vous pouvez facilement écrire les noms des magasins, des villes, etc.!</td>
+<td><a rel="nofollow" class="external free" href="https://forum.minetest.net/viewtopic.php?id=3260">https://forum.minetest.net/viewtopic.php?id=3260</a>
+</td></tr>
+<tr>
+<td>abjphabet, par ABJ</td>
+<td>Apprentissage de la langue</td>
+<td>Ajout de blocs comportant des lettres</td>
+<td><a rel="nofollow" class="external free" href="https://forum.minetest.net/viewtopic.php?f=11&amp;t=11744">https://forum.minetest.net/viewtopic.php?f=11&amp;t=11744</a>
+</td></tr>
+<tr>
+<td>Cube Nodes, par Andrey01</td>
+<td>Apprentissage de la langue</td>
+<td>Ce mod ajoute des nœuds de cube (certains blocs) qui utilisent pour le numéro attribué quelque chose ou pour l'écriture.</td>
+<td><a rel="nofollow" class="external free" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=16552">https://forum.minetest.net/viewtopic.php?f=9&amp;t=16552</a>
+</td></tr></tbody></table>
+<h2><span id="Mathématiques"></span><span class="mw-headline" id="Math.C3.A9matiques">Mathématiques</span></h2>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Liste des mods permettant le travail des mathématiques à différents niveaux
+</th></tr>
+<tr>
+<td><b>Nom du mod</b></td>
+<td><b>Discipline(s)</b></td>
+<td><b>Explications</b></td>
+<td><b>Liens vers les ressources</b>
+</td></tr>
+<tr>
+<td>Simple Dice, par farfadet46</td>
+<td>Mathématiques</td>
+<td>Dés simples pour les petits jeux;) vous pouvez changer la valeur maximale avec des commandes comme celle-ci: / dice_max 6 pour obtenir un nombre de 1 à 6, le maximum par défaut est 10 (en raison du nombre de textures)</td>
+<td><a rel="nofollow" class="external free" href="https://github.com/farfadet46/minetest-dice">https://github.com/farfadet46/minetest-dice</a>
+</td></tr>
+<tr>
+<td>MathPlot, par kyleclaassen</td>
+<td>Mathématiques</td>
+<td>Un outil pour construire des courbes / surfaces / solides mathématiques.</td>
+<td><a rel="nofollow" class="external free" href="https://github.com/kyleclaassen/minetest_mathplot">https://github.com/kyleclaassen/minetest_mathplot</a>
+</td></tr>
+<tr>
+<td>turtle graphics, par jin_xi</td>
+<td>Mathématiques</td>
+<td>ce mod ajoute des graphiques de tortue au minetest. il vous permet de générer des structures générées à l'aide de luavoxemanipulators.</td>
+<td><a rel="nofollow" class="external free" href="https://forum.minetest.net/viewtopic.php?id=6997">https://forum.minetest.net/viewtopic.php?id=6997</a>
+</td></tr>
+<tr>
+<td>Teaching Mathematics</td>
+<td>Mathématiques</td>
+<td>Ajoute des nœuds pour créer une expression mathématique, puis un nœud de vérification de solution qui peut générer une récompense</td>
+<td><a rel="nofollow" class="external free" href="https://github.com/sfan5/minetest-teaching">https://github.com/sfan5/minetest-teaching</a>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Histoire_-_Education_civique">Histoire - Education civique</span></h2>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Liste des mods permettant le travail de l'Histoire et de l'Education civique à différents niveaux
+</th></tr>
+<tr>
+<td><b>Nom du mod</b></td>
+<td><b>Discipline(s)</b></td>
+<td><b>Explications</b></td>
+<td><b>Liens vers les ressources</b>
+</td></tr>
+<tr>
+<td>Vote</td>
+<td>Histoire, Education Civique, société</td>
+<td>Une API pour permettre aux joueurs de voter sur des choses.</td>
+<td><a rel="nofollow" class="external free" href="https://forum.minetest.net/viewtopic.php?t=12829">https://forum.minetest.net/viewtopic.php?t=12829</a>
+</td></tr>
+<tr>
+<td>Vote Day</td>
+<td>Histoire, Education Civique, société</td>
+<td>Cela ajoute une commande pour voter pour faire le jour!</td>
+<td><a rel="nofollow" class="external free" href="https://github.com/Niwla23/vote_day/">https://github.com/Niwla23/vote_day/</a>
+</td></tr>
+<tr>
+<td>Castles++</td>
+<td>Histoire, Architecture</td>
+<td>Ceci est un modpack tout sur la création de châteaux et de donjons de château.</td>
+<td><a rel="nofollow" class="external free" href="https://github.com/minetest-mods/castle">https://github.com/minetest-mods/castle</a>
+</td></tr>
+<tr>
+<td>PaleoTest, par ElCeejoYT</td>
+<td>Biologie, Histoire, Paleologie</td>
+<td>Ajoute des dinosaures et d'autres faunes préhistoriques.</td>
+<td><a rel="nofollow" class="external free" href="https://github.com/ElCeejoYT/paleotest">https://github.com/ElCeejoYT/paleotest</a>
+</td></tr>
+<tr>
+<td>Time Travel, par Red_King_Cyclops</td>
+<td>Biologie, Histoire, Paleologie</td>
+<td>Ajoute une machine à voyager dans le temps pouvant être utilisée pour voyager dans le temps à différentes périodes de l'histoire de la Terre.</td>
+<td><a rel="nofollow" class="external free" href="https://git.minetest.land/Red_King_Cyclops/time_travel">https://git.minetest.land/Red_King_Cyclops/time_travel</a>
+</td></tr>
+<tr>
+<td>Reconstruct your version of some Roman Baths</td>
+<td>Carte du monde, histoire</td>
+<td>Cette carte comprend une reconstruction des thermes romains (thermes) basée sur ceux qui ont été fouillés à Heerlen (Coriovallum) dans le sud des Pays-Bas.</td>
+<td><a rel="nofollow" class="external free" href="https://forum.minetest.net/viewtopic.php?f=12&amp;t=12680">https://forum.minetest.net/viewtopic.php?f=12&amp;t=12680</a>
+</td></tr></tbody></table>
+<h2><span id="Géographie"></span><span class="mw-headline" id="G.C3.A9ographie">Géographie</span></h2>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Liste des mods permettant le travail de la géographie à différents niveaux
+</th></tr>
+<tr>
+<td><b>Nom du mod</b></td>
+<td><b>Discipline(s)</b></td>
+<td><b>Explications</b></td>
+<td><b>Liens vers les ressources</b>
+</td></tr>
+<tr>
+<td>Experiemental Villages Mapgen</td>
+<td>géographie, cartographie</td>
+<td>Modifie la façon dont les minerais sont placés, ajoute de nouveaux biomes et villages.</td>
+<td><a rel="nofollow" class="external free" href="https://github.com/minetest-mods/mg">https://github.com/minetest-mods/mg</a>
+</td></tr>
+<tr>
+<td>Maptools, par Calinou</td>
+<td>géographie, cartographie</td>
+<td>Ajoute diverses versions spéciales de blocs normaux, d'outils et d'autres outils de maintenance de carte.</td>
+<td><a rel="nofollow" class="external free" href="https://github.com/calinou/maptools">https://github.com/calinou/maptools</a>
+</td></tr>
+<tr>
+<td>Orienteering</td>
+<td>géographie, cartographie</td>
+<td>Une collection d'outils pour vous aider à vous orienter dans le monde, comme une boussole, un altimètre, etc.</td>
+<td><a rel="nofollow" class="external free" href="http://repo.or.cz/minetest_orienteering.git">http://repo.or.cz/minetest_orienteering.git</a>
+</td></tr>
+<tr>
+<td>Display Modpack, par pyrollo</td>
+<td>géographie, cartographie</td>
+<td>Display modpack fournit des mods avec affichage dynamique (signes, horloges, stèles) et api pour gérer la police et l'affichage</td>
+<td><a rel="nofollow" class="external free" href="https://github.com/pyrollo/display_modpack">https://github.com/pyrollo/display_modpack</a>
+</td></tr>
+<tr>
+<td>Static compass, par Sokomine</td>
+<td>géographie, cartographie</td>
+<td>Bloc de boussole qui peut être placé et vous indique où se trouve le nord.</td>
+<td><a rel="nofollow" class="external free" href="https://github.com/Sokomine/compass">https://github.com/Sokomine/compass</a>
+</td></tr>
+<tr>
+<td>Real Terrain</td>
+<td>géographie, cartographie</td>
+<td>Utilisez une image comme carte de hauteur, utilisez une autre image comme carte de biome, modifiez les paramètres de la carte et même les biomes dans le jeu, superposez les couches de rivière et de route, effectuez une analyse raster.</td>
+<td><a rel="nofollow" class="external free" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=12666">https://forum.minetest.net/viewtopic.php?f=9&amp;t=12666</a>
+</td></tr>
+<tr>
+<td>Image Loader</td>
+<td>géographie, cartographie</td>
+<td>Ce mod permet de charger des fichiers d'images depuis Lua, permettant à d'autres mods de manipuler les images.</td>
+<td><a rel="nofollow" class="external free" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=6751">https://forum.minetest.net/viewtopic.php?f=9&amp;t=6751</a>
+</td></tr>
+<tr>
+<td>Build semi-auto or BMP/3d Mesh import</td>
+<td>géographie, cartographie</td>
+<td>Ceci est un mod qui a commencé avec l'objectif de construire un mur, mais qui est allé beaucoup plus, comme son nom l'indique.</td>
+<td><a rel="nofollow" class="external free" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=11565">https://forum.minetest.net/viewtopic.php?f=9&amp;t=11565</a>
+</td></tr>
+<tr>
+<td>Reconstruct your version of some Roman Baths</td>
+<td>géographie, cartographie</td>
+<td>Cette carte comprend une reconstruction des thermes romains (thermes) basée sur ceux qui ont été fouillés à Heerlen (Coriovallum) dans le sud des Pays-Bas.</td>
+<td><a rel="nofollow" class="external free" href="https://forum.minetest.net/viewtopic.php?f=12&amp;t=12680">https://forum.minetest.net/viewtopic.php?f=12&amp;t=12680</a>
+</td></tr>
+<tr>
+<td>BlockExport</td>
+<td>géographie, cartographie, export</td>
+<td>Ce mod définit une nouvelle commande de discussion "/ exportblock" qui écrit les données de noeud 3D du bloc de noeud 80x80x80 actuel du joueur dans un fichier.</td>
+<td><a rel="nofollow" class="external free" href="https://wiki.minetest.net/Mods/BlockExport">https://wiki.minetest.net/Mods/BlockExport</a>
+</td></tr></tbody></table>
+<h2><span id="Biologie,_Géologie,_paléontologie,_archéologie,_climatologie,_sciences_physiques"></span><span class="mw-headline" id="Biologie.2C_G.C3.A9ologie.2C_pal.C3.A9ontologie.2C_arch.C3.A9ologie.2C_climatologie.2C_sciences_physiques">Biologie, Géologie, paléontologie, archéologie, climatologie, sciences physiques</span></h2>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Liste des mods permettant le travail de la biologie, géologie, paléontologie, climatologie, agriculture... à différents niveaux
+</th></tr>
+<tr>
+<td><b>Nom du mod</b></td>
+<td><b>Discipline(s)</b></td>
+<td><b>Explications</b></td>
+<td><b>Liens vers les ressources</b>
+</td></tr>
+<tr>
+<td>Plantlife, par VanessaE</td>
+<td>Biologie, modélisation</td>
+<td>Plantlife est une forme combinée de mes mods Flowers and Poison Ivy et une version étendue de l'ancien mod Bushes, maintenant appelé bushes_classic.</td>
+<td><a rel="nofollow" class="external free" href="https://gitlab.com/VanessaE/plantlife_modpack">https://gitlab.com/VanessaE/plantlife_modpack</a>
+</td></tr>
+<tr>
+<td>Farming Redo, par tenplus1</td>
+<td>Biologie, agriculture</td>
+<td>Farming Redo est une version simplifiée du mod d'agriculture intégré dans le minetest et est livré avec du blé, du coton, de la carotte, du concombre, de la pomme de terre et de la tomate pour commencer avec le frai sur toute la carte ... de nouveaux aliments ne doivent être plantés que sur un sol labouré donc aucune graine n'est requise, le blé et le coton d'origine nécessiteront des graines qui se trouvent à l'intérieur de l'herbe normale et de la jungle ...</td>
+<td><a rel="nofollow" class="external free" href="https://notabug.org/tenplus1/farming">https://notabug.org/tenplus1/farming</a>
+</td></tr>
+<tr>
+<td>More Trees!, par VanessaE</td>
+<td>Biologie</td>
+<td>Ajoute tout un tas de nouveaux types d'arbres, certains portant des fruits ou similaires, en utilisant biome_lib pour le moteur de placement.</td>
+<td><a rel="nofollow" class="external free" href="https://gitlab.com/VanessaE/moretrees">https://gitlab.com/VanessaE/moretrees</a>
+</td></tr>
+<tr>
+<td>Ethereal NG, par tenplus1</td>
+<td>Biologie</td>
+<td>Le mod Ethereal utilise le mapgen v7 pour ajouter de nombreux nouveaux biomes au monde.</td>
+<td><a rel="nofollow" class="external free" href="https://notabug.org/tenplus1/ethereal">https://notabug.org/tenplus1/ethereal</a>
+</td></tr>
+<tr>
+<td>Farming_NG, par berengma</td>
+<td>Biologie, agriculture</td>
+<td>Un semoir et une machine de récolte pour cultiver facilement de plus grands champs</td>
+<td><a rel="nofollow" class="external free" href="https://github.com/berengma/farming_nextgen">https://github.com/berengma/farming_nextgen</a>
+</td></tr>
+<tr>
+<td>Ocean, par starninjas</td>
+<td>Biologie</td>
+<td>Ajoute des récifs coralliens, des poissons, des blocs océaniques décoratifs et bien plus encore!</td>
+<td><a rel="nofollow" class="external free" href="https://github.com/starninjas/xocean">https://github.com/starninjas/xocean</a>
+</td></tr>
+<tr>
+<td>Flowerpot</td>
+<td>Biologie, agriculture</td>
+<td>Un pot de fleurs élégant qui peut contenir la plupart des plantes.</td>
+<td><a rel="nofollow" class="external free" href="https://github.com/minetest-mods/flowerpot">https://github.com/minetest-mods/flowerpot</a>
+</td></tr>
+<tr>
+<td>Wildlife, par TheTermos</td>
+<td>Biologie, écologie, environnement</td>
+<td>Ajoute des animaux sauvages qui interagissent les uns avec les autres.</td>
+<td><a rel="nofollow" class="external free" href="https://github.com/TheTermos/wildlife">https://github.com/TheTermos/wildlife</a>
+</td></tr>
+<tr>
+<td>PaleoTest, par ElCeejoYT</td>
+<td>Biologie, Histoire, Paleologie</td>
+<td>Ajoute des dinosaures et d'autres faunes préhistoriques.</td>
+<td><a rel="nofollow" class="external free" href="https://github.com/ElCeejoYT/paleotest">https://github.com/ElCeejoYT/paleotest</a>
+</td></tr>
+<tr>
+<td>Time Travel, par Red_King_Cyclops</td>
+<td>Biologie, Histoire, Paleologie</td>
+<td>Ajoute une machine à voyager dans le temps pouvant être utilisée pour voyager dans le temps à différentes périodes de l'histoire de la Terre.</td>
+<td><a rel="nofollow" class="external free" href="https://git.minetest.land/Red_King_Cyclops/time_travel">https://git.minetest.land/Red_King_Cyclops/time_travel</a>
+</td></tr>
+<tr>
+<td>Caverealms, par HeroOfTheWinds</td>
+<td>Géologie</td>
+<td>Un mod pour Minetest pour ajouter des royaumes souterrains.</td>
+<td><a rel="nofollow" class="external free" href="https://github.com/HeroOfTheWinds/minetest-caverealms">https://github.com/HeroOfTheWinds/minetest-caverealms</a>
+</td></tr>
+<tr>
+<td>Valleys Mapgen</td>
+<td>Géologie</td>
+<td>Un générateur de cartes avec des vallées, des rivières, des montagnes et de nombreuses plantes.</td>
+<td><a rel="nofollow" class="external free" href="https://github.com/Gael-de-Sailly/valleys_mapgen">https://github.com/Gael-de-Sailly/valleys_mapgen</a>
+</td></tr>
+<tr>
+<td>Pedology</td>
+<td>Géologie, pédologie</td>
+<td>Ajoute différents blocs de masse à plusieurs niveaux d'humidité; l'humidité coule lentement vers le bas.</td>
+<td><a rel="nofollow" class="external free" href="http://repo.or.cz/minetest_pedology.git">http://repo.or.cz/minetest_pedology.git</a>
+</td></tr>
+<tr>
+<td>Sedimentology</td>
+<td>Géologie, sédimentologie, modélisation</td>
+<td>Un mod qui ajoute une érosion et une dégradation réalistes des roches</td>
+<td><a rel="nofollow" class="external free" href="https://github.com/minetest-mods/sedimentology">https://github.com/minetest-mods/sedimentology</a>
+</td></tr>
+<tr>
+<td>Waterfalls, par Termos</td>
+<td>Géologie, érosion</td>
+<td>Ajoute l'érosion hydrique, donc l'eau qui coule forme des cascades d'aspect un peu plus réaliste.</td>
+<td><a rel="nofollow" class="external free" href="https://content.minetest.net/packages/Termos/waterfalls/">https://content.minetest.net/packages/Termos/waterfalls/</a>
+</td></tr>
+<tr>
+<td>Radiant Damage, par FaceDeer</td>
+<td>Sciences physiques</td>
+<td>Un mod qui permet aux nœuds d'endommager les joueurs à distance</td>
+<td><a rel="nofollow" class="external free" href="https://github.com/FaceDeer/radiant_damage">https://github.com/FaceDeer/radiant_damage</a>
+</td></tr>
+<tr>
+<td>Snowdrift, par paramat</td>
+<td>Climat, météorologie</td>
+<td>Mod météo léger avec neige, pluie et nuages.</td>
+<td><a rel="nofollow" class="external free" href="https://github.com/paramat/snowdrift">https://github.com/paramat/snowdrift</a>
+</td></tr>
+<tr>
+<td>Weather, par theFox6</td>
+<td>Climat, météorologie</td>
+<td>Un mod météo complet pour Minetest.</td>
+<td><a rel="nofollow" class="external free" href="https://github.com/theFox6/minetest_mod_weather">https://github.com/theFox6/minetest_mod_weather</a>
+</td></tr>
+<tr>
+<td>After Earth, par AiTechEye</td>
+<td>Biologie, paléontologie, crise</td>
+<td>L'écosystème terrestre s'est effondré et il ne reste plus aucun environnement biologique.</td>
+<td><a rel="nofollow" class="external free" href="https://github.com/AiTechEye/afterearth">https://github.com/AiTechEye/afterearth</a>
+</td></tr>
+<tr>
+<td>Swamps, par HybridDog</td>
+<td>Biologie</td>
+<td>Ajoute des marais à votre monde.</td>
+<td><a rel="nofollow" class="external free" href="https://github.com/HybridDog/sumpf">https://github.com/HybridDog/sumpf</a>
+</td></tr>
+<tr>
+<td>Giant Mushroom/ Mushrooms, par HybridDog</td>
+<td>Biologie</td>
+<td>Ajoute une grande variété de champignons.</td>
+<td><a rel="nofollow" class="external free" href="https://github.com/HybridDog/riesenpilz">https://github.com/HybridDog/riesenpilz</a>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Architecture">Architecture</span></h2>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Liste des mods permettant le travail de l'architecture à différents niveaux
+</th></tr>
+<tr>
+<td><b>Nom du mod</b></td>
+<td><b>Discipline(s)</b></td>
+<td><b>Explications</b></td>
+<td><b>Liens vers les ressources</b>
+</td></tr>
+<tr>
+<td>Pillars, par citorva</td>
+<td>architecture</td>
+<td>Ajoute plusieurs types de pilliers pour améliorer vos constructions.</td>
+<td><a rel="nofollow" class="external free" href="https://github.com/citorva/Pillars">https://github.com/citorva/Pillars</a>
+</td></tr>
+<tr>
+<td>Pyramids (with treasures)</td>
+<td>Histoire, Architecture, Exploration, Archéologie</td>
+<td>Des Pyramides avec des trésors cachés.</td>
+<td><a rel="nofollow" class="external free" href="https://repo.or.cz/minetest_pyramids/tsm_pyramids.git">https://repo.or.cz/minetest_pyramids/tsm_pyramids.git</a>
+</td></tr>
+<tr>
+<td>Castles++</td>
+<td>Histoire, Architecture</td>
+<td>Ceci est un modpack tout sur la création de châteaux et de donjons de château.</td>
+<td><a rel="nofollow" class="external free" href="https://github.com/minetest-mods/castle">https://github.com/minetest-mods/castle</a>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Economie">Economie</span></h2>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Liste des mods permettant le travail de l'économie à différents niveaux
+</th></tr>
+<tr>
+<td><b>Nom du mod</b></td>
+<td><b>Discipline(s)</b></td>
+<td><b>Explications</b></td>
+<td><b>Liens vers les ressources</b>
+</td></tr>
+<tr>
+<td>Money3, par luk3yx</td>
+<td>économie</td>
+<td>Ajoute la commande /money.</td>
+<td><a rel="nofollow" class="external free" href="https://git.minetest.land/luk3yx/money3">https://git.minetest.land/luk3yx/money3</a>
+</td></tr>
+<tr>
+<td>Jean's Economy, par Jean28518</td>
+<td>économie</td>
+<td>Économie complète pour les serveurs comme, le paiement, les relevés bancaires individuels, les récompenses quotidiennes, l'api facile pour les moddeurs, l'intégration facile avec d'autres mods ...</td>
+<td><a rel="nofollow" class="external free" href="https://github.com/Jean28518/jeans_economy.git">https://github.com/Jean28518/jeans_economy.git</a>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Technologies">Technologies</span></h2>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Liste des mods permettant le travail de la technologie à différents niveaux
+</th></tr>
+<tr>
+<td><b>Nom du mod</b></td>
+<td><b>Discipline(s)</b></td>
+<td><b>Explications</b></td>
+<td><b>Liens vers les ressources</b>
+</td></tr>
+<tr>
+<td>Schematic Editor</td>
+<td>Technologies</td>
+<td>Outil avancé pour les moddeurs et les utilisateurs avancés pour créer et modifier des schémas.</td>
+<td><a rel="nofollow" class="external free" href="http://repo.or.cz/minetest_schemedit.git">http://repo.or.cz/minetest_schemedit.git</a>
+</td></tr>
+<tr>
+<td>Sailing Kit, par TheTermos</td>
+<td>Technologies</td>
+<td>Ajoute des bâteaux utilisables sur l'eau, à construire.</td>
+<td><a rel="nofollow" class="external free" href="https://github.com/TheTermos/sailing_kit">https://github.com/TheTermos/sailing_kit</a>
+</td></tr>
+<tr>
+<td>LED Marquee, par VanessaE</td>
+<td>Technologies</td>
+<td>Fournit un simple cadre LED qui accepte des caractères uniques, des chaînes ou des écrans entiers de texte, via Digilines.</td>
+<td><a rel="nofollow" class="external free" href="https://gitlab.com/VanessaE/led_marquee">https://gitlab.com/VanessaE/led_marquee</a>
+</td></tr>
+<tr>
+<td>Bridges and stairs, factory-style, par narrnika</td>
+<td>Technologies</td>
+<td>Ajoute des ponts en acier, des garde-corps et des escaliers dans Minetest.</td>
+<td><a rel="nofollow" class="external free" href="https://github.com/narrnika/factory_bridges">https://github.com/narrnika/factory_bridges</a>
+</td></tr>
+<tr>
+<td>MicuPack, par realmicu</td>
+<td>Technologies</td>
+<td>Divers appareils et machines pour les mineurs expérimentés et les ingénieurs TechPack.</td>
+<td><a rel="nofollow" class="external free" href="https://github.com/realmicu/minetest-micupack">https://github.com/realmicu/minetest-micupack</a>
+</td></tr>
+<tr>
+<td>Hot Air Balloons</td>
+<td>Technologies</td>
+<td>Ajoute des montgolfières artisanales et contrôlables.</td>
+<td><a rel="nofollow" class="external free" href="https://notabug.org/NetherEran/hot_air_balloons">https://notabug.org/NetherEran/hot_air_balloons</a>
+</td></tr>
+<tr>
+<td>Mesecons</td>
+<td>Technologies</td>
+<td>Mesecons est un mod pour Minetest qui implémente une tonne d'éléments liés aux circuits numériques, tels que les fils, les boutons, les lumières et même les contrôleurs programmables. Entre autres, il existe également des pistons, des panneaux solaires, des plaques de pression et des blocs-notes.</td>
+<td><a rel="nofollow" class="external free" href="https://github.com/minetest-mods/mesecons">https://github.com/minetest-mods/mesecons</a>
+</td></tr>
+<tr>
+<td>Technic</td>
+<td>Technologies</td>
+<td>Ajoute des objets techniques</td>
+<td><a rel="nofollow" class="external free" href="https://github.com/minetest-mods/technic">https://github.com/minetest-mods/technic</a>
+</td></tr>
+<tr>
+<td>Advanced Trains</td>
+<td>Technologies</td>
+<td>Ce mod présente des trains réalistes et divers équipements pour les chemins de fer, en mettant l'accent sur l'exploitation automatisée des trains.</td>
+<td><a rel="nofollow" class="external free" href="https://git.bananach.space/advtrains.git">https://git.bananach.space/advtrains.git</a>
+</td></tr>
+<tr>
+<td>Streets</td>
+<td>Technologies</td>
+<td>Vous pouvez construire des rues, des routes et des autoroutes réalistes et belles dans votre monde Minetest. Guidez le trafic avec des flèches et des feux de signalisation et avertissez le monde des situations dangereuses avec des panneaux accrocheurs! Besoin de faire des travaux? Allez-y et stylisez votre zone de construction avec des détours, des clôtures de construction et des étiquettes de route jaunes. Faites attention! Ne tombez pas dans le trou d'homme! Apportez de la lumière à vos routes avec des délinéateurs et des réverbères.</td>
+<td><a rel="nofollow" class="external free" href="https://github.com/minetest-streets/streets">https://github.com/minetest-streets/streets</a>
+</td></tr>
+<tr>
+<td>Digilines</td>
+<td>Technologies</td>
+<td>Ce mod ajoute des fils digiline, un RTC (Real Time Clock), un capteur de lumière ainsi qu'un écran LCD.</td>
+<td><a rel="nofollow" class="external free" href="https://github.com/minetest-mods/digilines">https://github.com/minetest-mods/digilines</a>
+</td></tr>
+<tr>
+<td>Digiterms, par pyrollo</td>
+<td>Technologies</td>
+<td>Moniteur et claviers de style 8 bits utilisant des digilines</td>
+<td><a rel="nofollow" class="external free" href="https://github.com/pyrollo/digiterms">https://github.com/pyrollo/digiterms</a>
+</td></tr>
+<tr>
+<td>Vehicles, par D00Med</td>
+<td>Technologies</td>
+<td>Un mod qui ajoute une API pour les voitures, les avions et les autres véhicules.</td>
+<td><a rel="nofollow" class="external free" href="https://github.com/D00Med/vehicles">https://github.com/D00Med/vehicles</a>
+</td></tr>
+<tr>
+<td>Naughts and Crosses</td>
+<td>Technologies</td>
+<td>Il s'agit d'un mini-jeu simple que vous pouvez créer dans votre monde à l'aide de mesecons et de digilines.</td>
+<td><a rel="nofollow" class="external free" href="https://forum.minetest.net/viewtopic.php?f=50&amp;t=10759">https://forum.minetest.net/viewtopic.php?f=50&amp;t=10759</a>
+</td></tr>
+<tr>
+<td>nixie_tubes</td>
+<td>Technologies</td>
+<td>Voici un mod simple pour ajouter des affichages à filament à l'ancienne à votre monde</td>
+<td><a rel="nofollow" class="external free" href="https://forum.minetest.net/viewtopic.php?f=11&amp;t=12537">https://forum.minetest.net/viewtopic.php?f=11&amp;t=12537</a>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Programmation">Programmation</span></h2>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Liste des mods permettant le travail de la programmation à différents niveaux
+</th></tr>
+<tr>
+<td><b>Nom du mod</b></td>
+<td><b>Discipline(s)</b></td>
+<td><b>Explications</b></td>
+<td><b>Liens vers les ressources</b>
+</td></tr>
+<tr>
+<td>Visual Bots, par Nigel</td>
+<td>programmation</td>
+<td>Robots tortues visuellement programmables</td>
+<td><a rel="nofollow" class="external free" href="https://github.com/nyje/visual-bots">https://github.com/nyje/visual-bots</a>
+</td></tr>
+<tr>
+<td>Raspberry PI MC API for Python code, par arpruss</td>
+<td>programmation</td>
+<td>Mod pour émuler l'API Raspberry PI Minecraft pour écrire du code Python qui fonctionne dans Minecraft.</td>
+<td><a rel="nofollow" class="external free" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=13316">https://forum.minetest.net/viewtopic.php?f=9&amp;t=13316</a>
+</td></tr>
+<tr>
+<td>L-System Tree Utility, par Wuzzy</td>
+<td>programmation</td>
+<td>Ce mod vise à aider les développeurs de mod à expérimenter avec les définitions d'arborescence du système L. Il fournit un formulaire simple qui est un wrapper autour de minetest.spawn_tree avec de nombreuses fonctionnalités supplémentaires.</td>
+<td><a rel="nofollow" class="external free" href="https://forum.minetest.net/viewtopic.php?f=11&amp;t=9458">https://forum.minetest.net/viewtopic.php?f=11&amp;t=9458</a>
+</td></tr>
+<tr>
+<td>LSystem, par Sane</td>
+<td>programmation</td>
+<td>Un l-systèmes est une chose qui peut être utilisée pour générer des structures qui répètent des variations de lui-même en lui-même.</td>
+<td><a rel="nofollow" class="external free" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=13275">https://forum.minetest.net/viewtopic.php?f=9&amp;t=13275</a>
+</td></tr>
+<tr>
+<td>Cellular Automata, par bobomb</td>
+<td>programmation</td>
+<td>Un mod de minetest pour créer, importer et développer divers automates cellulaires, dont Game of Life de Conway ...</td>
+<td><a rel="nofollow" class="external free" href="https://forum.minetest.net/viewtopic.php?f=11&amp;t=12421">https://forum.minetest.net/viewtopic.php?f=11&amp;t=12421</a>
+</td></tr>
+<tr>
+<td>Directed Circuits, par Gerald</td>
+<td>programmation</td>
+<td>Ce mod ajoute des circuits effectuant des opérations logiques et arithmétiques.</td>
+<td><a rel="nofollow" class="external free" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=16041">https://forum.minetest.net/viewtopic.php?f=9&amp;t=16041</a>
+</td></tr>
+<tr>
+<td>Calandria, par technomancy</td>
+<td>programmation</td>
+<td>Calandria est un mod qui introduit des serveurs unixlike programmables dans Lua.</td>
+<td><a rel="nofollow" class="external free" href="https://forum.minetest.net/viewtopic.php?f=11&amp;t=12705">https://forum.minetest.net/viewtopic.php?f=11&amp;t=12705</a>
+</td></tr>
+<tr>
+<td><a href="/Mods/TurtleMiner" title="Mods/TurtleMiner">TurtleMiner</a>, par Birgit Lachner</td>
+<td>programmation</td>
+<td>Tortues programmable dans Minetest.</td>
+<td><a rel="nofollow" class="external free" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=15689">https://forum.minetest.net/viewtopic.php?f=9&amp;t=15689</a>
+</td></tr>
+
+
+
+
+
+</tbody></table>
+<p><b>Information complémentaires sur L-system&#160;:</b> <a rel="nofollow" class="external text" href="https://dev.minetest.net/Introduction_to_L-system_trees">Introduction to L-system trees</a>
+</p>
+<h2><span id="Gestion_des_classes_et_groupes_par_l'enseignants"></span><span class="mw-headline" id="Gestion_des_classes_et_groupes_par_l.27enseignants">Gestion des classes et groupes par l'enseignants</span></h2>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Mods visant à faciliter la gestion des groupes classes dans le jeu
+</th></tr>
+<tr>
+<td>Classroom, par Rubenwardy</td>
+<td>Toutes disciplines, Administrateur</td>
+<td>Un moyen facile de gérer les élèves dans le jeu, avec la prise en charge des actions en vrac et des macros.</td>
+<td><a rel="nofollow" class="external free" href="https://gitlab.com/rubenwardy/classroom">https://gitlab.com/rubenwardy/classroom</a>
+</td></tr>
+<tr>
+<td>DataMiner, par sorcerykid</td>
+<td>Toutes disciplines, Administrateur</td>
+<td>DataMiner fournit des statistiques quotidiennes complètes sur les serveurs et les joueurs dans une interface utilisateur graphique, en plus d'une API pour une analyse des journaux et des rapports personnalisés via des mods ou des scripts de ligne de commande.</td>
+<td><a rel="nofollow" class="external free" href="https://content.minetest.net/packages/sorcerykid/dataminer/">https://content.minetest.net/packages/sorcerykid/dataminer/</a>
+</td></tr>
+<tr>
+<td>HomeDecor, par VanessaE</td>
+<td>Toutes disciplines</td>
+<td>Homedecor propose une large sélection d'articles que vous pourriez trouver à l'intérieur et autour de votre maison, comme des canapés, des chaises, des tables, des clôtures et toutes sortes d'autres choses. Voir le sujet du forum pour plus de détails.</td>
+<td><a rel="nofollow" class="external free" href="https://gitlab.com/VanessaE/homedecor_modpack">https://gitlab.com/VanessaE/homedecor_modpack</a>
+</td></tr>
+<tr>
+<td>Crafting Guide</td>
+<td>Toutes disciplines</td>
+<td>Le guide d'artisanat le plus complet pour Minetest.</td>
+<td><a rel="nofollow" class="external free" href="https://github.com/minetest-mods/craftguide">https://github.com/minetest-mods/craftguide</a>
+</td></tr>
+<tr>
+<td>mTimer, par 4w</td>
+<td>Toutes disciplines</td>
+<td>Minuterie en jeu pour afficher la durée de lecture actuelle, l'heure actuelle, l'heure en jeu, etc.</td>
+<td><a rel="nofollow" class="external free" href="https://gitlab.com/4w/mtimer.git">https://gitlab.com/4w/mtimer.git</a>
+</td></tr>
+<tr>
+<td>Polygraph, par sorcerykid</td>
+<td>Toutes disciplines</td>
+<td>Polygraph est une API de création de graphiques basée sur des spécifications de formulaire, fournissant un riche ensemble de paramètres de sortie et de crochets de rendu personnalisés dans un cadre orienté objet.</td>
+<td><a rel="nofollow" class="external free" href="https://bitbucket.org/sorcerykid/polygraph">https://bitbucket.org/sorcerykid/polygraph</a>
+</td></tr>
+<tr>
+<td>Chat History, par sorcerykid</td>
+<td>Toutes disciplines, Administrateur</td>
+<td>L'historique de discussion est une visionneuse d'historique de discussion interactive avec une variété d'options de filtrage des messages et des sons de notification à utiliser sur les serveurs.</td>
+<td><a rel="nofollow" class="external free" href="https://bitbucket.org/sorcerykid/chat_history.git">https://bitbucket.org/sorcerykid/chat_history.git</a>
+</td></tr>
+<tr>
+<td>WorldEdit, par Uberi</td>
+<td>Toutes disciplines, Administrateur</td>
+<td>Éditeur du monde en jeu. Utilisez-le pour réparer le chagrin ou tout simplement créer de superbes bâtiments en quelques secondes.</td>
+<td><a rel="nofollow" class="external free" href="https://github.com/Uberi/Minetest-WorldEdit">https://github.com/Uberi/Minetest-WorldEdit</a>
+</td></tr>
+<tr>
+<td>Awards, par Rubenwardy</td>
+<td>Toutes disciplines, Administrateur</td>
+<td>Ajoute des réalisations/récompenses pour les joueurs</td>
+<td><a rel="nofollow" class="external free" href="https://github.com/rubenwardy/awards">https://github.com/rubenwardy/awards</a>
+</td></tr>
+<tr>
+<td>Areas, par ShadowNinja</td>
+<td>Toutes disciplines, Administrateur</td>
+<td>Areas est un mod de protection de zone avancé basé sur node_ownership.</td>
+<td><a rel="nofollow" class="external free" href="https://github.com/ShadowNinja/areas">https://github.com/ShadowNinja/areas</a>
+</td></tr></tbody></table>
+<h1><span class="mw-headline" id="Utilisations_de_mods_complexes">Utilisations de mods complexes</span></h1>
+<h2><span class="mw-headline" id="Utilisation_du_mod_Mesecons">Utilisation du mod Mesecons</span></h2>
+<ul><li>Mesecons (= redstone) <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?t=628">(minetest-mod-mesecons)</a> by Jeija
+<ul><li>Digilines <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?id=5263">(minetest-mod-digilines</a>) by Jeija</li>
+<li><a rel="nofollow" class="external text" href="http://mesecons.net/luacontroller/">Luacontroller Tutorial</a></li>
+<li>Digiline Stuff <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=13092">(digiline_stuff)</a> by jogag</li>
+<li>Terminal <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=6611">(terminal)</a> by Bas080</li>
+<li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=50&amp;t=10759">Naughts and Crosses</a> (Mini-Game made with Digilines)</li>
+<li>Nixie Tubes <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=11&amp;t=12537">(nixie_tubes)</a> by VanessaE</li></ul></li></ul>
+<p><br />
+</p>
+<h2><span id="Création_de_mondes_réalistes"></span><span class="mw-headline" id="Cr.C3.A9ation_de_mondes_r.C3.A9alistes">Création de mondes réalistes</span></h2>
+<ul><li>Real Terrain <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=12666">(realterrain)</a> by bobomb</li>
+<li>Image Loader <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=6751">(imageloader)</a> by kaeza</li>
+<li>Build semi-auto or BMP/3d Mesh import <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=11565">(growwall)</a> by dgm5555</li></ul>
+<ul><li>Angkor Wat floor plan <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=12&amp;t=12799">(Map)</a> by slopsbucket</li>
+<li>Reconstruct your version of some Roman Baths <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=12&amp;t=12680">(Map)</a> by twoelk</li>
+<li>Athens (5th Century BC) <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=12&amp;t=19969">(Map)</a> by captpete</li>
+<li>My property <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=12&amp;t=10987">(Map)</a> by superschizo</li>
+<li>Karsthafen <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=12&amp;t=6642">(Map)</a> by solars</li>
+<li>A recreation of their school by students (part of the "<a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?p=201218#p201218">Education, minetest in the classroom"</a>thread)</li>
+<li>A similar <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?p=242297#p242297">recreation of a school building</a> by christoferlevich.</li>
+<li>A reconstruction inspired by <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=12&amp;t=16794">Monpazier, Guyenne,</a> a planned 13th Century grid-town of the <a rel="nofollow" class="external text" href="https://en.wikipedia.org/wiki/Bastide">Bastide</a> type.</li></ul>
+<h2><span id="Exportation_de_ressource_3D_crées_dans_le_jeu_dans_d'autres_formats"></span><span class="mw-headline" id="Exportation_de_ressource_3D_cr.C3.A9es_dans_le_jeu_dans_d.27autres_formats">Exportation de ressource 3D crées dans le jeu dans d'autres formats</span></h2>
+<ul><li><a href="/index.php?title=Mods/BlockExport&amp;action=edit&amp;redlink=1" class="new" title="Mods/BlockExport (page does not exist)">BlockExport</a>. This mod defines a new chat command "/exportblock" which writes 3D node data of the player's current 80x80x80 node block to a file in obj. format.</li>
+<li>Minetest Mesh Exporter (<a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=22993">(meshport)</a> Meshport is a mod which allows easy exporting of scenes from Minetest to .obj files, complete with materials and textures. These models can be imported directly into Blender or another 3D program for rendering and animation.</li>
+<li><a rel="nofollow" class="external text" href="https://github.com/sfan5/mt2obj">mt2obj</a> exporting to .obj format with a chat command.</li>
+<li>Minetest 3D Print <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=9949">(M3D)</a>, exports a piece of game map in a format that can be read by FreeCAD minetest importer plugin.</li></ul>
+<h2><span class="mw-headline" id="Divers">Divers</span></h2>
+<ul><li>What a Dog Sees Texture Pack (<a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=4&amp;t=15182">dogview</a>)by pithy; a texture pack that takes texture from Minetest Game and reduces the color spectrum to what a dog sees. (might be lost)</li>
+<li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=11&amp;t=10307">Cutepie</a>, a collection of cute and colorfull blocks. Including a smiley that can also frown and a heart bomb that might brighten up lesson sessions or be usefull as decorative rewards.</li>
+<li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=14929">Q and A (Learning Tool)</a></li>
+<li><a rel="nofollow" class="external text" href="https://gitlab.com/rubenwardy/classroom">Classroom Manager</a> by rubenwardy, a tool for teachers to monitor students on a server.</li>
+<li><a href="/Mods/MapTools" title="Mods/MapTools">MapTools</a>, a mod with some blocks and tools that might help managing and monitoring students on a server.</li>
+<li><a href="/Server/TechWelt" title="Server/TechWelt">TechWelt Server</a>, a public server used to showcase and experiment with educational and technical mods.</li></ul>
+<h1><span id="Ressources_pédagogiques"></span><span class="mw-headline" id="Ressources_p.C3.A9dagogiques">Ressources pédagogiques</span></h1>
+<h2><span id="Projets_pédagogiques_et_articles_institutionnels_à_connaître"></span><span class="mw-headline" id="Projets_p.C3.A9dagogiques_et_articles_institutionnels_.C3.A0_conna.C3.AEtre">Projets pédagogiques et articles institutionnels à connaître</span></h2>
+<h3><span class="mw-headline" id="Les_fondamentaux_pour_mieux_comprendre">Les fondamentaux pour mieux comprendre</span></h3>
+<ul><li>12/2019&#160;: publication d'un article académique de fond sur l'intérêt des jeux Minetest/Minecraft (Auteur&#160;: Frédéric Véron)&#160;: <a rel="nofollow" class="external free" href="http://www.dane.ac-versailles.fr/comprendre/vers-une-meilleure-comprehension-de-l-interet-pedagogique-des-bacs-a-sable">http://www.dane.ac-versailles.fr/comprendre/vers-une-meilleure-comprehension-de-l-interet-pedagogique-des-bacs-a-sable</a>&#160;;</li>
+<li>04/2016, Article académique sur le site SVT de l’Académie de Créteil&#160;: Collaborons pour «&#160;détourner le bac à sable&#160;»&#160;! <a rel="nofollow" class="external free" href="http://svt.ac-creteil.fr/?Collaborons-pour-detourner-le-bac-a-sable">http://svt.ac-creteil.fr/?Collaborons-pour-detourner-le-bac-a-sable</a>  ;</li>
+<li>04/2016, Article du Cafépédagogique «&#160;Enseigner les SVT avec le jeu Minetest&#160;»&#160;: <a rel="nofollow" class="external free" href="http://www.cafepedagogique.net/lexpresso/Pages/2016/04/12042016Article635960415724352609.aspx">http://www.cafepedagogique.net/lexpresso/Pages/2016/04/12042016Article635960415724352609.aspx</a>&#160;;</li>
+<li>12/2016, Ludovia «&#160;Minetest&#160;: intérêts et possibilités pédagogiques&#160;»&#160;: <a rel="nofollow" class="external free" href="https://www.ludovia.com/2016/12/minetest-interets-et-possibilites-pedagogiques/">https://www.ludovia.com/2016/12/minetest-interets-et-possibilites-pedagogiques/</a>&#160;;</li></ul>
+<h3><span id="Liste_des_principales_communautés_d’échanges_pour_enseignants"></span><span class="mw-headline" id="Liste_des_principales_communaut.C3.A9s_d.E2.80.99.C3.A9changes_pour_enseignants">Liste des principales communautés d’échanges pour enseignants</span></h3>
+<ul><li>Le forum des Framacolibri (francophone, Framasoft) d’échange pédagogique sur l’usage Framinetest&#160;: <a rel="nofollow" class="external free" href="https://framacolibri.org/c/framinetest-minetest">https://framacolibri.org/c/framinetest-minetest</a></li>
+<li>Le forum francophone de Minetest <a rel="nofollow" class="external free" href="https://forum.minetest.net/viewforum.php?f=20&amp;sid=875d8cece94a28e7248b0cb18a006d82">https://forum.minetest.net/viewforum.php?f=20&amp;sid=875d8cece94a28e7248b0cb18a006d82</a></li></ul>
+<h3><span id="Liste_des_principaux_projets_et_retours_d'expérience_pédagogiques"></span><span class="mw-headline" id="Liste_des_principaux_projets_et_retours_d.27exp.C3.A9rience_p.C3.A9dagogiques">Liste des principaux projets et retours d'expérience pédagogiques</span></h3>
+<ul><li>11/2018, Article du Framablog&#160;: «&#160;Framinetest Edu, et maintenant&#160;?&#160;» (novembre 2018) <a rel="nofollow" class="external free" href="https://framablog.org/2018/11/03/framinetest-edu-et-maintenant/">https://framablog.org/2018/11/03/framinetest-edu-et-maintenant/</a> 2</li>
+<li>09/2018, Article du Blog Maikresse72.fr «&#160;On modélise notre école avec Minetest&#160;» (septembre 2018) (<a rel="nofollow" class="external free" href="http://www.maikresse72.fr/2018/09/09/outils-tice-de-gilles-on-modelise-ecole-minetest/">http://www.maikresse72.fr/2018/09/09/outils-tice-de-gilles-on-modelise-ecole-minetest/</a> 1</li>
+<li>12/2017, Article du Blog «&#160;MonBlogClasse&#160;» Descombes Sandrine, cycle 2/3 (décembre 2017) <a rel="nofollow" class="external free" href="http://www.monblogdeclasse.net/2017/12/minetest-mode-d-emploi.html">http://www.monblogdeclasse.net/2017/12/minetest-mode-d-emploi.html</a> 1</li>
+<li>07/2017, :movie_camera: Replay vidéo de la conférence Framinetest PSES2017 (juillet 2017)&#160;: <a rel="nofollow" class="external free" href="https://youtu.be/GgNAi03NCZU">https://youtu.be/GgNAi03NCZU</a></li>
+<li>04/2016, Article Enseigner les SVT avec le jeu Minetest (avril 2016)&#160;: <a rel="nofollow" class="external free" href="http://www.cafepedagogique.net/lexpresso/Pages/2016/04/12042016Article635960415724352609.aspx">http://www.cafepedagogique.net/lexpresso/Pages/2016/04/12042016Article635960415724352609.aspx</a> 4</li>
+<li>09/2016, Article du Framablog&#160;: «&#160;Minetest, intérêts et possibilités pédagogiques&#160;» (septembre 2016) <a rel="nofollow" class="external free" href="https://framablog.org/2016/09/01/minetest-interets-et-possibilites-pedagogiques/">https://framablog.org/2016/09/01/minetest-interets-et-possibilites-pedagogiques/</a></li>
+<li>Article général et bilan revenant sur l’usage au long terme (5 années d’expérimentation) du jeu Minetest&#160;: <a rel="nofollow" class="external free" href="https://www.svtux.fr/svtux/svtuxboxproject/minetest-pedago.html">https://www.svtux.fr/svtux/svtuxboxproject/minetest-pedago.html</a></li>
+<li>Minetest et Éducation <a rel="nofollow" class="external free" href="https://movilab.org/index.php?title=Minetest_et_Éducation">https://movilab.org/index.php?title=Minetest_et_Éducation</a> 1</li>
+<li><a rel="nofollow" class="external free" href="https://publiclab.org/notes/imvec/03-08-2018/minetest-safe-digital-polluted-areas">https://publiclab.org/notes/imvec/03-08-2018/minetest-safe-digital-polluted-areas</a></li>
+<li><a rel="nofollow" class="external free" href="https://blogs.rpi-virtuell.de/minetest/">https://blogs.rpi-virtuell.de/minetest/</a></li>
+<li><a rel="nofollow" class="external free" href="https://www.schuleamlindetal.de/ganztag/kursimpressionen-l-z/minetest/">https://www.schuleamlindetal.de/ganztag/kursimpressionen-l-z/minetest/</a></li>
+<li><a rel="nofollow" class="external free" href="https://ev-akademie-wittenberg.de/bericht/minetest-fuer-die-schule">https://ev-akademie-wittenberg.de/bericht/minetest-fuer-die-schule</a></li>
+<li><a rel="nofollow" class="external free" href="https://www.youtube.com/watch?v=VEue4-iNGtA">https://www.youtube.com/watch?v=VEue4-iNGtA</a> 2</li></ul>
+<h2><span id="Postes_du_Forum_et_autres_liens_à_connaître"></span><span class="mw-headline" id="Postes_du_Forum_et_autres_liens_.C3.A0_conna.C3.AEtre">Postes du Forum et autres liens à connaître</span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=3&amp;t=8607">Minetest Could Be An Educational Tool</a></li>
+<li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=3&amp;t=11222">Education, minetest in the classroom</a></li>
+<li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=3&amp;t=10722">A teacher's perspective - this is great for class</a></li>
+<li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=5&amp;t=11452">Minetest for teachers</a>
+<ul><li><a rel="nofollow" class="external text" href="https://github.com/apienk/minetest-edutest-ui">minetest-edutest-ui on GitHub</a> by apienk</li></ul></li>
+<li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=3&amp;t=12784">Using Minetest in a school</a></li>
+<li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=3&amp;t=9482">Minetest - Education Version</a></li>
+<li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=9171">Learning game: player specific door locks/puzzles/walls</a></li>
+<li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=18&amp;t=22871">Craft the Web - a game made at CERN, Switzerland</a>
+<ul><li><a rel="nofollow" class="external text" href="https://home.cern/news/news/knowledge-sharing/craft-web-re-enact-invention-web">Article published by CERN</a></li></ul></li>
+<li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=18&amp;t=22931">Minetest &amp; Mesecons challenge in Google CTF 2019</a></li></ul>
+<p><br />
+</p>
+<ul><li><a rel="nofollow" class="external text" href="https://kidscode.com/en">Kidscode</a>, a project based partly on a fork of Minetest as part of a whole service for educational projects. As such licenses have to be optained and a fee may be charged. The project also includes non-opensource parts.</li>
+<li><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=VEue4-iNGtA">Programmeren, school nabouwen in Minetest</a> - YouTube (Rebuilding school in Minetest - Commentary in Dutch)</li>
+<li><a rel="nofollow" class="external text" href="http://svtuxboxproject.pagesperso-orange.fr/svtuxboxproject/minetest-pedago.html">Project: "Mon Collège avec Minetest"</a> (Rebuilding a school in Minetest - Text in French with pictures)(might be lost)</li>
+<li><a rel="nofollow" class="external text" href="http://www.ocsmag.com/2016/04/04/mining-for-education/#5">Mining for Education</a></li>
+<li><a rel="nofollow" class="external text" href="https://ev-akademie-wittenberg.de/bericht/minetest-fuer-die-schule">Minetest für die Schule</a> - Text in German (Minetest for School) (<a rel="nofollow" class="external text" href="https://junge-akademie-wittenberg.de/minetestschule">similar text</a>)</li>
+<li><a rel="nofollow" class="external text" href="https://www.multimediamobile.de/sued/materialien-sued/sued-minetest.html">Download vorkonfiguriertes »Minetest«</a>, a preconfigured minetest for use with pupils with some tools for monitoring the students. Some spezial worlds are also offered for download. Text in german, worlds preconfigured for german.</li>
+<li><a rel="nofollow" class="external text" href="https://blogs.rpi-virtuell.de/minetest/">Minetest Welten, die die Welt verändern</a> - Text in German. Some educational server projects Including server hosting for educational class projects.</li>
+<li><a rel="nofollow" class="external text" href="https://www.schuleamlindetal.de/ganztag/kursimpressionen-l-z/minetest/">Der Ganztagskurs Minetest bei Herrn Hofmann</a> - Text in German. School project example of pupils building castles with pictures.</li>
+<li><a rel="nofollow" class="external text" href="https://publiclab.org/notes/imvec/03-08-2018/minetest-safe-digital-polluted-areas">Minetest safe digital polluted areas</a> - described at Public Lab. A project from the spanish Institute for the Monitoring and Surveillance of Contaminated Areas, designed to teach children about pollution events and study sollutions.</li></ul>
+<!-- 
+NewPP limit report
+Cached time: 20230709115639
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.355 seconds
+Real time usage: 0.554 seconds
+Preprocessor visited node count: 130/1000000
+Post‐expand include size: 1492/2097152 bytes
+Template argument size: 270/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 13/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.130/7 seconds
+Lua virtual size: 5.55 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  305.787      1 Template:Languages
+100.00%  305.787      1 -total
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:4801-0!canonical and timestamp 20230709115638 and revision id 25072
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Mods:Learning/fr&amp;oldid=25072">http://wiki.minetest.net/index.php?title=Mods:Learning/fr&amp;oldid=25072</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li><li><a href="/Category:French" title="Category:French">French</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Mods%3ALearning%2Ffr" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Mods:Learning/fr" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Mods:Learning/fr&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Mods:Learning/fr">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Mods:Learning/fr&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Mods:Learning/fr&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Mods:Learning/fr" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Mods:Learning/fr" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Mods:Learning/fr&amp;oldid=25072" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Mods:Learning/fr&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 9 April 2021, at 00:00.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.355","walltime":"0.554","ppvisitednodes":{"value":130,"limit":1000000},"postexpandincludesize":{"value":1492,"limit":2097152},"templateargumentsize":{"value":270,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":13,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  305.787      1 Template:Languages","100.00%  305.787      1 -total"]},"scribunto":{"limitreport-timeusage":{"value":"0.130","limit":"7"},"limitreport-virtmemusage":{"value":5820416,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709115639","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":709});});</script></body></html>

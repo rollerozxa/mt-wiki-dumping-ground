@@ -1,0 +1,125 @@
+{{LuaTips}}
+This page lists the various groups which are used in various games and mods, but are more or less specific to those. Keep in mind the meaning of most of these groups is not “standardized”, the actual meaning depends on the particular game/mod implementation. For generic groups, see [[Groups#Special groups]] and [[Groups/Shared groups]].
+
+('''Note''': If not group rating is specified, a rating of 1 is assumed.)
+
+== Games ==
+=== Minetest Game ===
+Version: 0.4.14
+
+These are the custom groups used by Minetest Game. Many groups listed here have also been adopted by mods and games which are not directly related to Minetest Game, but be careful, the intention may not always be equal!
+
+==== Damage groups ====
+Used by weapons and tools, and by entities to determine damage on a successful hit.
+
+* <code>fleshy</code>: Living things like animals and the player. This could imply some blood effects when hitting.
+
+Note: <code>fleshy</code> is currently the only damage group used in Minetest Game, all tools and weapons in Minetest Game only affect the <code>fleshy</code> group.
+
+==== Digging time groups ====
+The following groups determine digging times. The rating can be between 1 and 3; higher ratings result in faster digging.
+
+* <code>crumbly</code>: dirt, sand
+* <code>cracky</code>: tough but crackable stuff like stone.
+* <code>snappy</code>: something that can be cut using fine tools; eg. leaves, small plants, wire, sheets of metal
+* <code>choppy</code>: something that can be cut using force; eg. trees, wooden planks
+* <code>explody</code>: Especially prone to explosions
+* <code>oddly_breakable_by_hand</code>: Can be added to nodes that shouldn't logically be breakable by the hand but are. Somewhat similar to dig_immediate, but times are more like <code>{[1]=3.50,[2]=2.00,[3]=0.70}</code> and this does not override the speed of a tool if the tool can dig at a faster speed than this suggests for the hand.
+
+==== ABMs ====
+Groups which are mainly used by ABMs for block interaction:
+
+* <code>tree</code>: node is the trunk of a tree (like “Tree”, “Jungle Tree”, etc.). Prevents blocks in <code>leafdecay</code> group from decaying.
+* <code>leafdecay</code>: node decays if no block in the <code>tree</code> group is in a radius of the rating.
+* <code>leafdecay_drop</code>: if node decays because of <code>leafdecay</code>, it will always drop as an item.
+* <code>flora</code>: node will slowly spread when placed on a “soil”-group node but it will turn into a dry shrub when it is placed on desert sand. Usually used for small plants.
+* <code>soil</code>: node is some sort of soil which supports the growth and spread of plants of all sorts, including farmable plants
+** <code>soil=1</code>: basic soil: Supports growth of saplings and spread of <code>flora</code> nodes. These plants can of course also grow on soil of higher ratings.
+** <code>soil=2</code>: dry farming soil: Node has been cultivated by a hoe, but is not wet yet.
+** <code>soil=3</code>: wet farming soil: Supports the growth of farming plants like wheat and cotton
+* <code>cools_lava</code>: node turns adjacent lava sources into obsidian and adjacent flowing lava into stone
+* <code>lava</code>: node is lava.
+* <code>water</code>: node is water. Used by the buckets mod. Also acts like <code>cools_lava</code>
+
+===== Fire =====
+Used by the <code>fire</code> mod:
+
+* <code>flammable</code>: can be set on fire. Higher values mean more flammable.
+* <code>puts_out_fire</code>: if in a node with this group is near fire the fire gets extinguished.
+* <code>igniter</code>: sets flammable nodes on fire. Rating defines the radius.
+
+==== Crafting ====
+These groups are ''mostly'' used in crafting recipes:
+
+* <code>sand</code>: node is sand.
+* <code>stone</code>: node is stone.
+* <code>wood</code>: node is a type of wooden planks.
+* <code>wool</code>: node is wool (default rating: <code>1</code>).
+* <code>leaves</code>: node represents leaves or needles from a tree.
+* <code>stick</code>: item is a stick.
+* <code>coal</code>: item is some kind of coal lump.
+* <code>water_bucket</code>: Item is a bucket filled with some kind of water.
+
+===== Color =====
+* <code>dye</code>: item is a dye.
+* <code>basecolor_white</code>, <code>excolor_yellow</code>, <code>unicolor_dark_blue_s50</code>, and the like: Declares the color of an item. See [https://github.com/minetest/minetest_game/blob/master/game_api.txt game_api.txt].
+
+'''Note''': The various color groups in the dyes mod can be considered as a standard in the modding community. They are also in widespread use, independently of Minetest Game
+
+==== Functional ====
+* <code>not_in_creative_inventory</code>: the item is not added to the creative inventory. '''Note''': This group is also widespread across other games and mods.
+* <code>vessel</code>: item is a vessel (small liquids container) and can be put in a [http://wiki.minetest.net/Vessels_Shelf vessels shelf].
+* <code>book</code>: item is a book and can be put in a [http://wiki.minetest.net/Bookshelf bookshelf].
+
+==== Informational ====
+Misc. groups where their main purpose seems to group similar things together. They may be used for many different tasks
+
+* <code>sapling</code>: node is a sapling.
+* <code>plant</code>: node is a small-sized plant.
+* <code>flower</code>: node is a flower.
+* <code>pane</code>: node is a “pane” like Glass Pane or Iron bar. Defined by the <code>xpanes</code> mod.
+* <code>wall</code>: node is a wall, used to connect to other nodes of the wall group together
+* <code>bed</code>: node/item is a bed
+* <code>door</code>: node/item is a door
+* <code>liquid</code>: node is a liquid
+** <code>liquid=2</code>: lava (see also: <code>lava</code>)
+** <code>liquid=3</code>: water (see also: <code>water</code>)
+
+=== Pedology ===
+https://forum.minetest.net/viewtopic.php?f=11&t=9429
+
+Version: 3.0
+
+* <code>wet</code>: Node is wet, rating ranges from 1-5 (higher = wetter). If this group is not present, the node is seen as dry.
+* <code>oozing</code>: Node will slowly transfert its wetness towards neighboring “sucky” nodes. Rating does not matter.
+* <code>sucky</code>: Node is able to receive wetness from neighboring wet and oozing nodes. Rating does not matter.
+* <code>sun_dry</code>: Node will dry off over time when exposed to sunlight. Rating must be 1.
+
+This was only a quick overview. Refer to the mod's README.md for a more detailed and up-to-date information.
+
+=== Realistic Suffocation ===
+https://forum.minetest.net/viewtopic.php?f=9&t=15304
+
+Version: 1.0.0
+
+This mod introduces 2 groups:
+
+* <code>disable_suffocation</code>: This mod won't add suffocation (drowning damage for solid full cube blocks) to nodes in this group (rating: 1)
+* <code>real_suffocation</code>: This group is added by this mod to all nodes it modified (added drowning damage) (rating: 1)
+
+=== Slime blocks and liquids ===
+https://forum.minetest.net/viewtopic.php?f=11&t=10423
+
+Version: 1.0.0
+
+This mod introduces one digging group:
+
+* <code>slimey</code>: For blocks made out of slime. Rating ranges from 1-3 (higher = more slimey)
+
+== Editing this page ==
+Feel free to add your own games and mods. There are some guidelines for editing:
+
+* Do not add groups which are intended to be used only internally by the mod or game
+* Don't forget to mention the meaning of the group rating. If you omit it, we assume the group rating to be always 1 or it does not matter.
+* Specify the mod's / game's version number, if possible, so the users can see whether this page is still up to date
+[[Category:Misc]]

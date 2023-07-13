@@ -1,0 +1,637 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>FAQ - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"92aa8723ae908696e937715c","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"FAQ","wgTitle":"FAQ","wgCurRevisionId":27891,"wgRevisionId":27891,"wgArticleId":326,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["About Minetest","Languages pages"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"FAQ","wgRelevantArticleId":326,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready",
+"user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=ext.cite.styles%7Cmediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-FAQ rootpage-FAQ skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">FAQ</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> Language:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><b><a class="mw-selflink selflink">English</a></b>&#160;• <bdi lang="es"><a href="/FAQ/es" title="FAQ/es">español</a></bdi>&#160;• <bdi lang="fr"><a href="/FAQ/fr" title="FAQ/fr">français</a></bdi>&#160;• <bdi lang="id"><a href="/FAQ/id" title="FAQ/id">Bahasa Indonesia</a></bdi>&#160;• <bdi lang="ja"><a href="/FAQ/ja" title="FAQ/ja">日本語</a></bdi>&#160;• <bdi lang="ms"><a href="/FAQ/ms" title="FAQ/ms">Bahasa Melayu</a></bdi>&#160;• <bdi lang="uk"><a href="/FAQ/uk" title="FAQ/uk">українська</a></bdi>&#160;• <bdi lang="zh-hans"><a href="/FAQ/zh-hans" title="FAQ/zh-hans">中文（简体）‎</a></bdi></td>
+</tr></tbody></table>
+<p>This is a collection of some <b>frequently asked questions</b> about Minetest. For technical problems, refer to <a href="/Troubleshooting" title="Troubleshooting">Troubleshooting</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#What_is_Minetest.3F"><span class="tocnumber">1</span> <span class="toctext">What is Minetest?</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#About_the_Engine"><span class="tocnumber">2</span> <span class="toctext">About the Engine</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#How_much_does_Minetest_cost.3F"><span class="tocnumber">2.1</span> <span class="toctext">How much does Minetest cost?</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Is_Minetest_a_clone_of_Minecraft.3F"><span class="tocnumber">2.2</span> <span class="toctext">Is Minetest a clone of Minecraft?</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Who_created_Minetest.3F"><span class="tocnumber">2.3</span> <span class="toctext">Who created Minetest?</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#What_is_Minetest_written_in.3F"><span class="tocnumber">2.4</span> <span class="toctext">What is Minetest written in?</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Can_I_change_the_code_myself.3F"><span class="tocnumber">2.5</span> <span class="toctext">Can I change the code myself?</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#When_will_the_next_version_of_Minetest_be_released.3F"><span class="tocnumber">2.6</span> <span class="toctext">When will the next version of Minetest be released?</span></a>
+<ul>
+<li class="toclevel-3 tocsection-9"><a href="#Why_did_the_version_change_from_0.4.17.1_to_5.0.0.3F"><span class="tocnumber">2.6.1</span> <span class="toctext">Why did the version change from 0.4.17.1 to 5.0.0?</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-10"><a href="#How_do_I_install_and_run_Minetest.3F"><span class="tocnumber">2.7</span> <span class="toctext">How do I install and run Minetest?</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#How_do_I_update_Minetest.3F"><span class="tocnumber">2.8</span> <span class="toctext">How do I update Minetest?</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Where_and_how_do_I_find_games_to_install.3F"><span class="tocnumber">2.9</span> <span class="toctext">Where and how do I find games to install?</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#What_is_Irrlicht.3F"><span class="tocnumber">2.10</span> <span class="toctext">What is Irrlicht?</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Why_does_the_UI_look_so_old.3F"><span class="tocnumber">2.11</span> <span class="toctext">Why does the UI look so old?</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#The_main_menu_sucks.21"><span class="tocnumber">2.12</span> <span class="toctext">The main menu sucks!</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#I_have_a_technical_problem.2C_how_to_fix_this.3F"><span class="tocnumber">2.13</span> <span class="toctext">I have a technical problem, how to fix this?</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Is_Minetest_multi-threaded.3F"><span class="tocnumber">2.14</span> <span class="toctext">Is Minetest multi-threaded?</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Why_is_it_called_.22Minetest.22.3F"><span class="tocnumber">2.15</span> <span class="toctext">Why is it called "Minetest"?</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Can_you_add_support_for_iOS.3F"><span class="tocnumber">2.16</span> <span class="toctext">Can you add support for iOS?</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#Can_you_add_support_for_X_platform_or_console.3F"><span class="tocnumber">2.17</span> <span class="toctext">Can you add support for X platform or console?</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-21"><a href="#Terminology"><span class="tocnumber">3</span> <span class="toctext">Terminology</span></a></li>
+<li class="toclevel-1 tocsection-22"><a href="#About_Minetest_Game"><span class="tocnumber">4</span> <span class="toctext">About Minetest Game</span></a>
+<ul>
+<li class="toclevel-2 tocsection-23"><a href="#What_is_Minetest_Game.3F"><span class="tocnumber">4.1</span> <span class="toctext">What is Minetest Game?</span></a></li>
+<li class="toclevel-2 tocsection-24"><a href="#Where_is_.5Binsert_Minecraft_feature_here.5D.3F"><span class="tocnumber">4.2</span> <span class="toctext">Where is [insert Minecraft feature here]?</span></a>
+<ul>
+<li class="toclevel-3 tocsection-25"><a href="#Which_Mineclone_should_I_play.3F"><span class="tocnumber">4.2.1</span> <span class="toctext">Which Mineclone should I play?</span></a></li>
+<li class="toclevel-3 tocsection-26"><a href="#What_is_MeseCraft.3F"><span class="tocnumber">4.2.2</span> <span class="toctext">What is MeseCraft?</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-27"><a href="#Where_is_all_the_content.3F_No_mobs.3F_No_story.3F"><span class="tocnumber">4.3</span> <span class="toctext">Where is all the content? No mobs? No story?</span></a></li>
+<li class="toclevel-2 tocsection-28"><a href="#You_should_add_.5Binsert_feature_here.5D_to_Minetest_Game.21"><span class="tocnumber">4.4</span> <span class="toctext">You should add [insert feature here] to Minetest Game!</span></a></li>
+<li class="toclevel-2 tocsection-29"><a href="#How_does_.5Binsert_item_or_block_here.5D_work.3F_How_do_I_craft_it.3F"><span class="tocnumber">4.5</span> <span class="toctext">How does [insert item or block here] work? How do I craft it?</span></a></li>
+<li class="toclevel-2 tocsection-30"><a href="#I_was_told_there_were_dungeons._Where_are_they.3F"><span class="tocnumber">4.6</span> <span class="toctext">I was told there were dungeons. Where are they?</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-31"><a href="#Community"><span class="tocnumber">5</span> <span class="toctext">Community</span></a>
+<ul>
+<li class="toclevel-2 tocsection-32"><a href="#Where_can_I_ask_questions.3F"><span class="tocnumber">5.1</span> <span class="toctext">Where can I ask questions?</span></a></li>
+<li class="toclevel-2 tocsection-33"><a href="#How_do_I_install_third-party_content.3F"><span class="tocnumber">5.2</span> <span class="toctext">How do I install third-party content?</span></a></li>
+<li class="toclevel-2 tocsection-34"><a href="#Why_can.27t_I_find_the_mod_default_or_.5Binsert_mod_here.5D.3F"><span class="tocnumber">5.3</span> <span class="toctext">Why can't I find the mod default or [insert mod here]?</span></a></li>
+<li class="toclevel-2 tocsection-35"><a href="#Are_mods_compatible_with_each_other.3F"><span class="tocnumber">5.4</span> <span class="toctext">Are mods compatible with each other?</span></a></li>
+<li class="toclevel-2 tocsection-36"><a href="#How_do_I_connect_to_servers.3F_Do_I_need_a_multiplayer_account.3F"><span class="tocnumber">5.5</span> <span class="toctext">How do I connect to servers? Do I need a multiplayer account?</span></a></li>
+<li class="toclevel-2 tocsection-37"><a href="#How_do_I_make_my_own_server.3F"><span class="tocnumber">5.6</span> <span class="toctext">How do I make my own server?</span></a></li>
+<li class="toclevel-2 tocsection-38"><a href="#How_do_I_get_an_account_for_the_Minetest_Wiki.3F"><span class="tocnumber">5.7</span> <span class="toctext">How do I get an account for the Minetest Wiki?</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-39"><a href="#Gameplay"><span class="tocnumber">6</span> <span class="toctext">Gameplay</span></a>
+<ul>
+<li class="toclevel-2 tocsection-40"><a href="#How_do_I_see_my_coordinates_or_check_my_FPS.3F"><span class="tocnumber">6.1</span> <span class="toctext">How do I see my coordinates or check my FPS?</span></a></li>
+<li class="toclevel-2 tocsection-41"><a href="#Why_is_my_FPS_so_low.3F"><span class="tocnumber">6.2</span> <span class="toctext">Why is my FPS so low?</span></a></li>
+<li class="toclevel-2 tocsection-42"><a href="#How_do_I_enable_full-screen.3F"><span class="tocnumber">6.3</span> <span class="toctext">How do I enable full-screen?</span></a></li>
+<li class="toclevel-2 tocsection-43"><a href="#What_are_the_controls.3F_How_do_I_change_them.3F"><span class="tocnumber">6.4</span> <span class="toctext">What are the controls? How do I change them?</span></a></li>
+<li class="toclevel-2 tocsection-44"><a href="#Can_I_use_a_controller_or_gamepad.3F"><span class="tocnumber">6.5</span> <span class="toctext">Can I use a controller or gamepad?</span></a></li>
+<li class="toclevel-2 tocsection-45"><a href="#Why_can.27t_I_change_settings_in_the_pause_screen.3F"><span class="tocnumber">6.6</span> <span class="toctext">Why can't I change settings in the pause screen?</span></a></li>
+<li class="toclevel-2 tocsection-46"><a href="#How_big_is_the_map.3F"><span class="tocnumber">6.7</span> <span class="toctext">How big is the map?</span></a></li>
+<li class="toclevel-2 tocsection-47"><a href="#The_map_is_too_small.21_Can_it_be_expanded.3F"><span class="tocnumber">6.8</span> <span class="toctext">The map is too small! Can it be expanded?</span></a></li>
+<li class="toclevel-2 tocsection-48"><a href="#Can_I_change_my_skin.3F"><span class="tocnumber">6.9</span> <span class="toctext">Can I change my skin?</span></a>
+<ul>
+<li class="toclevel-3 tocsection-49"><a href="#What_format_do_skins_use.3F"><span class="tocnumber">6.9.1</span> <span class="toctext">What format do skins use?</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-50"><a href="#How_do_I_set_my_spawn_point.3F"><span class="tocnumber">6.10</span> <span class="toctext">How do I set my spawn point?</span></a></li>
+<li class="toclevel-2 tocsection-51"><a href="#How_do_I_make_the_world_flat.3F"><span class="tocnumber">6.11</span> <span class="toctext">How do I make the world flat?</span></a></li>
+<li class="toclevel-2 tocsection-52"><a href="#Can_I_add_fancy_shaders.3F"><span class="tocnumber">6.12</span> <span class="toctext">Can I add fancy shaders?</span></a></li>
+<li class="toclevel-2 tocsection-53"><a href="#How_do_I_increase_the_brightness.3F"><span class="tocnumber">6.13</span> <span class="toctext">How do I increase the brightness?</span></a></li>
+<li class="toclevel-2 tocsection-54"><a href="#How_do_I_fly.3F"><span class="tocnumber">6.14</span> <span class="toctext">How do I fly?</span></a></li>
+<li class="toclevel-2 tocsection-55"><a href="#How_do_I_sprint.3F"><span class="tocnumber">6.15</span> <span class="toctext">How do I sprint?</span></a></li>
+<li class="toclevel-2 tocsection-56"><a href="#How_do_I_find_my_house_again.3F"><span class="tocnumber">6.16</span> <span class="toctext">How do I find my house again?</span></a></li>
+<li class="toclevel-2 tocsection-57"><a href="#How_do_I_generate_a_map_of_my_world.3F"><span class="tocnumber">6.17</span> <span class="toctext">How do I generate a map of my world?</span></a></li>
+<li class="toclevel-2 tocsection-58"><a href="#Can_I_use_WorldPainter_with_Minetest.3F"><span class="tocnumber">6.18</span> <span class="toctext">Can I use WorldPainter with Minetest?</span></a></li>
+<li class="toclevel-2 tocsection-59"><a href="#Is_there_a_World_Edit_for_Minetest.3F"><span class="tocnumber">6.19</span> <span class="toctext">Is there a World Edit for Minetest?</span></a></li>
+<li class="toclevel-2 tocsection-60"><a href="#Can_I_convert_Minecraft_worlds_and_content_to_Minetest.3F"><span class="tocnumber">6.20</span> <span class="toctext">Can I convert Minecraft worlds and content to Minetest?</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-61"><a href="#Game_and_Mod_Development"><span class="tocnumber">7</span> <span class="toctext">Game and Mod Development</span></a>
+<ul>
+<li class="toclevel-2 tocsection-62"><a href="#What_is_a_mod.3F"><span class="tocnumber">7.1</span> <span class="toctext">What is a mod?</span></a></li>
+<li class="toclevel-2 tocsection-63"><a href="#What_language_are_games_and_mods_written_in.3F"><span class="tocnumber">7.2</span> <span class="toctext">What language are games and mods written in?</span></a></li>
+<li class="toclevel-2 tocsection-64"><a href="#How_can_I_learn_to_make_games_and_mods.3F"><span class="tocnumber">7.3</span> <span class="toctext">How can I learn to make games and mods?</span></a>
+<ul>
+<li class="toclevel-3 tocsection-65"><a href="#How_fast_is_Lua.3F"><span class="tocnumber">7.3.1</span> <span class="toctext">How fast is Lua?</span></a></li>
+<li class="toclevel-3 tocsection-66"><a href="#Why_can.27t_I_use_modern_Lua_features.3F"><span class="tocnumber">7.3.2</span> <span class="toctext">Why can't I use modern Lua features?</span></a></li>
+<li class="toclevel-3 tocsection-67"><a href="#Can_I_write_games_or_mods_in_.5Binsert_language_here.5D.3F"><span class="tocnumber">7.3.3</span> <span class="toctext">Can I write games or mods in [insert language here]?</span></a></li>
+<li class="toclevel-3 tocsection-68"><a href="#I_want_to_use_this_Java_mod.21_I_need_Java.21"><span class="tocnumber">7.3.4</span> <span class="toctext">I want to use this Java mod! I need Java!</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-69"><a href="#What_is_the_Minetest_API.3F"><span class="tocnumber">7.4</span> <span class="toctext">What is the Minetest API?</span></a></li>
+<li class="toclevel-2 tocsection-70"><a href="#Can_mods_overwrite_the_engine.3F"><span class="tocnumber">7.5</span> <span class="toctext">Can mods overwrite the engine?</span></a></li>
+<li class="toclevel-2 tocsection-71"><a href="#What_is_a_formspec.3F"><span class="tocnumber">7.6</span> <span class="toctext">What is a formspec?</span></a></li>
+<li class="toclevel-2 tocsection-72"><a href="#What_is_a_listring.3F"><span class="tocnumber">7.7</span> <span class="toctext">What is a listring?</span></a></li>
+<li class="toclevel-2 tocsection-73"><a href="#How_do_I_do_biomes.3F"><span class="tocnumber">7.8</span> <span class="toctext">How do I do biomes?</span></a></li>
+<li class="toclevel-2 tocsection-74"><a href="#What_is_devtest.3F"><span class="tocnumber">7.9</span> <span class="toctext">What is devtest?</span></a></li>
+<li class="toclevel-2 tocsection-75"><a href="#What_is_mod_security.3F"><span class="tocnumber">7.10</span> <span class="toctext">What is mod security?</span></a></li>
+<li class="toclevel-2 tocsection-76"><a href="#How_do_I_debug_my_Lua_code.3F"><span class="tocnumber">7.11</span> <span class="toctext">How do I debug my Lua code?</span></a></li>
+<li class="toclevel-2 tocsection-77"><a href="#I_get_an_error_or_warning_message.2C_what_does_it_mean.3F"><span class="tocnumber">7.12</span> <span class="toctext">I get an error or warning message, what does it mean?</span></a></li>
+<li class="toclevel-2 tocsection-78"><a href="#Why_can.27t_I_make_other_keybinds.3F"><span class="tocnumber">7.13</span> <span class="toctext">Why can't I make other keybinds?</span></a></li>
+<li class="toclevel-2 tocsection-79"><a href="#How_do_I_make_models_for_my_mods.3F"><span class="tocnumber">7.14</span> <span class="toctext">How do I make models for my mods?</span></a>
+<ul>
+<li class="toclevel-3 tocsection-80"><a href="#Can_I_use_Blockbench_to_make_models.3F"><span class="tocnumber">7.14.1</span> <span class="toctext">Can I use Blockbench to make models?</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-81"><a href="#Can_I_distribute_games_outside_of_Minetest.3F"><span class="tocnumber">7.15</span> <span class="toctext">Can I distribute games outside of Minetest?</span></a></li>
+<li class="toclevel-2 tocsection-82"><a href="#Can_I_sell_games_I_make_with_Minetest.3F"><span class="tocnumber">7.16</span> <span class="toctext">Can I sell games I make with Minetest?</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span id="What_is_Minetest?"></span><span class="mw-headline" id="What_is_Minetest.3F">What is Minetest?</span></h2>
+<p>Minetest is a free software game engine desgined to create <a rel="nofollow" class="external text" href="https://en.wikipedia.org/wiki/Voxel">voxel</a>-based games. A detailed description can be found at <a href="/Minetest" title="Minetest">Minetest</a>.
+</p>
+<h2><span class="mw-headline" id="About_the_Engine">About the Engine</span></h2>
+<h3><span id="How_much_does_Minetest_cost?"></span><span class="mw-headline" id="How_much_does_Minetest_cost.3F">How much does Minetest cost?</span></h3>
+<p>Nothing. It's free.
+</p>
+<h3><span id="Is_Minetest_a_clone_of_Minecraft?"></span><span class="mw-headline" id="Is_Minetest_a_clone_of_Minecraft.3F">Is Minetest a clone of Minecraft?</span></h3>
+<p>The very first version of Minetest was intended to replicate what Minecraft Alpha had been shown to do at the time (2010)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>. It's goals soon diverged from Minecraft and eventually became a game engine instead.
+</p>
+<h3><span id="Who_created_Minetest?"></span><span class="mw-headline" id="Who_created_Minetest.3F">Who created Minetest?</span></h3>
+<p><a href="/Celeron55" title="Celeron55">Perttu Ahola</a> (also known as <b>celeron55</b>). It is currently developed by <a rel="nofollow" class="external text" href="https://github.com/orgs/minetest/people">this random bunch of lunatics</a> as well as <a rel="nofollow" class="external text" href="https://github.com/minetest/minetest/graphs/contributors">the community</a>.
+</p>
+<h3><span id="What_is_Minetest_written_in?"></span><span class="mw-headline" id="What_is_Minetest_written_in.3F">What is Minetest written in?</span></h3>
+<p>Minetest is written in C++ using a <a href="#What_is_Irrlicht.3F">forked version of the Irrlicht rendering engine</a>. The game and mod API uses the <a rel="nofollow" class="external text" href="https://www.lua.org/">Lua language</a>.
+</p>
+<h3><span id="Can_I_change_the_code_myself?"></span><span class="mw-headline" id="Can_I_change_the_code_myself.3F">Can I change the code myself?</span></h3>
+<p><a rel="nofollow" class="external text" href="https://github.com/minetest/minetest/">Yes.</a> Minetest is freely licensed (<a rel="nofollow" class="external text" href="https://github.com/minetest/minetest/blob/master/LICENSE.txt">LGPL 2.1 and others</a>).
+</p>
+<h3><span id="When_will_the_next_version_of_Minetest_be_released?"></span><span class="mw-headline" id="When_will_the_next_version_of_Minetest_be_released.3F">When will the next version of Minetest be released?</span></h3>
+<p>Check the <a rel="nofollow" class="external text" href="https://github.com/minetest/minetest/milestones">GitHub milestones</a> for a good idea of how far along the next version is.
+</p>
+<h4><span id="Why_did_the_version_change_from_0.4.17.1_to_5.0.0?"></span><span class="mw-headline" id="Why_did_the_version_change_from_0.4.17.1_to_5.0.0.3F">Why did the version change from 0.4.17.1 to 5.0.0?</span></h4>
+<p>Minetest switched to <a rel="nofollow" class="external text" href="https://semver.org/">semver</a> after 0.4.17.1 because the leading zero was never going to change. In the old versioning system 5.0.0 would be 0.5.0.0. Semver is cleaner and is an industry standard.
+</p>
+<h3><span id="How_do_I_install_and_run_Minetest?"></span><span class="mw-headline" id="How_do_I_install_and_run_Minetest.3F">How do I install and run Minetest?</span></h3>
+<p><i>See <a href="/Getting_Started#Getting_Minetest" title="Getting Started">Getting_Started#Getting_Minetest</a>.</i>
+</p>
+<h3><span id="How_do_I_update_Minetest?"></span><span class="mw-headline" id="How_do_I_update_Minetest.3F">How do I update Minetest?</span></h3>
+<p>This depends on your operating system and installation method. You will usually either download the newest version or run an update command. Some systems may require you to move your worlds and mods. If you are using the Git version, simply pull and compile every time you want to update.
+</p>
+<h3><span id="Where_and_how_do_I_find_games_to_install?"></span><span class="mw-headline" id="Where_and_how_do_I_find_games_to_install.3F">Where and how do I find games to install?</span></h3>
+<p>Check out <a rel="nofollow" class="external text" href="https://content.minetest.net/packages/?type=game">Minetest ContentDB</a> for a list of games. You can easily install games (and other content) through the client in the <b>Content</b> tab ('Browse online content'). You may also manually install games you find on the forum or GitHub to the "games" folder in your Minetest data directory. For more information about games, see <a href="/Games" title="Games">Games</a>.
+</p>
+<h3><span id="What_is_Irrlicht?"></span><span class="mw-headline" id="What_is_Irrlicht.3F">What is Irrlicht?</span></h3>
+<p>Irrlicht is a rather ancient real-time 3D engine. Currently Minetest uses it for rendering, managing the window, the underlying GUI, input handling, model and image format support.
+</p><p>As it's old and mostly unmaintained, there is work on moving away from Irrlicht. Currently Minetest uses its own fork of Irrlicht called <a rel="nofollow" class="external text" href="https://github.com/minetest/irrlicht">IrrlichtMt</a>, which is supposed to distill Irrlicht down to what Minetest actually uses, along with fixing issues that were previously out of reach. The goal is to reduce the reliance on Irrlicht in favour of SDL2 and our own rendering pipeline.
+</p>
+<h3><span id="Why_does_the_UI_look_so_old?"></span><span class="mw-headline" id="Why_does_the_UI_look_so_old.3F">Why does the UI look so old?</span></h3>
+<p>A lot of the interface uses default <a href="#What_is_Irrlicht.3F">Irrlicht</a> styling from before <a rel="nofollow" class="external text" href="https://github.com/minetest/minetest/blob/f0703f3/doc/lua_api.txt#L2958">form styling</a> was introduced. It is possible to make the UI look modern, but UI design is already a pain on its own, coupled with the quirks of the <a rel="nofollow" class="external text" href="https://github.com/minetest/minetest/blob/f0703f3/doc/lua_api.txt#L2227">formspec</a> system Minetest uses. A proper GUI replacement may arrive in the future.
+</p>
+<h3><span id="The_main_menu_sucks!"></span><span class="mw-headline" id="The_main_menu_sucks.21">The main menu sucks!</span></h3>
+<p><a rel="nofollow" class="external text" href="https://github.com/minetest/minetest/issues/6733">We're working on it.</a>
+</p>
+<h3><span id="I_have_a_technical_problem,_how_to_fix_this?"></span><span class="mw-headline" id="I_have_a_technical_problem.2C_how_to_fix_this.3F">I have a technical problem, how to fix this?</span></h3>
+<p><i>See <a href="/Troubleshooting" title="Troubleshooting">Troubleshooting</a>.</i>
+</p>
+<h3><span id="Is_Minetest_multi-threaded?"></span><span class="mw-headline" id="Is_Minetest_multi-threaded.3F">Is Minetest multi-threaded?</span></h3>
+<p>Yes. Minetest's client and server run in different threads. The server also runs map generation in worker threads, although this is limited to a single thread currently due to issues (but <a rel="nofollow" class="external text" href="https://github.com/minetest/minetest/blob/eea2a97/minetest.conf.example#L2973-L2984">can be changed in settings</a>). The client runs mesh generation in worker threads. As of 5.7.0, mapblock rendering is done in parallel on several threads.
+</p><p>It's rare for games to be heavily concurrent as it's not needed for smaller games - it's usually only found in MMOs. It's a lot harder to write multi-threaded gameplay logic, which is in conflict with Minetest's aim to be an easy-to-use content creation platform. There is an API for mods to run tasks in a worker thread, however.
+</p>
+<h3><span id="Why_is_it_called_&quot;Minetest&quot;?"></span><span class="mw-headline" id="Why_is_it_called_.22Minetest.22.3F">Why is it called "Minetest"?</span></h3>
+<p>Minetest started as an experiment (a <b>test</b>, if you will) to replicate <b>Mine</b>craft Alpha. The name stuck, and <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=5&amp;t=17133">no one can agree</a> <a rel="nofollow" class="external text" href="https://github.com/minetest/minetest/issues/13510">on a new one</a>.
+</p>
+<h3><span id="Can_you_add_support_for_iOS?"></span><span class="mw-headline" id="Can_you_add_support_for_iOS.3F">Can you add support for iOS?</span></h3>
+<p>We are unable to add Minetest to the App Store as there is a license conflict. The App Store's EULA contains terms that limit software freedom, which (as far as the consensus goes) conflicts with (L)GPL licenses.
+</p><p>Whilst it theoretically would be possible to distribute apps outside of the App Store, iOS is generally anti software freedom. <del>Users would need to either pay $80 a year for a developer license and have a Mac Book, or jailbreak their phone. Neither of these things are particularly desirable.</del> <b>Edit</b>: looks like there are now third-party ways to sideload, and the EU may be forcing Apple to allow sideloading in the future, so this may not apply.
+</p><p>Another reason is that we have limited time, and we do not have a core developer that could be responsible for the development of an iOS version. See the question below.
+</p>
+<h3><span id="Can_you_add_support_for_X_platform_or_console?"></span><span class="mw-headline" id="Can_you_add_support_for_X_platform_or_console.3F">Can you add support for X platform or console?</span></h3>
+<p>Minetest is a volunteer project with limited time and resources. Supporting a new platform takes a lot of effort, and we're only able to officially support platforms with a core developer using it.
+</p><p>In terms of consoles, if someone is willing to make a homebrew port for a game console then it can be done, and this port can be submitted to upstream given that the changes aren't intrusive and some kind of maintenance is kept. Putting Minetest onto a games console in any official capacity is not possible due to NDAs preventing an open source release, which is incompatible with the LGPLv2.1 license.
+</p><p>Minetest is open source. We welcome contributors to port Minetest to other platforms (providing they follow the licenses of course). Contributors are also welcome to contribute their changes back upstream as well, providing that they're not too intrusive.
+</p>
+<h2><span class="mw-headline" id="Terminology">Terminology</span></h2>
+<p>For a more complete list of Minetest terminology, see <a href="/Terminology" title="Terminology">Terminology</a>.
+</p>
+<dl><dt>Mod</dt>
+<dd>A "module" or "modification" to a game. <i>See <a href="/Mods" title="Mods">Mods</a>.</i></dd>
+<dt>Game</dt>
+<dd>A collection of modules configured to run on the Minetest engine. <i>See <a href="/Games" title="Games">Games</a>.</i></dd>
+<dt>Subgame</dt>
+<dd>A legacy term for <a href="/Games" title="Games">game</a>.</dd>
+<dt>Texture pack</dt>
+<dd>A set of client-side textures that overwrite included game or mod textures. <i>See <a href="/Texture_Packs" title="Texture Packs">Texture Packs</a>.</i></dd>
+<dt>Node</dt>
+<dd>Technical name for a single cube or block.</dd>
+<dt>Mob</dt>
+<dd>A moving creature. <i>See <a href="/Mobs" title="Mobs">Mobs</a>.</i></dd></dl>
+<h2><span class="mw-headline" id="About_Minetest_Game">About Minetest Game</span></h2>
+<h3><span id="What_is_Minetest_Game?"></span><span class="mw-headline" id="What_is_Minetest_Game.3F">What is Minetest Game?</span></h3>
+<p>Minetest Game is the game currently included with Minetest, mostly intended to show features and act as a base for mods. <b>Minetest Game IS NOT <i>Minetest</i></b>, but just another game that is being officially maintained by the engine developers. See <a href="/Games/Minetest_Game" title="Games/Minetest Game">Minetest Game</a> for more details.
+</p><p>In its vanilla state, it might be considered too boring of a game. It can be enough if you want to build in creative, but you will need to install additional mods for it to become a decent survival gameplay experience.
+</p>
+<h3><span id="Where_is_[insert_Minecraft_feature_here]?"></span><span class="mw-headline" id="Where_is_.5Binsert_Minecraft_feature_here.5D.3F">Where is [insert Minecraft feature here]?</span></h3>
+<p>Minetest Game is not intended to replicate Minecraft in any way. Features from Minecraft may be found in mods or other games (try out <a rel="nofollow" class="external text" href="https://content.minetest.net/packages/Wuzzy/mineclone2/">Mineclone2</a> for a close analog of Minecraft). If you would like to play a game with Minecraft features, we recommend playing Minecraft.
+</p><p><i>See also <a href="/Differences_from_Minecraft" title="Differences from Minecraft">Differences from Minecraft</a>.</i>
+</p>
+<h4><span id="Which_Mineclone_should_I_play?"></span><span class="mw-headline" id="Which_Mineclone_should_I_play.3F">Which Mineclone should I play?</span></h4>
+<p><a rel="nofollow" class="external text" href="https://content.minetest.net/packages/Wuzzy/mineclone2/">Mineclone2</a> is the more popular and usually more stable version of Mineclone. <a rel="nofollow" class="external text" href="https://content.minetest.net/packages/kay27/mineclone5/">Mineclone5</a> is a fork of Mineclone2 with a fast and loose development process resulting in more features sooner, but more instability. Nearly all features from Mineclone5 end up in Mineclone2. It is worth noting that Mineclone5 worlds may be converted to Mineclone2, but not the reverse.
+</p><p><a rel="nofollow" class="external text" href="https://git.minetest.land/Mineclonia/Mineclonia">Mineclonia</a> is a somewhat inactive fork focused on stability. <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?t=11467">Mineclone</a> (the original) was a project from 2015 intended to replicate Minecraft in Minetest, now succeeded by Mineclone2.
+</p>
+<h4><span id="What_is_MeseCraft?"></span><span class="mw-headline" id="What_is_MeseCraft.3F">What is MeseCraft?</span></h4>
+<p>Contrary to what the name may suggest, <a rel="nofollow" class="external text" href="https://content.minetest.net/packages/MeseCraft/mesecraft/">MeseCraft</a> is not a Minecraft clone. It is a collection of mods intended to provide a curated, ready-to-go survival experience.
+</p>
+<h3><span id="Where_is_all_the_content?_No_mobs?_No_story?"></span><span class="mw-headline" id="Where_is_all_the_content.3F_No_mobs.3F_No_story.3F">Where is all the content? No mobs? No story?</span></h3>
+<p>Minetest Game is not designed with a story or goal in mind. It is simply a sandbox to play in. Mods or other games provide actual gameplay content. Try looking for some on the <a rel="nofollow" class="external text" href="https://content.minetest.net/">ContentDB</a>.
+</p>
+<h3><span id="You_should_add_[insert_feature_here]_to_Minetest_Game!"></span><span class="mw-headline" id="You_should_add_.5Binsert_feature_here.5D_to_Minetest_Game.21">You should add [insert feature here] to Minetest Game!</span></h3>
+<p>Minetest Game is <a rel="nofollow" class="external text" href="https://github.com/minetest/minetest_game/issues/2710">currently in a low-development state</a>, mostly just maintenance and bug fixes. New game features are not being considered as Minetest Game is intended to be retired from "default" status.
+</p>
+<h3><span id="How_does_[insert_item_or_block_here]_work?_How_do_I_craft_it?"></span><span class="mw-headline" id="How_does_.5Binsert_item_or_block_here.5D_work.3F_How_do_I_craft_it.3F">How does [insert item or block here] work? How do I craft it?</span></h3>
+<p>Refer to <a href="/Blocks" class="mw-redirect" title="Blocks">Blocks</a> and <a href="/Items" title="Items">Items</a> for information on usage and crafting. You can also install a <a href="/Crafting_guide" title="Crafting guide">crafting guide</a> mod to view available crafting recipes.
+</p>
+<h3><span id="I_was_told_there_were_dungeons._Where_are_they?"></span><span class="mw-headline" id="I_was_told_there_were_dungeons._Where_are_they.3F">I was told there were dungeons. Where are they?</span></h3>
+<p>Make sure you enable dungeons when you create your world. They tend to spawn generally anywhere under or on the surface, you'll run into one eventually.
+</p>
+<h2><span class="mw-headline" id="Community">Community</span></h2>
+<h3><span id="Where_can_I_ask_questions?"></span><span class="mw-headline" id="Where_can_I_ask_questions.3F">Where can I ask questions?</span></h3>
+<p>You can ask in <a rel="nofollow" class="external text" href="http://minetest.net/irc">IRC (#minetest)</a>, the <a rel="nofollow" class="external text" href="https://forum.minetest.net/">Forum</a>, <a rel="nofollow" class="external text" href="https://discord.gg/minetest">Discord</a>, or <a rel="nofollow" class="external text" href="https://www.reddit.com/r/Minetest/">Reddit</a>. It is recommended to search history and archives first, many questions have already been answered.<br />
+Be mindful of which category (thread, channel, etc.) your question may fall under when asking on certain platforms.
+</p><p>Find out where you can get involved <a rel="nofollow" class="external text" href="https://www.minetest.net/get-involved/">here</a>.
+</p>
+<h3><span id="How_do_I_install_third-party_content?"></span><span class="mw-headline" id="How_do_I_install_third-party_content.3F">How do I install third-party content?</span></h3>
+<p>You can find all kinds of community-made content on <a rel="nofollow" class="external text" href="https://content.minetest.net/">the Minetest ContentDB</a>. You can find and install content from this database using "Browse online content" found in the <b>Content</b> tab in the main menu.
+</p><p>For manually installing content, see <a href="/Games#Installing_games" title="Games">Installing Games</a>, <a href="/Installing_Mods" title="Installing Mods">Installing Mods</a>, <a href="/Maps#Installation" class="mw-redirect" title="Maps">Installing Maps</a>, and <a href="/Texture_Packs#Installation" title="Texture Packs">Installing Texture Packs</a>.
+</p>
+<h3><span id="Why_can't_I_find_the_mod_default_or_[insert_mod_here]?"></span><span class="mw-headline" id="Why_can.27t_I_find_the_mod_default_or_.5Binsert_mod_here.5D.3F">Why can't I find the mod <code>default</code> or [insert mod here]?</span></h3>
+<p>Some mods are part of games. Mods like <code>default</code> and <code>wool</code> are usually part of Minetest Game and are not meant to be installed as seperate mods. For a mod depending on e.g. <code>default</code> to work, you will need to use Minetest Game. Good game design practice is to prefix game-specific mods with the game name. Minetest Game is a particularly confusing case, unfortunately.
+</p>
+<h3><span id="Are_mods_compatible_with_each_other?"></span><span class="mw-headline" id="Are_mods_compatible_with_each_other.3F">Are mods compatible with each other?</span></h3>
+<p>Unless otherwise noted, most mods will just work with each other (they may or may not interact perfectly). Different API implementations (such as mobs or stairs), game-specific mods, or competing content implementations may not be compatible with each other.
+</p>
+<h3><span id="How_do_I_connect_to_servers?_Do_I_need_a_multiplayer_account?"></span><span class="mw-headline" id="How_do_I_connect_to_servers.3F_Do_I_need_a_multiplayer_account.3F">How do I connect to servers? Do I need a multiplayer account?</span></h3>
+<p>There is no globally valid multiplayer account in Minetest. For each server, you can use a different name and password. The "account" is created at first login. This way, only you can access your player and inventory on that particular server. You can always play singleplayer with no need for any username and password.
+</p>
+<h3><span id="How_do_I_make_my_own_server?"></span><span class="mw-headline" id="How_do_I_make_my_own_server.3F">How do I make my own server?</span></h3>
+<p>Read <a href="/Setting_up_a_server" title="Setting up a server">Setting up a server</a> and <a href="/Server" title="Server">Server</a>. See <a href="/Server_commands" title="Server commands">Server commands</a> for a list of usual included chat commands.
+</p>
+<h3><span id="How_do_I_get_an_account_for_the_Minetest_Wiki?"></span><span class="mw-headline" id="How_do_I_get_an_account_for_the_Minetest_Wiki.3F">How do I get an account for the Minetest Wiki?</span></h3>
+<p>By requesting one at <a rel="nofollow" class="external free" href="https://forum.minetest.net/viewtopic.php?f=3&amp;t=10473">https://forum.minetest.net/viewtopic.php?f=3&amp;t=10473</a>.
+</p>
+<h2><span class="mw-headline" id="Gameplay">Gameplay</span></h2>
+<h3><span id="How_do_I_see_my_coordinates_or_check_my_FPS?"></span><span class="mw-headline" id="How_do_I_see_my_coordinates_or_check_my_FPS.3F">How do I see my coordinates or check my FPS?</span></h3>
+<p>Use the <kbd>F5</kbd> key to toggle debug info. The top of your screen may display your FPS and coordinates, among other information. If the game or server you're playing on disables this information then it won't be visible. Pressing <kbd>F5</kbd> again will toggle the profiler, and then wireframe mode if the <b>debug</b> <a href="/Privileges" title="Privileges">privilege</a> is possessed. A final press will toggle debug info off.
+</p>
+<h3><span id="Why_is_my_FPS_so_low?"></span><span class="mw-headline" id="Why_is_my_FPS_so_low.3F">Why is my FPS so low?</span></h3>
+<p>There are many reasons your FPS could be low. A common culprit is having infinite viewing range enabled. This can be toggled, but there is no keybind set to do so. You can also try decreasing your regular view range using the <kbd>-</kbd> by default (<kbd>+</kbd> to increase). Render distance is measured in nodes.
+</p>
+<h3><span id="How_do_I_enable_full-screen?"></span><span class="mw-headline" id="How_do_I_enable_full-screen.3F">How do I enable full-screen?</span></h3>
+<p>On many systems your OS fullscreen key (such as <kbd>alt+F11</kbd> on Ubuntu) should work just fine. Otherwise, navigate to <b>Advanced Settings</b> in the <b>Settings</b> tab in the main menu, and go to <i>Graphics &gt; In-Game &gt; Advanced &gt; Fullscreen</i>, where you can double-click to change the value or use the <b>Edit</b> button. You will need to restart Minetest for this to take effect.
+</p>
+<h3><span id="What_are_the_controls?_How_do_I_change_them?"></span><span class="mw-headline" id="What_are_the_controls.3F_How_do_I_change_them.3F">What are the controls? How do I change them?</span></h3>
+<p><i>See <a href="/Controls" title="Controls">Controls</a>.</i>  
+</p>
+<h3><span id="Can_I_use_a_controller_or_gamepad?"></span><span class="mw-headline" id="Can_I_use_a_controller_or_gamepad.3F">Can I use a controller or gamepad?</span></h3>
+<p>Yes. It is recommended to use an external program to bind them, as the current engine implementation of them functions poorly. See <a href="/Gamepads" title="Gamepads">Gamepads</a> for more info.
+</p>
+<h3><span id="Why_can't_I_change_settings_in_the_pause_screen?"></span><span class="mw-headline" id="Why_can.27t_I_change_settings_in_the_pause_screen.3F">Why can't I change settings in the pause screen?</span></h3>
+<p>Many settings require the game to reload anyway, but otherwise there simply isn't a menu implemented to do it. <a rel="nofollow" class="external text" href="https://github.com/minetest/minetest/pulls">Contributions welcome</a>.
+</p>
+<h3><span id="How_big_is_the_map?"></span><span class="mw-headline" id="How_big_is_the_map.3F">How big is the <a href="/Maps" class="mw-redirect" title="Maps">map</a>?</span></h3>
+<p>The map is a cube with a side length of 61840 <a href="/Nodes" title="Nodes">node</a> (blocks) lengths. The map has thus a volume equal to the volume of 61840<sup>3</sup> nodes = 236,487,637,504,000 nodes.
+The coordinates range from −30912 to 30927 in all dimensions.
+</p><p><i>See also <a href="/Coordinates" title="Coordinates">Coordinates</a> and <a href="/World_boundaries" title="World boundaries">World boundaries</a>.</i>
+</p>
+<h3><span id="The_map_is_too_small!_Can_it_be_expanded?"></span><span class="mw-headline" id="The_map_is_too_small.21_Can_it_be_expanded.3F">The map is too small! Can it be expanded?</span></h3>
+<p>Not currently. The current size of the world is plenty large, in addition to being approximately 62000 nodes in horizontal size, the world is also approximately 62000 nodes tall giving a lot of vertical space to expand to.
+</p><p>The reason the map is limited to this is due to the integer types of positions, along with float precision becoming less accurate the further from the origin one could theoretically go. The fix would require a lot of changes to the code, and cause a multiplayer netcode compatibility break which isn't something desirable right now and is of a lesser priority compared to other issues with the engine.
+</p>
+<h3><span id="Can_I_change_my_skin?"></span><span class="mw-headline" id="Can_I_change_my_skin.3F">Can I change my skin?</span></h3>
+<p>Skins are implemented per-game and per-world, as there is no central authentication server where skins are managed. If you'd like to change your skin in singleplayer, try using one of the <a rel="nofollow" class="external text" href="https://content.minetest.net/packages/?type=mod&amp;q=skin">many skin mods</a>. To change your skin on a server, use their skin mod (if any) or contact a member of management.
+</p>
+<h4><span id="What_format_do_skins_use?"></span><span class="mw-headline" id="What_format_do_skins_use.3F">What format do skins use?</span></h4>
+<p>Minetest Game uses pre-1.8 Minecraft skins (64x32). These support regular body texture, a head overlay, 4px-wide arms, and a cape. Other skin mods implement 64x64 skin support or other formats.
+</p>
+<h3><span id="How_do_I_set_my_spawn_point?"></span><span class="mw-headline" id="How_do_I_set_my_spawn_point.3F">How do I set my spawn point?</span></h3>
+<p>If you play Minetest Game, you can build a <a href="/Bed" title="Bed">bed</a> and sleep at night. On your next life, you will spawn on the bed.
+</p><p>Otherwise, you set your spawn point for <i>all</i> worlds using <code>static_spawnpoint = (x,y,z)</code> in your <a href="/Minetest.conf" title="Minetest.conf">minetest.conf</a> file.
+</p>
+<h3><span id="How_do_I_make_the_world_flat?"></span><span class="mw-headline" id="How_do_I_make_the_world_flat.3F">How do I make the world flat?</span></h3>
+<p>Use the <code>flat</code> mapgen when creating your world and disable all the mapgen flags. If you want the world to use a single material, try the <a rel="nofollow" class="external text" href="https://content.minetest.net/packages/rdococ/really_flat/">Really Flat mod</a>.
+</p>
+<h3><span id="Can_I_add_fancy_shaders?"></span><span class="mw-headline" id="Can_I_add_fancy_shaders.3F">Can I add fancy shaders?</span></h3>
+<p>As of 5.6.0, Minetest comes with toggleable dynamic shadows. Game support is required, if your game in particular does not support it you may use the <code><a rel="nofollow" class="external text" href="https://content.minetest.net/packages/ROllerozxa/enable_shadows/">enable_shadows</a></code> mod. More advanced post-processing shaders, such as bloom or volumetric lighting, are in 5.7.0.
+</p>
+<h3><span id="How_do_I_increase_the_brightness?"></span><span class="mw-headline" id="How_do_I_increase_the_brightness.3F">How do I increase the brightness?</span></h3>
+<p><i>See <a href="/Troubleshooting#The_screen_is_too_dark" title="Troubleshooting">Troubleshooting#The_screen_is_too_dark</a>.</i>
+</p>
+<h3><span id="How_do_I_fly?"></span><span class="mw-headline" id="How_do_I_fly.3F">How do I fly?</span></h3>
+<p>To fly, you first need the "fly" <a href="/Privileges" title="Privileges">privilege</a>. Use the <kbd>K</kbd> key to toggle flying. Ascend with the jump key (default: <kbd>space bar</kbd>) and descend with the sneak key (default: <kbd>shift</kbd>).
+</p><p>See also: <a href="/Controls" title="Controls">Controls</a>
+</p>
+<h3><span id="How_do_I_sprint?"></span><span class="mw-headline" id="How_do_I_sprint.3F">How do I sprint?</span></h3>
+<p>With default Minetest behavior you can "go fast" using the "fast" <a href="/Privileges" title="Privileges">privilege</a> (toggled with the <kbd>J</kbd> key) and your auxilary key (default: <kbd>E</kbd>). This is a lot faster than natural sprinting. There are <a rel="nofollow" class="external text" href="https://content.minetest.net/packages/?type=mod&amp;q=sprint">some mods</a> and games that implement conventional sprinting.
+</p><p>See <a href="/Controls" title="Controls">Controls</a>.
+</p>
+<h3><span id="How_do_I_find_my_house_again?"></span><span class="mw-headline" id="How_do_I_find_my_house_again.3F">How do I find my house again?</span></h3>
+<p>You can keep track of your coordinates (depending on the game) using debug info (<kbd>F5</kbd>). If you want, you can teleport to coordinates using
+</p>
+<pre>/teleport x y z
+</pre>
+<p><i>See <a href="/Server_commands#Teleportation" title="Server commands">Server commands#Teleportation</a>. Requires "teleport" <a href="/Privileges" title="Privileges">privilege</a></i>.
+</p><p>In Minetest Game, you can avoid getting lost again if use <code>/sethome</code> at home to save your home position and <code>/home</code> to teleport back to it.
+</p>
+<h3><span id="How_do_I_generate_a_map_of_my_world?"></span><span class="mw-headline" id="How_do_I_generate_a_map_of_my_world.3F">How do I generate a map of my world?</span></h3>
+<p>There are <a href="/Programs_and_Editors#Mapping" title="Programs and Editors">various mapping tools</a> to generate previews of your world. There is also a <a rel="nofollow" class="external text" href="https://github.com/Treer/Amidst-for-Minetest">fork of Amidst</a> to preview biomes for a world seed.
+</p>
+<h3><span id="Can_I_use_WorldPainter_with_Minetest?"></span><span class="mw-headline" id="Can_I_use_WorldPainter_with_Minetest.3F">Can I use WorldPainter with Minetest?</span></h3>
+<p>The author of WorldPainter has created a <a rel="nofollow" class="external text" href="https://www.worldpainter.net/files/plugins/MinetestSupport.jar">Minetest plugin</a> for WorldPainter. Your mileage may vary.
+</p>
+<h3><span id="Is_there_a_World_Edit_for_Minetest?"></span><span class="mw-headline" id="Is_there_a_World_Edit_for_Minetest.3F">Is there a World Edit for Minetest?</span></h3>
+<p><a rel="nofollow" class="external text" href="https://content.minetest.net/packages/sfan5/worldedit/">Yes.</a> Check out <a href="/Programs_and_Editors#World_editing" title="Programs and Editors">other editing tools</a> as well.
+</p>
+<h3><span id="Can_I_convert_Minecraft_worlds_and_content_to_Minetest?"></span><span class="mw-headline" id="Can_I_convert_Minecraft_worlds_and_content_to_Minetest.3F">Can I convert Minecraft worlds and content to Minetest?</span></h3>
+<p>Yes, there are <a href="/Programs_and_Editors#Convert_data_from_Minecraft" title="Programs and Editors">some tools</a> to convert Minecraft content to Minetest. Your mileage may vary.
+</p>
+<h2><span class="mw-headline" id="Game_and_Mod_Development">Game and Mod Development</span></h2>
+<h3><span id="What_is_a_mod?"></span><span class="mw-headline" id="What_is_a_mod.3F">What is a mod?</span></h3>
+<p>A mod (modification, alternatively can be interchanged with module in the case of Minetest) is a collection of code that can implement or change a feature. The simplest mod consists of just an <code>init.lua</code> inside a folder in the mods/ directory, and makes calls to Minetest Lua modding API in order to implement gameplay features or do other cool things. "Games" in Minetest consist of a collection of mods accessible from the main menu, more akin to "modpacks" in another voxel game.
+</p>
+<h3><span id="What_language_are_games_and_mods_written_in?"></span><span class="mw-headline" id="What_language_are_games_and_mods_written_in.3F">What language are games and mods written in?</span></h3>
+<p>Minetest uses the <a rel="nofollow" class="external text" href="https://www.lua.org/">Lua language</a> for games and mods. It is simple, light, and fast. You can find plenty of tutorials online.
+</p>
+<ul><li><a rel="nofollow" class="external text" href="http://www.lua.org/pil/contents.html">Programming in Lua Book</a>, learn the Lua langauge (for Lua 5.0)</li>
+<li><a rel="nofollow" class="external text" href="http://www.lua.org/manual/5.1/">Lua 5.1 reference</a> (note that Minetest uses Lua 5.1)</li>
+<li><a rel="nofollow" class="external text" href="https://www.tutorialspoint.com/lua/lua_overview.htm">Lua guide by tutorialspoint</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=jUuqBZwwkQw">Lua in 100 Seconds (Video)</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=kgiEF1frHQ8">Lua in 15 Minutes for Programmers (Video)</a></li></ul>
+<h3><span id="How_can_I_learn_to_make_games_and_mods?"></span><span class="mw-headline" id="How_can_I_learn_to_make_games_and_mods.3F">How can I learn to make games and mods?</span></h3>
+<p>We recommend the <a rel="nofollow" class="external text" href="https://rubenwardy.com/minetest_modding_book/en/index.html">Minetest Modding Book</a> to start. For more experienced users there is the <a rel="nofollow" class="external text" href="https://github.com/minetest/minetest/blob/master/doc/lua_api.txt">Lua API reference</a> available in the Minetest source tree, which is also available <a rel="nofollow" class="external text" href="https://minetest.gitlab.io/minetest/">in a pretty HTML version</a>.
+</p><p>If you need further help feel free to ask any questions in the forums or in any of the discussion channels (e.g. IRC, Discord...).
+</p>
+<h4><span id="How_fast_is_Lua?"></span><span class="mw-headline" id="How_fast_is_Lua.3F">How fast is Lua?</span></h4>
+<p><a rel="nofollow" class="external text" href="https://programming-language-benchmarks.vercel.app/lua-vs-java">Really</a>, <a rel="nofollow" class="external text" href="https://programming-language-benchmarks.vercel.app/lua-vs-cpp">really fast</a>.
+</p>
+<h4><span id="Why_can't_I_use_modern_Lua_features?"></span><span class="mw-headline" id="Why_can.27t_I_use_modern_Lua_features.3F">Why can't I use modern Lua features?</span></h4>
+<p>Minetest uses <a rel="nofollow" class="external text" href="https://luajit.org/">LuaJIT</a> which is based on Lua 5.1. In the future if PUC Lua ever matches JIT performance, Minetest could change to a newer version of Lua.
+</p>
+<h4><span id="Can_I_write_games_or_mods_in_[insert_language_here]?"></span><span class="mw-headline" id="Can_I_write_games_or_mods_in_.5Binsert_language_here.5D.3F">Can I write games or mods in [insert language here]?</span></h4>
+<p>If it can transpile to Lua or you connect your own interpreter, yes. E.g. <a rel="nofollow" class="external text" href="https://content.minetest.net/packages/siegment/loria/">Loria</a> is written in <a rel="nofollow" class="external text" href="https://fennel-lang.org/">Fennel</a>.
+Otherwise, support for other languages will not be made first-class. Lua is designed for embedding and we will stick to it.
+</p>
+<h4><span id="I_want_to_use_this_Java_mod!_I_need_Java!"></span><span class="mw-headline" id="I_want_to_use_this_Java_mod.21_I_need_Java.21">I want to use this Java mod! I need Java!</span></h4>
+<p>Lua can easily outperform a bridge to Java in most cases. If you really need to use another language for something like heavy data crunching, Lua can natively call C/++ libraries (only usable if a mod is <a href="#What_is_mod_security.3F">trusted</a>).
+</p>
+<h3><span id="What_is_the_Minetest_API?"></span><span class="mw-headline" id="What_is_the_Minetest_API.3F">What is the Minetest API?</span></h3>
+<p>The Minetest API gives you access to everything the engine currently has to offer. You can find the latest API reference <a rel="nofollow" class="external text" href="https://github.com/minetest/minetest/blob/master/doc/lua_api.txt">here</a>. A ReadTheDocs version can be read <a rel="nofollow" class="external text" href="https://minetest.gitlab.io/minetest/">here</a>.
+</p>
+<h3><span id="Can_mods_overwrite_the_engine?"></span><span class="mw-headline" id="Can_mods_overwrite_the_engine.3F">Can mods overwrite the engine?</span></h3>
+<p>Minetest mods must use the engine-provided API. Unlike Minecraft, Minetest mods cannot change the engine. If you think the engine is missing a feature, consider <a rel="nofollow" class="external text" href="https://github.com/minetest/minetest/issues">opening an issue</a> or <a rel="nofollow" class="external text" href="https://github.com/minetest/minetest/pulls">write the feature yourself</a>.
+</p>
+<h3><span id="What_is_a_formspec?"></span><span class="mw-headline" id="What_is_a_formspec.3F">What is a formspec?</span></h3>
+<p>Formspec is the name of Minetest's UI toolkit, and is used to make dialogs and forms for mods. For more information see the <a rel="nofollow" class="external text" href="https://minetest.gitlab.io/minetest/formspec/#formspec">Lua API documentation</a>.
+</p>
+<h3><span id="What_is_a_listring?"></span><span class="mw-headline" id="What_is_a_listring.3F">What is a listring?</span></h3>
+<p>Listrings are a convenience feature in Minetest to allow quick transfer of an itemstack from one inventory list to another with <code>Shift+Click</code>. Basically, listrings group several inventory lists together in a “ring” data structure. A shift-click will transfer an itemstack from one inventory list to the next inventory list in the listrings, and, if it is the final inventory list in the listring, it will be sent to the first inventory list. (<a rel="nofollow" class="external text" href="https://minetest.gitlab.io/minetest/formspec/#listringinventory-locationlist-name">see Lua API documentation</a>)
+</p>
+<h3><span id="How_do_I_do_biomes?"></span><span class="mw-headline" id="How_do_I_do_biomes.3F">How do I do biomes?</span></h3>
+<p>Biomes are distributed according to their heat and humidity values. These values generally range between 0 and 100. A voronoi diagram can be used to visualise the distribution, <a rel="nofollow" class="external text" href="https://rubenwardy.com/minetest_modding_book/en/advmap/biomesdeco.html#biome-placement">see the modding book</a>.
+</p>
+<h3><span id="What_is_devtest?"></span><span class="mw-headline" id="What_is_devtest.3F">What is devtest?</span></h3>
+<p><a rel="nofollow" class="external text" href="https://wiki.minetest.net/index.php?title=FAQ&amp;action=history">Development Test (devtest)</a> is a game for testing engine features and doing mod development. It provides a minimal set of game content along with an extensive library of content for testing engine features. It is included with the engine.
+</p>
+<h3><span id="What_is_mod_security?"></span><span class="mw-headline" id="What_is_mod_security.3F">What is mod security?</span></h3>
+<p>Mod security prevents mods from executing insecure methods without user approval. A mod needs to be explicitly specified as HTTP to utilize the HTTP API. A mod needs to be trusted to run many OS-level methods.
+</p>
+<h3><span id="How_do_I_debug_my_Lua_code?"></span><span class="mw-headline" id="How_do_I_debug_my_Lua_code.3F">How do I debug my Lua code?</span></h3>
+<p>The "lua" interpreter is not very useful for debugging mod code, because mods are built to run in an environment specific to Minetest (they expect to be loaded after their dependencies, have access to the Minetest API, etc.). However, you may be able to break pieces of your logic into separate, stand-alone Lua library files that are not specific to Minetest. Where you have an opportunity to do this, testing outside of Minetest (using Lua 5.1's "lua" interpreter or LuaJIT's "luajit" interpreter) can be helpful. This might work for some utility functions and "class libraries". 
+</p><p>There is no built-in debugger in Minetest, apart from "printf-style debugging" with functions like <code>minetest.log()</code> and <code>dump()</code>. There exists mods such as <a rel="nofollow" class="external text" href="https://content.minetest.net/packages/LMD/dbg/">dbg</a> which gives more advanced debugging capabilities than are available by default.
+</p>
+<h3><span id="I_get_an_error_or_warning_message,_what_does_it_mean?"></span><span class="mw-headline" id="I_get_an_error_or_warning_message.2C_what_does_it_mean.3F">I get an error or warning message, what does it mean?</span></h3>
+<p><i>See <a href="/Troubleshooting#Error_messages_without_crashes" title="Troubleshooting">Troubleshooting#Error messages without crashes</a>.</i>
+</p>
+<h3><span id="Why_can't_I_make_other_keybinds?"></span><span class="mw-headline" id="Why_can.27t_I_make_other_keybinds.3F">Why can't I make other keybinds?</span></h3>
+<p>This is a missing feature. <a rel="nofollow" class="external text" href="https://github.com/minetest/minetest/pulls">Contributions welcome</a>.
+</p>
+<h3><span id="How_do_I_make_models_for_my_mods?"></span><span class="mw-headline" id="How_do_I_make_models_for_my_mods.3F">How do I make models for my mods?</span></h3>
+<p>We recommend <a href="/Using_Blender" title="Using Blender">using Blender</a> to create models.
+</p>
+<h4><span id="Can_I_use_Blockbench_to_make_models?"></span><span class="mw-headline" id="Can_I_use_Blockbench_to_make_models.3F">Can I use Blockbench to make models?</span></h4>
+<p>Yes, but you will need to export and convert your models to a <a href="/Using_Blender#File_format_support" title="Using Blender">format Minetest supports</a> using Blender. Converting animations from Blockbench is not known to work well (if at all).
+</p>
+<h3><span id="Can_I_distribute_games_outside_of_Minetest?"></span><span class="mw-headline" id="Can_I_distribute_games_outside_of_Minetest.3F">Can I distribute games outside of Minetest?</span></h3>
+<p>Yes, but this is not officially supported in the engine, you will need to maintain a rebranded fork of the engine. See <a href="/Distributing_Minetest_Games" title="Distributing Minetest Games">Distributing Minetest Games</a> for notes on how to do so.
+</p>
+<h3><span id="Can_I_sell_games_I_make_with_Minetest?"></span><span class="mw-headline" id="Can_I_sell_games_I_make_with_Minetest.3F">Can I sell games I make with Minetest?</span></h3>
+<p>As long as you comply with <a rel="nofollow" class="external text" href="https://github.com/minetest/minetest/blob/master/LICENSE.txt">the license</a>, yes. For the engine, you will need to publish the source code to any modifications you've made to it. If you use others' mods in the game then make sure you comply with their license terms and that they don't contain non-free assets that prevent commercial usage.
+</p>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://fr.wikinews.org/wiki/Interview_de_Perttu_Ahola,_cr%C3%A9ateur_du_jeu_Minetest">https://fr.wikinews.org/wiki/Interview_de_Perttu_Ahola,_cr%C3%A9ateur_du_jeu_Minetest</a></span>
+</li>
+</ol></div>
+<!-- 
+NewPP limit report
+Cached time: 20230709173157
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.400 seconds
+Real time usage: 0.729 seconds
+Preprocessor visited node count: 374/1000000
+Post‐expand include size: 2256/2097152 bytes
+Template argument size: 541/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 14/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 83/5000000 bytes
+Lua time usage: 0.110/7 seconds
+Lua virtual size: 5.55 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  418.766      1 Template:Languages
+100.00%  418.766      1 -total
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:326-0!canonical and timestamp 20230709173156 and revision id 27891
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=FAQ&amp;oldid=27891">http://wiki.minetest.net/index.php?title=FAQ&amp;oldid=27891</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:About_Minetest" title="Category:About Minetest">About Minetest</a></li><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=FAQ" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/FAQ" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk"><a href="/Talk:FAQ" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/FAQ">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=FAQ&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=FAQ&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/FAQ" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/FAQ" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=FAQ&amp;oldid=27891" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=FAQ&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 21 June 2023, at 17:03.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.400","walltime":"0.729","ppvisitednodes":{"value":374,"limit":1000000},"postexpandincludesize":{"value":2256,"limit":2097152},"templateargumentsize":{"value":541,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":14,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":83,"limit":5000000},"timingprofile":["100.00%  418.766      1 Template:Languages","100.00%  418.766      1 -total"]},"scribunto":{"limitreport-timeusage":{"value":"0.110","limit":"7"},"limitreport-virtmemusage":{"value":5820416,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709173157","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":364});});</script></body></html>

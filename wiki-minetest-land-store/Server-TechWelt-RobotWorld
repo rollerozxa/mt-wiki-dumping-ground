@@ -1,0 +1,1605 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Server/TechWelt/RobotWorld - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"0f70a8aa4e594b06a21c6342","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Server/TechWelt/RobotWorld","wgTitle":"Server/TechWelt/RobotWorld","wgCurRevisionId":18491,"wgRevisionId":18491,"wgArticleId":3793,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using deprecated source tags","Pages with syntax highlighting errors","Server"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Server/TechWelt/RobotWorld","wgRelevantArticleId":3793,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,
+"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","ext.pygments":"ready","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=ext.pygments%7Cmediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Server_TechWelt_RobotWorld rootpage-Server skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Server/TechWelt/RobotWorld</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/Server" title="Server">Server</a>&lrm; | <a href="/Server/TechWelt" title="Server/TechWelt">TechWelt</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>This is part of <a href="/Server/TechWelt" title="Server/TechWelt">TechWelt</a>, a server showing technical mods for educational purposes.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Robots_.26_Machines"><span class="tocnumber">1</span> <span class="toctext">Robots &amp; Machines</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Robots-Intro"><span class="tocnumber">1.1</span> <span class="toctext">Robots-Intro</span></a>
+<ul>
+<li class="toclevel-3 tocsection-3"><a href="#Robot_standalone"><span class="tocnumber">1.1.1</span> <span class="toctext">Robot standalone</span></a></li>
+<li class="toclevel-3 tocsection-4"><a href="#Robot_with_remote"><span class="tocnumber">1.1.2</span> <span class="toctext">Robot with remote</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-5"><a href="#Machines-Intro"><span class="tocnumber">1.2</span> <span class="toctext">Machines-Intro</span></a>
+<ul>
+<li class="toclevel-3 tocsection-6"><a href="#Lights_.26_Keypad"><span class="tocnumber">1.2.1</span> <span class="toctext">Lights &amp; Keypad</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-7"><a href="#Robot-Tutorial_-_Overview"><span class="tocnumber">1.3</span> <span class="toctext">Robot-Tutorial - Overview</span></a>
+<ul>
+<li class="toclevel-3 tocsection-8"><a href="#Robot_.2301_-_Hello"><span class="tocnumber">1.3.1</span> <span class="toctext">Robot #01 - Hello</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="#Robot_.2302_-_Hello2"><span class="tocnumber">1.3.2</span> <span class="toctext">Robot #02 - Hello2</span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="#Robot_.2303_-_robot-version"><span class="tocnumber">1.3.3</span> <span class="toctext">Robot #03 - robot-version</span></a></li>
+<li class="toclevel-3 tocsection-11"><a href="#Robot_.2304_-_more_output"><span class="tocnumber">1.3.4</span> <span class="toctext">Robot #04 - more output</span></a></li>
+<li class="toclevel-3 tocsection-12"><a href="#Robot_.2305_-_TimeDate"><span class="tocnumber">1.3.5</span> <span class="toctext">Robot #05 - TimeDate</span></a></li>
+<li class="toclevel-3 tocsection-13"><a href="#Robot_.2306_-_Greeter"><span class="tocnumber">1.3.6</span> <span class="toctext">Robot #06 - Greeter</span></a></li>
+<li class="toclevel-3 tocsection-14"><a href="#Robot_.2307_-_look_around"><span class="tocnumber">1.3.7</span> <span class="toctext">Robot #07 - look around</span></a></li>
+<li class="toclevel-3 tocsection-15"><a href="#Robot_.2308_-_list_chest-inventory"><span class="tocnumber">1.3.8</span> <span class="toctext">Robot #08 - list chest-inventory</span></a></li>
+<li class="toclevel-3 tocsection-16"><a href="#Robot_.2309_-_furnace-feeder"><span class="tocnumber">1.3.9</span> <span class="toctext">Robot #09 - furnace-feeder</span></a></li>
+<li class="toclevel-3 tocsection-17"><a href="#Robot_.2310_-_Pickup"><span class="tocnumber">1.3.10</span> <span class="toctext">Robot #10 - Pickup</span></a></li>
+<li class="toclevel-3 tocsection-18"><a href="#Robot_.2311_-_Teleporter"><span class="tocnumber">1.3.11</span> <span class="toctext">Robot #11 - Teleporter</span></a></li>
+<li class="toclevel-3 tocsection-19"><a href="#Robot_.2312_-_Buttonmaker1"><span class="tocnumber">1.3.12</span> <span class="toctext">Robot #12 - Buttonmaker1</span></a></li>
+<li class="toclevel-3 tocsection-20"><a href="#Robot_.2313_-_dig"><span class="tocnumber">1.3.13</span> <span class="toctext">Robot #13 - dig</span></a></li>
+<li class="toclevel-3 tocsection-21"><a href="#Robot_.2314_-_dig_.26_place"><span class="tocnumber">1.3.14</span> <span class="toctext">Robot #14 - dig &amp; place</span></a></li>
+<li class="toclevel-3 tocsection-22"><a href="#Robot_.2315_-_mini-farmer"><span class="tocnumber">1.3.15</span> <span class="toctext">Robot #15 - mini-farmer</span></a></li>
+<li class="toclevel-3 tocsection-23"><a href="#Robot_.2316_-_chat-listener"><span class="tocnumber">1.3.16</span> <span class="toctext">Robot #16 - chat-listener</span></a></li>
+<li class="toclevel-3 tocsection-24"><a href="#Robot_.2317_-_Builder"><span class="tocnumber">1.3.17</span> <span class="toctext">Robot #17 - Builder</span></a></li>
+<li class="toclevel-3 tocsection-25"><a href="#Robot_.2318_-_Demolition"><span class="tocnumber">1.3.18</span> <span class="toctext">Robot #18 - Demolition</span></a></li>
+<li class="toclevel-3 tocsection-26"><a href="#Robot_.2319_-_move-demo"><span class="tocnumber">1.3.19</span> <span class="toctext">Robot #19 - move-demo</span></a></li>
+<li class="toclevel-3 tocsection-27"><a href="#Robot_.2320_-_Color-Tower"><span class="tocnumber">1.3.20</span> <span class="toctext">Robot #20 - Color-Tower</span></a></li>
+<li class="toclevel-3 tocsection-28"><a href="#Robot_.2321_-_Countdown"><span class="tocnumber">1.3.21</span> <span class="toctext">Robot #21 - Countdown</span></a></li>
+<li class="toclevel-3 tocsection-29"><a href="#Robot_.2322_-_X"><span class="tocnumber">1.3.22</span> <span class="toctext">Robot #22 - X</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-30"><a href="#Useful_Robots"><span class="tocnumber">1.4</span> <span class="toctext">Useful Robots</span></a>
+<ul>
+<li class="toclevel-3 tocsection-31"><a href="#BigDisplay"><span class="tocnumber">1.4.1</span> <span class="toctext">BigDisplay</span></a></li>
+<li class="toclevel-3 tocsection-32"><a href="#Mailbox"><span class="tocnumber">1.4.2</span> <span class="toctext">Mailbox</span></a></li>
+<li class="toclevel-3 tocsection-33"><a href="#Paver"><span class="tocnumber">1.4.3</span> <span class="toctext">Paver</span></a></li>
+<li class="toclevel-3 tocsection-34"><a href="#Brickmaker"><span class="tocnumber">1.4.4</span> <span class="toctext">Brickmaker</span></a>
+<ul>
+<li class="toclevel-4 tocsection-35"><a href="#New_chest"><span class="tocnumber">1.4.4.1</span> <span class="toctext">New chest</span></a></li>
+<li class="toclevel-4 tocsection-36"><a href="#Buttonmaker2"><span class="tocnumber">1.4.4.2</span> <span class="toctext">Buttonmaker2</span></a></li>
+</ul>
+</li>
+<li class="toclevel-3 tocsection-37"><a href="#Math-Quiz"><span class="tocnumber">1.4.5</span> <span class="toctext">Math-Quiz</span></a></li>
+<li class="toclevel-3 tocsection-38"><a href="#Simple_Shop"><span class="tocnumber">1.4.6</span> <span class="toctext">Simple Shop</span></a></li>
+<li class="toclevel-3 tocsection-39"><a href="#Multi-language_sign"><span class="tocnumber">1.4.7</span> <span class="toctext">Multi-language sign</span></a></li>
+<li class="toclevel-3 tocsection-40"><a href="#Outfitter"><span class="tocnumber">1.4.8</span> <span class="toctext">Outfitter</span></a></li>
+<li class="toclevel-3 tocsection-41"><a href="#Robo-Farm"><span class="tocnumber">1.4.9</span> <span class="toctext">Robo-Farm</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-42"><a href="#Demos:_Robots.26Machines"><span class="tocnumber">1.5</span> <span class="toctext">Demos: Robots&amp;Machines</span></a>
+<ul>
+<li class="toclevel-3 tocsection-43"><a href="#Street-lanterns"><span class="tocnumber">1.5.1</span> <span class="toctext">Street-lanterns</span></a></li>
+<li class="toclevel-3 tocsection-44"><a href="#Production-Demo"><span class="tocnumber">1.5.2</span> <span class="toctext">Production-Demo</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span id="Robots_&amp;_Machines"></span><span class="mw-headline" id="Robots_.26_Machines">Robots &amp; Machines</span></h2>
+<ul><li><a href="/Mods/basic_robot" title="Mods/basic robot">Basic_robots</a> - a mod about programmable robots that can do almost everything.</li>
+<li><a href="/Mods/basic_machines" title="Mods/basic machines">Basic_machines</a> - a mod for automation and production.</li></ul>
+<p>The main focus here is on basic_robots, using only a few of the machine-parts
+(mostly the keypad).
+</p><p>Robots can also generate power and craft items,
+so almost everything machines can do,<br />
+can be done with robots too.
+</p>
+<dl><dd>Activating a robot is the main exception,</dd>
+<dd>we need the keypad, clock-generator and detector for that.</dd></dl>
+<p>Other players can look at the code inside a robot<br />
+(as opposed to machines, where the settings are only visible to the owner),<br />
+so it is easier to understand how a robot works.
+</p>
+<dl><dd>It is also possible to hide the code, but that requires extra effort.</dd></dl>
+<h3><span class="mw-headline" id="Robots-Intro">Robots-Intro</span></h3>
+<p>The basic-robots use the concept of a spawner + worker.
+</p><p>The spawner is a block that needs to be put on the ground before using, <br />
+much like a chest.<br />
+The spawner contains the robot's inventory and the source-code,
+as well as buttons (START, STOP, SAVE, STORAGE, etc.)<br />
+When started, a worker-robot is created ('spawned') on the spot above the spawner.
+</p><p>This worker executes the instructions of the code 
+and can move around, dig, build etc.<br />
+It disappears when the program ends.
+</p>
+<dl><dd>Programs that don't need to move, can run without the worker,</dd>
+<dd>eg. programs that only listen+talk via chat.</dd></dl>
+<h4><span class="mw-headline" id="Robot_standalone">Robot standalone</span></h4>
+<p>To get a robot, enter the chat-command:
+</p>
+<ul><li>/giveme basic_robot:spawner</li></ul>
+<p>To use, set this robot-spawner on the ground.
+</p>
+<dl><dd>You cannot do this if the area is owned by someone else.</dd></dl>
+<p>To activate the robot, rightclick the spawner, and press the START-button.<br />
+Now the robot-worker will appear on top of the spawner, <br />
+but it will do nothing because there is no program, yet.
+</p><p>Rightclick the spawner again, and press the STOP-button.<br />
+Enter a short program into the edit-area, such as 
+</p>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre>turn.left()</pre></div>
+<p>Then press the SAVE-button,
+and the START-button again.<br />
+The robot-worker should appear again, and turn around.
+</p><p>Other buttons inside the robot:
+</p>
+<ul><li>Storage - opens the robot's inventory (same size as a chest)</li></ul>
+<dl><dd>picking up the robot-spawner is not possible with items in the inventory.</dd></dl>
+<ul><li>Library - opens the robot's library (same size as a bookshelf)</li></ul>
+<dl><dd>The robot can read &amp; write books here, eg. with text and/or code.</dd>
+<dd>By specifying a library-position, the robot can use the library of another robot.</dd></dl>
+<ul><li>Help - shows a page with the available commands.</li></ul>
+<p>...
+</p>
+<h4><span class="mw-headline" id="Robot_with_remote">Robot with remote</span></h4>
+<p>Without programming, a robot can be used with a remotecontrol.<br />
+How to get, via chat-commands:
+</p>
+<ul><li>/giveme basic_robot:spawner</li>
+<li>/giveme basic_robot:control</li></ul>
+<p>To use, set the robot-spawner on the ground,<br />
+and put the remote on the hotbar.
+</p><p>To activate the robot, rightclick the spawner, and press the START-button.
+</p><p>The remote has two modes, "buttons" and "edit",<br />
+that can be accessed by rightclick and leftclick onto empty space.
+</p><p>The buttons of the button-mode allows the robot to move around, and dig.
+</p><p>The edit-mode shows a small input-field for setting the id,<br />
+a bigger input-field for entering a (short) program, and a SAVE-button.
+</p><p><b>id:</b> You can have several remotes on the hotbar, each controlling a different robot.
+</p>
+<dl><dd>Without the robot-priv, you can only run two robots at the same time.</dd></dl>
+<p><b>edit:</b> enter a short program, such as 
+</p>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre>say("Hi")</pre></div>
+<p>Then press the SAVE-button.
+</p><p>When the robot is active, the program in the edit-field is executed by the robot 
+with a leftclick.
+</p>
+<dl><dd>While the edit-field has text in it, the button-mode cannot be used.</dd></dl>
+<p><br />
+</p>
+<h3><span class="mw-headline" id="Machines-Intro">Machines-Intro</span></h3>
+<p><a href="/Mods/basic_machines" title="Mods/basic machines">Basic_machines</a> - a mod for automation and production.<br />
+It is possible to build an automated <a href="/Mods/basic_machines#Factory" title="Mods/basic machines">Factory</a> that produces diamonds,<br />
+or any other item that can be crafted.
+</p><p><b>Constructor</b><br />
+This is like a special crafting-table,
+used to create all the other basic_machines.
+</p><p><b>How to use</b><br />
+</p>
+<ul><li>Place it on the ground,</li>
+<li>Open it with rightclick,</li>
+<li>Select the type of machine you want --&gt; it shows the needed materials</li>
+<li>Put in the needed materials (eg. a wooden plank and a stick)</li>
+<li>Press the CRAFT-button</li>
+<li>Take out your new machine   (eg. a keypad)</li></ul>
+<p><b>Machines:</b><br />
+</p>
+<ul><li>Light  - a block that gives light, can be turned on and off</li>
+<li>Keypad - a big button, that sends signals to turn machines on &amp; off</li></ul>
+<dl><dd>and can do much more (see next chapter)</dd></dl>
+<ul><li>Detector - can detect light, players, blocks, etc.</li></ul>
+<dl><dd>it can then send a signal to activate machines, open doors, etc.</dd></dl>
+<ul><li>Distributor - sends an input-signal to several other machines (up to 10 spaces away)</li></ul>
+<dl><dd>As opposed to mesecons, there are no wires - just a table of coordinates</dd></dl>
+<ul><li>clock-generator - periodically activates the device on top, every 5 seconds.</li></ul>
+<dl><dd>eg. to keep a furnace running.</dd></dl>
+<ul><li>Generator - generates powercells, that can be used as fuel</li></ul>
+<dl><dd>with upgrades, it can produce the more powerful powerblocks and powerrods</dd></dl>
+<ul><li>Battery - uses powercells to power other machines</li></ul>
+<dl><dd>eg. a mover, a grinder or a furnace on top of the battery</dd></dl>
+<ul><li>Mover  - can move everything</li></ul>
+<dl><dd>eg. it can move powercells from the generator to a battery,</dd>
+<dd>it can harvest trees and wheat, move stuff from chest into machines, etc.</dd>
+<dd>The mover can also act as a teleporter or elevator.</dd></dl>
+<ul><li>Grinder - grind materials to dusts, which doubles the output when smelted.</li></ul>
+<dl><dd>see <a href="/Mods/basic_machines#Grinder_recipes" title="Mods/basic machines">Grinder recipes</a></dd></dl>
+<ul><li>AutoCrafter - automated crafting. Set up a recipe, then fill in raw materials.</li></ul>
+<dl><dd></dd></dl>
+<ul><li>Recycler - recyle machines (yields 75% of the building materials).</li></ul>
+<ul><li>Ball-spawner - spawn an energy ball that can activate stuff</li>
+<li>Environment - change physics settings (e.g. gravity) and the skybox</li></ul>
+<p>...
+</p>
+<h4><span id="Lights_&amp;_Keypad"></span><span class="mw-headline" id="Lights_.26_Keypad">Lights &amp; Keypad</span></h4>
+<p>The <b>light</b> is a simple block that gives light,
+and can be turned on and off (eg. with a keypad).
+</p><p>The <b>keypad</b> is a big button that can send a signal to another block.<br />
+It is very versatile, as it can be used to enter text, enter passwords, <br />
+write text on blocks (eg. on signs or chests), repeat a signal several times,
+play sounds, etc.
+</p><p>In combination with robots, the main use of keypads is to allow other players 
+to activate a robot.
+</p>
+<dl><dd>Normally, only the owner can start a robot.</dd></dl>
+<p>...
+</p>
+<h3><span class="mw-headline" id="Robot-Tutorial_-_Overview">Robot-Tutorial - Overview</span></h3>
+<table class="wikitable">
+
+<tbody><tr>
+<th>##</th>
+<th>Title</th>
+<th>command introduced
+</th></tr>
+<tr>
+<td>01</td>
+<td>Hallo</td>
+<td>say(), turn.DIR(), --<br /> where DIR is one of left, right, angle
+</td></tr>
+<tr>
+<td>02</td>
+<td>Hallo2</td>
+<td>self.remove(), var
+</td></tr>
+<tr>
+<td>03</td>
+<td>robots-version</td>
+<td>..
+</td></tr>
+<tr>
+<td>04</td>
+<td>more-output</td>
+<td>self.label(), self.display_text(), if, \n
+</td></tr>
+<tr>
+<td>05</td>
+<td>TimeDate</td>
+<td>os.date(), write_text.DIR()<br /> where DIR is one of forward, backward, up, down, left, right, forward_down ...
+</td></tr>
+<tr>
+<td>06</td>
+<td>Greeter</td>
+<td>find_player()
+</td></tr>
+<tr>
+<td>07</td>
+<td>look-around</td>
+<td>read_node.DIR()
+</td></tr>
+<tr>
+<td>08</td>
+<td>chest-inventory</td>
+<td>for, check_inventory.DIR()<br /> check_inventory can also use the DIRection 'self', to look are the robot's inventory
+</td></tr>
+<tr>
+<td>09</td>
+<td>furnace-feeder1</td>
+<td>take.DIR(), insert.DIR()
+</td></tr>
+<tr>
+<td>10</td>
+<td>pickup()</td>
+<td>self.display_text()
+</td></tr>
+<tr>
+<td>11</td>
+<td>Teleporter</td>
+<td>puzzle, find_player()
+</td></tr>
+<tr>
+<td>12</td>
+<td>Keyboard-button-maker</td>
+<td>keyboard.set()
+</td></tr>
+<tr>
+<td>13</td>
+<td>dig</td>
+<td>self.reset()
+</td></tr>
+<tr>
+<td>14</td>
+<td>dig &amp; place</td>
+<td>function()
+</td></tr>
+<tr>
+<td>15</td>
+<td>mini-farmer</td>
+<td>function()
+</td></tr>
+<tr>
+<td>16</td>
+<td>x</td>
+<td>y
+</td></tr></tbody></table>
+<ul><li>#16 - chat-listener / self.listen()</li>
+<li>#17 - Builder /</li>
+<li>#18 - Demolisher / {} table of functions</li></ul>
+<ul><li>#19 - move-demo / string.find()</li></ul>
+<ul><li>#20 - Color-Tower</li>
+<li>...</li></ul>
+<h4><span id="Robot_#01_-_Hello"></span><span class="mw-headline" id="Robot_.2301_-_Hello">Robot #01 - Hello</span></h4>
+<p>The robot outputs the text "Hallo" via chat, and turns on the spot.<br />
+This repeats until it is turned off, 
+or another robot with the same id is started.
+</p>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre>-- #1 Hallo --
+
+-- Programm wird jede Sekunde neu ausgefuehrt
+-- daher wiederholt sich die Ausgabe, und Robot dreht sich.
+
+say("Hallo")
+
+turn.left()</pre></div>
+<ul><li>Text after <b>--</b> is a comment, and is ignored.</li>
+<li>The command <b>say()</b> is for text-output (like 'print()' in other languages)</li>
+<li><b>turn.left()</b> lets the robot-worker turn by 90 degree.</li></ul>
+<h4><span id="Robot_#02_-_Hello2"></span><span class="mw-headline" id="Robot_.2302_-_Hello2">Robot #02 - Hello2</span></h4>
+<p>This program uses a string-variable for the output,<br />
+and adds a command to stop the execution.
+</p>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre>-- #2 Hallo2 --
+
+-- Programm wird jede Sekunde neu ausgefuehrt
+
+msg="Hallo"
+say(msg)
+
+say("und Tschüss&#160;!")
+self.remove()  -- stop
+-- aber hier ist gleich nach dem ersten Durchlauf Schluss</pre></div>
+<ul><li>The command <b>self.remove()</b> removes the worker, and stops the program.</li></ul>
+<dl><dd>see also 'self.spam()', below</dd></dl>
+<h4><span id="Robot_#03_-_robot-version"></span><span class="mw-headline" id="Robot_.2303_-_robot-version">Robot #03 - robot-version</span></h4>
+<p>This shows the installed version of the basic_robots - mod.
+</p>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre>-- #3 robot-version --
+
+v=robot_version()
+say("robot version="..v)  -- .. verbindet strings
+self.remove()</pre></div>
+<ul><li><b>robot_version()</b> is a built-in function, that returns a string with the version-number.</li>
+<li><b>v</b> is a variable, that gets assigned the result of the function robot_version().</li></ul>
+<dl><dd>in lua, each variable can contain everything (number, text, table ...)</dd></dl>
+<ul><li>'..' is an operation used to concatenate two strings.</li></ul>
+<h4><span id="Robot_#04_-_more_output"></span><span class="mw-headline" id="Robot_.2304_-_more_output">Robot #04 - more output</span></h4>
+<p>This demonstrates some more ways a robot can show output.
+</p>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre>-- #4 more-output --
+
+if not i then i=0  -- nur einmal
+  turn.left()     -- face to user
+  say("Hallo")
+end
+
+-- ab hier werden die Befehle wiederholt:
+
+i=i+1
+self.label(i)  -- Anzeige in gruen, ueber dem Robot
+
+if i==4 then 
+  msg="ab jetzt  vorn mit  Text-\nAnzeige"  -- \n&#160;: newline
+          --123456789+123456789+
+  say(msg)
+  self.display_text(msg,10,1)  -- Text-Anzeige anstelle des 'Gesicht'
+end
+
+--if i&gt;6 and i&lt;15 then  turn.right() end
+
+if i&gt;20 then 
+  say("Stop")
+  self.remove() 
+end</pre></div>
+<ul><li>if -- compare values, then depending on the outcome, execute some code</li>
+<li>self.label(i) -- show that number i as a text floating above the robot</li>
+<li>self.display_text(msg,10,1) -- show the text from variable msg on the 'face' of the robot</li></ul>
+<dl><dd>10 is the lenght of each line on that display</dd>
+<dd>1 is the size for the display - 1 is normal, 2 means 'double size'.</dd></dl>
+<h4><span id="Robot_#05_-_TimeDate"></span><span class="mw-headline" id="Robot_.2305_-_TimeDate">Robot #05 - TimeDate</span></h4>
+<p>Shows the current time and date,
+and writes text on other blocks.
+</p>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre>-- #5 TimeDate --
+
+self.label("TimeDate")  -- program runs too short for this to be visible
+ 
+td = os.date("%Y-%m-%d  %H:%M:%S")
+msg = "Time and date"
+say(msg..": "..td)
+ 
+ok=write_text.up(msg)  -- label the button above the robot
+ok=write_text.down("This robot was last run: "..td)  -- write text on cpu-box
+ 
+self.remove()  -- stop program</pre></div>
+<p>To see the text written on the blocks, point at it with the crosshair (just like signs).
+</p>
+<ul><li>os.date() -- call the operating-system, to return a number that represents the time &amp; date</li></ul>
+<dl><dd>the string inside the brackets specifies how you want to format that information,</dd>
+<dd>e.g. "YEAR-MONTH-DAY  HOUR:MINUTE:SECOND"</dd></dl>
+<ul><li>write_text.up()   -- write text on the block above the robot</li>
+<li>write_text.down() -- write text on the block below the robot</li></ul>
+<h4><span id="Robot_#06_-_Greeter"></span><span class="mw-headline" id="Robot_.2306_-_Greeter">Robot #06 - Greeter</span></h4>
+<p>This gets the names of all nearby player, and greets them via chat.
+</p>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre>-- #6 Greeter --
+
+if not pn then pn="Greeter" 
+  p=find_player(5)
+  if p==nil then say("Hallo, niemand da?"); self.remove() end
+
+  n=#p; --say(n)
+  msg="Hi "
+--  if p==nil then s="Hello&#160;!" else s="Hello "..p[1].."&#160;!"  end
+  for i=1, n do
+    msg=msg..p[i].." "
+  end
+    msg=msg.."!"
+  say(msg)
+
+end
+--
+self.remove()</pre></div>
+<ul><li>find_player(5) -- returns a table of playernames</li>
+<li>nil -- a special value for 'nothing'</li>
+<li>#p -- the length of the table p (= how many entries the table has)</li>
+<li>for i=1, n do -- a loop that runs for all values from 1 to n</li></ul>
+<dl><dd>that is, once for every player that was detected</dd></dl>
+<h4><span id="Robot_#07_-_look_around"></span><span class="mw-headline" id="Robot_.2307_-_look_around">Robot #07 - look around</span></h4>
+<p>This robot turns around, looks at the surrounding blocks, 
+and outputs their names.<br />
+It also counts the (quarter-)turns and stops after 4 have been done.
+</p>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre>-- #7 look around --
+
+if not i then i=0 end
+
+n=read_node.forward()
+say(i..": "..n)
+
+i=i+1
+if i&gt;=4 then self.remove() end
+
+turn.left()</pre></div>
+<ul><li>say()</li>
+<li>read_node.forward()</li></ul>
+<h4><span id="Robot_#08_-_list_chest-inventory"></span><span class="mw-headline" id="Robot_.2308_-_list_chest-inventory">Robot #08 - list chest-inventory</span></h4>
+<p>Lists the items in the first 5 slots of the chest.
+</p>
+<dl><dd>list only 5 items, so the chat-text doesn't scroll off</dd></dl>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre>-- #8 list chest-inventory --
+
+if not i then i=0 
+  say("Inhalt der Kiste:")  -- "Contents of chest:"
+end
+
+for i=1,5 do
+  m = check_inventory.forward("","main",i)
+  say(i..": "..m)
+end
+
+self.remove()</pre></div>
+<ul><li>check_inventory -- look at the "main"-inventory inside the block in front of the robot</li></ul>
+<dl><dd>and return the name from the item contained in slot number i</dd></dl>
+<ul><li>for i=1,5 do -- loop that repeats with i set to the values 1, 2, 3, 4, 5.</li></ul>
+<h4><span id="Robot_#09_-_furnace-feeder"></span><span class="mw-headline" id="Robot_.2309_-_furnace-feeder">Robot #09 - furnace-feeder</span></h4>
+<p>The robot takes cobblestones and coal from the chest,<br />
+puts them into the furnace<br />
+and activates the furnace so it starts to burn.
+</p><p>A lump of coal burns long enough to turn 13 cobble into stone.
+</p>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre>-- #9 furnace-feeder --
+
+m="default:cobble 13"
+ok = check_inventory.forward_down(m,"main")
+if ok then
+  take.forward_down(m)
+  insert.backward(m,"src")
+else
+  say("no "..m);  self.remove()
+end
+
+m="default:coal_lump"
+ok = check_inventory.forward_down(m,"main")
+if ok then
+  take.forward_down(m)
+  insert.backward(m,"fuel")
+else
+  say("no "..m);  self.remove()
+end
+
+activate.backward(1)
+say("Furnace activated")
+self.remove()</pre></div>
+<ul><li>take.DIR()</li>
+<li>insert.DIR()</li>
+<li>activate.DIR()</li>
+<li>DIR</li></ul>
+<p>The furnace has 3 different inventories:
+</p>
+<ul><li>src  - "source"      : for input-material (eg. cobble, ore, flour)</li>
+<li>dst  - "destination"&#160;: for the output (eg. stone, ingots, etc.)</li>
+<li>fuel - for fuel (eg. wood, coal, etc.)</li></ul>
+<h4><span id="Robot_#10_-_Pickup"></span><span class="mw-headline" id="Robot_.2310_-_Pickup">Robot #10 - Pickup</span></h4>
+<p>Collecting loose stuff, such as saplings that drop from trees,<br />
+or eggs dropped by chicken.
+</p>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre>-- #10 pickup --
+
+if not pn then pn="Pickup" 
+  self.spam(1)  -- allow more than 1 output via say()
+  p=0  -- counter
+  turn.left();
+  self.display_text(pn,10,1)
+end
+
+m=pickup(8) -- range 8, if successful returns a table of the items picked up
+if m then 
+  --say( serialize(m) )  -- easy way to output any datatype
+  for i=1,#m do 
+    say( "picked up: "..m[i] ) 
+  end
+  p=p+1
+end
+
+self.label(p)</pre></div>
+<ul><li>self.spam() -- allow more than 1 output via say() to be seen by other players</li>
+<li>pickup() -- picks up 'loose items', eg. saplings that drop when harvesting a tree</li>
+<li>m -- the table returned by pickup()</li>
+<li>#m -- length of table m</li>
+<li>m[i] -- the element of the table m, at position i</li>
+<li>serialize(m) -- returns a representation of m, as a printable string</li></ul>
+<h4><span id="Robot_#11_-_Teleporter"></span><span class="mw-headline" id="Robot_.2311_-_Teleporter">Robot #11 - Teleporter</span></h4>
+<p>Teleport a player.<br />
+This robot needs the puzzle-priv.
+</p>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre>-- #11 Teleporter--
+
+--puzzle.get_player('hajo'):move_to({x=-23,y=26,z=-990})
+--    1,2,33    Starter-Bay
+--    0,3,75    House
+--    4,26,-994 Robot&amp;Machines
+-- 1755,45,699  Mese-Welt
+
+if not pn then pn="Teleporter" 
+  p=find_player(4)
+  if p==nil then say("Come closer!"); self.remove() 
+  else
+    n=p[1];   --say(n)
+    puzzle.get_player(n):move_to( {x=-23,y=26,z=-990} )
+  end
+end
+
+self.remove()</pre></div>
+<p>Short version:
+</p>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre>puzzle.get_player('hajo'):move_to({x=-23,y=26,z=-990})</pre></div>
+<ul><li>pn -- short for program_name</li>
+<li>find_player(4) -- returns table of player-names within range 4</li>
+<li>p[1] -- first element of table p --&gt; name of first player found within range</li>
+<li>puzzle.get_player(n):move_to() -- gets a handle to the player with name n, then moves /teleports him to the target-location</li>
+<li>{x=-23,y=26,z=-990}  -- a table with elements x,y,z, designating the target-location.</li></ul>
+<h4><span id="Robot_#12_-_Buttonmaker1"></span><span class="mw-headline" id="Robot_.2312_-_Buttonmaker1">Robot #12 - Buttonmaker1</span></h4>
+<p>Create a single keyboard-button.<br />
+See also robot #13.
+</p>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre>-- #12 simple Buttonmaker--
+
+-- make 1 button at the position of the robot-worker
+p = self.pos();
+c = 3  -- 1=white 2=grey 3=red 4=green 5=blue 6=yellow 7-16="0"-"9" 17=black
+
+keyboard.set(p,c)
+--
+self.remove()</pre></div>
+<ul><li>self.pos()  -- returns the position of the robot-worker</li></ul>
+<dl><dd>At the start of the program, this is the space above the spawner</dd></dl>
+<ul><li>keyboard.set(position,color)  -- create a keyboard-button</li></ul>
+<dl><dd>The position must be within range 10 of the spawner</dd></dl>
+<p>Originally, these keyboard-buttons were designed as an input-device,<br />
+that the robot can monitor for keypresses.
+</p><p>But keyboard-buttons can also be used as a cheap building material.
+</p>
+<h4><span id="Robot_#13_-_dig"></span><span class="mw-headline" id="Robot_.2313_-_dig">Robot #13 - dig</span></h4>
+<p>Dig the keyboard-button created by robot #12,
+and puts it into the chest above the worker. 
+</p>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre>-- #13 dig--
+
+move.forward()
+
+ok=dig.forward()
+if ok then say("ok") else say("fail") end
+--say( serialize(ok) )
+
+self.reset()
+m = check_inventory.self("","main",1);  -- say(m)
+insert.up(m)
+
+self.remove()
+--</pre></div>
+<ul><li>dig.DIR() --</li>
+<li>self.reset()  -- moves the worker back to its position when the program started</li>
+<li>check_inventory.self() -- check the robot's own inventory</li>
+<li>insert.DIR() -- put stuff into a container</li></ul>
+<p>Note: the robot can dig only one item per turn,
+and digging stone might also need energy.
+</p><p>Note: the robot can dig its own spawner, thereby destroying it. AVOID THIS&#160;!
+</p>
+<h4><span id="Robot_#14_-_dig_&amp;_place"></span><span class="mw-headline" id="Robot_.2314_-_dig_.26_place">Robot #14 - dig &amp; place</span></h4>
+<p>This robot digs the block of cobblestone at one side,<br />
+and places the same block on the other side of the spawner.
+</p><p>This will not work with some types of blocks:
+</p>
+<ul><li>stone - digging stone can be configured to require energy, and the robot has none, yet.</li>
+<li>clay  - digging a block of clay turns it into 4 clay-lumps.</li>
+<li>liquids - the robot cannot dig water or lava.</li>
+<li>mobs - mobs are no blocks, but entities - so digging is not possible.</li></ul>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre>-- #14 --
+--&#160;!! Don't use stone, or clay for this demo&#160;!!
+
+function t2()  -- a simple function
+  turn.left(); turn.left();
+end
+
+if not i then i=0 
+  say("dig &amp; place")
+end
+
+n=read_node.forward();  say(n)
+if n~="air" then
+  dig.forward()
+  t2()
+  place.forward(n)
+end
+
+i=i+1
+t2()
+
+if i&gt;1 then
+  self.remove()
+end
+--</pre></div>
+<ul><li>~= -- compare for 'not-equeal'</li></ul>
+<dl><dd>comparison-operators are ==, ~=, &lt;, &gt;, &lt;=, &gt;=</dd></dl>
+<ul><li>place.DIR(m)  -- build a block of material m in direction DIR</li>
+<li>function t2() -- defines a function, here without parameters, and without return-value.</li></ul>
+<dl><dd>This is just to show how a simple function is used.</dd></dl>
+<h4><span id="Robot_#15_-_mini-farmer"></span><span class="mw-headline" id="Robot_.2315_-_mini-farmer">Robot #15 - mini-farmer</span></h4>
+<p>Wheat grows from wheat-seeds planted on soil, and needs water nearby.
+</p><p>Here, we have one space with a watersource, and <br />
+4 spaces around that for planting and harvesting wheat,
+</p>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre>-- #15 --
+if not pn then pn="mini-farmer"; 
+
+  function fwd(c9)
+    for i=1,c9 do
+      ok=move.forward()
+    end
+    return ok
+  end
+
+  function init() -- needs to be defined before first call
+    say(pn)
+    t=0
+    air ="air"
+    soil="farming:soil_wet"
+    seed="farming:seed_wheat"
+    ripe="farming:wheat_8"
+    crop="farming:wheat"
+
+    turn.left()
+    _=fwd(3)   -- here, we don't need the result. 
+  end
+
+  init()
+end
+ 
+function work()
+  pickup(8)
+
+  nd=read_node.forward_down()
+  nf=read_node.forward(); 
+  say(t.." work: " .. nf.." - "..nd)
+
+  if nf==ripe then  say("harvesting")
+    dig.forward()
+    return  -- done for now
+  end
+  if nf==air and nd==soil then  say("planting")
+    place.forward(seed)
+    return
+  end
+
+  turn.right(); t=t+1
+--return 
+end
+
+work()
+if t&gt;=4 then say("stop"); self.remove() end</pre></div>
+<p>The robot moves to the space over the watersource,<br />
+then turns around to reach the 4 spaces growing wheat.
+</p><p>Soil is made from dirt with a hoe near water,<br />
+this must be done by the player.
+</p><p>In this example, we don't need the return-values of the functions.<br />
+So we use a dummy-variable _.
+</p>
+<h4><span id="Robot_#16_-_chat-listener"></span><span class="mw-headline" id="Robot_.2316_-_chat-listener">Robot #16 - chat-listener</span></h4>
+<p>This robot listens to the chat, and report who said what.<br />
+If someone says 'stop', the program ends.
+</p>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre>if not pn then pn="chat-listener"; say(pn)
+   self.listen(1)
+   self.spam(1)
+end
+
+speaker, msg = self.listen_msg()
+if msg then 
+  say( "["..speaker.."] said &gt;&gt;"..msg.."&lt;&lt;")
+end
+
+if msg=="stop" then
+  say("Bye&#160;!")
+  self.remove()
+end
+--</pre></div>
+<ul><li>the function self.listen_msg() returns a result that consists of 2 values</li></ul>
+<dl><dd>the name of the player that speaks, and his text</dd></dl>
+<h4><span id="Robot_#17_-_Builder"></span><span class="mw-headline" id="Robot_.2317_-_Builder">Robot #17 - Builder</span></h4>
+<p>This robot builds a small, phonebooth-sized house around the spawner.<br />
+It needs the building-materials in its inventory (but doesn't check).
+</p>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre> if not pn then pn="Instant shelter v1.7"  say(pn)
+   pickup(8)
+   i=0
+   m0="default:dirt"  m1="default:glass" m2="default:cobble"
+   m8="default:sand"  m9="default:torch"  
+   mS=m0  mC=m2   -- material for sides and corners
+ end
+ 
+  i=i+1; say(i)
+  if i&lt;100 then
+    dig.forward(); move.forward()
+    place.right(mC)
+    move.backward()
+    place.forward(mS)  
+    turn.left()
+  end
+ 
+  if i== 4 then move.up()  place.down(m8)  mS=m1 end
+  if i== 8 then move.up()  place.down(m8)  mS=m0 end
+  if i==12 then 
+    place.up(m1); 
+    i=100
+  end
+  if i==101 then 
+    dig.down(); move.down()
+    place.up(m9); 
+  end
+  if i&gt;=102 then
+    dig.down(); 
+    say(pn .." done.");  self.remove()  
+  end
+--</pre></div>
+<p>As shown above, the robot uses cobble for the corners 
+and dirt for the sides of the house.<br />
+The center of the sides are built with a block of glass.<br />
+Also, a single block of glass is placed as a roof,
+with a torch beneath.<br />
+The robot uses sand as filler, so it can move up
+more than one space above the ground.
+</p><p>The player can stand on the spawner before starting the program.<br />
+To get out, simply dig the glass and dirt from one of the sides.
+</p>
+<h4><span id="Robot_#18_-_Demolition"></span><span class="mw-headline" id="Robot_.2318_-_Demolition">Robot #18 - Demolition</span></h4>
+<p>This is a turtle-bot, with a script 
+for digging the building made by robot #17.
+</p>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre>--
+if not pn then pn="DemoliTurtle v1b"
+ s = "-f&lt;-&gt;&gt;-&lt;"
+ s3=s..s..s
+ script = "i@".."&gt;ff"..s3 .."@&gt;uff-"..s3  -- demolish levels 0 &amp; 1
+
+ cmds = {
+  ["f"] = function() move.forward()  end,
+  ["b"] = function() move.backward() end,
+  ["l"] = function() move.left()  end,
+  ["r"] = function() move.right() end,
+  ["u"] = function() move.up()   end,
+  ["d"] = function() move.down() end,
+  ["&lt;"] = function() turn.left()  end,
+  ["&gt;"] = function() turn.right() end,
+ 
+  ["-"] = function() dig.forward() end,
+  ["_"] = function() dig.forward_down() end,
+  ["^"] = function() dig.up() end,
+  ["v"] = function() dig.down() end,
+ 
+  ["@"] = function() self.reset(); pickup(8) end,
+  ["i"] = function() say(pn) end,
+  ["!"] = function() say("Hello") end,
+ }
+ n=string.len(script)
+ i=0; 
+end
+ 
+if i&gt;=n then say("done."); self.remove()
+else i=i+1 end
+ 
+c=string.sub(script,i,i);   say(i.." --&gt; "..c)
+cmds[c]();
+--</pre></div>
+<p>A turtle-bot get its instructions from a script.<br />
+Each character represents one operation, such as "&gt;" for 'turn.right()'.
+</p>
+<h4><span id="Robot_#19_-_move-demo"></span><span class="mw-headline" id="Robot_.2319_-_move-demo">Robot #19 - move-demo</span></h4>
+<p>Location -6 26 -1000
+</p><p>This robot looks at the floor below to decide what to do.<br />
+It moves along the trench behind the spawner,<br />
+and finally activates the switch for the light.
+</p>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre>-- #19 move-demo --
+
+n=read_node.down()
+if string.find(n,"dirt") then n="DIRT" end
+say(n)
+
+if n=="basic_robot:spawner" then   
+   turn.right();   turn.right();
+   move.forward() 
+end
+
+if n=="air"  then   move.down()    end
+if n=="DIRT" then   move.forward() end
+
+if n=="default:cobble" then 
+  turn.right() 
+  move.forward() 
+end
+
+if n=="default:stone" then 
+  move.up()
+  turn.right()
+  move.forward() 
+end
+
+if n=="default:gravel" then 
+  move.up()
+  turn.right()
+  activate.forward()
+  self.remove() 
+end
+--</pre></div>
+<ul><li>string.find(n,"dirt")  -- string-operation: return the position of "dirt" within string n</li></ul>
+<dl><dd>see also paver-robot</dd></dl>
+<h4><span id="Robot_#20_-_Color-Tower"></span><span class="mw-headline" id="Robot_.2320_-_Color-Tower">Robot #20 - Color-Tower</span></h4>
+<p>This robot builds a tower made of keyboard-blocks, of max. height 10.<br />
+The color for each level can be specified by textinput via keypad.<br />
+Eg. entering "RGBg" means red, green, blue, gray.
+</p>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre>--#22--
+function keytype(k) 
+  -- 0=air 1=white 2=grey 3=red 4=green 5=blue 6=yellow 7="0" 17=black
+  return string.find("wgRGBY0123456789k",k) or 0
+end
+
+function lv(h,c)  -- build one level of the tower, at height h, in color c
+  if c=="" then return end
+  kt=keytype(c); --say(h..":"..c.."-&gt;"..kt)
+    --sides:
+    keyboard.set({x=pos.x+1,y=pos.y+h,z=pos.z  },kt)
+    keyboard.set({x=pos.x-1,y=pos.y+h,z=pos.z  },kt)
+    keyboard.set({x=pos.x,  y=pos.y+h,z=pos.z+1},kt)
+    keyboard.set({x=pos.x,  y=pos.y+h,z=pos.z-1},kt)
+    --corners:
+    keyboard.set({x=pos.x+1,y=pos.y+h,z=pos.z+1},kt)
+    keyboard.set({x=pos.x+1,y=pos.y+h,z=pos.z-1},kt)
+    keyboard.set({x=pos.x-1,y=pos.y+h,z=pos.z+1},kt)
+    keyboard.set({x=pos.x-1,y=pos.y+h,z=pos.z-1},kt)
+    --center
+   if h&gt;0 then keyboard.set({x=pos.x+0,y=pos.y+h,z=pos.z  }, 0) end
+end
+
+if not pn then pn="ColorTowerBuilder"; v="0.5b";  say(pn.." "..v) -- 2018-01-13
+  i=0
+  pos = self.spawnpos();
+
+  --read text from robot-spawner / written by keypad:
+  b=read_text.down(); s=string.sub(b,1,8)
+  if s=="overheat" then b="kgwRYGBk20" end
+  if s=="overheat" then b="kgwR22B" end
+
+  say("Buildplan:"..b)
+end
+
+i=i+1
+t=string.sub(b,i,i)
+lv(i, t)
+
+--dig passages into the sides of the two bottom tower-levels:
+dig.forward(); turn.right()
+if i==4 then move.up() end
+
+if i&gt;9 then 
+  say(pn.." done: "..b);
+  self.remove()
+end</pre></div>
+<ul><li>string.sub(b,1,8) -- returns the substring from b, from  position 1 to 8.</li></ul>
+<h4><span id="Robot_#21_-_Countdown"></span><span class="mw-headline" id="Robot_.2321_-_Countdown">Robot #21 - Countdown</span></h4>
+<p>This program mainly just counts down, then stops.
+</p>
+<dl><dd>Greeting the player, and picking up loose stuff are extras.</dd></dl>
+<p>But the robot-spawner sits in a pit deep enough so that a player without help cannot get out. <br />
+While the program is running, the player can jump onto the robot-worker,
+and get out of the pit.
+</p>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre>if not pn then pn="Countdown";  --say(pn)
+  p=pickup(8)
+  if p then say(pn.." pickup:"..p[1]) end
+
+  p=find_player(2)
+  if p then say("Hello "..p[1])
+  else       say(pn..": no player nearby"); self.remove() end
+ 
+  i=11
+end
+
+i=i-1
+self.label(i)
+
+if i&lt;0 then self.remove() end</pre></div>
+<ul><li>...</li></ul>
+<h4><span id="Robot_#22_-_X"></span><span class="mw-headline" id="Robot_.2322_-_X">Robot #22 - X</span></h4>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre>--todo</pre></div>
+<ul><li>...</li></ul>
+<h3><span class="mw-headline" id="Useful_Robots">Useful Robots</span></h3>
+<p>Some robots that might be useful in a normal game,
+or useful for the admin.
+</p><p>This would include some of the tutorial-robots too,
+such as the teleporter.
+</p>
+<h4><span class="mw-headline" id="BigDisplay">BigDisplay</span></h4>
+<p>This shows a welcome-message on a big display,
+plays a sound,
+and ends the program after a countdown.
+</p>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre>if not pn then pn="BigDisplay"
+ 
+  spin=function()  -- turn robot until something other than air is at its back
+   for i=1,4 do
+      n=read_node.backward(); --say(n)
+      if n~="air" then return end
+      turn.right()
+    end
+  end
+ 
+  spin()
+--msg="\n* Hello *"
+--self.display_text(msg,9,1)
+
+  msg="\n Willkommen\n".."    auf\n".." TechWelt&#160;!\n"
+  msg=msg.."\n- -- ** -- -\n"
+  msg=msg.." Welcome\n".."    on\n".." TechWelt&#160;!\n"
+  self.display_text(msg,12,1)  -- 1: normal-size
+
+  i=10
+end
+ 
+self.label(i)
+i=i-1;
+
+if i==8 then
+  self.sound("dingdong",1)
+  self.display_text(msg,12,2)  -- 2: double-size
+end
+
+if i==3 then
+  self.sound("dingdong",1)
+  self.display_text(msg,12,3)  -- 3: triple-size
+end
+if i&lt;0 then self.remove() end
+--</pre></div>
+<ul><li>spin=function()  -- this is another variant how to define a function</li></ul>
+<dl><dd>There is a torch behind the robot.</dd>
+<dd>This is used to turn the robot with its display towards the player.</dd></dl>
+<h4><span class="mw-headline" id="Mailbox">Mailbox</span></h4>
+<p>Location: 6 26 -983
+</p><p>This shows a dialog/formspec to the player,<br />
+for writing a message to the owner of the robot.
+</p><p>The messages are written into books in the robot's library.
+</p>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre>-- from https://wiki.minetest.net/Mods/basic_robot/Programs#Mailbox
+-- mail &amp; feedback using formspec, based on rnd's mailrobot
+
+if not pn then pn="Mailbox"  -- hajo 2017-03-07
+  s=0
+  daynr=os.date("%w")  -- %w&#160;: weekday [0-6 = Sunday-Saturday]
+  booknr=tonumber(daynr);  -- say(daynr.."/"..booknr)
+  msgsize = 2500;
+  _,text = book.read(booknr); text = text or "";
+ 
+	write_msg = function(sender,msg)
+		local newsize = string.len(text)+string.len(msg);
+		if newsize&gt;msgsize then return "messages space exceeded" end
+		text = text .. "\n"..os.date("%Y-%m-%d %H:%M") .. " " .. sender .. ": " .. msg; 
+		book.write(booknr,"messages #"..booknr, text)
+	end
+ 
+end
+ 
+--textarea[X,Y;W,H;name;label;default]
+--button[X,Y;W,H;name;label]
+if s == 0 then
+	players = find_player(4);
+	if players and players[1] then
+		s=1
+		local form = "size[8,4.5]" ..
+		"textarea[0,0;9,4.5;msg;YOUR FEEDBACK-MESSAGE;]"..
+		"button_exit[-0.5,4.15;2,1;send;send]"
+		self.show_form(players[1],form)
+	end
+elseif s==1 then
+	sender,fields = self.read_form();
+	if sender then
+		if fields.send then
+			msg = fields.msg;
+			if msg and msg~="" then
+				write_msg(sender,msg); -- activate.up(1)
+				--_G.minetest.chat_send_player(sender,"#mailbot: your message has been stored")
+				say("#mailbot: your message has been stored")
+			end
+		end
+		self.remove()
+	end
+end
+--</pre></div>
+<h4><span class="mw-headline" id="Paver">Paver</span></h4>
+<p>Location: 5 25 -995, sunk into the road
+</p><p>Pave a road with gravel.<br />
+The robot needs enough gravel in its inventory.
+</p><p>Moves straight ahead, and replaces all kinds of dirt with gravel
+on the ground below the robot.<br />
+Stops when movement is blocked, 
+when it finds something other then dirt or gravel,
+or when it runs out of gravel for paving.
+</p>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre>-- hajo, 2017-12-31
+if not progname then progname=" paver" 
+  self.spam(1)
+  say("# "..progname.." started #")
+  m="default:gravel"
+end
+
+ok=move.forward()
+if not ok then
+  say("blocked")
+  self.remove()
+end
+
+n=read_node.down();  --say(n)
+if n=="default:dirt"                        then n="DIRT" end
+if n=="default:dirt_with_snow"              then n="DIRT" end
+if n=="default:dirt_with_grass"             then n="DIRT" end
+if n=="default:dirt_with_dry_grass"         then n="DIRT" end
+if n=="default:dirt_with_rainforest_litter" then n="DIRT" end
+say(n)
+
+if n=="DIRT" then
+  dig.down()
+  ok=place.down(m)
+  say("ok=".. serialize(ok) )
+  if not ok then  say("empty"); self.remove()  end
+elseif n==m then
+  -- already done
+else
+  say("stop");  self.remove()
+end
+--</pre></div>
+<ul><li>self.spam(1)  -- allow more then one output from say() to other players</li>
+<li>if .. elseif</li>
+<li>ok=place.down(m)  -- returns true if successful</li>
+<li>serialize(ok)</li></ul>
+<h4><span class="mw-headline" id="Brickmaker">Brickmaker</span></h4>
+<p>This is an extended version of robot #12 'simple brickmaker':<br />
+It makes a set of keyboard-buttons (all colors, all numbers),
+and puts them into the chest.
+</p>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre>-- Brickmaker--
+
+if not pn then pn="Keyboard-button-maker" 
+  c=1  -- 1=white 2=grey 3=red 4=green 5=blue 6=yellow 7-16="0"-"9" 17=black
+  p0 = self.spawnpos();
+--turn.left();   turn.left();
+end
+
+  keyboard.set( {x=p0.x, y=p0.y+2, z=p0.z}, c)
+
+  dig.up()
+  m = check_inventory.self("","main",1);  -- say(m)
+  self.label(c.."--&gt;"..m) 
+--say(c.."--&gt;"..m) 
+  insert.forward(m)
+
+--c=99  -- uncomment this to stop after making the first button
+  c=c+1;
+  if c&gt;17 then
+    c=1    -- repeat, make another set of buttons
+    say(pn.." done.");  self.remove()  -- uncomment this to stop after first set
+  end
+--</pre></div>
+<ul><li>self.spawnpos() -- returns the position of the robot-spawner, as a table</li>
+<li>{x=p0.x, y=p0.y+2, z=p0.z}  -- specifies a new table, with elements from table p0</li></ul>
+<dl><dd>y+2 means '2 spaces above the spawner'</dd></dl>
+<ul><li>check_inventory.self("","main",1) -- returns the name of the item in slot 1 of the robot's inventory</li></ul>
+<p>After the button is created, the robot digs it.<br />
+The button goes into slot 1 of the robot's inventory,<br />
+and is put into the chest in front of the robot.
+</p>
+<h5><span class="mw-headline" id="New_chest">New chest</span></h5>
+<p>This program 'cleans' the chest with all the generated buttons.
+</p>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre>if not pn then pn="chest-renewer"; say(pn)
+  turn.left();   turn.left();  -- turn worker towards chest
+  m="default:chest"
+end
+
+dig.forward()      --&#160;!! this destroys the chest-contents&#160;!!
+place.forward(m)
+
+say(pn.." done.")
+self.remove()</pre></div>
+<p>It simply digs the chest (thereby destroying the contents),<br />
+and places a new chest at the same location.
+</p>
+<h5><span class="mw-headline" id="Buttonmaker2">Buttonmaker2</span></h5>
+<p>This is an extended version of robot #12 'simple brickmaker':<br />
+It makes a set of keyboard-buttons for use as turtle-commands,
+and puts them into the chest.
+</p>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre>--todo
+if not pn then pn="Buttonmaker2"; say(pn)
+  c=1  -- 1=white 2=grey 3=red 4=green 5=blue 6=yellow 7-16="0"-"9" 17=black
+  p0 = self.spawnpos();
+--turn.left();   turn.left();
+end
+
+  keyboard.set( {x=p0.x, y=p0.y+2, z=p0.z}, c)
+
+  dig.up()
+  m = check_inventory.self("","main",1);  -- say(m)
+  self.label(c.."--&gt;"..m) 
+--say(c.."--&gt;"..m) 
+  insert.forward(m)
+
+--c=99  -- uncomment this to stop after making the first button
+  c=c+1;
+  if c&gt;17 then
+    c=1    -- repeat, make another set of buttons
+    say(pn.." done.");  self.remove()  -- uncomment this to stop after first set
+  end
+--
+say(pn.." done.")
+self.remove()</pre></div>
+<h4><span class="mw-headline" id="Math-Quiz">Math-Quiz</span></h4>
+<p>Math-Quiz, using chat.
+</p><p>It asks questions like 
+<b>WHAT is 12*13&#160;?</b>,<br />
+and listens to the chat for players to answer.<br />
+Puts reward for correct answer into chest.
+</p>
+<dl><dd>It doesn't check who gives an answer, and who takes the rewards from the chest.</dd></dl>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre>-- from https://wiki.minetest.net/Basic_robot/Tutorial#Math_quiz2
+
+-- QUIZ: asks math question, like ""WHAT IS 12*13&#160;?"
+if not state then 
+state = 1;
+a=0; b=0; question = "";
+function generate_question()
+  a = math.random(12)+10;
+  b = math.random(12)+10;
+  t=0
+  question = "WHAT IS " .. a .."*".. b .. "&#160;? ";
+  say(question)
+end
+
+generate_question()
+self.listen(1)
+end
+ 
+speaker, msg = self.listen_msg()
+msg = tonumber(msg)
+if msg then 
+ if msg == a*b then
+   say(speaker .. " ANSWERED CORRECTLY!  You get reward in chest")
+   insert.up("default:apple")
+   insert.up("default:pine_tree")
+   generate_question()
+ else
+   say("WRONG! " .. question)
+ end
+end
+
+turn.left(); 
+t=t+1; self.label(t)
+if t&gt;30 then self.remove() end
+--</pre></div>
+<ul><li>speaker,msg=self.listen_msg() -- the function returns 2 results: the speaker, and his text</li>
+<li>tonumber(msg) -- tries to convert a text to a number</li></ul>
+<dl><dd>only numbers are considered as answers to the quiz, other text is ignored</dd></dl>
+<p>The robot stops if there is no answer within 30 seconds.
+</p>
+<h4><span class="mw-headline" id="Simple_Shop">Simple Shop</span></h4>
+<p>Shop - Robot sells 1 Keypad for 2 Steel-ingots.
+</p><p>To use, the player must put the payment into the chest, then press the keypad-button.
+</p>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre>-- from https://wiki.minetest.net/Mods/basic_robot#Simple_Shop
+
+ --say("Shop out of order ... check back soon&#160;!"); self.remove()
+ --
+ if not pn then pn="SimpleShop v0.2" -- Hajo, 2017-03-03+
+  say(pn)
+  p=find_player(4)
+  if p==nil then s="Hello&#160;!" else s="Hello "..p[1].."&#160;!" end
+  say(s)
+  --
+  -- m1="default:torch";  m2="default:dirt" --Test
+ 
+  --m1="default:sword_steel"  -- Example 1: sell 1 sword for 1 gold
+  --m2="default:gold_ingot"
+ 
+  m1="basic_machines:keypad"  -- Example 2: sell 1 keypad for 2 steel
+  m2="default:steel_ingot 2"
+ 
+  ok1 = check_inventory.self(m1,"main") -- look at robot's inventory
+  if not ok1 then say("Out of stock: "..m1); self.remove() end
+ 
+  ok2 = check_inventory.up(m2,"main")   -- look at chest above robot
+  if not ok2 then say("No payment in chest ("..m2..")"); self.remove() end
+ 
+  say("Selling "..m1.." for "..m2) 
+  take.up(m2)
+  insert.up(m1)
+  say("Thanks for your purchase&#160;!");
+ end</pre></div>
+<p>The robot first checks his inventory if there still are items to sell.<br />
+Then it checks the chest for payment.<br />
+If both are ok, it takes the payment from the chest, and puts the goods into the chest.
+</p>
+<dl><dd>Note: another player could try to steal the payment or the sold item from the chest.</dd></dl>
+<h4><span class="mw-headline" id="Multi-language_sign">Multi-language sign</span></h4>
+<p>Location: -33,26,-973
+</p><p>Shows some text like the program 'BigDisplay' above,<br />
+but also listens to chat to switch the text.
+</p>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre>-- 2018-02-02, hajo
+
+function sign(msg)
+  self.display_text(msg,24,2)
+  self.label("")
+end
+
+if not pn then pn="Multilanguage-sign v1.1"; --say(pn)
+--self.spam(1)
+  msg="Select via chat:\n\n"
+  msg=msg.."EN: to show english text"
+--msg=msg.."DE: für deutschen Text\n"  -- Umlaute&#160;!!
+  msg=msg.."DE: deutschen Text anzeigen\n"
+  sign(msg)
+
+  self.listen(1)
+--say("I',m listening...")
+end
+
+speaker, inp = self.listen_msg()
+--if inp then  say( "player ["..speaker.."] said &gt;&gt;"..inp.."&lt;&lt;") end
+
+if inp=="DE" then  sign("Deutscher Text.\n") end
+
+if inp=="EN" then msg="english text\n....+....1....+....2...\n"
+  msg=msg.."3\n4\n5\n6\n7\n8\n9\n10\n"
+  msg=msg.."11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22"
+  sign(msg)
+end
+
+if inp=="#" or inp=="stop" then  -- cannot use . or /
+  say("Bye&#160;!")
+  pickup(8)
+  self.remove()
+end</pre></div>
+<p>This program could be extended, eg. to listen only to nearby players,<br />
+and to get the texts to display from books stored in the robots library.
+</p>
+<h4><span class="mw-headline" id="Outfitter">Outfitter</span></h4>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre>--todo</pre></div>
+<h4><span class="mw-headline" id="Robo-Farm">Robo-Farm</span></h4>
+<p>This is a much extended version of the mini-farmer, robot #15.
+</p><p>Wheat grows on soil, and needs water within 2 spaces.<br />
+Here, we have set up a 5x5 wheat-field around a 3x3 pont with a fountain in the center.
+</p><p>The robot drives around this field, harvests ripe wheat, and plants new seeds.<br />
+The robot normally drives forward, and turns right when it hits an obstacle.<br />
+There are some trapdoors at the corners of the field that act as an obstacle/free space
+depending on their open/closed state.<br />
+They can be switched by the robot with activate().<br />
+This is used to 'switch lanes' while moving around the field.
+</p><p>There is a chest at the border of the field, where the robot unloads some wheat
+whenever it reaches that location.
+</p><p>Also on the border are some bee-hives that produce honey, <br />
+and the robot takes some of that honey out when it drives by.
+</p><p>Finally, the robot picks up 'loose items' and announces what was found.
+</p>
+<dl><dd>Eg. eggs from chickens, or raw meat that drops when animal-mobs drown in the central pont.</dd></dl>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre>-- robot-farmer --
+--&#160;!! the field must be prepared first, by hand / hoe&#160;!!
+
+if not pn then pn="robo-farmer v1"; say(pn)
+  seed="farming:seed_wheat"
+  ripe="farming:wheat_8"
+  crop="farming:wheat"
+  self.spam(1)
+end
+
+m=pickup(8)  -- collect meat, eggs, saplings etc.
+if m then say(pn..": pickup "..m[1]) end
+
+n=read_node.forward(); 
+if n=="default:chest" then   n=""
+--say(pn..": unload")
+  insert.forward(crop.." 16")
+end
+
+if n=="xdecor:hive" then   n=""
+--say(pn..": get honey")
+  take.forward("xdecor:honey".." 2","honey")
+end
+
+if n==ripe then  n=""
+  dig.forward()
+  place.forward(seed)
+end
+
+--if n~="" then say(n) end -- debug
+
+activate.forward(1)  -- trapdoor
+ok=move.forward()
+if not ok then turn.right() end
+--</pre></div>
+<p>Ideas &amp; Homework:
+</p>
+<ul><li>Detect spaces without planted seed, and spaces without soil (eg. holes, or plain dirt).</li>
+<li>Check if the robot has seeds in its inventory.</li>
+<li>Extend this program to unload different types of collected stuff into different chests.</li>
+<li>replace the wheat-chest with another robot, and activate it after unloading</li>
+<li>let this 2nd robot process the wheat into flour, and bake that into bread (see robot #8)</li>
+<li>move the finished bread to a shop-robot</li>
+<li>Same for eggs and meat that was picked up from animals.</li>
+<li>Extend this program to also plant &amp; harvest cotton, and make wool.</li>
+<li>Install farming-redo, and also farm the other plants (pumpkin, blueberry, etc), <br />and make other products from that mod (donuts, blueberry-pie, pumpkin-bread, etc.)</li></ul>
+<h3><span id="Demos:_Robots&amp;Machines"></span><span class="mw-headline" id="Demos:_Robots.26Machines">Demos: Robots&amp;Machines</span></h3>
+<p>Machines&amp;Robots working together.
+</p>
+<h4><span class="mw-headline" id="Street-lanterns">Street-lanterns</span></h4>
+<p>Keypad, Distributor, Lights
+</p><p>There are several street-lanterns
+that can be switched on and off with a keypad.<br />
+A distributor is used to transmit the signal from the keypad to the lights.
+</p>
+<h4><span class="mw-headline" id="Production-Demo">Production-Demo</span></h4>
+<p>Generator, Battery, Furnace, Robots
+</p><p>A generator produces powercells, 
+a battery powers a furnace, 
+robots move powercells around,
+and craft items.
+</p><p>...
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20230709135436
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.377 seconds
+Real time usage: 0.780 seconds
+Preprocessor visited node count: 392/1000000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 21281/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    0.000      1 -total
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:3793-0!canonical and timestamp 20230709135435 and revision id 18491
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Server/TechWelt/RobotWorld&amp;oldid=18491">http://wiki.minetest.net/index.php?title=Server/TechWelt/RobotWorld&amp;oldid=18491</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/index.php?title=Category:Pages_using_deprecated_source_tags&amp;action=edit&amp;redlink=1" class="new" title="Category:Pages using deprecated source tags (page does not exist)">Pages using deprecated source tags</a></li><li><a href="/index.php?title=Category:Pages_with_syntax_highlighting_errors&amp;action=edit&amp;redlink=1" class="new" title="Category:Pages with syntax highlighting errors (page does not exist)">Pages with syntax highlighting errors</a></li><li><a href="/Category:Server" title="Category:Server">Server</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Server%2FTechWelt%2FRobotWorld" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Server/TechWelt/RobotWorld" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Server/TechWelt/RobotWorld&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Server/TechWelt/RobotWorld">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Server/TechWelt/RobotWorld&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Server/TechWelt/RobotWorld&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Server/TechWelt/RobotWorld" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Server/TechWelt/RobotWorld" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Server/TechWelt/RobotWorld&amp;oldid=18491" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Server/TechWelt/RobotWorld&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 10 February 2018, at 22:18.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.377","walltime":"0.780","ppvisitednodes":{"value":392,"limit":1000000},"postexpandincludesize":{"value":0,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":21281,"limit":5000000},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20230709135436","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":294});});</script></body></html>

@@ -1,0 +1,596 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Server/SteamWorks - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"0d7613b8cdfb069950f69527","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Server/SteamWorks","wgTitle":"Server/SteamWorks","wgCurRevisionId":26705,"wgRevisionId":26705,"wgArticleId":4925,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with ignored display titles","Notable Servers"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Server/SteamWorks","wgRelevantArticleId":4925,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={
+"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Server_SteamWorks rootpage-Server skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Server/SteamWorks</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/Server" title="Server">Server</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p><br />
+</p>
+<table class="wikitable" width="200px" style="float:right;text-align:left;margin:0 0 0.5em 1em;padding:5px;font-size:90%;position:relative;clear:right;overflow:auto;z-index:1">
+
+<tbody><tr>
+<th colspan="2" style="font-size:110%;text-align:center">SteamWorks-Server
+</th></tr>
+<tr>
+<th colspan="2"><div class="center"><a href="/File:Blank.png" class="image"><img alt="Blank.png" src="/images/d/d2/Blank.png" decoding="async" width="150" height="150" /></a></div>
+</th></tr>
+<tr>
+<th colspan="2" align="center">A <a href="/Server" title="Server">server</a>
+</th></tr>
+<tr>
+<td><b>Owner</b>
+</td>
+<td>Santy2
+</td></tr>
+<tr>
+<td><b>Address</b>
+</td>
+<td>steam.edgy1.net
+</td></tr>
+<tr>
+<td><b>Port</b>
+</td>
+<td>48016
+</td></tr>
+<tr>
+<td><b>Flags</b>
+</td>
+<td>Dmg,PVP,Rol,Far
+</td></tr>
+<tr>
+<td><b>Forum topic</b>
+</td>
+<td><a rel="nofollow" class="external free" href="https://forum.minetest.net/viewtopic.php?f=3&amp;t=24268">https://forum.minetest.net/viewtopic.php?f=3&amp;t=24268</a>
+</td></tr>
+<tr>
+<td><b>Website</b>
+</td>
+<td><a rel="nofollow" class="external free" href="https://edgy1.net/minetest/steamworks">https://edgy1.net/minetest/steamworks</a>
+</td></tr></tbody></table>
+<p><br />
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Intro"><span class="tocnumber">1</span> <span class="toctext">Intro</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#General_Server-info"><span class="tocnumber">2</span> <span class="toctext">General Server-info</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Mods"><span class="tocnumber">3</span> <span class="toctext">Mods</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#General"><span class="tocnumber">4</span> <span class="toctext">General</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Map"><span class="tocnumber">5</span> <span class="toctext">Map</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Spawn"><span class="tocnumber">5.1</span> <span class="toctext">Spawn</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Notable_locations"><span class="tocnumber">5.2</span> <span class="toctext">Notable locations</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Railways"><span class="tocnumber">5.3</span> <span class="toctext">Railways</span></a>
+<ul>
+<li class="toclevel-3 tocsection-9"><a href="#Old_trainstations_at_spawn"><span class="tocnumber">5.3.1</span> <span class="toctext">Old trainstations at spawn</span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="#New_rail-lines"><span class="tocnumber">5.3.2</span> <span class="toctext">New rail-lines</span></a></li>
+<li class="toclevel-3 tocsection-11"><a href="#Mitrill-line"><span class="tocnumber">5.3.3</span> <span class="toctext">Mitrill-line</span></a></li>
+<li class="toclevel-3 tocsection-12"><a href="#Desert-line"><span class="tocnumber">5.3.4</span> <span class="toctext">Desert-line</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#Tips"><span class="tocnumber">6</span> <span class="toctext">Tips</span></a>
+<ul>
+<li class="toclevel-2 tocsection-14"><a href="#Tips-Basics"><span class="tocnumber">6.1</span> <span class="toctext">Tips-Basics</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Tips-Advanced"><span class="tocnumber">6.2</span> <span class="toctext">Tips-Advanced</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Tips-Tech"><span class="tocnumber">6.3</span> <span class="toctext">Tips-Tech</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-17"><a href="#Misc"><span class="tocnumber">7</span> <span class="toctext">Misc</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Intro">Intro</span></h2>
+<p>This is a description about the SteamWorks-Server, one of the edgy.net family.<br />
+</p><p>This is a survival world, mainly for builders.
+There are trains and machines, and many mods for 'more of everything' <br /> 
+(such as homedecor, moreblocks, moretrees, moreores, xtraores, etherial, technic, pipeworks, mesecons, digtron etc.).
+</p><p>There are no mobs, but PVP is enabled and guns are available. <br />
+Also, there are the mods hunger, diet, and thristy - so survival takes a bit of effort.
+</p><p>After the first login, players need to read /rules.
+</p>
+<h2><span class="mw-headline" id="General_Server-info">General Server-info</span></h2>
+<p>(as of 2020-11-22)
+</p>
+<ul><li>Admins: Santy2, Kimby, Mavi</li>
+<li>IP: steam.edgy1.net:48016</li>
+<li>Max users: 15</li>
+<li>Operating hours: 24/7</li>
+<li>Mapgen: v7, seed 15651796251315898818</li>
+<li>no access without accepting the rules</li>
+<li>protocols; 0.4.16, 5.0+</li></ul>
+<p>Note: there is an IRC-connection to other servers on edgy-net, such as gta.
+</p>
+<dl><dd>IRC-Commands:  (needs privs&#160;?)</dd>
+<dd>.help</dd>
+<dd>.players - shows the names of players that are online</dd></dl>
+<p><b>See also:</b> 
+List of servers: 
+</p>
+<ul><li><a rel="nofollow" class="external text" href="http://minetest.net/servers">Minetest Server List</a> and <a rel="nofollow" class="external text" href="http://servers.minetest.net/">List2</a></li>
+<li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewforum.php?f=10">Minetest Forum servers section</a></li></ul>
+<h2><span class="mw-headline" id="Mods">Mods</span></h2>
+<ul><li>unified_inventory - with crafting-guide and backpacks</li>
+<li>hotbar - set number of slots on hotbar, upto 23</li></ul>
+<ul><li>wardrobe - change player-skin (select from 400+)</li>
+<li>colortag - set color of player's nametag</li>
+<li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=11&amp;t=4654">3d-armor</a>, shields (plus armor from xtraores)</li></ul>
+<ul><li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?t=7239">areas</a> - area-protection</li></ul>
+<dl><dd>players can protect areas of upto 128x128x128</dd></dl>
+<ul><li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=11&amp;t=8175">markers</a> - make it easier to survey and protect areas</li></ul>
+<dl><dd>only supports areas of upto 1024 m<sup>2</sup>, eg. 32x32</dd></dl>
+<ul><li>currency: minegeld - money
+<ul><li>ATMs + wiretransfer -- bank-accounts</li></ul></li>
+<li>smartshop</li></ul>
+<ul><li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?t=509">moreblocks</a> - stairs&amp;slopes, iron stone, plank stone, glowglass,  circular saw ...</li>
+<li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?id=549">Moreores</a> - tin, silver, mithril&#160;?</li>
+<li>xtraores - marble, zinc, lead .. osmium, platinum, titanium, geminitinum .. rarium, unobtainium</li>
+<li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=11&amp;t=4345">glooptest</a> - minerals &amp; gems: alatro, akalin, arol, kalite, talinite,  amethyst, ruby, sapphire, topaz &amp; their blocks</li></ul>
+<dl><dd>also handsaw, hammer, wooden table, scaffold ...</dd></dl>
+<ul><li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=11&amp;t=4019">gloopblocks</a> - evil block &amp; tools</li>
+<li>minetest_errata</li></ul>
+<ul><li>etherial - quicksand, mushroom biome, bones&amp;bonemeal, fire_flower, firethorn, birch, willow, sakura, redwood, frostwood, big appletree, banana, orange, palm, coconut ...</li></ul>
+<dl><dd><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=11&amp;t=7656">forum-old</a> <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=14638">forum-NG</a> <a rel="nofollow" class="external text" href="https://notabug.org/TenPlus1/ethereal">git</a></dd></dl>
+<ul><li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=11&amp;t=4394">moretrees</a> - really big trees</li></ul>
+<dl><dd>Fir/spruce/pine cones can be cooked to extract fir/spruce/pine nuts.</dd></dl>
+<ul><li>more_fire - lamps (oil-lamp...), torches (weaktorch...), campfire, kindling</li>
+<li>morelamps</li></ul>
+<dl><dd>note: regular torches and furnaces generate heat, that melts nearby snow and ice, and hurts unarmored players</dd></dl>
+<ul><li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=11&amp;t=2041">homedecor</a> - lots of furniture and decorative items</li>
+<li>stairs</li>
+<li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=11&amp;t=4904">stained-glass</a> - colored glass</li>
+<li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=11&amp;t=8890">baked-clay</a> - in all colors</li>
+<li>basic-materials - terracotta, cement, concrete .. energycrystals</li>
+<li>usesdirt - dirtbrick</li>
+<li>wool</li></ul>
+<ul><li>bau_coop - shared chest</li>
+<li>castle-doors - big &amp; double doors</li>
+<li>gates_long - wider fence-gates</li></ul>
+<ul><li>ehlphabet - big letters, letter-machines</li></ul>
+<ul><li><a href="/Pipeworks" class="mw-redirect" title="Pipeworks">Pipeworks</a> - pipes &amp; tubes for moving and processing stuff
+<ul><li><a rel="nofollow" class="external text" href="http://forum.minetest.net/viewtopic.php?id=2155">pipeworks</a></li></ul></li></ul>
+<ul><li><a href="/Mesecons" class="mw-redirect" title="Mesecons">mesecons</a> - electricity (kind-of), signals, logic, automation
+<ul><li><a rel="nofollow" class="external free" href="http://mesecons.net/digilines.html">http://mesecons.net/digilines.html</a></li></ul></li></ul>
+<ul><li>technic - alloys, electric power, machines, automation. Also, nuclear power (including meltdown&#160;:), and big chests.</li></ul>
+<dl><dd><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=11&amp;t=2538">forum</a> - <a rel="nofollow" class="external text" href="https://github.com/minetest-mods/technic/">git</a> - <a rel="nofollow" class="external text" href="http://technic.kosyak.info/">some recipes</a></dd></dl>
+<ul><li><a href="/Mods/digtron" title="Mods/digtron">DigTron</a> - modular machines that can dig and build</li>
+<li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=11&amp;t=14726">advanced trains</a> - steam locomotives and waggons, rails, switches and signals</li>
+<li>weapons / rangedweapons - guns and ammo</li></ul>
+<dl><dd>note: no mobs.  This mod doesn't really fit here - maybe a leftover from the config of the gta-server&#160;?</dd></dl>
+<ul><li>hunger  - players need to eat</li>
+<li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?t=9051">diet</a> - players need to eat different kinds of food (it keeps track of the last 10 fooditems eaten)</li>
+<li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?t=11820">thirsty</a> - players need to drink / drinking fountains, canteen/waterbottle ...</li>
+<li>farming - more plants: cacoa, carrot, coffee, corn, melon, potato, pumpkin, raspberry, tomato ...</li></ul>
+<dl><dd>see also etherial</dd></dl>
+<ul><li>cottages - handmill, threshing floor, sicle ... simple furniture</li></ul>
+<ul><li>awards</li>
+<li>cozy - sit&amp;lay down</li>
+<li>mail - write mail to admin, or other players</li></ul>
+<dl><dd>Note: there is no check if a given mailto-address is valid&#160;!</dd>
+<dd>There is also a mailbox from homedecor</dd></dl>
+<ul><li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?t=572">worldedit</a> + gui, handle_schematics - map-maintainance</li>
+<li>apartement - apartement-spawner - builds multiple apartements or houses, from a blueprint-file</li></ul>
+<ul><li>...</li></ul>
+<h2><span class="mw-headline" id="General">General</span></h2>
+<p>Hunger
+</p>
+<ul><li>This mod makes players hungry over time</li>
+<li>Watch the food-bar next to the health-bar, and refill with food:
+<ul><li>apples, brown mushrooms - standard food</li>
+<li>fruits + farmed food (eg. wheat --&gt; flour --&gt; bread)</li>
+<li>found+cooked food (eg. roasted fir-cones --&gt; nuts)</li>
+<li>meat from shop at spawn</li>
+<li>misc stuff from shops at restaurants etc.</li></ul></li>
+<li>Also, you need to cycle thru different kinds of food, or "your stomage could do for a change", or worse.</li></ul>
+<p>Thirsty
+</p>
+<ul><li>This mod makes players thirsty over time
+<ul><li>Refill at drinking fountains, or stand still in a pool of water (for about 20 seconds)</li>
+<li>Get a canteen (waterbottle) - click it to refill thirst-bar</li></ul></li></ul>
+<p>Skin
+</p>
+<ul><li>button in unified inventory - great selection of skins</li></ul>
+<p>3D-Armor
+</p>
+<ul><li>button in unified inventory
+<ul><li>Helmet, chest, leggins, boots, shield,&#160;?</li></ul></li></ul>
+<dl><dd>Armor gets damaged over time - so watch it, and repair</dd></dl>
+<p>Backpacks
+</p>
+<ul><li>button in unified inventory
+<ul><li>4 slots for backpacks: small (1 row), medium (2 rows), large (3 rows)</li></ul></li></ul>
+<p>MineGeld
+</p>
+<ul><li>Green, blue, red notes - value 1, 5, 10 MG</li>
+<li>Players get some MG each day they are online, and active</li></ul>
+<dl><dd>ie. when they dig or build some blocks</dd></dl>
+<ul><li>ATM to access bank-account, and change between MG-note-types</li></ul>
+<p>...
+</p>
+<h2><span class="mw-headline" id="Map">Map</span></h2>
+<p>A short overview about this world.
+</p>
+<h3><span class="mw-headline" id="Spawn">Spawn</span></h3>
+<p>Starting location, teleporters, central trainstation. Some shops. <br />
+Location: -2851,9,1259
+</p><p><b>Arrival</b> (via command '/spawn'):
+</p><p>Shops sell bronze armor and tools.
+</p>
+<dl><dd>Note the white drinking fountains here - click to refill thirst-bar</dd></dl>
+<ul><li>North - teleporter to  1st floor - Biomes</li>
+<li>East  - teleporter to  2nd floor - Mines</li>
+<li>South - teleporter to  trains &amp; out</li>
+<li>West  - teleporter to house of Mavi &amp; Kimby (admins): -1130,5,306
+<ul><li>with a bridge to the new trainstation "Mithrill Station" at -936,15,300</li></ul></li></ul>
+<p><b>1st floor</b> - Biomes:
+</p><p>Shops sell beds, doors, markers, glass panes, 
+as well as (expensive) stoneblocks and wood planks.
+</p>
+<ul><li>North - teleporter to Desert&amp;Lava:    -733,6,-1563
+<ul><li>new desert-village, with public machines  -777,7,-1586 <br /> with adobe-house by blankman: -780,5,-1666</li></ul></li>
+<li>East  - teleporter to Bamboo&amp;Jungle:  174,23,54
+<ul><li>with a path to x-village, some more shops, techpark, trainstation</li></ul></li>
+<li>South - teleporter to Mushroom&amp;Beach: -14909,3,-14204</li>
+<li>West  - teleporter to Snow&amp;Crystal:   15134,3,-4688 (out of order)</li></ul>
+<p><b>2nd floor</b> - Mines:
+</p><p>Shops sell meat, locked chests, drinking fountains, furnaces,  <br />
+and wooden planks, torches, bronze picks and backpacks.
+</p>
+<ul><li>South - teleporter to Easy Mine:  -1127,-691,152</li>
+<li>West  - teleporter to Lava Mine:   -68,-16025,-1203</li>
+<li>East  - teleporter to Moss Mine:   126,-16038,-11992</li>
+<li>North - teleporter to Glow Mine:  -187,-29997,-92</li></ul>
+<p><b>Ground floor</b>. with trainstations
+</p>
+<ul><li>North - rails to StGeorge, Villa Cielito, Willow-Station</li>
+<li>East  - rails to Cudney Mansions Village - ends at -2217,5,1217</li>
+<li>South - rails to (under construction     - ends at  2854,5,366)</li>
+<li>West  - rails to Patton machine village &amp; BeachPlace - west branch ends at -3730,16,1967</li></ul>
+<p>Notes: 
+</p>
+<ul><li>The mines are of no use for new players without equipment.
+<ul><li>same for the biomes lava, desert, snow&amp;crystal</li>
+<li>NEW: desert-village with public workshop</li></ul></li>
+<li>The trains look nice, but need a driver with privs to operate.
+<ul><li>There is a new line with automated trains now (2021-05)</li></ul></li></ul>
+<h3><span class="mw-headline" id="Notable_locations">Notable locations</span></h3>
+<ul><li>Beach Place  -3150,4,1490
+<ul><li>Bank w/ ATM etc.   -3316,4,1478</li>
+<li>Shop (armor,tools) -3270,4,1441</li>
+<li>Restaurant         -3333,4,1523</li>
+<li>MacMavi, Pizza, Cafe, FoodTruck, BeachBar -3495,3,1420</li>
+<li>some nice big houses</li></ul></li></ul>
+<ul><li>StGeorge  -2890,20,1866
+<ul><li>NoobHotel: ATM, Bistro   -2962,8,1868</li>
+<li>Furniture-shop           -3032,8,1857</li></ul></li></ul>
+<ul><li>Villa Cielito  (farm)  -3075,10,2581
+<ul><li>big windmill          -3128,10,2637</li></ul></li></ul>
+<ul><li>Willow Train Station  -3077,7,2996</li></ul>
+<ul><li>Cudney Mansions Village  -2385,6,1235
+<ul><li>Grand Manison, Manison2 -2357,7,1322</li></ul></li></ul>
+<ul><li>Mike Patton machine village / "MP-Town"
+<ul><li>Tool-repair  -3021,37,1383</li>
+<li>Farm-shop    -3011,45,1329</li>
+<li>Machines &amp; autocrafter, chest-sorters &amp; big storage-area</li></ul></li></ul>
+<ul><li>Kimby&amp;Mavi
+<ul><li>AreaInfo     -1130,5,304</li>
+<li>ModernHouse w/ disco-floor           -1054,2,275</li>
+<li>SolarArray+BatteryBoxes+LV-Furnaces  -1077,7,229</li>
+<li>Bridge to Mithrill-Station</li></ul></li></ul>
+<ul><li>desert-rail line, with automated trains - big roundcourse, roughly around bamboo&amp;jungle
+<ul><li>Mithrill-Station (near Mavi&amp;Kimby)     -936,15,300</li>
+<li>Gudule-base                             270,8,409</li>
+<li>survival-shop, tree-shop, Moe's Tavern  101,8,394</li>
+<li>tower-shop                             -501,12,-408</li>
+<li>public Workshop1, with daytime-button  -777,7,-1586  machines for free use, eg. grinder and tool-repair</li>
+<li>public Workshop2                        -58,7,229</li></ul></li></ul>
+<ul><li>Tech-Installations
+<ul><li>ALU                     8,6,365</li>
+<li>nuclear demo-reactor  -83,7,295</li>
+<li>techpark              -77,7,311  demos of mesecons, pipeworks, technic</li></ul></li></ul>
+<ul><li>Misc
+<ul><li>Templo  -5563,7,1577</li></ul></li></ul>
+<p>...
+</p>
+<h3><span class="mw-headline" id="Railways">Railways</span></h3>
+<h4><span class="mw-headline" id="Old_trainstations_at_spawn">Old trainstations at spawn</span></h4>
+<p>(Old - as of 2020-11) <br />
+The <b>ground floor at spawn</b> has platforms for these lines&#160;:
+</p>
+<ul><li>North - rails to StGeorge, Villa Cielito, Willow-Station</li>
+<li>East  - rails to Cudney Mansions Village - ends at -2217,5,1217</li>
+<li>South - rails to (under construction     - ends at  2854,5,366)</li>
+<li>West  - rails to Patton machine village &amp; BeachPlace - west branch ends at -3730,16,1967</li></ul>
+<p>Currently (2021-11), these lines are still not automated,
+and operating the existing trains requires privs.
+</p>
+<h4><span class="mw-headline" id="New_rail-lines">New rail-lines</span></h4>
+<p>The new (2021-05) rail-lines have automated trains.
+</p><p>To reach them, use the teleporters at spawn to go to one of
+</p>
+<ul><li>Mavi&amp;Kimby,          then go east, across the lake &amp; farm, to Mitrill-Station</li>
+<li>Biome Desert&amp;Lava,   then walk north-east</li>
+<li>Biome Bamboo&amp;Jungle, then walk north or north-east</li></ul>
+<p>To get on/off a wagon, rightclick it. <br />
+Switch to another camera (press C) to have an outside view while travelling.
+</p>
+<h4><span class="mw-headline" id="Mitrill-line">Mitrill-line</span></h4>
+<p>This is a short line, running from
+</p>
+<ol><li>Mitrill-Station at -911,3,300  to</li>
+<li>Mavi-Treehouse  at -1430,10,27 and</li>
+<li>DesertStation   at -570,11,286</li></ol>
+<p>Transit at DesertStation to the desert-line.
+</p>
+<h4><span class="mw-headline" id="Desert-line">Desert-line</span></h4>
+<p>This line runs in a big loop, roughly in a circle around <b>Bamboo&amp;Jungle</b>. <br />
+It is served by about a dozen trains, so the next train should arrive after about one-and-a-half minutes. <br />
+A roundtrip takes about 16 minutes.
+</p><p>Stations:
+</p>
+<ol><li>DesertStation   -1430,10,13</li>
+<li>Desert-1          -52,10,282  with workshop2, radioshack, demo-reactor, techpark</li>
+<li>Gudule-Base       271,8,407   with tree- and survivalshop, Moe's Tavern, glass&amp;lamp-shop</li>
+<li>Cemetary          338,8,268</li>
+<li>Desert-2          835,8,98</li>
+<li>Steppe-1         1263,10,132</li>
+<li>Sequoia-Loop     1680,10,-362</li>
+<li>Meadow-Halt      1434,8,-1091</li>
+<li>(Sakura-Pass)</li>
+<li>(Panoramic-Bridge with tower)</li>
+<li>Ancient-City     1100,53,-1906</li>
+<li>SeaShore-Station  485,7,-2025</li>
+<li>Banana-Station      8,8,-1792</li>
+<li>Lava-Station    -377,11,-1495  (east of Desert&amp;Lava)</li>
+<li>Depository      -455,8,-313  with towershop</li>
+<li>(Ice-Bridge)</li></ol>
+<h2><span class="mw-headline" id="Tips">Tips</span></h2>
+<p>How to get started on this server.
+</p>
+<h3><span class="mw-headline" id="Tips-Basics">Tips-Basics</span></h3>
+<p>Subpage → <a href="/Server/SteamWorks/Tips-Basics" title="Server/SteamWorks/Tips-Basics">Tips-Basics</a>
+</p>
+<h3><span class="mw-headline" id="Tips-Advanced">Tips-Advanced</span></h3>
+<p>Subpage → <a href="/Server/SteamWorks/Tips-Advanced" title="Server/SteamWorks/Tips-Advanced">Tips-Advanced</a>
+- about
+Farming /
+Woodworking /
+Mining /
+Building 
+</p>
+<h3><span class="mw-headline" id="Tips-Tech">Tips-Tech</span></h3>
+<p>Subpage → <a href="/Server/SteamWorks/Tips-Tech" title="Server/SteamWorks/Tips-Tech">Tips-Tech</a>
+- about Technic, pipeworks, mesecons, digtron.
+</p><p>Regular players can ride the existing, automated trains. <br /> 
+But driving then, or laying tracks, requires privs.
+</p><p>So, you need to become a fairly competent player 
+before talking to a mod or admin about that.
+</p><p>...
+</p>
+<h2><span class="mw-headline" id="Misc">Misc</span></h2>
+<p>...
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20230709063434
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.250 seconds
+Real time usage: 0.488 seconds
+Preprocessor visited node count: 110/1000000
+Post‐expand include size: 1294/2097152 bytes
+Template argument size: 147/2097152 bytes
+Highest expansion depth: 4/40
+Expensive parser function count: 1/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.110/7 seconds
+Lua virtual size: 5.55 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  321.641      1 Template:Server_Data
+100.00%  321.641      1 -total
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:4925-0!canonical and timestamp 20230709063433 and revision id 26705
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Server/SteamWorks&amp;oldid=26705">http://wiki.minetest.net/index.php?title=Server/SteamWorks&amp;oldid=26705</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/index.php?title=Category:Pages_with_ignored_display_titles&amp;action=edit&amp;redlink=1" class="new" title="Category:Pages with ignored display titles (page does not exist)">Pages with ignored display titles</a></li><li><a href="/Category:Notable_Servers" title="Category:Notable Servers">Notable Servers</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Server%2FSteamWorks" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Server/SteamWorks" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Server/SteamWorks&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Server/SteamWorks">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Server/SteamWorks&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Server/SteamWorks&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Server/SteamWorks" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Server/SteamWorks" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Server/SteamWorks&amp;oldid=26705" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Server/SteamWorks&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 28 March 2022, at 01:29.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.250","walltime":"0.488","ppvisitednodes":{"value":110,"limit":1000000},"postexpandincludesize":{"value":1294,"limit":2097152},"templateargumentsize":{"value":147,"limit":2097152},"expansiondepth":{"value":4,"limit":40},"expensivefunctioncount":{"value":1,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  321.641      1 Template:Server_Data","100.00%  321.641      1 -total"]},"scribunto":{"limitreport-timeusage":{"value":"0.110","limit":"7"},"limitreport-virtmemusage":{"value":5820416,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709063434","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":296});});</script></body></html>

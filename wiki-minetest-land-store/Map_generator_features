@@ -1,0 +1,537 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Map generator features - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"ec7a4935c738b2b4d5c5ed7a","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Map_generator_features","wgTitle":"Map generator features","wgCurRevisionId":24138,"wgRevisionId":24138,"wgArticleId":3025,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages","Incomplete pages","Map"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Map_generator_features","wgRelevantArticleId":3025,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={
+"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Map_generator_features rootpage-Map_generator_features skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Map generator features</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> Language:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><b><a class="mw-selflink selflink">English</a></b>&#160;• <bdi lang="de"><a href="/Map_generator_features/de" title="Map generator features/de">Deutsch</a></bdi></td>
+</tr></tbody></table>
+<table style="margin: 0 auto 1em; text-align: justify; border-collapse: collapse; border-width: 1px; border-style: dashed; width: 100%; clear: both; border-color:#f28500; background:#ffe;">
+<tbody><tr>
+<td style="border: none; padding: 2px 0 2px 0.9em; text-align: center;">
+ <img alt="Mbox important.png" src="/images/thumb/7/79/Mbox_important.png/25px-Mbox_important.png" decoding="async" width="25" height="25" srcset="/images/thumb/7/79/Mbox_important.png/38px-Mbox_important.png 1.5x, /images/7/79/Mbox_important.png 2x" /></td>
+<td style="border: none; padding: 0.25em 0.9em; width: 100%;"><b>This article is incomplete.</b><br />
+Please help expand this article to include more useful information.</td>
+
+</tr></tbody></table>
+<p>This article shows the various special features which <a href="/Map_generator" title="Map generator">map generators</a> have and explains how to use them.
+</p><p><br />
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Shared_features"><span class="tocnumber">1</span> <span class="toctext">Shared features</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#v7"><span class="tocnumber">2</span> <span class="toctext">v7</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#v6"><span class="tocnumber">3</span> <span class="toctext">v6</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#flat"><span class="tocnumber">4</span> <span class="toctext">flat</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Shared_features">Shared features</span></h2>
+<p>These map generator features are shared by multiple map generators: v5, v6, v7, valleys, flat and fractal. All of these are enabled by default.
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th width="5%">Name
+</th>
+<th width="10%">Blocks
+</th>
+<th>Setting
+</th>
+<th>Default?
+</th>
+<th>Description
+</th>
+<th width="355px">Images
+</th></tr>
+<tr>
+<td><b>Cobblestone dungeon</b>
+</td>
+<td><a href="/Cobblestone" title="Cobblestone">Cobblestone</a>, <a href="/Mossy_Cobblestone" title="Mossy Cobblestone">Mossy Cobblestone</a>, <a href="/Stair" title="Stair">Cobblestone Stair</a>, <a href="/Air" title="Air">Air</a>
+</td>
+<td><code>mg_flags=dungeons</code>
+</td>
+<td>Yes
+</td>
+<td>Dungeons are <a href="/Air" title="Air">hollow</a> underground structures made of a mixture of <a href="/Cobblestone" title="Cobblestone">cobblestone</a> and <a href="/Mossy_Cobblestone" title="Mossy Cobblestone">mossy cobblestone</a>. Many pathways and <a href="/Stair" title="Stair">cobblestone stairs</a> connect a complex system of rooms.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Dungeon_0.4.7.jpg" class="image"><img alt="" src="/images/thumb/d/d6/Dungeon_0.4.7.jpg/350px-Dungeon_0.4.7.jpg" decoding="async" width="350" height="213" class="thumbimage" srcset="/images/thumb/d/d6/Dungeon_0.4.7.jpg/525px-Dungeon_0.4.7.jpg 1.5x, /images/thumb/d/d6/Dungeon_0.4.7.jpg/700px-Dungeon_0.4.7.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Dungeon_0.4.7.jpg" class="internal" title="Enlarge"></a></div>Cobblestone dungeon, as of 0.4.7</div></div></div>
+</td></tr>
+<tr>
+<td><b>Desert stone dungeon</b>
+</td>
+<td><a href="/Desert_Stone" title="Desert Stone">Desert Stone</a>, <a href="/Stair" title="Stair">Desert Stone Stair</a>, <a href="/Air" title="Air">Air</a>
+</td>
+<td><code>mg_flags=dungeons</code>
+</td>
+<td>Yes
+</td>
+<td>Desert stone dungeons are similar to cobblestone dungeons, but they have larger rooms and longer stairways which also may go diagonally. They are made out of <a href="/Desert_Stone" title="Desert Stone">desert stone</a> and their stairways made from <a href="/Stair" title="Stair">desert stone stairs</a>. These dungeons appear inside desert stone. In <a href="/Games/Minetest_Game" title="Games/Minetest Game">Minetest Game</a>, desert dungeons can thus be found in deserts.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Desert_dungeon_desert_stone.jpg" class="image"><img alt="" src="/images/thumb/2/2e/Desert_dungeon_desert_stone.jpg/350px-Desert_dungeon_desert_stone.jpg" decoding="async" width="350" height="213" class="thumbimage" srcset="/images/thumb/2/2e/Desert_dungeon_desert_stone.jpg/525px-Desert_dungeon_desert_stone.jpg 1.5x, /images/thumb/2/2e/Desert_dungeon_desert_stone.jpg/700px-Desert_dungeon_desert_stone.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Desert_dungeon_desert_stone.jpg" class="internal" title="Enlarge"></a></div>Desert stone dungeon, as of 0.4.13</div></div></div>
+</td></tr>
+<tr>
+<td><b>Sandstone dungeon</b>
+</td>
+<td><a href="/Sandstone_Brick" title="Sandstone Brick">Sandstone Brick</a>, <a href="/Stair" title="Stair">Sandstone Block Stair</a>, <a href="/Air" title="Air">Air</a>
+</td>
+<td><code>mg_flags=dungeons</code>
+</td>
+<td>No
+</td>
+<td>Sandstone dungeons are identical to desert stone dungeons in shape. They are made out of <a href="/Sandstone_Brick" title="Sandstone Brick">sandstone bricks</a> and may have stairways made out of <a href="/Stair" title="Stair">sandstone block stairs</a>. These dungeons appear inside <a href="/Sandstone" title="Sandstone">sandstone</a>. In <a href="/Games/Minetest_Game" title="Games/Minetest Game">Minetest Game</a>, sandstone dungeons can thus be found in sandstone deserts. In the v6 map generator, no sandstone dungeons are generated because of the lack of sandstone.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Desert_dungeon_sandstone.jpg" class="image"><img alt="" src="/images/thumb/8/87/Desert_dungeon_sandstone.jpg/350px-Desert_dungeon_sandstone.jpg" decoding="async" width="350" height="213" class="thumbimage" srcset="/images/thumb/8/87/Desert_dungeon_sandstone.jpg/525px-Desert_dungeon_sandstone.jpg 1.5x, /images/thumb/8/87/Desert_dungeon_sandstone.jpg/700px-Desert_dungeon_sandstone.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Desert_dungeon_sandstone.jpg" class="internal" title="Enlarge"></a></div>Sandstone dungeon, as of 0.4.13</div></div></div>
+</td></tr>
+<tr>
+<td><b>Decorations</b>
+</td>
+<td><i>(depends)</i>
+</td>
+<td><code>mg_flags=decorations</code>
+</td>
+<td>Yes
+</td>
+<td>Decorations are additional structures placed by mods on top of the surface. Decorations can be small plants such as <a href="/Grass" title="Grass">grass</a>, <a href="/Flower" title="Flower">flowers</a>, <a href="/Cactus" title="Cactus">cacti</a>, or they can even be entire trees or buildings.
+<p>The v6 mapgen is an exception here, because regular trees, apple trees, jungle trees and pine trees and <a href="/index.php?title=Jungle_grass&amp;action=edit&amp;redlink=1" class="new" title="Jungle grass (page does not exist)">jungle grass</a> are generated the map generator itself and are not considered decorations and are thus not affected by this setting. But mods can still add additional decorations on top of that. See also: <a href="/Biomes#v6" title="Biomes">Biomes#v6</a>
+</p>
+</td></tr>
+<tr>
+<td><b>Caves</b>
+</td>
+<td><a href="/Air" title="Air">Air</a>
+</td>
+<td><code>mg_flags=caves</code>
+</td>
+<td>Yes
+</td>
+<td>Caves are <a href="/Air" title="Air">air</a> pockets found underground at any <a href="/Coordinates" title="Coordinates">height</a>. Caves can be very small hollow places or can be very complex interconnected tunnel systems. Cave entrances can commonly found on the surface. The cave style greatly varies between the different map generators.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Minetest_Game_underground.jpg" class="image"><img alt="" src="/images/thumb/7/75/Minetest_Game_underground.jpg/350px-Minetest_Game_underground.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/7/75/Minetest_Game_underground.jpg/525px-Minetest_Game_underground.jpg 1.5x, /images/thumb/7/75/Minetest_Game_underground.jpg/700px-Minetest_Game_underground.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Minetest_Game_underground.jpg" class="internal" title="Enlarge"></a></div>Cave in Minetest Game 5.0.0</div></div></div>
+</td></tr>
+<tr>
+<td><b>Underground lava lakes</b>
+</td>
+<td><a href="/Lava" title="Lava">Lava</a>, <a href="/Ores" title="Ores">Ores</a>, <a href="/Air" title="Air">Air</a>
+</td>
+<td><code>mg_flags=caves</code>
+</td>
+<td>Yes
+</td>
+<td>These lakes are caverns flooded with <a href="/Lava" title="Lava">lava</a>. <a href="/Ores" title="Ores">Ores</a> are very common around these lakes (see screenshot). However, often these caverns are not linked to, and it is very difficult to reach them. Lava lakes are a subset of caves and only appear when caves are used. See <a href="/Lava" title="Lava">Lava</a> more more information.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Lava_lake_0.4.7.jpg" class="image"><img alt="" src="/images/thumb/b/be/Lava_lake_0.4.7.jpg/350px-Lava_lake_0.4.7.jpg" decoding="async" width="350" height="213" class="thumbimage" srcset="/images/thumb/b/be/Lava_lake_0.4.7.jpg/525px-Lava_lake_0.4.7.jpg 1.5x, /images/thumb/b/be/Lava_lake_0.4.7.jpg/700px-Lava_lake_0.4.7.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Lava_lake_0.4.7.jpg" class="internal" title="Enlarge"></a></div>A lava lake in v6, as of Minetest 0.4.7</div></div></div>
+</td></tr>
+<tr>
+<td><b>Underground water lakes</b>
+</td>
+<td><a href="/Water" title="Water">Water</a>, <a href="/Air" title="Air">Air</a>
+</td>
+<td><code>mg_flags=caves</code>
+</td>
+<td>Yes
+</td>
+<td>Like lava lakes, these lakes are caverns flooded with <a href="/Water" title="Water">water</a> and can appear at any height. Water lakes are a subset of caves and only appear when caves are used.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Underground_water_lake.jpg" class="image"><img alt="" src="/images/thumb/0/0c/Underground_water_lake.jpg/350px-Underground_water_lake.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/0/0c/Underground_water_lake.jpg/525px-Underground_water_lake.jpg 1.5x, /images/thumb/0/0c/Underground_water_lake.jpg/700px-Underground_water_lake.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Underground_water_lake.jpg" class="internal" title="Enlarge"></a></div>A water lake in v7, as of Minetest 0.4.15</div></div></div>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="v7">v7</span></h2>
+<table class="wikitable">
+<tbody><tr>
+<th width="5%">Name
+</th>
+<th>Setting
+</th>
+<th>Default?
+</th>
+<th>Description
+</th>
+<th width="355px">Images
+</th></tr>
+<tr>
+<td><b>Mountains</b>
+</td>
+<td><code>mgv7_spflags=mountains</code>
+</td>
+<td>Yes
+</td>
+<td>Enables mountains.
+</td>
+<td>
+</td></tr>
+<tr>
+<td><b>Rivers</b>
+</td>
+<td><code>mgv7_spflags=ridges</code>
+</td>
+<td>Yes
+</td>
+<td>Enables rivers at sea level. They which aggressively cut through the terrain and sometimes create canyon-like structures. Since these rivers can make the terrain quite difficult to navigate, it may make sense to disable them.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Mapgen_v7_ridge.jpg" class="image"><img alt="" src="/images/thumb/2/2f/Mapgen_v7_ridge.jpg/350px-Mapgen_v7_ridge.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/2/2f/Mapgen_v7_ridge.jpg/525px-Mapgen_v7_ridge.jpg 1.5x, /images/thumb/2/2f/Mapgen_v7_ridge.jpg/700px-Mapgen_v7_ridge.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mapgen_v7_ridge.jpg" class="internal" title="Enlarge"></a></div>Typical ridge in v7, Minetest Game</div></div></div>
+</td></tr>
+<tr>
+<td><b>Floatlands</b> (experimental)
+</td>
+<td><code>mgv7_spflags=floatlands</code>
+</td>
+<td>No
+</td>
+<td>With this setting, large chunks of land will be created in the sky at a height at Y=1280 or above. The terrain is a bit different than on the surface, but the biomes are more or less the same. This setting is experimental and subject to change. (Floatlands have been removed from Minetest 5.2 and will be added back in 5.3.)
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Minetest_Game_floatland_coniferous_forest.jpg" class="image"><img alt="" src="/images/thumb/2/22/Minetest_Game_floatland_coniferous_forest.jpg/350px-Minetest_Game_floatland_coniferous_forest.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/2/22/Minetest_Game_floatland_coniferous_forest.jpg/525px-Minetest_Game_floatland_coniferous_forest.jpg 1.5x, /images/thumb/2/22/Minetest_Game_floatland_coniferous_forest.jpg/700px-Minetest_Game_floatland_coniferous_forest.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Minetest_Game_floatland_coniferous_forest.jpg" class="internal" title="Enlarge"></a></div>Minetest Game floatlands in 5.0.0</div></div></div>
+</td></tr>
+<tr>
+<td><b>Caverns</b>
+</td>
+<td><code>mgv7_spflags=caverns</code>
+</td>
+<td>Yes
+</td>
+<td>This enables the creation of caves with very large rooms, also called caverns. There's typically no lava or water in or near them.
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="v6">v6</span></h2>
+<p>V6 features are configured via map generator flags with the setting <code>mgv6_spflags</code>.
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th width="5%">Name
+</th>
+<th>Flags
+</th>
+<th>Default?
+</th>
+<th>Description
+</th>
+<th width="355px">Images
+</th></tr>
+<tr>
+<td><b>Trees</b>
+</td>
+<td><code>trees</code>
+</td>
+<td>Yes
+</td>
+<td>Enables regular <a href="/Trees" title="Trees">trees</a>, apple trees, jungle trees and <a href="/Jungle_Grass" title="Jungle Grass">jungle grass</a> in jungles and pine trees in taiga biomes.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Mapgen_v6_0_4_9.jpg" class="image"><img alt="" src="/images/thumb/f/f2/Mapgen_v6_0_4_9.jpg/350px-Mapgen_v6_0_4_9.jpg" decoding="async" width="350" height="224" class="thumbimage" srcset="/images/thumb/f/f2/Mapgen_v6_0_4_9.jpg/525px-Mapgen_v6_0_4_9.jpg 1.5x, /images/thumb/f/f2/Mapgen_v6_0_4_9.jpg/700px-Mapgen_v6_0_4_9.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mapgen_v6_0_4_9.jpg" class="internal" title="Enlarge"></a></div>A forest of regular trees in 0.4.9</div></div></div>
+</td></tr>
+<tr>
+<td><b>Snow biomes</b>
+</td>
+<td><code>snowbiomes</code>
+</td>
+<td>Yes
+</td>
+<td>Enables the Tundra and Taiga biomes. This also automatically enables the <code>jungles</code> setting
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Snow_pines.jpg" class="image"><img alt="" src="/images/thumb/d/de/Snow_pines.jpg/350px-Snow_pines.jpg" decoding="async" width="350" height="214" class="thumbimage" srcset="/images/thumb/d/de/Snow_pines.jpg/525px-Snow_pines.jpg 1.5x, /images/thumb/d/de/Snow_pines.jpg/700px-Snow_pines.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Snow_pines.jpg" class="internal" title="Enlarge"></a></div>Pine trees in a snowy region, as of 0.4.13</div></div></div>
+</td></tr>
+<tr>
+<td><b>Jungle biomes</b>
+</td>
+<td><code>jungles</code>
+</td>
+<td>Yes
+</td>
+<td>Adds the Jungle biome which includes <a href="/Jungle_Tree" title="Jungle Tree">jungle trees</a> and <a href="/Jungle_Grass" title="Jungle Grass">jungle grass</a>
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Jungle_0.4.7.jpg" class="image"><img alt="" src="/images/thumb/1/16/Jungle_0.4.7.jpg/350px-Jungle_0.4.7.jpg" decoding="async" width="350" height="213" class="thumbimage" srcset="/images/thumb/1/16/Jungle_0.4.7.jpg/525px-Jungle_0.4.7.jpg 1.5x, /images/thumb/1/16/Jungle_0.4.7.jpg/700px-Jungle_0.4.7.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Jungle_0.4.7.jpg" class="internal" title="Enlarge"></a></div>Jungle biome as of 0.4.7</div></div></div>
+</td></tr>
+<tr>
+<td><b>Biome blending</b>
+</td>
+<td><code>biomeblend</code>
+</td>
+<td>Yes
+</td>
+<td>Enables a smooth transition between biomes.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Mapgen_v6_biomeblend.jpg" class="image"><img alt="" src="/images/thumb/5/57/Mapgen_v6_biomeblend.jpg/350px-Mapgen_v6_biomeblend.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/5/57/Mapgen_v6_biomeblend.jpg/525px-Mapgen_v6_biomeblend.jpg 1.5x, /images/thumb/5/57/Mapgen_v6_biomeblend.jpg/700px-Mapgen_v6_biomeblend.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mapgen_v6_biomeblend.jpg" class="internal" title="Enlarge"></a></div>Biome blending in action between plains and a desert</div></div></div>
+</td></tr>
+<tr>
+<td><b>Mud flow</b>
+</td>
+<td><code>mudflow</code>
+</td>
+<td>Yes
+</td>
+<td>The “mudflow” parameter adds soil erosion. It moves <a href="/Dirt" title="Dirt">dirt</a> that sits on the edge of vertical drops and moves it to the base of that drop.
+</td></tr>
+<tr>
+<td><b>Flat</b>
+</td>
+<td><code>flat</code>
+</td>
+<td>No
+</td>
+<td>Will generate a flat world in the v6 style with lakes, trees and caves. Note that this is a bit different than the “flat” map generator
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="flat">flat</span></h2>
+<p>This mapgen has support for lakes and hills which are disabled by default.
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th width="5%">Name
+</th>
+<th>Setting
+</th>
+<th>Default?
+</th>
+<th>Description
+</th>
+<th width="355px">Images
+</th></tr>
+<tr>
+<td><b>Hills</b>
+</td>
+<td><code>mgflat_spflags=hills</code>
+</td>
+<td>No
+</td>
+<td>Increases the terrain height at some points to form hills. These hills become quite big sometimes.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Mapgen_flat_hills.jpg" class="image"><img alt="" src="/images/thumb/5/57/Mapgen_flat_hills.jpg/350px-Mapgen_flat_hills.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/5/57/Mapgen_flat_hills.jpg/525px-Mapgen_flat_hills.jpg 1.5x, /images/thumb/5/57/Mapgen_flat_hills.jpg/700px-Mapgen_flat_hills.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mapgen_flat_hills.jpg" class="internal" title="Enlarge"></a></div>Hill in the flat mapgen</div></div></div>
+</td></tr>
+<tr>
+<td><b>Lakes</b>
+</td>
+<td><code>mgflat_spflags=lakes</code>
+</td>
+<td>No
+</td>
+<td>Lowers the terrain at some points to form lakes. These lakes can become quite large sometimes.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Mapgen_flat_lakes.jpg" class="image"><img alt="" src="/images/thumb/f/fe/Mapgen_flat_lakes.jpg/350px-Mapgen_flat_lakes.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/f/fe/Mapgen_flat_lakes.jpg/525px-Mapgen_flat_lakes.jpg 1.5x, /images/thumb/f/fe/Mapgen_flat_lakes.jpg/700px-Mapgen_flat_lakes.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mapgen_flat_lakes.jpg" class="internal" title="Enlarge"></a></div>Small lake in the flat mapgen</div></div></div>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<ul><li><a href="/How_to_emulate_mapgen_v6_using_a_customised_mapgen_v7" title="How to emulate mapgen v6 using a customised mapgen v7">How to emulate mapgen v6 using a customised mapgen v7</a></li></ul>
+<!-- 
+NewPP limit report
+Cached time: 20230709182002
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.347 seconds
+Real time usage: 0.575 seconds
+Preprocessor visited node count: 168/1000000
+Post‐expand include size: 2604/2097152 bytes
+Template argument size: 342/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 14/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.130/7 seconds
+Lua virtual size: 5.53 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  328.267      1 -total
+ 92.05%  302.155      1 Template:Languages
+  7.85%   25.756      1 Template:Incomplete
+  4.46%   14.648      1 Template:Mbox
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:3025-0!canonical and timestamp 20230709182002 and revision id 24138
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Map_generator_features&amp;oldid=24138">http://wiki.minetest.net/index.php?title=Map_generator_features&amp;oldid=24138</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li><li><a href="/Category:Incomplete_pages" title="Category:Incomplete pages">Incomplete pages</a></li><li><a href="/Category:Map" title="Category:Map">Map</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Map+generator+features" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Map_generator_features" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Map_generator_features&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Map_generator_features">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Map_generator_features&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Map_generator_features&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Map_generator_features" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Map_generator_features" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Map_generator_features&amp;oldid=24138" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Map_generator_features&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 1 July 2020, at 05:48.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.347","walltime":"0.575","ppvisitednodes":{"value":168,"limit":1000000},"postexpandincludesize":{"value":2604,"limit":2097152},"templateargumentsize":{"value":342,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":14,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  328.267      1 -total"," 92.05%  302.155      1 Template:Languages","  7.85%   25.756      1 Template:Incomplete","  4.46%   14.648      1 Template:Mbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.130","limit":"7"},"limitreport-virtmemusage":{"value":5795840,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709182002","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":926});});</script></body></html>

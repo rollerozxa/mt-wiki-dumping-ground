@@ -1,0 +1,302 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Advanced Beginners Guide/de - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"546f86ca4fa234513d2f143e","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Advanced_Beginners_Guide/de","wgTitle":"Advanced Beginners Guide/de","wgCurRevisionId":25558,"wgRevisionId":25558,"wgArticleId":4403,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Deutsch","Languages pages"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Advanced_Beginners_Guide/de","wgRelevantArticleId":4403,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={
+"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Advanced_Beginners_Guide_de rootpage-Advanced_Beginners_Guide skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Advanced Beginners Guide/de</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/Advanced_Beginners_Guide" title="Advanced Beginners Guide">Advanced Beginners Guide</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> Sprache:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><a href="/Advanced_Beginners_Guide" title="Advanced Beginners Guide">English</a><b>&#160;• <bdi lang="de"><a class="mw-selflink selflink">Deutsch</a></bdi></b>&#160;• <bdi lang="fr"><a href="/Advanced_Beginners_Guide/fr" title="Advanced Beginners Guide/fr">français</a></bdi>&#160;• <bdi lang="id"><a href="/Advanced_Beginners_Guide/id" title="Advanced Beginners Guide/id">Bahasa Indonesia</a></bdi>&#160;• <bdi lang="it"><a href="/Advanced_Beginners_Guide/it" title="Advanced Beginners Guide/it">italiano</a></bdi></td>
+</tr></tbody></table>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Ausf.C3.BChrliche_Anf.C3.A4ngeranleitung"><span class="tocnumber">1</span> <span class="toctext"><b>Ausführliche Anfängeranleitung</b></span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Benutzeroberfl.C3.A4che"><span class="tocnumber">1.1</span> <span class="toctext">Benutzeroberfläche</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Serverbefehle"><span class="tocnumber">1.2</span> <span class="toctext">Serverbefehle</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Privilegien"><span class="tocnumber">1.3</span> <span class="toctext">Privilegien</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Konfiguration"><span class="tocnumber">1.4</span> <span class="toctext">Konfiguration</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Modifikationen"><span class="tocnumber">1.5</span> <span class="toctext">Modifikationen</span></a>
+<ul>
+<li class="toclevel-3 tocsection-7"><a href="#Server"><span class="tocnumber">1.5.1</span> <span class="toctext">Server</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="#Beitragen"><span class="tocnumber">1.5.2</span> <span class="toctext">Beitragen</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h1><span id="Ausführliche_Anfängeranleitung"></span><span class="mw-headline" id="Ausf.C3.BChrliche_Anf.C3.A4ngeranleitung"><b>Ausführliche Anfängeranleitung</b></span></h1>
+<p>Diese Anleitung sammelt und erklärt einige fortschrittlichere Funktionalitäten von Minetest an geeigneter Stelle, um als Schnellauskunft für diejenigen zu dienen, die die grundlegende Spielmechanik beherrschen.
+</p><p>Bevor Sie fortfahren. sollten Sie Folgendes bereits gesehen haben:
+</p>
+<ul><li><a href="/Getting_Started/de" title="Getting Started/de">Erste Schritte</a></li>
+<li><a href="/Games/Tutorial/de" title="Games/Tutorial/de">Anleitungsspiel</a></li>
+<li><a href="/How_to_build_your_first_house/de" title="How to build your first house/de">Wie Sie Ihr erstes Haus bauen</a></li></ul>
+<h2><span id="Benutzeroberfläche"></span><span class="mw-headline" id="Benutzeroberfl.C3.A4che">Benutzeroberfläche</span></h2>
+<p>Eine vollständigere Liste der Tastenbelegung finden Sie <a href="/Controls/de" title="Controls/de">hier</a>.
+</p><p>Einige der wichtigsten Tasten sind:
+</p>
+<ul><li><b>T</b> – öffnet das <a href="/Chat/de" title="Chat/de">Chat</a>-Fenster.</li>
+<li><b>/</b> – öffnet ein Chat-Fenster, bei dem das “/” bereits eingegeben wurde, so dass Sie sofort dahinter einen <a href="/Server_commands/de" title="Server commands/de">Serverbefehl</a> eintippen können.</li>
+<li><b>F5</b> – aktiviert/deaktiviert die Fehlersuchanzeige, die auch die Koordinaten anzeigt (nützlich für die Verwendung des Befehls /teleport).</li>
+<li><b>F10</b> – öffnet/schließt das <a href="/Console/de" title="Console/de">Chat-Protokoll</a>. Dies zeigt die vorher eingegebenen Befehle sowie das Chat-Protokoll und wird außerdem einen neuen Befehl oder eine Chat-Nachricht entgegennehmen (benutzen Sie zum Scrollen die Tasten <kbd>Bild auf</kbd> und <kbd>Bild ab</kbd>).</li>
+<li><b>Umschalttaste+linke Maustaste</b> – überträgt automatisch einen Gegenständestapel. (Siehe <a href="/Inventory/de#Automatisches_.C3.9Cbertragen" title="Inventory/de">automatisches Übertragen</a>)</li></ul>
+<h2><span class="mw-headline" id="Serverbefehle">Serverbefehle</span></h2>
+<p>Eine Erläuterung und vollständigere Liste der Befehle finden Sie <a href="/Server_commands/de" title="Server commands/de">hier</a>. Serverbefehle lösen verborgene Transaktionen aus oder Transaktionen, die während des Spiels auf anderem Wege nicht aktiviert werden können. Geben Sie den Befehl beginnend mit “/” ein und drücken Sie die “Eingabetaste”, um ihn auszulösen. Einige Befehle funktionieren nur, wenn Ihnen bestimmte <a href="/Privileges/de" title="Privileges/de">Privilegien</a> gewährt wurden.
+</p><p>Hier einige der nützlichsten Befehle:
+</p>
+<ul><li><b>/help all</b> – listet die verfügbaren Befehle mit einer kurzen Beschreibung und Syntax-Auskunft auf. (Drücken Sie F10 und benutzen Sie <kbd>Bild auf</kbd> und <kbd>Bild ab</kbd>, um die ganze Liste zu sehen.)</li>
+<li><b>/help &lt;Befehl&gt;</b> – zeigt die Kurzbeschreibung des angegebenen Befehls. Sie können sogar die Hilfe zu einem Befehl ansehen, wenn Sie nicht über die Privilegien verfügen ihn anzuwenden.</li>
+<li><b>/teleport &lt;x&gt; &lt;y&gt; &lt;z&gt;</b> – teleportiert Sie selbst an die angegebenen Koordinaten. Koordinaten bestehen aus drei positiven oder negativen Zahlen. (Drücken Sie F5, um Fehlersuchinformationen anzuzeigen, die Ihre aktuellen Koordinaten enthalten.)</li>
+<li><b>/grant &lt;Spieler&gt; &lt;Privileg&gt;</b> – gewährt dem &lt;Spieler&gt; die angegebenen &lt;<a href="/Privileges/de" title="Privileges/de">Privilegien</a>&gt;.</li></ul>
+<p>Im <a href="/Games/Minetest_Game/de" title="Games/Minetest Game/de">Minetest-Spiel</a> gibt es obendrein:
+</p>
+<ul><li><b>/sethome</b> – setzt Ihre aktuelle Position als Heimatpunkt für den Befehl /home.</li>
+<li><b>/home</b> – teleportiert Sie an den mit dem Befehl /sethome gesetzten Heimatpunkt. Dieser Befehl funktioniert nicht bevor der Befehl /sethome benutzt wurde.</li></ul>
+<h2><span class="mw-headline" id="Privilegien">Privilegien</span></h2>
+<p>Auf der Seite “<a href="/Privileges/de" title="Privileges/de">Privilegien</a>” finden Sie detailliertere Informationen über das Privilegiensystem. Mit dem Privilegien wird gesteuert, ob ein Spieler bestimmte Serverbefehle und Transaktionen ausführen darf.
+</p><p>Hier einige der nützlichsten Privilegien:
+</p>
+<ul><li><b>teleport</b> – ermöglicht die Benutzung des Befehls /teleport.</li>
+<li><b>fast</b> – erlaubt dem Spieler, den schnellen Modus zu aktivieren.</li>
+<li><b>fly</b> – erlaubt dem Spieler, den Flugmodus zu aktivieren.</li>
+<li><b>home</b> – ermöglicht die Benutzung der Befehle /home und /sethome (im Minetest-Spiel)</li></ul>
+<h2><span class="mw-headline" id="Konfiguration">Konfiguration</span></h2>
+<p>Im Hauptmenü können Sie die meisten vorstellbaren Einstellungen über das Menü “Erweiterte Einstellungen” ändern und optimieren. Die Konfiguration wird in <code><a href="/Minetest.conf" title="Minetest.conf">minetest.conf</a></code> gespeichert und kann daher auch manuell angepasst werden, aber das spielt im Moment keine Rolle.
+</p>
+<h2><span class="mw-headline" id="Modifikationen">Modifikationen</span></h2>
+<p><a href="/Mods/de" title="Mods/de">Modifikationen</a> sind von Benutzern erstellte Änderungen am Spiel, die die Spielmechanik verändern. Auf der Seite <a href="/Mods/de" title="Mods/de">Modifikationen</a> finden Sie detaillierte Informationen darüber und auch, <a href="/Installing_Mods/de" title="Installing Mods/de">wie sie installiert werden</a>.
+</p>
+<h3><span class="mw-headline" id="Server">Server</span></h3>
+<p>Eine tolle Mglichkeit, Modifikationen auszuprobieren ohne sie zu installieren ist das <a href="/Server/de#Auf_dem_Server_spielen" title="Server/de">Spielen auf einem Server</a>. Minetest-Server ermöglichen Spielern online zusammen mit anderen zu spielen. Sie haben keine Kontrolle darüber, welche Modifikationen auf den Servern installiert sind, daher müssen Sie die Server finden, die die von Ihnen gewünschten Modifikationen haben. Weitere Informationen finden Sie <a href="/Server/de" title="Server/de">hier</a>.
+</p>
+<h3><span class="mw-headline" id="Beitragen">Beitragen</span></h3>
+<p>Eine gute Möglichkeit etwas zu der Minetest-Gemeinschaft <a rel="nofollow" class="external text" href="http://dev.minetest.net/How_to_start_contributing">beizutragen</a>, ist das Entwickeln einer Modifikation. Lesen Sie die Seite <a rel="nofollow" class="external text" href="http://dev.minetest.net/How_to_start_contributing">contributing</a>, um weitere Informationen zu erhalten, wie Sie damit beginnen.
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20230709090316
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.184 seconds
+Real time usage: 0.411 seconds
+Preprocessor visited node count: 104/1000000
+Post‐expand include size: 1962/2097152 bytes
+Template argument size: 449/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 13/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.110/7 seconds
+Lua virtual size: 5.57 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  310.386      1 Template:Languages
+100.00%  310.386      1 -total
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:4403-0!canonical and timestamp 20230709090315 and revision id 25558
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Advanced_Beginners_Guide/de&amp;oldid=25558">http://wiki.minetest.net/index.php?title=Advanced_Beginners_Guide/de&amp;oldid=25558</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Deutsch" title="Category:Deutsch">Deutsch</a></li><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Advanced+Beginners+Guide%2Fde" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Advanced_Beginners_Guide/de" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Advanced_Beginners_Guide/de&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Advanced_Beginners_Guide/de">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Advanced_Beginners_Guide/de&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Advanced_Beginners_Guide/de&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Advanced_Beginners_Guide/de" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Advanced_Beginners_Guide/de" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Advanced_Beginners_Guide/de&amp;oldid=25558" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Advanced_Beginners_Guide/de&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 9 April 2021, at 22:33.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.184","walltime":"0.411","ppvisitednodes":{"value":104,"limit":1000000},"postexpandincludesize":{"value":1962,"limit":2097152},"templateargumentsize":{"value":449,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":13,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  310.386      1 Template:Languages","100.00%  310.386      1 -total"]},"scribunto":{"limitreport-timeusage":{"value":"0.110","limit":"7"},"limitreport-virtmemusage":{"value":5840896,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709090316","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":236});});</script></body></html>

@@ -1,0 +1,313 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Minetest in der Schule/Selber ein Mod erstellen - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"d5604c2f5ac4f3dd4fbf6f15","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Minetest_in_der_Schule/Selber_ein_Mod_erstellen","wgTitle":"Minetest in der Schule/Selber ein Mod erstellen","wgCurRevisionId":14349,"wgRevisionId":14349,"wgArticleId":2569,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["German","Minetest as Educational Tool"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Minetest_in_der_Schule/Selber_ein_Mod_erstellen","wgRelevantArticleId":2569,"wgIsProbablyEditable":!1,
+"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Minetest_in_der_Schule_Selber_ein_Mod_erstellen rootpage-Minetest_in_der_Schule skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Minetest in der Schule/Selber ein Mod erstellen</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/Minetest_in_der_Schule" title="Minetest in der Schule">Minetest in der Schule</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>Mod in Minetest zu erstellen ist wirklich extrem einfach. Das Wiki hier liefert außerdem alle notwendigen Informationen, die man benötigt.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Modding.2C_wie_geht_das.3F"><span class="tocnumber">1</span> <span class="toctext">Modding, wie geht das?</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Was_man_dazu_braucht"><span class="tocnumber">1.1</span> <span class="toctext">Was man dazu braucht</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Wie_man_anf.C3.A4ngt"><span class="tocnumber">2</span> <span class="toctext">Wie man anfängt</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Und_weiter.3F"><span class="tocnumber">2.1</span> <span class="toctext">Und weiter?</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Die_L.C3.B6sung:_Nachmachen"><span class="tocnumber">2.2</span> <span class="toctext">Die Lösung: Nachmachen</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Links_zur_Ablage"><span class="tocnumber">3</span> <span class="toctext">Links zur Ablage</span></a></li>
+</ul>
+</div>
+
+<h2><span id="Modding,_wie_geht_das?"></span><span class="mw-headline" id="Modding.2C_wie_geht_das.3F">Modding, wie geht das?</span></h2>
+<p>Minetest verwendet die Script-Sprache Lua, um Mods und andere Erweiterung zu erstellen. Es ähnelt einer Programmiersprache aber es geht hier vor allem darum, dem Programm Minetest zum Beispiel zu den selbst erstellten Block mitzuteilen, wie er aussehen und sich verhalten soll. Ob man ihn abbauen kann, wie man ihn craften(=herstellen) kann, ob man ihn in einem Ofen als Brennmaterial nutzen kann usw.
+</p><p>Es in Minetest-Mods also meist um Gegenstände, dass sind entweder sogenannte Nodes, die Blöcke, oder Item, was Gegenstände aller Art sein kann, die aber nicht wie Blöcke gesetzt können und abgebaut werden müssen. Item kann man aber ablegen und aufhaben (wie einen Apfel zum Beispiel).
+</p><p>Die Informationen werden mit Hilfe von bestimmten Befehlen bzw. Anweisungen übergeben, bei denen auf ein bestimmter Syntax zu achten ist. D.h. man muss wissen, wie man einen Befehl aufschreibt, welche Informationen man übergibt und in welchem Format diese Informationen angegeben sein müssen, also als Text, als Zahl oder vielleicht auch ein Datei-Name für ein Bild.
+</p><p>Was außerdem zu beachten ist, dass das Mod als Verzeichnis mit bestimmten Unterverzeichnissen verwendet wird, in denen wiederum bestimmte Dateien vorhanden sein müssen, wobei die Anzahl der Dateien schwankt, je nachdem, welche Funktionalität man eben haben will. Bestimmte Dateien sind Pflicht, andere stellen eine Ergänzung dar.
+</p>
+<h3><span class="mw-headline" id="Was_man_dazu_braucht">Was man dazu braucht</span></h3>
+<p>Bei der, für das Erstellen von eigenen Mods, benötigten Software, kann man auf Open-Source-Programme zurückgreifen. Ich würde vorschlagen:
+</p>
+<ul><li>Zum Schreiben des Lua-Codes braucht man einen einfache Editor, wie unter Windows das normalerweise vorhandene "Notepad". Auch die anderen Betriebssysteme bieten Editoren, wie unter Linux/KDE das Programm "kate".</li>
+<li>Das Zeichenprogramm "The Gimp", mit dem Pixelgrafiken für die Texture erstellen kann. Eventuell könnte man auch mit dem Programm "Inkscape" für kompliziertere Grafiken SVG-Dateien erstellen und die als PNG-Dateien exportieren, wobei man dann die Auflösung vermutlich etwas reduzieren muss.</li>
+<li>Mit dem sehr leistungsstarken 3D-Programm "Blender" kann man 3D-Modell erstellen, sogenannte Meshes. Zusammen mit passenden Texturen kann man Objekte in jeder beliebigen Form erstellen.</li>
+<li>Ein kleines Helferlein, zum einfach Erstellen von Blöcken, die nicht einfach nur aus einem Würfel bestehen, braucht man Blender glücklicherweise nicht sondern kann das Programm "NodeBoxEditor" verwenden. <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?id=2840">Forum-Seite dazu</a></li></ul>
+<h2><span id="Wie_man_anfängt"></span><span class="mw-headline" id="Wie_man_anf.C3.A4ngt">Wie man anfängt</span></h2>
+<p>Freundlicherweise hat ein deutscher Minetest-User angefangen, eine kleine Serie von Video zu erstellen, in der er vormacht, wie man ein Mod erstellt. Die Videos sind auf einer YouTube-Benutzer-Seite zu finden.
+</p>
+<ul><li><a rel="nofollow" class="external text" href="https://www.youtube.com/playlist?list=PLAPw5kO8sQZDLDPpUQSj84S3lStIlFqll">Einführung in das Modding in Minetest</a></li></ul>
+<p><br />
+</p>
+<table style="margin: 0 auto 1em; text-align: justify; border-collapse: collapse; border-width: 1px; border-style: dashed; width: 100%; clear: both; border-color:#48d; background:#fbfcff;">
+<tbody><tr>
+<td style="border: none; padding: 2px 0 2px 0.9em; text-align: center;">
+ <img alt="Mbox information.png" src="/images/thumb/f/fc/Mbox_information.png/25px-Mbox_information.png" decoding="async" width="25" height="25" srcset="/images/thumb/f/fc/Mbox_information.png/38px-Mbox_information.png 1.5x, /images/thumb/f/fc/Mbox_information.png/50px-Mbox_information.png 2x" /></td>
+<td style="border: none; padding: 0.25em 0.9em; width: 100%;">Wie wäre es, einfach mal anzufangen? Entweder man hat schon ein Thema für ein Mod, das man umsetzen möchte, oder probiert einfach aus, die Anleitung nachzuvollziehen!</td>
+</tr></tbody></table>
+<p><br />
+Wenn man erst einmal das Prinzip verstanden hat, kann man sich vielleicht einmal dieses Handbuch zum Thema Modding anschauen, dass einen ähnlichen Weg geht, wie die Videos, aber alle Informationen schriftlich liefert und dazu auch
+</p>
+<ul><li><a rel="nofollow" class="external text" href="http://rubenwardy.com/minetest_modding_book/index.html">Minetest Modding Book</a></li></ul>
+<h3><span id="Und_weiter?"></span><span class="mw-headline" id="Und_weiter.3F">Und weiter?</span></h3>
+<p>Beide vorher genannten Informationsquellen sind (leider) nicht sehr vollständig. Es werden nur einzelne Beispiele geliefert, anhand deren man sich orientieren kann. Die beste Quelle für die Informationen, wie man das Lua-Scripting in Minecraft-Mods anwendet sollte das <a rel="nofollow" class="external text" href="http://dev.minetest.net/Main_Page">Entwickler-Wiki</a> sein, dass die Befehle dokumentiert.
+</p><p>So findet man zum Beispiel Seiten dazu, wie man Nodes <i>(Blöcke)</i> und Craft-Item <i>(Sachen, die man eher in der Hand hält)</i> anlegt:
+</p>
+<ul><li><a rel="nofollow" class="external text" href="http://dev.minetest.net/register_node">register_node</a></li>
+<li><a rel="nofollow" class="external text" href="http://dev.minetest.net/register_craftitem">register_craftitem</a></li></ul>
+<p>Oder man findet auch den Befehl, mit dem man ein selbst angelegtes Item/Node im Spiel herstellbar machen kann.
+</p>
+<ul><li><a rel="nofollow" class="external text" href="http://dev.minetest.net/minetest.register_craft">minetest.register_craft</a></li></ul>
+<p>Das Problem bei alle diesen Seiten aber ist, dass die Informationen zu den einzelnen Opionen teilweise sehr rar sind und es hier und da an Informationen mangelt. Zwar ist zum Beispiel auf der Seite <a rel="nofollow" class="external text" href="http://dev.minetest.net/register_node">register_node</a> angegeben, welche Felder in der Block-Definition angegeben werden können und um welche Typen es sich handelt. An einigen Stellen fehlen aber Informationen, wie zum Beispiel wird in dem Artikel zu register_node nicht erwähnt, dass man Blöcke Abbaubar machen kann, indem man sie in einer Grabe-Gruppe zuordnet. Dazu findet man im Mooding-Handbuch Informationen, dass im Entwickler-Wiki auch zu finden ist:
+</p>
+<ul><li><a rel="nofollow" class="external free" href="http://dev.minetest.net/Modding_Book/Nodes_Items_and_Crafting#Groups">http://dev.minetest.net/Modding_Book/Nodes_Items_and_Crafting#Groups</a></li></ul>
+<p>Nur das eine Beispiel am Ende der Seite enthält eine solche Gruppen-Zuordnung.
+</p><p>Im Entwickler-Wiki findet man, wenn man weiß nach was man suchen muss, zu den Gruppen Informationen auf der Seite
+</p>
+<ul><li><a rel="nofollow" class="external free" href="http://dev.minetest.net/Groups/Custom_groups">http://dev.minetest.net/Groups/Custom_groups</a></li></ul>
+<p>Was auch nicht so gut zu finden ist, sind Informationen dazu, wie man einem Block verschiedene Bilder auf den unterschiedlichen Seiten gibt. Das steht richtigerweise auf der Seite <a rel="nofollow" class="external text" href="http://dev.minetest.net/register_node#Node_definition">register_node</a> aber recht versteckt unter dem Stichpunkt "tiles".
+</p><p>Alles in allem etwas unbefriedigend, denn man kann sich nicht wirklich einlesen und sicher sein, alle notwendigen Informationen zu finden.
+</p>
+<h3><span id="Die_Lösung:_Nachmachen"></span><span class="mw-headline" id="Die_L.C3.B6sung:_Nachmachen">Die Lösung: Nachmachen</span></h3>
+<p><i>Also, was tun, um zum Profi-Modder zu werden?</i>
+</p><p>Ich würde, statt sich in jede Kleinigkeit einzuarbeiten, mir ein Mod raussuchen und nach Blöcken oder Items schauen, dir ich so ähnlich selber erstellen möchte.
+</p><p>So könnte man zum Beispiel schauen, wie im Mod "Moreblocks" neue Blocke erzeugt werden und wie sie weitere Funktionen erhalten.
+</p>
+<ul><li><a rel="nofollow" class="external free" href="https://github.com/minetest-mods/moreblocks">https://github.com/minetest-mods/moreblocks</a></li></ul>
+<p>Oder wer noch tiefer reingehen will kann natürlich gleich im Minetest-Spiel selber nachschauen, wie bestimmte Gegenstände ihre Funktionalität bekommen. 
+</p>
+<ul><li><a rel="nofollow" class="external free" href="https://github.com/minetest/minetest_game/tree/master/mods">https://github.com/minetest/minetest_game/tree/master/mods</a></li></ul>
+<p>Möchte ich zum Beispiel in einem Chemie-Mod einem Reagenzglas eine Funktionalität ähnlich wie ein Eimer geben, so könnte ich nachschauen, wie ein "Eimer" funktioniert und programmiert wird.
+</p>
+<ul><li><a rel="nofollow" class="external free" href="https://github.com/minetest/minetest/tree/master/games/minimal/mods/bucket">https://github.com/minetest/minetest/tree/master/games/minimal/mods/bucket</a></li>
+<li><a rel="nofollow" class="external free" href="https://github.com/minetest/minetest_game/tree/master/mods/bucket">https://github.com/minetest/minetest_game/tree/master/mods/bucket</a></li></ul>
+<h2><span class="mw-headline" id="Links_zur_Ablage">Links zur Ablage</span></h2>
+<ul><li><a rel="nofollow" class="external free" href="http://dev.minetest.net/Main_Page">http://dev.minetest.net/Main_Page</a> Developer Wiki mit allen Hintergrund-Informationen</li>
+<li><a href="/Items" title="Items">Übersicht über die Items</a> und <a href="/Blocks" class="mw-redirect" title="Blocks">Blöcke</a> ... auf den verlinkten englischen Seiten findet man die <b>internen Namen</b> in der rechts oben vorhandenen Tabelle. Man braucht sie zum Beispiel für Rezepte, um festzulegen, welche Blöcke man zum Craften braucht.</li>
+<li><a rel="nofollow" class="external free" href="http://wiki.minetest.net/Using_Blender">http://wiki.minetest.net/Using_Blender</a> Anleitung zum Erstellen eines Mobs in Minetest mit Blender</li>
+<li><a rel="nofollow" class="external free" href="https://de.wikibooks.org/wiki/Blender_Dokumentation">https://de.wikibooks.org/wiki/Blender_Dokumentation</a> bei Wikibooks
+<ul><li>konkret zu Meshes <a rel="nofollow" class="external free" href="https://de.wikibooks.org/wiki/Blender_Dokumentation:_Grundlegendes_Mesh_Modelling">https://de.wikibooks.org/wiki/Blender_Dokumentation:_Grundlegendes_Mesh_Modelling</a></li></ul></li></ul>
+<!-- 
+NewPP limit report
+Cached time: 20230709182645
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.070 seconds
+Real time usage: 0.087 seconds
+Preprocessor visited node count: 68/1000000
+Post‐expand include size: 806/2097152 bytes
+Template argument size: 169/2097152 bytes
+Highest expansion depth: 6/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   14.777      1 Template:Mbox
+100.00%   14.777      1 -total
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:2569-0!canonical and timestamp 20230709182645 and revision id 14349
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Minetest_in_der_Schule/Selber_ein_Mod_erstellen&amp;oldid=14349">http://wiki.minetest.net/index.php?title=Minetest_in_der_Schule/Selber_ein_Mod_erstellen&amp;oldid=14349</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:German" title="Category:German">German</a></li><li><a href="/Category:Minetest_as_Educational_Tool" title="Category:Minetest as Educational Tool">Minetest as Educational Tool</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Minetest+in+der+Schule%2FSelber+ein+Mod+erstellen" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Minetest_in_der_Schule/Selber_ein_Mod_erstellen" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Minetest_in_der_Schule/Selber_ein_Mod_erstellen&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Minetest_in_der_Schule/Selber_ein_Mod_erstellen">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Minetest_in_der_Schule/Selber_ein_Mod_erstellen&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Minetest_in_der_Schule/Selber_ein_Mod_erstellen&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Minetest_in_der_Schule/Selber_ein_Mod_erstellen" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Minetest_in_der_Schule/Selber_ein_Mod_erstellen" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Minetest_in_der_Schule/Selber_ein_Mod_erstellen&amp;oldid=14349" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Minetest_in_der_Schule/Selber_ein_Mod_erstellen&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 11 April 2017, at 18:53.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.070","walltime":"0.087","ppvisitednodes":{"value":68,"limit":1000000},"postexpandincludesize":{"value":806,"limit":2097152},"templateargumentsize":{"value":169,"limit":2097152},"expansiondepth":{"value":6,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%   14.777      1 Template:Mbox","100.00%   14.777      1 -total"]},"cachereport":{"timestamp":"20230709182645","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":394});});</script></body></html>

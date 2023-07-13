@@ -1,0 +1,385 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>FAQ/id - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"21e1f58de57dacd0b68f3bc1","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"FAQ/id","wgTitle":"FAQ/id","wgCurRevisionId":27658,"wgRevisionId":27658,"wgArticleId":1544,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Indonesian"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"FAQ/id","wgRelevantArticleId":1544,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready",
+"user.options":"loading","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-FAQ_id rootpage-FAQ skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">FAQ/id</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/FAQ" title="FAQ">FAQ</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> Bahasa:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><a href="/FAQ" title="FAQ">English</a>&#160;• <bdi lang="es"><a href="/FAQ/es" title="FAQ/es">español</a></bdi>&#160;• <bdi lang="fr"><a href="/FAQ/fr" title="FAQ/fr">français</a></bdi><b>&#160;• <bdi lang="id"><a class="mw-selflink selflink">Bahasa Indonesia</a></bdi></b>&#160;• <bdi lang="ja"><a href="/FAQ/ja" title="FAQ/ja">日本語</a></bdi>&#160;• <bdi lang="ms"><a href="/FAQ/ms" title="FAQ/ms">Bahasa Melayu</a></bdi>&#160;• <bdi lang="uk"><a href="/FAQ/uk" title="FAQ/uk">українська</a></bdi>&#160;• <bdi lang="zh-hans"><a href="/FAQ/zh-hans" title="FAQ/zh-hans">中文（简体）‎</a></bdi></td>
+</tr></tbody></table>
+<p>Ini merupakan koleksi dari beberapa <b>pertanyaan yang sering ditanyakan</b> tentang Minetest. Untuk masalah teknis, baca <a href="/index.php?title=Help:Troubleshooting/id&amp;action=edit&amp;redlink=1" class="new" title="Help:Troubleshooting/id (page does not exist)">Pemecahan masalah</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Umum"><span class="tocnumber">1</span> <span class="toctext">Umum</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Di_mana_saya_dapat_bertanya.3F"><span class="tocnumber">1.1</span> <span class="toctext">Di mana saya dapat bertanya?</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Bagaimana_cara_memasang_permainan.2C_modifikasi.2C_peta.2C_dan_pak_tekstur.3F"><span class="tocnumber">1.2</span> <span class="toctext">Bagaimana cara memasang permainan, modifikasi, peta, dan pak tekstur?</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Apa_itu_perbedaan_mode_permainan_dan_bagaimana_cara_memasangnya.3F"><span class="tocnumber">1.3</span> <span class="toctext">Apa itu perbedaan mode permainan dan bagaimana cara memasangnya?</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Bagaimana_cara_memperbarui_Minetest.3F"><span class="tocnumber">1.4</span> <span class="toctext">Bagaimana cara memperbarui Minetest?</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Bagaimana_mendapat_akun_multi-pemain.3F"><span class="tocnumber">1.5</span> <span class="toctext">Bagaimana mendapat akun multi-pemain?</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Server"><span class="tocnumber">2</span> <span class="toctext">Server</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Bagaimana_menggunakan_perintah_XYZ.3F"><span class="tocnumber">2.1</span> <span class="toctext">Bagaimana menggunakan perintah XYZ?</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Alur_Permainan"><span class="tocnumber">3</span> <span class="toctext">Alur Permainan</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Umum_2"><span class="tocnumber">3.1</span> <span class="toctext">Umum</span></a>
+<ul>
+<li class="toclevel-3 tocsection-11"><a href="#Apa_kontrol_permainan_ini.3F"><span class="tocnumber">3.1.1</span> <span class="toctext">Apa kontrol permainan ini?</span></a></li>
+<li class="toclevel-3 tocsection-12"><a href="#Seberapa_besar_peta.3F"><span class="tocnumber">3.1.2</span> <span class="toctext">Seberapa besar peta?</span></a></li>
+<li class="toclevel-3 tocsection-13"><a href="#Bagaimana_cara_menemukan_rumahku_lagi.3F"><span class="tocnumber">3.1.3</span> <span class="toctext">Bagaimana cara menemukan rumahku lagi?</span></a></li>
+<li class="toclevel-3 tocsection-14"><a href="#Bagaimana_mencerahkan_tampilan.3F"><span class="tocnumber">3.1.4</span> <span class="toctext">Bagaimana mencerahkan tampilan?</span></a></li>
+<li class="toclevel-3 tocsection-15"><a href="#Mengapa_hanya_ada_batu_pada_dunia_saya.3F"><span class="tocnumber">3.1.5</span> <span class="toctext">Mengapa hanya ada batu pada dunia saya?</span></a></li>
+<li class="toclevel-3 tocsection-16"><a href="#Bagaimana_cara_untuk_terbang.3F"><span class="tocnumber">3.1.6</span> <span class="toctext">Bagaimana cara untuk terbang?</span></a></li>
+<li class="toclevel-3 tocsection-17"><a href="#Apa_itu_minetest_game_.3F"><span class="tocnumber">3.1.7</span> <span class="toctext">Apa itu minetest_game&#160;?</span></a></li>
+<li class="toclevel-3 tocsection-18"><a href="#Mengapa_saya_tidak_dapat_mencari_default_atau_wool_atau_fire.3F"><span class="tocnumber">3.1.8</span> <span class="toctext">Mengapa saya tidak dapat mencari default atau wool atau fire?</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-19"><a href="#Minetest_Game"><span class="tocnumber">3.2</span> <span class="toctext">Minetest Game</span></a>
+<ul>
+<li class="toclevel-3 tocsection-20"><a href="#Bagaimana_cara_membuat_kerajinan_XYZ.3F"><span class="tocnumber">3.2.1</span> <span class="toctext">Bagaimana cara membuat kerajinan XYZ?</span></a></li>
+<li class="toclevel-3 tocsection-21"><a href="#Apakah_terdapat_mobs.3F"><span class="tocnumber">3.2.2</span> <span class="toctext">Apakah terdapat mobs?</span></a></li>
+<li class="toclevel-3 tocsection-22"><a href="#Mengapa_saya_tidak_menemukan_dungeon.2Fhutan_rimba.3F"><span class="tocnumber">3.2.3</span> <span class="toctext">Mengapa saya tidak menemukan dungeon/hutan rimba?</span></a></li>
+<li class="toclevel-3 tocsection-23"><a href="#Bagaimana_cara_untuk_membuka_atau_menutup_pintu.3F"><span class="tocnumber">3.2.4</span> <span class="toctext">Bagaimana cara untuk membuka atau menutup pintu?</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-24"><a href="#Untuk_pemain_Minecraft"><span class="tocnumber">3.3</span> <span class="toctext">Untuk pemain Minecraft</span></a>
+<ul>
+<li class="toclevel-3 tocsection-25"><a href="#Adakah_meja_kerajinan_.28crafting_bench.29.3F"><span class="tocnumber">3.3.1</span> <span class="toctext">Adakah meja kerajinan (<i>crafting bench</i>)?</span></a></li>
+<li class="toclevel-3 tocsection-26"><a href="#Bagaimana_cara_membuat_Minetest_mirip_seperti_Minecraft.3F"><span class="tocnumber">3.3.2</span> <span class="toctext">Bagaimana cara membuat Minetest mirip seperti Minecraft?</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-27"><a href="#Modding_FAQ"><span class="tocnumber">4</span> <span class="toctext">Modding FAQ</span></a></li>
+<li class="toclevel-1 tocsection-28"><a href="#Masalah_teknis"><span class="tocnumber">5</span> <span class="toctext">Masalah teknis</span></a>
+<ul>
+<li class="toclevel-2 tocsection-29"><a href="#Saya_memiliki_sebuah_masalah_teknis.2C_bagaimana_cara_memperbaikinya.3F"><span class="tocnumber">5.1</span> <span class="toctext">Saya memiliki sebuah masalah teknis, bagaimana cara memperbaikinya?</span></a></li>
+<li class="toclevel-2 tocsection-30"><a href="#Saya_mendapatkan_sebuah_kerusakan_atau_pesan_peringatan.2C_apa_maksudnya.3F"><span class="tocnumber">5.2</span> <span class="toctext">Saya mendapatkan sebuah kerusakan atau pesan peringatan, apa maksudnya?</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Umum">Umum</span></h2>
+<h3><span id="Di_mana_saya_dapat_bertanya?"></span><span class="mw-headline" id="Di_mana_saya_dapat_bertanya.3F">Di mana saya dapat bertanya?</span></h3>
+<p>Di <a rel="nofollow" class="external text" href="http://minetest.net/irc">IRC</a> dan <a rel="nofollow" class="external text" href="https://forum.minetest.net/">Forum</a>. Sangat disarankan untuk mencari arsip, banyak pertanyaan mungkin telah ditanyakan sebelumnya.
+</p>
+<h3><span id="Bagaimana_cara_memasang_permainan,_modifikasi,_peta,_dan_pak_tekstur?"></span><span class="mw-headline" id="Bagaimana_cara_memasang_permainan.2C_modifikasi.2C_peta.2C_dan_pak_tekstur.3F">Bagaimana cara memasang permainan, modifikasi, peta, dan pak tekstur?</span></h3>
+<p>Lihat <a href="/index.php?title=Games/id&amp;action=edit&amp;redlink=1" class="new" title="Games/id (page does not exist)">Memasang Permainan</a>, <a href="/index.php?title=Help:Installing_Mods/id&amp;action=edit&amp;redlink=1" class="new" title="Help:Installing Mods/id (page does not exist)">Memasang Modifikasi</a>, <a href="/index.php?title=Maps/id&amp;action=edit&amp;redlink=1" class="new" title="Maps/id (page does not exist)">Memasang Peta</a>, dan <a href="/index.php?title=Texture_Packs/id&amp;action=edit&amp;redlink=1" class="new" title="Texture Packs/id (page does not exist)">Pak Tekstur</a>.
+</p>
+<h3><span id="Apa_itu_perbedaan_mode_permainan_dan_bagaimana_cara_memasangnya?"></span><span class="mw-headline" id="Apa_itu_perbedaan_mode_permainan_dan_bagaimana_cara_memasangnya.3F">Apa itu perbedaan mode permainan dan bagaimana cara memasangnya?</span></h3>
+<p>Pada pemasangan baru Anda seharusnya memiliki “Minetest [minetest_game]” yang merupakan permainan utama, jika tidak punya, unduh dari <a rel="nofollow" class="external text" href="https://github.com/minetest/minetest_game">GitHub</a>. “Minimal development test” digunakan untuk pengembang dan tidak untuk dimainkan. Anda dapat mencari mode permainan lainnya dalam forum. Untuk memasangnya, ekstrak paketnya dan ganti nama folder tersebut menjadi nama permainannya (contoh: “minetest_game-master” menjadi “minetest_game”), lalu salin ke folder tersebut ke folder “games”.
+</p>
+<h3><span id="Bagaimana_cara_memperbarui_Minetest?"></span><span class="mw-headline" id="Bagaimana_cara_memperbarui_Minetest.3F">Bagaimana cara memperbarui Minetest?</span></h3>
+<p>Cara termudah adalah dengan hanya mengunduh versi terbaru dan pindah dunia Anda dan modifikasi ke versi yang baru. Tergantung sistem operasi Anda, terdapat banyak cara untuk memperbarui permainan. Jika menggunakan versi Git, Anda dapat <i>clone</i> <i>repository</i>-nya dan ambil (<i>pull</i>) dan <i>compile</i> setiap akan memperbarui.
+</p>
+<h3><span id="Bagaimana_mendapat_akun_multi-pemain?"></span><span class="mw-headline" id="Bagaimana_mendapat_akun_multi-pemain.3F">Bagaimana mendapat akun multi-pemain?</span></h3>
+<p>Tidak ada akun global dalam Minetest. Untuk setiap server, Anda dapat memakai nama dan kata sandi yang berbeda. “Akun” dibuat saat pertama kali masuk. Cara ini, hanya Anda yang dapat mengakses pemain dan inventaris Anda pada server tersebut. Anda dapat bermain pemain-tunggal dengan tanpa membutuhkan nama pengguna dan kata sandi.
+</p>
+<h2><span class="mw-headline" id="Server">Server</span></h2>
+<h3><span id="Bagaimana_menggunakan_perintah_XYZ?"></span><span class="mw-headline" id="Bagaimana_menggunakan_perintah_XYZ.3F">Bagaimana menggunakan perintah XYZ?</span></h3>
+<p><i>Lihat <a href="/index.php?title=Server_commands/id&amp;action=edit&amp;redlink=1" class="new" title="Server commands/id (page does not exist)">Perintah server</a>.</i>
+</p>
+<h2><span class="mw-headline" id="Alur_Permainan">Alur Permainan</span></h2>
+<h3><span class="mw-headline" id="Umum_2">Umum</span></h3>
+<h4><span id="Apa_kontrol_permainan_ini?"></span><span class="mw-headline" id="Apa_kontrol_permainan_ini.3F">Apa kontrol permainan ini?</span></h4>
+<p><i>Lihat <a href="/index.php?title=Controls/id&amp;action=edit&amp;redlink=1" class="new" title="Controls/id (page does not exist)">Kontrol</a>.</i>
+</p>
+<h4><span id="Seberapa_besar_peta?"></span><span class="mw-headline" id="Seberapa_besar_peta.3F">Seberapa besar <a href="/index.php?title=Maps/id&amp;action=edit&amp;redlink=1" class="new" title="Maps/id (page does not exist)">peta</a>?</span></h4>
+<p><i>Tidak</i> tak-terhingga. Apa yang ditulis di <a rel="nofollow" class="external text" href="http://www.minetest.net/">www.minetest.net</a> adalah kebohongan. Sampai versi 0.4.10, peta merupakan sebuah kubus dengan panjang rusuk 61840 <a href="/index.php?title=Nodes/id&amp;action=edit&amp;redlink=1" class="new" title="Nodes/id (page does not exist)">node</a>. Peta mempunyai volume sebesar 61840<sup>3</sup> node = 236.487.637.504.000 node.
+Koordinat berada di antara −30912 sampai 30927 dalam semua dimensi.
+</p><p><i>Lihat juga <a href="/index.php?title=Coordinates/id&amp;action=edit&amp;redlink=1" class="new" title="Coordinates/id (page does not exist)">Koordinat</a>.</i>
+</p>
+<h4><span id="Bagaimana_cara_menemukan_rumahku_lagi?"></span><span class="mw-headline" id="Bagaimana_cara_menemukan_rumahku_lagi.3F">Bagaimana cara menemukan rumahku lagi?</span></h4>
+<p>Minetest secara otomatis menulis berkas yang disebut “debug.txt” dalam minetest/bin di mana Anda dapat melihat banyak teks. Gulir bawah ke bagian akhir dan cari semacam
+</p>
+<pre>singleplayer digs node * […]
+</pre>
+<p>Coba untuk teleport ke posisi yang Anda lihat pada baris-baris tersebut sampai menemukan rumah Anda:
+</p>
+<pre>/teleport x,y,z
+</pre>
+<p><i>Lihat <a href="/index.php?title=Server_commands/id&amp;action=edit&amp;redlink=1" class="new" title="Server commands/id (page does not exist)">Perintah server#Aksi pemain</a>.</i>
+</p>
+<h4><span id="Bagaimana_mencerahkan_tampilan?"></span><span class="mw-headline" id="Bagaimana_mencerahkan_tampilan.3F">Bagaimana mencerahkan tampilan?</span></h4>
+<p>Lihat <a href="/index.php?title=Help:Troubleshooting/id&amp;action=edit&amp;redlink=1" class="new" title="Help:Troubleshooting/id (page does not exist)">Pemecahan masalah#Layar terlalu redup</a>.
+</p>
+<h4><span id="Mengapa_hanya_ada_batu_pada_dunia_saya?"></span><span class="mw-headline" id="Mengapa_hanya_ada_batu_pada_dunia_saya.3F">Mengapa hanya ada batu pada dunia saya?</span></h4>
+<p>Anda mungkin telah memilih generator peta v7 yang masih dalam proses pengembangan. Generator peta tersebut memiliki fitur untuk memperbolehkan modifikasi dan sub-permainan untuk menambahkan bioma mereka sendiri. Tanpa modifikasi yang menggunakan fitur tersebut hanya akan terdapat batu. Anda dapat memakai generator peta v6.
+</p>
+<h4><span id="Bagaimana_cara_untuk_terbang?"></span><span class="mw-headline" id="Bagaimana_cara_untuk_terbang.3F">Bagaimana cara untuk terbang?</span></h4>
+<p>Untuk terbang Anda pertama butuh <a href="/index.php?title=Privileges/id&amp;action=edit&amp;redlink=1" class="new" title="Privileges/id (page does not exist)">izin</a> “fly”. Pada mode pemain-tunggal Anda dapat memberikannya kepada Anda sendiri dengan perintah:
+</p>
+<pre>/grant singleplayer fly
+</pre>
+<p>lalu aktifkan mode terbang dengan menekan tombol <kbd>K</kbd>, tekan tombol <kbd>K</kbd> lagi untuk menonaktifkannya. Anda naik dengan tombol lompat (bawaan: <kbd>space bar</kbd>) dan turun dengan tombol mengendap-endap (bawaan: <kbd>shift</kbd>).
+</p>
+<h4><span id="Apa_itu_minetest_game_?"></span><span class="mw-headline" id="Apa_itu_minetest_game_.3F">Apa itu <code>minetest_game</code>&#160;?</span></h4>
+<p>Minetest adalah sebuah mesin dan memperbolehkan berbagai <a href="/index.php?title=Games/id&amp;action=edit&amp;redlink=1" class="new" title="Games/id (page does not exist)">permainan</a> untuk dimainkan. <a href="/index.php?title=Games/Minetest_Game/id&amp;action=edit&amp;redlink=1" class="new" title="Games/Minetest Game/id (page does not exist)">Minetest Game</a> merupakan permainan bawaan dan tampil sebagai "Minetest" pada menu utama Anda.
+</p>
+<h4><span id="Mengapa_saya_tidak_dapat_mencari_default_atau_wool_atau_fire?"></span><span class="mw-headline" id="Mengapa_saya_tidak_dapat_mencari_default_atau_wool_atau_fire.3F">Mengapa saya tidak dapat mencari <code>default</code> atau <code>wool</code> atau <code>fire</code>?</span></h4>
+<p>Beberapa modifikasi mungkin bergantung pada modifikasi tersebut. Pada <code>minetest_game</code> sudah terdapat modifikasi tersebut Anda tidak perlu memasang modifikasi tersebut.
+</p>
+<h3><span class="mw-headline" id="Minetest_Game"><a href="/index.php?title=Games/Minetest_Game/id&amp;action=edit&amp;redlink=1" class="new" title="Games/Minetest Game/id (page does not exist)">Minetest Game</a></span></h3>
+<h4><span id="Bagaimana_cara_membuat_kerajinan_XYZ?"></span><span class="mw-headline" id="Bagaimana_cara_membuat_kerajinan_XYZ.3F">Bagaimana cara membuat kerajinan XYZ?</span></h4>
+<p>Lihat <a href="/Blocks/id" class="mw-redirect" title="Blocks/id">Blok</a> atau <a href="/index.php?title=Items/id&amp;action=edit&amp;redlink=1" class="new" title="Items/id (page does not exist)">Barang</a> dan ikuti tautan ke blok atau barang yang ingin Anda buat; Pada halaman tersebut terdapat instruksi pembuatan kerajinan.
+</p><p>Anda juga dapat memasang sebuah <i><a href="/Crafting_guide" title="Crafting guide">crafting guide</a></i> untuk melihat resep kerajinan dalam Minetest.
+</p><p>Catat bahwa tidak semuanya bisa dibuat kerajinan.
+</p>
+<h4><span id="Apakah_terdapat_mobs?"></span><span class="mw-headline" id="Apakah_terdapat_mobs.3F">Apakah terdapat mobs?</span></h4>
+<p>Tidak dan <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?id=6161">sepertinya</a> akan ditambahkan pada versi yang akan datang. Tetapi terdapat <a href="/index.php?title=Mods/id&amp;action=edit&amp;redlink=1" class="new" title="Mods/id (page does not exist)">modifikasi</a> untuk menambah <a href="/index.php?title=Mobs/id&amp;action=edit&amp;redlink=1" class="new" title="Mobs/id (page does not exist)">mobs</a>.
+</p>
+<h4><span id="Mengapa_saya_tidak_menemukan_dungeon/hutan_rimba?"></span><span class="mw-headline" id="Mengapa_saya_tidak_menemukan_dungeon.2Fhutan_rimba.3F">Mengapa saya tidak menemukan dungeon/hutan rimba?</span></h4>
+<p>Mungkin karena mereka telah dinon-aktifkan pada konfigurasi Anda. Anda dapat mengaktifkannya dengan menambahkan “<code>v6_jungles, dungeons</code>” ke <code>mg_flags</code> dalam berkas <a href="/Minetest.conf" title="Minetest.conf">minetest.conf</a> Anda. Itu akan mengaktifkan untuk dunia <b>setelah</b> peubah (variable) telah diubah. Coba menggali ke bawah atau mencari rongga besar di tanah.
+</p>
+<h4><span id="Bagaimana_cara_untuk_membuka_atau_menutup_pintu?"></span><span class="mw-headline" id="Bagaimana_cara_untuk_membuka_atau_menutup_pintu.3F">Bagaimana cara untuk membuka atau menutup <a href="/index.php?title=Door/id&amp;action=edit&amp;redlink=1" class="new" title="Door/id (page does not exist)">pintu</a>?</span></h4>
+<p>Anda harus <a href="/index.php?title=Using/id&amp;action=edit&amp;redlink=1" class="new" title="Using/id (page does not exist)">menggunakannya</a> dengan menekan tombol pakai, yang biasanya adalah <kbd>klik kanan</kbd>. Lihat juga: <a href="/index.php?title=Using/id&amp;action=edit&amp;redlink=1" class="new" title="Using/id (page does not exist)">Menggunakan</a>.
+</p>
+<h3><span class="mw-headline" id="Untuk_pemain_Minecraft">Untuk pemain Minecraft</span></h3>
+<h4><span id="Adakah_meja_kerajinan_(crafting_bench)?"></span><span class="mw-headline" id="Adakah_meja_kerajinan_.28crafting_bench.29.3F">Adakah meja kerajinan (<i>crafting bench</i>)?</span></h4>
+<p>Pada vanilla Minetest game: <b>Tidak.</b> Anda tidak memerlukannya. Anda telah memiliki 3 × 3 tabel kerajinan pada <a href="/index.php?title=Inventory_menu/id&amp;action=edit&amp;redlink=1" class="new" title="Inventory menu/id (page does not exist)">menu inventaris</a> Anda (→ <a href="/index.php?title=Crafting/id&amp;action=edit&amp;redlink=1" class="new" title="Crafting/id (page does not exist)">Kerajinan#Tabel kerajinan dan tempat hasil</a>).
+</p>
+<h4><span id="Bagaimana_cara_membuat_Minetest_mirip_seperti_Minecraft?"></span><span class="mw-headline" id="Bagaimana_cara_membuat_Minetest_mirip_seperti_Minecraft.3F">Bagaimana cara membuat Minetest mirip seperti Minecraft?</span></h4>
+<p>Anda dapat menggunakan <a href="/index.php?title=Games/id&amp;action=edit&amp;redlink=1" class="new" title="Games/id (page does not exist)">permainan</a> <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?id=2589">Minitest</a>.
+</p>
+<h2><span class="mw-headline" id="Modding_FAQ">Modding FAQ</span></h2>
+<p>Lihat <a rel="nofollow" class="external text" href="http://dev.minetest.net/Modding_FAQ">Modding FAQ</a>.
+</p>
+<h2><span class="mw-headline" id="Masalah_teknis">Masalah teknis</span></h2>
+<h3><span id="Saya_memiliki_sebuah_masalah_teknis,_bagaimana_cara_memperbaikinya?"></span><span class="mw-headline" id="Saya_memiliki_sebuah_masalah_teknis.2C_bagaimana_cara_memperbaikinya.3F">Saya memiliki sebuah masalah teknis, bagaimana cara memperbaikinya?</span></h3>
+<p>Lihat <a href="/index.php?title=Help:Troubleshooting/id&amp;action=edit&amp;redlink=1" class="new" title="Help:Troubleshooting/id (page does not exist)">Pemecahan masalah</a>.
+</p>
+<h3><span id="Saya_mendapatkan_sebuah_kerusakan_atau_pesan_peringatan,_apa_maksudnya?"></span><span class="mw-headline" id="Saya_mendapatkan_sebuah_kerusakan_atau_pesan_peringatan.2C_apa_maksudnya.3F">Saya mendapatkan sebuah kerusakan atau pesan peringatan, apa maksudnya?</span></h3>
+<p>Lihat <a href="/index.php?title=Help:Troubleshooting/id&amp;action=edit&amp;redlink=1" class="new" title="Help:Troubleshooting/id (page does not exist)">Pemecahan masalah#Pesan kerusakan tanpa <i>crash</i></a>.
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20230709120522
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.231 seconds
+Real time usage: 0.418 seconds
+Preprocessor visited node count: 183/1000000
+Post‐expand include size: 2250/2097152 bytes
+Template argument size: 537/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 13/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.110/7 seconds
+Lua virtual size: 5.54 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  294.103      1 Template:Languages
+100.00%  294.103      1 -total
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:1544-0!canonical and timestamp 20230709120521 and revision id 27658
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=FAQ/id&amp;oldid=27658">http://wiki.minetest.net/index.php?title=FAQ/id&amp;oldid=27658</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/Category:Indonesian" title="Category:Indonesian">Indonesian</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=FAQ%2Fid" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/FAQ/id" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:FAQ/id&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/FAQ/id">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=FAQ/id&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=FAQ/id&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/FAQ/id" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/FAQ/id" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=FAQ/id&amp;oldid=27658" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=FAQ/id&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 29 January 2023, at 14:28.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.231","walltime":"0.418","ppvisitednodes":{"value":183,"limit":1000000},"postexpandincludesize":{"value":2250,"limit":2097152},"templateargumentsize":{"value":537,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":13,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  294.103      1 Template:Languages","100.00%  294.103      1 -total"]},"scribunto":{"limitreport-timeusage":{"value":"0.110","limit":"7"},"limitreport-virtmemusage":{"value":5808128,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709120522","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":272});});</script></body></html>

@@ -1,0 +1,460 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Games/Lord of the Test/Armor - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"84a71c94278051ff754e7318","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Games/Lord_of_the_Test/Armor","wgTitle":"Games/Lord of the Test/Armor","wgCurRevisionId":25973,"wgRevisionId":25973,"wgArticleId":1070,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Games/Lord_of_the_Test/Armor","wgRelevantArticleId":1070,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready",
+"noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Games_Lord_of_the_Test_Armor rootpage-Games skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Games/Lord of the Test/Armor</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/Games" title="Games">Games</a>&lrm; | <a href="/Games/Lord_of_the_Test" title="Games/Lord of the Test">Lord of the Test</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> Language:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><b><a class="mw-selflink selflink">English</a></b>&#160;• <bdi lang="de"><a href="/Games/Lord_of_the_Test/Armor/de" title="Games/Lord of the Test/Armor/de">Deutsch</a></bdi></td>
+</tr></tbody></table>
+<p>Armor helps when fighting mobs, and journeying through dangerous terrain, as it reduces damage taken from falling, lava, mobs and other things. However, it will wear down, and if you are in the middle of Mordor when that happens, it's not good!
+A full set of armor consists of a <a href="/Games/Lord_of_the_Test/Shield" title="Games/Lord of the Test/Shield">Shield</a> a <a href="/Games/Lord_of_the_Test/Helmet" title="Games/Lord of the Test/Helmet">Helmet</a>, a <a href="/Games/Lord_of_the_Test/Chestplate" title="Games/Lord of the Test/Chestplate">Chestplate</a>, a pair of <a href="/Games/Lord_of_the_Test/Leggings" title="Games/Lord of the Test/Leggings">Leggings</a>, and a pair of <a href="/Games/Lord_of_the_Test/Boots" title="Games/Lord of the Test/Boots">Boots</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Crafting"><span class="tocnumber">1</span> <span class="toctext">Crafting</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Inventory"><span class="tocnumber">2</span> <span class="toctext">Inventory</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Wearing"><span class="tocnumber">3</span> <span class="toctext">Wearing</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Healing"><span class="tocnumber">4</span> <span class="toctext">Healing</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Hud"><span class="tocnumber">5</span> <span class="toctext">Hud</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Basic_armor"><span class="tocnumber">6</span> <span class="toctext">Basic armor</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Training_armor"><span class="tocnumber">6.1</span> <span class="toctext">Training armor</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Tin_and_Copper_armor"><span class="tocnumber">6.2</span> <span class="toctext">Tin and Copper armor</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Steel_armor"><span class="tocnumber">6.3</span> <span class="toctext">Steel armor</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Bronze_armor"><span class="tocnumber">6.4</span> <span class="toctext">Bronze armor</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Silver_armor"><span class="tocnumber">6.5</span> <span class="toctext">Silver armor</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Gold_armor"><span class="tocnumber">6.6</span> <span class="toctext">Gold armor</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Galvorn_armor"><span class="tocnumber">6.7</span> <span class="toctext">Galvorn armor</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Mithril_armor"><span class="tocnumber">6.8</span> <span class="toctext">Mithril armor</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#Special_armor"><span class="tocnumber">7</span> <span class="toctext">Special armor</span></a>
+<ul>
+<li class="toclevel-2 tocsection-16"><a href="#Rohirrim_armor"><span class="tocnumber">7.1</span> <span class="toctext">Rohirrim armor</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Elven_armor"><span class="tocnumber">7.2</span> <span class="toctext">Elven armor</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Dwarven_armor"><span class="tocnumber">7.3</span> <span class="toctext">Dwarven armor</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Gondor_armor"><span class="tocnumber">7.4</span> <span class="toctext">Gondor armor</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Crafting">Crafting</span></h2>
+<p>Armor parts are crafted on the same way as all other items. View the specific pages for crafting instructions:
+</p>
+<ul><li><a href="/Games/Lord_of_the_Test/Shield" title="Games/Lord of the Test/Shield">Shield</a></li>
+<li><a href="/Games/Lord_of_the_Test/Helmet" title="Games/Lord of the Test/Helmet">Helmet</a></li>
+<li><a href="/Games/Lord_of_the_Test/Chestplate" title="Games/Lord of the Test/Chestplate">Chestplate</a></li>
+<li><a href="/Games/Lord_of_the_Test/Leggings" title="Games/Lord of the Test/Leggings">Leggings</a></li>
+<li><a href="/Games/Lord_of_the_Test/Boots" title="Games/Lord of the Test/Boots">Boots</a></li></ul>
+<h2><span class="mw-headline" id="Inventory">Inventory</span></h2>
+<div class="thumb tleft"><div class="thumbinner" style="width:402px;"><a href="/File:Armor_Inventory.png" class="image"><img alt="Armor Inventory.png" src="/images/thumb/4/4c/Armor_Inventory.png/400px-Armor_Inventory.png" decoding="async" width="400" height="162" class="thumbimage" srcset="/images/4/4c/Armor_Inventory.png 1.5x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Armor_Inventory.png" class="internal" title="Enlarge"></a></div></div></div></div>
+<div style="clear:both"></div>
+<p>There is a modified inventory screen: Left to the crafting field are two new areas. The area in the middle presents the player. The area on the left adds six inventory slots where you can place your armor parts. It is not necessary to place armor parts in a specific order. Just put is in one of the six slots. For shields it is most practical to place them in the lower right, to avoid overlap with the chestplate.
+</p><p>The middle area presenting the player is a preview. Here you can see the armor parts that you are wearing.
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:402px;"><a href="/File:Armor_Inventory_Preview.png" class="image"><img alt="Armor Inventory Preview.png" src="/images/thumb/c/cf/Armor_Inventory_Preview.png/400px-Armor_Inventory_Preview.png" decoding="async" width="400" height="162" class="thumbimage" srcset="/images/c/cf/Armor_Inventory_Preview.png 1.5x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Armor_Inventory_Preview.png" class="internal" title="Enlarge"></a></div></div></div></div>
+<div style="clear:both"></div>
+<h2><span class="mw-headline" id="Wearing">Wearing</span></h2>
+<p>An armor only protects you when you're wearing it. When an armor takes damage, it wears off. The <b>use</b> factor defines how fast it wears off. Every time a piece of armor takes damage, the <b>use</b> value is added to the total wear. When the total wear of an item reaches 65535 (max 2-byte value), the piece of armor breaks. The <b>use</b> value is noted for all armor pieces on their specific page.
+The lower the <b>use</b> factor, the longer the peace of armor lasts.
+</p><p><i>Example:</i>
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th scope="col" width="65px">Helmet
+</th>
+<th scope="col" width="75px">Made of
+</th>
+<th scope="col" width="50px"><b>Use</b>
+</th>
+<th scope="col" width="65px">Max wear
+</th>
+<th scope="col" width="140px">Times usable
+</th></tr>
+<tr>
+<td><a href="/File:Tin_Helmet.png" class="image"><img alt="Tin Helmet.png" src="/images/thumb/1/1b/Tin_Helmet.png/32px-Tin_Helmet.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/1b/Tin_Helmet.png/48px-Tin_Helmet.png 1.5x, /images/thumb/1/1b/Tin_Helmet.png/64px-Tin_Helmet.png 2x" /></a>
+</td>
+<td><a href="/Games/Lord_of_the_Test/Tin_Ingot" title="Games/Lord of the Test/Tin Ingot">Tin Ingot</a>
+</td>
+<td>1500
+</td>
+<td>65535
+</td>
+<td>65535 / 1500 = 43
+</td></tr>
+<tr>
+<td><a href="/File:Mithril_Helmet.png" class="image"><img alt="Mithril Helmet.png" src="/images/thumb/9/93/Mithril_Helmet.png/32px-Mithril_Helmet.png" decoding="async" width="32" height="32" srcset="/images/thumb/9/93/Mithril_Helmet.png/48px-Mithril_Helmet.png 1.5x, /images/thumb/9/93/Mithril_Helmet.png/64px-Mithril_Helmet.png 2x" /></a>
+</td>
+<td><a href="/Games/Lord_of_the_Test/Mithril_Ingot" title="Games/Lord of the Test/Mithril Ingot">Mithril Ingot</a>
+</td>
+<td>50
+</td>
+<td>65535
+</td>
+<td>65535 / 50 = 1310
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Healing">Healing</span></h2>
+<p>Armor with healing capabilities do not really heal a player. They have a chance to undo received damage. This <i>chance</i> is a percentage calculation, based on the total Heal value of the armor parts worn. When wearing a <a href="/Games/Lord_of_the_Test/Bronze_Ingot" title="Games/Lord of the Test/Bronze Ingot">bronze</a> armor the chance of reverting damage is 30%
+</p><p><i>Example:</i>
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th scope="col" width="50px">Piece
+</th>
+<th scope="col" width="65px">
+</th>
+<th scope="col" width="85px">Heal
+</th></tr>
+<tr>
+<td><a href="/File:Bronze_Helmet.png" class="image"><img alt="Bronze Helmet.png" src="/images/thumb/e/e4/Bronze_Helmet.png/32px-Bronze_Helmet.png" decoding="async" width="32" height="32" srcset="/images/thumb/e/e4/Bronze_Helmet.png/48px-Bronze_Helmet.png 1.5x, /images/thumb/e/e4/Bronze_Helmet.png/64px-Bronze_Helmet.png 2x" /></a>
+</td>
+<td><a href="/Games/Lord_of_the_Test/Helmet" title="Games/Lord of the Test/Helmet">Helmet</a>
+</td>
+<td><a href="/File:Heart.png" class="image"><img alt="Heart.png" src="/images/thumb/d/d9/Heart.png/16px-Heart.png" decoding="async" width="16" height="16" srcset="/images/thumb/d/d9/Heart.png/24px-Heart.png 1.5x, /images/thumb/d/d9/Heart.png/32px-Heart.png 2x" /></a><a href="/File:Heart.png" class="image"><img alt="Heart.png" src="/images/thumb/d/d9/Heart.png/16px-Heart.png" decoding="async" width="16" height="16" srcset="/images/thumb/d/d9/Heart.png/24px-Heart.png 1.5x, /images/thumb/d/d9/Heart.png/32px-Heart.png 2x" /></a><a href="/File:Heart.png" class="image"><img alt="Heart.png" src="/images/thumb/d/d9/Heart.png/16px-Heart.png" decoding="async" width="16" height="16" srcset="/images/thumb/d/d9/Heart.png/24px-Heart.png 1.5x, /images/thumb/d/d9/Heart.png/32px-Heart.png 2x" /></a><a href="/File:Heart.png" class="image"><img alt="Heart.png" src="/images/thumb/d/d9/Heart.png/16px-Heart.png" decoding="async" width="16" height="16" srcset="/images/thumb/d/d9/Heart.png/24px-Heart.png 1.5x, /images/thumb/d/d9/Heart.png/32px-Heart.png 2x" /></a><a href="/File:Heart.png" class="image"><img alt="Heart.png" src="/images/thumb/d/d9/Heart.png/16px-Heart.png" decoding="async" width="16" height="16" srcset="/images/thumb/d/d9/Heart.png/24px-Heart.png 1.5x, /images/thumb/d/d9/Heart.png/32px-Heart.png 2x" /></a><a href="/File:Heart.png" class="image"><img alt="Heart.png" src="/images/thumb/d/d9/Heart.png/16px-Heart.png" decoding="async" width="16" height="16" srcset="/images/thumb/d/d9/Heart.png/24px-Heart.png 1.5x, /images/thumb/d/d9/Heart.png/32px-Heart.png 2x" /></a>
+</td></tr>
+<tr>
+<td><a href="/File:Bronze_Chestplate.png" class="image"><img alt="Bronze Chestplate.png" src="/images/thumb/8/89/Bronze_Chestplate.png/32px-Bronze_Chestplate.png" decoding="async" width="32" height="32" srcset="/images/thumb/8/89/Bronze_Chestplate.png/48px-Bronze_Chestplate.png 1.5x, /images/thumb/8/89/Bronze_Chestplate.png/64px-Bronze_Chestplate.png 2x" /></a>
+</td>
+<td><a href="/Games/Lord_of_the_Test/Chestplate" title="Games/Lord of the Test/Chestplate">Chestplate</a>
+</td>
+<td><a href="/File:Heart.png" class="image"><img alt="Heart.png" src="/images/thumb/d/d9/Heart.png/16px-Heart.png" decoding="async" width="16" height="16" srcset="/images/thumb/d/d9/Heart.png/24px-Heart.png 1.5x, /images/thumb/d/d9/Heart.png/32px-Heart.png 2x" /></a><a href="/File:Heart.png" class="image"><img alt="Heart.png" src="/images/thumb/d/d9/Heart.png/16px-Heart.png" decoding="async" width="16" height="16" srcset="/images/thumb/d/d9/Heart.png/24px-Heart.png 1.5x, /images/thumb/d/d9/Heart.png/32px-Heart.png 2x" /></a><a href="/File:Heart.png" class="image"><img alt="Heart.png" src="/images/thumb/d/d9/Heart.png/16px-Heart.png" decoding="async" width="16" height="16" srcset="/images/thumb/d/d9/Heart.png/24px-Heart.png 1.5x, /images/thumb/d/d9/Heart.png/32px-Heart.png 2x" /></a><a href="/File:Heart.png" class="image"><img alt="Heart.png" src="/images/thumb/d/d9/Heart.png/16px-Heart.png" decoding="async" width="16" height="16" srcset="/images/thumb/d/d9/Heart.png/24px-Heart.png 1.5x, /images/thumb/d/d9/Heart.png/32px-Heart.png 2x" /></a><a href="/File:Heart.png" class="image"><img alt="Heart.png" src="/images/thumb/d/d9/Heart.png/16px-Heart.png" decoding="async" width="16" height="16" srcset="/images/thumb/d/d9/Heart.png/24px-Heart.png 1.5x, /images/thumb/d/d9/Heart.png/32px-Heart.png 2x" /></a><a href="/File:Heart.png" class="image"><img alt="Heart.png" src="/images/thumb/d/d9/Heart.png/16px-Heart.png" decoding="async" width="16" height="16" srcset="/images/thumb/d/d9/Heart.png/24px-Heart.png 1.5x, /images/thumb/d/d9/Heart.png/32px-Heart.png 2x" /></a>
+</td></tr>
+<tr>
+<td><a href="/File:Bronze_Leggings.png" class="image"><img alt="Bronze Leggings.png" src="/images/thumb/a/ab/Bronze_Leggings.png/32px-Bronze_Leggings.png" decoding="async" width="32" height="32" srcset="/images/thumb/a/ab/Bronze_Leggings.png/48px-Bronze_Leggings.png 1.5x, /images/thumb/a/ab/Bronze_Leggings.png/64px-Bronze_Leggings.png 2x" /></a>
+</td>
+<td><a href="/Games/Lord_of_the_Test/Leggings" title="Games/Lord of the Test/Leggings">Leggings</a>
+</td>
+<td><a href="/File:Heart.png" class="image"><img alt="Heart.png" src="/images/thumb/d/d9/Heart.png/16px-Heart.png" decoding="async" width="16" height="16" srcset="/images/thumb/d/d9/Heart.png/24px-Heart.png 1.5x, /images/thumb/d/d9/Heart.png/32px-Heart.png 2x" /></a><a href="/File:Heart.png" class="image"><img alt="Heart.png" src="/images/thumb/d/d9/Heart.png/16px-Heart.png" decoding="async" width="16" height="16" srcset="/images/thumb/d/d9/Heart.png/24px-Heart.png 1.5x, /images/thumb/d/d9/Heart.png/32px-Heart.png 2x" /></a><a href="/File:Heart.png" class="image"><img alt="Heart.png" src="/images/thumb/d/d9/Heart.png/16px-Heart.png" decoding="async" width="16" height="16" srcset="/images/thumb/d/d9/Heart.png/24px-Heart.png 1.5x, /images/thumb/d/d9/Heart.png/32px-Heart.png 2x" /></a><a href="/File:Heart.png" class="image"><img alt="Heart.png" src="/images/thumb/d/d9/Heart.png/16px-Heart.png" decoding="async" width="16" height="16" srcset="/images/thumb/d/d9/Heart.png/24px-Heart.png 1.5x, /images/thumb/d/d9/Heart.png/32px-Heart.png 2x" /></a><a href="/File:Heart.png" class="image"><img alt="Heart.png" src="/images/thumb/d/d9/Heart.png/16px-Heart.png" decoding="async" width="16" height="16" srcset="/images/thumb/d/d9/Heart.png/24px-Heart.png 1.5x, /images/thumb/d/d9/Heart.png/32px-Heart.png 2x" /></a><a href="/File:Heart.png" class="image"><img alt="Heart.png" src="/images/thumb/d/d9/Heart.png/16px-Heart.png" decoding="async" width="16" height="16" srcset="/images/thumb/d/d9/Heart.png/24px-Heart.png 1.5x, /images/thumb/d/d9/Heart.png/32px-Heart.png 2x" /></a>
+</td></tr>
+<tr>
+<td><a href="/File:Bronze_Boots.png" class="image"><img alt="Bronze Boots.png" src="/images/thumb/c/cd/Bronze_Boots.png/32px-Bronze_Boots.png" decoding="async" width="32" height="32" srcset="/images/thumb/c/cd/Bronze_Boots.png/48px-Bronze_Boots.png 1.5x, /images/thumb/c/cd/Bronze_Boots.png/64px-Bronze_Boots.png 2x" /></a>
+</td>
+<td><a href="/Games/Lord_of_the_Test/Boots" title="Games/Lord of the Test/Boots">Boots</a>
+</td>
+<td><a href="/File:Heart.png" class="image"><img alt="Heart.png" src="/images/thumb/d/d9/Heart.png/16px-Heart.png" decoding="async" width="16" height="16" srcset="/images/thumb/d/d9/Heart.png/24px-Heart.png 1.5x, /images/thumb/d/d9/Heart.png/32px-Heart.png 2x" /></a><a href="/File:Heart.png" class="image"><img alt="Heart.png" src="/images/thumb/d/d9/Heart.png/16px-Heart.png" decoding="async" width="16" height="16" srcset="/images/thumb/d/d9/Heart.png/24px-Heart.png 1.5x, /images/thumb/d/d9/Heart.png/32px-Heart.png 2x" /></a><a href="/File:Heart.png" class="image"><img alt="Heart.png" src="/images/thumb/d/d9/Heart.png/16px-Heart.png" decoding="async" width="16" height="16" srcset="/images/thumb/d/d9/Heart.png/24px-Heart.png 1.5x, /images/thumb/d/d9/Heart.png/32px-Heart.png 2x" /></a><a href="/File:Heart.png" class="image"><img alt="Heart.png" src="/images/thumb/d/d9/Heart.png/16px-Heart.png" decoding="async" width="16" height="16" srcset="/images/thumb/d/d9/Heart.png/24px-Heart.png 1.5x, /images/thumb/d/d9/Heart.png/32px-Heart.png 2x" /></a><a href="/File:Heart.png" class="image"><img alt="Heart.png" src="/images/thumb/d/d9/Heart.png/16px-Heart.png" decoding="async" width="16" height="16" srcset="/images/thumb/d/d9/Heart.png/24px-Heart.png 1.5x, /images/thumb/d/d9/Heart.png/32px-Heart.png 2x" /></a><a href="/File:Heart.png" class="image"><img alt="Heart.png" src="/images/thumb/d/d9/Heart.png/16px-Heart.png" decoding="async" width="16" height="16" srcset="/images/thumb/d/d9/Heart.png/24px-Heart.png 1.5x, /images/thumb/d/d9/Heart.png/32px-Heart.png 2x" /></a>
+</td></tr>
+<tr>
+<td><a href="/File:Bronze_Shield.png" class="image"><img alt="Bronze Shield.png" src="/images/thumb/2/21/Bronze_Shield.png/32px-Bronze_Shield.png" decoding="async" width="32" height="32" srcset="/images/thumb/2/21/Bronze_Shield.png/48px-Bronze_Shield.png 1.5x, /images/thumb/2/21/Bronze_Shield.png/64px-Bronze_Shield.png 2x" /></a>
+</td>
+<td><a href="/Games/Lord_of_the_Test/Shield" title="Games/Lord of the Test/Shield">Shield</a>
+</td>
+<td><a href="/File:Heart.png" class="image"><img alt="Heart.png" src="/images/thumb/d/d9/Heart.png/16px-Heart.png" decoding="async" width="16" height="16" srcset="/images/thumb/d/d9/Heart.png/24px-Heart.png 1.5x, /images/thumb/d/d9/Heart.png/32px-Heart.png 2x" /></a><a href="/File:Heart.png" class="image"><img alt="Heart.png" src="/images/thumb/d/d9/Heart.png/16px-Heart.png" decoding="async" width="16" height="16" srcset="/images/thumb/d/d9/Heart.png/24px-Heart.png 1.5x, /images/thumb/d/d9/Heart.png/32px-Heart.png 2x" /></a><a href="/File:Heart.png" class="image"><img alt="Heart.png" src="/images/thumb/d/d9/Heart.png/16px-Heart.png" decoding="async" width="16" height="16" srcset="/images/thumb/d/d9/Heart.png/24px-Heart.png 1.5x, /images/thumb/d/d9/Heart.png/32px-Heart.png 2x" /></a><a href="/File:Heart.png" class="image"><img alt="Heart.png" src="/images/thumb/d/d9/Heart.png/16px-Heart.png" decoding="async" width="16" height="16" srcset="/images/thumb/d/d9/Heart.png/24px-Heart.png 1.5x, /images/thumb/d/d9/Heart.png/32px-Heart.png 2x" /></a><a href="/File:Heart.png" class="image"><img alt="Heart.png" src="/images/thumb/d/d9/Heart.png/16px-Heart.png" decoding="async" width="16" height="16" srcset="/images/thumb/d/d9/Heart.png/24px-Heart.png 1.5x, /images/thumb/d/d9/Heart.png/32px-Heart.png 2x" /></a><a href="/File:Heart.png" class="image"><img alt="Heart.png" src="/images/thumb/d/d9/Heart.png/16px-Heart.png" decoding="async" width="16" height="16" srcset="/images/thumb/d/d9/Heart.png/24px-Heart.png 1.5x, /images/thumb/d/d9/Heart.png/32px-Heart.png 2x" /></a>
+</td></tr>
+<tr>
+<td colspan="2"><b>total chance (%)</b>
+</td>
+<td align="center"><b>30</b>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Hud">Hud</span></h2>
+<p>When wearing an armor, the <a href="/index.php?title=Hud&amp;action=edit&amp;redlink=1" class="new" title="Hud (page does not exist)">Hud</a> also changes. There is a protection bar above the health bar, indicating how strong your armor protection is.
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:357px;"><a href="/File:Armor_Hud.png" class="image"><img alt="Armor Hud.png" src="/images/2/2c/Armor_Hud.png" decoding="async" width="355" height="79" class="thumbimage" /></a>  <div class="thumbcaption"></div></div></div>
+<div style="clear:both"></div> 
+<p><br />
+</p>
+<h2><span class="mw-headline" id="Basic_armor">Basic armor</span></h2>
+<div class="thumb tleft"><div class="thumbinner" style="width:402px;"><a href="/File:Basic_Armor.png" class="image"><img alt="Basic Armor.png" src="/images/thumb/1/1f/Basic_Armor.png/400px-Basic_Armor.png" decoding="async" width="400" height="222" class="thumbimage" srcset="/images/thumb/1/1f/Basic_Armor.png/600px-Basic_Armor.png 1.5x, /images/1/1f/Basic_Armor.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Basic_Armor.png" class="internal" title="Enlarge"></a></div></div></div></div>
+<div style="clear:both"></div>
+<p>The basic armor is armor that is made from wood or metal and is nothing very special. It comes as training, tin, copper, steel, bronze, silver, gold and mithril. It is needed though, because without an armor a <a href="/Player" title="Player">player</a> looks like this:
+</p><p><a href="/File:Armor_None_Front.png" class="image"><img alt="No armor (front)" src="/images/thumb/b/bc/Armor_None_Front.png/60px-Armor_None_Front.png" decoding="async" width="60" height="142" srcset="/images/thumb/b/bc/Armor_None_Front.png/90px-Armor_None_Front.png 1.5x, /images/thumb/b/bc/Armor_None_Front.png/120px-Armor_None_Front.png 2x" /></a>
+<a href="/File:Armor_None_Back.png" class="image"><img alt="No armor (back)" src="/images/thumb/1/14/Armor_None_Back.png/60px-Armor_None_Back.png" decoding="async" width="60" height="142" srcset="/images/thumb/1/14/Armor_None_Back.png/90px-Armor_None_Back.png 1.5x, /images/thumb/1/14/Armor_None_Back.png/120px-Armor_None_Back.png 2x" /></a>
+</p>
+<h3><span class="mw-headline" id="Training_armor">Training armor</span></h3>
+<p>Training armor is the weakest armor, and is good for just getting started off, or training. It is cheap, and made from <a href="/Wooden_Planks" class="mw-redirect" title="Wooden Planks">Wood</a>. 
+</p><p><a href="/File:Armor_Wood_Front.png" class="image"><img alt="Wooden armor (front)" src="/images/thumb/f/f0/Armor_Wood_Front.png/60px-Armor_Wood_Front.png" decoding="async" width="60" height="142" srcset="/images/thumb/f/f0/Armor_Wood_Front.png/90px-Armor_Wood_Front.png 1.5x, /images/thumb/f/f0/Armor_Wood_Front.png/120px-Armor_Wood_Front.png 2x" /></a>
+<a href="/File:Armor_Wood_Back.png" class="image"><img alt="Wooden armor (back)" src="/images/thumb/7/7c/Armor_Wood_Back.png/60px-Armor_Wood_Back.png" decoding="async" width="60" height="142" srcset="/images/thumb/7/7c/Armor_Wood_Back.png/90px-Armor_Wood_Back.png 1.5x, /images/thumb/7/7c/Armor_Wood_Back.png/120px-Armor_Wood_Back.png 2x" /></a>
+</p>
+<div style="clear:both"></div>
+<h3><span class="mw-headline" id="Tin_and_Copper_armor">Tin and Copper armor</span></h3>
+<p>Another fairly weak armor, stronger and more durable than training armor, and somewhat more expensive. Both <a href="/Games/Lord_of_the_Test/Tin_Ingot" title="Games/Lord of the Test/Tin Ingot">Tin</a> and <a href="/Copper_Ingot" title="Copper Ingot">Copper</a> armor have the same stats.
+</p><p><a href="/File:Armor_Tin_Front.png" class="image"><img alt="Tin armor (front)" src="/images/thumb/6/6d/Armor_Tin_Front.png/60px-Armor_Tin_Front.png" decoding="async" width="60" height="142" srcset="/images/thumb/6/6d/Armor_Tin_Front.png/90px-Armor_Tin_Front.png 1.5x, /images/thumb/6/6d/Armor_Tin_Front.png/120px-Armor_Tin_Front.png 2x" /></a>
+<a href="/File:Armor_Tin_Back.png" class="image"><img alt="Tin armor (back)" src="/images/thumb/c/cb/Armor_Tin_Back.png/60px-Armor_Tin_Back.png" decoding="async" width="60" height="142" srcset="/images/thumb/c/cb/Armor_Tin_Back.png/90px-Armor_Tin_Back.png 1.5x, /images/thumb/c/cb/Armor_Tin_Back.png/120px-Armor_Tin_Back.png 2x" /></a>
+<a href="/File:Armor_Copper_Front.png" class="image"><img alt="Copper armor (front)" src="/images/thumb/2/28/Armor_Copper_Front.png/60px-Armor_Copper_Front.png" decoding="async" width="60" height="142" srcset="/images/thumb/2/28/Armor_Copper_Front.png/90px-Armor_Copper_Front.png 1.5x, /images/thumb/2/28/Armor_Copper_Front.png/120px-Armor_Copper_Front.png 2x" /></a>
+<a href="/File:Armor_Copper_Back.png" class="image"><img alt="Copper armor (back)" src="/images/thumb/5/57/Armor_Copper_Back.png/60px-Armor_Copper_Back.png" decoding="async" width="60" height="142" srcset="/images/thumb/5/57/Armor_Copper_Back.png/90px-Armor_Copper_Back.png 1.5x, /images/thumb/5/57/Armor_Copper_Back.png/120px-Armor_Copper_Back.png 2x" /></a>
+</p>
+<h3><span class="mw-headline" id="Steel_armor">Steel armor</span></h3>
+<p>Steel armor is a mid-way armor, not overly expensive, but not cheap either, offering fairly good protection and durability.
+</p><p><a href="/File:Armor_Steel_Front.png" class="image"><img alt="Steel armor (front)" src="/images/thumb/1/17/Armor_Steel_Front.png/60px-Armor_Steel_Front.png" decoding="async" width="60" height="142" srcset="/images/thumb/1/17/Armor_Steel_Front.png/90px-Armor_Steel_Front.png 1.5x, /images/thumb/1/17/Armor_Steel_Front.png/120px-Armor_Steel_Front.png 2x" /></a>
+<a href="/File:Armor_Steel_Back.png" class="image"><img alt="Steel armor (back)" src="/images/thumb/f/f1/Armor_Steel_Back.png/60px-Armor_Steel_Back.png" decoding="async" width="60" height="142" srcset="/images/thumb/f/f1/Armor_Steel_Back.png/90px-Armor_Steel_Back.png 1.5x, /images/thumb/f/f1/Armor_Steel_Back.png/120px-Armor_Steel_Back.png 2x" /></a> 
+</p>
+<h3><span class="mw-headline" id="Bronze_armor">Bronze armor</span></h3>
+<p>This is the first of the three armors that are linked together with their stats. <a href="/Games/Lord_of_the_Test/Bronze_Ingot" title="Games/Lord of the Test/Bronze Ingot">Bronze</a> is more durable than silver armor, but does not offer quite as much protection.
+</p><p><a href="/File:Armor_Bronze_Front.png" class="image"><img alt="Bronze armor (front)" src="/images/thumb/b/b1/Armor_Bronze_Front.png/60px-Armor_Bronze_Front.png" decoding="async" width="60" height="142" srcset="/images/thumb/b/b1/Armor_Bronze_Front.png/90px-Armor_Bronze_Front.png 1.5x, /images/thumb/b/b1/Armor_Bronze_Front.png/120px-Armor_Bronze_Front.png 2x" /></a>
+<a href="/File:Armor_Bronze_Back.png" class="image"><img alt="Bronze armor (back)" src="/images/thumb/4/47/Armor_Bronze_Back.png/60px-Armor_Bronze_Back.png" decoding="async" width="60" height="142" srcset="/images/thumb/4/47/Armor_Bronze_Back.png/90px-Armor_Bronze_Back.png 1.5x, /images/thumb/4/47/Armor_Bronze_Back.png/120px-Armor_Bronze_Back.png 2x" /></a> 
+</p>
+<h3><span class="mw-headline" id="Silver_armor">Silver armor</span></h3>
+<p>This armor provides better protection than bronze armor, but is slightly less durable.
+</p><p><a href="/File:Armor_Silver_Front.png" class="image"><img alt="Silver armor (front)" src="/images/thumb/e/eb/Armor_Silver_Front.png/60px-Armor_Silver_Front.png" decoding="async" width="60" height="142" srcset="/images/thumb/e/eb/Armor_Silver_Front.png/90px-Armor_Silver_Front.png 1.5x, /images/thumb/e/eb/Armor_Silver_Front.png/120px-Armor_Silver_Front.png 2x" /></a>
+<a href="/File:Armor_Silver_Back.png" class="image"><img alt="Silver armor (back)" src="/images/thumb/6/6e/Armor_Silver_Back.png/60px-Armor_Silver_Back.png" decoding="async" width="60" height="142" srcset="/images/thumb/6/6e/Armor_Silver_Back.png/90px-Armor_Silver_Back.png 1.5x, /images/thumb/6/6e/Armor_Silver_Back.png/120px-Armor_Silver_Back.png 2x" /></a> 
+</p>
+<h3><span class="mw-headline" id="Gold_armor">Gold armor</span></h3>
+<p>This armor provides protection that is equal to silver armor, and durability that equals the bronze armor. It has the best stats of silver and bronze armor.
+</p><p><a href="/File:Armor_Gold_Front.png" class="image"><img alt="Golden armor (front)" src="/images/thumb/4/4e/Armor_Gold_Front.png/60px-Armor_Gold_Front.png" decoding="async" width="60" height="142" srcset="/images/thumb/4/4e/Armor_Gold_Front.png/90px-Armor_Gold_Front.png 1.5x, /images/thumb/4/4e/Armor_Gold_Front.png/120px-Armor_Gold_Front.png 2x" /></a>
+<a href="/File:Armor_Gold_Back.png" class="image"><img alt="Golden armor (back)" src="/images/thumb/8/81/Armor_Gold_Back.png/60px-Armor_Gold_Back.png" decoding="async" width="60" height="142" srcset="/images/thumb/8/81/Armor_Gold_Back.png/90px-Armor_Gold_Back.png 1.5x, /images/thumb/8/81/Armor_Gold_Back.png/120px-Armor_Gold_Back.png 2x" /></a>
+</p>
+<h3><span class="mw-headline" id="Galvorn_armor">Galvorn armor</span></h3>
+<p>The armor now is one of the best you can find in the <a href="/Games/Lord_of_the_Test" title="Games/Lord of the Test">Lord of the Test</a> game. This is the second best armor, only beaten by mithril armor.
+</p><p><a href="/File:Armor_Galvorn_Front.png" class="image"><img alt="Galvorn armor (front)" src="/images/thumb/c/c5/Armor_Galvorn_Front.png/60px-Armor_Galvorn_Front.png" decoding="async" width="60" height="142" srcset="/images/thumb/c/c5/Armor_Galvorn_Front.png/90px-Armor_Galvorn_Front.png 1.5x, /images/thumb/c/c5/Armor_Galvorn_Front.png/120px-Armor_Galvorn_Front.png 2x" /></a>
+<a href="/File:Armor_Galvorn_Back.png" class="image"><img alt="Galvorn armor (back)" src="/images/thumb/9/94/Armor_Galvorn_Back.png/60px-Armor_Galvorn_Back.png" decoding="async" width="60" height="142" srcset="/images/thumb/9/94/Armor_Galvorn_Back.png/90px-Armor_Galvorn_Back.png 1.5x, /images/thumb/9/94/Armor_Galvorn_Back.png/120px-Armor_Galvorn_Back.png 2x" /></a>
+</p>
+<h3><span class="mw-headline" id="Mithril_armor">Mithril armor</span></h3>
+<p>This is the best metal armor in the <a href="/Games/Lord_of_the_Test" title="Games/Lord of the Test">Lord of the Test</a> game. No other armor is as all round good as this. Other special armors beat it in single stats, but no other armor equals it in all round durability and protection.
+</p><p><a href="/File:Armor_Mithril_Front.png" class="image"><img alt="Mithril armor (front)" src="/images/thumb/4/41/Armor_Mithril_Front.png/60px-Armor_Mithril_Front.png" decoding="async" width="60" height="142" srcset="/images/thumb/4/41/Armor_Mithril_Front.png/90px-Armor_Mithril_Front.png 1.5x, /images/thumb/4/41/Armor_Mithril_Front.png/120px-Armor_Mithril_Front.png 2x" /></a>
+<a href="/File:Armor_Mithril_Back.png" class="image"><img alt="Mithril armor (back)" src="/images/thumb/d/d9/Armor_Mithril_Back.png/60px-Armor_Mithril_Back.png" decoding="async" width="60" height="142" srcset="/images/thumb/d/d9/Armor_Mithril_Back.png/90px-Armor_Mithril_Back.png 1.5x, /images/thumb/d/d9/Armor_Mithril_Back.png/120px-Armor_Mithril_Back.png 2x" /></a>
+</p>
+<h2><span class="mw-headline" id="Special_armor">Special armor</span></h2>
+<p>Special armor is not crafted with normal ingots, but special materials. There are four types of special armor. These special armors are worn by the various <a href="/index.php?title=Npc&amp;action=edit&amp;redlink=1" class="new" title="Npc (page does not exist)">npcs</a> in the game. Special armors don't have shields.
+</p>
+<h3><span class="mw-headline" id="Rohirrim_armor">Rohirrim armor</span></h3>
+<p>The sturdy armor that the horselords use on the plains of Rohan. This armor is made of <a href="/Games/Lord_of_the_Test/Pearl" title="Games/Lord of the Test/Pearl">Pearl</a>.
+</p><p><a href="/File:Armor_Rohirrim_Front.png" class="image"><img alt="Rohirrim armor (front)" src="/images/thumb/e/ed/Armor_Rohirrim_Front.png/60px-Armor_Rohirrim_Front.png" decoding="async" width="60" height="142" srcset="/images/thumb/e/ed/Armor_Rohirrim_Front.png/90px-Armor_Rohirrim_Front.png 1.5x, /images/thumb/e/ed/Armor_Rohirrim_Front.png/120px-Armor_Rohirrim_Front.png 2x" /></a>
+<a href="/File:Armor_Rohirrim_Back.png" class="image"><img alt="Rohirrim armor (back)" src="/images/thumb/b/b7/Armor_Rohirrim_Back.png/60px-Armor_Rohirrim_Back.png" decoding="async" width="60" height="142" srcset="/images/thumb/b/b7/Armor_Rohirrim_Back.png/90px-Armor_Rohirrim_Back.png 1.5x, /images/thumb/b/b7/Armor_Rohirrim_Back.png/120px-Armor_Rohirrim_Back.png 2x" /></a>
+</p>
+<h3><span class="mw-headline" id="Elven_armor">Elven armor</span></h3>
+<p>The armor of the woodelves of Lorien. This armor is made of <a href="/index.php?title=Games/Lord_of_the_Test/Athelas&amp;action=edit&amp;redlink=1" class="new" title="Games/Lord of the Test/Athelas (page does not exist)">Athelas</a>.
+</p><p><a href="/File:Armor_Elven_Front.png" class="image"><img alt="Elven armor (front)" src="/images/thumb/a/a3/Armor_Elven_Front.png/60px-Armor_Elven_Front.png" decoding="async" width="60" height="142" srcset="/images/thumb/a/a3/Armor_Elven_Front.png/90px-Armor_Elven_Front.png 1.5x, /images/thumb/a/a3/Armor_Elven_Front.png/120px-Armor_Elven_Front.png 2x" /></a>
+<a href="/File:Armor_Elven_Back.png" class="image"><img alt="Elven armor (back)" src="/images/thumb/5/5a/Armor_Elven_Back.png/60px-Armor_Elven_Back.png" decoding="async" width="60" height="142" srcset="/images/thumb/5/5a/Armor_Elven_Back.png/90px-Armor_Elven_Back.png 1.5x, /images/thumb/5/5a/Armor_Elven_Back.png/120px-Armor_Elven_Back.png 2x" /></a>
+</p>
+<h3><span class="mw-headline" id="Dwarven_armor">Dwarven armor</span></h3>
+<p>The armor of the mining dwarves. This armor is made of <a href="/Games/Lord_of_the_Test/Rough_Rock_Lump" title="Games/Lord of the Test/Rough Rock Lump">Rough Rock Lumps</a>.
+</p><p><a href="/File:Armor_Dwarven_Front.png" class="image"><img alt="Dwarven armor (front)" src="/images/thumb/2/2f/Armor_Dwarven_Front.png/60px-Armor_Dwarven_Front.png" decoding="async" width="60" height="142" srcset="/images/thumb/2/2f/Armor_Dwarven_Front.png/90px-Armor_Dwarven_Front.png 1.5x, /images/thumb/2/2f/Armor_Dwarven_Front.png/120px-Armor_Dwarven_Front.png 2x" /></a>
+<a href="/File:Armor_Dwarven_Back.png" class="image"><img alt="Dwarven armor (back)" src="/images/thumb/c/c3/Armor_Dwarven_Back.png/60px-Armor_Dwarven_Back.png" decoding="async" width="60" height="142" srcset="/images/thumb/c/c3/Armor_Dwarven_Back.png/90px-Armor_Dwarven_Back.png 1.5x, /images/thumb/c/c3/Armor_Dwarven_Back.png/120px-Armor_Dwarven_Back.png 2x" /></a>
+</p>
+<h3><span class="mw-headline" id="Gondor_armor">Gondor armor</span></h3>
+<p>The men of the west are used to battle. Fighters need good armor. And they have! Made of <a href="/Games/Lord_of_the_Test/Limestone" title="Games/Lord of the Test/Limestone">Limestone</a>.
+</p><p><a href="/File:Armor_Gondorian_Front.png" class="image"><img alt="Gondorian armor (front)" src="/images/thumb/5/56/Armor_Gondorian_Front.png/60px-Armor_Gondorian_Front.png" decoding="async" width="60" height="142" srcset="/images/thumb/5/56/Armor_Gondorian_Front.png/90px-Armor_Gondorian_Front.png 1.5x, /images/thumb/5/56/Armor_Gondorian_Front.png/120px-Armor_Gondorian_Front.png 2x" /></a>
+<a href="/File:Armor_Gondorian_Back.png" class="image"><img alt="Gondorian armor (back)" src="/images/thumb/9/99/Armor_Gondorian_Back.png/60px-Armor_Gondorian_Back.png" decoding="async" width="60" height="142" srcset="/images/thumb/9/99/Armor_Gondorian_Back.png/90px-Armor_Gondorian_Back.png 1.5x, /images/thumb/9/99/Armor_Gondorian_Back.png/120px-Armor_Gondorian_Back.png 2x" /></a>
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20230709175244
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.607 seconds
+Real time usage: 1.073 seconds
+Preprocessor visited node count: 538/1000000
+Post‐expand include size: 5266/2097152 bytes
+Template argument size: 640/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 14/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.160/7 seconds
+Lua virtual size: 5.93 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  550.719      1 -total
+ 59.26%  326.378      1 Template:Languages
+ 28.97%  159.549      5 Template:Heart
+  5.60%   30.842     24 Template:Gamelink
+  3.86%   21.275      5 Template:-
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:1070-0!canonical and timestamp 20230709175243 and revision id 25973
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Games/Lord_of_the_Test/Armor&amp;oldid=25973">http://wiki.minetest.net/index.php?title=Games/Lord_of_the_Test/Armor&amp;oldid=25973</a>"</div>
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Games%2FLord+of+the+Test%2FArmor" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Games/Lord_of_the_Test/Armor" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Games/Lord_of_the_Test/Armor&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Games/Lord_of_the_Test/Armor">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Games/Lord_of_the_Test/Armor&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Games/Lord_of_the_Test/Armor&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Games/Lord_of_the_Test/Armor" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Games/Lord_of_the_Test/Armor" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Games/Lord_of_the_Test/Armor&amp;oldid=25973" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Games/Lord_of_the_Test/Armor&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 16 April 2021, at 23:41.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.607","walltime":"1.073","ppvisitednodes":{"value":538,"limit":1000000},"postexpandincludesize":{"value":5266,"limit":2097152},"templateargumentsize":{"value":640,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":14,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  550.719      1 -total"," 59.26%  326.378      1 Template:Languages"," 28.97%  159.549      5 Template:Heart","  5.60%   30.842     24 Template:Gamelink","  3.86%   21.275      5 Template:-"]},"scribunto":{"limitreport-timeusage":{"value":"0.160","limit":"7"},"limitreport-virtmemusage":{"value":6213632,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709175244","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":1404});});</script></body></html>

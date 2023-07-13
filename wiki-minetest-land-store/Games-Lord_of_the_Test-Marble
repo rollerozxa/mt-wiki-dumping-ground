@@ -1,0 +1,404 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Games/Lord of the Test/Marble - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"9cf6f33d4fc7c47df2ad9a64","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Games/Lord_of_the_Test/Marble","wgTitle":"Games/Lord of the Test/Marble","wgCurRevisionId":21536,"wgRevisionId":21536,"wgArticleId":1144,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages","Manufactured blocks","Lord of the Test"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Games/Lord_of_the_Test/Marble","wgRelevantArticleId":1144,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit"
+:[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","jquery.tablesorter.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=jquery.tablesorter.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Games_Lord_of_the_Test_Marble rootpage-Games skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Games/Lord of the Test/Marble</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/Games" title="Games">Games</a>&lrm; | <a href="/Games/Lord_of_the_Test" title="Games/Lord of the Test">Lord of the Test</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> Language:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><b><a class="mw-selflink selflink">English</a></b>&#160;• <bdi lang="de"><a href="/Games/Lord_of_the_Test/Marble/de" title="Games/Lord of the Test/Marble/de">Deutsch</a></bdi></td>
+</tr></tbody></table>
+<table class="wikitable" width="200px" style="float:right;text-align:left;margin:0 0 0.5em 1em;padding:5px;font-size:90%;position:relative;clear:right;overflow:auto;z-index:1">
+
+<tbody><tr>
+<th colspan="2" style="font-size:110%;text-align:center">Marble
+</th></tr>
+<tr>
+<th colspan="2"><div class="center"><a href="/File:Marble.png" class="image"><img alt="Marble.png" src="/images/8/82/Marble.png" decoding="async" width="150" height="150" /></a></div>
+</th></tr>
+<tr>
+<th colspan="2" align="center">A <a href="/Blocks" class="mw-redirect" title="Blocks">block</a> in <a href="/Games/Minetest_Game" title="Games/Minetest Game">Minetest Game</a>
+</th></tr>
+<tr>
+<td><b>Block Type</b>
+</td>
+<td>Solid block
+</td></tr>
+<tr>
+<td><b><a href="/Mining#Drops" title="Mining">Drops</a></b>
+</td>
+<td><i>Itself</i>
+</td></tr>
+<tr>
+<td><b><a href="/Category:Falling" title="Category:Falling">Physics</a></b>
+</td>
+<td>No
+</td></tr>
+<tr>
+<td><b><a href="/Category:Luminous" title="Category:Luminous">Luminance</a></b>
+</td>
+<td>No
+</td></tr>
+<tr>
+<td><b><a href="/Category:Flammable" title="Category:Flammable">Flammable</a></b>
+</td>
+<td>No
+</td></tr>
+<tr>
+<td><b><a href="/Category:Generated_blocks" title="Category:Generated blocks">Generated</a></b>
+</td>
+<td>No
+</td></tr>
+<tr>
+<td><b><a href="/Category:Renewable" title="Category:Renewable">Renewable</a></b>
+</td>
+<td>No
+</td></tr>
+<tr>
+<td><b><a href="/Item_stack" title="Item stack">Stackable</a></b>
+</td>
+<td>Yes (99)
+</td></tr>
+<tr>
+<td><b><a href="/Itemstrings" title="Itemstrings">Itemstring</a></b>
+</td>
+<td>lottores:marble
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Description">Description</span></h2>
+<p><b>Marble</b> blocks are decorational blocks and can be <a href="/Crafting" title="Crafting">crafted</a> from 9 <a href="/Games/Lord_of_the_Test/Limestone" title="Games/Lord of the Test/Limestone">Limestones</a>. They can be crafted into <a href="/Stair" title="Stair">Stairs</a> and <a href="/Slab" title="Slab">Slabs</a>
+</p><p><br />
+</p>
+<h2><span class="mw-headline" id="Smelting">Smelting</span></h2>
+<table class="wikitable">
+
+<tbody><tr>
+<th scope="row" width="140px">Input
+</th>
+<th scope="col"><a href="/Furnace" title="Furnace">Furnace</a>
+</th>
+<th scope="row" width="140px">Output
+</th>
+<th>Description
+</th></tr>
+<tr>
+<td><a href="/Limestone" title="Limestone"><img alt="Limestone.png" src="/images/thumb/4/4e/Limestone.png/32px-Limestone.png" decoding="async" width="32" height="32" srcset="/images/thumb/4/4e/Limestone.png/48px-Limestone.png 1.5x, /images/thumb/4/4e/Limestone.png/64px-Limestone.png 2x" /></a> <a href="/Games/Lord_of_the_Test/Limestone" title="Games/Lord of the Test/Limestone">Limestones</a>
+</td>
+<td><img alt="Arrow.png" src="/images/4/41/Arrow.png" decoding="async" width="32" height="26" /> <img alt="Furnace.png" src="/images/thumb/0/0f/Furnace.png/24px-Furnace.png" decoding="async" width="24" height="24" srcset="/images/thumb/0/0f/Furnace.png/36px-Furnace.png 1.5x, /images/thumb/0/0f/Furnace.png/48px-Furnace.png 2x" /> <img alt="Arrow.png" src="/images/4/41/Arrow.png" decoding="async" width="32" height="26" />
+</td>
+<td><a href="/Marble" title="Marble"><img alt="Marble.png" src="/images/thumb/8/82/Marble.png/32px-Marble.png" decoding="async" width="32" height="32" srcset="/images/thumb/8/82/Marble.png/48px-Marble.png 1.5x, /images/thumb/8/82/Marble.png/64px-Marble.png 2x" /></a> <a href="/Marble" class="mw-redirect" title="Marble">Marble</a>
+</td>
+<td>Decorative building block.
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="As_a_crafting_ingredient">As a crafting ingredient</span></h2>
+<table class="wikitable sortable collapsible">
+
+<tbody><tr>
+<th scope="row" width="50px">Name
+</th>
+<th scope="col" width="140px">Ingredients
+</th>
+<th class="unsortable" scope="col">Input &#8594; Output
+</th></tr>
+<tr>
+<th scope="row">Marble <a href="/Stair" title="Stair">Stairs</a>
+</th>
+<td align="center"><b>Marble</b>
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Marble" title="Marble"><img alt="Marble.png" src="/images/thumb/8/82/Marble.png/32px-Marble.png" decoding="async" width="32" height="32" srcset="/images/thumb/8/82/Marble.png/48px-Marble.png 1.5x, /images/thumb/8/82/Marble.png/64px-Marble.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Marble" title="Marble"><img alt="Marble.png" src="/images/thumb/8/82/Marble.png/32px-Marble.png" decoding="async" width="32" height="32" srcset="/images/thumb/8/82/Marble.png/48px-Marble.png 1.5x, /images/thumb/8/82/Marble.png/64px-Marble.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Marble" title="Marble"><img alt="Marble.png" src="/images/thumb/8/82/Marble.png/32px-Marble.png" decoding="async" width="32" height="32" srcset="/images/thumb/8/82/Marble.png/48px-Marble.png 1.5x, /images/thumb/8/82/Marble.png/64px-Marble.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Marble" title="Marble"><img alt="Marble.png" src="/images/thumb/8/82/Marble.png/32px-Marble.png" decoding="async" width="32" height="32" srcset="/images/thumb/8/82/Marble.png/48px-Marble.png 1.5x, /images/thumb/8/82/Marble.png/64px-Marble.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Marble" title="Marble"><img alt="Marble.png" src="/images/thumb/8/82/Marble.png/32px-Marble.png" decoding="async" width="32" height="32" srcset="/images/thumb/8/82/Marble.png/48px-Marble.png 1.5x, /images/thumb/8/82/Marble.png/64px-Marble.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Marble" title="Marble"><img alt="Marble.png" src="/images/thumb/8/82/Marble.png/32px-Marble.png" decoding="async" width="32" height="32" srcset="/images/thumb/8/82/Marble.png/48px-Marble.png 1.5x, /images/thumb/8/82/Marble.png/64px-Marble.png 2x" /></a></div></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/Marble_Stair" title="Marble Stair"><img alt="Marble Stair.png" src="/images/thumb/3/3d/Marble_Stair.png/32px-Marble_Stair.png" decoding="async" width="32" height="32" srcset="/images/thumb/3/3d/Marble_Stair.png/48px-Marble_Stair.png 1.5x, /images/thumb/3/3d/Marble_Stair.png/64px-Marble_Stair.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black">4</span></div></div>
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<th scope="row">Marble <a href="/Slab" title="Slab">Slab</a>
+</th>
+<td align="center"><b>Marble</b>
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Marble" title="Marble"><img alt="Marble.png" src="/images/thumb/8/82/Marble.png/32px-Marble.png" decoding="async" width="32" height="32" srcset="/images/thumb/8/82/Marble.png/48px-Marble.png 1.5x, /images/thumb/8/82/Marble.png/64px-Marble.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Marble" title="Marble"><img alt="Marble.png" src="/images/thumb/8/82/Marble.png/32px-Marble.png" decoding="async" width="32" height="32" srcset="/images/thumb/8/82/Marble.png/48px-Marble.png 1.5x, /images/thumb/8/82/Marble.png/64px-Marble.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Marble" title="Marble"><img alt="Marble.png" src="/images/thumb/8/82/Marble.png/32px-Marble.png" decoding="async" width="32" height="32" srcset="/images/thumb/8/82/Marble.png/48px-Marble.png 1.5x, /images/thumb/8/82/Marble.png/64px-Marble.png 2x" /></a></div></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/Marble_Slab" title="Marble Slab"><img alt="Marble Slab.png" src="/images/thumb/f/f4/Marble_Slab.png/32px-Marble_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/f/f4/Marble_Slab.png/48px-Marble_Slab.png 1.5x, /images/thumb/f/f4/Marble_Slab.png/64px-Marble_Slab.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black">6</span></div></div>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Cached time: 20230708223815
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.412 seconds
+Real time usage: 1.192 seconds
+Preprocessor visited node count: 373/1000000
+Post‐expand include size: 15486/2097152 bytes
+Template argument size: 475/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 15/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.320/7 seconds
+Lua virtual size: 6.59 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1004.345      1 -total
+ 49.81%  500.219      2 Template:Grid/Craft
+ 44.35%  445.447     20 Template:Grid
+ 31.56%  316.940      1 Template:Languages
+ 15.56%  156.275      1 Template:Block_Data
+  2.67%   26.789      2 Template:Gamelink
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:1144-0!canonical and timestamp 20230708223814 and revision id 21536
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Games/Lord_of_the_Test/Marble&amp;oldid=21536">http://wiki.minetest.net/index.php?title=Games/Lord_of_the_Test/Marble&amp;oldid=21536</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li><li><a href="/Category:Manufactured_blocks" title="Category:Manufactured blocks">Manufactured blocks</a></li><li><a href="/Category:Lord_of_the_Test" title="Category:Lord of the Test">Lord of the Test</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Games%2FLord+of+the+Test%2FMarble" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Games/Lord_of_the_Test/Marble" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Games/Lord_of_the_Test/Marble&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Games/Lord_of_the_Test/Marble">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Games/Lord_of_the_Test/Marble&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Games/Lord_of_the_Test/Marble&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Games/Lord_of_the_Test/Marble" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Games/Lord_of_the_Test/Marble" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Games/Lord_of_the_Test/Marble&amp;oldid=21536" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Games/Lord_of_the_Test/Marble&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 22 June 2018, at 08:27.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.412","walltime":"1.192","ppvisitednodes":{"value":373,"limit":1000000},"postexpandincludesize":{"value":15486,"limit":2097152},"templateargumentsize":{"value":475,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":15,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00% 1004.345      1 -total"," 49.81%  500.219      2 Template:Grid/Craft"," 44.35%  445.447     20 Template:Grid"," 31.56%  316.940      1 Template:Languages"," 15.56%  156.275      1 Template:Block_Data","  2.67%   26.789      2 Template:Gamelink"]},"scribunto":{"limitreport-timeusage":{"value":"0.320","limit":"7"},"limitreport-virtmemusage":{"value":6914048,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230708223815","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":255});});</script></body></html>

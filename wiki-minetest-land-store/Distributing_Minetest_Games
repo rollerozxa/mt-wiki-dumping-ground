@@ -1,0 +1,388 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Distributing Minetest Games - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"caa74ab859b9196a877d4616","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Distributing_Minetest_Games","wgTitle":"Distributing Minetest Games","wgCurRevisionId":27225,"wgRevisionId":27225,"wgArticleId":5129,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Distributing_Minetest_Games","wgRelevantArticleId":5129,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready",
+"noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Distributing_Minetest_Games rootpage-Distributing_Minetest_Games skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Distributing Minetest Games</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>This page contains (at times very opinionated) notes about taking a Minetest game and distribute it outside of Minetest. It assumes that you know how to compile Minetest from source.
+</p><p>Minetest as an engine itself doesn't have any official means to export a game into a self-contained package with the engine. However as Minetest is free software you can fork the engine to rebrand it and bundle it with the game of your choosing.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#General_tips"><span class="tocnumber">1</span> <span class="toctext">General tips</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Locking_down_the_singleplayer_tab_to_one_game"><span class="tocnumber">1.1</span> <span class="toctext">Locking down the singleplayer tab to one game</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Rebranding_the_main_menu"><span class="tocnumber">1.2</span> <span class="toctext">Rebranding the main menu</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Add_to_the_.22About.22_tab"><span class="tocnumber">1.3</span> <span class="toctext">Add to the "About" tab</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Filtering_the_serverlist"><span class="tocnumber">1.4</span> <span class="toctext">Filtering the serverlist</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Filtering_ContentDB_packages"><span class="tocnumber">1.5</span> <span class="toctext">Filtering ContentDB packages</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Change_default_settings"><span class="tocnumber">1.6</span> <span class="toctext">Change default settings</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Windows"><span class="tocnumber">2</span> <span class="toctext">Windows</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Rebranding"><span class="tocnumber">2.1</span> <span class="toctext">Rebranding</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Android"><span class="tocnumber">3</span> <span class="toctext">Android</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#Separate_package_name"><span class="tocnumber">3.1</span> <span class="toctext">Separate package name</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Rebranding_2"><span class="tocnumber">3.2</span> <span class="toctext">Rebranding</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#Linux"><span class="tocnumber">4</span> <span class="toctext">Linux</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#macOS"><span class="tocnumber">5</span> <span class="toctext">macOS</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Licensing"><span class="tocnumber">6</span> <span class="toctext">Licensing</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#Examples"><span class="tocnumber">7</span> <span class="toctext">Examples</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="General_tips">General tips</span></h2>
+<p>Generally you're able to customise the main menu (at <code>builtin/mainmenu/</code>), which is written in Lua and formspec, however you'd like to suit your game.
+</p>
+<h3><span class="mw-headline" id="Locking_down_the_singleplayer_tab_to_one_game">Locking down the singleplayer tab to one game</span></h3>
+<p>Go into <code>src/defaultsettings.cpp</code> and change <code>default_game</code> to the gameid of your choice. It will now start up on your given game.
+</p><p>To remove the gamebar, it's enough to just remove this code in <code>builtin/mainmenu/tab_local.lua</code> and set the sizes of the buttonbar to 0:
+</p>
+<pre>@@ -78,32 +78,8 @@ function singleplayer_refresh_gamebar()
+ 
+ 	local btnbar = buttonbar_create("game_button_bar",
+ 		game_buttonbar_button_handler,
+-		{x=-0.3,y=5.9}, "horizontal", {x=12.4,y=1.15})
++		{x=-0.3,y=5.9}, "horizontal", {x=0,y=0})
+ 
+-	for _, game in ipairs(pkgmgr.games) do
+-		local btn_name = "game_btnbar_" .. game.id
+-
+-		local image = nil
+-		local text = nil
+-		local tooltip = core.formspec_escape(game.title)
+-
+-		if (game.menuicon_path or "") ~= "" then
+-			image = core.formspec_escape(game.menuicon_path)
+-		else
+-			local part1 = game.id:sub(1,5)
+-			local part2 = game.id:sub(6,10)
+-			local part3 = game.id:sub(11)
+-
+-			text = part1 .. "\n" .. part2
+-			if part3 ~= "" then
+-				text = text .. "\n" .. part3
+-			end
+-		end
+-		btnbar:add_button(btn_name, text, image, tooltip)
+-	end
+-
+-	local plus_image = core.formspec_escape(defaulttexturedir .. "plus.png")
+-	btnbar:add_button("game_open_cdb", "", plus_image, fgettext("Install games from ContentDB"))
+ end
+</pre>
+<h3><span class="mw-headline" id="Rebranding_the_main_menu">Rebranding the main menu</span></h3>
+<p>Copy the game's <code>menu/</code> textures into <code>textures/base/pack/</code>.
+</p>
+<ul><li>Rename <code>header.png</code> to <code>menu_header.png</code></li>
+<li>Rename <code>background.png</code> to <code>menu_bg.png</code></li>
+<li>Rename <code>icon.png</code> to <code>logo.png</code></li></ul>
+<p>The main menu branding doesn't support randomised textures (unless you implement that yourself), so you would need to pick one.
+</p>
+<h3><span id="Add_to_the_&quot;About&quot;_tab"></span><span class="mw-headline" id="Add_to_the_.22About.22_tab">Add to the "About" tab</span></h3>
+<p>You should keep the Minetest credits list in order to follow Minetest's license regarding attribution, but you may choose to add contributors and developers to the game above it.
+</p><p>In addition to this, you should add some note right above the Minetest credits to credit the engine itself:
+</p>
+<pre>local minetest_info = {
+	"&lt;GAME&gt; is made possible by the Minetest engine,",
+	"which is free software licensed under LGPLv2.1.",
+	""
+}</pre>
+<h3><span class="mw-headline" id="Filtering_the_serverlist">Filtering the serverlist</span></h3>
+<p>You can filter the serverlist to only show servers running the specified game. Add the following code to <code>builtin/mainmenu/serverlistmgr.lua</code>:
+</p>
+<pre>@@ -181,7 +181,18 @@ function serverlistmgr.sync()
+ 			end
+ 
+ 			local retval = core.parse_json(response.data)
+-			return retval and retval.list or {}
++
++			local list = {}
++			local kiosk_game = "&lt;gameid of the game&gt;"
++
++			-- Iterate over servers, only keep ones with the valid gameid
++			for _,entry in pairs(retval.list) do
++				if entry.gameid == kiosk_game then
++					table.insert(list, entry)
++				end
++			end
++
++			return list
+ 		end,
+ 		nil,
+ 		function(result)
+</pre>
+<p>Replace the <code>kiosk_game</code> variable with the gameid of your game.
+</p>
+<h3><span class="mw-headline" id="Filtering_ContentDB_packages">Filtering ContentDB packages</span></h3>
+<p>ContentDB keeps track of what games a mod is able to support, which can be used to filter the list of packages through the API. This works especially well if the game has a distinct mod ecosystem. Keep in mind that the game needs to be published onto ContentDB for this to work, otherwise you may choose to maintain your own ContentDB instance with a curated set of packages that work with the game.
+</p><p>In <code>builtin/mainmenu/dlg_contentstore.lua</code>, where it constructs an API URL that looks something like this:
+</p>
+<pre>"/api/packages/?type=mod&amp;type=game&amp;type=txp&amp;protocol_version=" ..</pre>
+<p>Add the <code>&amp;game=&lt;author&gt;/&lt;gamepackage&gt;</code> argument onto the URL. For example, <code>Warr1024/nodecore</code> for NodeCore.
+</p><p>Mods and texture packs are able to specify game compatibility, however game agnostic mods will unfortunately not be shown.
+</p>
+<h3><span class="mw-headline" id="Change_default_settings">Change default settings</span></h3>
+<p>You can change the default settings in <code>src/defaultsettings.cpp</code> to better suit your game. You can also tweak settings for particular platforms, for example the Android specific default settings which are inside of a <code>#ifdef __ANDROID__</code> preprocessor directive.
+</p>
+<h2><span class="mw-headline" id="Windows">Windows</span></h2>
+<h3><span class="mw-headline" id="Rebranding">Rebranding</span></h3>
+<p>To fully change the name of the engine you can change the name of the "project" in <code>CMakeLists.txt</code>. This will change the name of the executable and the name used on the titlebar, among other places. Keep in mind this will also mean you need to rename files in <code>misc/</code> and the translation files.
+</p><p>To change the icon that's used for Minetest builds on Windows you'll have to replace <code>misc/minetest-icon.ico</code> with your game's icon in the Windows ICO file format. 
+</p><p>To make it install your given game instead of Minetest Game, go into <code>CMakeLists.txt</code> and change the line that installs <code>mods/minetest_game</code> to install your game instead. You may also remove things such as the documentation (e.g. lua_api.txt) and devtest. The lines that install this is right around where the game gets installed, just remove those.
+</p>
+<h2><span class="mw-headline" id="Android">Android</span></h2>
+<p>This section assumes you already know how to build the Android version of Minetest and how to sign APK files. (TL:DR - Download the Android command-line tools, install the NDK and accept any necessary license terms, then <code>./gradlew assemblerelease</code>, <code>apksigner</code> and be happy)
+</p>
+<h3><span class="mw-headline" id="Separate_package_name">Separate package name</span></h3>
+<p>First of all you would like to change the package name of the Android app. This will make it separate from the regular Minetest app which has the package name <code>net.minetest.minetest</code>. Change the <code>applicationId</code> in <code>android/app/build.gradle</code> to the package name of your choosing. Package names work like regular Java names which use reverse DNS names, if you don't have a domain name it should be fine to keep <code>net.minetest</code> and only change the last "subdomain" to the game's name.
+</p><p>However if you try to build and install the app right now it will not work. This is because Minetest provides a file provider which needs to be named just like the package name, and will conflict with the regular Minetest app if you have that installed. In <code>android/app/src/main/AndroidManifest.xml</code> and <code>android/app/src/main/java/net/minetest/minetest/GameActivity.java</code> you will have to change the file provider name to reflect your package name.
+</p>
+<h3><span class="mw-headline" id="Rebranding_2">Rebranding</span></h3>
+<p>To change the name of the app to the game's name, edit the <code>label</code> string in <code>android/app/src/main/res/values/strings.xml</code>. To change the icon, replace <code>android/app/src/main/res/mipmap/ic_launcher.png</code> with the icon of the game.
+</p><p>When Gradle bundles assets into an archive, it will copy <code>gameToCopy</code> defined in <code>android/app/build.gradle</code>. By default this is <code>minetest_game</code> so you would want to change the variable to bundle your game instead.
+</p><p>The loading screen background when Minetest extracts assets can be customised too. <code>android/app/src/main/res/drawable/background.png</code> which by default is a basic light blue background will tile if you replace it with something else.
+</p>
+<h2><span class="mw-headline" id="Linux">Linux</span></h2>
+<p>Linux users are usually more advanced, most of the time they will compile the engine from source for their particular distro and package it for you (the Linux user is a wonderful creature). To give them better desktop integration you should edit <code>misc/net.minetest.minetest.desktop</code> which will give them a application launcher shortcut that accurately reflects the game, including the proper icon.
+</p>
+<h2><span class="mw-headline" id="macOS">macOS</span></h2>
+<p>TODO
+</p>
+<h2><span class="mw-headline" id="Licensing">Licensing</span></h2>
+<p>As the Minetest engine is licensed under LGPLv2.1, it means that any changes you make to the engine source code need to be made available. This however may not apply to the game you're distributing, which could even be licensed under proprietary terms if you do not make use of any copyleft mods. This isn't legal advice however, and you should consult a lawyer to be absolutely sure.
+</p><p>You can choose to version control your engine fork in Git (which has the added bonus of being able to automatically make builds using CI on your favourite Git host). Alternatively for the absolute minimum necessary you can export your current source tree with modifications as an archive file using something like this:
+</p>
+<pre>stashName=`git stash create`; git archive $stashName | gzip &gt; ../cool-game-engine-fork-$(date +'%Y-%m-%d').tar.gz
+</pre>
+<p>Make some place where this file is available, and be sure to update it whenever new builds are made. <code>gzip</code> can be replaced with your favourite compression method, if so desired.
+</p>
+<h2><span class="mw-headline" id="Examples">Examples</span></h2>
+<p>A large portion of the initial version of this page documents changes that were made to the engine for the <a rel="nofollow" class="external text" href="https://play.google.com/store/apps/details?id=se.voxelmanip.nodecore">NodeCore Android app</a>. Its source code is available for download <a rel="nofollow" class="external text" href="https://nodecore.voxelmanip.se/src/">here</a> and can be used as an example if you would like to distribute a game on Android.
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20230709102241
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.064 seconds
+Real time usage: 0.071 seconds
+Preprocessor visited node count: 73/1000000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1837/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    0.000      1 -total
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:5129-0!canonical and timestamp 20230709102241 and revision id 27225
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Distributing_Minetest_Games&amp;oldid=27225">http://wiki.minetest.net/index.php?title=Distributing_Minetest_Games&amp;oldid=27225</a>"</div>
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Distributing+Minetest+Games" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Distributing_Minetest_Games" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Distributing_Minetest_Games&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Distributing_Minetest_Games">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Distributing_Minetest_Games&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Distributing_Minetest_Games&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Distributing_Minetest_Games" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Distributing_Minetest_Games" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Distributing_Minetest_Games&amp;oldid=27225" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Distributing_Minetest_Games&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 13 January 2023, at 10:50.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.064","walltime":"0.071","ppvisitednodes":{"value":73,"limit":1000000},"postexpandincludesize":{"value":0,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1837,"limit":5000000},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20230709102241","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":338});});</script></body></html>

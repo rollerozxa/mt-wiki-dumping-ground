@@ -1,0 +1,337 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Talk:Mods/ru - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"8f988b22514ef66fd6614a7d","wgCSPNonce":!1,"wgCanonicalNamespace":"Talk","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":1,"wgPageName":"Talk:Mods/ru","wgTitle":"Mods/ru","wgCurRevisionId":24872,"wgRevisionId":24872,"wgArticleId":4948,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Talk:Mods/ru","wgRelevantArticleId":4948,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":
+"ready","user.options":"loading","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-1 ns-talk page-Talk_Mods_ru rootpage-Talk_Mods skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Talk:Mods/ru</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/Talk:Mods" title="Talk:Mods">Talk:Mods</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table align="right">
+<tbody><tr>
+<td><div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#.D0.9C.D0.BE.D0.B4.D1.8B"><span class="tocnumber">1</span> <span class="toctext">Моды</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#.D0.9C.D0.BE.D0.B4.D0.BF.D0.B0.D0.BA.D0.B8"><span class="tocnumber">2</span> <span class="toctext">Модпаки</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#.D0.9C.D0.BE.D0.B4.D1.8B_.D0.BD.D0.B0_.D1.81.D1.82.D0.BE.D1.80.D0.BE.D0.BD.D0.B5_.D0.BA.D0.BB.D0.B8.D0.B5.D0.BD.D1.82.D0.B0"><span class="tocnumber">3</span> <span class="toctext">Моды на стороне клиента</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#.D0.A3.D1.81.D1.82.D0.B0.D0.BD.D0.BE.D0.B2.D0.BA.D0.B0"><span class="tocnumber">4</span> <span class="toctext">Установка</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#.D0.9F.D0.BE.D0.B8.D1.81.D0.BA_.D0.BC.D0.BE.D0.B4.D0.BE.D0.B2"><span class="tocnumber">5</span> <span class="toctext">Поиск модов</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#.D0.A1.D0.BE.D0.B7.D0.B4.D0.B0.D0.BD.D0.B8.D0.B5_.D0.BC.D0.BE.D0.B4.D0.BE.D0.B2"><span class="tocnumber">6</span> <span class="toctext">Создание модов</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#.D0.A1.D0.BF.D0.B8.D1.81.D0.BE.D0.BA_.D0.BC.D0.BE.D0.B4.D0.BE.D0.B2_.D0.BD.D0.B0_.D1.81.D0.B5.D1.80.D0.B2.D0.B5.D1.80.D0.B5"><span class="tocnumber">7</span> <span class="toctext">Список модов на сервере</span></a></li>
+</ul>
+</div>
+
+</td></tr></tbody></table>
+<p><br />
+</p>
+<h1><span id="Моды"></span><span class="mw-headline" id=".D0.9C.D0.BE.D0.B4.D1.8B">Моды</span></h1>
+<div style="float: left; width: 80%">
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/File:Mesecons_example.jpg" class="image"><img alt="" src="/images/thumb/7/79/Mesecons_example.jpg/300px-Mesecons_example.jpg" decoding="async" width="300" height="169" class="thumbimage" srcset="/images/thumb/7/79/Mesecons_example.jpg/450px-Mesecons_example.jpg 1.5x, /images/thumb/7/79/Mesecons_example.jpg/600px-Mesecons_example.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mesecons_example.jpg" class="internal" title="Enlarge"></a></div>An example of a mod (here: Mesecons).</div></div></div>
+<p><b>Моды</b> (сокращение от <b>модификации</b> или <b>модули</b>) создаваемые пользователями модификации в игре, таким способом изменяют геймплей.
+</p><p>Некоторые крупные моды могут добавлять контент в игру, но  небольшие моды могут добавлять опции настроек , или оптимизировать скорость, геймплей, или графику Minetest.
+</p><p><a href="/Server" title="Server">Server</a> моды или плагины главным образом предоставляют администраторам сервера больше опций и легче использование, и все моды для одиночной игры могут также быть использованы и в мультиплэйере.
+</p>
+</div>
+<div style="clear: both"></div>
+<div>
+<p>В то время когда моды Minetest в основном безопасны для установки, с другими следует применять осторожность, что бы предотвратить крахи в игре, нестабильность системы, удаление данных игры, или вредоносные ПО от плохой ссылки или от самого мода.
+</p><p>Хороший способ обезопасить вашу игру - восстановить папку Minetest, если хотите использовать какие-либо моды .
+</p><p>Многие моды или плагины доступны к комплекту оригинального<a href="/index.php?title=Subgames/Minetest_Game&amp;action=edit&amp;redlink=1" class="new" title="Subgames/Minetest Game (page does not exist)">Minetest game</a> или дают администраторам сервера больше опций и контроль над их серверами.
+</p>
+</div>
+<div style="clear: both"></div>
+<p><br />
+</p>
+<h1><span id="Модпаки"></span><span class="mw-headline" id=".D0.9C.D0.BE.D0.B4.D0.BF.D0.B0.D0.BA.D0.B8">Модпаки</span></h1>
+<div style="width: 100%">
+<p>Модпак (сокращение: “МП”) - это коллекция модов, сгруппированных в опреленный мод вместе . В основном, модпак - это специальная директория, помещающая директории в фактический мод.
+</p><p>Это чисто смысловое группирование и сделано по большей части  для удобства и в группу тесно-относящихся модов вместе. Главное различие в том, что они будут отображатся по-разному в управляющем моде в Minetest.
+</p><p>В стороне того, что нету ничего особенного у модпаков или модов внутри модпака. Индивидуальные моды в модпаке могут быть доступными либо отключенными так как если бы они были отдельными модами.
+</p>
+</div>
+<div style="clear: both"></div>
+<p><br />
+</p>
+<h1><span id="Моды_на_стороне_клиента"></span><span class="mw-headline" id=".D0.9C.D0.BE.D0.B4.D1.8B_.D0.BD.D0.B0_.D1.81.D1.82.D0.BE.D1.80.D0.BE.D0.BD.D0.B5_.D0.BA.D0.BB.D0.B8.D0.B5.D0.BD.D1.82.D0.B0">Моды на стороне клиента</span></h1>
+<div style="width: 100%">
+<p>Моды на стороне клиента (сокращение: “CSM”) - это мод, используемый что бы настроить ваш Minetest клиент. Моды на стороне клиента могут быть использованы при соединении с Minetest сервером, потому что они загружаются локально.
+</p><p>Для модов на стороне клиента требуется по крайней мере Minetest 0.4.15-dev от источников , составленных после 1 апреля 2017 года
+</p><p>Пожалуйста, заметьте что API не стабильное и может быть измененным.
+</p>
+</div>
+<div style="clear: both"></div>
+<p><br />
+</p>
+<h1><span id="Установка"></span><span class="mw-headline" id=".D0.A3.D1.81.D1.82.D0.B0.D0.BD.D0.BE.D0.B2.D0.BA.D0.B0">Установка</span></h1>
+<div style="width: 100%">
+<p><i>Смотрите также <a href="/Help:Installing_Mods" class="mw-redirect" title="Help:Installing Mods">Installing Mods</a> и <a href="/Help:Installing_Client-Side_Mods" class="mw-redirect" title="Help:Installing Client-Side Mods">Installing Client-Side Mods</a>.</i>
+</p>
+</div>
+<div style="clear: both"></div>
+<p><br />
+</p>
+<h1><span id="Поиск_модов"></span><span class="mw-headline" id=".D0.9F.D0.BE.D0.B8.D1.81.D0.BA_.D0.BC.D0.BE.D0.B4.D0.BE.D0.B2">Поиск модов</span></h1>
+<div style="width: 100%">
+<p>Моды, в текущий момент могут быть найдены в нескольких местах:
+</p>
+<ul><li><a rel="nofollow" class="external text" href="http://wiki.minetest.net/index.php?title=Category:Mods&amp;oldid=5139">Mods category in Minetest Wiki</a></li>
+<li><a rel="nofollow" class="external text" href="http://wiki.minetest.net/Special:AllPages?from=Mods/">Search subpages of the Mods in Minetest Wiki</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.minetest.net/customize/#mods">Popular mods on minetest.net</a></li>
+<li><a rel="nofollow" class="external text" href="http://forum.minetest.net/viewforum.php?f=11">“Mod Releases” forum</a> (The primary place to find the most recently released mods)</li>
+<li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewforum.php?f=53">“Client-side modding” forum</a> (Only place with Client-side mods)</li>
+<li><a href="/Minetest_Bower" title="Minetest Bower">Minetest Bower</a></li>
+<li><a rel="nofollow" class="external text" href="http://krock-works.16mb.com/MTstuff/modSearch.php">Minetest Mod Search</a></li>
+<li><a href="/List_of_Mods" title="List of Mods">List of Mods</a> on this wiki (very incomplete!)
+<ul><li><a href="/index.php?title=Mods:Biomes&amp;action=edit&amp;redlink=1" class="new" title="Mods:Biomes (page does not exist)">Mods:Biomes</a> is a page on this wiki listing some mods that include biomes and any map generations.</li>
+<li><a href="/index.php?title=Mods:Building_materials&amp;action=edit&amp;redlink=1" class="new" title="Mods:Building materials (page does not exist)">Mods:Building materials</a> is a page on this wiki listing some mods that include</li></ul></li></ul>
+<p>blocks, items and other nodes.
+</p>
+<ul><li><ul><li><a href="/index.php?title=Mods:Customizations&amp;action=edit&amp;redlink=1" class="new" title="Mods:Customizations (page does not exist)">Mods:Customizations</a> is a page on this wiki listing some mods that include settings, fixations and other.</li>
+<li><a href="/index.php?title=Mods:Food&amp;action=edit&amp;redlink=1" class="new" title="Mods:Food (page does not exist)">Mods:Food</a> is a page on this wiki listing some mods that include food.</li>
+<li><a href="/Mods:Mobs" title="Mods:Mobs">Mods:Mobs</a> is a page on this wiki listing some <a href="/Mods" title="Mods">mods</a> that include <a href="/Mobs" title="Mobs">mobs</a> such as animals and monsters.</li>
+<li><a href="/index.php?title=Mods:Sounds&amp;action=edit&amp;redlink=1" class="new" title="Mods:Sounds (page does not exist)">Mods:Sounds</a> is a page on this wiki listing some mods that include sounds.</li>
+<li><a href="/Mods:Vehicles" title="Mods:Vehicles">Mods:Vehicles</a> is a page on this wiki listing some mods that include vehicles.</li>
+<li><a href="/index.php?title=Mods:Other&amp;action=edit&amp;redlink=1" class="new" title="Mods:Other (page does not exist)">Mods:Other</a> is a page on this wiki listing some mods that include other mods are not related to other sections.</li></ul></li>
+<li><a rel="nofollow" class="external text" href="https://github.com/minetest-mods">Minetest-Mods team (Mod repository)</a> (highly technical)</li></ul>
+</div>
+<div style="clear: both"></div>
+<p><br />
+</p>
+<h1><span id="Создание_модов"></span><span class="mw-headline" id=".D0.A1.D0.BE.D0.B7.D0.B4.D0.B0.D0.BD.D0.B8.D0.B5_.D0.BC.D0.BE.D0.B4.D0.BE.D0.B2">Создание модов</span></h1>
+<div style="width: 100%">
+<p>parking content:
+</p><p><br />
+</p><p>Моды, созданные в <a rel="nofollow" class="external text" href="https://www.lua.org/">Lua</a>, относительно обычным скриптовым языком. Они могут быть созданы тем, кто умеет писать на Lua и понимает Minetest`s Lua API.
+</p><p>Официальную документацию LUA API можно прочитать здесь<a rel="nofollow" class="external text" href="https://github.com/minetest/minetest/blob/master/doc/lua_api.txt">lua_api.txt</a>.
+</p><p>Другин важные источники изучения:
+</p>
+<ul><li><a rel="nofollow" class="external text" href="http://rubenwardy.com/minetest_modding_book/">Minetest Modding Online Tutorial Book</a> (Highly recommended)</li>
+<li><a rel="nofollow" class="external text" href="http://dev.minetest.net/Intro">Intro to modding</a> (on the developer wiki)</li></ul>
+</div>
+<div style="clear: both"></div>
+<p><br />
+</p>
+<h1><span id="Список_модов_на_сервере"></span><span class="mw-headline" id=".D0.A1.D0.BF.D0.B8.D1.81.D0.BE.D0.BA_.D0.BC.D0.BE.D0.B4.D0.BE.D0.B2_.D0.BD.D0.B0_.D1.81.D0.B5.D1.80.D0.B2.D0.B5.D1.80.D0.B5">Список модов на сервере</span></h1>
+<div style="width: 100%">
+<p>Если вы на сервере <a href="/Server" title="Server">server</a>, то вы можете набрать <a href="/Server_commands" title="Server commands">server command</a> <code>/mods</code> что бы сделать запрос сервера и сообщить вам список установленных модов .
+</p><p><a href="/File:Modsonservers.png" class="image" title="Most popular mods used on public servers listed at servers.minetest.net as of 31 Oktober 2016"><img alt="Most popular mods used on public servers listed at servers.minetest.net as of 31 Oktober 2016" src="/images/0/02/Modsonservers.png" decoding="async" width="1000" height="450" style="vertical-align: middle" /></a>
+</p>
+</div>
+<div style="clear: both"></div>
+<!-- 
+NewPP limit report
+Cached time: 20230711211051
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.083 seconds
+Real time usage: 0.099 seconds
+Preprocessor visited node count: 69/1000000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    0.000      1 -total
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:4948-0!canonical and timestamp 20230711211051 and revision id 24872
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Talk:Mods/ru&amp;oldid=24872">http://wiki.minetest.net/index.php?title=Talk:Mods/ru&amp;oldid=24872</a>"</div>
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Talk%3AMods%2Fru" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main"><a href="/Mods/ru" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="selected"><a href="/Talk:Mods/ru" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Talk:Mods/ru">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Talk:Mods/ru&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Talk:Mods/ru&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Talk:Mods/ru" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Talk:Mods/ru" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Talk:Mods/ru&amp;oldid=24872" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Talk:Mods/ru&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 8 April 2021, at 21:22.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.083","walltime":"0.099","ppvisitednodes":{"value":69,"limit":1000000},"postexpandincludesize":{"value":0,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20230711211051","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":474});});</script></body></html>

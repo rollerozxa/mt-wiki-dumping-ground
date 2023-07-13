@@ -1,0 +1,370 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Swiss-Survival-Server - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"0e04dedff25831fb56c7d3d7","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Swiss-Survival-Server","wgTitle":"Swiss-Survival-Server","wgCurRevisionId":23442,"wgRevisionId":23442,"wgArticleId":4782,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with ignored display titles","Notable Servers"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Swiss-Survival-Server","wgRelevantArticleId":4782,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};
+RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Swiss-Survival-Server rootpage-Swiss-Survival-Server skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Swiss-Survival-Server</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p><br />
+</p>
+<table class="wikitable" width="200px" style="float:right;text-align:left;margin:0 0 0.5em 1em;padding:5px;font-size:90%;position:relative;clear:right;overflow:auto;z-index:1">
+
+<tbody><tr>
+<th colspan="2" style="font-size:110%;text-align:center">Swiss-Survival Server
+</th></tr>
+<tr>
+<th colspan="2"><div class="center"><a href="/File:Blank.png" class="image"><img alt="Blank.png" src="/images/d/d2/Blank.png" decoding="async" width="150" height="150" /></a></div>
+</th></tr>
+<tr>
+<th colspan="2" align="center">A <a href="/Server" title="Server">server</a>
+</th></tr>
+<tr>
+<td><b>Owner</b>
+</td>
+<td>atorian37
+</td></tr>
+<tr>
+<td><b>Address</b>
+</td>
+<td>minetest.homelinux.net
+</td></tr>
+<tr>
+<td><b>Port</b>
+</td>
+<td>30005
+</td></tr>
+<tr>
+<td><b>Flags</b>
+</td>
+<td>Dmg,Pwd,Rol,Far
+</td></tr>
+<tr>
+<td><b>Forum topic</b>
+</td>
+<td><a rel="nofollow" class="external free" href="https://forum.minetest.net/viewtopic.php?f=21&amp;t=19927">https://forum.minetest.net/viewtopic.php?f=21&amp;t=19927</a>
+</td></tr></tbody></table>
+<p><br />
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Intro"><span class="tocnumber">1</span> <span class="toctext">Intro</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#General_Server-info"><span class="tocnumber">2</span> <span class="toctext">General Server-info</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Mods"><span class="tocnumber">3</span> <span class="toctext">Mods</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Map"><span class="tocnumber">4</span> <span class="toctext">Map</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#General"><span class="tocnumber">4.1</span> <span class="toctext">General</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Pipeworks"><span class="tocnumber">4.2</span> <span class="toctext">Pipeworks</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Other"><span class="tocnumber">4.3</span> <span class="toctext">Other</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Intro">Intro</span></h2>
+<p>This is a description about the Swiss-Survival-Server.<br />
+</p><p>This is an 'easy' survival world, with no PVP (and a focus on good behavior), <br />
+with some nice and some technical mods (such as xdecor, pipeworks etc.).
+</p><p>After the first login, players need to read /rules.
+</p>
+<h2><span class="mw-headline" id="General_Server-info">General Server-info</span></h2>
+<p>(as of 2019-10-13)
+</p>
+<ul><li>Admin: atorian37</li>
+<li>IP: minetest.homelinux.net:30005</li>
+<li>Max users: 10</li>
+<li>Operating hours:</li>
+<li>Mapgen: v6, seed 4781171871012947571</li>
+<li>no interact for new users - read /rules&#160;!</li></ul>
+<p>strict 0.4.16 protocol, no PVP
+</p><p><b>See also:</b> 
+List of servers: 
+</p>
+<ul><li><a rel="nofollow" class="external text" href="http://minetest.net/servers">Minetest Server List</a> and <a rel="nofollow" class="external text" href="http://servers.minetest.net/">List2</a></li>
+<li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewforum.php?f=10">Minetest Forum servers section</a></li></ul>
+<h2><span class="mw-headline" id="Mods">Mods</span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?t=509">moreblocks</a> - stairs&amp;slopes, iron stone, plank stone, glowglass,  circular saw ...</li>
+<li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?id=549">Moreores</a> - tin, silver, mithril&#160;?</li></ul>
+<ul><li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?t=12534">xdecor</a> - chair, table, cushions, mailbox, workbench, enchanting table ...</li>
+<li>display_lib - more signs: roadsigns, posters, steles</li></ul>
+<ul><li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=11&amp;t=9917">mobs-redo</a> &amp; <a rel="nofollow" class="external text" href="https://github.com/tenplus1/mobs_animal">mobs_animal</a> - chicken, sheep, pig, cow. horses, bunny, birds, fish
+<ul><li>mobf_traders - buy &amp; sell stuff</li>
+<li>Monsters+kpgmobs: wolf, spider, dirtmonster, treemonster, sandmonster, stonemonster .. dungeonmaster</li></ul></li>
+<li>hec_treasuries</li></ul>
+<ul><li>initial_stuff - new players get a set of tools, torches, and stones</li>
+<li>hunger  - players need to eat</li>
+<li>farming - more plants: cacoa, carot, coffee, corn, melon, potato, pumpkin, raspberry, tomato ...</li></ul>
+<ul><li>unified_inventory - with crafting-guide and backpacks</li>
+<li>mail - write mail to admin, or other players</li>
+<li>travelnet - teleporters</li>
+<li>treecapitator - digging bottom block harvests the whole trees</li></ul>
+<ul><li>wardrobe - change player-skin</li>
+<li>wiki - read news, tips&amp;advice</li></ul>
+<ul><li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?t=7239">areas</a> - area-protection</li>
+<li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?t=572">worldedit</a> + gui, handle_schematics - map-maintainance</li></ul>
+<ul><li><a href="/Pipeworks" class="mw-redirect" title="Pipeworks">Pipeworks</a> - pipes &amp; tubes for moving and processing stuff</li>
+<li><a href="/Mesecons" class="mw-redirect" title="Mesecons">mesecons</a> - electricity (kind-of), signals, logic, automation</li>
+<li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=11&amp;t=5263">digilines</a> (<a rel="nofollow" class="external text" href="https://github.com/minetest-mods/digilines">github</a>)</li></ul>
+<h2><span class="mw-headline" id="Map">Map</span></h2>
+<p>A short overview about this world.
+</p>
+<ul><li>Spawn    - wiki, and starting location for balloons. Some shops nearby.</li></ul>
+<p>Location: -933,31,1283
+</p><p>Start-area, with some shops and traders nearby.
+Also free food at several public beehives.
+</p><p>Note the travel-agency (-972,31,1266), xeno-travel (-967,32,1230),
+and old man (x,31,y), which offer transfer to several travelnet-stations.
+</p>
+<ul><li>Oldspawn - A small cafe with the Swiss-flag-monument nearby.</li></ul>
+<p>Location: 1249,4,190
+</p>
+<h3><span class="mw-headline" id="General">General</span></h3>
+<p>Hunger:
+</p>
+<ul><li>This mod makes players hungry over time</li>
+<li>Watch the food-bar next to the health-bar, and refill with food:
+<ul><li>apples, brown mushrooms - standard food</li>
+<li>honey from beehives</li>
+<li>cooked meat</li>
+<li>fruits + farmed food (eg. wheat --&gt; flour --&gt; bread)</li>
+<li>Animals often leave meat on the ground when they die</li></ul></li></ul>
+<p>Mobs:
+</p>
+<ul><li>Get a sword to defeat common monsters, and for hunting.</li>
+<li>Carry some food, to help restore health.</li></ul>
+<p>...
+</p>
+<h3><span class="mw-headline" id="Pipeworks">Pipeworks</span></h3>
+<p>Some players have built nice devices with pipeworks.
+...
+</p><p><br />
+References;
+</p>
+<ul><li><a rel="nofollow" class="external free" href="http://mesecons.net/digilines.html">http://mesecons.net/digilines.html</a></li></ul>
+<p>...
+</p>
+<h3><span class="mw-headline" id="Other">Other</span></h3>
+<ul><li><a rel="nofollow" class="external text" href="http://forum.minetest.net/viewtopic.php?id=2155">pipeworks</a></li>
+<li>...</li></ul>
+<!-- 
+NewPP limit report
+Cached time: 20230709185247
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.193 seconds
+Real time usage: 0.394 seconds
+Preprocessor visited node count: 74/1000000
+Post‐expand include size: 1206/2097152 bytes
+Template argument size: 125/2097152 bytes
+Highest expansion depth: 4/40
+Expensive parser function count: 1/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.130/7 seconds
+Lua virtual size: 5.67 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  311.626      1 Template:Server_Data
+100.00%  311.626      1 -total
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:4782-0!canonical and timestamp 20230709185247 and revision id 23442
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Swiss-Survival-Server&amp;oldid=23442">http://wiki.minetest.net/index.php?title=Swiss-Survival-Server&amp;oldid=23442</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/index.php?title=Category:Pages_with_ignored_display_titles&amp;action=edit&amp;redlink=1" class="new" title="Category:Pages with ignored display titles (page does not exist)">Pages with ignored display titles</a></li><li><a href="/Category:Notable_Servers" title="Category:Notable Servers">Notable Servers</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Swiss-Survival-Server" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Swiss-Survival-Server" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Swiss-Survival-Server&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Swiss-Survival-Server">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Swiss-Survival-Server&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Swiss-Survival-Server&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Swiss-Survival-Server" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Swiss-Survival-Server" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Swiss-Survival-Server&amp;oldid=23442" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Swiss-Survival-Server&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 9 November 2019, at 04:43.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.193","walltime":"0.394","ppvisitednodes":{"value":74,"limit":1000000},"postexpandincludesize":{"value":1206,"limit":2097152},"templateargumentsize":{"value":125,"limit":2097152},"expansiondepth":{"value":4,"limit":40},"expensivefunctioncount":{"value":1,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  311.626      1 Template:Server_Data","100.00%  311.626      1 -total"]},"scribunto":{"limitreport-timeusage":{"value":"0.130","limit":"7"},"limitreport-virtmemusage":{"value":5943296,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709185247","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":711});});</script></body></html>

@@ -1,0 +1,312 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Item stack/ms - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"b18b7d2d0c1301d7ce248444","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Item_stack/ms","wgTitle":"Item stack/ms","wgCurRevisionId":27645,"wgRevisionId":27645,"wgArticleId":3371,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages","GUI","Gameplay","Malay"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Item_stack/ms","wgRelevantArticleId":3371,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready",
+"noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Item_stack_ms rootpage-Item_stack skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Item stack/ms</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/Item_stack" title="Item stack">Item stack</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> Bahasa:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><a href="/Item_stack" title="Item stack">English</a>&#160;• <bdi lang="de"><a href="/Item_stack/de" title="Item stack/de">Deutsch</a></bdi>&#160;• <bdi lang="fr"><a href="/Item_stack/fr" title="Item stack/fr">français</a></bdi>&#160;• <bdi lang="hu"><a href="/Item_stack/hu" title="Item stack/hu">magyar</a></bdi><b>&#160;• <bdi lang="ms"><a class="mw-selflink selflink">Bahasa Melayu</a></bdi></b></td>
+</tr></tbody></table>
+<p><b>Tindanan item</b> (<a href="/Help:Original_names/ms" title="Help:Original names/ms">BI</a>:&#160;<i>item stack</i>) merupakan koleksi pelbagai <a href="/Items/ms" class="mw-redirect" title="Items/ms">item</a> daripada jenis yang sama. Semua jenis item mempunyai had tindanan, ianya mustahil untuk menindan mana-mana item melebihi had tindanan.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Kemunculan"><span class="tocnumber">1</span> <span class="toctext">Kemunculan</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Dalam_inventori"><span class="tocnumber">1.1</span> <span class="toctext">Dalam inventori</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Dalam_dunia"><span class="tocnumber">1.2</span> <span class="toctext">Dalam dunia</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Tindanan_item_dalam_Minetest_Game"><span class="tocnumber">2</span> <span class="toctext">Tindanan item dalam Minetest Game</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Tindanan_item_dalam_subpermainan_lain"><span class="tocnumber">3</span> <span class="toctext">Tindanan item dalam subpermainan lain</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Kemunculan">Kemunculan</span></h2>
+<p>Tindanan item boleh disimpan di dalam <a href="/index.php?title=Inventory/ms&amp;action=edit&amp;redlink=1" class="new" title="Inventory/ms (page does not exist)">inventori</a> dan boleh juga muncul dalam dunia itu sendiri.
+</p>
+<h3><span class="mw-headline" id="Dalam_inventori">Dalam inventori</span></h3>
+<p>Dalam inventori, tindanan item dilambangkan dengan sebuah ikon dan ada kalanya mempunyai nombor. Nombor tersebut menunjukkan saiz tindanan item. Sekiranya tiada nombor, saiznya ialah 1. Sila rujuk <a href="/index.php?title=Inventory/ms&amp;action=edit&amp;redlink=1" class="new" title="Inventory/ms (page does not exist)">kawalan inventori</a> untuk arahan penggunaan tindanan item di dalam inventori.
+</p>
+<h3><span class="mw-headline" id="Dalam_dunia">Dalam dunia</span></h3>
+<table class="wikitable" width="200px" style="float:right;text-align:left;margin:0 0 0.5em 1em;padding:5px;font-size:90%;position:relative;clear:right;overflow:auto;z-index:1">
+
+<tbody><tr>
+<th colspan="2" style="font-size:110%;text-align:center">Tindanan item yang dijatuhkan
+</th></tr>
+<tr>
+<th colspan="2"><div class="center"><a href="/File:Item_entity.png" class="image"><img alt="Item entity.png" src="/images/2/2c/Item_entity.png" decoding="async" width="150" height="150" /></a></div>
+</th></tr>
+<tr>
+<th colspan="2" align="center">Sebuah <a href="/Objects/ms" title="Objects/ms">objek</a> dalam <a href="/Minetest" title="Minetest">Minetest</a>
+</th></tr>
+<tr>
+<td><b>Mata Kesihatan</b>
+</td>
+<td>∞
+</td></tr>
+<tr>
+<td><b>Perlanggaran <a href="/Objects/ms" title="Objects/ms">Objek</a></b>
+</td>
+<td>Tidak
+</td></tr>
+<tr>
+<td><b>Perlanggaran <a href="/Blocks/ms" class="mw-redirect" title="Blocks/ms">Blok</a></b>
+</td>
+<td>Ya
+</td></tr>
+<tr>
+<td><b><a href="/List_of_entity_names/ms" title="List of entity names/ms">Rentetan Entiti</a></b>
+</td>
+<td>__builtin:item
+</td></tr></tbody></table>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/File:Item_stacks_in_the_world.png" class="image"><img alt="" src="/images/thumb/1/10/Item_stacks_in_the_world.png/250px-Item_stacks_in_the_world.png" decoding="async" width="250" height="172" class="thumbimage" srcset="/images/thumb/1/10/Item_stacks_in_the_world.png/375px-Item_stacks_in_the_world.png 1.5x, /images/thumb/1/10/Item_stacks_in_the_world.png/500px-Item_stacks_in_the_world.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Item_stacks_in_the_world.png" class="internal" title="Enlarge"></a></div>Beberapa tindanan item yang dijatuhkan</div></div></div>
+<p>Tindanan item muncul dalam dunia sebagai <a href="/Objects/ms" title="Objects/ms">objek</a>. Mereka dilambangkan sebagai simbol sesuatu. Untuk blok, simbolnya ialah item versi-mini yang berputar. Benda lain diwakilkan dengan ikon inventori mereka.
+</p><p>Dalam dunia, sebarang item yang dijatuhkan akan muncul sebagai satu objek walaupun tindanannya bersaiz 99. Namun tindanan item dengan saiz tindanan yang lebih besar akan kelihatan lebih besar daripada tindanan item dengan saiz tindanan yang lebih kecil.
+</p><p>Sebuah tindanan item boleh dikutip dengan <a href="/index.php?title=Punching/ms&amp;action=edit&amp;redlink=1" class="new" title="Punching/ms (page does not exist)">mengetuk</a> ia.
+</p><p>Tindanan item bergantung kepada graviti. Jika banyak tindanan item daripada jenis item yang sama jatuh ke kedudukan blok yang sama, mereka akan bergabung menjadi satu objek selagi mana had tindanan belum sampai. Tindanan item yang dijatuhkan mempunyai jangka hayat. Jika mereka kekal dalam dunia terlalu lama, mereka akan hilang. Jangka hayat boleh diubah melalui fail <a href="/index.php?title=Minetest.conf/ms&amp;action=edit&amp;redlink=1" class="new" title="Minetest.conf/ms (page does not exist)">minetest.conf</a> menggunakan nilai <code>item_entity_ttl</code>.
+</p><p>Tindanan item yang dijatuhkan boleh muncul untuk pelbagai sebab termasuklah:
+</p>
+<ul><li>Seseorang pemain menjatuhkan mereka (aduh!)</li>
+<li>Seseorang pemain menggali blok tetapi tidak ada ruang dalam inventorinya</li>
+<li>Sesetengah <a href="/Mobs/ms" title="Mobs/ms">mob</a> mati</li>
+<li>(acara lain juga boleh jadi)</li></ul>
+<h2><span class="mw-headline" id="Tindanan_item_dalam_Minetest_Game">Tindanan item dalam <a href="/Games/Minetest_Game/ms" title="Games/Minetest Game/ms">Minetest Game</a></span></h2>
+<p>Semua alatan dan senjata mempunyai had tindanan bersaiz 1. Semua item yang lain mempunyai had tindanan bersaiz 99.
+</p><p>Tindanan item yang dijatuhkan yang bersifat mudah terbakar akan musnah menjadi kepulan asap sekiranya mereka dibiarkan di dalam <a href="/Lava/ms" title="Lava/ms">lava</a> atau <a href="/index.php?title=Fire/ms&amp;action=edit&amp;redlink=1" class="new" title="Fire/ms (page does not exist)">api</a> terlalu lama. Item yang bersifat tidak mudah terbakar pula akan selamat.
+</p>
+<h2><span class="mw-headline" id="Tindanan_item_dalam_subpermainan_lain">Tindanan item dalam <a href="/Games/ms" title="Games/ms">subpermainan</a> lain</span></h2>
+<p>Permainan-permainan lain boleh menetapkan had tindanan secara bebas untuk semua item.
+</p><p>Kebanyakannya juga mengubah secara sepenuhnya perlakuan tindanan item yang dijatuhkan. Beberapa perubahan umum termasuklah:
+</p>
+<ul><li>Magnet item (<i>item magnet</i>): Apabila pemain berdiri dekat dengan item yang dijatuhkan, ia tertarik kepada anda seperti magnet dan item tersebut akan dikutip secara automatik. Tidak perlu mengetuk untuk mengutip item</li>
+<li>Arus air (<i>water flow</i>): Item-item yang dijatuhkan akan bergerak mengikut arus <a href="/Water/ms" title="Water/ms">air</a></li>
+<li>Pemusnahan (<i>destruction</i>): Semua item akan musnah sekiranya mereka tersentuh lava atau api</li></ul>
+<!-- 
+NewPP limit report
+Cached time: 20230709152156
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.248 seconds
+Real time usage: 0.519 seconds
+Preprocessor visited node count: 137/1000000
+Post‐expand include size: 3152/2097152 bytes
+Template argument size: 439/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 14/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.160/7 seconds
+Lua virtual size: 5.95 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  422.171      1 -total
+ 71.70%  302.698      1 Template:Languages
+ 25.35%  107.035      1 Template:Object_Data/ms
+  2.75%   11.611      1 Template:Original_names/ms
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:3371-0!canonical and timestamp 20230709152155 and revision id 27645
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Item_stack/ms&amp;oldid=27645">http://wiki.minetest.net/index.php?title=Item_stack/ms&amp;oldid=27645</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li><li><a href="/Category:GUI" title="Category:GUI">GUI</a></li><li><a href="/Category:Gameplay" title="Category:Gameplay">Gameplay</a></li><li><a href="/Category:Malay" title="Category:Malay">Malay</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Item+stack%2Fms" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Item_stack/ms" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Item_stack/ms&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Item_stack/ms">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Item_stack/ms&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Item_stack/ms&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Item_stack/ms" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Item_stack/ms" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Item_stack/ms&amp;oldid=27645" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Item_stack/ms&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 29 January 2023, at 14:16.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.248","walltime":"0.519","ppvisitednodes":{"value":137,"limit":1000000},"postexpandincludesize":{"value":3152,"limit":2097152},"templateargumentsize":{"value":439,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":14,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  422.171      1 -total"," 71.70%  302.698      1 Template:Languages"," 25.35%  107.035      1 Template:Object_Data/ms","  2.75%   11.611      1 Template:Original_names/ms"]},"scribunto":{"limitreport-timeusage":{"value":"0.160","limit":"7"},"limitreport-virtmemusage":{"value":6242304,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709152156","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":253});});</script></body></html>

@@ -1,0 +1,379 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Database backends/fr - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"02f1e3583a72d405a4221f1f","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Database_backends/fr","wgTitle":"Database backends/fr","wgCurRevisionId":25467,"wgRevisionId":25467,"wgArticleId":2136,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["French"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Database_backends/fr","wgRelevantArticleId":2136,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready"
+,"user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","jquery.tablesorter.styles":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=jquery.tablesorter.styles%7Cmediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Database_backends_fr rootpage-Database_backends skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Database backends/fr</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/Database_backends" title="Database backends">Database backends</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> Langue&#160;:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><a href="/Database_backends" title="Database backends">English</a><b>&#160;• <bdi lang="fr"><a class="mw-selflink selflink">français</a></bdi></b></td>
+</tr></tbody></table>
+<p>Un <i>backend de base de données</i> est une interface entre le serveur Minetest et la base de données. Il est chargé d'organiser, d'écrire (généralement sur le disque) et de lire les données concernant la carte. Ainsi, pour changer le format dans lequel est enregistré la map, il suffit de modifier le backend de base de données.
+</p><p>Minetest supporte plusieurs <i>backends de base de données</i>. Cette page fournit une comparaison des quatre backends (en fait 5, mais le backend <i>dummy</i> est généralement inutile).
+</p><p>Le backend de base de donnée est spécifié par le réglage <code>backend</code> dans le <i>world.mt</i>.
+</p><p>Si vous voulez changer le backend d'un monde (en convertissant le format de la carte), utilisez <code>minetestserver --migrate &lt;nom du nouveau backend&gt; --world &lt;chemin d'accès au dossier du monde&gt;</code>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Tableau_de_comparaison"><span class="tocnumber">1</span> <span class="toctext">Tableau de comparaison</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#SQLite3"><span class="tocnumber">1.1</span> <span class="toctext">SQLite3</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#LevelDB"><span class="tocnumber">1.2</span> <span class="toctext">LevelDB</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Redis"><span class="tocnumber">1.3</span> <span class="toctext">Redis</span></a>
+<ul>
+<li class="toclevel-3 tocsection-5"><a href="#R.C3.A9glages_du_world.mt_pour_Redis"><span class="tocnumber">1.3.1</span> <span class="toctext">Réglages du world.mt pour Redis</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-6"><a href="#PostgreSQL"><span class="tocnumber">1.4</span> <span class="toctext">PostgreSQL</span></a>
+<ul>
+<li class="toclevel-3 tocsection-7"><a href="#R.C3.A9glages_du_world.mt_pour_PostgreSQL"><span class="tocnumber">1.4.1</span> <span class="toctext">Réglages du world.mt pour PostgreSQL</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-8"><a href="#Dummy"><span class="tocnumber">1.5</span> <span class="toctext">Dummy</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Tableau_de_comparaison">Tableau de comparaison</span></h2>
+<table class="wikitable sortable" style="text-align: left; font-size: smaller">
+
+<tbody><tr>
+<th>Backend
+</th>
+<th>Rapidité
+</th>
+<th>Fiabilité
+</th>
+<th>Compatibilité avec les compilations
+</th></tr>
+<tr>
+<td>SQLite3
+</td>
+<td style="background-color: #FFB;">
+<p><b>Acceptable</b>
+</p>
+</td>
+<td style="background-color: #FFB;">
+<p><b>Acceptable</b> <i>(la BDD peut être corrompue si vous l'accédez alors qu'elle est ouverte par Minetest)</i>
+</p>
+</td>
+<td style="background-color: #9F9;">
+<p><b>Excellente</b> <i>(supporté par n'importe quelle version de Minetest)</i>
+</p>
+</td></tr>
+<tr>
+<td>LevelDB
+</td>
+<td style="background-color: #9F9;">
+<p><b>Bonne</b>
+</p>
+</td>
+<td style="background-color: #9F9;">
+<p><b>Bonne</b>
+</p>
+</td>
+<td style="background-color: #FFB;">
+<p><b>Supporté par la plupart des versions</b>
+</p>
+</td></tr>
+<tr>
+<td>Redis
+</td>
+<td style="background-color: #9EF;">
+<p><b>Excellente</b> <i>(la majorité des données est tout le temps consevée dans la RAM, attention aux cartes volumineuses)</i>
+</p>
+</td>
+<td style="background-color: #9F9;">
+<p><b>Bonne</b>
+</p>
+</td>
+<td style="background-color: #FAA;">
+<p><b>Mauvaise</b> <i>(nécessite un serveur Redis en fonctionnement permanent)</i>
+</p>
+</td></tr>
+<tr>
+<td>PostgreSQL
+</td>
+<td style="background-color: #9EF;">
+<p><b>Excellente</b> <i>(les données les plus souvent consultées sont en mémoire, les autres accessibles rapidement)</i>
+</p>
+</td>
+<td style="background-color: #9EF;">
+<p><b>Excellente</b>
+</p>
+</td>
+<td style="background-color: #FAA;">
+<p><b>Mauvaise</b> <i>(nécessite un serveur PostgreSQL en fonctionnement permanent)</i>
+</p>
+</td></tr>
+<tr>
+<td>Dummy
+</td>
+<td style="background-color: #9EF;">
+<p><b>Excellente</b> <i>(toutes les données sont conservées dans la RAM)</i>
+</p>
+</td>
+<td>
+<p><b>N/A</b> <i>(rien n'est stocké sur le disque)</i>
+</p>
+</td>
+<td>
+<p><b>N/A</b> <i>(rien n'est stocké sur le disque)</i>
+</p>
+</td></tr></tbody></table>
+<p>La colonne <i>Compatibilité avec les compilations</i> n'est utile pour vous que si vous souhaitez redistribuer votre monde.
+</p>
+<h3><span class="mw-headline" id="SQLite3">SQLite3</span></h3>
+<p>SQLite3 est le backend par defaut de tous les mondes Minetest, il est supporté par la totalité des versions de Minetest, et est par conséquent le format de base de donnée standard qui est utilisé pour redistribuer les mondes.
+</p>
+<h3><span class="mw-headline" id="LevelDB">LevelDB</span></h3>
+<p>LevelDB est le backend recommandé pour les serveurs, en raison de sa fiabilité améliorée et sa capacité d'utiliser plus de 4Go d'espace disque. Vous devrez l'installer en plus.
+</p>
+<h3><span class="mw-headline" id="Redis">Redis</span></h3>
+<p>Le support Redis fut ajouté à Minetest en avril 2014, il est principalement utile pour les serveurs car il permet à plusieurs mondes d'être stockés dans une même instance Redis. Vous devrez l'installer en plus (bibliothèque <i>libhiredis</i>).
+</p><p>Des informations pour mettre en place un serveur Redis peuvent être trouvées ici&#160;: <a rel="nofollow" class="external free" href="http://redis.io/topics/quickstart">http://redis.io/topics/quickstart</a>
+</p><p>On notera que le backend Redis peut être utilisé pour permettre à des programmes de s'interposer entre le système de fichiers et le serveur Minetest de manière transparente pour ce dernier (en communiquant avec le serveur Minetest avec un protocole Redis, et en inscrivant sur le disque les données dans un format standard). Ces programmes peuvent ainsi lire et traiter en temps réel les modifications dans la base de données. C'est ainsi que fonctionne, notamment, <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=14&amp;t=10278">le mapper MTSatellite</a>.
+</p>
+<h4><span id="Réglages_du_world.mt_pour_Redis"></span><span class="mw-headline" id="R.C3.A9glages_du_world.mt_pour_Redis">Réglages du world.mt pour Redis</span></h4>
+<p><code>redis_address</code> <b>--</b> L'adresse du serveur Redis (nom de domaine ou IP).
+</p><p><code>redis_port</code> <b>--</b> Le port du serveur Redis. <i>Optionnel, par défaut 6379</i>
+</p><p><code>redis_hash</code> <b>--</b> <i>Hash</i> dans lequel sont stockés les <i>MapBlocks</i>. Si vous voulez plusieurs mondes dans une seule instance Redis, il doit être différent pour chaque monde. Si vous n'en avez pas besoin, vous pouvez mettre <code>IGNORED</code>.
+</p>
+<h3><span class="mw-headline" id="PostgreSQL">PostgreSQL</span></h3>
+<p>Le support Postgresql fut ajouté à Minetest en mai 2016, il est principalement utile pour les serveurs car il permet à plusieurs mondes d'être stockés dans un même service PostgreSQL au sein de plusieurs bases de données.
+</p><p>PostgreSQL offre une excellente alternative à Redis. Il ne stocke pas toutes les données en mémoire, seules les données fréquentes y sont et le stockage des données PostgreSQL est extrêmement robuste. De plus vous pourrez interfacer facilement un site web sur votre base de données.
+</p><p>Bien que les versions anciennes de PostgreSQL soient supportées, il est recommandé d'utiliser une version 9.5 au minimum.
+</p><p>Pour avoir de meilleures performances du backend PostgreSQL avec vos serveurs Minetest, assurez vous de configurer le fichier postgresql.conf de PostgreSQL avec un minimum de 512MB pour son shared_buffer dans un maximum de 50% de la mémoire disponible sur votre machine.
+</p>
+<h4><span id="Réglages_du_world.mt_pour_PostgreSQL"></span><span class="mw-headline" id="R.C3.A9glages_du_world.mt_pour_PostgreSQL">Réglages du world.mt pour PostgreSQL</span></h4>
+<p><code>pgsql_connection</code> <b>--</b> Chaîne de connexion au serveur PostgreSQL | <i>host=&lt;db_host&gt; user=&lt;db_user&gt; password=&lt;db_password&gt; dbname=&lt;db_name&gt;</i>
+</p>
+<h3><span class="mw-headline" id="Dummy">Dummy</span></h3>
+<p>Un backend de base de données <i>dummy</i> (littéralement "mannequin") a été créé, qui enregistre tous les <i>MapBlocks</i> dans la RAM sans les inscrire sur le disque (ils ne seront pas conservés après l'arrêt du serveur) et qui sera sans doute parfaitement inutile pour vous. Il peut être utilisé par les développeurs pour effectuer des tests.
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20230709173559
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.189 seconds
+Real time usage: 0.541 seconds
+Preprocessor visited node count: 79/1000000
+Post‐expand include size: 1258/2097152 bytes
+Template argument size: 212/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 13/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.120/7 seconds
+Lua virtual size: 5.57 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  419.443      1 Template:Languages
+100.00%  419.443      1 -total
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:2136-0!canonical and timestamp 20230709173559 and revision id 25467
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Database_backends/fr&amp;oldid=25467">http://wiki.minetest.net/index.php?title=Database_backends/fr&amp;oldid=25467</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/Category:French" title="Category:French">French</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Database+backends%2Ffr" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Database_backends/fr" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Database_backends/fr&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Database_backends/fr">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Database_backends/fr&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Database_backends/fr&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Database_backends/fr" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Database_backends/fr" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Database_backends/fr&amp;oldid=25467" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Database_backends/fr&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 9 April 2021, at 20:37.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.189","walltime":"0.541","ppvisitednodes":{"value":79,"limit":1000000},"postexpandincludesize":{"value":1258,"limit":2097152},"templateargumentsize":{"value":212,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":13,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  419.443      1 Template:Languages","100.00%  419.443      1 -total"]},"scribunto":{"limitreport-timeusage":{"value":"0.120","limit":"7"},"limitreport-virtmemusage":{"value":5836800,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709173559","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":1010});});</script></body></html>

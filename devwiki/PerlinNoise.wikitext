@@ -1,0 +1,27 @@
+{{UnofficialLua}}
+A [http://en.wikipedia.org/wiki/Perlin_noise perlin noise] generator. Can be created either via <source enclose="none">PerlinNoise(seed, octaves, persistence, scale)</source> or <source enclose="none">minetest.get_perlin(seeddiff, octaves, persistence, scale)</source>.
+Note that [[PerlinNoiseMap]] works faster.
+<br/>
+
+== Methods ==
+* <source enclose="none">get2d(pos)</source> — 2d noise value at <source enclose="none">pos={x=,y=}</source>
+* <source enclose="none">get3d(pos)</source> — 3d noise value at <source enclose="none">pos={x=,y=,z=}</source>
+<br/>
+
+== Examples ==TODO
+<br/>
+
+== See also ==
+* [[PerlinNoiseMap]]
+* [[:Category:Mapgen]]
+<br/>
+
+== External Links ==
+* [https://forum.minetest.net/viewtopic.php?f=6&t=8157 Minetest forum thread: "minetest.get_perlin() and minetest.get_perlin_map() Return nil"]
+* [http://web.archive.org/web/20160305194643/http://freespace.virgin.net/hugo.elias/models/m_perlin.htm Explanation of perlin noise]
+* [http://webstaff.itn.liu.se/~stegu/simplexnoise/simplexnoise.pdf Explanation of perlin noise and simplex noise]
+* [https://forum.minetest.net/viewtopic.php?id=4032 Perlin noise values exceed [-1; 1]]
+* [https://forum.minetest.net/viewtopic.php?f=7&t=5146 Faster mapgen noises]
+<br/>
+
+[[Category:Objects]]

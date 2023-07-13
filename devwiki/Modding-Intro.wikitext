@@ -1,0 +1,41 @@
+Minetest has a scripting '''API''', which is used to program games and mods, creating whole new experiences or extending existing ones.
+
+The API is accessed using Lua, an easy-to-use programming language.
+Version 5.1 of Lua is used, but many people run LuaJIT for greater performance.
+
+The only thing you will need is ''basic'' programming knowledge.
+
+== Documentation ==
+
+=== Tutorials ===
+The [https://rubenwardy.com/minetest_modding_book/ Minetest Modding Book] is a friendly introduction to Minetest modding and game creation, introducing you to various aspects of the API.
+
+It is recommended you start here, even if you are already apt at programming, to get a good understanding of how Minetest mods work and are structured.
+
+=== Lua API Reference ===
+The official Lua API documentation is <code>lua_api.md</code>. It's available as [https://github.com/minetest/minetest/blob/master/doc/lua_api.md markdown] or [https://minetest.gitlab.io/minetest/ HTML]. You can find the plaintext version in your Minetest installation, in the <code>doc</code> directory.
+
+This is a concise description of the entire API, explaining functions, data structures, registration templates & more. The core developers of minetest maintain it, changes going through a quality control process.
+
+Any functions not listed here are subject to change and not guaranteed to be compatible across versions, though usually they are.
+
+=== The Minetest-Docs Project ===
+A work-in-progress project is underway to create new, more detailed, documentation. They can be read from its [https://github.com/minetest/minetest_docs/ GitHub repo], contributions are greatly appreciated.
+
+
+== Useful tools ==
+Here are some useful tools that most modders use when making Minetest mods:
+
+* [https://code.visualstudio.com/ Visual Studio Code]/[https://vscodium.com/ VSCodium], powerful code editor with a [https://marketplace.visualstudio.com/items?itemName=GreenXenith.minetest-tools Minetest extension] available for code completion.
+* [https://github.com/lunarmodules/luacheck luacheck], static analysis tool for Lua. See [https://rubenwardy.com/minetest_modding_book/en/quality/luacheck.html this modding book chapter] for more information on how to use it with Minetest.
+
+== Other useful links ==
+* Check out [https://content.minetest.net/ ContentDB] to see mods that have been published by the community.
+* Get mod help from the community:
+** [https://forum.minetest.net/viewforum.php?f=47 Forums]
+** [https://discord.gg/minetest Discord]
+** [https://matrix.to/#/#minetest:tchncs.de Matrix]
+** ...[https://www.minetest.net/get-involved/ more]
+* Suggest a mod idea in the [https://forum.minetest.net/viewtopic.php?f=9&t=2434 mod request thread].
+
+[[Category:Modding API]]

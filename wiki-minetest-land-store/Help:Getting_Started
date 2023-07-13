@@ -1,0 +1,337 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Getting Started - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"0e10021bf0380273fcba9c4d","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Getting_Started","wgTitle":"Getting Started","wgCurRevisionId":27533,"wgRevisionId":27533,"wgArticleId":4,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages","Tutorials"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Getting_Started","wgRelevantArticleId":4,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Help:Getting_Started",
+"wgInternalRedirectTargetUrl":"/Getting_Started"};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<link rel="canonical" href="http://wiki.minetest.net/Getting_Started"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Getting_Started rootpage-Getting_Started skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Getting Started</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="mw-redirectedfrom">(Redirected from <a href="/index.php?title=Help:Getting_Started&amp;redirect=no" class="mw-redirect" title="Help:Getting Started">Help:Getting Started</a>)</span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> Language:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><b><a class="mw-selflink selflink">English</a></b>&#160;• <bdi lang="de"><a href="/Getting_Started/de" title="Getting Started/de">Deutsch</a></bdi>&#160;• <bdi lang="fr"><a href="/Getting_Started/fr" title="Getting Started/fr">français</a></bdi>&#160;• <bdi lang="id"><a href="/Getting_Started/id" title="Getting Started/id">Bahasa Indonesia</a></bdi>&#160;• <bdi lang="ja"><a href="/Getting_Started/ja" title="Getting Started/ja">日本語</a></bdi>&#160;• <bdi lang="zh-hans"><a href="/Getting_Started/zh-hans" title="Getting Started/zh-hans">中文（简体）‎</a></bdi></td>
+</tr></tbody></table>
+<p>Welcome to <a href="/Minetest" title="Minetest">Minetest</a>! This page explains what Minetest is all about, how to get it, and how to start playing your first games alone or online.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#.E2.80.9CWhat_is_this_strange_.E2.80.98Minetest.E2.80.99_thing_I_keep_hearing_about.3F.E2.80.9D"><span class="tocnumber">1</span> <span class="toctext">“What is this strange ‘Minetest’ thing I keep hearing about?”</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Getting_Minetest"><span class="tocnumber">2</span> <span class="toctext">Getting Minetest</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Windows"><span class="tocnumber">2.1</span> <span class="toctext">Windows</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#macOS"><span class="tocnumber">2.2</span> <span class="toctext">macOS</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Linux"><span class="tocnumber">2.3</span> <span class="toctext">Linux</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Playing"><span class="tocnumber">3</span> <span class="toctext">Playing</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Play_Singleplayer"><span class="tocnumber">3.1</span> <span class="toctext">Play Singleplayer</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Play_Online"><span class="tocnumber">3.2</span> <span class="toctext">Play Online</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Basic_Controls"><span class="tocnumber">3.3</span> <span class="toctext">Basic Controls</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Gameplay"><span class="tocnumber">3.4</span> <span class="toctext">Gameplay</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+</ul>
+</div>
+
+<h2><span id="“What_is_this_strange_‘Minetest’_thing_I_keep_hearing_about?”"></span><span class="mw-headline" id=".E2.80.9CWhat_is_this_strange_.E2.80.98Minetest.E2.80.99_thing_I_keep_hearing_about.3F.E2.80.9D">“What is this strange ‘Minetest’ thing I keep hearing about?”</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/File:Coniferous_Forest_(Minetest_5.6.0_w-_shadows).png" class="image"><img alt="" src="/images/thumb/d/d6/Coniferous_Forest_%28Minetest_5.6.0_w-_shadows%29.png/300px-Coniferous_Forest_%28Minetest_5.6.0_w-_shadows%29.png" decoding="async" width="300" height="169" class="thumbimage" srcset="/images/thumb/d/d6/Coniferous_Forest_%28Minetest_5.6.0_w-_shadows%29.png/450px-Coniferous_Forest_%28Minetest_5.6.0_w-_shadows%29.png 1.5x, /images/thumb/d/d6/Coniferous_Forest_%28Minetest_5.6.0_w-_shadows%29.png/600px-Coniferous_Forest_%28Minetest_5.6.0_w-_shadows%29.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Coniferous_Forest_(Minetest_5.6.0_w-_shadows).png" class="internal" title="Enlarge"></a></div>Welcome to Minetest (Minetest Game, Coniferous Forest)</div></div></div>
+<ul><li><b><a href="/Minetest" title="Minetest">Minetest</a></b> is a platform on which you can play many <b>games</b> which are set in a <b>world entirely made out of blocks</b>, voxels.</li>
+<li>You can play <b>offline or online</b>, in singleplayer or multiplayer.</li>
+<li>Most games (but not all!) have a sandbox gameplay focused on construction, mining and creativity.</li>
+<li>The default game is <a href="/Games/Minetest_Game" title="Games/Minetest Game">Minetest Game</a>, but <b><a rel="nofollow" class="external text" href="https://content.minetest.net/packages/?type=game">there are many more</a></b>.</li>
+<li>You can install <b><a href="/Mods" title="Mods">mods</a> to modify</b> certain <b>aspects of gameplay</b>. Mods are an <b>inherent</b> part of Minetest, it is even what games consist of.</li>
+<li><b>Mods work out of the box when playing on <a href="/Server" title="Server">servers</a></b>, no additional installations required. Mods are server-side, everything is handled automatically.</li>
+<li>The name "Minetest" <i>only</i> refers to the game engine. The name "Minetest Game" <i>only</i> refers to the default game.</li></ul>
+<h2><span class="mw-headline" id="Getting_Minetest">Getting Minetest</span></h2>
+<h3><span class="mw-headline" id="Windows">Windows</span></h3>
+<ul><li><a rel="nofollow" class="external text" href="http://www.minetest.net/downloads/">Download Minetest</a>.
+<ul><li>The 64-bit build is extremely recommended. Always use this unless you are absolutely sure you're on an old machine that doesn't have a 64-bit processor.</li></ul></li>
+<li>Minetest on Windows is distributed in a portable archive. Extract it where you want, whether it be on your desktop, in your documents folder or in the root of your C: drive.
+<ul><li>Keep in mind you need write permissions to the folder. <b>Do NOT save to <code>C:\Program Files\</code> or similar, as it will cause problems (no write access).</b></li></ul></li>
+<li>To run Minetest, open the extracted directory and look for the <code>bin</code> (binary) directory. Inside the <code>bin</code> directory is the Minetest executable, <code>minetest.exe</code>.
+<ul><li>If you want a desktop shortcut or the like, just make create a shortcut to this executable.</li></ul></li></ul>
+<h3><span class="mw-headline" id="macOS">macOS</span></h3>
+<ul><li><a rel="nofollow" class="external text" href="http://minetest.net/download#macos">Download Minetest for macOS</a>. You can pick the official .app, Homebrew or the Macports version.</li></ul>
+<h3><span class="mw-headline" id="Linux">Linux</span></h3>
+<p>If you are on a distribution with up to date enough repositories, you can install Minetest from your package manager.
+</p><p>Otherwise it is recommended to obtain Minetest through other means, such as the <a rel="nofollow" class="external text" href="https://flathub.org/apps/details/net.minetest.Minetest">Flatpak package</a>.
+</p><p>If all else fails, you can build from source by cloning the engine repository and following the build instructions.
+</p><p>You can try to compile Minetest from the latest source on GitHub using this <a rel="nofollow" class="external text" href="http://forum.minetest.net/viewtopic.php?f=3&amp;t=3837">one-line script</a> for installing/compiling Minetest Git, for Debian / Ubuntu / Mint
+</p><p><br />
+</p>
+<h2><span class="mw-headline" id="Playing">Playing</span></h2>
+<p>Now that you have it installed you can either; play singleplayer, play on a local server or play online by connecting to a server.
+</p>
+<h3><span class="mw-headline" id="Play_Singleplayer">Play Singleplayer</span></h3>
+<p>When playing singleplayer, you should look at the games that are available. The default game that ships with Minetest, Minetest Game, is best played with mods and might not be particularly enjoyable in vanilla. You can browse the games that are available by pressing the "plus" icon in the gamebar.
+</p><p>To install mods or texture packs, go to the "Content" tab, press "Browse Online Content" and pick the type of package you want to browse. To enable a texture pack select it in the content tab, and to enable mods you have installed, you need to select the world you want to play with mods in, press "Select mods", and enable the wanted mods.
+</p><p>To play singleplayer, simply <b>create</b> a <a href="/World" class="mw-redirect" title="World">world</a>, select a <a href="/Map_generator" title="Map generator">map generator</a> (optional) and click <b>Play</b>. By default, you start in <a href="/Games/Minetest_Game" title="Games/Minetest Game">Minetest Game</a>. Read <a href="/How_to_build_your_first_house" title="How to build your first house">How to build your first house</a> for your first steps in Minetest Game.
+</p><p>There is the <a rel="nofollow" class="external text" href="https://content.minetest.net/packages/Wuzzy/tutorial/">Tutorial</a> game for an interactive introduction to common Minetest gameplay elements.
+</p>
+<h3><span class="mw-headline" id="Play_Online">Play Online</span></h3>
+<p>Joining multiplayers server is done in the "Join game" tab. To select a server, click on its name in the server list. If you know of a server from e.g. a friend that's not listed in the server list, you can manually input the address and port to the right.
+</p><p>When you are new to a server, you need to first register. Press the register button and input the username and password you want to use. Next time you log in with this username and password.
+</p><p><b>Accounts in Minetest are not centralised.</b> This means that accounts are stored on each server, rather than on a central server. You do not have to use the same username, but using different passwords are recommended (however servers cannot see your password, it is one-way hashed during transit). Some servers allow a blank password but using a password is strongly recommended to stop others stealing your player and causing damage. You can change your password by clicking 'change password' on pause menu (ESC).
+</p>
+<h3><span class="mw-headline" id="Basic_Controls">Basic Controls</span></h3>
+<p><i>Most of these can be changed in the “Change Keys” menu. For a more complete list of keyboard controls, see <a href="/Controls" title="Controls">Controls</a>.</i>
+</p><p>The default and most important controls are:
+</p>
+<ul><li><b>W/A/S/D</b>: move</li>
+<li><b>Space</b>: jump</li>
+<li><b>Left mouse button</b>: <a href="/Punching" title="Punching">Punch</a>, <a href="/Mining" title="Mining">mine</a> <a href="/Blocks" class="mw-redirect" title="Blocks">blocks</a>, move an <a href="/Item_stack" title="Item stack">item stack</a> in an <a href="/Inventory" title="Inventory">inventory</a></li>
+<li><b>Right mouse button</b>: <a href="/Using" title="Using">use</a> (e.g. open <a href="/Chest" title="Chest">chest</a> or <a href="/Furnace" title="Furnace">furnace</a>), <a href="/Building" title="Building">place</a> blocks, move one item or split items in an inventory</li>
+<li><b>Shift</b>+<b>Right mouse button</b>: place blocks</li>
+<li><b>Middle mouse button</b>: move 10 items in an inventory</li>
+<li><b>Mouse wheel</b>: select item in the <a href="/Hotbar" title="Hotbar">hotbar</a></li>
+<li><b>0</b>-<b>9</b>: select item in the hotbar</li>
+<li><b>Q</b>: drop block, item or tool in hand</li>
+<li><b>I</b>: open or close the <a href="/Inventory_menu" title="Inventory menu">inventory menu</a></li>
+<li><b>T</b>: open the <a href="/Chat_window" title="Chat window">chat window</a></li>
+<li><b>Shift</b>: descend on ladders or <a href="/Sneaking" title="Sneaking">sneak</a> (walk slower, prevents falling off ledges)</li></ul>
+<h3><span class="mw-headline" id="Gameplay">Gameplay</span></h3>
+<p>The common Minetest gameplay is taught in the <a rel="nofollow" class="external text" href="https://content.minetest.net/packages/Wuzzy/tutorial/">Tutorial</a> game which is aimed towards complete newbies, it can be installed from the content browser.
+</p><p>A very brief but outdated introduction into Minetest can be seen in <a rel="nofollow" class="external text" href="http://www.youtube.com/watch?v=cJMj8MiqjwI">this video</a>.
+</p><p>A quick-start guide for <a href="/Games/Minetest_Game" title="Games/Minetest Game">Minetest Game</a> can be found at <a href="/How_to_build_your_first_house" title="How to build your first house">How to build your first house</a>.
+</p><p>The following wiki pages explain some basic Minetest concepts more or less in-depth:
+</p>
+<ul><li><a href="/Inventory" title="Inventory">Inventory</a></li>
+<li><a href="/Tool" title="Tool">Tool</a></li>
+<li><a href="/Using" title="Using">Using</a></li>
+<li><a href="/Mining" title="Mining">Mining</a></li>
+<li><a href="/Building" title="Building">Building</a></li>
+<li><a href="/Crafting" title="Crafting">Crafting</a></li>
+<li><a href="/Smelting" class="mw-redirect" title="Smelting">Smelting</a></li></ul>
+<p>As soon as you grasped the basics, you may want to look up which <a href="/Blocks" class="mw-redirect" title="Blocks">blocks</a> and <a href="/Items" title="Items">items</a> are available and get an overview about <a href="/Farming" title="Farming">farming</a>. Just want to build? Try <a href="/Creative_mode" title="Creative mode">creative mode</a>! If you want more, consider trying new <a href="/Mods" title="Mods">mods</a> and <a href="/Games" title="Games">games</a>. If you want to play online, you should read the <a href="/Server#In_the_server" title="Server">gameplay notes for multiplayer servers</a>.
+</p><p><i>Advanced topics:</i>
+</p>
+<ul><li><a href="/Groups" title="Groups">Groups</a></li>
+<li><a href="/Liquid" title="Liquid">Liquid</a></li>
+<li><a href="/Light" title="Light">Light</a></li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<ul><li><a href="/Help:Advanced_Beginners_Guide" class="mw-redirect" title="Help:Advanced Beginners Guide">Help:Advanced Beginners Guide</a></li></ul>
+<!-- 
+NewPP limit report
+Cached time: 20230711165926
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.230 seconds
+Real time usage: 0.582 seconds
+Preprocessor visited node count: 137/1000000
+Post‐expand include size: 2156/2097152 bytes
+Template argument size: 493/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 14/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.130/7 seconds
+Lua virtual size: 5.55 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  404.864      1 Template:Languages
+100.00%  404.864      1 -total
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:4-0!canonical and timestamp 20230711165926 and revision id 27533
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Getting_Started&amp;oldid=27533">http://wiki.minetest.net/index.php?title=Getting_Started&amp;oldid=27533</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li><li><a href="/Category:Tutorials" title="Category:Tutorials">Tutorials</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Getting+Started" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Getting_Started" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk"><a href="/Talk:Getting_Started" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Getting_Started">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Getting_Started&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Getting_Started&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Getting_Started" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Getting_Started" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Getting_Started&amp;oldid=27533" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Getting_Started&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 22 January 2023, at 14:33.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.230","walltime":"0.582","ppvisitednodes":{"value":137,"limit":1000000},"postexpandincludesize":{"value":2156,"limit":2097152},"templateargumentsize":{"value":493,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":14,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  404.864      1 Template:Languages","100.00%  404.864      1 -total"]},"scribunto":{"limitreport-timeusage":{"value":"0.130","limit":"7"},"limitreport-virtmemusage":{"value":5820416,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230711165926","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":319});});</script></body></html>

@@ -1,0 +1,567 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>FAQ/uk - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"77a26cdff161ebdbb70e69f7","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"FAQ/uk","wgTitle":"FAQ/uk","wgCurRevisionId":27880,"wgRevisionId":27880,"wgArticleId":4241,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Ukrainian"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"FAQ/uk","wgRelevantArticleId":4241,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready",
+"user.options":"loading","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-FAQ_uk rootpage-FAQ skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">FAQ/uk</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/FAQ" title="FAQ">FAQ</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> Мова:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><a href="/FAQ" title="FAQ">English</a>&#160;• <bdi lang="es"><a href="/FAQ/es" title="FAQ/es">español</a></bdi>&#160;• <bdi lang="fr"><a href="/FAQ/fr" title="FAQ/fr">français</a></bdi>&#160;• <bdi lang="id"><a href="/FAQ/id" title="FAQ/id">Bahasa Indonesia</a></bdi>&#160;• <bdi lang="ja"><a href="/FAQ/ja" title="FAQ/ja">日本語</a></bdi>&#160;• <bdi lang="ms"><a href="/FAQ/ms" title="FAQ/ms">Bahasa Melayu</a></bdi><b>&#160;• <bdi lang="uk"><a class="mw-selflink selflink">українська</a></bdi></b>&#160;• <bdi lang="zh-hans"><a href="/FAQ/zh-hans" title="FAQ/zh-hans">中文（简体）‎</a></bdi></td>
+</tr></tbody></table>
+<p>Це збірка деяких <b>Частих запитань</b> (FAQ) про Minetest.
+</p><p><i>Якщо у вас технічні проблеми, подивіться <a href="/Troubleshooting" title="Troubleshooting">Вирішення проблем</a>.</i>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#.D0.97.D0.B0.D0.B3.D0.B0.D0.BB.D1.8C.D0.BD.D0.B5"><span class="tocnumber">1</span> <span class="toctext">Загальне</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#.D0.94.D0.B5_.D1.8F_.D0.BC.D0.BE.D0.B6.D1.83_.D0.B7.D0.B0.D0.B4.D0.B0.D1.82.D0.B8_.D0.BF.D0.B8.D1.82.D0.B0.D0.BD.D0.BD.D1.8F.3F"><span class="tocnumber">1.1</span> <span class="toctext">Де я можу задати питання?</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#.D0.AF.D0.BA_.D0.B2.D1.81.D1.82.D0.B0.D0.BD.D0.BE.D0.B2.D0.BB.D1.8E.D1.8E.D1.82.D1.8C.D1.81.D1.8F_.D1.96.D0.B3.D1.80.D0.B8.2C_.D0.BC.D0.BE.D0.B4.D0.B8.2C_.D0.BC.D0.B0.D0.BF.D0.B8_.D1.82.D0.B0_.D1.82.D0.B5.D0.BA.D1.81.D1.82.D1.83.D1.80.D0.BD.D1.96_.D0.BF.D0.B0.D0.BA.D0.B8.3F"><span class="tocnumber">1.2</span> <span class="toctext">Як встановлюються ігри, моди, мапи та текстурні паки?</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#.D0.9A.D0.BE.D0.BB.D0.B8_.D0.B1.D1.83.D0.B4.D0.B5_.D0.B2.D0.B8.D0.BF.D1.83.D1.89.D0.B5.D0.BD.D0.B0_.D0.BD.D0.B0.D1.81.D1.82.D1.83.D0.BF.D0.BD.D0.B0_.D0.B2.D0.B5.D1.80.D1.81.D1.96.D1.8F_Minetest_.2F_Minetest_Game.3F"><span class="tocnumber">1.3</span> <span class="toctext">Коли буде випущена наступна версія Minetest / Minetest Game?</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#.D0.AF.D0.BA_.D0.BC.D0.B5.D0.BD.D1.96_.D0.BE.D0.BD.D0.BE.D0.B2.D0.B8.D1.82.D0.B8_.D0.B2.D0.B5.D1.80.D1.81.D1.96.D1.8E_Minetest.3F"><span class="tocnumber">1.4</span> <span class="toctext">Як мені оновити версію Minetest?</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#.D0.A7.D0.B8.D0.BC_.D0.B2.D1.96.D0.B4.D1.80.D1.96.D0.B7.D0.BD.D1.8F.D1.8E.D1.82.D1.8C.D1.81.D1.8F_.D1.96.D0.B3.D1.80.D0.B8_.D1.96_.D1.8F.D0.BA_.D0.BC.D0.B5.D0.BD.D1.96_.D1.97.D1.85_.D1.81.D1.82.D0.B0.D0.B2.D0.B8.D1.82.D0.B8.3F"><span class="tocnumber">1.5</span> <span class="toctext">Чим відрізняються ігри і як мені їх ставити?</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#.D0.AF.D0.BA_.D0.BC.D0.B5.D0.BD.D1.96_.D0.BE.D1.82.D1.80.D0.B8.D0.BC.D0.B0.D1.82.D0.B8_.D0.BC.D1.83.D0.BB.D1.8C.D1.82.D0.B8.D0.BF.D0.BB.D0.B5.D1.94.D1.80.D0.BD.D0.B8.D0.B9_.D0.B0.D0.BA.D0.B0.D1.83.D0.BD.D1.82.3F"><span class="tocnumber">1.6</span> <span class="toctext">Як мені отримати мультиплеєрний акаунт?</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#.D0.AF.D0.BA_.D0.BC.D0.B5.D0.BD.D1.96_.D0.BE.D1.82.D1.80.D0.B8.D0.BC.D0.B0.D1.82.D0.B8_.D0.B0.D0.BA.D0.B0.D1.83.D0.BD.D1.82_.D0.BD.D0.B0_Minetest_Wiki.3F"><span class="tocnumber">1.7</span> <span class="toctext">Як мені отримати акаунт на Minetest Wiki?</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#.D0.A2.D0.B5.D1.80.D0.BC.D1.96.D0.BD.D0.BE.D0.BB.D0.BE.D0.B3.D1.96.D1.8F"><span class="tocnumber">2</span> <span class="toctext">Термінологія</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#.D0.A9.D0.BE_.D1.82.D0.B0.D0.BA.D0.B5:_Minetest.3F"><span class="tocnumber">2.1</span> <span class="toctext">Що таке: Minetest?</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#.D0.A9.D0.BE_.D1.82.D0.B0.D0.BA.D0.B5:_.D0.9C.D0.BE.D0.B4.3F"><span class="tocnumber">2.2</span> <span class="toctext">Що таке: Мод?</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#.D0.A9.D0.BE_.D1.82.D0.B0.D0.BA.D0.B5:_.D0.93.D1.80.D0.B0.3F"><span class="tocnumber">2.3</span> <span class="toctext">Що таке: Гра?</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#.D0.A9.D0.BE_.D1.82.D0.B0.D0.BA.D0.B5:_.D0.A2.D0.B5.D0.BA.D1.81.D1.82.D1.83.D1.80.D0.BD.D0.B8.D0.B9_.D0.BF.D0.B0.D0.BA.3F"><span class="tocnumber">2.4</span> <span class="toctext">Що таке: Текстурний пак?</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#.D0.A9.D0.BE_.D1.82.D0.B0.D0.BA.D0.B5:_.D0.9C.D0.BE.D0.B1.3F"><span class="tocnumber">2.5</span> <span class="toctext">Що таке: Моб?</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#.D0.A9.D0.BE_.D1.82.D0.B0.D0.BA.D0.B5:_.D0.A2.D0.B2.D0.BE.D1.80.D1.87.D0.B8.D0.B9_.D1.80.D0.B5.D0.B6.D0.B8.D0.BC.3F"><span class="tocnumber">2.6</span> <span class="toctext">Що таке: Творчий режим?</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#.D0.A9.D0.BE_.D1.82.D0.B0.D0.BA.D0.B5:_.D0.9C.D1.96.D0.BD.D1.96.D0.BC.D0.B0.D0.BF.D0.B0.3F"><span class="tocnumber">2.7</span> <span class="toctext">Що таке: Мінімапа?</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#.D0.A9.D0.BE_.D1.82.D0.B0.D0.BA.D0.B5:_.D0.A1.D0.B8.D0.BD.D0.B3.D0.BB.D0.BF.D0.BB.D0.B5.D1.94.D1.80_.D1.82.D0.B0_.D0.9C.D1.83.D0.BB.D1.8C.D1.82.D0.B8.D0.BF.D0.BB.D0.B5.D1.94.D1.80.3F"><span class="tocnumber">2.8</span> <span class="toctext">Що таке: Синглплеєр та Мультиплеєр?</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#.D0.A9.D0.BE_.D1.82.D0.B0.D0.BA.D0.B5:_.D0.A1.D0.B5.D1.80.D0.B2.D0.B5.D1.80.3F"><span class="tocnumber">2.9</span> <span class="toctext">Що таке: Сервер?</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#.D0.A9.D0.BE_.D1.82.D0.B0.D0.BA.D0.B5:_.D0.A7.D0.B0.D1.82.3F"><span class="tocnumber">2.10</span> <span class="toctext">Що таке: Чат?</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#.D0.A9.D0.BE_.D1.82.D0.B0.D0.BA.D0.B5:_.D0.9F.D1.80.D0.B8.D0.B2.D1.96.D0.BB.D0.B5.D1.97.3F"><span class="tocnumber">2.11</span> <span class="toctext">Що таке: Привілеї?</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-21"><a href="#.D0.A1.D0.B5.D1.80.D0.B2.D0.B5.D1.80.D0.B8"><span class="tocnumber">3</span> <span class="toctext">Сервери</span></a>
+<ul>
+<li class="toclevel-2 tocsection-22"><a href="#.D0.AF.D0.BA_.D0.BC.D0.B5.D0.BD.D1.96_.D0.BD.D0.B0.D0.BB.D0.B0.D1.88.D1.82.D1.83.D0.B2.D0.B0.D1.82.D0.B8_.D0.B2.D0.BB.D0.B0.D1.81.D0.BD.D0.B8.D0.B9_.D1.81.D0.B5.D1.80.D0.B2.D0.B5.D1.80.3F"><span class="tocnumber">3.1</span> <span class="toctext">Як мені налаштувати власний сервер?</span></a></li>
+<li class="toclevel-2 tocsection-23"><a href="#.D0.AF.D0.BA_.D0.BA.D0.BE.D1.80.D0.B8.D1.81.D1.82.D1.83.D0.B2.D0.B0.D1.82.D0.B8.D1.81.D1.8C_.D0.BA.D0.BE.D0.BC.D0.B0.D0.BD.D0.B4.D0.BE.D1.8E_.3C.D1.8F.D0.BA.D0.B0.D1.81.D1.8C_.D0.BA.D0.BE.D0.BC.D0.B0.D0.BD.D0.B4.D0.B0.3E.3F"><span class="tocnumber">3.2</span> <span class="toctext">Як користуватись командою &lt;якась_команда&gt;?</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-24"><a href="#.D0.93.D0.B5.D0.B9.D0.BC.D0.BF.D0.BB.D0.B5.D0.B9"><span class="tocnumber">4</span> <span class="toctext">Геймплей</span></a>
+<ul>
+<li class="toclevel-2 tocsection-25"><a href="#.D0.97.D0.B0.D0.B3.D0.B0.D0.BB.D1.8C.D0.BD.D0.B5_2"><span class="tocnumber">4.1</span> <span class="toctext">Загальне</span></a>
+<ul>
+<li class="toclevel-3 tocsection-26"><a href="#.D0.AF.D0.BA_.D0.BA.D0.B5.D1.80.D1.83.D0.B2.D0.B0.D1.82.D0.B8_.D0.B2_.D0.B3.D1.80.D1.96.3F"><span class="tocnumber">4.1.1</span> <span class="toctext">Як керувати в грі?</span></a></li>
+<li class="toclevel-3 tocsection-27"><a href="#.D0.9D.D0.B0.D1.81.D0.BA.D1.96.D0.BB.D1.8C.D0.BA.D0.B8_.D0.B2.D0.B5.D0.BB.D0.B8.D0.BA.D0.B8.D0.B9_.D1.81.D0.B2.D1.96.D1.82.3F"><span class="tocnumber">4.1.2</span> <span class="toctext">Наскільки великий світ?</span></a></li>
+<li class="toclevel-3 tocsection-28"><a href="#.D0.AF.D0.BA_.D0.BC.D0.B5.D0.BD.D1.96_.D0.B7.D0.BD.D0.BE.D0.B2_.D0.B7.D0.BD.D0.B0.D0.B9.D1.82.D0.B8_.D1.81.D0.B2.D1.96.D0.B9_.D0.B1.D1.83.D0.B4.D0.B8.D0.BD.D0.BE.D0.BA.3F"><span class="tocnumber">4.1.3</span> <span class="toctext">Як мені знов знайти свій будинок?</span></a></li>
+<li class="toclevel-3 tocsection-29"><a href="#.D0.AF.D0.BA_.D0.B7.D0.B0.D0.B4.D0.B0.D1.82.D0.B8_.D1.82.D0.BE.D1.87.D0.BA.D1.83_.D0.B2.D1.96.D0.B4.D0.BD.D0.BE.D0.B2.D0.BB.D0.B5.D0.BD.D0.BD.D1.8F_.28.D1.81.D0.BF.D0.B0.D1.83.D0.BD.29.3F"><span class="tocnumber">4.1.4</span> <span class="toctext">Як задати точку відновлення (спаун)?</span></a></li>
+<li class="toclevel-3 tocsection-30"><a href="#.D0.AF.D0.BA_.D0.BE.D1.82.D1.80.D0.B8.D0.BC.D0.B0.D1.82.D0.B8_.D0.BC.D0.BE.D0.B6.D0.BB.D0.B8.D0.B2.D1.96.D1.81.D1.82.D1.8C_.D0.BB.D1.96.D1.82.D0.B0.D1.82.D0.B8.3F"><span class="tocnumber">4.1.5</span> <span class="toctext">Як отримати можливість літати?</span></a></li>
+<li class="toclevel-3 tocsection-31"><a href="#.D0.A7.D0.B8_.D0.BC.D0.BE.D0.B6.D0.BD.D0.B0_.D0.BF.D0.B5.D1.80.D0.B5.D1.81.D1.83.D0.B2.D0.B0.D1.82.D0.B8.D1.81.D1.8C_.D1.88.D0.B2.D0.B8.D0.B4.D1.88.D0.B5.3F"><span class="tocnumber">4.1.6</span> <span class="toctext">Чи можна пересуватись швидше?</span></a></li>
+<li class="toclevel-3 tocsection-32"><a href="#.D0.A9.D0.BE_.D0.B7.D0.B0_.D0.BC.D0.BE.D0.B4.D0.B8_default.2C_wool.2C_fire_.D1.82.D0.B0_.D1.96.D0.BD.D1.88.D1.96.2C_.D1.8F.D0.BA.D0.B8.D1.85_.D0.BD.D0.B5.D0.BC.D0.B0.D1.94_.D0.B2_.D1.82.D0.B5.D1.86.D1.96_mods.3F"><span class="tocnumber">4.1.7</span> <span class="toctext">Що за моди default, wool, fire та інші, яких немає в теці mods?</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-33"><a href="#Minetest_Game"><span class="tocnumber">4.2</span> <span class="toctext">Minetest Game</span></a>
+<ul>
+<li class="toclevel-3 tocsection-34"><a href="#.D0.AF.D0.BA_.D0.BF.D1.80.D0.B0.D1.86.D1.8E.D1.94_.3C.D1.8F.D0.BA.D0.B8.D0.B9.D1.81.D1.8C_.D0.B1.D0.BB.D0.BE.D0.BA.3E_.D1.87.D0.B8_.3C.D1.8F.D0.BA.D0.B8.D0.B9.D1.81.D1.8C_.D0.BF.D1.80.D0.B5.D0.B4.D0.BC.D0.B5.D1.82.3E.3F"><span class="tocnumber">4.2.1</span> <span class="toctext">Як працює &lt;якийсь_блок&gt; чи &lt;якийсь_предмет&gt;?</span></a></li>
+<li class="toclevel-3 tocsection-35"><a href="#.D0.AF.D0.BA_.D1.81.D0.BA.D1.80.D0.B0.D1.84.D1.82.D0.B8.D1.82.D0.B8_.3C.D1.8F.D0.BA.D0.B8.D0.B9.D1.81.D1.8C_.D0.B1.D0.BB.D0.BE.D0.BA.3E_.D1.87.D0.B8_.3C.D1.8F.D0.BA.D0.B8.D0.B9.D1.81.D1.8C_.D0.BF.D1.80.D0.B5.D0.B4.D0.BC.D0.B5.D1.82.3E.3F"><span class="tocnumber">4.2.2</span> <span class="toctext">Як скрафтити &lt;якийсь_блок&gt; чи &lt;якийсь_предмет&gt;?</span></a></li>
+<li class="toclevel-3 tocsection-36"><a href="#.D0.AF.D0.BA_.D0.B2.D1.96.D0.B4.D1.87.D0.B8.D0.BD.D0.B8.D1.82.D0.B8_.D0.B4.D0.B2.D0.B5.D1.80.D1.96_.D1.87.D0.B8_.D1.81.D0.BA.D1.80.D0.B8.D0.BD.D1.8E.3F"><span class="tocnumber">4.2.3</span> <span class="toctext">Як відчинити двері чи скриню?</span></a></li>
+<li class="toclevel-3 tocsection-37"><a href="#.D0.90_.D0.B4.D0.B5_.D0.B2.D1.81.D1.96_.D0.BC.D0.BE.D0.B1.D0.B8.3F"><span class="tocnumber">4.2.4</span> <span class="toctext">А де всі моби?</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-38"><a href="#.D0.94.D0.BB.D1.8F_.D0.B3.D1.80.D0.B0.D0.B2.D1.86.D1.96.D0.B2_Minecraft"><span class="tocnumber">4.3</span> <span class="toctext">Для гравців Minecraft</span></a>
+<ul>
+<li class="toclevel-3 tocsection-39"><a href="#.D0.A7.D0.B8.D0.BC_.D0.B2.D1.96.D0.B4.D1.80.D1.96.D0.B7.D0.BD.D1.8F.D1.94.D1.82.D1.8C.D1.81.D1.8F_Minetest_.D0.B2.D1.96.D0.B4_Minecraft.3F"><span class="tocnumber">4.3.1</span> <span class="toctext">Чим відрізняється Minetest від Minecraft?</span></a></li>
+<li class="toclevel-3 tocsection-40"><a href="#.D0.A7.D0.B8_.D0.BC.D0.BE.D0.B6.D0.BD.D0.B0_.D1.89.D0.BE.D1.81.D1.8C_.D0.B7.D1.80.D0.BE.D0.B1.D0.B8.D1.82.D0.B8.2C_.D1.89.D0.BE.D0.B1_Minetest_.D0.B1.D1.83.D0.B2_.D0.B1.D1.96.D0.BB.D1.8C.D1.88.D0.B5_.D1.81.D1.85.D0.BE.D0.B6.D0.B8.D0.B9_.D0.BD.D0.B0_Minecraft.3F"><span class="tocnumber">4.3.2</span> <span class="toctext">Чи можна щось зробити, щоб Minetest був більше схожий на Minecraft?</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-41"><a href="#.D0.9C.D0.BE.D0.B4.D0.B8.D0.BD.D0.B3"><span class="tocnumber">5</span> <span class="toctext">Модинг</span></a></li>
+<li class="toclevel-1 tocsection-42"><a href="#.D0.A2.D0.B5.D1.85.D0.BD.D1.96.D1.87.D0.BD.D1.96_.D0.BF.D1.80.D0.BE.D0.B1.D0.BB.D0.B5.D0.BC.D0.B8"><span class="tocnumber">6</span> <span class="toctext">Технічні проблеми</span></a>
+<ul>
+<li class="toclevel-2 tocsection-43"><a href="#.D0.AF.D0.BA_.D0.BC.D0.BE.D0.B6.D0.BD.D0.B0_.D0.B7.D1.80.D0.BE.D0.B1.D0.B8.D1.82.D0.B8_.D0.B5.D0.BA.D1.80.D0.B0.D0.BD_.D1.81.D0.B2.D1.96.D1.82.D0.BB.D1.96.D1.88.D0.B8.D0.BC.3F"><span class="tocnumber">6.1</span> <span class="toctext">Як можна зробити екран світлішим?</span></a></li>
+<li class="toclevel-2 tocsection-44"><a href="#.D0.AF_.D0.BE.D1.82.D1.80.D0.B8.D0.BC.D0.B0.D0.B2_.D0.BF.D0.BE.D0.BF.D0.B5.D1.80.D0.B5.D0.B4.D0.B6.D0.B5.D0.BD.D0.BD.D1.8F_.D1.87.D0.B8_.D0.BF.D0.BE.D0.B2.D1.96.D0.B4.D0.BE.D0.BC.D0.BB.D0.B5.D0.BD.D0.BD.D1.8F_.D0.BF.D1.80.D0.BE_.D0.BF.D0.BE.D0.BC.D0.B8.D0.BB.D0.BA.D1.83.2C_.D1.8F.D0.BA_.D0.B4.D1.96.D0.B7.D0.BD.D0.B0.D1.82.D0.B8.D1.81.D1.8C_.D1.89.D0.BE_.D0.B2.D0.BE.D0.BD.D0.BE_.D0.BE.D0.B7.D0.BD.D0.B0.D1.87.D0.B0.D1.94.3F"><span class="tocnumber">6.2</span> <span class="toctext">Я отримав попередження чи повідомлення про помилку, як дізнатись що воно означає?</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span id="Загальне"></span><span class="mw-headline" id=".D0.97.D0.B0.D0.B3.D0.B0.D0.BB.D1.8C.D0.BD.D0.B5">Загальне</span></h2>
+<h3><span id="Де_я_можу_задати_питання?"></span><span class="mw-headline" id=".D0.94.D0.B5_.D1.8F_.D0.BC.D0.BE.D0.B6.D1.83_.D0.B7.D0.B0.D0.B4.D0.B0.D1.82.D0.B8_.D0.BF.D0.B8.D1.82.D0.B0.D0.BD.D0.BD.D1.8F.3F">Де я можу задати питання?</span></h3>
+<p>В <a rel="nofollow" class="external text" href="https://www.minetest.net/irc/">IRC</a> та на <a rel="nofollow" class="external text" href="https://forum.minetest.net/">Форумі</a> (перед цим продивіться архіви - є висока ймовірність того, що ваше питання вже висвітлено).
+</p>
+<h3><span id="Як_встановлюються_ігри,_моди,_мапи_та_текстурні_паки?"></span><span class="mw-headline" id=".D0.AF.D0.BA_.D0.B2.D1.81.D1.82.D0.B0.D0.BD.D0.BE.D0.B2.D0.BB.D1.8E.D1.8E.D1.82.D1.8C.D1.81.D1.8F_.D1.96.D0.B3.D1.80.D0.B8.2C_.D0.BC.D0.BE.D0.B4.D0.B8.2C_.D0.BC.D0.B0.D0.BF.D0.B8_.D1.82.D0.B0_.D1.82.D0.B5.D0.BA.D1.81.D1.82.D1.83.D1.80.D0.BD.D1.96_.D0.BF.D0.B0.D0.BA.D0.B8.3F">Як встановлюються ігри, моди, мапи та текстурні паки?</span></h3>
+<p>Дивіться відповідні розділи:
+<a href="/Games#Installing_games" title="Games">Встановлення Ігор</a>,
+<a href="/Installing_Mods" title="Installing Mods">Встановлення Модів</a>,
+<a href="/Maps#Installation" class="mw-redirect" title="Maps">Встановлення Мап</a> та
+<a href="/Texture_Packs#Installation" title="Texture Packs">Встановлення Текстурних паків</a>
+</p>
+<h3><span id="Коли_буде_випущена_наступна_версія_Minetest_/_Minetest_Game?"></span><span class="mw-headline" id=".D0.9A.D0.BE.D0.BB.D0.B8_.D0.B1.D1.83.D0.B4.D0.B5_.D0.B2.D0.B8.D0.BF.D1.83.D1.89.D0.B5.D0.BD.D0.B0_.D0.BD.D0.B0.D1.81.D1.82.D1.83.D0.BF.D0.BD.D0.B0_.D0.B2.D0.B5.D1.80.D1.81.D1.96.D1.8F_Minetest_.2F_Minetest_Game.3F">Коли буде випущена наступна версія Minetest / Minetest Game?</span></h3>
+<p>Пробачте, але ми самі не знаємо&#160;:)
+</p>
+<h3><span id="Як_мені_оновити_версію_Minetest?"></span><span class="mw-headline" id=".D0.AF.D0.BA_.D0.BC.D0.B5.D0.BD.D1.96_.D0.BE.D0.BD.D0.BE.D0.B2.D0.B8.D1.82.D0.B8_.D0.B2.D0.B5.D1.80.D1.81.D1.96.D1.8E_Minetest.3F">Як мені оновити версію Minetest?</span></h3>
+<p>Найпростіший спосіб, це просто завантажити новішу версію, розпакувати її десь поряд, та перенести на неї ваші світи, моди та конфігураційний файл.
+</p><p>Якщо ви використовуєте linux, можливо у вашому репозиторії вже знаходиться новіша версія і слід лиш оновити пакет minetest.
+</p><p>Якщо ви використовуєте git-версію, то оновивши її (git pull) та перекомпілювавши джерельники ви отримаєте найостаннішу git-версію.
+</p>
+<h3><span id="Чим_відрізняються_ігри_і_як_мені_їх_ставити?"></span><span class="mw-headline" id=".D0.A7.D0.B8.D0.BC_.D0.B2.D1.96.D0.B4.D1.80.D1.96.D0.B7.D0.BD.D1.8F.D1.8E.D1.82.D1.8C.D1.81.D1.8F_.D1.96.D0.B3.D1.80.D0.B8_.D1.96_.D1.8F.D0.BA_.D0.BC.D0.B5.D0.BD.D1.96_.D1.97.D1.85_.D1.81.D1.82.D0.B0.D0.B2.D0.B8.D1.82.D0.B8.3F">Чим відрізняються ігри і як мені їх ставити?</span></h3>
+<p>В базовій інсталяції ви повинні мати <a href="/Games/Minetest_Game" title="Games/Minetest Game">Minetest Game</a> (це гра за замовчанням), і якщо у вас її не має, завантажте її з <a rel="nofollow" class="external text" href="https://github.com/minetest/minetest_game">GitHub</a>.
+Також в базовій інсталяції присутня гра "Minimal development test", але вона не іграбельна та призначена для розробників.
+</p><p>Інші ігри ви можете знайти на форумі або в <a href="/List_of_Games" title="List of Games">списку ігор</a>.
+</p><p>Щоб поставити гру, розпакуйте її з архіву та перенесіть у теку "games" вашої інсталяції Minetest.
+Якщо у назві розпакованої теки з грою присутні додаткові дані окрім самої назви (на кшталт "-master", або дати) - приберіть їх з назви теки.
+Тобто тека з грою по замовчанню повинна називатись "minetest_game", а не "minetest_game-master" (приставка "-master" додається автоматично git-системою).
+</p><p><i>Детальніше дивіться на сторінці <a href="/Games" title="Games">Ігри</a>.</i>
+</p>
+<h3><span id="Як_мені_отримати_мультиплеєрний_акаунт?"></span><span class="mw-headline" id=".D0.AF.D0.BA_.D0.BC.D0.B5.D0.BD.D1.96_.D0.BE.D1.82.D1.80.D0.B8.D0.BC.D0.B0.D1.82.D0.B8_.D0.BC.D1.83.D0.BB.D1.8C.D1.82.D0.B8.D0.BF.D0.BB.D0.B5.D1.94.D1.80.D0.BD.D0.B8.D0.B9_.D0.B0.D0.BA.D0.B0.D1.83.D0.BD.D1.82.3F">Як мені отримати мультиплеєрний акаунт?</span></h3>
+<p>В Minetest немає глобальних онлайнових акаунтів, і на кожному сервері у вас може бути окремий акаунт.
+</p><p>Ваш акаунт буде створений на сервері автоматично при першому під'єднанні.
+Ваш пароль буде також збережений, і в наступні з'єднання під цим іменем ви зможете використовувати тільки ваш оригінальний пароль.
+Це означає, що ваш акаун вже існує та захищений паролем, і інші не зможуть отримати доступ до вашого гравця та його інвентаря (хіба що ви самі дасте їм пароль, але це надзвичайно не рекомендується робити).
+</p><p>Для того, щоб грати в Minetest наодинці ніякі логін та пароль не потрібні.
+</p><p><i>Слово "акаунт" означає "запис гравця", тобто це запис про вас на сервері (ваше ім'я, пароль, привілеї, інвентар, поточна позиція тощо).</i>
+</p>
+<h3><span id="Як_мені_отримати_акаунт_на_Minetest_Wiki?"></span><span class="mw-headline" id=".D0.AF.D0.BA_.D0.BC.D0.B5.D0.BD.D1.96_.D0.BE.D1.82.D1.80.D0.B8.D0.BC.D0.B0.D1.82.D0.B8_.D0.B0.D0.BA.D0.B0.D1.83.D0.BD.D1.82_.D0.BD.D0.B0_Minetest_Wiki.3F">Як мені отримати акаунт на Minetest Wiki?</span></h3>
+<p>Автоматичне отримання акаунтів на цій вікі вимкнуто через деякі технічні причини.
+Для отримання акаунта зробіть будь ласка запит <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=3&amp;t=10473">тут</a>.
+</p><p>Детальніше про цю вікі ви можете подивитись в розділі <a href="/Help:Contents" title="Help:Contents">Внесок</a>.
+</p>
+<h2><span id="Термінологія"></span><span class="mw-headline" id=".D0.A2.D0.B5.D1.80.D0.BC.D1.96.D0.BD.D0.BE.D0.BB.D0.BE.D0.B3.D1.96.D1.8F">Термінологія</span></h2>
+<h3><span id="Що_таке:_Minetest?"></span><span class="mw-headline" id=".D0.A9.D0.BE_.D1.82.D0.B0.D0.BA.D0.B5:_Minetest.3F">Що таке: Minetest?</span></h3>
+<p><i>Minetest</i> - це вільний ігровий двигун для ігор з заснованим на вокселях геймплеєм.
+</p><p>Minetest зазвичай поставляється з одною сандбокс-грою по замовчанню: <a href="/Games/Minetest_Game" title="Games/Minetest Game">Minetest Game</a>.
+</p><p><i>Детальніше дивіться на сторінці <a href="/Minetest/uk" title="Minetest/uk">Minetest</a>.</i>
+</p>
+<h3><span id="Що_таке:_Мод?"></span><span class="mw-headline" id=".D0.A9.D0.BE_.D1.82.D0.B0.D0.BA.D0.B5:_.D0.9C.D0.BE.D0.B4.3F">Що таке: Мод?</span></h3>
+<p><i>Мод</i> - це один логічний шматочок геймплею.
+В Minetest весь геймплей побудований на таких шматочках, і кожен мод в більшості випадків може працювати з іншими модами.
+Тож геймплей в Minetest - це зв'язка модів, і в залежності від того які це моди, геймплей може кардинально змінюватись.
+</p><p>Моди також можуть об'єднуватись в <i>модпаки</i> (збірки модів) - звичайні теки з модами, які також лежить в базовій теці "mods".
+Модпаки значно легше оновлювати, тому що не треба перевіряти кожен мод вручну.
+</p><p><i>Детальніше дивіться на сторінці <a href="/Mods" title="Mods">Моди</a>.</i>
+</p>
+<h3><span id="Що_таке:_Гра?"></span><span class="mw-headline" id=".D0.A9.D0.BE_.D1.82.D0.B0.D0.BA.D0.B5:_.D0.93.D1.80.D0.B0.3F">Що таке: Гра?</span></h3>
+<p><i>Гра</i> - це певна збірка модів, які явно збалансовані та підігнані один під оден.
+Гра дуже схожа на модпак, але лежить в теці "games".
+Також гра може мати власне оформлення в головному меню Minetest.
+</p><p>Щоб активувати гру після її встановлення, в головному меню на вкладці "Local Game" знизу натисніть по її іконці.
+Більшість ігор можна розширювати модами і самому, особливо якщо це базова гра Minetest Game (основна частина модів створюється саме під неї).
+Також майте на увазі, що всі ваші локальні світи прив'язані до якоїсь конкретної гри, і не будуть відображатись, якщо вона зараз не активна.
+</p><p><i>Детальніше дивіться на сторінці <a href="/Games" title="Games">Ігри</a>.</i>
+</p><p><i>В ранішніх версіях Minetest також використовувався термін subgame - це те ж саме що і game, або гра. Цей термін є застарілим.</i>
+</p>
+<h3><span id="Що_таке:_Текстурний_пак?"></span><span class="mw-headline" id=".D0.A9.D0.BE_.D1.82.D0.B0.D0.BA.D0.B5:_.D0.A2.D0.B5.D0.BA.D1.81.D1.82.D1.83.D1.80.D0.BD.D0.B8.D0.B9_.D0.BF.D0.B0.D0.BA.3F">Що таке: Текстурний пак?</span></h3>
+<p><i>Текстурний пак</i> - це колекція файлів, які представляють собою зображення для ігрових елементів (текстури).
+Текстурні паки мають призначення змінити зовнішній вигляд гри.
+Поруч з модами, це йще один механізм впливу на відчуття від геймплею.
+</p><p><i>Детальніше дивіться на сторінці <a href="/Texture_Packs" title="Texture Packs">Текстурні паки</a>.</i>
+</p>
+<h3><span id="Що_таке:_Моб?"></span><span class="mw-headline" id=".D0.A9.D0.BE_.D1.82.D0.B0.D0.BA.D0.B5:_.D0.9C.D0.BE.D0.B1.3F">Що таке: Моб?</span></h3>
+<p><i>Моби</i> - це неігрові персонажі (наприклад дружні тварини або ворожі монстри).
+На даний час моби не присутні в офіційній грі Minetest Game, але можуть бути додані через сторонні моди.
+</p><p><i>Детальніше дивіться на сторінці <a href="/Mobs" title="Mobs">Моби</a>.</i>
+</p>
+<h3><span id="Що_таке:_Творчий_режим?"></span><span class="mw-headline" id=".D0.A9.D0.BE_.D1.82.D0.B0.D0.BA.D0.B5:_.D0.A2.D0.B2.D0.BE.D1.80.D1.87.D0.B8.D0.B9_.D1.80.D0.B5.D0.B6.D0.B8.D0.BC.3F">Що таке: Творчий режим?</span></h3>
+<p><i>Творчий режим</i> - це спеціальний режим запуску ігрового світу, в якому сильно спрощуються правила.
+Вам відразу ж будуть доступні всі можливі об'єкти в грі та всі блоки можна буде брати відразу ж без спец-інструментів.
+Також є і інші відмінності в цьому режимі.
+</p><p><i>Детальніше дивіться на сторінці <a href="/Creative_mode" title="Creative mode">Творчий режим</a>.</i>
+</p>
+<h3><span id="Що_таке:_Мінімапа?"></span><span class="mw-headline" id=".D0.A9.D0.BE_.D1.82.D0.B0.D0.BA.D0.B5:_.D0.9C.D1.96.D0.BD.D1.96.D0.BC.D0.B0.D0.BF.D0.B0.3F">Що таке: Мінімапа?</span></h3>
+<p><i>Мінімапа</i> - це невеличка навігаційна мапа в правому верхньому кутку екрана, що значно полегшує пересування по місцевості.
+</p><p>За замовчанням вона вимкнута, щоб увімкнути її натисніть <i>F9</i>.
+</p><p><i>Замітка для гілки Minetest 0.5: в цій та наступних версіях мінімапа доступна зразу тільки в творчому режимі, в режимі виживання для неї спочатку треба скрафтити <a href="/Mapping_Kit" title="Mapping Kit">Картографічний набір</a>.</i>
+</p>
+<h3><span id="Що_таке:_Синглплеєр_та_Мультиплеєр?"></span><span class="mw-headline" id=".D0.A9.D0.BE_.D1.82.D0.B0.D0.BA.D0.B5:_.D0.A1.D0.B8.D0.BD.D0.B3.D0.BB.D0.BF.D0.BB.D0.B5.D1.94.D1.80_.D1.82.D0.B0_.D0.9C.D1.83.D0.BB.D1.8C.D1.82.D0.B8.D0.BF.D0.BB.D0.B5.D1.94.D1.80.3F">Що таке: Синглплеєр та Мультиплеєр?</span></h3>
+<p>Це два типи гри в Minetest.
+</p><p><i>Синглплеєр (singleplayer)</i> - це типи гри, коли ви граєте в світі що знаходиться на вашому комп'ютері.
+</p><p><i>Мультиплеєр (multiplayer)</i> - це типи гри, коли ви під'єднуєтесь до стороннього сервера та граєте по мережі з іншими гравцями.
+</p>
+<h3><span id="Що_таке:_Сервер?"></span><span class="mw-headline" id=".D0.A9.D0.BE_.D1.82.D0.B0.D0.BA.D0.B5:_.D0.A1.D0.B5.D1.80.D0.B2.D0.B5.D1.80.3F">Що таке: Сервер?</span></h3>
+<p><i>Сервер</i> - це зовнішній комп'ютер, на якому запущений Minetest в спеціальному режимі.
+Ви як гравець, можете під'єднати свій Minetest через головне меню "Play Online" до цього стороннього комп'ютера та грати по мережі разом з іншими гравцями.
+</p><p><i>Детальніше дивіться на сторінці <a href="/Server" title="Server">Сервер</a>.</i>
+</p>
+<h3><span id="Що_таке:_Чат?"></span><span class="mw-headline" id=".D0.A9.D0.BE_.D1.82.D0.B0.D0.BA.D0.B5:_.D0.A7.D0.B0.D1.82.3F">Що таке: Чат?</span></h3>
+<p><i>Чат</i> - це текстовий режим спілкування гравців на сервері між собою під час гри.
+</p><p>Якщо ви натиснете клавішу <i>T</i>, зверху екрана з'явиться <a href="/Console" title="Console">консоль</a>, в якій ви можете набрати якийсь текст та натиснути <i>Enter</i>.
+Після цього повідомлення від вашого імені з'явиться на екрані та буде видно всім присутнім на сервері гравцям.
+</p><p><i>Детальніше дивіться на сторінці <a href="/Chat" title="Chat">Чат</a>.</i>
+</p>
+<h3><span id="Що_таке:_Привілеї?"></span><span class="mw-headline" id=".D0.A9.D0.BE_.D1.82.D0.B0.D0.BA.D0.B5:_.D0.9F.D1.80.D0.B8.D0.B2.D1.96.D0.BB.D0.B5.D1.97.3F">Що таке: Привілеї?</span></h3>
+<p><i>Привілей</i> - це якась одна можливість, закріплена за гравцем.
+Наприклад, якщо у вас є привілей <i>interact</i>, ви можете добувати блоки та ставити блоки у світі.
+Якщо цього привілею немає, то вам будуть недоступні дії з блоками.
+</p><p>Всі гравці мають певні базові списки привілеїв.
+На серверах адміністратори вирішують самі, які привілеї давати всім зареєстрованим гравцям зразу, а які тільки при певних здобутках чи при інших умовах.
+</p><p>В Minetest привілеїв досить багато (наприклад є привілеї, що дозволять вам літати, або пересуватись із величезною швидкістю).
+Моди також досить часто додають якісь привілеї (наприклад гравець може отримати привілей ув'язненого, якщо він серйозно порушив правила сервера та потрапив у в'язницю).
+</p><p><i>Детальніше дивіться на сторінці <a href="/Privileges" title="Privileges">Привілеї</a>.</i>
+</p><p><i>"Адміністратор" - це особа, яка контролює ігровий сервер та піклується про нього.</i>
+</p>
+<h2><span id="Сервери"></span><span class="mw-headline" id=".D0.A1.D0.B5.D1.80.D0.B2.D0.B5.D1.80.D0.B8">Сервери</span></h2>
+<h3><span id="Як_мені_налаштувати_власний_сервер?"></span><span class="mw-headline" id=".D0.AF.D0.BA_.D0.BC.D0.B5.D0.BD.D1.96_.D0.BD.D0.B0.D0.BB.D0.B0.D1.88.D1.82.D1.83.D0.B2.D0.B0.D1.82.D0.B8_.D0.B2.D0.BB.D0.B0.D1.81.D0.BD.D0.B8.D0.B9_.D1.81.D0.B5.D1.80.D0.B2.D0.B5.D1.80.3F">Як мені налаштувати власний сервер?</span></h3>
+<p>Це може бути як досить простий процес, так і не дуже - це залежить від того, що саме ви збираєтесь робити.
+</p><p><i>Детальніше дивіться на сторінці <a href="/Setting_up_a_server" title="Setting up a server">Налаштування сервера</a>.</i>
+</p>
+<h3><span id="Як_користуватись_командою_&lt;якась_команда&gt;?"></span><span class="mw-headline" id=".D0.AF.D0.BA_.D0.BA.D0.BE.D1.80.D0.B8.D1.81.D1.82.D1.83.D0.B2.D0.B0.D1.82.D0.B8.D1.81.D1.8C_.D0.BA.D0.BE.D0.BC.D0.B0.D0.BD.D0.B4.D0.BE.D1.8E_.3C.D1.8F.D0.BA.D0.B0.D1.81.D1.8C_.D0.BA.D0.BE.D0.BC.D0.B0.D0.BD.D0.B4.D0.B0.3E.3F">Як користуватись командою &lt;якась_команда&gt;?</span></h3>
+<p>Синтаксис та опис команд дивіться в статті <a href="/Server_commands" title="Server commands">Серверні команди</a>.
+</p>
+<h2><span id="Геймплей"></span><span class="mw-headline" id=".D0.93.D0.B5.D0.B9.D0.BC.D0.BF.D0.BB.D0.B5.D0.B9">Геймплей</span></h2>
+<h3><span id="Загальне_2"></span><span class="mw-headline" id=".D0.97.D0.B0.D0.B3.D0.B0.D0.BB.D1.8C.D0.BD.D0.B5_2">Загальне</span></h3>
+<h4><span id="Як_керувати_в_грі?"></span><span class="mw-headline" id=".D0.AF.D0.BA_.D0.BA.D0.B5.D1.80.D1.83.D0.B2.D0.B0.D1.82.D0.B8_.D0.B2_.D0.B3.D1.80.D1.96.3F">Як керувати в грі?</span></h4>
+<p>Minetest використовує стандартну для переважної більшості 3д-ігор схему керування мишка-клавіатура.
+</p><p>На клавіатурі ваша ліва рука повинна бути на клавішах <i>W A S D</i>, а права на мишці.
+</p><p><i>Детальніше дивіться на сторінці <a href="/Controls" title="Controls">Керування</a>.</i>
+</p>
+<h4><span id="Наскільки_великий_світ?"></span><span class="mw-headline" id=".D0.9D.D0.B0.D1.81.D0.BA.D1.96.D0.BB.D1.8C.D0.BA.D0.B8_.D0.B2.D0.B5.D0.BB.D0.B8.D0.BA.D0.B8.D0.B9_.D1.81.D0.B2.D1.96.D1.82.3F">Наскільки великий світ?</span></h4>
+<p>Ігровий світ хоч і величезний, але все ж не безкінечний.
+З версії Minetest 0.4.10, світ є кубом з розміром кожної сторони в <i>61,840</i> <a href="/Blocks" class="mw-redirect" title="Blocks">блоків</a>.
+</p><p>Таким чином об'єм одного світу (61,840<sup>3</sup>) дорівнює 236,487,637,504,000 блоків.
+А діапазон координат простягається від -30912 до 30927 в усіх трьох вимірах.
+</p><p>Тож наприклад, ви можете прокопати шахту під землею глибиною майже в 31 км.
+</p><p><i>Детальніше дивіться на сторінках <a href="/Coordinates" title="Coordinates">Координати</a> та <a href="/World_boundaries" title="World boundaries">Межі світу</a>.</i>
+</p>
+<h4><span id="Як_мені_знов_знайти_свій_будинок?"></span><span class="mw-headline" id=".D0.AF.D0.BA_.D0.BC.D0.B5.D0.BD.D1.96_.D0.B7.D0.BD.D0.BE.D0.B2_.D0.B7.D0.BD.D0.B0.D0.B9.D1.82.D0.B8_.D1.81.D0.B2.D1.96.D0.B9_.D0.B1.D1.83.D0.B4.D0.B8.D0.BD.D0.BE.D0.BA.3F">Як мені знов знайти свій будинок?</span></h4>
+<p>Якщо ви граєте в Minetest Game, то можете зберегти будь-яку одну свою позицію як "домашню".
+</p><p>Для цього встаньте в місці, яке хочете зберегти та виконайте в консолі команду <i>/sethome</i>.
+Коли вам потрібно буде повернутись в це місце, виконайте команду <i>/home</i> - і ви миттю перенесетесь назад.
+Ви можете безліч разів перезаписувати "домашню" позицію.
+</p><p><i>Детальніше про команди дивіться на сторінках <a href="/Console" title="Console">Консоль</a> та <a href="/Server_commands" title="Server commands">Серверні команди</a>.</i>
+</p><p>Якщо ці команди не доступні, є інший спосіб, але він трохи складніший.
+</p><p>Minetest автоматично генерує файл відладки <i>debug.txt</i> (в теці minetest/bin на Windows або на GNU/Linux в тій же теці чи в теці ~/.minetest).
+В кінці цього швидше за все великого файлу ви можете побачити щось на зразок:
+</p>
+<pre>2018-05-02 23:32:16: ACTION[Server]: singleplayer digs default:snow at (70,3,2)
+</pre>
+<p>Це технічний запис події, що гравець <i>singleplayer</i> викопав блок <i>default:snow</i> по координаті <i>(70,3,2)</i>.
+І якщо з того часу як ви відправились у подорож та заблукали, ви не копали інших блоків (або зможете вирахувати, який саме блок був останнім біля вашого дому) ви можете використати ці координати щоб телепортуватись по ним.
+</p><p>Телепортуватись можна командою <i>/teleport 70,3,2</i> (тут замість прикладу вам слід підставити власні координати).
+Але майте на увазі, що можливість телепортування вимагає наявності <a href="/Privileges" title="Privileges">привілею</a> <i>teleport</i>.
+</p>
+<h4><span id="Як_задати_точку_відновлення_(спаун)?"></span><span class="mw-headline" id=".D0.AF.D0.BA_.D0.B7.D0.B0.D0.B4.D0.B0.D1.82.D0.B8_.D1.82.D0.BE.D1.87.D0.BA.D1.83_.D0.B2.D1.96.D0.B4.D0.BD.D0.BE.D0.B2.D0.BB.D0.B5.D0.BD.D0.BD.D1.8F_.28.D1.81.D0.BF.D0.B0.D1.83.D0.BD.29.3F">Як задати точку відновлення (спаун)?</span></h4>
+<p>Якщо ви граєте в Minetest Game, то використавши <a href="/Bed" title="Bed">ліжко</a> в перший раз ви цим автоматично задасте точку відновлення.
+Якщо ви з якихось причин втратите життя, то будете відновлені біля цього ліжка.
+</p><p>Також можна для цього використати один з доступних модів.
+</p><p><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?p=70904#p70904">Тут</a> є приклад скрипта, з якого можна самому зробити міні-мод.
+</p>
+<h4><span id="Як_отримати_можливість_літати?"></span><span class="mw-headline" id=".D0.AF.D0.BA_.D0.BE.D1.82.D1.80.D0.B8.D0.BC.D0.B0.D1.82.D0.B8_.D0.BC.D0.BE.D0.B6.D0.BB.D0.B8.D0.B2.D1.96.D1.81.D1.82.D1.8C_.D0.BB.D1.96.D1.82.D0.B0.D1.82.D0.B8.3F">Як отримати можливість літати?</span></h4>
+<p>Щоб мати змогу літати вам потрібен <a href="/Privileges" title="Privileges">привілей</a> <i>fly</i>.
+</p><p>Якщо ви граєте в синглплеєр, то можете скористатись <a href="/Server_commands" title="Server commands">командою</a> <i>/grantme fly</i> щоб дати собі цей привілей.
+</p><p>Якщо ви граєте на сервері, то команда <i>/grantme</i> швидше за все буде недоступною, так як вона б повністю порушила баланс.
+В такому випадку ви можете звернутись до того, хто має можливість надавати привілей <i>fly</i>.
+Але будьте готові, що ваше прохання буде відхилено (якщо за правилами сервера звичайні гравці не повинні мати такої надможливості).
+</p><p>Якщо ви вже маєте привілей <i>fly</i>, то щоб злетіти натисніть <i>K</i> та потім <i>Space</i> (клавіша для стрибка).
+Наступне натискання <i>K</i> вимкне режим польоту та поверне нормальний стан.
+</p><p><i>Детальніше про керування в режимі польоту дивіться на сторінці <a href="/Controls#Movement_modes" title="Controls">Керування/Режими пересування</a>.</i>
+</p>
+<h4><span id="Чи_можна_пересуватись_швидше?"></span><span class="mw-headline" id=".D0.A7.D0.B8_.D0.BC.D0.BE.D0.B6.D0.BD.D0.B0_.D0.BF.D0.B5.D1.80.D0.B5.D1.81.D1.83.D0.B2.D0.B0.D1.82.D0.B8.D1.81.D1.8C_.D1.88.D0.B2.D0.B8.D0.B4.D1.88.D0.B5.3F">Чи можна пересуватись швидше?</span></h4>
+<p>Так, є спеціальний режим пришвидшення, який також працює і для польоту.
+Так само як і політ, пришвидшення потребує спеціального привілею (<i>fast</i>).
+</p><p>Маючи привілей <i>fast</i> ви можете активувати режим пришвидшення клавішею <i>J</i>.
+І тепер коли ви пересуваєтесь, натисніть клавішу <i>E</i> щоб пришвидшитись.
+Повторне натискання <i>J</i> вимкне режим пришвидшення.
+</p><p><i>Детальніше про керування в режимі пришвидшення дивіться на сторінці <a href="/Controls#Movement_modes" title="Controls">Керування/Режими пересування</a>.</i>
+</p>
+<h4><span id="Що_за_моди_default,_wool,_fire_та_інші,_яких_немає_в_теці_mods?"></span><span class="mw-headline" id=".D0.A9.D0.BE_.D0.B7.D0.B0_.D0.BC.D0.BE.D0.B4.D0.B8_default.2C_wool.2C_fire_.D1.82.D0.B0_.D1.96.D0.BD.D1.88.D1.96.2C_.D1.8F.D0.BA.D0.B8.D1.85_.D0.BD.D0.B5.D0.BC.D0.B0.D1.94_.D0.B2_.D1.82.D0.B5.D1.86.D1.96_mods.3F">Що за моди default, wool, fire та інші, яких немає в теці mods?</span></h4>
+<p>Це все моди, які є складовою базової гри Minetest Game.
+Якщо потрібні вам моди мають залежність від вищезгаданих модів, це означає що ви маєте використовувати саме гру Minetest Game.
+</p>
+<h3><span class="mw-headline" id="Minetest_Game">Minetest Game</span></h3>
+<h4><span id="Як_працює_&lt;якийсь_блок&gt;_чи_&lt;якийсь_предмет&gt;?"></span><span class="mw-headline" id=".D0.AF.D0.BA_.D0.BF.D1.80.D0.B0.D1.86.D1.8E.D1.94_.3C.D1.8F.D0.BA.D0.B8.D0.B9.D1.81.D1.8C_.D0.B1.D0.BB.D0.BE.D0.BA.3E_.D1.87.D0.B8_.3C.D1.8F.D0.BA.D0.B8.D0.B9.D1.81.D1.8C_.D0.BF.D1.80.D0.B5.D0.B4.D0.BC.D0.B5.D1.82.3E.3F">Як працює &lt;якийсь_блок&gt; чи &lt;якийсь_предмет&gt;?</span></h4>
+<p>Якщо вам потрібна інформація про певний блок - дивіться статтю <a href="/Blocks" class="mw-redirect" title="Blocks">Блоки</a>
+</p><p>Якщо вам потрібна інформація про певний предмет, інструмент, зброю, або щось інше - дивіться статтю <a href="/Items" title="Items">Предмети</a>.
+</p>
+<h4><span id="Як_скрафтити_&lt;якийсь_блок&gt;_чи_&lt;якийсь_предмет&gt;?"></span><span class="mw-headline" id=".D0.AF.D0.BA_.D1.81.D0.BA.D1.80.D0.B0.D1.84.D1.82.D0.B8.D1.82.D0.B8_.3C.D1.8F.D0.BA.D0.B8.D0.B9.D1.81.D1.8C_.D0.B1.D0.BB.D0.BE.D0.BA.3E_.D1.87.D0.B8_.3C.D1.8F.D0.BA.D0.B8.D0.B9.D1.81.D1.8C_.D0.BF.D1.80.D0.B5.D0.B4.D0.BC.D0.B5.D1.82.3E.3F">Як скрафтити &lt;якийсь_блок&gt; чи &lt;якийсь_предмет&gt;?</span></h4>
+<p>Знайдіть відповідну статтю по потрібному вам <a href="/Blocks" class="mw-redirect" title="Blocks">блоку</a> чи <a href="/Items" title="Items">предмету</a>, та подивіться розділ Крафтинг.
+</p><p>Також є моди, що додають до ігрового інтерфейсу спеціальний <a href="/Crafting_guide" title="Crafting guide">Вказівник по крафтингу</a>.
+З ним ви можете отримувати потрібні вам рецепти прямо у грі.
+</p><p>Майте на увазі, що деякі блоки чи предмети неможливо скрафтити - їх можна тільки знайти у світі або отримати якимось іншим шляхом.
+Інформація про це буде у відповідній статті.
+</p>
+<h4><span id="Як_відчинити_двері_чи_скриню?"></span><span class="mw-headline" id=".D0.AF.D0.BA_.D0.B2.D1.96.D0.B4.D1.87.D0.B8.D0.BD.D0.B8.D1.82.D0.B8_.D0.B4.D0.B2.D0.B5.D1.80.D1.96_.D1.87.D0.B8_.D1.81.D0.BA.D1.80.D0.B8.D0.BD.D1.8E.3F">Як відчинити двері чи скриню?</span></h4>
+<p>Вам потрібно "використати" об'єкт, для цього слугує <i>права кнопка миші</i>.
+</p><p><i>Детальніше дивіться на сторінці <a href="/Using" title="Using">Використання</a>.</i>
+</p>
+<h4><span id="А_де_всі_моби?"></span><span class="mw-headline" id=".D0.90_.D0.B4.D0.B5_.D0.B2.D1.81.D1.96_.D0.BC.D0.BE.D0.B1.D0.B8.3F">А де всі моби?</span></h4>
+<p>Поки що в Minetest Game моби відсутні.
+Деяку інформацію можна почитати <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=5&amp;t=6161">тут</a>.
+</p><p>Але є сторонні моди, що додають <a href="/Mobs" title="Mobs">мобів</a>.
+</p>
+<h3><span id="Для_гравців_Minecraft"></span><span class="mw-headline" id=".D0.94.D0.BB.D1.8F_.D0.B3.D1.80.D0.B0.D0.B2.D1.86.D1.96.D0.B2_Minecraft">Для гравців Minecraft</span></h3>
+<h4><span id="Чим_відрізняється_Minetest_від_Minecraft?"></span><span class="mw-headline" id=".D0.A7.D0.B8.D0.BC_.D0.B2.D1.96.D0.B4.D1.80.D1.96.D0.B7.D0.BD.D1.8F.D1.94.D1.82.D1.8C.D1.81.D1.8F_Minetest_.D0.B2.D1.96.D0.B4_Minecraft.3F">Чим відрізняється Minetest від Minecraft?</span></h4>
+<p>Одна із перших речей, які ви вірогідно помітите - це те що поле для крафтингу вже має розмір 3x3.
+Тож вам не потрібно робити верстат та використовувати його для більшості речей, які ви плануєте крафтити.
+</p><p>В Minetest ви можете копати вниз настільки глибоко, що це навіть важко собі уявити (майже 31 тисяча блоків під землю).
+В Minecraft ви не можете копати глибше ніж 127 блоків.
+</p><p>В Minetest моди працюють значно краще.
+Їх легко ставити та видаляти, вмикати та вимикати для кожного світу окремо, конфігурувати та навіть змінювати їхній код.
+Також моди в більшості випадків є дружніми один до одного та рідко конфліктують.
+Якщо ви оновите Minetest, то всі моди швидше за все будуть працювати так само добре.
+</p><p>В Minetest ви можете під'єднатись до будь-якого сервера не піклуючись про моди та версію клієнта (виключенням є поточна гілка 0.5.х, але вона ще у розробці).
+В Minecraft щоб грати на якомусь сервері, вам треба повністю підігнати клієнт під цей сервер (або завантажити спеціальну версію для конкретного сервера).
+</p><p>Minetest менш прискіпливий до потужності комп'ютера, і не так вже й легко знайти PC комп'ютер, на якому б Minetest не зміг працювати.
+</p><p>І звісно ж <i>Minetest є безкоштовним та вільним</i>.
+</p><p>Насправді є багато відмінностей, тому що це різні ігри, хоч і виглядають збоку відносно однаковими.
+</p><p><i>Для детальнішого огляду відмінностей Minetest від Minecraft дивіться відповідну <a href="/Differences_from_Minecraft" title="Differences from Minecraft">статтю</a>.</i>
+</p>
+<h4><span id="Чи_можна_щось_зробити,_щоб_Minetest_був_більше_схожий_на_Minecraft?"></span><span class="mw-headline" id=".D0.A7.D0.B8_.D0.BC.D0.BE.D0.B6.D0.BD.D0.B0_.D1.89.D0.BE.D1.81.D1.8C_.D0.B7.D1.80.D0.BE.D0.B1.D0.B8.D1.82.D0.B8.2C_.D1.89.D0.BE.D0.B1_Minetest_.D0.B1.D1.83.D0.B2_.D0.B1.D1.96.D0.BB.D1.8C.D1.88.D0.B5_.D1.81.D1.85.D0.BE.D0.B6.D0.B8.D0.B9_.D0.BD.D0.B0_Minecraft.3F">Чи можна щось зробити, щоб Minetest був більше схожий на Minecraft?</span></h4>
+<p>Редстоун з Minecraft є одним з механізмів, відсутність якого в Minetest відразу ж привертає увагу.
+Але для Minetest є великий та стабільний мод <a href="/Mods/Mesecons" title="Mods/Mesecons">Mesecons</a>, який може навіть перевершити редстоун по можливостям.
+Це один з перших модів, які зазвичай ставлять собі гравці на чистий Minetest.
+</p><p>Також існують різні <a href="/Games" title="Games">ігри</a>, які намагаються імітувати Minecraft.
+Ось декотрі з них:
+<a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=50&amp;t=16407">MineClone 2</a>,
+<a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?id=2589">Minitest</a>,
+<a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?id=7427">Overcraft Origins</a>,
+<a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=10310">Clonecraft</a>,
+<a rel="nofollow" class="external text" href="https://github.com/mdoege/stampy_game">Stampy game</a>,
+<a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=15&amp;t=14631">VoxBox</a>
+<i>Майте на увазі, що ігри можуть бути не готовими, застарілими тощо.</i>
+</p><p>На сторінці <a href="/List_of_Games" title="List of Games">Список Ігор</a> є таблиця, в якій ви можете відсортувати ігри по типу та подивитись ті, що мають мітку "MC-Clone" 
+(тобто "МайнКрафт-Клон").
+</p>
+<h2><span id="Модинг"></span><span class="mw-headline" id=".D0.9C.D0.BE.D0.B4.D0.B8.D0.BD.D0.B3">Модинг</span></h2>
+<p><i>Модинг</i> - це процес створення модів.
+В Minetest цей процес досить простий, і якщо вам дійсно цікаво, то навіть із мінімальними технічними знаннями ви досить швидко зможете створювати власні моди.
+</p><p>Ви можете додати нові блоки, інструменти, рецепти для крафтингу, біоми, мобів.
+Можете створити текстурний пак, який перефарбує весь світ по новому, можете додати в гру інші звуки.
+Також перед вами розкривається можливість створити власну гру, із своїми правилами, персонажами, навіть сюжетом.
+Не забувайте про нові 3д-моделі, які так само можна вставити в Minetest, навіть з різними анімаціями.
+</p><p>Тобто дійсно дуже багато того, що йще не створено, але вам би хотілось це мати в Minetest - може бути створено вами!
+Все це може звучати нереально, але насправді нічого важкого в модингу немає.
+</p><p><i>Якщо вам цікавий модинг, дивіться відповідну <a rel="nofollow" class="external text" href="http://dev.minetest.net/Modding_FAQ">статтю</a> на Minetest Development Wiki.</i>
+</p>
+<h2><span id="Технічні_проблеми"></span><span class="mw-headline" id=".D0.A2.D0.B5.D1.85.D0.BD.D1.96.D1.87.D0.BD.D1.96_.D0.BF.D1.80.D0.BE.D0.B1.D0.BB.D0.B5.D0.BC.D0.B8">Технічні проблеми</span></h2>
+<p><i>Більш детально про технічні проблеми дивіться у статті <a href="/Troubleshooting" title="Troubleshooting">Вирішення проблем</a>.</i>
+</p>
+<h3><span id="Як_можна_зробити_екран_світлішим?"></span><span class="mw-headline" id=".D0.AF.D0.BA_.D0.BC.D0.BE.D0.B6.D0.BD.D0.B0_.D0.B7.D1.80.D0.BE.D0.B1.D0.B8.D1.82.D0.B8_.D0.B5.D0.BA.D1.80.D0.B0.D0.BD_.D1.81.D0.B2.D1.96.D1.82.D0.BB.D1.96.D1.88.D0.B8.D0.BC.3F">Як можна зробити екран світлішим?</span></h3>
+<p>Подивіться відповідний розділ <a href="/Troubleshooting#The_screen_is_too_dark" title="Troubleshooting">Вирішення проблем</a>
+</p>
+<h3><span id="Я_отримав_попередження_чи_повідомлення_про_помилку,_як_дізнатись_що_воно_означає?"></span><span class="mw-headline" id=".D0.AF_.D0.BE.D1.82.D1.80.D0.B8.D0.BC.D0.B0.D0.B2_.D0.BF.D0.BE.D0.BF.D0.B5.D1.80.D0.B5.D0.B4.D0.B6.D0.B5.D0.BD.D0.BD.D1.8F_.D1.87.D0.B8_.D0.BF.D0.BE.D0.B2.D1.96.D0.B4.D0.BE.D0.BC.D0.BB.D0.B5.D0.BD.D0.BD.D1.8F_.D0.BF.D1.80.D0.BE_.D0.BF.D0.BE.D0.BC.D0.B8.D0.BB.D0.BA.D1.83.2C_.D1.8F.D0.BA_.D0.B4.D1.96.D0.B7.D0.BD.D0.B0.D1.82.D0.B8.D1.81.D1.8C_.D1.89.D0.BE_.D0.B2.D0.BE.D0.BD.D0.BE_.D0.BE.D0.B7.D0.BD.D0.B0.D1.87.D0.B0.D1.94.3F">Я отримав попередження чи повідомлення про помилку, як дізнатись що воно означає?</span></h3>
+<p>Опис різних повідомлень про помилки дивіться у відповідному розділі <a href="/Troubleshooting#Error_messages_without_crashes" title="Troubleshooting">Вирішення проблем</a>
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20230709173723
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.297 seconds
+Real time usage: 0.492 seconds
+Preprocessor visited node count: 247/1000000
+Post‐expand include size: 2256/2097152 bytes
+Template argument size: 541/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 13/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.120/7 seconds
+Lua virtual size: 5.53 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  300.241      1 Template:Languages
+100.00%  300.241      1 -total
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:4241-0!canonical and timestamp 20230709173723 and revision id 27880
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=FAQ/uk&amp;oldid=27880">http://wiki.minetest.net/index.php?title=FAQ/uk&amp;oldid=27880</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/Category:Ukrainian" title="Category:Ukrainian">Ukrainian</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=FAQ%2Fuk" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/FAQ/uk" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:FAQ/uk&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/FAQ/uk">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=FAQ/uk&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=FAQ/uk&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/FAQ/uk" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/FAQ/uk" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=FAQ/uk&amp;oldid=27880" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=FAQ/uk&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 15 June 2023, at 14:01.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.297","walltime":"0.492","ppvisitednodes":{"value":247,"limit":1000000},"postexpandincludesize":{"value":2256,"limit":2097152},"templateargumentsize":{"value":541,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":13,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  300.241      1 Template:Languages","100.00%  300.241      1 -total"]},"scribunto":{"limitreport-timeusage":{"value":"0.120","limit":"7"},"limitreport-virtmemusage":{"value":5795840,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709173723","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":850});});</script></body></html>

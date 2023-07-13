@@ -1,0 +1,538 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>MinetestEDU/Mod-Overview/de/World-Edit - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"b237a91831497e8635a38026","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"MinetestEDU/Mod-Overview/de/World-Edit","wgTitle":"MinetestEDU/Mod-Overview/de/World-Edit","wgCurRevisionId":17922,"wgRevisionId":17922,"wgArticleId":3762,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["German","Tutorials"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"MinetestEDU/Mod-Overview/de/World-Edit","wgRelevantArticleId":3762,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],
+"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","mediawiki.page.gallery.styles":"ready","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.page.gallery.styles%7Cmediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-MinetestEDU_Mod-Overview_de_World-Edit rootpage-MinetestEDU skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">MinetestEDU/Mod-Overview/de/World-Edit</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/MinetestEDU" title="MinetestEDU">MinetestEDU</a>&lrm; | <a href="/MinetestEDU/Mod-Overview" title="MinetestEDU/Mod-Overview">Mod-Overview</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>WorldEdit ist ein Mod, dass wichtige Funktion bietet, um größere Bauten zu erstellen, ohne die Steine einzeln zu bauen. Das Bauen geschieht meist durch Text-Befehle, allerdings gibt es auch ein Werkzeug, mit dem man zum Beispiel Bereiche in der Karte markieren kann und ein Dialog, um bestimmte vordefinierte Strukturen bauen zu können.
+</p><p>Viele Befehle haben auch kürzere Namen, die schneller eingegeben werden können. Zum Beispiel, wenn man <code>//move&#160;? 5</code> verwenden will kann man auch <code>//m&#160;? 5</code> eingeben. Wer will kann statt Textbefehle einzugeben natürlich auch den Dialog verwenden, den man über das Inventar erreicht und dort Befehl der Klick ausführen. 
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Bereiche_markieren"><span class="tocnumber">1</span> <span class="toctext">Bereiche markieren</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Mit_Textbefehlen"><span class="tocnumber">1.1</span> <span class="toctext">Mit Textbefehlen</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Mit_dem_Zauberstab"><span class="tocnumber">1.2</span> <span class="toctext">Mit dem Zauberstab</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Bereiche_manipulieren"><span class="tocnumber">2</span> <span class="toctext">Bereiche manipulieren</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Bl.C3.B6cke_setzen.2Fl.C3.B6schen"><span class="tocnumber">2.1</span> <span class="toctext">Blöcke setzen/löschen</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Bereiche_verschieben_usw."><span class="tocnumber">2.2</span> <span class="toctext">Bereiche verschieben usw.</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Spezielle_Figuren_bauen"><span class="tocnumber">2.3</span> <span class="toctext">Spezielle Figuren bauen</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Schemata_verwenden"><span class="tocnumber">3</span> <span class="toctext">Schemata verwenden</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Nutzung_des_Mods_handle-schematics"><span class="tocnumber">3.1</span> <span class="toctext">Nutzung des Mods handle-schematics</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Dialog-Fenster"><span class="tocnumber">4</span> <span class="toctext">Dialog-Fenster</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Bereiche_markieren">Bereiche markieren</span></h2>
+<p>Viele WorldEdit-Aktionen bezeichen sich auf markierte Bereiche. Manchmal reicht auch ein definierter Punkt (z.B. als Mittelpunkt), von dem aus etwas gebaut wird. Markieren kann man einem Textbefehl oder dem Zauberstab, der im Inventar zu finden ist, wenn das Mod WorldEdit installiert ist.
+</p>
+<h3><span class="mw-headline" id="Mit_Textbefehlen">Mit Textbefehlen</span></h3>
+<p>Das Markieren eines Bereiches mit einem Textbefehle, ist in verschiedenen Varianten möglich.
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Befehl</th>
+<th>Kurzbefehl</th>
+<th>Beschreibung
+</th></tr>
+<tr>
+<td width="200"><code>//p set</code></td>
+<td><center>-</center></td>
+<td>Nach der Eingabe dieses Befehles kann man per Linksklick nacheinander die zwei Blöcke anklicken, die die Ecken des Bereiches markieren sollen. Gibt man den Befehl in der Konsole ein, so muss man die Konsole schließen. Es müssen immer beide Ecken markiert werden.
+</td></tr>
+<tr>
+<td><code>//p set1</code></td>
+<td><center>-</center></td>
+<td>Nach der Eingabe dieses Befehles kann man per Linksklick die Ecke 1 des Bereiche markieren und dadurch eine eventuell vorhandene Ecke ändern. Entsprechend für Ecke 2.
+</td></tr>
+<tr>
+<td><code>//fixedpos set1 x y z</code></td>
+<td><code>//fp</code></td>
+<td>Mit diesem Befehl kann man die Ecke 1 des Bereiches aufgrund von Koordinaten festlegen. Ensprechend für die Ecke zwei.
+</td></tr>
+<tr>
+<td><code>//pos1</code></td>
+<td><code>//1</code></td>
+<td>So legt man die Ecke 1 aufgrund der Position des Spielers fest. Dabei wird die Ecke 1 der Block unter dem Spieler, was auch ein Luftblock sein kann, wenn der Spieler fliegt.
+</td></tr>
+<tr>
+<td><code>//p get</code></td>
+<td><center>-</center></td>
+<td>Die Eingabe dieses Befehles führt zur Ausgaben der Koordinaten der zwei Eckpunkte im Chat-Bereich.
+</td></tr>
+<tr>
+<td><code>//unmark</code></td>
+<td><code>//umk</code></td>
+<td>Macht das Markierungsmuster und die Eckblöcke unsichtbar.
+</td></tr>
+<tr>
+<td><code>//mark</code></td>
+<td><code>//mk</code></td>
+<td>Macht das Markierungsmuster und die Eckblöcke sichtbar, wenn ein Bereich markiert ist.
+</td></tr>
+<tr>
+<td><code>//reset</code></td>
+<td><center>-</center></td>
+<td>Entfernt die Markierungen und löscht damit den markierten Bereich (aber nicht den Inhalt!).
+</td></tr>
+<tr>
+<td><code>//scale &lt;factor&gt;</code></td>
+<td><center>-</center></td>
+<td>Skaliert die Region um den angegeben Faktor, wobei die Ecke 1 als Streckpunkt verwendet wird. <i>(Hat bei mir nicht funktioniert!)</i>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Mit_dem_Zauberstab">Mit dem Zauberstab</span></h3>
+<p>Wenn das Mod WorldEdit installiert ist findet man im Inventar einen Gegenstand namens "World Edit Wand Tool". Per Linksklick auf einen vorhandenen Stein, kann man die erste Marke setzen, die dann als  Zahl "1" auf dem Block sichtbar wird. Die zweite Marke setzt man mit per Rechtsklick auf einen vorhandenen Block. Der Block gehört dann zu dem markierten Bereich dazu, die Zahlen auf den Blöcken markieren damit die Ecken des rechteckigen Bereiches.  
+</p><p><br />
+</p>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 535px"><div style="width: 535px">
+			<div class="thumb" style="width: 530px;"><div style="margin:15px auto;"><a href="/File:MinetestWE1.png" class="image"><img alt="" src="/images/thumb/2/24/MinetestWE1.png/499px-MinetestWE1.png" decoding="async" width="499" height="300" srcset="/images/thumb/2/24/MinetestWE1.png/749px-MinetestWE1.png 1.5x, /images/thumb/2/24/MinetestWE1.png/998px-MinetestWE1.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p>Links- bzw. Rechtsklick setzt zwei Marken, mit denen in diesem Fall der Bereich mit den Sandsteinen markiert ist.
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 535px"><div style="width: 535px">
+			<div class="thumb" style="width: 530px;"><div style="margin:32.5px auto;"><a href="/File:MinetestWE2.png" class="image"><img alt="" src="/images/thumb/6/6f/MinetestWE2.png/500px-MinetestWE2.png" decoding="async" width="500" height="265" srcset="/images/thumb/6/6f/MinetestWE2.png/750px-MinetestWE2.png 1.5x, /images/thumb/6/6f/MinetestWE2.png/1000px-MinetestWE2.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p>Der markierte Bereich wird immer mit einem Karo-Muster sichtbar gemacht. Im linken Beispiel sieht man ihn nicht, da es im Boden ist.
+</p>
+			</div>
+		</div></li>
+</ul>
+<p>Das "Wand Tool" macht das Wählen von Bereichen einfach, allerdings nur dann, wenn an den Ecken des zu wählenden Bereiches Blöcke sind. Mann müsste sich dann eventuell zu einer Ecke hochbauen, um dort einen Block anlicken zu können.
+</p>
+<h2><span class="mw-headline" id="Bereiche_manipulieren">Bereiche manipulieren</span></h2>
+<p>Die in den Befehlen anzugebenen Blockarten müssen an der Stelle <code>&lt;node&gt;</code> eingefügt werden. Einen Überblick über einige Steintypen gibt es auf der Übersichtsseite <a href="/Blocks/de" class="mw-redirect" title="Blocks/de">Blöcke</a>. Den zu verwendenden Namen findet man auf der Detailseite zu den Blöcken unter "itemstring".
+</p><p>Die Namen der Blöcke aus Mods, die auf dieser Übersichtsseite nicht zu finden sind, kann man im Spiel erkennen, indem man mit F5 die Debug-Infos einschaltet und mit dem Kreuz auf den Block zeigt. Man sieht dann (in der zweiten Zeile) die Informationen, wie z.B. "pointing_at = default:diamondblock". Man muss dann den Namen hinter dem Gleichheitszeichen bei <code>&lt;node&gt;</code> angeben. Dabei steht vor dem Doppelpunkt eventuell der Mod-Name, hier ist es aber ein Block, der im Basis-Spiel eingebaut ist. "default" kann man üblicherweise weglassen.
+</p>
+<center><a href="/File:MinetestWE4.png" class="image"><img alt="MinetestWE4.png" src="/images/5/5b/MinetestWE4.png" decoding="async" width="627" height="421" /></a></center>
+<p><br />
+</p>
+<h3><span id="Blöcke_setzen/löschen"></span><span class="mw-headline" id="Bl.C3.B6cke_setzen.2Fl.C3.B6schen">Blöcke setzen/löschen</span></h3>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Befehl</th>
+<th>Kurzbefehl</th>
+<th>Beschreibung
+</th></tr>
+<tr>
+<td><code>//deleteblocks</code></td>
+<td><center>-</center></td>
+<td>Löscht alle 16x16x16-Bereiche, zu denen der gewählte Bereiche gehört. D.h. das <b>in der Regel mehr Blöcke gelöscht werden, als markiert sind</b>.
+</td></tr>
+<tr>
+<td width="400"><code>//set &lt;node&gt;</code></td>
+<td><code>//s</code></td>
+<td>Füllt den gewählten Bereich mit dem gewünschten Blocktyp.
+</td></tr>
+<tr>
+<td><code>//mix &lt;node1&gt; ...</code></td>
+<td><center>-</center></td>
+<td>Füllt den gewählten Bereich zufällig mit den angegebenen Blocktypen.
+</td></tr>
+<tr>
+<td><code>//replace &lt;search node&gt; &lt;replace node&gt;</code></td>
+<td><code>//r</code></td>
+<td>Ersetzt in dem gewählten Bereich alle Blöcke des zuerst angegebenen Typs durch den zweiten Typ Blöcke.
+</td></tr>
+<tr>
+<td><code>//replaceinverse &lt;search node&gt; &lt;replace node&gt;</code></td>
+<td><code>//ri</code></td>
+<td>Ersetzt in dem gewählten Bereich alle Blöcke außer des zuerst angegebenen Typs durch den zweiten Typ Blöcke.
+</td></tr>
+<tr>
+<td><code>//drain</code></td>
+<td><center>-</center></td>
+<td>Entfernt alle flüssigen Blöcke in dem gewählten Bereich, trocknet ihn also aus.
+</td></tr>
+<tr>
+<td><code>//hide</code></td>
+<td><center>-</center></td>
+<td>Versteckt alle Blöcke in dem gewählten Bereich (d.h. macht sie unsichtbar), ohne sie zu löschen.
+</td></tr>
+<tr>
+<td><code>//suppress &lt;node&gt;</code></td>
+<td><center>-</center></td>
+<td>Versteckt alle Blöcke des gewählten Typs in dem gewählten Bereich (d.h. macht sie unsichtbar), ohne sie zu löschen.
+</td></tr>
+<tr>
+<td><code>//highlight &lt;node&gt;</code></td>
+<td><center>-</center></td>
+<td>Hebt die Blöcke des gewählten Typs in dem gewählten Bereich hevor, indem alle anderen versteckt werden (d.h. macht sie unsichtbar), ohne diese aber zu löschen.
+</td></tr>
+<tr>
+<td><code>//restore</code></td>
+<td><center>-</center></td>
+<td>Alle Blöcke im gewählten Bereich, die vorher versteckt wurden, werden wieder sichtbar gemacht.
+</td></tr></tbody></table>
+<p><br />
+<b>TIPP:</b> Es gibt keinen Befehl, um einen markierten Bereich einfach so zu leeren/löschen. Man kann diese Aktion aber auch als "Füllen mit Luft" ansehen und so kann man den Befehl <code>//set air</code> oder <code>//s air</code> verwenden.
+</p>
+<h3><span class="mw-headline" id="Bereiche_verschieben_usw.">Bereiche verschieben usw.</span></h3>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Befehl</th>
+<th>Kurzbefehl</th>
+<th>Beschreibung
+</th></tr>
+<tr>
+<td width="300"><code>//copy x/y/z/? &lt;amount&gt;</code></td>
+<td><center>-</center></td>
+<td>Kopiert den markierten Bereich und fügt ihn in Richtung der angegeben Achse (oder Blickrichtung) um <code>&lt;amount&gt;</code> verschoben noch einmal ein.
+</td></tr>
+<tr>
+<td><code>//move x/y/z/? &lt;amount&gt;</code></td>
+<td><center>-</center></td>
+<td>Verschiebt den markierten Bereich, indem er ausgeschnitten und in Richtung der angegeben Achse (oder Blickrichtung) um <code>&lt;amount&gt;</code> verschoben wieder eingefügt wird.
+</td></tr>
+<tr>
+<td><code>//stack x/y/z/? &lt;count&gt;</code></td>
+<td><center>-</center></td>
+<td>Von Stapeln: Kopiert und fügt den markierten Bereich direkt aufeinanderfolgend <code>&lt;count&gt;</code> mal in die angegeben Richtung ein. Negative Werte stapeln in die Gegenrichtung. So kann man sich wiederholende Bereiche bequem mehrfach kopieren.
+</td></tr>
+<tr>
+<td><code>//stack2 &lt;count&gt; &lt;x&gt; &lt;y&gt; &lt;z&gt;</code></td>
+<td><center>-</center></td>
+<td>Stapelt den gewählten Bereich wie vorher //stack, nur wird zusätzlich noch dazwischen immer die gleiche Verschiebung um <code>x y z</code> eingebaut.
+</td></tr>
+<tr>
+<td><code>//rotate x/y/z/? &lt;angle&gt;</code></td>
+<td><center>-</center></td>
+<td>Rotiert den gewählten Bereich um den angegeben Winkel (Vielfache von 90° sind erlaubt) um die angegebene Achse bzw. bei&#160;? in Blickrichtig des Spielers.
+</td></tr>
+<tr>
+<td><code>//flip x/y/z/?</code></td>
+<td><center>-</center></td>
+<td>Spiegelung der Blöcke in dem markierten Bereich an einer Ebene, die senkrecht auf die angegebene Achse steht. Z.B. führt  <code>//flip y</code> zu einer Spiegelung an einer Ebene, die parallel zum Boden ist.
+</td></tr>
+<tr>
+<td><code>//transpose x/y/z/? x/y/z/?</code></td>
+<td><center>-</center></td>
+<td>Auch eine Art Spiegelung, aber diesmal werden zwei Achsen angegeben und die Spiegelebene steht schräg dazwischen.
+</td></tr>
+<tr>
+<td><code>//orient &lt;angle&gt;</code></td>
+<td><center>-</center></td>
+<td>Ändert die Orientierung der Blöcke, die eine Orientierung haben (wie z.B. Treppen) im gewählten Bereich um die y-Achse um 90°, 180°, oder 270°. Hat damit eine Wirkung wie ein Linksklick mit dem Schraubendreher.
+</td></tr></tbody></table>
+<p><b>Hinweis:</b> Der Rotieren-Befehl wird hier als Beispiel etwas genauer betrachtet. In den folgenden drei Bildern, sieht man wie eine kleine Region um 90° gedreht wird mit dem Befehl. Das Ergebnis ist nicht ganz schlüssig!
+</p>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 335px"><div style="width: 335px">
+			<div class="thumb" style="width: 330px;"><div style="margin:23.5px auto;"><a href="/File:MinetestWE6.png" class="image"><img alt="" src="/images/thumb/5/5c/MinetestWE6.png/300px-MinetestWE6.png" decoding="async" width="300" height="263" srcset="/images/thumb/5/5c/MinetestWE6.png/450px-MinetestWE6.png 1.5x, /images/5/5c/MinetestWE6.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p>Hier wurde ein kleiner Bereich markiert und innen und außen mit verschiedenen Blöcken versehen, um die Rotation gut erkennen zu können.
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 335px"><div style="width: 335px">
+			<div class="thumb" style="width: 330px;"><div style="margin:23.5px auto;"><a href="/File:MinetestWE7.png" class="image"><img alt="" src="/images/thumb/2/2d/MinetestWE7.png/300px-MinetestWE7.png" decoding="async" width="300" height="263" srcset="/images/thumb/2/2d/MinetestWE7.png/450px-MinetestWE7.png 1.5x, /images/2/2d/MinetestWE7.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p>Hier das Ergebnis nach dem Befehl  <code>//rotate y 90</code>, die Blöcke im markierten Bereich scheinen in ordnung zu sein, ebenso die Blöcke außerhalb rechts unten ...
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 335px"><div style="width: 335px">
+			<div class="thumb" style="width: 330px;"><div style="margin:23.5px auto;"><a href="/File:MinetestWE8.png" class="image"><img alt="" src="/images/thumb/d/dd/MinetestWE8.png/300px-MinetestWE8.png" decoding="async" width="300" height="263" srcset="/images/thumb/d/dd/MinetestWE8.png/450px-MinetestWE8.png 1.5x, /images/d/dd/MinetestWE8.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p>... der Dimand-Block scheint auch an der richtigen Stelle zu sein, aber wie die Kiste an diese Stelle kommt ist unklar!?
+</p>
+			</div>
+		</div></li>
+</ul>
+<h3><span class="mw-headline" id="Spezielle_Figuren_bauen">Spezielle Figuren bauen</span></h3>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Befehl</th>
+<th>Kurzbefehl</th>
+<th>Beschreibung
+</th></tr>
+<tr>
+<td><code>//hollowsphere &lt;radius&gt; &lt;node&gt;</code></td>
+<td><code>//hspr</code></td>
+<td>Erstellt eine hohle Kugel mit dem angegeben Radius, um die markierte Position 1 aus dem ausgewählten Material.
+</td></tr>
+<tr>
+<td><code>//sphere &lt;radius&gt; &lt;node&gt;</code></td>
+<td><code>//spr</code></td>
+<td>Erstellt eine Kugel mit dem angegeben Radius, um die markierte Position 1 aus dem ausgewählten Material.
+</td></tr>
+<tr>
+<td><code>//hollowdome &lt;radius&gt; &lt;node&gt;</code></td>
+<td><code>//hdo</code></td>
+<td>Erstellt eine hohle Halbkugel mit dem angegeben Radius, um die markierte Position 1 aus dem ausgewählten Material.
+</td></tr>
+<tr>
+<td><code>//dome &lt;radius&gt; &lt;node&gt;</code></td>
+<td><code>//do</code></td>
+<td>Erstellt eine Halbkugel mit dem angegeben Radius, um die markierte Position 1 aus dem ausgewählten Material.
+</td></tr>
+<tr>
+<td width="400"><code>//hollowcylinder x/y/z/? &lt;length&gt; &lt;radius&gt; &lt;node&gt;</code></td>
+<td><code>//hcyl</code></td>
+<td>Erstellt einen hohlen Zylinder mit dem angegeben Radius und Höhe (=length) aus dem ausgewählten Material um die Position 1. Die Richtung ist festgelegt durch die angegebene Achse oder bei&#160;? in die Richtugn in die der Spieler schaut.
+</td></tr>
+<tr>
+<td><code>//cylinder x/y/z/? &lt;length&gt; &lt;radius&gt; &lt;node&gt;</code></td>
+<td><code>//cyl</code></td>
+<td>Erstellt einen gefüllten Zylinder, die Angaben wie vorher.
+</td></tr>
+<tr>
+<td><code>//pyramid x/y/z? &lt;height&gt; &lt;node&gt;</code></td>
+<td><center>-</center></td>
+<td>Erstellt an der Postion 1 eine gefüllte quadratische Pyramide mit der angegebenen Höhe aus dem gewählten Stein. Die Seitenlänge ergibt sich aus der Höhe und bei einer Höhe h ist die Seitenlänge 2*h-1.
+</td></tr>
+<tr>
+<td><code>//spiral &lt;length&gt; &lt;height&gt; &lt;spacer&gt; &lt;node&gt;</code></td>
+<td><center>-</center></td>
+<td>Man erstellt so eine Spirale mit der angegebenen Höhe und aus dem angegebenen Material um die Position 1. Es muss allerdings auch die Position 2 angegeben werden, aber das hat keinen Einfluß auf die Größe. Die Länge der Spirale ist ein Wert, der nicht immer genau erreicht wird, da dies von der Breite des Freiraums &lt;spacer&gt; abhängt.
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Schemata_verwenden">Schemata verwenden</span></h2>
+<p>Schemata stellen eine Möglichkeit dar, Bereiche in der Welt zu kopieren und sie dann an beliebiger Stelle wieder einzufügen. Ein "Copy und Paste" sozusagen. Der "Copy"-Befehl kann das ja nicht!
+</p><p>Man makiert einen rechteckigen Bereich, egal wie. Mit dem Befehl
+</p>
+<pre>//save schematics SchemaName
+</pre>
+<p>speichert man diesen Bereich. Dabei wird im Verzeichnis der aktuell bespielten Welt ein Unterverzeichnis "schems" angelegt in dem dann Dateien der Art <i>schematic SchemaName.we</i> angelegt werden.
+</p><p>Das Einfügen erfolgt mit dem Befehl
+</p>
+<pre>//load schematics SchemaName
+</pre>
+<p>wobei die Einfügung relativ zu einer markierten "Position 1" geschieht.
+</p><p>Der Vorteil von Schematas ist nicht nur, dass man das Einfügen an beliebiger, direkt festgelegter Stelle geschieht, sondern das man die Schemata-Dateien auch in anderen Welten nutzen und so Bauwerke übertragen kann.
+</p>
+<h3><span class="mw-headline" id="Nutzung_des_Mods_handle-schematics">Nutzung des Mods handle-schematics</span></h3>
+<h2><span class="mw-headline" id="Dialog-Fenster">Dialog-Fenster</span></h2>
+<!-- 
+NewPP limit report
+Cached time: 20230709182153
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.132 seconds
+Real time usage: 0.152 seconds
+Preprocessor visited node count: 47/1000000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 3278/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    0.000      1 -total
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:3762-0!canonical and timestamp 20230709182153 and revision id 17922
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=MinetestEDU/Mod-Overview/de/World-Edit&amp;oldid=17922">http://wiki.minetest.net/index.php?title=MinetestEDU/Mod-Overview/de/World-Edit&amp;oldid=17922</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:German" title="Category:German">German</a></li><li><a href="/Category:Tutorials" title="Category:Tutorials">Tutorials</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=MinetestEDU%2FMod-Overview%2Fde%2FWorld-Edit" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/MinetestEDU/Mod-Overview/de/World-Edit" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:MinetestEDU/Mod-Overview/de/World-Edit&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/MinetestEDU/Mod-Overview/de/World-Edit">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=MinetestEDU/Mod-Overview/de/World-Edit&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=MinetestEDU/Mod-Overview/de/World-Edit&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/MinetestEDU/Mod-Overview/de/World-Edit" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/MinetestEDU/Mod-Overview/de/World-Edit" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=MinetestEDU/Mod-Overview/de/World-Edit&amp;oldid=17922" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=MinetestEDU/Mod-Overview/de/World-Edit&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 3 December 2017, at 11:16.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.132","walltime":"0.152","ppvisitednodes":{"value":47,"limit":1000000},"postexpandincludesize":{"value":0,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":3278,"limit":5000000},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20230709182153","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":467});});</script></body></html>

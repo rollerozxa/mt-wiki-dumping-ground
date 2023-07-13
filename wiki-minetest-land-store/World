@@ -1,0 +1,385 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Worlds - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"80464f4819bcfa041cdaa631","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Worlds","wgTitle":"Worlds","wgCurRevisionId":27662,"wgRevisionId":27662,"wgArticleId":835,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages","Map","Tutorials"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Worlds","wgRelevantArticleId":835,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"World","wgInternalRedirectTargetUrl":"/Worlds"}
+;RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<link rel="canonical" href="http://wiki.minetest.net/Worlds"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Worlds rootpage-Worlds skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Worlds</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="mw-redirectedfrom">(Redirected from <a href="/index.php?title=World&amp;redirect=no" class="mw-redirect" title="World">World</a>)</span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> Language:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><b><a class="mw-selflink selflink">English</a></b>&#160;• <bdi lang="de"><a href="/Worlds/de" title="Worlds/de">Deutsch</a></bdi>&#160;• <bdi lang="ms"><a href="/Worlds/ms" title="Worlds/ms">Bahasa Melayu</a></bdi></td>
+</tr></tbody></table>
+<p>A <b>world</b> contains an environment and/or building(s) you can play in. A world also includes all saved data associated with a world, like player data, mob positions, health, breath, and the like.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Finding_worlds"><span class="tocnumber">1</span> <span class="toctext">Finding worlds</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Installation"><span class="tocnumber">2</span> <span class="toctext">Installation</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#World_directory_content"><span class="tocnumber">3</span> <span class="toctext">World directory content</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#auth.sqlite"><span class="tocnumber">3.1</span> <span class="toctext">auth.sqlite</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#env_meta.txt"><span class="tocnumber">3.2</span> <span class="toctext">env_meta.txt</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#force_loaded.txt"><span class="tocnumber">3.3</span> <span class="toctext">force_loaded.txt</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#ipban.txt"><span class="tocnumber">3.4</span> <span class="toctext">ipban.txt</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#map_meta.txt"><span class="tocnumber">3.5</span> <span class="toctext">map_meta.txt</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#map.sqlite"><span class="tocnumber">3.6</span> <span class="toctext">map.sqlite</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#mod_storage.sqlite"><span class="tocnumber">3.7</span> <span class="toctext">mod_storage.sqlite</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#players.sqlite"><span class="tocnumber">3.8</span> <span class="toctext">players.sqlite</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#world.mt"><span class="tocnumber">3.9</span> <span class="toctext">world.mt</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#.2Fworldmods_.28folder.29"><span class="tocnumber">3.10</span> <span class="toctext">/worldmods (folder)</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Legacy"><span class="tocnumber">3.11</span> <span class="toctext">Legacy</span></a>
+<ul>
+<li class="toclevel-3 tocsection-15"><a href="#auth.txt"><span class="tocnumber">3.11.1</span> <span class="toctext">auth.txt</span></a></li>
+<li class="toclevel-3 tocsection-16"><a href="#.2Fplayer_.28folder.29"><span class="tocnumber">3.11.2</span> <span class="toctext">/player (folder)</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-17"><a href="#Schem_file_Creation_.2F_Import"><span class="tocnumber">4</span> <span class="toctext">Schem file Creation / Import</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Finding_worlds">Finding worlds</span></h2>
+<ul><li>See <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewforum.php?f=12">Maps</a> in the <a rel="nofollow" class="external text" href="http://forum.minetest.net">forums</a> to find downloads to worlds that others have made.</li></ul>
+<h2><span class="mw-headline" id="Installation">Installation</span></h2>
+<p><b>To install worlds:</b> You have to extract them first. Most of them are in <code>.zip</code>, some of them can be in <code>.7z</code>, <code>.rar</code> or <code>.tar.gz</code> format. To extract archive files other than <code>.zip</code> on Windows, you need <a rel="nofollow" class="external text" href="https://7-zip.org/">7-Zip</a>.
+</p><p>For world creators, <code>.7z</code> is the recommended archive format as it is a free format (as compared to <code>.rar</code>) that typically allows for the best compression.
+</p><p>Put the extracted files in the “<code>worlds</code>” folder of your Minetest installation folder. The files such as <code>env_meta.txt</code> must be in the root of the world’s folder (eg. “<code>worlds/my_world/env_meta.txt</code>”).
+</p>
+<ul><li>Location of the <code>worlds</code> directory within the directory structure of a run-in-place installation of Minetest, including some of the folders Minetest adds after some usage as client and server, as well as the positions (…) that custom-made content goes. Irrelevant folders are not expanded.</li></ul>
+<pre>This commented example shows the location and structure of a world called "someworld":
+
+    minetest/
+    ├── worlds/         (this folder will be created when the first local/singleplayer world is created)
+    │   ├── someworld        (the name given to the world by the user when it is created)
+    │   │   ├── players.sqlite (ingame data for each player)
+    │   │   ├── worldmods/     (create this folder for world exclusive mods)
+    │   │   ├── auth.sqlite    (player login data)
+    │   │   ├── env_meta.txt   (contains mostly time related information)
+    │   │   ├── map.sqlite     (database containing the map. The name may differ depending on backend used)
+    │   │   ├── map_meta.txt   (defines which mapgen is used and how)
+    │   │   └── world.mt       (should at least contain the game ID without which the world 
+    │   │                       will not show up in the singleplayer tab)
+    │   └── … (more saved worlds. Some with exclusive world mods)
+    └── (other files and directories)
+</pre>
+<h2><span class="mw-headline" id="World_directory_content">World directory content</span></h2>
+<p>For documentation about the structure of e.g. databases and the mapblock binary format, see <a rel="nofollow" class="external text" href="https://github.com/minetest/minetest/blob/master/doc/world_format.txt">world_format.txt</a> in the Minetest source tree.
+</p>
+<h3><span class="mw-headline" id="auth.sqlite">auth.sqlite</span></h3>
+<p>The authentication database. Name may differ according to the <a href="/Database_backends" title="Database backends">database backend</a> type used.
+</p>
+<h3><span class="mw-headline" id="env_meta.txt">env_meta.txt</span></h3>
+<p>Simple global environment variables.
+</p><p>Example content:
+</p>
+<pre> game_time = 73471
+ time_of_day = 19118
+ EnvArgsEnd
+</pre>
+<h3><span class="mw-headline" id="force_loaded.txt">force_loaded.txt</span></h3>
+<p>Lua table containing forcibly loaded Mapblocks.
+</p>
+<h3><span class="mw-headline" id="ipban.txt">ipban.txt</span></h3>
+<p>Banned IP addresses and usernames.
+</p><p>Example content:
+</p>
+<pre> 123.456.78.9|foo
+ 123.456.78.10|bar
+</pre>
+<h3><span class="mw-headline" id="map_meta.txt">map_meta.txt</span></h3>
+<p>Simple global map variables. The <a href="/Map_generator" title="Map generator">Map generator</a> is defined here along with <a href="/Map_generator/settings" title="Map generator/settings">its parameters</a>.
+</p><p>Example content:
+</p>
+<pre> seed = 7980462765762429666
+ mg_name = v7
+ [end_of_params]
+</pre>
+<h3><span class="mw-headline" id="map.sqlite">map.sqlite</span></h3>
+<p>Map database. Name may differ according to the <a href="/Database_backends" title="Database backends">database backend</a> type used.
+</p>
+<h3><span class="mw-headline" id="mod_storage.sqlite">mod_storage.sqlite</span></h3>
+<p>Mod storage database. Name may differ according to the <a href="/Database_backends" title="Database backends">database backend</a> type used.
+</p>
+<h3><span class="mw-headline" id="players.sqlite">players.sqlite</span></h3>
+<p>Player database. Name may differ according to the <a href="/Database_backends" title="Database backends">database backend</a> type used.
+</p>
+<h3><span class="mw-headline" id="world.mt">world.mt</span></h3>
+<p>Miscellaneous world metadata. Uses the Minetest Settings format.
+</p><p>Example content:
+</p>
+<pre> creative_mode = false
+ player_backend = sqlite3
+ backend = sqlite3
+ gameid = nodecore
+ load_mod_coolmod = false
+</pre>
+<p>The file includes lines stating what type of database backend is used and a list of installed mods with information whether they are activated for this world. 
+</p><p>Some third party software such as minetestmapper may also only consider the folder a valid minetest world when the world.mt is present.
+</p>
+<h3><span id="/worldmods_(folder)"></span><span class="mw-headline" id=".2Fworldmods_.28folder.29">/worldmods (folder)</span></h3>
+<p>This optional folder may contain mods that are needed for this map exclusively. All mods and modpacks inside this folder gets loaded no matter what.
+</p>
+<h3><span class="mw-headline" id="Legacy">Legacy</span></h3>
+<h4><span class="mw-headline" id="auth.txt">auth.txt</span></h4>
+<p>If the world uses the obsolete <i>files</i> backend for authentication, this file contains authentication data, player per line.
+</p>
+<pre> &lt;name&gt;:&lt;password hash&gt;:&lt;privilege1,...&gt;
+</pre>
+<p>Legacy format (until 0.4.12) of password hash is &lt;name&gt;&lt;password&gt; SHA1'd,
+in the base64 encoding.
+</p><p>Format (since 0.4.13) of password hash is #1#&lt;salt&gt;#&lt;verifier&gt;, with the
+parts inside &lt;&gt; encoded in the base64 encoding.
+&lt;verifier&gt; is an RFC 2945 compatible SRP verifier,
+of the given salt, password, and the player's name lowercased,
+using the 2048-bit group specified in RFC 5054 and the SHA-256 hash function.
+</p>
+<h4><span id="/player_(folder)"></span><span class="mw-headline" id=".2Fplayer_.28folder.29">/player (folder)</span></h4>
+<p>If the world uses the obsolete <i>files</i> backend for player data, this folder will contain player data.
+Filename can be anything.
+Contains ingame data for each player in a file named after the player.
+</p>
+<h2><span id="Schem_file_Creation_/_Import"></span><span class="mw-headline" id="Schem_file_Creation_.2F_Import">Schem file Creation / Import</span></h2>
+<p>A <b>schem file (<code>.mts</code>)</b> is used to import building(s) into a world with the <a rel="nofollow" class="external text" href="https://content.minetest.net/packages/sfan5/worldedit/">WorldEdit mod</a>. This file can be found in “<code>worlds/&lt;my_world&gt;/schems</code>” folder.
+</p>
+<ul><li>To <b>create a schem file</b>&#160;:</li></ul>
+<ol><li>Type in your world name (with WorldEdit activated).</li>
+<li>Grant yourself all <a href="/Privileges" title="Privileges">privileges</a>: <code>/grantme all</code></li>
+<li>Press <kbd>F5</kbd> to show the coordinates.</li>
+<li>Select the area to export by commands with <code>//pos1</code> and <code>//pos2</code> (these positions corresponds to an invisible diagonal of a cuboid selection).</li>
+<li>Create your schem file with <code>//mtschemcreate &lt;name of your schem file&gt;</code>. The file will be created into your “<code>worlds/&lt;my_world&gt;/schems</code>” folder.</li></ol>
+<ul><li>To <b>import a schem file</b>&#160;:</li></ul>
+<ol><li>Enter in your world (with WorldEdit activated).</li>
+<li>Grant yourself all privileges: <code>/grantme all</code></li>
+<li>Put a schem file into your “<code>worlds/&lt;name of your new world&gt;/schems</code>" folder.</li>
+<li>Press <kbd>F5</kbd> to show the coordinatess.</li>
+<li>Place a position where you want with command: <code>//pos1</code></li>
+<li>Import your schem file with <code>//mtschemplace &lt;name of your schem file&gt;</code></li></ol>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<ul><li><a href="/Minetestmapper" title="Minetestmapper">Minetestmapper</a>, a program to draw a 2D map of a Minetest world.</li></ul>
+<!-- 
+NewPP limit report
+Cached time: 20230711180740
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.192 seconds
+Real time usage: 0.437 seconds
+Preprocessor visited node count: 121/1000000
+Post‐expand include size: 1433/2097152 bytes
+Template argument size: 249/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 14/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1125/5000000 bytes
+Lua time usage: 0.120/7 seconds
+Lua virtual size: 5.54 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  330.394      1 Template:Languages
+100.00%  330.394      1 -total
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:835-0!canonical and timestamp 20230711180739 and revision id 27662
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Worlds&amp;oldid=27662">http://wiki.minetest.net/index.php?title=Worlds&amp;oldid=27662</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li><li><a href="/Category:Map" title="Category:Map">Map</a></li><li><a href="/Category:Tutorials" title="Category:Tutorials">Tutorials</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Worlds" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Worlds" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Worlds&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Worlds">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Worlds&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Worlds&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Worlds" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Worlds" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Worlds&amp;oldid=27662" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Worlds&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 29 January 2023, at 14:45.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.192","walltime":"0.437","ppvisitednodes":{"value":121,"limit":1000000},"postexpandincludesize":{"value":1433,"limit":2097152},"templateargumentsize":{"value":249,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":14,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1125,"limit":5000000},"timingprofile":["100.00%  330.394      1 Template:Languages","100.00%  330.394      1 -total"]},"scribunto":{"limitreport-timeusage":{"value":"0.120","limit":"7"},"limitreport-virtmemusage":{"value":5808128,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230711180740","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":267});});</script></body></html>

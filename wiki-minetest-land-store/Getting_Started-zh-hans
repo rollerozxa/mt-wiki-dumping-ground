@@ -1,0 +1,500 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Getting Started/zh-hans - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"ea808708c663a45262f7095a","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Getting_Started/zh-hans","wgTitle":"Getting Started/zh-hans","wgCurRevisionId":26632,"wgRevisionId":26632,"wgArticleId":4906,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using deprecated source tags","Pages with syntax highlighting errors","Languages pages","Tutorials"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Getting_Started/zh-hans","wgRelevantArticleId":4906,"wgIsProbablyEditable":!1,
+"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","ext.pygments":"ready","skins.vector.styles.legacy":"ready","jquery.tablesorter.styles":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=ext.pygments%7Cjquery.tablesorter.styles%7Cmediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Getting_Started_zh-hans rootpage-Getting_Started skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Getting Started/zh-hans</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/Getting_Started" title="Getting Started">Getting Started</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> 语言:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><a href="/Getting_Started" title="Getting Started">English</a>&#160;• <bdi lang="de"><a href="/Getting_Started/de" title="Getting Started/de">Deutsch</a></bdi>&#160;• <bdi lang="fr"><a href="/Getting_Started/fr" title="Getting Started/fr">français</a></bdi>&#160;• <bdi lang="id"><a href="/Getting_Started/id" title="Getting Started/id">Bahasa Indonesia</a></bdi>&#160;• <bdi lang="ja"><a href="/Getting_Started/ja" title="Getting Started/ja">日本語</a></bdi><b>&#160;• <bdi lang="zh-hans"><a class="mw-selflink selflink">中文（简体）‎</a></bdi></b></td>
+</tr></tbody></table>
+<p>欢迎来到<a href="/Minetest" title="Minetest">Minetest</a>！这个页面解释了Minetest是关于什么的，如何获得它，以及如何开始单机或在线玩你的第一个游戏。
+</p><p><br />
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#.E2.80.9C.E2.80.98Minetest.E2.80.99.E6.98.AF.E4.BB.80.E4.B9.88.EF.BC.9F.E2.80.9D"><span class="tocnumber">1</span> <span class="toctext">“‘Minetest’是什么？”</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#.E5.AE.89.E8.A3.85Minetest"><span class="tocnumber">2</span> <span class="toctext">安装Minetest</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Windows"><span class="tocnumber">2.1</span> <span class="toctext">Windows</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#.E8.8B.B9.E6.9E.9C.E6.93.8D.E4.BD.9C.E7.B3.BB.E7.BB.9FOSX"><span class="tocnumber">2.2</span> <span class="toctext">苹果操作系统OSX</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#GNU.2FLinux.E5.AE.89.E8.A3.85"><span class="tocnumber">2.3</span> <span class="toctext">GNU/Linux安装</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#.E6.A0.B9.E6.8D.AECMakeLists.txt.E7.9A.84.E6.96.87.E4.BB.B6.E5.A4.B9.E7.BB.93.E6.9E.84"><span class="tocnumber">2.4</span> <span class="toctext">根据CMakeLists.txt的文件夹结构</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#.E5.BC.80.E5.A7.8B.E6.B8.B8.E6.88.8F"><span class="tocnumber">3</span> <span class="toctext">开始游戏</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#.E5.8D.95.E4.BA.BA.E6.B8.B8.E6.88.8F"><span class="tocnumber">3.1</span> <span class="toctext">单人游戏</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#.E5.A4.9A.E4.BA.BA.E6.9C.8D.E5.8A.A1.E5.99.A8"><span class="tocnumber">3.2</span> <span class="toctext">多人服务器</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#.E5.9F.BA.E6.9C.AC.E6.8E.A7.E5.88.B6"><span class="tocnumber">3.3</span> <span class="toctext">基本控制</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#.E6.B8.B8.E6.88.8F.E7.8E.A9.E6.B3.95"><span class="tocnumber">3.4</span> <span class="toctext">游戏玩法</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#.E4.B9.9F.E5.8F.AF.E4.BB.A5.E7.9C.8B.E4.B8.80.E7.9C.8B"><span class="tocnumber">4</span> <span class="toctext">也可以看一看</span></a></li>
+</ul>
+</div>
+
+<h2><span id="“‘Minetest’是什么？”"></span><span class="mw-headline" id=".E2.80.9C.E2.80.98Minetest.E2.80.99.E6.98.AF.E4.BB.80.E4.B9.88.EF.BC.9F.E2.80.9D">“‘Minetest’是什么？”</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/File:Desert_at_sunset_0.4.7.png" class="image"><img alt="" src="/images/thumb/6/69/Desert_at_sunset_0.4.7.png/300px-Desert_at_sunset_0.4.7.png" decoding="async" width="300" height="182" class="thumbimage" srcset="/images/thumb/6/69/Desert_at_sunset_0.4.7.png/450px-Desert_at_sunset_0.4.7.png 1.5x, /images/thumb/6/69/Desert_at_sunset_0.4.7.png/600px-Desert_at_sunset_0.4.7.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Desert_at_sunset_0.4.7.png" class="internal" title="Enlarge"></a></div>Minetest游戏截图</div></div></div>
+<ul><li><b><a href="/Minetest" title="Minetest">Minetest</a></b>是一个你可以玩很多“整合包”的游戏引擎，这些游戏都是在一个完全由积木组成的世界里进行的</li></ul>
+<ul><li>你可以在线玩多人游戏，也可以离线单机玩游戏</li></ul>
+<ul><li>Minetest支持运行各种<b>整合包</b>，这是Minetest的核心功能</li></ul>
+<ul><li>大多数整合包（但不是全部！）都集中在建设，采矿和创造方面</li></ul>
+<ul><li>默认游戏是<a href="/index.php?title=Games/Minetest_game&amp;action=edit&amp;redlink=1" class="new" title="Games/Minetest game (page does not exist)"> Minetest game</a>，但“<a href="/index.php?title=%E6%B8%B8%E6%88%8F%E5%88%97%E8%A1%A8&amp;action=edit&amp;redlink=1" class="new" title="游戏列表 (page does not exist)">还有更多</a><i>”。</i></li></ul>
+<ul><li>你可以安装<i><a href="/Mods" title="Mods">mods</a>来修改或增加游戏的功能。Mod是Minetest的“固有”部分。</i></li></ul>
+<ul><li><i>在<a href="/index.php?title=Servers&amp;action=edit&amp;redlink=1" class="new" title="Servers (page does not exist)">servers</a>“”上玩的时侯，Mods可以直接启用，无需额外操作。Mods在服务器端运行，一切都是自动处理的。</i></li></ul>
+<ul><li>“Minetest”这个名称指的是游戏引擎。“Minetest Game”的名称指默认游戏（整合包）。</li></ul>
+<p><br />
+</p>
+<h2><span id="安装Minetest"></span><span class="mw-headline" id=".E5.AE.89.E8.A3.85Minetest">安装Minetest</span></h2>
+<h3><span class="mw-headline" id="Windows">Windows</span></h3>
+<ul><li><a rel="nofollow" class="external text" href="http://minetest.net/download#windows">下载Minetest</a>。如果您有64位版本的Windows，应该使用64位下载，但是32位版本也可以在64位系统上运行。与此相反，64位版本将不能在32位Windows上运行。</li></ul>
+<p><font color="orange">注意:minetest5.1以后版本无法在Window XP或更低版本的Windows上运行</font>
+</p>
+<ul><li>提取下载的存档文件。我们建议<code>C:\Minetest\</code>，<code>C:\Games\Minetest\</code>或<code>%USERPROFILE%\Documents\Minetest\</code>。不管在哪里，只要你有读/写权限不要保存到<code>C:\Program Files\</code>或类似文件，因为这样会导致问题（无写访问权限）。<i></i></li></ul>
+<ul><li>要运行Minetest，请打开提取的目录并查找<code>bin</code>（二进制）目录。在<code>bin</code>目录中是Minetest可执行文件，<code>minetest.exe</code>。</li></ul>
+<p><br />
+</p><p>以下是您应该具有的目录结构：
+</p>
+<pre>minetest/
+├── bin/
+├── builtin/
+│   ├── async/
+│   ├── common/
+│   ├── fstk/
+│   ├── game/
+│   └── mainmenu/
+├── client/
+│   ├── serverlist/
+│   └── shaders/
+│       ├── nodes_shader/
+│       └── water_surface_shader/
+├── doc/
+├── fonts/
+├── games/
+│   ├── minetest_game/
+│   └── minimal/
+├── locale/ 
+│   └── (lots of language folders)
+├── mods/ 
+└── textures/
+    └── base/
+        └── pack/
+</pre>
+<p><br />
+</p>
+<h3><span id="苹果操作系统OSX"></span><span class="mw-headline" id=".E8.8B.B9.E6.9E.9C.E6.93.8D.E4.BD.9C.E7.B3.BB.E7.BB.9FOSX">苹果操作系统OSX</span></h3>
+<ul><li><a rel="nofollow" class="external autonumber" href="http://minetest.net/download#osx下载Minetest">[1]</a>。</li></ul>
+<ul><li>提取文件。不管在哪里，只要你有读写权限。</li></ul>
+<ul><li>打开解压缩文件夹中的.app文件。</li></ul>
+<p>或使用自制软件安装最新的稳定版本：
+</p>
+<big><div class="mw-highlight mw-highlight-lang-bash mw-content-ltr" dir="ltr"><pre>brew install minetest
+brew linkapps</pre></div></big>
+<p><br />
+</p>
+<h3><span id="GNU/Linux安装"></span><span class="mw-headline" id="GNU.2FLinux.E5.AE.89.E8.A3.85">GNU/Linux安装</span></h3>
+<ul><li>如果可以，请下载该版本<a rel="nofollow" class="external text" href="http://minetest.net/download#linux">已编译</a>以供您的GNU/Linux发行版使用。如果找不到，可以自己编译<a rel="nofollow" class="external autonumber" href="https://github.com/minetest/minetest这里">[2]</a>。在这种情况下，你也应该安装一个游戏。</li></ul>
+<p><br />
+</p>
+<ul><li>如果您使用的是Debian、Ubuntu或衍生工具，您还可以使用：</li></ul>
+<big><div class="mw-highlight mw-highlight-lang-bash mw-content-ltr" dir="ltr"><pre>sudo apt install minetest</pre></div></big>
+<p>但是，这可能会给您一个过时的版本，有关可用版本的信息，请参阅以下页面：
+<a rel="nofollow" class="external text" href="https://packages.debian.org/search?keywords=minetest"><code>minetest</code> on packages.debian.org</a><br />
+<a rel="nofollow" class="external text" href="http://packages.ubuntu.com/search?keywords=minetest"><code>minetest</code> on packages.ubuntu.com</a>
+</p>
+<ul><li>您还可以尝试使用以下命令从GitHub上的最新源代码编译Minetest<a rel="nofollow" class="external text" href="http://forum.minetest.net/viewtopic.php?f=3&amp;t=3837">one-line script</a><br />用于在Debian/Ubuntu/Mint上安装/编译Minetest Git</li></ul>
+<ul><li>在某些Linux系统上，还可以将Minetest安装为<a rel="nofollow" class="external autonumber" href="https://snapcraft.io/docs/getting-startedSNAP">[3]</a>-封装，请参阅<a rel="nofollow" class="external autonumber" href="https://snapcraft.io/minetest快照存储">[4]</a>。<br /></li></ul>
+<p>这种SNAP安装将与通过apt安装或编译的minetest版本分开，<br />
+</p><p>其文件、mod、worlds、screenshots等存储在~/snap/minetest/下<br />
+</p><p>这意味着，你可以在一台电脑上同时安装旧的0.4.x版本和新的0.5.x版本。
+</p>
+<h3><span id="根据CMakeLists.txt的文件夹结构"></span><span class="mw-headline" id=".E6.A0.B9.E6.8D.AECMakeLists.txt.E7.9A.84.E6.96.87.E4.BB.B6.E5.A4.B9.E7.BB.93.E6.9E.84">根据CMakeLists.txt的文件夹结构</span></h3>
+<p>基于<a rel="nofollow" class="external text" href="https://github.com/minetest/minetest/blob/master/CMakeLists.txt">github上的CMakeLists.txt</a>中的构建脚本
+</p>
+<table class="wikitable sortable">
+<tbody><tr>
+<th><b>DirVariable</b>
+</th>
+<th><b>WIN32</b>
+</th>
+<th><b>APPLE</b>
+</th>
+<th><b>UNIX/Linux/BSD  RUN_IN_PLACE</b>
+</th>
+<th><b>UNIX/Linux/BSD</b>
+</th>
+<th><b>Description</b>
+</th></tr>
+<tr>
+<td>SHAREDIR</td>
+<td><big><b>.</b></big></td>
+<td>${BUNDLE_NAME}/Contents/Resources</td>
+<td><big><b>.</b></big></td>
+<td>${CMAKE_INSTALL_PREFIX}/share/${PROJECT_NAME}</td>
+<td>Directory to install data files into
+</td></tr>
+<tr>
+<td>BINDIR</td>
+<td>bin</td>
+<td>${BUNDLE_NAME}/Contents/MacOS</td>
+<td>bin</td>
+<td>${CMAKE_INSTALL_PREFIX}/bin</td>
+<td>Directory to install binaries into
+</td></tr>
+<tr>
+<td>DOCDIR</td>
+<td>doc</td>
+<td>${SHAREDIR}/${PROJECT_NAME}</td>
+<td>doc</td>
+<td>${CMAKE_INSTALL_PREFIX}/share/doc/${PROJECT_NAME}</td>
+<td>Directory to install documentation into
+</td></tr>
+<tr>
+<td>EXAMPLE_CONF_DIR</td>
+<td><big><b>.</b></big></td>
+<td>${DOCDIR}</td>
+<td><big><b>.</b></big></td>
+<td>${DOCDIR}</td>
+<td>Directory to install example config file into
+</td></tr>
+<tr>
+<td>MANDIR</td>
+<td></td>
+<td></td>
+<td>unix/man</td>
+<td>${CMAKE_INSTALL_PREFIX}/share/man</td>
+<td>Directory to install manpages into
+</td></tr>
+<tr>
+<td>XDG_APPS_DIR</td>
+<td></td>
+<td></td>
+<td>unix/applications</td>
+<td>${CMAKE_INSTALL_PREFIX}/share/applications</td>
+<td>Directory to install .desktop files into
+</td></tr>
+<tr>
+<td>APPDATADIR</td>
+<td></td>
+<td></td>
+<td>unix/appdata</td>
+<td>${CMAKE_INSTALL_PREFIX}/share/appdata</td>
+<td>
+</td></tr>
+<tr>
+<td>ICONDIR</td>
+<td></td>
+<td></td>
+<td>unix/icons</td>
+<td>${CMAKE_INSTALL_PREFIX}/share/icons</td>
+<td>Directory to install icons into
+</td></tr>
+<tr>
+<td>LOCALEDIR</td>
+<td>locale</td>
+<td>${SHAREDIR}/locale</td>
+<td>locale</td>
+<td>${CMAKE_INSTALL_PREFIX}/share/${PROJECT_NAME}/locale</td>
+<td>Directory to install l10n files into
+</td></tr></tbody></table>
+<p>苹果的“ BUNDLE_NAME”设置为 "${PROJECT_NAME}.app" 其中project_name设置为minetest <br />
+而“ BUNDLE_PATH”设置为“ $ {BUNDLE_NAME}”
+</p>
+<h2><span id="开始游戏"></span><span class="mw-headline" id=".E5.BC.80.E5.A7.8B.E6.B8.B8.E6.88.8F">开始游戏</span></h2>
+<p>现在您已经安装了它，您可以选择以下任意一种：玩单人游戏，启动局域网服务器或通过连接到远程服务器在线玩。
+</p>
+<h3><span id="单人游戏"></span><span class="mw-headline" id=".E5.8D.95.E4.BA.BA.E6.B8.B8.E6.88.8F">单人游戏</span></h3>
+<p>要播放单人游戏，只需<b>创建</b>一个<a href="/World" class="mw-redirect" title="World">世界</a>，选择一个<a href="/Map_generator" title="Map generator">地图生成器</a>（可选），然后单击<b>开始游戏</b>。默认情况下，您从<a href="/Games/Minetest_Game" title="Games/Minetest Game">Minetest Game</a>开始。第一步,阅读<a href="/How_to_build_your_first_house" title="How to build your first house">如何为Minetest Game中的建造你的第一所房子</a>。
+</p><p>一般而言，还有一个<a href="/Games/Tutorial" title="Games/Tutorial">非官方的教程</a>可以对Minetest进行交互式介绍。
+</p><p>您也可以选择安装其他<a href="/Games" title="Games">整合包</a>。我们建议这样做，因为整合包是Minetest的主要功能之一；如果仅使用默认Minetest Game整合包，就会错过社区中许多其他有趣的创作。
+</p>
+<h3><span id="多人服务器"></span><span class="mw-headline" id=".E5.A4.9A.E4.BA.BA.E6.9C.8D.E5.8A.A1.E5.99.A8">多人服务器</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/File:Password.PNG" class="image"><img alt="" src="/images/thumb/1/15/Password.PNG/250px-Password.PNG" decoding="async" width="250" height="128" class="thumbimage" srcset="/images/thumb/1/15/Password.PNG/375px-Password.PNG 1.5x, /images/1/15/Password.PNG 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Password.PNG" class="internal" title="Enlarge"></a></div>更改密码屏幕</div></div></div>
+<p>加入多人游戏服务器是在“客户端”标签中完成的。要选择服务器，请在服务器列表中单击其名称。地址和端口将被自动填充。
+</p><p><br />
+某些服务器未在服务器列表中列出。 
+<a rel="nofollow" class="external text" href="https://forum.minetest.net/viewforum.php?f=10">找到服务器的帖子</a>，然后在“客户端”选项卡的文本框中输入指定的地址和端口。地址将类似于<code>redcrab.suret.net</code>或<code>101.201.255.135</code>（对中国友好）。该端口是1到65535之间的整数，通常是30000。
+</p><p>选择服务器并选择它之后，必须输入用户名和密码。<br />
+用户名首次连接到服务器时，将为该播放器创建一个帐户。
+</p><p>Minetest中的帐户不是集中式的。这意味着帐户存储在每个服务器上，而不是存储在中央服务器上。
+</p><p>您不必使用与论坛上相同的用户名，甚至不需要拥有论坛帐户。
+强烈建议您使用密码，以防止他人盗窃您的播放器并造成损坏。
+</p><p>您可以通过单击暂停菜单（ESC）上的“更改密码”来更改密码。
+</p><p>Minetest使用<a rel="nofollow" class="external text" href="https://github.com/minetest/minetest/issues/1943">SRP身份验证</a>。
+</p><p>某些服务器要求您在其论坛主题上请求构建特权，以此作为一种防骚扰措施。
+</p><p>Minetest <a rel="nofollow" class="external text" href="https://github.com/minetest/minetest/issues/1943">uses SRP authentication</a>.
+</p><p>某些服务器要求您在其论坛主题上请求构建特权，以此作为一种防恶意破坏措施。
+</p><p><font color="red">翻译暂未完成</font>
+</p>
+<h3><span id="基本控制"></span><span class="mw-headline" id=".E5.9F.BA.E6.9C.AC.E6.8E.A7.E5.88.B6">基本控制</span></h3>
+<p><i>其中大多数可以在“更改键”菜单中更改。有关键盘控件的更完整列表，请参见 <a href="/index.php?title=%E6%8E%A7%E5%88%B6&amp;action=edit&amp;redlink=1" class="new" title="控制 (page does not exist)">控制</a>.</i>
+</p><p>最重要的默认控件是：
+</p>
+<ul><li><b>W/A/S/D</b>: 移动</li>
+<li><b>空格</b>: jump</li>
+<li><b>鼠标左键</b>: <a href="/Punching" title="Punching">破坏</a>, <a href="/Mining" title="Mining">挖矿</a> <a href="/Blocks" class="mw-redirect" title="Blocks">blocks</a>, 在<a href="/Inventory" title="Inventory">背包</a>中移动<a href="/Item_stack" title="Item stack">物品</a></li>
+<li><b>鼠标右键</b>: <a href="/Using" title="Using">打开或使用</a> (比如打开 <a href="/Chest" title="Chest">箱子</a> 或者 <a href="/Furnace" title="Furnace">熔炉</a>), <a href="/Building" title="Building">放置</a> 方块, 移动一件物品或在物品清单中拆分物品</li>
+<li><b>Shift</b>+<b>鼠标右键</b>: 仅放置块（在箱子或熔炉上放置方块时可以不打开它们）</li>
+<li><b>鼠标中键（通常是按下鼠标滚轮）</b>: 移动库存中的10个项目</li>
+<li><b>鼠标滚轮（前后滚动）</b>: 在<a href="/Hotbar" title="Hotbar">快捷栏</a>中选择项目</li>
+<li><b>0</b>-<b>9</b>: 在快捷栏里选择项目</li>
+<li><b>Q</b>: 从丢出的手持的块，物品或工具</li>
+<li><b>I</b>: 打开或关闭 <a href="/Inventory_menu" title="Inventory menu">库存清单</a></li>
+<li><b>T</b>: 打开 <a href="/Chat_window" title="Chat window">聊天窗口</a></li>
+<li><b>Shift</b>: 沿着梯子下降或 or <a href="/Sneaking" title="Sneaking">潜行</a> (走得慢一些，但可以防止从方块边缘上掉下来)</li></ul>
+<h3><span id="游戏玩法"></span><span class="mw-headline" id=".E6.B8.B8.E6.88.8F.E7.8E.A9.E6.B3.95">游戏玩法</span></h3>
+<p>Minetest的基本游戏玩法已在非官方教程中进行了讲授，该教程旨在面向新手，请参阅<a href="/Games/Tutorial" title="Games/Tutorial">游戏教程</a>以获取有关如何安装和启动它的指南。
+</p><p>有关如何快速开始游玩<a href="/Games/Minetest_Game" title="Games/Minetest Game">Minetest Game</a>，请参阅 <a href="/How_to_build_your_first_house" title="How to build your first house">如何建造你的第一个房子</a>.
+以下Wiki页面或多或少深入地介绍了Minetest的一些基本概念：（建议阅读）
+</p>
+<ul><li><a href="/Inventory" title="Inventory">库存清单</a></li>
+<li><a href="/Tool" title="Tool">工具</a></li>
+<li><a href="/Using" title="Using">打开或使用物品</a></li>
+<li><a href="/Mining" title="Mining">挖掘矿物</a></li>
+<li><a href="/Building" title="Building">建造</a></li>
+<li><a href="/Crafting" title="Crafting">合成</a></li>
+<li><a href="/Smelting" class="mw-redirect" title="Smelting">冶炼</a></li></ul>
+<p>掌握了基础知识之后，您可能想要查找可用的 <a href="/Blocks" class="mw-redirect" title="Blocks">方块</a> 和 <a href="/Items" title="Items">物品</a> ，以及了解Minetest的<a href="/Farming" title="Farming">农业</a>知识.（默认的农作物不多，你可以使用farming_redo扩充农业）
+</p><p>只是想要建造? 尝试 <a href="/Creative_mode" title="Creative mode">创造模式</a>!（默认的方块并不多，你可以用诸如homedecor,moreblocks之类的Mod扩充游戏）
+</p><p>如果你想要玩更多内容，请安装 <a href="/Mods" title="Mods">mods</a> 和 <a href="/Games" title="Games">整合包</a>.（推荐！）
+（Minetest Game仅仅包含很少的游戏玩法）
+（请使用mods扩充它）
+</p><p>如果要在线玩远程服务器，应该先阅读 <a href="/Server#In_the_server" title="Server">多人服务器的游戏说明</a>.
+</p><p><i>高级说明:</i>
+</p>
+<ul><li><a href="/Groups" title="Groups">组</a></li>
+<li><a href="/Liquid" title="Liquid">液体</a></li>
+<li><a href="/Light" title="Light">光</a></li></ul>
+<h2><span id="也可以看一看"></span><span class="mw-headline" id=".E4.B9.9F.E5.8F.AF.E4.BB.A5.E7.9C.8B.E4.B8.80.E7.9C.8B">也可以看一看</span></h2>
+<ul><li><a href="/Help:Advanced_Beginners_Guide" class="mw-redirect" title="Help:Advanced Beginners Guide">帮助：高级初学者指南</a></li></ul>
+<table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> 语言:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><a href="/Getting_Started" title="Getting Started">English</a>&#160;• <bdi lang="de"><a href="/Getting_Started/de" title="Getting Started/de">Deutsch</a></bdi>&#160;• <bdi lang="fr"><a href="/Getting_Started/fr" title="Getting Started/fr">français</a></bdi>&#160;• <bdi lang="id"><a href="/Getting_Started/id" title="Getting Started/id">Bahasa Indonesia</a></bdi>&#160;• <bdi lang="ja"><a href="/Getting_Started/ja" title="Getting Started/ja">日本語</a></bdi><b>&#160;• <bdi lang="zh-hans"><a class="mw-selflink selflink">中文（简体）‎</a></bdi></b></td>
+</tr></tbody></table>
+<!-- 
+NewPP limit report
+Cached time: 20230709042420
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.274 seconds
+Real time usage: 0.547 seconds
+Preprocessor visited node count: 176/1000000
+Post‐expand include size: 2967/2097152 bytes
+Template argument size: 489/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 13/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 906/5000000 bytes
+Lua time usage: 0.120/7 seconds
+Lua virtual size: 5.53 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  381.364      1 -total
+ 89.07%  339.679      2 Template:Languages
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:4906-0!canonical and timestamp 20230709042420 and revision id 26632
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Getting_Started/zh-hans&amp;oldid=26632">http://wiki.minetest.net/index.php?title=Getting_Started/zh-hans&amp;oldid=26632</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/index.php?title=Category:Pages_using_deprecated_source_tags&amp;action=edit&amp;redlink=1" class="new" title="Category:Pages using deprecated source tags (page does not exist)">Pages using deprecated source tags</a></li><li><a href="/index.php?title=Category:Pages_with_syntax_highlighting_errors&amp;action=edit&amp;redlink=1" class="new" title="Category:Pages with syntax highlighting errors (page does not exist)">Pages with syntax highlighting errors</a></li><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li><li><a href="/Category:Tutorials" title="Category:Tutorials">Tutorials</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Getting+Started%2Fzh-hans" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Getting_Started/zh-hans" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Getting_Started/zh-hans&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Getting_Started/zh-hans">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Getting_Started/zh-hans&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Getting_Started/zh-hans&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Getting_Started/zh-hans" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Getting_Started/zh-hans" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Getting_Started/zh-hans&amp;oldid=26632" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Getting_Started/zh-hans&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 18 December 2021, at 18:24.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.274","walltime":"0.547","ppvisitednodes":{"value":176,"limit":1000000},"postexpandincludesize":{"value":2967,"limit":2097152},"templateargumentsize":{"value":489,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":13,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":906,"limit":5000000},"timingprofile":["100.00%  381.364      1 -total"," 89.07%  339.679      2 Template:Languages"]},"scribunto":{"limitreport-timeusage":{"value":"0.120","limit":"7"},"limitreport-virtmemusage":{"value":5795840,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709042420","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":270});});</script></body></html>

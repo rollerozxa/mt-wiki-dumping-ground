@@ -1,0 +1,407 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>MinetestEDU/Informations about ''minetest.conf'' - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"f3f6ff993d1c84bdd07a0071","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"MinetestEDU/Informations_about_''minetest.conf''","wgTitle":"MinetestEDU/Informations about ''minetest.conf''","wgCurRevisionId":23749,"wgRevisionId":23749,"wgArticleId":4809,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["MinetestEDU"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"MinetestEDU/Informations_about_''minetest.conf''","wgRelevantArticleId":4809,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,
+"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=skins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-MinetestEDU_Informations_about_minetest_conf rootpage-MinetestEDU skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">MinetestEDU/Informations about ''minetest.conf''</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/MinetestEDU" title="MinetestEDU">MinetestEDU</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>Le fichier minetest.conf, que l'on place souvent dans /home/user/.minetest, contient toute une série de paramètres à configurer pour personnaliser votre serveur.
+</p><p>Voici un exemple de fichier minetest.conf&#160;:
+</p>
+<pre> /# configuration file for minetestserver
+ # Admin name
+ name = Sangokuss
+ # Server Language
+ language = fr
+ kick_msg_shutdown = "Fermeture du Serveur"
+ kick_msg_crash = "Le serveur a expérimenté une erreur interne. Vous avez été déconnecté. Le serveur s’est normalement relancé automatiquement. Vous pouvez donc vous y connecter"
+ # Server stuff
+ # Network port to listen (UDP)
+ port = 30000
+ # mg_name = v7
+ # Bind address
+ #bind_address = 123.123.123.123
+ # Name of server
+ server_name = [FR] Framinetest
+ # Description of server
+ server_description = Le bac à sable pédagogique de Framasoft pour «&#160;imaginer votre monde&#160;»&#160;!
+ # Domain name of server
+ server_address = framinetest.org
+ # Homepage of server
+ server_url = framinetest.org
+ # Automaticaly report to masterserver
+ # set to true for public servers
+ server_announce = true
+ # Announce to this masterserver. if you want to announce your ipv6 address
+ # serverlist_url = v6.servers.minetest.net
+ # Enable/disable running an IPv6 server. An IPv6 server may be
+ # restricted to IPv6 clients, depending on system configuration.
+ # Ignored if bind_address is set.
+ # type: bool
+ ipv6_server = true
+ serverlist_url = servers.minetest.net
+ # Default game (default when creating a new world)
+ default_game = minetest
+ # World directory (everything in the world is stored here)
+ # map-dir = /home/minetest/.minetest/worlds/Framinetest/
+ texture_path = /home/minetest/.minetest/textures/server/
+ # Message of the Day
+ motd = Bienvenue sur le serveur Framinetest&#160;:-) Rendez-vous sur le site <a rel="nofollow" class="external free" href="https://framinetest.org">https://framinetest.org</a> pour avoir davantage d'informations et/ou rejoignez-nous sur le forum Framacolibri.org pour échanger&#160;!
+ # Maximum number of players connected simultaneously
+ max_users = 30
+ # Whether to enable players killing each other
+ enable_pvp = false
+ # Set to true to enable creative mode (unlimited inventory)
+ creative_mode = false
+ # Enable players getting damage and dying
+ enable_damage = true
+ # Available privileges: interact, shout, teleport, settime, privs, ...
+ # See /privs in game for a full list on your server and mod configuration.
+ default_privs = home, shout
+ # Set to true to disallow old clients from connecting
+ strict_protocol_version_checking = true
+ # Time in seconds for item entity to live. Default value: 900s
+ # Setting it to -1 disables the feature
+ #item_entity_ttl = 900
+ # Despawn all non-peaceful mobs
+ only_peaceful_mobs = false
+ # A chosen map seed for a new map, leave empty for random
+ #fixed_map_seed =
+ # Gives some stuff to players at the beginning
+ give_initial_stuff = false
+ # New users need to input this password
+ #default_password =
+ enable_fire = false
+ # Whether players are shown to clients without any range limit
+ unlimited_player_transfer_distance = true
+ # If this is set, players will always (re)spawn at the given position
+ static_spawnpoint = -60,20.5,-120
+ # If true, new players cannot join with an empty password
+ disallow_empty_password = true
+ # If true, disable cheat prevention in multiplayer
+ #disable_anticheat = false
+ # If true, actions are recorded for rollback
+ enable_rollback_recording = false
+ # handling for deprecated lua api calls
+ #    "legacy" = (try to) mimic old behaviour (default for release)
+ #    "log"    = mimic and log backtrace of deprecated call (default for debug)
+ #    "error"  = abort on usage of deprecated call (suggested for mod developers)
+ #deprecated_lua_api_handling = legacy
+ # Profiler data print interval. #0 = disable.
+ #profiler_print_interval = 0
+ #enable_mapgen_debug_info = false
+ # from how far client knows about objects
+ active_object_send_range_blocks = 2
+ # how large area of blocks are subject to the active block stuff (active = objects are loaded and ABMs run)
+ active_block_range = 1
+ # how many blocks are flying in the wire simultaneously per client
+ max_simultaneous_block_sends_per_client = 1
+ # how many blocks are flying in the wire simultaneously per server
+ #max_simultaneous_block_sends_server_total = 10000
+ max_simultaneous_block_sends_server_total = 30
+ # From how far blocks are sent to clients (value * 16 nodes)
+ max_block_send_distance = 10
+ # From how far blocks are generated for clients (value * 16 nodes)
+ max_block_generate_distance = 2
+ # Number of extra blocks that can be loaded by /clearobjects at once
+ # This is a trade-off between sqlite transaction overhead and
+ # memory consumption (4096=100MB, as a rule of thumb)
+ #max_clearobjects_extra_loaded_blocks = 4096
+ # Maximum number of forceloaded blocks
+ #max_forceloaded_blocks = 16
+ # Interval of sending time of day to clients
+ time_send_interval = 5
+ # time_send_interval = 2500
+ # Length of day/night cycle. 72=20min, 360=4min, 1=24hour, 0=day/night/whatever stays unchanged
+ time_speed = 72
+ # Length of year in days for seasons change. With default time_speed 365 days = 5 real days for year. 30 days = 10 real hours
+ year_days = 30
+ client_unload_unused_data_timeout = 300
+ server_unload_unused_data_timeout = 29
+ # Maximum number of statically stored objects in a block
+ # max_objects_per_block = 49
+ # Interval of saving important changes in the world
+ #server_map_save_interval = 15.3
+ server_map_save_interval = 15.3
+ # <a rel="nofollow" class="external free" href="http://www.sqlite.org/pragma.html#pragma_synchronous">http://www.sqlite.org/pragma.html#pragma_synchronous</a> only numeric values: 0 1 2
+ # sqlite_synchronous = 2
+ # To reduce lag, block transfers are slowed down when a player is building something.
+ # This determines how long they are slowed down after placing or removing a node.
+ #full_block_send_enable_min_time_from_building = 2.0
+ # Length of a server tick and the interval at which objects are generally updated over network
+ dedicated_server_step = 0.1
+ # Can be set to true to disable shutting down on invalid world data
+ #ignore_world_load_errors = false
+ # Specifies URL from which client fetches media instead of using UDP
+ # $filename should be accessible from $remote_media$filename via cURL
+ # (obviously, remote_media should end with a slash)
+ # Files that are not present would be fetched the usual way
+ #remote_media =
+ # Level of logging to be written to debug.txt.
+ # 0 = none, 1 = errors and debug, 2 = action, 3 = info, 4 = verbose
+ debug_log_level = 3
+ # Maximum number of blocks that can be queued for loading.
+ #emergequeue_limit_total = 256
+ # Maximum number of blocks to be queued that are to be loaded from file.
+ # Set to blank for an appropriate amount to be chosen automatically.
+ #emergequeue_limit_diskonly = 32
+ # Maximum number of blocks to be queued that are to be generated.
+ # Set to blank for an appropriate amount to be chosen automatically.
+ #emergequeue_limit_generate = 32
+ # Number of emerge threads to use.  Make this field blank, or increase this number, to use multiple threads.
+ # On multiprocessor systems, this will improve mapgen speed greatly, at the cost of slightly buggy caves.
+ #num_emerge_threads = 1
+ # maximum number of packets sent per send step, if you have a slow connection
+ # try reducing it, but don't reduce it to a number below double of targeted
+ # client number
+ #max_packets_per_iteration = 1024
+ # Hudbars config
+ # hudbars_bar_type = statbar_classic
+ # hudbars_sorting = health=0, hunger=3, breath=2
+ server_dedicated = true
+ spawnpoint_no_interact = 1211,28,1178
+ wieldview_node_tiles = false
+ wieldview_update_time = 2
+ spawnpoint_interact = -134,40,-217
+ random_messages_interval = 600
+ # mobs_animal:bee_chance = 12000
+ # mobs_animal:rat_chance = 18000
+ # mobs_animal:warthog_chance = 18000
+ # mobs_animal:penguin_chance = 23000
+ # mobs_animal:kitten_chance = 25000
+ # mobs_animal:cow_chance = 18000
+ # mobs_animal:chicken_chance = 18000
+ # mobs_animal:bunny_chance = 18000
+ # mobs_animal:sheep_chance = 18000
+ cache_block_before_spawn = true
+ secure.enable_security = true
+ secure.http_mods = digistuff
+ max_names_per_ip = 15
+ enable_clouds = 0
+ enable_3d_clouds = 0
+ enable_sound = 0
+ enable_item_drops = false
+ enable_item_pickup = true
+ remove_items = -1
+ disable_fire = true
+ enable_mesh_cache = false
+</pre>
+<!-- 
+NewPP limit report
+Cached time: 20230709115255
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.011 seconds
+Real time usage: 0.012 seconds
+Preprocessor visited node count: 1/1000000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 1/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    0.000      1 -total
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:4809-0!canonical and timestamp 20230709115254 and revision id 23749
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=MinetestEDU/Informations_about_%27%27minetest.conf%27%27&amp;oldid=23749">http://wiki.minetest.net/index.php?title=MinetestEDU/Informations_about_%27%27minetest.conf%27%27&amp;oldid=23749</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/Category:MinetestEDU" title="Category:MinetestEDU">MinetestEDU</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=MinetestEDU%2FInformations+about+%27%27minetest.conf%27%27" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/MinetestEDU/Informations_about_%27%27minetest.conf%27%27" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:MinetestEDU/Informations_about_%27%27minetest.conf%27%27&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/MinetestEDU/Informations_about_%27%27minetest.conf%27%27">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=MinetestEDU/Informations_about_%27%27minetest.conf%27%27&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=MinetestEDU/Informations_about_%27%27minetest.conf%27%27&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/MinetestEDU/Informations_about_%27%27minetest.conf%27%27" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/MinetestEDU/Informations_about_%27%27minetest.conf%27%27" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=MinetestEDU/Informations_about_%27%27minetest.conf%27%27&amp;oldid=23749" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=MinetestEDU/Informations_about_%27%27minetest.conf%27%27&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 7 January 2020, at 10:09.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.011","walltime":"0.012","ppvisitednodes":{"value":1,"limit":1000000},"postexpandincludesize":{"value":0,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":1,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20230709115255","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":539});});</script></body></html>

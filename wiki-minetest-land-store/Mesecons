@@ -1,0 +1,414 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Mods/Mesecons - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"41aeafda76875ef26e957739","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Mods/Mesecons","wgTitle":"Mods/Mesecons","wgCurRevisionId":27027,"wgRevisionId":27027,"wgArticleId":1250,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages","Incomplete pages","Mods"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Mods/Mesecons","wgRelevantArticleId":1250,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Mesecons",
+"wgInternalRedirectTargetUrl":"/Mods/Mesecons"};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<link rel="canonical" href="http://wiki.minetest.net/Mods/Mesecons"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Mods_Mesecons rootpage-Mods skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Mods/Mesecons</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/Mods" title="Mods">Mods</a></span><span class="mw-redirectedfrom">(Redirected from <a href="/index.php?title=Mesecons&amp;redirect=no" class="mw-redirect" title="Mesecons">Mesecons</a>)</span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> Language:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><b><a class="mw-selflink selflink">English</a></b>&#160;• <bdi lang="de"><a href="/Mods/Mesecons/de" title="Mods/Mesecons/de">Deutsch</a></bdi>&#160;• <bdi lang="ms"><a href="/Mods/Mesecons/ms" title="Mods/Mesecons/ms">Bahasa Melayu</a></bdi></td>
+</tr></tbody></table>
+<table class="wikitable" width="200px" style="float:right;text-align:left;margin:0 0 0.5em 1em;padding:5px;font-size:90%;position:relative;clear:right;overflow:auto;z-index:1">
+
+<tbody><tr>
+<th colspan="2" style="font-size:110%;text-align:center">Mesecons
+</th></tr>
+<tr>
+<th colspan="2"><div class="center"><a href="/File:Blank.png" class="image"><img alt="Blank.png" src="/images/d/d2/Blank.png" decoding="async" width="150" height="150" /></a></div>
+</th></tr>
+<tr>
+<th colspan="2" align="center">A <a href="/Mods" title="Mods">mod</a>
+</th></tr>
+<tr>
+<td><b>Mod Type</b>
+</td>
+<td>Industrialization
+</td></tr>
+<tr>
+<td><b>Author</b>
+</td>
+<td>Jeija, Mesecon-team
+</td></tr>
+<tr>
+<td><b>Latest version</b>
+</td>
+<td><i>?</i>
+</td></tr>
+<tr>
+<td><b>Forum topic</b>
+</td>
+<td><a rel="nofollow" class="external text" href="http://minetest.net/forum/viewtopic.php?id=628">628</a>
+</td></tr>
+<tr>
+<td><b>Source code</b>
+</td>
+<td><a rel="nofollow" class="external text" href="https://github.com/Jeija/minetest-mod-mesecons">GitHub</a>
+</td></tr>
+<tr>
+<td><b>ContentDB</b>
+</td>
+<td><a rel="nofollow" class="external free" href="https://content.minetest.net/packages/Jeija/mesecons/">https://content.minetest.net/packages/Jeija/mesecons/</a>
+</td></tr>
+<tr>
+<td><b>Technical name</b>
+</td>
+<td>mesecons
+</td></tr></tbody></table>
+<p>Mesecons is a mod that adds a kind of electricity, making automation possible. There are blocks that generate signal on some event (receptors), that perform some action when receive signal (effectors), logic blocks that process the signal and conductors to join them all together. Note that there is no notion of power or (unlike Redstone) signal level, the signal is either present or absent.
+</p><p>This mod by itself affects the gameplay considerably, but it makes <a href="/Mods/Pipeworks" title="Mods/Pipeworks">Pipeworks</a> insanely powerful, especially when combined with <a href="/Mods/Digilines" title="Mods/Digilines">Digilines</a>!
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Nodes"><span class="tocnumber">1</span> <span class="toctext">Nodes</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Receptors"><span class="tocnumber">1.1</span> <span class="toctext">Receptors</span></a>
+<ul>
+<li class="toclevel-3 tocsection-3"><a href="#Manual"><span class="tocnumber">1.1.1</span> <span class="toctext">Manual</span></a></li>
+<li class="toclevel-3 tocsection-4"><a href="#Environment-dependent"><span class="tocnumber">1.1.2</span> <span class="toctext">Environment-dependent</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#Other"><span class="tocnumber">1.1.3</span> <span class="toctext">Other</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-6"><a href="#Effectors"><span class="tocnumber">1.2</span> <span class="toctext">Effectors</span></a>
+<ul>
+<li class="toclevel-3 tocsection-7"><a href="#Movers"><span class="tocnumber">1.2.1</span> <span class="toctext">Movers</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="#Ghost_stones"><span class="tocnumber">1.2.2</span> <span class="toctext">Ghost stones</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="#Signals"><span class="tocnumber">1.2.3</span> <span class="toctext">Signals</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-10"><a href="#Logic"><span class="tocnumber">1.3</span> <span class="toctext">Logic</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Interaction_with_other_mods"><span class="tocnumber">2</span> <span class="toctext">Interaction with other mods</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Itemstrings"><span class="tocnumber">3</span> <span class="toctext">Itemstrings</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#Blocks"><span class="tocnumber">3.1</span> <span class="toctext">Blocks</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Items"><span class="tocnumber">3.2</span> <span class="toctext">Items</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Nodes">Nodes</span></h2>
+<p>Note that if you plan to build an autonomous system, you may face all the problems that unloaded or inactive blocks present. See the corresponding <a href="/Mods/Mesecons/Inactive_mapblock_handling" title="Mods/Mesecons/Inactive mapblock handling">documentation page</a> for details.
+</p>
+<h3><span class="mw-headline" id="Receptors">Receptors</span></h3>
+<p>These are receptors included in the Mesecons modpack. More are available in e.g. <a href="/Mods/Pipeworks" title="Mods/Pipeworks">Pipeworks</a>.
+</p>
+<h4><span class="mw-headline" id="Manual">Manual</span></h4>
+<ul><li>Switch</li>
+<li>Wall Lever</li>
+<li>Wall Button</li></ul>
+<h4><span class="mw-headline" id="Environment-dependent">Environment-dependent</span></h4>
+<ul><li>Player Detector (internally called Object Detector)</li>
+<li>Node Detector</li>
+<li>Pressure Plate</li>
+<li>Water Turbine</li>
+<li>Solar Panel</li></ul>
+<h4><span class="mw-headline" id="Other">Other</span></h4>
+<ul><li>Power Plant: continuously generates signal</li>
+<li>Blinky Plant: toggles its state each 3 seconds, thus generating 1/6 Hz clock signal</li></ul>
+<h3><span class="mw-headline" id="Effectors">Effectors</span></h3>
+<p>Mesecons include various effectors, from simple light blocks to sticky movestones that can push and pull up to 50 nodes.
+</p>
+<h4><span class="mw-headline" id="Movers">Movers</span></h4>
+<ul><li>Piston: pushes up to 20 nodes in from of it when powered on</li>
+<li>Sticky Piston: the same, and pulls one node on power-off</li>
+<li>Movestone: moves along on the right side of a wire pushing up to 50 nodes</li>
+<li>Sticky Movestone: also pulls up to 50 (!) nodes</li></ul>
+<h4><span class="mw-headline" id="Ghost_stones">Ghost stones</span></h4>
+<ul><li>Removestone just disappears on power-on</li>
+<li>Ghoststone <i>temporarily</i> disappears when powered, but remains conductive and reappears on power-off</li></ul>
+<h4><span class="mw-headline" id="Signals">Signals</span></h4>
+<ul><li>Lamp</li>
+<li>Lightstones of different colors</li>
+<li>Noteblock makes sound on power-on</li></ul>
+<h3><span class="mw-headline" id="Logic">Logic</span></h3>
+<p>The most powerful thing in this category is the Lua Controller that runs a user-specified program. But you can also use:
+</p>
+<ul><li>Torch (a slow invertor)</li>
+<li>Delayer</li>
+<li>Single-input gates: diode, NOT</li>
+<li>Two-input gates: AND, NAND, OR, NOR, XOR (depending on mod version)</li></ul>
+<p>Note that while Lua Controller has built-in own interrupt support it is used to be unreliable for continuous operation. But Blinky Plant may be used instead.
+</p>
+<h2><span class="mw-headline" id="Interaction_with_other_mods">Interaction with other mods</span></h2>
+<table style="margin: 0 auto 1em; text-align: justify; border-collapse: collapse; border-width: 1px; border-style: dashed; width: 100%; clear: both; border-color:#f28500; background:#ffe;">
+<tbody><tr>
+<td style="border: none; padding: 2px 0 2px 0.9em; text-align: center;">
+ <img alt="Mbox important.png" src="/images/thumb/7/79/Mbox_important.png/25px-Mbox_important.png" decoding="async" width="25" height="25" srcset="/images/thumb/7/79/Mbox_important.png/38px-Mbox_important.png 1.5x, /images/7/79/Mbox_important.png 2x" /></td>
+<td style="border: none; padding: 0.25em 0.9em; width: 100%;"><b>This article is incomplete.</b><br />
+Please help expand this article to include more useful information.</td>
+
+</tr></tbody></table>
+<h2><span class="mw-headline" id="Itemstrings">Itemstrings</span></h2>
+<p><i>Prefix: mesecons:</i>
+</p>
+<h3><span class="mw-headline" id="Blocks">Blocks</span></h3>
+<ul><li>mesecon_off</li>
+<li>mesecon_on</li>
+<li>power_plant</li>
+<li>blinky_plant_off</li>
+<li>blinky_plant_on</li>
+<li>solar_panel</li>
+<li>meselamp_on</li>
+<li>meselamp_off</li>
+<li>movestone</li>
+<li>sticky_movestone</li>
+<li>piston_normal</li>
+<li>piston_sticky</li>
+<li>hydro_turbine_off</li>
+<li>hydro_turbine_on</li>
+<li>mesecon_switch_off</li>
+<li>mesecon_switch_on</li>
+<li>removestone</li>
+<li>wireless_receiver_off</li>
+<li>wireless_receiver_on</li>
+<li>wireless_inverter_off</li>
+<li>wireless_inverter_on</li>
+<li>wireless_transmitter_off</li>
+<li>wireless_transmitter_on</li>
+<li>pressure_plate_wood_off</li>
+<li>pressure_plate_wood_on</li>
+<li>pressure_plate_stone off</li>
+<li>pressure_plate_stone on</li>
+<li>object_detector_off</li>
+<li>object_detector_on</li></ul>
+<h3><span class="mw-headline" id="Items">Items</span></h3>
+<ul><li>silicon</li>
+<li>glue</li>
+<li>ic</li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://mesecons.net/">mesecons.net</a></li>
+<li><a href="/index.php?title=Itemstrings/mesecons&amp;action=edit&amp;redlink=1" class="new" title="Itemstrings/mesecons (page does not exist)">Itemstrings/mesecons</a></li>
+<li><a href="/Mods/Digilines" title="Mods/Digilines">Mods/Digilines</a></li>
+<li><a href="/Mods/Pipeworks" title="Mods/Pipeworks">Mods/Pipeworks</a></li></ul>
+<!-- 
+NewPP limit report
+Cached time: 20230711172403
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.277 seconds
+Real time usage: 0.562 seconds
+Preprocessor visited node count: 196/1000000
+Post‐expand include size: 4249/2097152 bytes
+Template argument size: 602/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 15/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.150/7 seconds
+Lua virtual size: 5.94 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  450.895      1 -total
+ 69.70%  314.269      1 Template:Languages
+ 24.36%  109.850      1 Template:Mod_Data
+  5.67%   25.579      1 Template:Incomplete
+  3.31%   14.936      1 Template:Mbox
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:1250-0!canonical and timestamp 20230711172402 and revision id 27027
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Mods/Mesecons&amp;oldid=27027">http://wiki.minetest.net/index.php?title=Mods/Mesecons&amp;oldid=27027</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li><li><a href="/Category:Incomplete_pages" title="Category:Incomplete pages">Incomplete pages</a></li><li><a href="/Category:Mods" title="Category:Mods">Mods</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Mods%2FMesecons" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Mods/Mesecons" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Mods/Mesecons&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Mods/Mesecons">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Mods/Mesecons&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Mods/Mesecons&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Mods/Mesecons" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Mods/Mesecons" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Mods/Mesecons&amp;oldid=27027" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Mods/Mesecons&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 23 December 2022, at 17:54.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.277","walltime":"0.562","ppvisitednodes":{"value":196,"limit":1000000},"postexpandincludesize":{"value":4249,"limit":2097152},"templateargumentsize":{"value":602,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":15,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  450.895      1 -total"," 69.70%  314.269      1 Template:Languages"," 24.36%  109.850      1 Template:Mod_Data","  5.67%   25.579      1 Template:Incomplete","  3.31%   14.936      1 Template:Mbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.150","limit":"7"},"limitreport-virtmemusage":{"value":6225920,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230711172403","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":277});});</script></body></html>

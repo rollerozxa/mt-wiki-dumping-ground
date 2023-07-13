@@ -1,0 +1,325 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Server/pt-br - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"a6ba6176923321d22309bfa9","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Server/pt-br","wgTitle":"Server/pt-br","wgCurRevisionId":14726,"wgRevisionId":14726,"wgArticleId":2790,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages","Languages pages without translations","Server"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Server/pt-br","wgRelevantArticleId":2790,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={
+"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Server_pt-br rootpage-Server skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Server/pt-br</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/Server" title="Server">Server</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> Language:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><b><a class="mw-selflink selflink">English</a></b></td>
+</tr></tbody></table>
+<p><b>Servidores</b> de Minetest permitem jogadores jogarem online com outras pessoas. Eles podem funcionar a partir de um servidor dedicado, um servidor virtual privado (VPS - Virtual Private Server) ou um computador caseiro. Isso não é uma lista de servidores, favor ver a <a rel="nofollow" class="external text" href="http://minetest.net/servers">Lista de Servidores de Minetest</a> ou a <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewforum.php?f=10">seção de servidores no fórum do Minetest</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Gerenciando_um_servidor"><span class="tocnumber">1</span> <span class="toctext">Gerenciando um servidor</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Montar_do_servidor"><span class="tocnumber">1.1</span> <span class="toctext">Montar do servidor</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Configura.C3.A7.C3.A3o_do_Servidor"><span class="tocnumber">1.2</span> <span class="toctext">Configuração do Servidor</span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="#Comandos_de_servidor"><span class="tocnumber">1.2.1</span> <span class="toctext">Comandos de servidor</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-5"><a href="#Sistema_de_privil.C3.A9gios"><span class="tocnumber">1.3</span> <span class="toctext">Sistema de privilégios</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Jogando_em_um_servidor"><span class="tocnumber">2</span> <span class="toctext">Jogando em um servidor</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Encontrando_um_servidor"><span class="tocnumber">2.1</span> <span class="toctext">Encontrando um servidor</span></a>
+<ul>
+<li class="toclevel-3 tocsection-8"><a href="#Lista_p.C3.BAblica_de_servidores"><span class="tocnumber">2.1.1</span> <span class="toctext">Lista pública de servidores</span></a>
+<ul>
+<li class="toclevel-4 tocsection-9"><a href="#Dentro_do_jogo"><span class="tocnumber">2.1.1.1</span> <span class="toctext">Dentro do jogo</span></a></li>
+<li class="toclevel-4 tocsection-10"><a href="#Na_Web"><span class="tocnumber">2.1.1.2</span> <span class="toctext">Na Web</span></a></li>
+</ul>
+</li>
+<li class="toclevel-3 tocsection-11"><a href="#F.C3.B3runs"><span class="tocnumber">2.1.2</span> <span class="toctext">Fóruns</span></a></li>
+<li class="toclevel-3 tocsection-12"><a href="#Amigos"><span class="tocnumber">2.1.3</span> <span class="toctext">Amigos</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-13"><a href="#Conectando_em_um_servidor"><span class="tocnumber">2.2</span> <span class="toctext">Conectando em um servidor</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Em_um_servidor"><span class="tocnumber">2.3</span> <span class="toctext">Em um servidor</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Gerenciando_um_servidor">Gerenciando um servidor</span></h2>
+<h3><span class="mw-headline" id="Montar_do_servidor">Montar do servidor</span></h3>
+<ul><li>Configurar um servidor de tal forma para que outros possam se conectar a ele através da Internet leva algum tempo, e um pouco de conhecimento técnico.</li>
+<li>Netbooks e Notebooks geralmente não são máquinas boas para servidor devido ao fato de que eles normalmente têm hardware inferior (simplista).</li>
+<li>Não tente hospedar um servidor minimamente considerável (com poucas pessoas) em uma rede sem fio, use uma rede com fio.</li></ul>
+<p>Para mais informações veja a página <a href="/Help:Setting_up_a_server" class="mw-redirect" title="Help:Setting up a server">configurando um servidor</a>, ou uma <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?id=2870">discussão no fórum</a> para uma explicação da configuração em seu servidor.
+</p>
+<h3><span id="Configuração_do_Servidor"></span><span class="mw-headline" id="Configura.C3.A7.C3.A3o_do_Servidor">Configuração do Servidor</span></h3>
+<p>Para uma explicação detalhada do arquivo de configuração do servidor, veja a página <a rel="nofollow" class="external text" href="https://github.com/minetest/minetest/blob/master/minetest.conf.example">minetest.conf</a>
+</p><p>Você também pode considerar usar um <a href="/Database_backends" title="Database backends">backend do banco de dados</a> diferente para seu mundo.
+</p>
+<h4><span class="mw-headline" id="Comandos_de_servidor">Comandos de servidor</span></h4>
+<p>Veja a página <a href="/Server_commands" title="Server commands">Comandos de servidor</a> para uma lista de comandos úteis.
+</p><p>Veja também <a href="/Itemstrings" title="Itemstrings">Itemstrings</a> para itemstrings usadas nos comandos <code>/give</code> e <code>/giveme</code>.
+</p>
+<h3><span id="Sistema_de_privilégios"></span><span class="mw-headline" id="Sistema_de_privil.C3.A9gios">Sistema de privilégios</span></h3>
+<p>Veja a página <a href="/Privileges" title="Privileges">privilégios</a> para informações detalhadas do sistema de privilégios.
+</p>
+<h2><span class="mw-headline" id="Jogando_em_um_servidor">Jogando em um servidor</span></h2>
+<h3><span class="mw-headline" id="Encontrando_um_servidor">Encontrando um servidor</span></h3>
+<p>A fim de jogar em um servidor você precisa saber sobre tudo o endereço e um número da porta de um servidor em primeiro lugar. Há muitas maneiras de encontrar esses endereços.
+</p>
+<h4><span id="Lista_pública_de_servidores"></span><span class="mw-headline" id="Lista_p.C3.BAblica_de_servidores">Lista pública de servidores</span></h4>
+<p>Listas pública de servidores são basicamente listas de endereços de servidores. Você pode obter uma lista de servidores disponíveis por vários caminhos.
+</p>
+<h5><span class="mw-headline" id="Dentro_do_jogo">Dentro do jogo</span></h5>
+<p>O caminho mais fácil de obter uma lista de servidores é dentro do jogo. Você encontra no menu principal na aba “Cliente”.
+</p>
+<h5><span class="mw-headline" id="Na_Web">Na Web</span></h5>
+<p><b><a rel="nofollow" class="external text" href="http://minetest.net/servers">Essa página na Web</a></b> possui uma lista de servidores.
+</p>
+<h4><span id="Fóruns"></span><span class="mw-headline" id="F.C3.B3runs">Fóruns</span></h4>
+<p>No fórum do Minetest forums, existe um subfórum chamado “<a rel="nofollow" class="external text" href="https://forum.minetest.net/viewforum.php?f=10">Servers</a>” (em inglês). A finalidade deste subfórum é anunciar servidores e seus endereços. Também discussão desses servidores.
+</p>
+<h4><span class="mw-headline" id="Amigos">Amigos</span></h4>
+<p>Você pode conhecer um amigo que hospeda um servidor de Minetest, pergunte a ele o endereço e o número da porta.
+</p>
+<h3><span class="mw-headline" id="Conectando_em_um_servidor">Conectando em um servidor</span></h3>
+<p>Se você obter endereço e número da porta de um servidor, você precisará apenas inseri-los nos seus respectivos campos da aba “Servidor” do menu principal e clicar em “Conectar”, ou apertar <kbd>Enter</kbd>. Caso você usar a lista de servidores dentro do jogo, Minetest preencherá esses campos automaticamente para você.
+</p><p>Você também precisa escolher um nome de jogador (ou nickname). Nomes de jogadores precisam ser único para aquele servidor (ou seja, não devem ter dois jogadores com o mesmo nome em um servidor). Os caracteres permitidos são a-z, A-Z, 0-9, hífen (“-”) e o sublinhado (“_”). O nome não deve ser “singleplayer”. Os nomes de jogadores são também maiúsculas e minúsculas, portanto “Exemplo” não é o mesmo que “exemplo”.
+</p><p>Alguns servidores podem requerer:
+</p>
+<ul><li>uma senha padrão para todos os novos usuários, pergunte ao dono do servidor ou equipe gestora,</li>
+<li>ou uma senha não-nula, para prevenir o roubo de contas.</li></ul>
+<p><b>Importante</b>: Se você conectar-se a um servidor pela primeira vez e tiver colocado uma senha, o servidor vai criar automatica e silenciosamente uma conta para você, se você conseguiu se conectar com sucesso. Não haverá mensagens adicionais que confirmem esta criação de conta. Se você se conectar novamente a este mesmo servidor com esse mesmo nome de usuário, digite a mesma senha que digitou pela primeira vez.
+</p><p><b>Atenção</b>: Não há mecanismo automático para recuperar uma senha perdida. Se você perdeu sua senha, você poderia tentar entrar em contato com um dos operadores de servidor, mas não há garantia de que eles irão ajudá-lo.
+</p>
+<h3><span class="mw-headline" id="Em_um_servidor">Em um servidor</span></h3>
+<p>A jogabilidade em um servidor multijogador (multiplayer) é basicamente a mesma que em um jogo de jogador único (singleplayer). Aplicam-se as mesmas regras. Veja a página <a href="/Help:Getting_Started#Gameplay" class="mw-redirect" title="Help:Getting Started">Começando</a> para conceitos relacionados à jogabilidade.
+</p><p>No entanto, em servidores multijogadores, alguns conceitos pouco importantes em um jogo de jogador único são importantes no modo multijogador:
+</p>
+<ul><li><a href="/Privileges" title="Privileges">Privilégios</a>: aprenda o que você pode e não pode fazer em um servidor</li>
+<li><a href="/Chat" title="Chat">Bate-papo (chat)</a>: aprenda como comunicar-se com outros jogadores</li>
+<li><a href="/Server_commands" title="Server commands">Comandos de servidor</a>: aprender a usar os comandos do servidor. Os comandos do servidor não são apenas úteis para os operadores de servidores, mas também para os jogadores; Por exemplo, você pode pulverizar(deletar) um item, teleportar-se, descobrir seus privilégios e mais</li></ul>
+<!-- 
+NewPP limit report
+Cached time: 20230709175139
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.182 seconds
+Real time usage: 0.518 seconds
+Preprocessor visited node count: 98/1000000
+Post‐expand include size: 1207/2097152 bytes
+Template argument size: 143/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 14/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.110/7 seconds
+Lua virtual size: 5.55 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  411.650      1 Template:Languages
+100.00%  411.650      1 -total
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:2790-0!canonical and timestamp 20230709175138 and revision id 14726
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Server/pt-br&amp;oldid=14726">http://wiki.minetest.net/index.php?title=Server/pt-br&amp;oldid=14726</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li><li><a href="/Category:Languages_pages_without_translations" title="Category:Languages pages without translations">Languages pages without translations</a></li><li><a href="/Category:Server" title="Category:Server">Server</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Server%2Fpt-br" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Server/pt-br" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Server/pt-br&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Server/pt-br">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Server/pt-br&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Server/pt-br&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Server/pt-br" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Server/pt-br" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Server/pt-br&amp;oldid=14726" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Server/pt-br&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 13 April 2017, at 21:34.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.182","walltime":"0.518","ppvisitednodes":{"value":98,"limit":1000000},"postexpandincludesize":{"value":1207,"limit":2097152},"templateargumentsize":{"value":143,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":14,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  411.650      1 Template:Languages","100.00%  411.650      1 -total"]},"scribunto":{"limitreport-timeusage":{"value":"0.110","limit":"7"},"limitreport-virtmemusage":{"value":5820416,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709175139","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":266});});</script></body></html>

@@ -1,0 +1,317 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>How to get a domain name for your server/de - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"23a39d70eb380fab10b857a6","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"How_to_get_a_domain_name_for_your_server/de","wgTitle":"How to get a domain name for your server/de","wgCurRevisionId":20626,"wgRevisionId":20626,"wgArticleId":4314,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages","Server","Tutorials"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"How_to_get_a_domain_name_for_your_server/de","wgRelevantArticleId":4314,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":
+!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=ext.cite.styles%7Cmediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-How_to_get_a_domain_name_for_your_server_de rootpage-How_to_get_a_domain_name_for_your_server skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">How to get a domain name for your server/de</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/How_to_get_a_domain_name_for_your_server" title="How to get a domain name for your server">How to get a domain name for your server</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> Sprache:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><a href="/How_to_get_a_domain_name_for_your_server" title="How to get a domain name for your server">English</a><b>&#160;• <bdi lang="de"><a class="mw-selflink selflink">Deutsch</a></bdi></b>&#160;• <bdi lang="it"><a href="/How_to_get_a_domain_name_for_your_server/it" title="How to get a domain name for your server/it">italiano</a></bdi></td>
+</tr></tbody></table>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Wie_Sie_einen_Domain-Namen_f.C3.BCr_Ihren_Server_erhalten"><span class="tocnumber">1</span> <span class="toctext"><b>Wie Sie einen Domain-Namen für Ihren Server erhalten</b></span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Was_ist_DNS"><span class="tocnumber">1.1</span> <span class="toctext">Was ist DNS</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Schritt_1:_Eine_Domain_ausw.C3.A4hlen"><span class="tocnumber">1.2</span> <span class="toctext">Schritt 1: Eine Domain auswählen</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Schritt_2:_Ein_Konto_einrichten"><span class="tocnumber">1.3</span> <span class="toctext">Schritt 2: Ein Konto einrichten</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Schritt_3:_Registrierung_Ihrer_Unter-Domain"><span class="tocnumber">1.4</span> <span class="toctext">Schritt 3: Registrierung Ihrer Unter-Domain</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Schritt_4:_Halten_Sie_Ihre_Domain_aktuell.2C_falls_Ihr_Internet-Provider_Ihre_IP-Adresse_.C3.A4ndert."><span class="tocnumber">1.5</span> <span class="toctext">Schritt 4: Halten Sie Ihre Domain aktuell, falls Ihr Internet-Provider Ihre IP-Adresse ändert.</span></a>
+<ul>
+<li class="toclevel-3 tocsection-7"><a href="#Ein_Windows-Beispiel"><span class="tocnumber">1.5.1</span> <span class="toctext">Ein Windows-Beispiel</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-8"><a href="#Schritt_5:_Geben_Sie_Ihrem_minetest-Server_seinen_Domain-Namen_bekannt."><span class="tocnumber">1.6</span> <span class="toctext">Schritt 5: Geben Sie Ihrem minetest-Server seinen Domain-Namen bekannt.</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Erledigt"><span class="tocnumber">1.7</span> <span class="toctext">Erledigt</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Referenzen"><span class="tocnumber">1.8</span> <span class="toctext">Referenzen</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h1><span id="Wie_Sie_einen_Domain-Namen_für_Ihren_Server_erhalten"></span><span class="mw-headline" id="Wie_Sie_einen_Domain-Namen_f.C3.BCr_Ihren_Server_erhalten"><b>Wie Sie einen Domain-Namen für Ihren Server erhalten</b></span></h1>
+<h2><span class="mw-headline" id="Was_ist_DNS">Was ist DNS</span></h2>
+<p><i>Springen Sie zu Schritt 1, wenn Sie dynamische DNS bereits kennen.</i>
+</p><p>DNS ist die Abkürzung von “Domain Name System”. Ein Domain-Name ist eine Bezeichnung, die sich Leute leicht merken können und die Rechner zum Nachschlagen einer Internetadresse (IP-Adresse) verwenden können.
+</p><p>Beispielsweise ist die Domain “wiki.minetest.net” der Adresse 89.188.9.43 zugeordnet.
+</p><p>Falls Ihr Server bei Ihnen zuhause läuft, könnte sich seine Adresse mit der Zeit ändern. Wenn Sie aber einen Domain-Namen haben, können Sie diesen Freunden/Spielern geben, da er auch dann gleich bleibt, wenn sich die IP-Adresse ändert. Ein Domain-Name kann außerdem Webbrowser direkt zur Web-Seite Ihres Server weiterleiten, falls Sie eine betreiben.
+</p><p>Falls Ihr Server öffentlich zugänglich ist, können Sie seine minetest.conf-Datei so einrichten, dass er sich automatisch selbst in der öffentlichen Serverliste ankündigt<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>, dies wird dafür sorgen, dass alle über Ihre aktuelle IP-Adresse und Ihre Website informiert sind. In dieser Situation wird ein benutzerdefinierter Domain-Name für Ihren Server lediglich Kosmetik.
+</p><p>Eine Domain, die auf eine Adresse verweist, die sich ändern kann, wird “dynamischer DNS” genannt. Um den geht es hier.
+</p>
+<h2><span id="Schritt_1:_Eine_Domain_auswählen"></span><span class="mw-headline" id="Schritt_1:_Eine_Domain_ausw.C3.A4hlen">Schritt 1: Eine Domain auswählen</span></h2>
+<p>Genau wie “wiki.minetest.net” wird auch Ihre Domain aus drei durch Punkte getrennten Teilen bestehen. Sie werden den linken Teil benennen und den Rest von einer verfügbaren Liste auswählen müssen. Wir werden <a rel="nofollow" class="external text" href="https://freedns.afraid.org">FreeDNS</a> benutzen, da dort eine Auswahl von tausender freier Domains bereitsteht.
+</p><p><a rel="nofollow" class="external text" href="https://freedns.afraid.org/domain/registry/">Die vollständige Liste aus der sie auswählen können, finden Sie hier</a>
+</p><p>Falls Sie “minetest” in das Suchfeld eingeben, erhalten Sie:
+</p><p><a href="/File:FreeDNS_SearchResults.png" class="image"><img alt="FreeDNS SearchResults.png" src="/images/7/7e/FreeDNS_SearchResults.png" decoding="async" width="623" height="164" /></a>
+</p><p>In der Spalte Status wird angezeigt, dass eine dieser Domains “public” (öffentlich) und die andere “private” (privat) ist. Sie können beide benutzen, der Unterschied besteht darin, dass private Domains ihrem Besitzer das Löschen von Unter-Domains gestatten, falls sie diese offensiv oder beleidingend finden<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>.
+</p><p>Sie müssen keinen Domain-Namen benutzen, der “minetest” enthält, es sind sehr viele andere Domains in dieser Liste, z.B. openblocks.com, verschiedene mit “Minecraft” usw. aber unser Beispiel-Minetest-Server soll “Secret Valley” heißen und wir wollen ihn als <i>secretvalley.minetest.land</i> registrieren.
+</p><p>Ein Klick auf den Verweis minetest.land führt uns <a rel="nofollow" class="external text" href="https://freedns.afraid.org/subdomain/edit.php?edit_domain_id=1245383">hierher</a>.
+</p>
+<h2><span class="mw-headline" id="Schritt_2:_Ein_Konto_einrichten">Schritt 2: Ein Konto einrichten</span></h2>
+<p>Falls sie noch nicht bei FreeDNS angemeldet sind, werden Sie gebeten, sich anzumelden.
+</p><p>Klicken Sie auf “Setup an account here” und wählen Sie die Option “free”.
+</p>
+<h2><span class="mw-headline" id="Schritt_3:_Registrierung_Ihrer_Unter-Domain">Schritt 3: Registrierung Ihrer Unter-Domain</span></h2>
+<p>Sobald Sie angemeldet sind, öffnet der Klick auf einen Domain-Verweis diesen Dialog:
+</p><p><a href="/File:FreeDNS_AddSubdomain_Dialog.png" class="image"><img alt="FreeDNS AddSubdomain Dialog.png" src="/images/6/69/FreeDNS_AddSubdomain_Dialog.png" decoding="async" width="301" height="200" /></a>
+</p><p>Sie können Type (Typ), TTL (Lebensdauer) und Wildcard (Platzhalter) so belassen und Ihren Servernamen eingeben. In das Feld Destination (Ziel) wurde bereits Ihre IP-Adresse eingetragen.
+</p><p>Bei Domain-Namen spielt Groß- und Kleinschreibung keine Rolle und Sie können nur Buchstaben, Zahlen und Bindestriche verwenden. Leerzeichen sind nicht erlaubt, daher geben wir “secretvalley” ein:
+</p><p><a href="/File:FreeDNS_SecretvalleyExample_Dialog.png" class="image"><img alt="FreeDNS SecretvalleyExample Dialog.png" src="/images/d/d6/FreeDNS_SecretvalleyExample_Dialog.png" decoding="async" width="301" height="200" /></a>
+</p><p>… und klicken auf “Save!” (speichern).
+</p><p>Nun verweist <i>secretvalley.minetest.land</i> auf die heimische Internetverbindung und somit auf meinen Secret-Valley-Spielserver.
+</p><p>Dies ist viel einfacher, als es die schreckliche und technisch aussehende Benutzeroberfläche vermuten ließ.
+</p>
+<h2><span id="Schritt_4:_Halten_Sie_Ihre_Domain_aktuell,_falls_Ihr_Internet-Provider_Ihre_IP-Adresse_ändert."></span><span class="mw-headline" id="Schritt_4:_Halten_Sie_Ihre_Domain_aktuell.2C_falls_Ihr_Internet-Provider_Ihre_IP-Adresse_.C3.A4ndert.">Schritt 4: Halten Sie Ihre Domain aktuell, falls Ihr Internet-Provider Ihre IP-Adresse ändert.</span></h2>
+<p>So möchten, dass Ihre Domain automatisch aktualisiert wirdm wenn Ihr Internet-Provider Ihre IP-Adresse ändert. 
+</p><p>Welches Programm das für Sie erledigt, hängt von Ihrem Betriebssystem ab. Es sind für jedes Betriebssystem viele Programme verfügbar:
+</p><p><a rel="nofollow" class="external text" href="https://freedns.afraid.org/scripts/freedns.clients.php">Liste von Programmen, die Ihre Domain automatisch aktuell halten</a> 
+</p>
+<h3><span class="mw-headline" id="Ein_Windows-Beispiel">Ein Windows-Beispiel</span></h3>
+<p>Das erste Programm in der <a rel="nofollow" class="external text" href="https://freedns.afraid.org/scripts/freedns.clients.php">Liste</a> für Windows ist <a rel="nofollow" class="external text" href="http://www.techknowpro.com/freedns/">FreeDNS Update</a>.
+</p><p>Nachdem Sie es installiert haben, ist es nur nötig, den FreeDNS-Benutzernamen und das Passwort einzutragen und dann auf die Schaltfläche “Get Domain List” (Domain-liste abrufen) zu klicken. Es meldet sich bei FreeDNS an und bekommt die Domain:
+</p><p><a href="/File:FreeDNS_WindowsUpdaterExample.png" class="image"><img alt="FreeDNS WindowsUpdaterExample.png" src="/images/2/21/FreeDNS_WindowsUpdaterExample.png" decoding="async" width="462" height="429" /></a>
+</p><p>Das Aktualisierungsprogramm ist nun eingerichtet, es wird sich im Windows-Infobereich einnisten und regelmäßig die externe IP-Adresse ihres lokalen Netzwerks überprüfen. Falls sich diese ändert, wird es sich bei FreeDNS anmelden und secretvalley.minetest.land aktualisieren, so dass es auf die neue IP-Adresse verweist.
+</p><p>Meine IP-Adresse ändert sich nur, falls das Modem seine Verbindung trennt, was glücklicherweise selten vorkommt, daher habe ich das Aktualisierungsintervall auf 20 statt auf 5 Minuten gesetzt.
+</p><p>(Hinweis: Die Beschreibung von FreeDNS warnt, dass Sie Ihren Benutzernamen in Kleinbuchstaben eingeben müssen und das Passwort Groß- und Kleinschreibung berücksichtigt und maximal 16 Zeichen lang sein darf, falls Sie dieses Programm verwenden.)
+</p>
+<h2><span class="mw-headline" id="Schritt_5:_Geben_Sie_Ihrem_minetest-Server_seinen_Domain-Namen_bekannt.">Schritt 5: Geben Sie Ihrem minetest-Server seinen Domain-Namen bekannt.</span></h2>
+<p>Bearbeiten Sie die Datei <tt>minetest.conf</tt> Ihres Servers und setzen Sie <tt>address</tt> auf ihre Domain:
+</p>
+<pre>address = secretvalley.minetest.land
+</pre>
+<h2><span class="mw-headline" id="Erledigt">Erledigt</span></h2>
+<p>Sie sind fertig. FreeDNS stellt zusätzliche Funktionalitäten für Ihre Domains bereit, die den Umfang dieses Artikels sprengen würden, wie beispielsweise Web Forward. Sie können diese Seite weiter erkunden, wenn Sie wollen.
+</p>
+<h2><span class="mw-headline" id="Referenzen">Referenzen</span></h2>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Unter 
+<a href="/Setting_up_a_server/de#Externen_Spielern_das_Verbinden_erm.C3.B6glichen" title="Setting up a server/de">Schritt 5 von <i>Externen Spielern das Verbinden ermöglichen</i></a> wird beschrieben, wie Sie die minetest.conf einrichten, um sich automatisch auf der öffentlichen Serverliste einzutragen.</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://freedns.afraid.org/queue/explanation.php">https://freedns.afraid.org/queue/explanation.php</a></span>
+</li>
+</ol></div>
+<!-- 
+NewPP limit report
+Cached time: 20230709181030
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.234 seconds
+Real time usage: 0.740 seconds
+Preprocessor visited node count: 113/1000000
+Post‐expand include size: 1687/2097152 bytes
+Template argument size: 344/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 13/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 792/5000000 bytes
+Lua time usage: 0.110/7 seconds
+Lua virtual size: 5.54 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  378.049      1 Template:Languages/de
+100.00%  378.049      1 -total
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:4314-0!canonical and timestamp 20230709181029 and revision id 20626
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=How_to_get_a_domain_name_for_your_server/de&amp;oldid=20626">http://wiki.minetest.net/index.php?title=How_to_get_a_domain_name_for_your_server/de&amp;oldid=20626</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li><li><a href="/Category:Server" title="Category:Server">Server</a></li><li><a href="/Category:Tutorials" title="Category:Tutorials">Tutorials</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=How+to+get+a+domain+name+for+your+server%2Fde" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/How_to_get_a_domain_name_for_your_server/de" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:How_to_get_a_domain_name_for_your_server/de&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/How_to_get_a_domain_name_for_your_server/de">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=How_to_get_a_domain_name_for_your_server/de&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=How_to_get_a_domain_name_for_your_server/de&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/How_to_get_a_domain_name_for_your_server/de" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/How_to_get_a_domain_name_for_your_server/de" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=How_to_get_a_domain_name_for_your_server/de&amp;oldid=20626" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=How_to_get_a_domain_name_for_your_server/de&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 13 May 2018, at 21:22.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.234","walltime":"0.740","ppvisitednodes":{"value":113,"limit":1000000},"postexpandincludesize":{"value":1687,"limit":2097152},"templateargumentsize":{"value":344,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":13,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":792,"limit":5000000},"timingprofile":["100.00%  378.049      1 Template:Languages/de","100.00%  378.049      1 -total"]},"scribunto":{"limitreport-timeusage":{"value":"0.110","limit":"7"},"limitreport-virtmemusage":{"value":5808128,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709181030","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":1374});});</script></body></html>

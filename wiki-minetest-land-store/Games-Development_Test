@@ -1,0 +1,380 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Games/Development Test - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"064a728e0ccb7b5c87fdf83e","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Games/Development_Test","wgTitle":"Games/Development Test","wgCurRevisionId":27226,"wgRevisionId":27226,"wgArticleId":1375,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Games"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Games/Development_Test","wgRelevantArticleId":1375,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":
+"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Games_Development_Test rootpage-Games skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Games/Development Test</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/Games" title="Games">Games</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> Language:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><b><a class="mw-selflink selflink">English</a></b></td>
+</tr></tbody></table>
+<p><br />
+</p>
+<table class="wikitable" width="200px" style="float:right;text-align:left;margin:0 0 0.5em 1em;padding:5px;font-size:90%;position:relative;clear:right;overflow:auto;z-index:1">
+
+<tbody><tr>
+<th colspan="2" style="font-size:110%;text-align:center">Development Test
+</th></tr>
+<tr>
+<th colspan="2"><div class="center"><a href="/File:Minimal_game_Icon.png" class="image"><img alt="Minimal game Icon.png" src="/images/0/0f/Minimal_game_Icon.png" decoding="async" width="150" height="150" /></a></div>
+</th></tr>
+<tr>
+<th colspan="2" align="center">A <a href="/Games" title="Games">game</a>
+</th></tr>
+<tr>
+<td><b>Game Type</b>
+</td>
+<td>Testing
+</td></tr>
+<tr>
+<td><b>Author</b>
+</td>
+<td>Minetest Developers
+</td></tr>
+<tr>
+<td><b>Latest version</b>
+</td>
+<td><i>same as Minetest's version</i>
+</td></tr>
+<tr>
+<td><b>Forum topic</b>
+</td>
+<td>(None)
+</td></tr>
+<tr>
+<td><b>Source code</b>
+</td>
+<td><a rel="nofollow" class="external text" href="https://github.com/minetest/minetest/tree/master/games/devtest">GitHub</a>
+</td></tr></tbody></table>
+<p><br />
+The <b>Development Test</b> (or “<b>DevTest</b>” for short) is a test “<a href="/Games" title="Games">game</a>” for Minetest which is only intended to be used by developers. <b>This is not a real playable game and not meant for players.</b> It's meant for development (both core developers, and modders which want fast startup for testing mods).
+</p><p>It is shipped together with Minetest by default.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:452px;"><a href="/File:Development_Test.jpg" class="image"><img alt="" src="/images/thumb/0/06/Development_Test.jpg/450px-Development_Test.jpg" decoding="async" width="450" height="240" class="thumbimage" srcset="/images/thumb/0/06/Development_Test.jpg/675px-Development_Test.jpg 1.5x, /images/thumb/0/06/Development_Test.jpg/900px-Development_Test.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Development_Test.jpg" class="internal" title="Enlarge"></a></div>Screenshot of Development Test</div></div></div>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Scope.2FPurpose"><span class="tocnumber">2</span> <span class="toctext">Scope/Purpose</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Usage"><span class="tocnumber">3</span> <span class="toctext">Usage</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Detailed_help"><span class="tocnumber">4</span> <span class="toctext">Detailed help</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Features"><span class="tocnumber">5</span> <span class="toctext">Features</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Items"><span class="tocnumber">5.1</span> <span class="toctext">Items</span></a>
+<ul>
+<li class="toclevel-3 tocsection-7"><a href="#Bag_of_Everything"><span class="tocnumber">5.1.1</span> <span class="toctext">Bag of Everything</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="#Chest_of_Everything"><span class="tocnumber">5.1.2</span> <span class="toctext">Chest of Everything</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="#Test_tools"><span class="tocnumber">5.1.3</span> <span class="toctext">Test tools</span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="#Mining_tools"><span class="tocnumber">5.1.4</span> <span class="toctext">Mining tools</span></a></li>
+<li class="toclevel-3 tocsection-11"><a href="#Food"><span class="tocnumber">5.1.5</span> <span class="toctext">Food</span></a></li>
+<li class="toclevel-3 tocsection-12"><a href="#Mapgen_nodes"><span class="tocnumber">5.1.6</span> <span class="toctext">Mapgen nodes</span></a></li>
+<li class="toclevel-3 tocsection-13"><a href="#Test_nodes"><span class="tocnumber">5.1.7</span> <span class="toctext">Test nodes</span></a></li>
+<li class="toclevel-3 tocsection-14"><a href="#Dummy_items_and_nodes"><span class="tocnumber">5.1.8</span> <span class="toctext">Dummy items and nodes</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-15"><a href="#Commands"><span class="tocnumber">5.2</span> <span class="toctext">Commands</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Settings"><span class="tocnumber">5.3</span> <span class="toctext">Settings</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Overview">Overview</span></h2>
+<p>Development Test contains a very basic mapgen and numerous nodes, items, settings and commands primarily intended for testing Minetest. 
+</p>
+<h2><span id="Scope/Purpose"></span><span class="mw-headline" id="Scope.2FPurpose">Scope/Purpose</span></h2>
+<p>The primary purpose of Development Test is to help Minetest developers and testers to test Minetest, i.e. the node properties, item behavior, mapgen, and other stuff that you can influence with Lua code.
+</p><p>The secondary purpose is to aid with developing simple mods that have no dependencies. It's a good simple way to test if your mod still works in a different environment.
+</p><p>A cornerstone of Develpment Test is the Principle of Least Interference. This means that Development Test tries to screw as little as possible with the default Minetest behavior, unless the user explicitly enabled it. This should therefore make it a relatively safe environment to test your mods in.
+</p><p>Development Test is NOT meant as a template for new games.
+</p>
+<h2><span class="mw-headline" id="Usage">Usage</span></h2>
+<p>Just create a world and start messing around! Put down the Chest of Everything and grab items for testing stuff. If you have no Chest of Everything, use the <code>/stuff</code> <a href="/Server_commands" title="Server commands">command</a> to get it (along with other initial items).
+</p>
+<h2><span class="mw-headline" id="Detailed_help">Detailed help</span></h2>
+<p>Detailed help can be found in the <a rel="nofollow" class="external text" href="https://github.com/minetest/minetest/blob/master/games/devtest/README.md">README</a> files found in the Development Test game directory. The following sections only give an overview of the features.
+</p>
+<h2><span class="mw-headline" id="Features">Features</span></h2>
+<p>Developent Test includes a lot of things for testing. This includes items, commands and settings. This section gives only an overview, and is not a full description.
+</p>
+<h3><span class="mw-headline" id="Items">Items</span></h3>
+<p>There are many items. This section does not list all of them, but only the types of items.
+</p>
+<ul><li>Bag/Chest of Everything</li>
+<li>Test tools</li>
+<li>Mining tools</li>
+<li>Test food</li>
+<li>Mapgen nodes</li>
+<li>Test nodes</li>
+<li>Dummy items and nodes</li></ul>
+<h4><span class="mw-headline" id="Bag_of_Everything">Bag of Everything</span></h4>
+<p>Item that contains every item. Punch to access.
+</p>
+<h4><span class="mw-headline" id="Chest_of_Everything">Chest of Everything</span></h4>
+<p>Placable block that contains every item. Rightclick to access.
+</p>
+<h4><span class="mw-headline" id="Test_tools">Test tools</span></h4>
+<p>Tools that allow you to test one particular feature. Examples are the Param2 Tool and the Object Property Editor.
+</p><p>The tools can be used with multiple keys and do different things, depending on which keys you press. These are the possible key combinations:
+</p>
+<ul><li>Punch</li>
+<li>Place</li>
+<li>Sneak+Punch</li>
+<li>Sneak+Place</li>
+<li>Aux1+Sneak+Punch</li>
+<li>Aux1+Sneak+Place</li></ul>
+<p>Not all tools use all possible key combinations, most of them only use a few of them.
+</p><p><a rel="nofollow" class="external text" href="https://github.com/minetest/minetest/tree/master/games/devtest/mods/testtools/README.md">Read the Test Tools README!</a>
+</p>
+<h4><span class="mw-headline" id="Mining_tools">Mining tools</span></h4>
+<p>Tools made to test mining/digging blocks. Tool wear is activated.
+</p>
+<h4><span class="mw-headline" id="Food">Food</span></h4>
+<p>Items to test <code>minetest.item_eat</code>. Use punch key to eat.
+</p>
+<h4><span class="mw-headline" id="Mapgen_nodes">Mapgen nodes</span></h4>
+<p>Nodes whose primary function is to be used by the mapgen to generate the world: Stone, water, dirt, sand, ...
+</p>
+<h4><span class="mw-headline" id="Test_nodes">Test nodes</span></h4>
+<p>Nodes that each test one particular feature from nodes, mainly the different drawtypes, rendering, but also gameplay features like damage.
+</p><p>Hint: Use the Param2 tool to change the param2 of nodes. This is relevant for many drawtype test nodes like Wallmounted Test Node.
+</p>
+<h4><span class="mw-headline" id="Dummy_items_and_nodes">Dummy items and nodes</span></h4>
+<p>A set of items that only exist as placeholder to test something different, for example formspecs or crafting.
+</p>
+<h3><span class="mw-headline" id="Commands">Commands</span></h3>
+<p>For convenience, Development Test offers a few commands that add even more tests, but also simple convenience features.
+</p><p>The most useful command is “/stuff”, which gives you the Chest of Everything and other initial items (should you have lost them).
+</p><p>The most notable test is the formspec test, a command which opens a test formspec that allow you to test all those formspec elements.
+</p><p>Say “/help all” in chat to see the full list of commands, just like in any other game.
+</p>
+<h3><span class="mw-headline" id="Settings">Settings</span></h3>
+<p>The settings allow you to set some usage details to make your life a little easier (or harder).
+</p><p>The settings allow you to turn on automated tests that run on each start. Apart from that, the settings also control some mapgen details, and some minor stuff.
+</p><p>Go into Minetest's “All Settings” menu in the main menu to access the settings.
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20230709175723
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.254 seconds
+Real time usage: 0.511 seconds
+Preprocessor visited node count: 149/1000000
+Post‐expand include size: 2354/2097152 bytes
+Template argument size: 302/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 15/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.160/7 seconds
+Lua virtual size: 5.92 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  409.766      1 -total
+ 73.87%  302.679      1 Template:Languages
+ 26.04%  106.703      1 Template:Game_Data
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:1375-0!canonical and timestamp 20230709175722 and revision id 27226
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Games/Development_Test&amp;oldid=27226">http://wiki.minetest.net/index.php?title=Games/Development_Test&amp;oldid=27226</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/Category:Games" title="Category:Games">Games</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Games%2FDevelopment+Test" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Games/Development_Test" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Games/Development_Test&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Games/Development_Test">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Games/Development_Test&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Games/Development_Test&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Games/Development_Test" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Games/Development_Test" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Games/Development_Test&amp;oldid=27226" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Games/Development_Test&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 14 January 2023, at 01:24.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.254","walltime":"0.511","ppvisitednodes":{"value":149,"limit":1000000},"postexpandincludesize":{"value":2354,"limit":2097152},"templateargumentsize":{"value":302,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":15,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  409.766      1 -total"," 73.87%  302.679      1 Template:Languages"," 26.04%  106.703      1 Template:Game_Data"]},"scribunto":{"limitreport-timeusage":{"value":"0.160","limit":"7"},"limitreport-virtmemusage":{"value":6209536,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709175723","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":856});});</script></body></html>

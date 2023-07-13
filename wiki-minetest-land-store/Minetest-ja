@@ -1,0 +1,372 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Minetest/ja - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"2093266456fd7f83d7b57e68","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Minetest/ja","wgTitle":"Minetest/ja","wgCurRevisionId":27425,"wgRevisionId":27425,"wgArticleId":1497,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["About Minetest","Japanese","Languages pages"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Minetest/ja","wgRelevantArticleId":1497,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready",
+"noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","mediawiki.page.gallery.styles":"ready","skins.vector.styles.legacy":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.page.gallery.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Minetest_ja rootpage-Minetest skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Minetest/ja</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/Minetest" title="Minetest">Minetest</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> 言語:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><a href="/Minetest" title="Minetest">English</a>&#160;• <bdi lang="de"><a href="/Minetest/de" title="Minetest/de">Deutsch</a></bdi>&#160;• <bdi lang="fr"><a href="/Minetest/fr" title="Minetest/fr">français</a></bdi>&#160;• <bdi lang="id"><a href="/Minetest/id" title="Minetest/id">Bahasa Indonesia</a></bdi>&#160;• <bdi lang="it"><a href="/Minetest/it" title="Minetest/it">italiano</a></bdi><b>&#160;• <bdi lang="ja"><a class="mw-selflink selflink">日本語</a></bdi></b>&#160;• <bdi lang="ms"><a href="/Minetest/ms" title="Minetest/ms">Bahasa Melayu</a></bdi>&#160;• <bdi lang="uk"><a href="/Minetest/uk" title="Minetest/uk">українська</a></bdi></td>
+</tr></tbody></table>
+<div class="thumb tright"><div class="thumbinner" style="width:162px;"><a href="/File:Minetest_logo.png" class="image"><img alt="" src="/images/c/cf/Minetest_logo.png" decoding="async" width="160" height="160" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Minetest_logo.png" class="internal" title="Enlarge"></a></div>Minetest logo</div></div></div>
+<p><b>Minetest</b>は、InfiniMinerやMinecraftなどに影響を受けた<a rel="nofollow" class="external text" href="https://ja.wikipedia.org/wiki/%E3%83%9C%E3%82%AF%E3%82%BB%E3%83%AB">ボクセル</a>ゲーム作成のために作られた<a rel="nofollow" class="external text" href="https://ja.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2">自由ソフトウエア</a>の<a rel="nofollow" class="external text" href="https://ja.wikipedia.org/wiki/%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3">ゲームエンジン</a>です。Perttu Ahola(別名「<a href="/Celeron55" title="Celeron55">celeron55</a>」)によって作り始められました。
+</p><p>Minetest上で動くそれぞれのゲームの基本アイデアは、ほぼ共通しています。<a href="/Player/ja" title="Player/ja">プレーヤー</a>はブロックで構成された巨大な<a href="/World" class="mw-redirect" title="World">World</a>に放り込まれます。<a href="/Blocks" class="mw-redirect" title="Blocks">ブロック</a>は風景を作り出していて、このブロックを自由に<a href="/Mining" title="Mining">壊したり</a>、<a href="/Building" title="Building">配置したり</a>できます。<a href="/Items" title="Items">アイテム</a>を集めて、新しい<a href="/Tool" title="Tool">道具</a>やアイテムを<a href="/Crafting" title="Crafting">クラフトする</a>こともできます。ですが、Minetestの<a href="/Games" title="Games">Game</a>は、これよりもはるかに複雑になっています。
+</p><p>Minetestのコア概念は、内蔵されたプログラミング言語<a rel="nofollow" class="external text" href="https://ja.wikipedia.org/wiki/Lua">Lua</a>によるMod作成機構です。Modを使うと既存ゲームのある部分を1つだけでなく複数変更することもできます。MinetestのModは、装飾ブロックを追加するだけのシンプルなものから、新しいゲーム概念を導入した複雑なものや、まったく異なる種類の世界を生成するものなど、さまざまなものがあります。プレーヤーがModをインストールは、内臓のコンテンツブラウザからインストールしたいmodを選んでボタンを押すだけでインストールできます（ContentDBで公開されていない一部のmodの場合は、ファイルを展開して特定の場所にコピーする作業が必要の場合があります)。
+</p><p>Minetestは、1人で遊ぶことはもちろん<a href="/Server" title="Server">オンライン</a>で複数のプレーヤーと遊べます。
+</p><p>Minetestには、標準で「<a href="/Games/Minetest_Game" title="Games/Minetest Game">Minetest Game</a>」という名前のシンプルなゲームが付属しています。Minetest上で動くほかのゲームを遊ぶには、内属のコンテンツブラウザから遊びたいゲームを選んでインストールします。<a rel="nofollow" class="external text" href="https://forum.minetest.net/viewforum.php?f=48">Minetest公式フォーラム</a>からダウンロードもできます。
+</p><p>Minetest(ゲームエンジンを指します)とMinetest Game(Minetest上で動くゲームを指します)は、プレイ可能ですが現時点でどちらもアルファ版です。多くの機能が欠落していますしバグもあります。ですので、すべてが完全に動作しないことをお許しください。
+</p>
+<h2><span id="特徴"></span><span class="mw-headline" id=".E7.89.B9.E5.BE.B4">特徴</span></h2>
+<ul><li>ブロックで作られた巨大な世界(ワールド)を冒険 (縦、横、高さの1辺は61840ノード(ブロック)で構成)</li>
+<li>手続き型で生成されるワールド</li>
+<li>パラメータで設定できる複数の<a href="/Map_generator" title="Map generator">ワールド生成</a>システム</li>
+<li>設定エディタと内蔵されたドキュメントシステムの利用や<a href="/Minetest.conf" title="Minetest.conf">設定ファイル</a>を変更して高度な構成が可能</li>
+<li><a href="/Texture_Packs" title="Texture Packs">テクスチャパック</a>でグラフィックとサウンドのカスタマイズ可能</li>
+<li>内臓の<a href="/ContentDB" title="ContentDB">ContentDB</a>からGame、Mod、テクスチャパックを簡単ダウンロード</li>
+<li>1人用のシングルプレーヤーモードと<a href="/Server#Playing_on_a_server" title="Server">オンラインのマルチプレーヤーモード</a>で遊べる</li>
+<li>サーバーリストからオンラインに簡単接続</li>
+<li>プログラミング言語Luaによる洗練されたModシステム</li>
+<li>Modはサーバー側で処理。追加のソフトのインストールなくサーバーに接続するだけでModでカスタマイズされたワールドで遊べる</li>
+<li>低スペックPCでも遊べる比較的低いシステム要件</li></ul>
+<h2><span id="スクリーンショット"></span><span class="mw-headline" id=".E3.82.B9.E3.82.AF.E3.83.AA.E3.83.BC.E3.83.B3.E3.82.B7.E3.83.A7.E3.83.83.E3.83.88">スクリーンショット</span></h2>
+<h3><span id="ゲーム"></span><span class="mw-headline" id=".E3.82.B2.E3.83.BC.E3.83.A0">ゲーム</span></h3>
+<p>Minetestはゲームエンジンです。ゲームの見え方は遊んでいるゲームによって大きく異なります。ここでは、Minetestの機能を理解してもらうために、さまざまなゲームのスクリーンショットを集めました。この一覧には、Minetestのゲームだけでなくコミュニティによって長年に渡って開発されてきた、ほかのゲームも含まれています。
+</p>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 435px"><div style="width: 435px">
+			<div class="thumb" style="width: 430px;"><div style="margin:15px auto;"><a href="/File:Minetest_Game_tower.jpg" class="image"><img alt="" src="/images/thumb/1/19/Minetest_Game_tower.jpg/390px-Minetest_Game_tower.jpg" decoding="async" width="390" height="256" srcset="/images/thumb/1/19/Minetest_Game_tower.jpg/585px-Minetest_Game_tower.jpg 1.5x, /images/thumb/1/19/Minetest_Game_tower.jpg/780px-Minetest_Game_tower.jpg 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a rel="nofollow" class="external text" href="https://content.minetest.net/packages/Minetest/minetest_game/">Minetest Game</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 435px"><div style="width: 435px">
+			<div class="thumb" style="width: 430px;"><div style="margin:30.5px auto;"><a href="/File:MineClone_2.png" class="image"><img alt="" src="/images/thumb/b/b6/MineClone_2.png/400px-MineClone_2.png" decoding="async" width="400" height="225" srcset="/images/thumb/b/b6/MineClone_2.png/600px-MineClone_2.png 1.5x, /images/thumb/b/b6/MineClone_2.png/800px-MineClone_2.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a rel="nofollow" class="external text" href="https://content.minetest.net/packages/Wuzzy/mineclone2/">MineClone 2</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 435px"><div style="width: 435px">
+			<div class="thumb" style="width: 430px;"><div style="margin:18px auto;"><a href="/File:Exile.jpg" class="image"><img alt="" src="/images/thumb/f/f9/Exile.jpg/400px-Exile.jpg" decoding="async" width="400" height="250" srcset="/images/thumb/f/f9/Exile.jpg/600px-Exile.jpg 1.5x, /images/thumb/f/f9/Exile.jpg/800px-Exile.jpg 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a rel="nofollow" class="external text" href="https://content.minetest.net/packages/Mantar/exile/">Exile</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 435px"><div style="width: 435px">
+			<div class="thumb" style="width: 430px;"><div style="margin:18px auto;"><a href="/File:NodeCore.jpg" class="image"><img alt="" src="/images/thumb/9/9a/NodeCore.jpg/400px-NodeCore.jpg" decoding="async" width="400" height="250" srcset="/images/thumb/9/9a/NodeCore.jpg/600px-NodeCore.jpg 1.5x, /images/thumb/9/9a/NodeCore.jpg/800px-NodeCore.jpg 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a rel="nofollow" class="external text" href="https://content.minetest.net/packages/Warr1024/nodecore/">NodeCore</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 435px"><div style="width: 435px">
+			<div class="thumb" style="width: 430px;"><div style="margin:15px auto;"><a href="/File:Lord_of_the_Test.jpg" class="image"><img alt="" src="/images/thumb/9/97/Lord_of_the_Test.jpg/348px-Lord_of_the_Test.jpg" decoding="async" width="348" height="256" srcset="/images/thumb/9/97/Lord_of_the_Test.jpg/522px-Lord_of_the_Test.jpg 1.5x, /images/thumb/9/97/Lord_of_the_Test.jpg/697px-Lord_of_the_Test.jpg 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a rel="nofollow" class="external text" href="https://content.minetest.net/packages/Amaz/lordofthetest/">Lord of the Test</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 435px"><div style="width: 435px">
+			<div class="thumb" style="width: 430px;"><div style="margin:30.5px auto;"><a href="/File:Repixture.jpg" class="image"><img alt="" src="/images/thumb/b/b2/Repixture.jpg/400px-Repixture.jpg" decoding="async" width="400" height="225" srcset="/images/thumb/b/b2/Repixture.jpg/600px-Repixture.jpg 1.5x, /images/thumb/b/b2/Repixture.jpg/800px-Repixture.jpg 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a rel="nofollow" class="external text" href="https://content.minetest.net/packages/Wuzzy/repixture/">Repixture</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 435px"><div style="width: 435px">
+			<div class="thumb" style="width: 430px;"><div style="margin:37px auto;"><a href="/File:Farlands_Reloaded.jpg" class="image"><img alt="" src="/images/thumb/5/5b/Farlands_Reloaded.jpg/400px-Farlands_Reloaded.jpg" decoding="async" width="400" height="212" srcset="/images/thumb/5/5b/Farlands_Reloaded.jpg/600px-Farlands_Reloaded.jpg 1.5x, /images/thumb/5/5b/Farlands_Reloaded.jpg/800px-Farlands_Reloaded.jpg 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a rel="nofollow" class="external text" href="https://content.minetest.net/packages/wsor4035/farlands_reloaded/">Farlands Reloaded</a>
+</p>
+			</div>
+		</div></li>
+</ul>
+<h3><span class="mw-headline" id="Mod">Mod</span></h3>
+<p>Modは、ユーザーが<b>ゲームにインストールして</b>既存のゲームを変更するためのものです。これらのスクリーンショットでは、ModによってMinetest Gameが変更されている様子が表されています。
+</p>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 435px"><div style="width: 435px">
+			<div class="thumb" style="width: 430px;"><div style="margin:30.5px auto;"><a href="/File:Mesecons_example.jpg" class="image"><img alt="" src="/images/thumb/7/79/Mesecons_example.jpg/400px-Mesecons_example.jpg" decoding="async" width="400" height="225" srcset="/images/thumb/7/79/Mesecons_example.jpg/600px-Mesecons_example.jpg 1.5x, /images/thumb/7/79/Mesecons_example.jpg/800px-Mesecons_example.jpg 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/Mesecons" class="mw-redirect" title="Mesecons">Mesecons</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 435px"><div style="width: 435px">
+			<div class="thumb" style="width: 430px;"><div style="margin:15px auto;"><a href="/File:Ethereal.jpg" class="image"><img alt="" src="/images/thumb/7/7c/Ethereal.jpg/378px-Ethereal.jpg" decoding="async" width="378" height="256" srcset="/images/thumb/7/7c/Ethereal.jpg/567px-Ethereal.jpg 1.5x, /images/thumb/7/7c/Ethereal.jpg/756px-Ethereal.jpg 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=11&amp;t=14638">Ethereal NG</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 435px"><div style="width: 435px">
+			<div class="thumb" style="width: 430px;"><div style="margin:15px auto;"><a href="/File:Xtraores_xtension.jpg" class="image"><img alt="" src="/images/thumb/e/e0/Xtraores_xtension.jpg/357px-Xtraores_xtension.jpg" decoding="async" width="357" height="256" srcset="/images/thumb/e/e0/Xtraores_xtension.jpg/535px-Xtraores_xtension.jpg 1.5x, /images/thumb/e/e0/Xtraores_xtension.jpg/713px-Xtraores_xtension.jpg 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=15229">xtraores_xtension</a> (Modpack)
+</p>
+			</div>
+		</div></li>
+</ul>
+<h3><span id="そのほかのスクリーンショット"></span><span class="mw-headline" id=".E3.81.9D.E3.81.AE.E3.81.BB.E3.81.8B.E3.81.AE.E3.82.B9.E3.82.AF.E3.83.AA.E3.83.BC.E3.83.B3.E3.82.B7.E3.83.A7.E3.83.83.E3.83.88">そのほかのスクリーンショット</span></h3>
+<p>Minetestフォーラムには、プレーヤーによる多くのスクリーンショットが投稿されたスレッドがあります。
+</p>
+<ul><li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=3&amp;t=10366">高画質スクリーンショット</a></li>
+<li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=3&amp;t=15105">城、要塞、塔などの建物</a></li>
+<li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=3&amp;t=10128">さまざまな建物</a></li>
+<li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=3&amp;t=156">そのほかのスクリーンショット</a></li></ul>
+<h2><span id="動作環境"></span><span class="mw-headline" id=".E5.8B.95.E4.BD.9C.E7.92.B0.E5.A2.83">動作環境</span></h2>
+<h3><span id="ハードウエア要件"></span><span class="mw-headline" id=".E3.83.8F.E3.83.BC.E3.83.89.E3.82.A6.E3.82.A8.E3.82.A2.E8.A6.81.E4.BB.B6">ハードウエア要件</span></h3>
+<p>Minetestは、PC、ノートPC、そしてスマートフォン(Android)で遊べます。
+</p>
+<h4><span id="PC、ノートPCなどに必要なハードウェア"></span><span class="mw-headline" id="PC.E3.80.81.E3.83.8E.E3.83.BC.E3.83.88PC.E3.81.AA.E3.81.A9.E3.81.AB.E5.BF.85.E8.A6.81.E3.81.AA.E3.83.8F.E3.83.BC.E3.83.89.E3.82.A6.E3.82.A7.E3.82.A2">PC、ノートPCなどに必要なハードウェア</span></h4>
+<ul><li>モニター</li>
+<li>マウスホイール付きマウス</li>
+<li>オプション: ジョイスティックまたはゲームパッド</li>
+<li>キーボード</li>
+<li>オプション: スピーカー(サウンドありで遊びたい場合)</li>
+<li>グラフィックカード・チップ、または<a rel="nofollow" class="external text" href="https://ja.wikipedia.org/wiki/Gallium3D">llvm pipe</a>が動く高速グラフィックチップ</li></ul>
+<h3><span id="オペレーティングシステム"></span><span class="mw-headline" id=".E3.82.AA.E3.83.9A.E3.83.AC.E3.83.BC.E3.83.86.E3.82.A3.E3.83.B3.E3.82.B0.E3.82.B7.E3.82.B9.E3.83.86.E3.83.A0">オペレーティングシステム</span></h3>
+<p>公式では以下のOSをサポートしています。
+</p>
+<ul><li>Android (4.0以降推奨)</li>
+<li>GNU/Linux</li>
+<li>OS X (10.8以降推奨)</li>
+<li>Windows XP, Windows Vista, Windows 7, Windows 8, Windows 8.1, Windows 10</li>
+<li>その他 (<a rel="nofollow" class="external text" href="http://www.minetest.net/downloads/">ダウンロードページ</a>をご覧ください)</li></ul>
+<h2><span id="ライセンス"></span><span class="mw-headline" id=".E3.83.A9.E3.82.A4.E3.82.BB.E3.83.B3.E3.82.B9">ライセンス</span></h2>
+<p>Minetestは<a rel="nofollow" class="external text" href="https://www.gnu.org/philosophy/free-sw.ja.html">自由ソフトウエア</a>です。広告もありませんし追加費用の必要もありません。<a rel="nofollow" class="external text" href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1">GNU劣等一般公衆ライセンス Version 2.1</a>でライセンスされています。アートワークは<a rel="nofollow" class="external text" href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja">Creative Commons 表示-継承 3.0</a>でライセンスされています。
+</p>
+<h2><span id="関連項目"></span><span class="mw-headline" id=".E9.96.A2.E9.80.A3.E9.A0.85.E7.9B.AE">関連項目</span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.minetest.net/downloads/">Minetestのダウンロードページ</a></li>
+<li><a href="/Help:Getting_Started/ja" class="mw-redirect" title="Help:Getting Started/ja">Minetest入門</a></li>
+<li><a href="/Games/Minetest_Game" title="Games/Minetest Game">Minetest Game</a></li>
+<li><a href="/Version_number" title="Version number">バージョン番号</a></li>
+<li><a href="/Main_Page/ja" title="Main Page/ja">メインページ</a></li></ul>
+<!-- 
+NewPP limit report
+Cached time: 20230709182030
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.286 seconds
+Real time usage: 0.992 seconds
+Preprocessor visited node count: 140/1000000
+Post‐expand include size: 2328/2097152 bytes
+Template argument size: 553/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 13/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 6490/5000000 bytes
+Lua time usage: 0.110/7 seconds
+Lua virtual size: 5.52 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  719.967      1 -total
+ 74.68%  537.661      1 Template:Languages
+ 25.11%  180.819      1 Template:Game_gallery
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:1497-0!canonical and timestamp 20230709182029 and revision id 27425
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Minetest/ja&amp;oldid=27425">http://wiki.minetest.net/index.php?title=Minetest/ja&amp;oldid=27425</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:About_Minetest" title="Category:About Minetest">About Minetest</a></li><li><a href="/Category:Japanese" title="Category:Japanese">Japanese</a></li><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Minetest%2Fja" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Minetest/ja" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Minetest/ja&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Minetest/ja">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Minetest/ja&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Minetest/ja&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Minetest/ja" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Minetest/ja" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Minetest/ja&amp;oldid=27425" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Minetest/ja&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 18 January 2023, at 20:16.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.286","walltime":"0.992","ppvisitednodes":{"value":140,"limit":1000000},"postexpandincludesize":{"value":2328,"limit":2097152},"templateargumentsize":{"value":553,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":13,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":6490,"limit":5000000},"timingprofile":["100.00%  719.967      1 -total"," 74.68%  537.661      1 Template:Languages"," 25.11%  180.819      1 Template:Game_gallery"]},"scribunto":{"limitreport-timeusage":{"value":"0.110","limit":"7"},"limitreport-virtmemusage":{"value":5791744,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709182030","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":1515});});</script></body></html>

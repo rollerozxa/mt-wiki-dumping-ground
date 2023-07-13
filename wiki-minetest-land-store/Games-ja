@@ -1,0 +1,407 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Games/ja - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"782d7bff4e3674bc6ee8da3b","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Games/ja","wgTitle":"Games/ja","wgCurRevisionId":26530,"wgRevisionId":26530,"wgArticleId":5068,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages","Games","Japanese"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Games/ja","wgRelevantArticleId":5068,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready",
+"user.styles":"ready","user":"ready","user.options":"loading","mediawiki.page.gallery.styles":"ready","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.page.gallery.styles%7Cmediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Games_ja rootpage-Games skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Games/ja</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/Games" title="Games">Games</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> 言語:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><a href="/Games" title="Games">English</a>&#160;• <bdi lang="fr"><a href="/Games/fr" title="Games/fr">français</a></bdi>&#160;• <bdi lang="it"><a href="/Games/it" title="Games/it">italiano</a></bdi><b>&#160;• <bdi lang="ja"><a class="mw-selflink selflink">日本語</a></bdi></b>&#160;• <bdi lang="ms"><a href="/Games/ms" title="Games/ms">Bahasa Melayu</a></bdi></td>
+</tr></tbody></table>
+<p><a href="/Minetest" title="Minetest">Minetest</a>では、遊んで双方向の体験ができる<b>ゲーム</b>を実行して遊べます。(Gameは以前「サブゲーム」と呼ばれていました) これはMinetestのコア機能の1つです。標準で同梱されているGameは、<a href="/Games/Minetest_Game/ja" title="Games/Minetest Game/ja">Minetest Game</a>ですが、ほかにもさまざまなゲームがあります。
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#.E3.81.AF.E3.81.98.E3.82.81.E3.81.AB"><span class="tocnumber">1</span> <span class="toctext">はじめに</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#.E6.A6.82.E8.A6.81"><span class="tocnumber">1.1</span> <span class="toctext">概要</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#.E3.82.B9.E3.82.AF.E3.83.AA.E3.83.BC.E3.83.B3.E3.82.B7.E3.83.A7.E3.83.83.E3.83.88"><span class="tocnumber">1.2</span> <span class="toctext">スクリーンショット</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#.E3.82.B2.E3.83.BC.E3.83.A0.E3.81.AE.E4.BE.8B"><span class="tocnumber">1.3</span> <span class="toctext">ゲームの例</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#.E3.83.A6.E3.83.BC.E3.82.B6.E3.83.BC.E3.83.9E.E3.83.8B.E3.83.A5.E3.82.A2.E3.83.AB"><span class="tocnumber">2</span> <span class="toctext">ユーザーマニュアル</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#.E3.82.B2.E3.83.BC.E3.83.A0.E3.81.A7.E9.81.8A.E3.81.B6"><span class="tocnumber">2.1</span> <span class="toctext">ゲームで遊ぶ</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#.E3.82.B2.E3.83.BC.E3.83.A0.E3.82.92.E6.8E.A2.E3.81.99"><span class="tocnumber">2.2</span> <span class="toctext">ゲームを探す</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#.E3.82.B2.E3.83.BC.E3.83.A0.E3.81.AE.E3.82.A4.E3.83.B3.E3.82.B9.E3.83.88.E3.83.BC.E3.83.AB"><span class="tocnumber">2.3</span> <span class="toctext">ゲームのインストール</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#.E3.82.B5.E3.83.BC.E3.83.90.E3.83.BC.E3.81.A7.E9.81.8A.E3.81.B6"><span class="tocnumber">2.4</span> <span class="toctext">サーバーで遊ぶ</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#.E3.83.88.E3.83.A9.E3.83.96.E3.83.AB.E3.82.B7.E3.83.A5.E3.83.BC.E3.83.86.E3.82.A3.E3.83.B3.E3.82.B0"><span class="tocnumber">3</span> <span class="toctext">トラブルシューティング</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#.E9.96.A2.E9.80.A3.E9.A0.85.E7.9B.AE"><span class="tocnumber">4</span> <span class="toctext">関連項目</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#.E8.84.9A.E6.B3.A8"><span class="tocnumber">5</span> <span class="toctext">脚注</span></a></li>
+</ul>
+</div>
+
+<h3><span id="はじめに"></span><span class="mw-headline" id=".E3.81.AF.E3.81.98.E3.82.81.E3.81.AB">はじめに</span></h3>
+<h4><span id="概要"></span><span class="mw-headline" id=".E6.A6.82.E8.A6.81">概要</span></h4>
+<p>Minetestで「ゲーム」と呼ぶものには、さまざまなものがあります。ゴールのあるゲーム、サンドボックスゲーム、パズルゲーム、それらを組み合わせたもの、またはそれらとは異なるものなどです。ゲームはメインメニューから直接、選択して起動できます。そして、ゲーム自体は独立しています。さらにMinetestでは、そのゲームすべてを<a href="/Mods/ja" title="Mods/ja">Mod</a>を使って拡張したり、変更できます。Minetestにおける「ゲーム」の定義は「<code>games</code>ディレクトリに入れてメインメニューから起動するもの」となります。
+</p><p>ゲームは、技術的にはとてもシンプルです。内部的にゲームは、メインメニューの画像などいくつかの追加ファイルと複数の<a href="/Mods/ja" title="Mods/ja">Mod</a>を集めてパッケージ化したものです。パッケージ化することにより、完全なインタラクティブ体験が提供できます。プレーヤーはゲームを起動すると、その内部で使われているすべてのModが使用します。
+</p>
+<h4><span id="スクリーンショット"></span><span class="mw-headline" id=".E3.82.B9.E3.82.AF.E3.83.AA.E3.83.BC.E3.83.B3.E3.82.B7.E3.83.A7.E3.83.83.E3.83.88">スクリーンショット</span></h4>
+<p>MinetestのGameの種類の豊富さを感じていただくために、ギャラリーとしてゲームのスクリーンショットを紹介します。
+</p>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 435px"><div style="width: 435px">
+			<div class="thumb" style="width: 430px;"><div style="margin:15px auto;"><a href="/File:Minetest_Game_tower.jpg" class="image"><img alt="" src="/images/thumb/1/19/Minetest_Game_tower.jpg/390px-Minetest_Game_tower.jpg" decoding="async" width="390" height="256" srcset="/images/thumb/1/19/Minetest_Game_tower.jpg/585px-Minetest_Game_tower.jpg 1.5x, /images/thumb/1/19/Minetest_Game_tower.jpg/780px-Minetest_Game_tower.jpg 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a rel="nofollow" class="external text" href="https://content.minetest.net/packages/Minetest/minetest_game/">Minetest Game</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 435px"><div style="width: 435px">
+			<div class="thumb" style="width: 430px;"><div style="margin:30.5px auto;"><a href="/File:MineClone_2.png" class="image"><img alt="" src="/images/thumb/b/b6/MineClone_2.png/400px-MineClone_2.png" decoding="async" width="400" height="225" srcset="/images/thumb/b/b6/MineClone_2.png/600px-MineClone_2.png 1.5x, /images/thumb/b/b6/MineClone_2.png/800px-MineClone_2.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a rel="nofollow" class="external text" href="https://content.minetest.net/packages/Wuzzy/mineclone2/">MineClone 2</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 435px"><div style="width: 435px">
+			<div class="thumb" style="width: 430px;"><div style="margin:18px auto;"><a href="/File:Exile.jpg" class="image"><img alt="" src="/images/thumb/f/f9/Exile.jpg/400px-Exile.jpg" decoding="async" width="400" height="250" srcset="/images/thumb/f/f9/Exile.jpg/600px-Exile.jpg 1.5x, /images/thumb/f/f9/Exile.jpg/800px-Exile.jpg 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a rel="nofollow" class="external text" href="https://content.minetest.net/packages/Mantar/exile/">Exile</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 435px"><div style="width: 435px">
+			<div class="thumb" style="width: 430px;"><div style="margin:18px auto;"><a href="/File:NodeCore.jpg" class="image"><img alt="" src="/images/thumb/9/9a/NodeCore.jpg/400px-NodeCore.jpg" decoding="async" width="400" height="250" srcset="/images/thumb/9/9a/NodeCore.jpg/600px-NodeCore.jpg 1.5x, /images/thumb/9/9a/NodeCore.jpg/800px-NodeCore.jpg 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a rel="nofollow" class="external text" href="https://content.minetest.net/packages/Warr1024/nodecore/">NodeCore</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 435px"><div style="width: 435px">
+			<div class="thumb" style="width: 430px;"><div style="margin:15px auto;"><a href="/File:Lord_of_the_Test.jpg" class="image"><img alt="" src="/images/thumb/9/97/Lord_of_the_Test.jpg/348px-Lord_of_the_Test.jpg" decoding="async" width="348" height="256" srcset="/images/thumb/9/97/Lord_of_the_Test.jpg/522px-Lord_of_the_Test.jpg 1.5x, /images/thumb/9/97/Lord_of_the_Test.jpg/697px-Lord_of_the_Test.jpg 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a rel="nofollow" class="external text" href="https://content.minetest.net/packages/Amaz/lordofthetest/">Lord of the Test</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 435px"><div style="width: 435px">
+			<div class="thumb" style="width: 430px;"><div style="margin:30.5px auto;"><a href="/File:Repixture.jpg" class="image"><img alt="" src="/images/thumb/b/b2/Repixture.jpg/400px-Repixture.jpg" decoding="async" width="400" height="225" srcset="/images/thumb/b/b2/Repixture.jpg/600px-Repixture.jpg 1.5x, /images/thumb/b/b2/Repixture.jpg/800px-Repixture.jpg 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a rel="nofollow" class="external text" href="https://content.minetest.net/packages/Wuzzy/repixture/">Repixture</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 435px"><div style="width: 435px">
+			<div class="thumb" style="width: 430px;"><div style="margin:37px auto;"><a href="/File:Farlands_Reloaded.jpg" class="image"><img alt="" src="/images/thumb/5/5b/Farlands_Reloaded.jpg/400px-Farlands_Reloaded.jpg" decoding="async" width="400" height="212" srcset="/images/thumb/5/5b/Farlands_Reloaded.jpg/600px-Farlands_Reloaded.jpg 1.5x, /images/thumb/5/5b/Farlands_Reloaded.jpg/800px-Farlands_Reloaded.jpg 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a rel="nofollow" class="external text" href="https://content.minetest.net/packages/wsor4035/farlands_reloaded/">Farlands Reloaded</a>
+</p>
+			</div>
+		</div></li>
+</ul>
+<h4><span id="ゲームの例"></span><span class="mw-headline" id=".E3.82.B2.E3.83.BC.E3.83.A0.E3.81.AE.E4.BE.8B">ゲームの例</span></h4>
+<p><i>Main article: <a href="/List_of_Games" title="List of Games">List of Games</a></i>
+</p>
+<ul><li><b><a href="/Games/Minetest_Game" title="Games/Minetest Game">Minetest Game</a></b> (<code>minetest_game</code>)</li></ul>
+<p>This is the default game in Minetest. It's a rather simple sandbox without any goal. It has some <a href="/Biomes" title="Biomes">biomes</a> to explore, 6 <a href="/Ores" title="Ores">ores</a> to mine, a simple <a href="/Farming" title="Farming">farming</a> system with 2 farmable plants, different <a href="/Trees" title="Trees">trees</a>, and more. You can use <a href="/Boat" title="Boat">boats</a> and <a href="/Cart" title="Cart">carts</a> for faster travel. There are no <a href="/Mobs" title="Mobs">computer-controlled enemies or animals</a>, so the gameplay is very peaceful. It has all the <a href="/Blocks" class="mw-redirect" title="Blocks">blocks</a> and <a href="/Items" title="Items">items</a> and most other stuff you find in this wiki.
+</p>
+<ul><li><b><a href="/Games/Lord_of_the_Test" title="Games/Lord of the Test">Lord of the Test</a></b></li></ul>
+<p>A mix of the “voxel sandbox” and the role-playing game genres which takes place on Middle Earth from the Lord of the Rings triology by J. R. R. Tolkien.
+</p>
+<ul><li><b><a href="/index.php?title=Games/Minetest_Saturn&amp;action=edit&amp;redlink=1" class="new" title="Games/Minetest Saturn (page does not exist)">Minetest Saturn</a></b></li></ul>
+<p>A space simulation near the planet Saturn. You control a small space ship and can fly in all 3 dimensions (just like in space) and mine for ores in asteroids, do package deliveries between space stations, upgrade your ship or combat enemies. It is very different from the other games.
+</p>
+<ul><li><b><a href="/index.php?title=Games/Minetest_Hades&amp;action=edit&amp;redlink=1" class="new" title="Games/Minetest Hades (page does not exist)">Minetest Hades</a></b></li></ul>
+<p>This is another mostly sandbox game, but a bit more challenging than the others. You start on the volcanic planet Hades with large lava seas and a very rough terrain and barren terrain formation. Go mining and use your crafting and building skills for terraforming to turn the land into a beautiful habitable land.
+</p><p><br />
+See the Minetest Forums for a more complete list of games.
+</p>
+<h2><span id="ユーザーマニュアル"></span><span class="mw-headline" id=".E3.83.A6.E3.83.BC.E3.82.B6.E3.83.BC.E3.83.9E.E3.83.8B.E3.83.A5.E3.82.A2.E3.83.AB">ユーザーマニュアル</span></h2>
+<h3><span id="ゲームで遊ぶ"></span><span class="mw-headline" id=".E3.82.B2.E3.83.BC.E3.83.A0.E3.81.A7.E9.81.8A.E3.81.B6">ゲームで遊ぶ</span></h3>
+<p>すでにいくつかのゲームがインストールされている場合にゲームを利用する方法を紹介します。
+</p>
+<ol><li>Minetestを起動します</li>
+<li>ゲームアイコンバー(4)から遊びたいゲームをクリックします。(初回起動時にはMinetest Gameが選択されています)</li>
+<li>「新規作成」をクリックして新しい<a href="/Worlds" title="Worlds">ワールド</a>を作成します</li>
+<li>ワールド名を入力、<a href="/Map_generator" title="Map generator">マップジェネレーター</a>を選択して「作成」をクリックします。(ワールド名は入力しない場合、自動的に入力されます)。</li>
+<li>「ゲームプレイ」をクリックします。</li></ol>
+<p>以下はMinetestのシングルプレーヤーメニューです。この例でユーザーは大量のゲームをインストールしています。
+</p><p><a href="/File:Minetest_main_menu_annotated.png" class="image" title="メインメニュー"><img alt="メインメニュー" src="/images/6/6a/Minetest_main_menu_annotated.png" decoding="async" width="889" height="612" /></a>
+</p>
+<ul><li>1: <b>ゲームバナー</b>: ここには選択中のGameのテキストロゴが表示されます。これは「Minetest Game」の場合です</li>
+<li>2: <b>Minetest Gameのアイコン</b>: これはMinetestデフォルトのゲーム「Minetest Game」のアイコンです</li>
+<li>3: <b>ゲーム名</b>: 現在、選択中のゲームの名前</li>
+<li>4: <b>ゲームアイコンバー</b>: アイコンはそれぞれのゲームを表しています。アイコンをクリックしてゲームを選択します。矢印をクリックするとスクロールします</li>
+<li>5: <b>ワールドの一覧</b>: 選択しているゲームのワールドのみが表示されます</li>
+<li>6: <b>基本設定</b></li></ul>
+<h3><span id="ゲームを探す"></span><span class="mw-headline" id=".E3.82.B2.E3.83.BC.E3.83.A0.E3.82.92.E6.8E.A2.E3.81.99">ゲームを探す</span></h3>
+<p>最初のゲームは、すでに持っているはずのMinetest Gameです。これを見つけるのは簡単です。;-)
+</p><p>ゲームを見つけてインストールするには、おもに<a rel="nofollow" class="external text" href="https://content.minetest.net/">ContentDB</a>を使います。ContentDBは、Mintestの「コンテンツ」タブにある「オンラインコンテンツを参照」ボタンを押すと表示されます。「コンテンツ」タブからゲームをインストールするのは簡単です。
+</p>
+<ol><li>検索バーからゲームを検索するか、検索バー横のフィルターで「ゲーム」を選択</li>
+<li>ゲームの横にあるインストールボタン(＋ボタン)をクリック/タップ</li></ol>
+<p>それ以外のゲームを探すには、Mintestフォーラムを利用するといいでしょう。ゲームを作ったほとんどの人はフォーラムに投稿しています。
+</p>
+<ul><li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewforum.php?f=15">Minetest Forums: Game Releases</a></li>
+<li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewforum.php?f=50">Minetest Forums: WIP Games</a></li></ul>
+<p>フォーラムの閲覧が難しい場合でも、ほかのウェブページから探すこともできます。ですが、大抵の場合、これらのページは不完全です。
+</p>
+<ul><li><a href="/List_of_Games" title="List of Games">List of Games</a></li>
+<li><a rel="nofollow" class="external text" href="https://lgdb.org/engine/minetest">Linux Game Database: Game engine entry for “Minetest”</a> (非常に不完全)</li></ul>
+<h3><span id="ゲームのインストール"></span><span class="mw-headline" id=".E3.82.B2.E3.83.BC.E3.83.A0.E3.81.AE.E3.82.A4.E3.83.B3.E3.82.B9.E3.83.88.E3.83.BC.E3.83.AB">ゲームのインストール</span></h3>
+<p>コンテンツタブからインストールされたゲームは、自動的にインストールされて設定されます。
+</p><p>そのほかの方法でゲームをインストールする場合は、ゲームのアーカイブを入手してインストールします。ゲームはzip形式のアーカイブで配布されています(.tar.gzなど他のアーカイブ形式でも可能です)。以下の手順でインストールします。
+</p>
+<ul><li>ゲームのアーカイブを入手する</li>
+<li>アーカイブをMinetestの<code>games</code>ディレクトリに展開します。このディレクトリはOSによって異なります
+<ul><li><b>GNU/Linux</b>: <code>$HOME/.minetest/games</code>, <code>$HOME</code>はホームディレクトリを表しています</li>
+<li><b>Mac OS</b>: <code>$HOME/.minetest/games</code>, <code>$HOME</code>はホームディレクトリを表しています。</li>
+<li><b>Windows</b>: Minetestをインストールしたメインプログラムフォルダーの<code>games</code>ディレクトリに入れます。メインプログラムフォルダーには、<code>bin</code> (<code>minetest.exe</code>があります), <code>builtin</code>, <code>client</code>, <code>doc</code>, <code>fonts</code>, <code>games</code>, <code>locale</code>, <code>mods</code>, <code>textures</code>などのディレクトリがあります。</li></ul></li></ul>
+<p>これでゲームがインストールできました。Minetestの次回起動時に見つかるはずです。
+</p><p>Minetestを起動してゲームが検出されれば、下部のアイコンをクリックして、シングルプレーヤーモードで新しいゲームを始めることができます。ゲームを始めるには新しいワールドを作成して「ゲームプレイ」ボタンを押します。
+</p>
+<h3><span id="サーバーで遊ぶ"></span><span class="mw-headline" id=".E3.82.B5.E3.83.BC.E3.83.90.E3.83.BC.E3.81.A7.E9.81.8A.E3.81.B6">サーバーで遊ぶ</span></h3>
+<p>高度にカスタマイズされた<a href="/Server/ja" title="Server/ja">サーバー</a>に参加するだけでゲームを「見つけられます」。多くのサーバーでは、Minetest Gameやその改造版をホスティングしていますが、一部のサーバーでは、別のゲームもホスティングしています。Minetestというゲームの性質上、どのサーバーもユニークなものとなります。サーバーに参加することは、手動でゲームをインストールすることなくMinetestの可能性を試すには良い方法です。
+</p>
+<h2><span id="トラブルシューティング"></span><span class="mw-headline" id=".E3.83.88.E3.83.A9.E3.83.96.E3.83.AB.E3.82.B7.E3.83.A5.E3.83.BC.E3.83.86.E3.82.A3.E3.83.B3.E3.82.B0">トラブルシューティング</span></h2>
+<p>ゲームが正しいディレクトリにインストールされたかを確認するためにディレクトリ一覧の例を示します。この図で、ゲームのディレクトリは<code>&lt;GAME&gt;</code>にあります。インストール後のディレクトリツリーは以下のようになるはずです。(一部のファイルやディレクトリはオプションですが、すべてのディレクトリが存在する場合でもツリーのこの位置にある必要があります。)
+</p>
+<pre>minetest/
+├── bin/
+├── builtin/
+├── (other uninteresting directories)
+├── games/
+│   ├── &lt;GAME&gt;
+│   │   ├── mods/
+│   │   │   └── (usually a lot of mod directories)
+│   │   ├── menu/
+│   │   │   └── (some PNG files)
+│   │   └── game.conf
+│   └── &lt;ANOTHER GAME&gt;
+        └── (same directories as for the game above)
+</pre>
+<p>ゲームのディレクトリ名は重要ではないので、インストール後に変更することもできます。しかし、後からゲームのディレクトリ名を変更するとMinetestはゲームの既存ワールドを見つけられなくなるので、お勧めはしません。
+</p><p>また、環境変数<code>MINETEST_GAME_PATH</code>を設定して<code>games</code>ディレクトリの場所を定義することもできますが、通常は必要ありません。
+</p>
+<h2><span id="関連項目"></span><span class="mw-headline" id=".E9.96.A2.E9.80.A3.E9.A0.85.E7.9B.AE">関連項目</span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://dev.minetest.net/Games">Creating games</a> on the <a rel="nofollow" class="external text" href="http://dev.minetest.net">Minetest-dev wiki</a>.</li></ul>
+<h2><span id="脚注"></span><span class="mw-headline" id=".E8.84.9A.E6.B3.A8">脚注</span></h2>
+<!-- 
+NewPP limit report
+Cached time: 20230709083937
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.275 seconds
+Real time usage: 0.595 seconds
+Preprocessor visited node count: 141/1000000
+Post‐expand include size: 1781/2097152 bytes
+Template argument size: 351/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 13/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 5001/5000000 bytes
+Lua time usage: 0.130/7 seconds
+Lua virtual size: 5.54 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  438.502      1 -total
+ 78.89%  345.918      1 Template:Languages
+ 20.98%   92.001      1 Template:Game_gallery
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:5068-0!canonical and timestamp 20230709083937 and revision id 26530
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Games/ja&amp;oldid=26530">http://wiki.minetest.net/index.php?title=Games/ja&amp;oldid=26530</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li><li><a href="/Category:Games" title="Category:Games">Games</a></li><li><a href="/Category:Japanese" title="Category:Japanese">Japanese</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Games%2Fja" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Games/ja" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Games/ja&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Games/ja">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Games/ja&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Games/ja&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Games/ja" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Games/ja" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Games/ja&amp;oldid=26530" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Games/ja&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 9 November 2021, at 14:35.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.275","walltime":"0.595","ppvisitednodes":{"value":141,"limit":1000000},"postexpandincludesize":{"value":1781,"limit":2097152},"templateargumentsize":{"value":351,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":13,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":5001,"limit":5000000},"timingprofile":["100.00%  438.502      1 -total"," 78.89%  345.918      1 Template:Languages"," 20.98%   92.001      1 Template:Game_gallery"]},"scribunto":{"limitreport-timeusage":{"value":"0.130","limit":"7"},"limitreport-virtmemusage":{"value":5808128,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709083937","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":282});});</script></body></html>

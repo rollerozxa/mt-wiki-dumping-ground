@@ -1,0 +1,134 @@
+'''Git is a version control system.''' It handles projects as ''repositories'' (often called ''repos'') with a history. The history consists of commits. A commit is a change to the code with the description.
+
+Git allows people to create forks of a repository. A fork is a new repository with the same history and content, but when committing to the fork, the main repository is not affected. This allows developers to work on projects without access to the main repo.
+
+To bring other peoples work into the main repository, they can open a pull request. This can easily be done in the GUI of GitHub.
+
+Git also has the ability to create branches in one repository. This allows developers to work on multiple features at the same time.
+
+Minetest has two repositories: the engine is in the “minetest” repository, whereas the main game, Minetest Game, is in the “minetest_game” repositories. The repositories are hosted on GitHub.
+
+== Use Git to get the latest updates ==
+
+You can use Git to get the latest updates of Minetest in a RUN_IN_PLACE version. To do this, clone the main repository:
+<source lang="bash">
+# Get the engine
+git clone https://github.com/minetest/minetest.git # Creates a directory called "minetest" with all the content.
+
+# Get Minetest Game
+cd minetest/games/
+git clone https://github.com/minetest/minetest_game.git # Creates a directory called "minetest_game" with all the content.
+</source>
+
+To get the latest updates of the engine (you have to compile Minetest after this), do this in the cloned Minetest directory:
+<source lang="bash">
+git pull
+</source>
+
+To get the latest updates of Minetest Game:
+<source lang="bash">
+cd games/minetest_game/
+git pull
+</source>
+
+== Using Git for development ==
+
+=== Creating a fork ===
+
+{{Template:Note|In this example only the engine repository is used, but you can do the same with the minetest_game repository.}}
+
+To use Git for development, you have to fork the main repository on GitHub first. After this, you can clone your repository:
+<source lang="bash">
+git clone git://github.com/Your_user_name_on_GitHub/minetest.git #Creates a directory called "minetest" with all the content
+cd minetest/
+</source>
+
+=== Coding a feature or a bug fix ===
+
+Create a new branch to code your feature (be sure to give them good names (not just “patch” or “fix”)):
+<source lang="bash">
+git checkout -b feature_branch
+</source>
+
+Now, you can code your feature or bug fix. If you are done, you have to commit your changes and push them to your repository on GitHub:
+<source lang="bash">
+git add . # Adds all changes; alternatively you can specify single files
+git commit -m "Your feature"
+git push origin feature_branch
+</source>
+
+Commit messages should start with a capital letter and use the present tense. They should sum up the feature/fix.
+
+You can now access your code in your repository on GitHub and open a pull request for it to the main repository.
+
+To go back to your master branch do:
+<source lang="bash">
+git checkout master
+</source>
+
+If you have to update your feature, do:
+<source lang="bash">
+git checkout feature_branch
+# Do changes
+git add .
+git commit -m "Update message"
+git push origin feature_branch
+</source>
+
+This will automatically be added to the pull request (if there is one).
+
+=== Updating your fork ===
+
+You can use Git to update your Minetest fork with the latest changes of the official repository.
+
+==== Prerequisites ====
+
+If you haven't already you need to tell git where to get the changes.
+<source lang="bash">
+git remote add upstream https://github.com/minetest/minetest
+cd games/minetest_game
+git remote add upstream https://github.com/minetest/minetest_game
+</source>
+
+==== Updating the fork ====
+
+You need to download the changes of the main repository first and then merge them.
+
+'''For the engine:'''
+<source lang="bash">
+# Get the changes
+git fetch upstream
+
+# Merge the changes
+git rebase upstream/master
+
+# Push the result to GitHub
+git push
+</source>
+
+'''For the game:'''
+<source lang="bash">
+cd games/minetest_game
+# Get the changes:
+git fetch upstream
+
+# Merge the changes
+git rebase upstream/master
+
+# Push the result to GitHub
+git push
+</source><br/>
+
+== Tips ==
+Simplify making commits:
+<source lang="bash">echo 'git add -A && git commit -m "$*
+
+$(git status -s)"' | sudo tee /usr/local/bin/gitdirectcommit && sudo chmod +x /usr/local/bin/gitdirectcommit</source>
+to make a commit, just do changes in your repository and run e.g. <source lang="bash">gitdirectcommit my changes</source>
+Quotes are not needed and the files (their path relative to the repository path) which are changed are annexed to the end of the commit message automatically.<br/>
+
+== See also ==
+
+* [http://git-scm.com/book ''Pro Git'' (book)]
+* [https://forum.minetest.net/viewtopic.php?f=3&t=14262 The big git and github Pull Request thread on the forums]
+[[Category:Git]]

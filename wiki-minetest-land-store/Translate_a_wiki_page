@@ -1,0 +1,550 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Translate a wiki page - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"e20564bd462fd0070c322686","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Translate_a_wiki_page","wgTitle":"Translate a wiki page","wgCurRevisionId":25654,"wgRevisionId":25654,"wgArticleId":4984,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Translate_a_wiki_page","wgRelevantArticleId":4984,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready",
+"noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Translate_a_wiki_page rootpage-Translate_a_wiki_page skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Translate a wiki page</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> Language:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><b><a class="mw-selflink selflink">English</a></b></td>
+</tr></tbody></table> 
+<p><b>This site is a work in progress!</b>
+</p><p><br />
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#How_to_translate_a_page_on_wiki.minetest.net"><span class="tocnumber">1</span> <span class="toctext">How to translate a page on wiki.minetest.net</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Further_informations"><span class="tocnumber">2</span> <span class="toctext">Further informations</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Translating_pages"><span class="tocnumber">2.1</span> <span class="toctext">Translating pages</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Supported_languages"><span class="tocnumber">3</span> <span class="toctext">Supported languages</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="How_to_translate_a_page_on_wiki.minetest.net">How to translate a page on wiki.minetest.net</span></h2>
+<p>To create a new translation of a page, just create a subpage of the page you want to translate. 
+</p><p><b>1.</b> Open the page you want to translate 
+</p><p><b>2.</b> Click in the addressbar of your webbrowser and move the cursor to the outer right 
+</p><p><b>3.</b> Now type a slash <b>/</b> 
+</p><p><b>4.</b> After the slash type the country code of the language you want to translate the page into, to find the correct code take a look at this table: <a rel="nofollow" class="external text" href="https://wiki.minetest.net/Category:Languages_pages_without_translations#Supported_languages">Category:Languages_pages_without_translations#Supported_languages</a> 
+</p><p><b>5.</b> After you typed in that code just hit enter. 
+</p><p><b>6.</b> On that newly opened page click on the <b>Create</b> tab left from the search mask of the website. 
+</p><p><b>7.</b> When you are done click on the button <b>Save page</b> at the bottom of the page.
+</p><p><br />
+That's it! 
+</p><p>Now have fun with translating and feel free to translate this page here too.
+</p>
+<h2><span class="mw-headline" id="Further_informations">Further informations</span></h2>
+<p><b>This section was cut and paste from <a rel="nofollow" class="external text" href="https://wiki.minetest.net/Template:Languages_pages">Template:Languages_pages</a>.</b>
+</p>
+<h3><span class="mw-headline" id="Translating_pages">Translating pages</span></h3>
+<p>To translate a page, create a new page with <code>/&lt;LanguageCode&gt;</code> appended to the end, where <code>&lt;LanguageCode&gt;</code> corresponds to the language that you are translating for. (See section <a href="#Supported_languages">Supported languages</a> section for a list of language codes.) For example, translating the <code>Dirt</code> page into German would be done by creating the <code>Dirt/de</code> page, copying everything from the <code>Dirt</code> page, and translating it all into German.
+</p><p>Many pages use templates that are in English, such as <span style="white-space:nowrap"><code><a href="/Template:Block_Data" class="mw-redirect" title="Template:Block Data">Template:Block Data</a></code></span>. Templates can be translated by going to <span style="white-space:nowrap"><code>Template:&lt;TemplateName&gt;/&lt;LanguageCode&gt;</code></span>, where <code>&lt;TemplateName&gt;</code> is inside <code>{{</code> and <code>}}</code>. For example, <span style="white-space:nowrap"><code>{{Block Data}}</code></span> is found at <span style="white-space:nowrap"><code><a href="/Template:Block_Data" class="mw-redirect" title="Template:Block Data">Template:Block Data</a></code></span>, and the German version is found at <span style="white-space:nowrap"><code><a href="/Template:Block_Data/de" class="mw-redirect" title="Template:Block Data/de">Template:Block Data/de</a></code></span> and can be used with <span style="white-space:nowrap"><code>{{Block Data/de}}</code></span>.
+</p><p><b>Note:</b> Some templates use Scribunto modules that currently do not support translation. In such cases, copy the template from another translated version (e.g. copying <span style="white-space:nowrap"><code><a href="/Template:Block_Data/de" class="mw-redirect" title="Template:Block Data/de">Template:Block Data/de</a></code></span> to <span style="white-space:nowrap"><code><a href="/index.php?title=Template:Block_Data/es&amp;action=edit&amp;redlink=1" class="new" title="Template:Block Data/es (page does not exist)">Template:Block Data/es</a></code></span>) and look at the English version to help with the process of translating the template.
+</p>
+<h2><span class="mw-headline" id="Supported_languages">Supported languages</span></h2>
+<table class="wikitable">
+<tbody><tr>
+<th>Language name</th>
+<th>Language code
+</th></tr>
+<tr>
+<td>العربية</td>
+<td>ar
+</td></tr>
+<tr>
+<td>asturianu</td>
+<td>ast
+</td></tr>
+<tr>
+<td>azərbaycanca</td>
+<td>az
+</td></tr>
+<tr>
+<td>جهلسری بلوچی</td>
+<td>bcc
+</td></tr>
+<tr>
+<td>български</td>
+<td>bg
+</td></tr>
+<tr>
+<td>brezhoneg</td>
+<td>br
+</td></tr>
+<tr>
+<td>বাংলা</td>
+<td>bn
+</td></tr>
+<tr>
+<td>bosanski</td>
+<td>bs
+</td></tr>
+<tr>
+<td>català</td>
+<td>ca
+</td></tr>
+<tr>
+<td>čeština</td>
+<td>cs
+</td></tr>
+<tr>
+<td>dansk</td>
+<td>da
+</td></tr>
+<tr>
+<td>Deutsch</td>
+<td>de
+</td></tr>
+<tr>
+<td>Zazaki</td>
+<td>diq
+</td></tr>
+<tr>
+<td>Ελληνικά</td>
+<td>el
+</td></tr>
+<tr>
+<td>Esperanto</td>
+<td>eo
+</td></tr>
+<tr>
+<td>español</td>
+<td>es
+</td></tr>
+<tr>
+<td>فارسی</td>
+<td>fa
+</td></tr>
+<tr>
+<td>suomi</td>
+<td>fi
+</td></tr>
+<tr>
+<td>français</td>
+<td>fr
+</td></tr>
+<tr>
+<td>galego</td>
+<td>gl
+</td></tr>
+<tr>
+<td>ગુજરાતી</td>
+<td>gu
+</td></tr>
+<tr>
+<td>עברית</td>
+<td>he
+</td></tr>
+<tr>
+<td>हिन्दी</td>
+<td>hi
+</td></tr>
+<tr>
+<td>magyar</td>
+<td>hu
+</td></tr>
+<tr>
+<td>հայերեն</td>
+<td>hy
+</td></tr>
+<tr>
+<td>Bahasa Indonesia</td>
+<td>id
+</td></tr>
+<tr>
+<td>Ido</td>
+<td>io
+</td></tr>
+<tr>
+<td>italiano</td>
+<td>it
+</td></tr>
+<tr>
+<td>日本語</td>
+<td>ja
+</td></tr>
+<tr>
+<td>ქართული</td>
+<td>ka
+</td></tr>
+<tr>
+<td>қазақша</td>
+<td>kk
+</td></tr>
+<tr>
+<td>ភាសាខ្មែរ</td>
+<td>km
+</td></tr>
+<tr>
+<td>한국어</td>
+<td>ko
+</td></tr>
+<tr>
+<td>Ripoarisch</td>
+<td>ksh
+</td></tr>
+<tr>
+<td>kernowek</td>
+<td>kw
+</td></tr>
+<tr>
+<td>Latina</td>
+<td>la
+</td></tr>
+<tr>
+<td>Minangkabau</td>
+<td>min
+</td></tr>
+<tr>
+<td>македонски</td>
+<td>mk
+</td></tr>
+<tr>
+<td>മലയാളം</td>
+<td>ml
+</td></tr>
+<tr>
+<td>मराठी</td>
+<td>mr
+</td></tr>
+<tr>
+<td>Bahasa Melayu</td>
+<td>ms
+</td></tr>
+<tr>
+<td>Nederlands</td>
+<td>nl
+</td></tr>
+<tr>
+<td>norsk</td>
+<td>no
+</td></tr>
+<tr>
+<td>occitan</td>
+<td>oc
+</td></tr>
+<tr>
+<td>ଓଡ଼ିଆ</td>
+<td>or
+</td></tr>
+<tr>
+<td>polski</td>
+<td>pl
+</td></tr>
+<tr>
+<td>português</td>
+<td>pt
+</td></tr>
+<tr>
+<td>português do Brasil</td>
+<td>pt-br
+</td></tr>
+<tr>
+<td>română</td>
+<td>ro
+</td></tr>
+<tr>
+<td>русский</td>
+<td>ru
+</td></tr>
+<tr>
+<td>සිංහල</td>
+<td>si
+</td></tr>
+<tr>
+<td>slovenčina</td>
+<td>sk
+</td></tr>
+<tr>
+<td>slovenščina</td>
+<td>sl
+</td></tr>
+<tr>
+<td>Soomaaliga</td>
+<td>so
+</td></tr>
+<tr>
+<td>shqip</td>
+<td>sq
+</td></tr>
+<tr>
+<td>српски / srpski</td>
+<td>sr
+</td></tr>
+<tr>
+<td>svenska</td>
+<td>sv
+</td></tr>
+<tr>
+<td>தமிழ்</td>
+<td>ta
+</td></tr>
+<tr>
+<td>ไทย</td>
+<td>th
+</td></tr>
+<tr>
+<td>Türkçe</td>
+<td>tr
+</td></tr>
+<tr>
+<td>українська</td>
+<td>uk
+</td></tr>
+<tr>
+<td>Tiếng Việt</td>
+<td>vi
+</td></tr>
+<tr>
+<td>ייִדיש</td>
+<td>yi
+</td></tr>
+<tr>
+<td>粵語</td>
+<td>yue
+</td></tr>
+<tr>
+<td>中文</td>
+<td>zh
+</td></tr>
+<tr>
+<td>中文（简体）‎</td>
+<td>zh-hans
+</td></tr>
+<tr>
+<td>中文（繁體）‎</td>
+<td>zh-hant
+</td></tr>
+<tr>
+<td>中文（台灣）‎</td>
+<td>zh-tw
+</td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Cached time: 20230709185601
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.243 seconds
+Real time usage: 0.444 seconds
+Preprocessor visited node count: 199/1000000
+Post‐expand include size: 2543/2097152 bytes
+Template argument size: 491/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 14/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 31/5000000 bytes
+Lua time usage: 0.130/7 seconds
+Lua virtual size: 5.54 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  326.750      1 -total
+ 94.77%  309.650      1 Template:Languages
+  3.74%   12.220      8 Template:Nowrap
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:4984-0!canonical and timestamp 20230709185600 and revision id 25654
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Translate_a_wiki_page&amp;oldid=25654">http://wiki.minetest.net/index.php?title=Translate_a_wiki_page&amp;oldid=25654</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Translate+a+wiki+page" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Translate_a_wiki_page" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Translate_a_wiki_page&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Translate_a_wiki_page">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Translate_a_wiki_page&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Translate_a_wiki_page&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Translate_a_wiki_page" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Translate_a_wiki_page" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Translate_a_wiki_page&amp;oldid=25654" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Translate_a_wiki_page&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 13 April 2021, at 23:44.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.243","walltime":"0.444","ppvisitednodes":{"value":199,"limit":1000000},"postexpandincludesize":{"value":2543,"limit":2097152},"templateargumentsize":{"value":491,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":14,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":31,"limit":5000000},"timingprofile":["100.00%  326.750      1 -total"," 94.77%  309.650      1 Template:Languages","  3.74%   12.220      8 Template:Nowrap"]},"scribunto":{"limitreport-timeusage":{"value":"0.130","limit":"7"},"limitreport-virtmemusage":{"value":5812224,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709185601","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":827});});</script></body></html>

@@ -1,0 +1,423 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Clay Brick - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"d8aa6f055a8559e1038c8815","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Clay_Brick","wgTitle":"Clay Brick","wgCurRevisionId":24416,"wgRevisionId":24416,"wgArticleId":139,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages","Craftitems"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Clay_Brick","wgRelevantArticleId":139,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready",
+"user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=jquery.makeCollapsible.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Clay_Brick rootpage-Clay_Brick skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Clay Brick</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> Language:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><b><a class="mw-selflink selflink">English</a></b>&#160;• <bdi lang="de"><a href="/Clay_Brick/de" class="mw-redirect" title="Clay Brick/de">Deutsch</a></bdi>&#160;• <bdi lang="fr"><a href="/Clay_Brick/fr" title="Clay Brick/fr">français</a></bdi></td>
+</tr></tbody></table>
+<table class="wikitable" width="200px" style="float:right;text-align:left;margin:0 0 0.5em 1em;padding:5px;font-size:90%;position:relative;clear:right;overflow:auto;z-index:1">
+
+<tbody><tr>
+<th colspan="2" style="font-size:110%;text-align:center">Clay Brick
+</th></tr>
+<tr>
+<th colspan="2"><div class="center"><a href="/File:Clay_Brick.png" class="image"><img alt="Clay Brick.png" src="/images/7/70/Clay_Brick.png" decoding="async" width="160" height="160" /></a></div>
+</th></tr>
+<tr>
+<th colspan="2" align="center">An <a href="/Items" title="Items">item</a> in <a href="/Games/Minetest_Game" title="Games/Minetest Game">Minetest Game</a>
+</th></tr>
+<tr>
+<td><b>Item Type</b>
+</td>
+<td>Craftitem
+</td></tr>
+<tr>
+<td><b><a href="/Category:Renewable" title="Category:Renewable">Renewable</a></b>
+</td>
+<td>No
+</td></tr>
+<tr>
+<td><b><a href="/Tool#Wear" title="Tool">Durability</a></b>
+</td>
+<td><i>N/A</i>
+</td></tr>
+<tr>
+<td><b><a href="/Item_stack" title="Item stack">Stackable</a></b>
+</td>
+<td>Yes (99)
+</td></tr>
+<tr>
+<td><b><a href="/Itemstrings" title="Itemstrings">Itemstring</a></b>
+</td>
+<td>default:clay_brick
+</td></tr></tbody></table>
+<p><b>Clay Bricks</b> are made from smelting <a href="/Clay_Lump" title="Clay Lump">clay lumps</a> in a <a href="/Furnace" title="Furnace">furnace</a>. 
+</p><p>Clay Bricks can be crafted into <a href="/Brick_Block" title="Brick Block">brick blocks</a>.
+</p>
+<h2><span class="mw-headline" id="Smelting">Smelting</span></h2>
+<table class="wikitable">
+
+<tbody><tr>
+<th scope="row" width="140px">Input
+</th>
+<th scope="col"><a href="/Furnace" title="Furnace">Furnace</a>
+</th>
+<th scope="row" width="140px">Output
+</th></tr>
+<tr>
+<td><a href="/Clay_Lump" title="Clay Lump"><img alt="Clay Lump.png" src="/images/thumb/7/73/Clay_Lump.png/32px-Clay_Lump.png" decoding="async" width="32" height="32" srcset="/images/thumb/7/73/Clay_Lump.png/48px-Clay_Lump.png 1.5x, /images/thumb/7/73/Clay_Lump.png/64px-Clay_Lump.png 2x" /></a> <a href="/Clay_Lump" title="Clay Lump">Clay Lump</a>
+</td>
+<td><img alt="Arrow.png" src="/images/4/41/Arrow.png" decoding="async" width="32" height="26" /> <img alt="Furnace.png" src="/images/thumb/0/0f/Furnace.png/24px-Furnace.png" decoding="async" width="24" height="24" srcset="/images/thumb/0/0f/Furnace.png/36px-Furnace.png 1.5x, /images/thumb/0/0f/Furnace.png/48px-Furnace.png 2x" /> <img alt="Arrow.png" src="/images/4/41/Arrow.png" decoding="async" width="32" height="26" />
+</td>
+<td><a href="/Clay_Brick" title="Clay Brick"><img alt="Clay Brick.png" src="/images/thumb/7/70/Clay_Brick.png/32px-Clay_Brick.png" decoding="async" width="32" height="32" srcset="/images/thumb/7/70/Clay_Brick.png/48px-Clay_Brick.png 1.5x, /images/thumb/7/70/Clay_Brick.png/64px-Clay_Brick.png 2x" /></a> <a class="mw-selflink selflink">Clay Brick</a>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Crafting">Crafting</span></h2>
+<table class="wikitable">
+
+<tbody><tr>
+<th scope="row"><a class="mw-selflink selflink">Clay Brick</a>
+</th>
+<td align="center"><a href="/Brick_Block" title="Brick Block">Brick Block</a>
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Brick" title="Brick"><img alt="Brick.png" src="/images/thumb/5/58/Brick.png/32px-Brick.png" decoding="async" width="32" height="32" srcset="/images/thumb/5/58/Brick.png/48px-Brick.png 1.5x, /images/thumb/5/58/Brick.png/64px-Brick.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/Clay_Brick" title="Clay Brick"><img alt="Clay Brick.png" src="/images/thumb/7/70/Clay_Brick.png/32px-Clay_Brick.png" decoding="async" width="32" height="32" srcset="/images/thumb/7/70/Clay_Brick.png/48px-Clay_Brick.png 1.5x, /images/thumb/7/70/Clay_Brick.png/64px-Clay_Brick.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black">4</span></div></div>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="As_a_crafting_ingredient">As a crafting ingredient</span></h2>
+<table class="wikitable">
+
+<tbody><tr>
+<th scope="row" width="50px">Name
+</th>
+<th scope="col" width="140px">Ingredients
+</th>
+<th scope="col">Input &#8594; Output
+</th></tr>
+<tr>
+<th scope="row"><a href="/Brick_Block" title="Brick Block">Brick Block</a>
+</th>
+<td align="center"><a class="mw-selflink selflink">Clay Brick</a>
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Clay_Brick" title="Clay Brick"><img alt="Clay Brick.png" src="/images/thumb/7/70/Clay_Brick.png/32px-Clay_Brick.png" decoding="async" width="32" height="32" srcset="/images/thumb/7/70/Clay_Brick.png/48px-Clay_Brick.png 1.5x, /images/thumb/7/70/Clay_Brick.png/64px-Clay_Brick.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Clay_Brick" title="Clay Brick"><img alt="Clay Brick.png" src="/images/thumb/7/70/Clay_Brick.png/32px-Clay_Brick.png" decoding="async" width="32" height="32" srcset="/images/thumb/7/70/Clay_Brick.png/48px-Clay_Brick.png 1.5x, /images/thumb/7/70/Clay_Brick.png/64px-Clay_Brick.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Clay_Brick" title="Clay Brick"><img alt="Clay Brick.png" src="/images/thumb/7/70/Clay_Brick.png/32px-Clay_Brick.png" decoding="async" width="32" height="32" srcset="/images/thumb/7/70/Clay_Brick.png/48px-Clay_Brick.png 1.5x, /images/thumb/7/70/Clay_Brick.png/64px-Clay_Brick.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Clay_Brick" title="Clay Brick"><img alt="Clay Brick.png" src="/images/thumb/7/70/Clay_Brick.png/32px-Clay_Brick.png" decoding="async" width="32" height="32" srcset="/images/thumb/7/70/Clay_Brick.png/48px-Clay_Brick.png 1.5x, /images/thumb/7/70/Clay_Brick.png/64px-Clay_Brick.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/Brick" title="Brick"><img alt="Brick.png" src="/images/thumb/5/58/Brick.png/32px-Brick.png" decoding="async" width="32" height="32" srcset="/images/thumb/5/58/Brick.png/48px-Brick.png 1.5x, /images/thumb/5/58/Brick.png/64px-Brick.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black"></span></div></div>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<table class="mw-collapsible mw-collapsed" style="background: #FFF; border: 1px solid #CCC; width: 100%; margin: 1em 0 0">
+<tbody><tr>
+<th colspan="2" style="background: #CCC"><div style="float: left; padding: 0 0 0 0.3em">[<span class="plainlinks"><a rel="nofollow" class="external text" href="//wiki.minetest.net/index.php?title=Games/Minetest_Game/Items/navbox&amp;action=edit">Edit</a></span>]</div> <span style="font-size: 110%"><a href="/Items" title="Items">Items</a> in <a href="/Games/Minetest_Game" title="Games/Minetest Game">Minetest Game</a></span>
+</th></tr>
+<tr>
+<th style="background: #EEE; padding: 0 10px; text-align: right"><span style="white-space:nowrap"><a href="/Tool" title="Tool">Tools</a> and weapons</span>
+</th>
+<td style="width: 100%"><span style="white-space:nowrap"><a href="/Axe" title="Axe"><img alt="Steel Axe.png" src="/images/thumb/c/ce/Steel_Axe.png/16px-Steel_Axe.png" decoding="async" width="16" height="16" srcset="/images/thumb/c/ce/Steel_Axe.png/24px-Steel_Axe.png 1.5x, /images/thumb/c/ce/Steel_Axe.png/32px-Steel_Axe.png 2x" /></a> <a href="/Axe" title="Axe">Axe</a></span> • <span style="white-space:nowrap"><a href="/Binoculars" title="Binoculars"><img alt="Binoculars.png" src="/images/thumb/7/74/Binoculars.png/16px-Binoculars.png" decoding="async" width="16" height="16" srcset="/images/thumb/7/74/Binoculars.png/24px-Binoculars.png 1.5x, /images/thumb/7/74/Binoculars.png/32px-Binoculars.png 2x" /></a> <a href="/Binoculars" title="Binoculars">Binoculars</a></span> • <span style="white-space:nowrap"><a href="/Book" title="Book"><img alt="Book.png" src="/images/thumb/f/f3/Book.png/16px-Book.png" decoding="async" width="16" height="16" srcset="/images/thumb/f/f3/Book.png/24px-Book.png 1.5x, /images/thumb/f/f3/Book.png/32px-Book.png 2x" /></a> <a href="/Book" title="Book">Book</a></span> (<span style="white-space:nowrap"><a href="/Book" title="Book"><img alt="Book with Text.png" src="/images/thumb/c/c4/Book_with_Text.png/16px-Book_with_Text.png" decoding="async" width="16" height="16" srcset="/images/thumb/c/c4/Book_with_Text.png/24px-Book_with_Text.png 1.5x, /images/thumb/c/c4/Book_with_Text.png/32px-Book_with_Text.png 2x" /></a> <a href="/Book" title="Book">with Text</a></span>) • <span style="white-space:nowrap"><a href="/Bucket" title="Bucket"><img alt="Bucket.png" src="/images/thumb/5/52/Bucket.png/16px-Bucket.png" decoding="async" width="16" height="16" srcset="/images/thumb/5/52/Bucket.png/24px-Bucket.png 1.5x, /images/thumb/5/52/Bucket.png/32px-Bucket.png 2x" /></a> <a href="/Bucket" title="Bucket">Bucket</a></span> • <span style="white-space:nowrap"><a href="/Bug_Net" title="Bug Net"><img alt="Bug Net.png" src="/images/thumb/d/d5/Bug_Net.png/16px-Bug_Net.png" decoding="async" width="16" height="16" srcset="/images/thumb/d/d5/Bug_Net.png/24px-Bug_Net.png 1.5x, /images/thumb/d/d5/Bug_Net.png/32px-Bug_Net.png 2x" /></a> <a href="/Bug_Net" title="Bug Net">Bug Net</a></span> • <span style="white-space:nowrap"><a href="/Flint_and_Steel" title="Flint and Steel"><img alt="Flint and Steel.png" src="/images/thumb/7/7e/Flint_and_Steel.png/16px-Flint_and_Steel.png" decoding="async" width="16" height="16" srcset="/images/thumb/7/7e/Flint_and_Steel.png/24px-Flint_and_Steel.png 1.5x, /images/thumb/7/7e/Flint_and_Steel.png/32px-Flint_and_Steel.png 2x" /></a> <a href="/Flint_and_Steel" title="Flint and Steel">Flint and Steel</a></span> • <span style="white-space:nowrap"><a href="/Hoe" title="Hoe"><img alt="Steel Hoe.png" src="/images/thumb/f/f5/Steel_Hoe.png/16px-Steel_Hoe.png" decoding="async" width="16" height="16" srcset="/images/thumb/f/f5/Steel_Hoe.png/24px-Steel_Hoe.png 1.5x, /images/thumb/f/f5/Steel_Hoe.png/32px-Steel_Hoe.png 2x" /></a> <a href="/Hoe" title="Hoe">Hoe</a></span> • <span style="white-space:nowrap"><a href="/Key" title="Key"><img alt="Key.png" src="/images/thumb/5/52/Key.png/16px-Key.png" decoding="async" width="16" height="16" srcset="/images/thumb/5/52/Key.png/24px-Key.png 1.5x, /images/thumb/5/52/Key.png/32px-Key.png 2x" /></a> <a href="/Key" title="Key">Key</a></span> • <span style="white-space:nowrap"><a href="/Mapping_Kit" title="Mapping Kit"><img alt="Mapping Kit.png" src="/images/thumb/9/90/Mapping_Kit.png/16px-Mapping_Kit.png" decoding="async" width="16" height="16" srcset="/images/thumb/9/90/Mapping_Kit.png/24px-Mapping_Kit.png 1.5x, /images/thumb/9/90/Mapping_Kit.png/32px-Mapping_Kit.png 2x" /></a> <a href="/Mapping_Kit" title="Mapping Kit">Mapping Kit</a></span> • <span style="white-space:nowrap"><a href="/Pickaxe" title="Pickaxe"><img alt="Steel Pickaxe.png" src="/images/thumb/d/d1/Steel_Pickaxe.png/16px-Steel_Pickaxe.png" decoding="async" width="16" height="16" srcset="/images/thumb/d/d1/Steel_Pickaxe.png/24px-Steel_Pickaxe.png 1.5x, /images/thumb/d/d1/Steel_Pickaxe.png/32px-Steel_Pickaxe.png 2x" /></a> <a href="/Pickaxe" title="Pickaxe">Pickaxe</a></span> • <span style="white-space:nowrap"><a href="/Screwdriver" title="Screwdriver"><img alt="Screwdriver.png" src="/images/thumb/1/1d/Screwdriver.png/16px-Screwdriver.png" decoding="async" width="16" height="16" srcset="/images/thumb/1/1d/Screwdriver.png/24px-Screwdriver.png 1.5x, /images/thumb/1/1d/Screwdriver.png/32px-Screwdriver.png 2x" /></a> <a href="/Screwdriver" title="Screwdriver">Screwdriver</a></span> • <span style="white-space:nowrap"><a href="/Shovel" title="Shovel"><img alt="Steel Shovel.png" src="/images/thumb/6/63/Steel_Shovel.png/16px-Steel_Shovel.png" decoding="async" width="16" height="16" srcset="/images/thumb/6/63/Steel_Shovel.png/24px-Steel_Shovel.png 1.5x, /images/thumb/6/63/Steel_Shovel.png/32px-Steel_Shovel.png 2x" /></a> <a href="/Shovel" title="Shovel">Shovel</a></span> • <span style="white-space:nowrap"><a href="/Skeleton_Key" title="Skeleton Key"><img alt="Skeleton Key.png" src="/images/thumb/d/d9/Skeleton_Key.png/16px-Skeleton_Key.png" decoding="async" width="16" height="16" srcset="/images/thumb/d/d9/Skeleton_Key.png/24px-Skeleton_Key.png 1.5x, /images/thumb/d/d9/Skeleton_Key.png/32px-Skeleton_Key.png 2x" /></a> <a href="/Skeleton_Key" title="Skeleton Key">Skeleton Key</a></span> • <span style="white-space:nowrap"><a href="/Sword" title="Sword"><img alt="Steel Sword.png" src="/images/thumb/0/01/Steel_Sword.png/16px-Steel_Sword.png" decoding="async" width="16" height="16" srcset="/images/thumb/0/01/Steel_Sword.png/24px-Steel_Sword.png 1.5x, /images/thumb/0/01/Steel_Sword.png/32px-Steel_Sword.png 2x" /></a> <a href="/Sword" title="Sword">Sword</a></span> • <span style="white-space:nowrap"><a href="/Torch" title="Torch"><img alt="Torch.png" src="/images/thumb/b/b2/Torch.png/16px-Torch.png" decoding="async" width="16" height="16" srcset="/images/thumb/b/b2/Torch.png/24px-Torch.png 1.5x, /images/thumb/b/b2/Torch.png/32px-Torch.png 2x" /></a> <a href="/Torch" title="Torch">Torch</a></span>
+</td></tr>
+<tr>
+<th style="background: #EEE; padding: 0 10px; text-align: right"><span style="white-space:nowrap">Vehicles</span>
+</th>
+<td style="width: 100%"><span style="white-space:nowrap"><a href="/Boat" title="Boat"><img alt="Boat.png" src="/images/thumb/1/1e/Boat.png/16px-Boat.png" decoding="async" width="16" height="16" srcset="/images/thumb/1/1e/Boat.png/24px-Boat.png 1.5x, /images/thumb/1/1e/Boat.png/32px-Boat.png 2x" /></a> <a href="/Boat" title="Boat">Boat</a></span> • <span style="white-space:nowrap"><a href="/Cart" title="Cart"><img alt="Cart.png" src="/images/thumb/2/2b/Cart.png/16px-Cart.png" decoding="async" width="16" height="16" srcset="/images/thumb/2/2b/Cart.png/24px-Cart.png 1.5x, /images/thumb/2/2b/Cart.png/32px-Cart.png 2x" /></a> <a href="/Cart" title="Cart">Cart</a></span>
+</td></tr>
+<tr>
+<th style="background: #EEE; padding: 0 10px; text-align: right"><span style="white-space:nowrap">Food</span>
+</th>
+<td style="width: 100%"><span style="white-space:nowrap"><a href="/Apple" title="Apple"><img alt="Apple.png" src="/images/thumb/7/7d/Apple.png/16px-Apple.png" decoding="async" width="16" height="16" srcset="/images/thumb/7/7d/Apple.png/24px-Apple.png 1.5x, /images/thumb/7/7d/Apple.png/32px-Apple.png 2x" /></a> <a href="/Apple" title="Apple">Apple</a></span> • <span style="white-space:nowrap"><a href="/Blueberries" title="Blueberries"><img alt="Blueberries.png" src="/images/thumb/a/af/Blueberries.png/16px-Blueberries.png" decoding="async" width="16" height="16" srcset="/images/thumb/a/af/Blueberries.png/24px-Blueberries.png 1.5x, /images/thumb/a/af/Blueberries.png/32px-Blueberries.png 2x" /></a> <a href="/Blueberries" title="Blueberries">Blueberries</a></span> • <span style="white-space:nowrap"><a href="/Bread" title="Bread"><img alt="Bread.png" src="/images/thumb/e/e1/Bread.png/16px-Bread.png" decoding="async" width="16" height="16" srcset="/images/thumb/e/e1/Bread.png/24px-Bread.png 1.5x, /images/thumb/e/e1/Bread.png/32px-Bread.png 2x" /></a> <a href="/Bread" title="Bread">Bread</a></span> • <span style="white-space:nowrap"><a href="/Brown_Mushroom" title="Brown Mushroom"><img alt="Brown Mushroom.png" src="/images/thumb/7/73/Brown_Mushroom.png/16px-Brown_Mushroom.png" decoding="async" width="16" height="16" srcset="/images/thumb/7/73/Brown_Mushroom.png/24px-Brown_Mushroom.png 1.5x, /images/thumb/7/73/Brown_Mushroom.png/32px-Brown_Mushroom.png 2x" /></a> <a href="/Brown_Mushroom" title="Brown Mushroom">Brown Mushroom</a></span>
+</td></tr>
+<tr>
+<th style="background: #EEE; padding: 0 10px; text-align: right"><span style="white-space:nowrap"><a href="/Ores" title="Ores">Ores</a> and minerals</span>
+</th>
+<td style="width: 100%"><span style="white-space:nowrap"><a href="/Clay_Lump" title="Clay Lump"><img alt="Clay Lump.png" src="/images/thumb/7/73/Clay_Lump.png/16px-Clay_Lump.png" decoding="async" width="16" height="16" srcset="/images/thumb/7/73/Clay_Lump.png/24px-Clay_Lump.png 1.5x, /images/thumb/7/73/Clay_Lump.png/32px-Clay_Lump.png 2x" /></a> <a href="/Clay_Lump" title="Clay Lump">Clay Lump</a></span> • <span style="white-space:nowrap"><a href="/Coal_Lump" title="Coal Lump"><img alt="Coal.png" src="/images/thumb/a/a7/Coal.png/16px-Coal.png" decoding="async" width="16" height="16" srcset="/images/thumb/a/a7/Coal.png/24px-Coal.png 1.5x, /images/thumb/a/a7/Coal.png/32px-Coal.png 2x" /></a> <a href="/Coal_Lump" title="Coal Lump">Coal Lump</a></span> • <span style="white-space:nowrap"><a href="/Copper_Lump" title="Copper Lump"><img alt="Copper Lump.png" src="/images/thumb/d/d5/Copper_Lump.png/16px-Copper_Lump.png" decoding="async" width="16" height="16" srcset="/images/thumb/d/d5/Copper_Lump.png/24px-Copper_Lump.png 1.5x, /images/thumb/d/d5/Copper_Lump.png/32px-Copper_Lump.png 2x" /></a> <a href="/Copper_Lump" title="Copper Lump">Copper Lump</a></span> • <span style="white-space:nowrap"><a href="/Diamond" title="Diamond"><img alt="Diamond.png" src="/images/thumb/e/ea/Diamond.png/16px-Diamond.png" decoding="async" width="16" height="16" srcset="/images/thumb/e/ea/Diamond.png/24px-Diamond.png 1.5x, /images/thumb/e/ea/Diamond.png/32px-Diamond.png 2x" /></a> <a href="/Diamond" title="Diamond">Diamond</a></span> • <span style="white-space:nowrap"><a href="/Gold_Lump" title="Gold Lump"><img alt="Gold Lump.png" src="/images/thumb/7/7c/Gold_Lump.png/16px-Gold_Lump.png" decoding="async" width="16" height="16" srcset="/images/thumb/7/7c/Gold_Lump.png/24px-Gold_Lump.png 1.5x, /images/thumb/7/7c/Gold_Lump.png/32px-Gold_Lump.png 2x" /></a> <a href="/Gold_Lump" title="Gold Lump">Gold Lump</a></span> • <span style="white-space:nowrap"><a href="/Iron_Lump" title="Iron Lump"><img alt="Iron Lump.png" src="/images/thumb/c/cf/Iron_Lump.png/16px-Iron_Lump.png" decoding="async" width="16" height="16" srcset="/images/thumb/c/cf/Iron_Lump.png/24px-Iron_Lump.png 1.5x, /images/thumb/c/cf/Iron_Lump.png/32px-Iron_Lump.png 2x" /></a> <a href="/Iron_Lump" title="Iron Lump">Iron Lump</a></span> • <span style="white-space:nowrap"><a href="/Mese_Crystal" title="Mese Crystal"><img alt="Mese Crystal.png" src="/images/thumb/7/7b/Mese_Crystal.png/16px-Mese_Crystal.png" decoding="async" width="16" height="16" srcset="/images/thumb/7/7b/Mese_Crystal.png/24px-Mese_Crystal.png 1.5x, /images/thumb/7/7b/Mese_Crystal.png/32px-Mese_Crystal.png 2x" /></a> <a href="/Mese_Crystal" title="Mese Crystal">Mese Crystal</a></span> • <span style="white-space:nowrap"><a href="/Tin_Lump" title="Tin Lump"><img alt="Tin Lump.png" src="/images/thumb/4/42/Tin_Lump.png/16px-Tin_Lump.png" decoding="async" width="16" height="16" srcset="/images/thumb/4/42/Tin_Lump.png/24px-Tin_Lump.png 1.5x, /images/thumb/4/42/Tin_Lump.png/32px-Tin_Lump.png 2x" /></a> <a href="/Tin_Lump" title="Tin Lump">Tin Lump</a></span>
+</td></tr>
+<tr>
+<th style="background: #EEE; padding: 0 10px; text-align: right"><span style="white-space:nowrap">Ingots and processed minerals</span>
+</th>
+<td style="width: 100%"><span style="white-space:nowrap"><a href="/Bronze_Ingot" title="Bronze Ingot"><img alt="Bronze Ingot.png" src="/images/thumb/1/16/Bronze_Ingot.png/16px-Bronze_Ingot.png" decoding="async" width="16" height="16" srcset="/images/thumb/1/16/Bronze_Ingot.png/24px-Bronze_Ingot.png 1.5x, /images/thumb/1/16/Bronze_Ingot.png/32px-Bronze_Ingot.png 2x" /></a> <a href="/Bronze_Ingot" title="Bronze Ingot">Bronze Ingot</a></span> • <span style="white-space:nowrap"><a href="/Clay_Brick" title="Clay Brick"><img alt="Clay Brick.png" src="/images/thumb/7/70/Clay_Brick.png/16px-Clay_Brick.png" decoding="async" width="16" height="16" srcset="/images/thumb/7/70/Clay_Brick.png/24px-Clay_Brick.png 1.5x, /images/thumb/7/70/Clay_Brick.png/32px-Clay_Brick.png 2x" /></a> <a class="mw-selflink selflink">Clay Brick</a></span> • <span style="white-space:nowrap"><a href="/Copper_Ingot" title="Copper Ingot"><img alt="Copper Ingot.png" src="/images/thumb/0/00/Copper_Ingot.png/16px-Copper_Ingot.png" decoding="async" width="16" height="16" srcset="/images/thumb/0/00/Copper_Ingot.png/24px-Copper_Ingot.png 1.5x, /images/thumb/0/00/Copper_Ingot.png/32px-Copper_Ingot.png 2x" /></a> <a href="/Copper_Ingot" title="Copper Ingot">Copper Ingot</a></span> • <span style="white-space:nowrap"><a href="/Gold_Ingot" title="Gold Ingot"><img alt="Gold Ingot.png" src="/images/thumb/2/22/Gold_Ingot.png/16px-Gold_Ingot.png" decoding="async" width="16" height="16" srcset="/images/thumb/2/22/Gold_Ingot.png/24px-Gold_Ingot.png 1.5x, /images/thumb/2/22/Gold_Ingot.png/32px-Gold_Ingot.png 2x" /></a> <a href="/Gold_Ingot" title="Gold Ingot">Gold Ingot</a></span> • <span style="white-space:nowrap"><a href="/Mese_Crystal_Fragment" title="Mese Crystal Fragment"><img alt="Mese Crystal Fragment.png" src="/images/thumb/1/1a/Mese_Crystal_Fragment.png/16px-Mese_Crystal_Fragment.png" decoding="async" width="16" height="16" srcset="/images/thumb/1/1a/Mese_Crystal_Fragment.png/24px-Mese_Crystal_Fragment.png 1.5x, /images/thumb/1/1a/Mese_Crystal_Fragment.png/32px-Mese_Crystal_Fragment.png 2x" /></a> <a href="/Mese_Crystal_Fragment" title="Mese Crystal Fragment">Mese Crystal Fragment</a></span> • <span style="white-space:nowrap"><a href="/Obsidian_Shard" title="Obsidian Shard"><img alt="Obsidian Shard.png" src="/images/thumb/f/f1/Obsidian_Shard.png/16px-Obsidian_Shard.png" decoding="async" width="16" height="16" srcset="/images/thumb/f/f1/Obsidian_Shard.png/24px-Obsidian_Shard.png 1.5x, /images/thumb/f/f1/Obsidian_Shard.png/32px-Obsidian_Shard.png 2x" /></a> <a href="/Obsidian_Shard" title="Obsidian Shard">Obsidian Shard</a></span> • <span style="white-space:nowrap"><a href="/Steel_Ingot" title="Steel Ingot"><img alt="Steel Ingot.png" src="/images/thumb/b/bd/Steel_Ingot.png/16px-Steel_Ingot.png" decoding="async" width="16" height="16" srcset="/images/thumb/b/bd/Steel_Ingot.png/24px-Steel_Ingot.png 1.5x, /images/thumb/b/bd/Steel_Ingot.png/32px-Steel_Ingot.png 2x" /></a> <a href="/Steel_Ingot" title="Steel Ingot">Steel Ingot</a></span> • <span style="white-space:nowrap"><a href="/Tin_Ingot" title="Tin Ingot"><img alt="Tin Ingot.png" src="/images/thumb/9/97/Tin_Ingot.png/16px-Tin_Ingot.png" decoding="async" width="16" height="16" srcset="/images/thumb/9/97/Tin_Ingot.png/24px-Tin_Ingot.png 1.5x, /images/thumb/9/97/Tin_Ingot.png/32px-Tin_Ingot.png 2x" /></a> <a href="/Tin_Ingot" title="Tin Ingot">Tin Ingot</a></span>
+</td></tr>
+<tr>
+<th style="background: #EEE; padding: 0 10px; text-align: right"><span style="white-space:nowrap">Dyes</span>
+</th>
+<td style="width: 100%"><span style="white-space:nowrap"><a href="/Dye" title="Dye"><img alt="Black dye.png" src="/images/thumb/4/49/Black_dye.png/16px-Black_dye.png" decoding="async" width="16" height="16" srcset="/images/thumb/4/49/Black_dye.png/24px-Black_dye.png 1.5x, /images/thumb/4/49/Black_dye.png/32px-Black_dye.png 2x" /></a> <a href="/Dye" title="Dye">Black dye</a></span> • <span style="white-space:nowrap"><a href="/Dye" title="Dye"><img alt="Blue dye.png" src="/images/thumb/6/66/Blue_dye.png/16px-Blue_dye.png" decoding="async" width="16" height="16" srcset="/images/thumb/6/66/Blue_dye.png/24px-Blue_dye.png 1.5x, /images/thumb/6/66/Blue_dye.png/32px-Blue_dye.png 2x" /></a> <a href="/Dye" title="Dye">Blue dye</a></span> • <span style="white-space:nowrap"><a href="/Dye" title="Dye"><img alt="Brown dye.png" src="/images/thumb/f/f2/Brown_dye.png/16px-Brown_dye.png" decoding="async" width="16" height="16" srcset="/images/thumb/f/f2/Brown_dye.png/24px-Brown_dye.png 1.5x, /images/thumb/f/f2/Brown_dye.png/32px-Brown_dye.png 2x" /></a> <a href="/Dye" title="Dye">Brown dye</a></span> • <span style="white-space:nowrap"><a href="/Dye" title="Dye"><img alt="Cyan dye.png" src="/images/thumb/c/cc/Cyan_dye.png/16px-Cyan_dye.png" decoding="async" width="16" height="16" srcset="/images/thumb/c/cc/Cyan_dye.png/24px-Cyan_dye.png 1.5x, /images/thumb/c/cc/Cyan_dye.png/32px-Cyan_dye.png 2x" /></a> <a href="/Dye" title="Dye">Cyan dye</a></span> • <span style="white-space:nowrap"><a href="/Dye" title="Dye"><img alt="Dark green dye.png" src="/images/thumb/6/68/Dark_green_dye.png/16px-Dark_green_dye.png" decoding="async" width="16" height="16" srcset="/images/thumb/6/68/Dark_green_dye.png/24px-Dark_green_dye.png 1.5x, /images/thumb/6/68/Dark_green_dye.png/32px-Dark_green_dye.png 2x" /></a> <a href="/Dye" title="Dye">Dark green dye</a></span> • <span style="white-space:nowrap"><a href="/Dye" title="Dye"><img alt="Dark grey dye.png" src="/images/thumb/1/19/Dark_grey_dye.png/16px-Dark_grey_dye.png" decoding="async" width="16" height="16" srcset="/images/thumb/1/19/Dark_grey_dye.png/24px-Dark_grey_dye.png 1.5x, /images/thumb/1/19/Dark_grey_dye.png/32px-Dark_grey_dye.png 2x" /></a> <a href="/Dye" title="Dye">Dark grey dye</a></span> • <span style="white-space:nowrap"><a href="/Dye" title="Dye"><img alt="Green dye.png" src="/images/thumb/4/48/Green_dye.png/16px-Green_dye.png" decoding="async" width="16" height="16" srcset="/images/thumb/4/48/Green_dye.png/24px-Green_dye.png 1.5x, /images/thumb/4/48/Green_dye.png/32px-Green_dye.png 2x" /></a> <a href="/Dye" title="Dye">Green dye</a></span> • <span style="white-space:nowrap"><a href="/Dye" title="Dye"><img alt="Grey dye.png" src="/images/thumb/7/74/Grey_dye.png/16px-Grey_dye.png" decoding="async" width="16" height="16" srcset="/images/thumb/7/74/Grey_dye.png/24px-Grey_dye.png 1.5x, /images/thumb/7/74/Grey_dye.png/32px-Grey_dye.png 2x" /></a> <a href="/Dye" title="Dye">Grey dye</a></span> • <span style="white-space:nowrap"><a href="/Dye" title="Dye"><img alt="Magenta dye.png" src="/images/thumb/f/f1/Magenta_dye.png/16px-Magenta_dye.png" decoding="async" width="16" height="16" srcset="/images/thumb/f/f1/Magenta_dye.png/24px-Magenta_dye.png 1.5x, /images/thumb/f/f1/Magenta_dye.png/32px-Magenta_dye.png 2x" /></a> <a href="/Dye" title="Dye">Magenta dye</a></span> • <span style="white-space:nowrap"><a href="/Dye" title="Dye"><img alt="Orange dye.png" src="/images/thumb/e/e7/Orange_dye.png/16px-Orange_dye.png" decoding="async" width="16" height="16" srcset="/images/thumb/e/e7/Orange_dye.png/24px-Orange_dye.png 1.5x, /images/thumb/e/e7/Orange_dye.png/32px-Orange_dye.png 2x" /></a> <a href="/Dye" title="Dye">Orange dye</a></span> • <span style="white-space:nowrap"><a href="/Dye" title="Dye"><img alt="Pink dye.png" src="/images/thumb/8/85/Pink_dye.png/16px-Pink_dye.png" decoding="async" width="16" height="16" srcset="/images/thumb/8/85/Pink_dye.png/24px-Pink_dye.png 1.5x, /images/thumb/8/85/Pink_dye.png/32px-Pink_dye.png 2x" /></a> <a href="/Dye" title="Dye">Pink dye</a></span> • <span style="white-space:nowrap"><a href="/Dye" title="Dye"><img alt="Red dye.png" src="/images/thumb/3/3c/Red_dye.png/16px-Red_dye.png" decoding="async" width="16" height="16" srcset="/images/thumb/3/3c/Red_dye.png/24px-Red_dye.png 1.5x, /images/thumb/3/3c/Red_dye.png/32px-Red_dye.png 2x" /></a> <a href="/Dye" title="Dye">Red dye</a></span> • <span style="white-space:nowrap"><a href="/Dye" title="Dye"><img alt="Violet dye.png" src="/images/thumb/b/b4/Violet_dye.png/16px-Violet_dye.png" decoding="async" width="16" height="16" srcset="/images/thumb/b/b4/Violet_dye.png/24px-Violet_dye.png 1.5x, /images/thumb/b/b4/Violet_dye.png/32px-Violet_dye.png 2x" /></a> <a href="/Dye" title="Dye">Violet dye</a></span> • <span style="white-space:nowrap"><a href="/Dye" title="Dye"><img alt="White dye.png" src="/images/thumb/8/87/White_dye.png/16px-White_dye.png" decoding="async" width="16" height="16" srcset="/images/thumb/8/87/White_dye.png/24px-White_dye.png 1.5x, /images/thumb/8/87/White_dye.png/32px-White_dye.png 2x" /></a> <a href="/Dye" title="Dye">White dye</a></span> • <span style="white-space:nowrap"><a href="/Dye" title="Dye"><img alt="Yellow dye.png" src="/images/thumb/c/c0/Yellow_dye.png/16px-Yellow_dye.png" decoding="async" width="16" height="16" srcset="/images/thumb/c/c0/Yellow_dye.png/24px-Yellow_dye.png 1.5x, /images/thumb/c/c0/Yellow_dye.png/32px-Yellow_dye.png 2x" /></a> <a href="/Dye" title="Dye">Yellow dye</a></span>
+</td></tr>
+<tr>
+<th style="background: #EEE; padding: 0 10px; text-align: right"><span style="white-space:nowrap">Other crafting elements</span>
+</th>
+<td style="width: 100%"><span style="white-space:nowrap"><a href="/Cotton" title="Cotton"><img alt="Cotton.png" src="/images/thumb/c/c3/Cotton.png/16px-Cotton.png" decoding="async" width="16" height="16" srcset="/images/thumb/c/c3/Cotton.png/24px-Cotton.png 1.5x, /images/thumb/c/c3/Cotton.png/32px-Cotton.png 2x" /></a> <a href="/Cotton" title="Cotton">Cotton</a></span> • <span style="white-space:nowrap"><a href="/Flint" title="Flint"><img alt="Flint.png" src="/images/thumb/2/2e/Flint.png/16px-Flint.png" decoding="async" width="16" height="16" srcset="/images/thumb/2/2e/Flint.png/24px-Flint.png 1.5x, /images/thumb/2/2e/Flint.png/32px-Flint.png 2x" /></a> <a href="/Flint" title="Flint">Flint</a></span> • <span style="white-space:nowrap"><a href="/Flour" title="Flour"><img alt="Flour.png" src="/images/thumb/e/e8/Flour.png/16px-Flour.png" decoding="async" width="16" height="16" srcset="/images/thumb/e/e8/Flour.png/24px-Flour.png 1.5x, /images/thumb/e/e8/Flour.png/32px-Flour.png 2x" /></a> <a href="/Flour" title="Flour">Flour</a></span> • <span style="white-space:nowrap"><a href="/Glass_Fragments" title="Glass Fragments"><img alt="Glass Fragments.png" src="/images/thumb/8/87/Glass_Fragments.png/16px-Glass_Fragments.png" decoding="async" width="16" height="16" srcset="/images/thumb/8/87/Glass_Fragments.png/24px-Glass_Fragments.png 1.5x, /images/thumb/8/87/Glass_Fragments.png/32px-Glass_Fragments.png 2x" /></a> <a href="/Glass_Fragments" title="Glass Fragments">Glass Fragments</a></span> • <span style="white-space:nowrap"><a href="/Gun_Powder" title="Gun Powder"><img alt="Gun Powder.png" src="/images/thumb/d/dd/Gun_Powder.png/16px-Gun_Powder.png" decoding="async" width="16" height="16" srcset="/images/thumb/d/dd/Gun_Powder.png/24px-Gun_Powder.png 1.5x, /images/thumb/d/dd/Gun_Powder.png/32px-Gun_Powder.png 2x" /></a> <a href="/Gun_Powder" title="Gun Powder">Gun Powder</a></span> • <span style="white-space:nowrap"><a href="/Paper" title="Paper"><img alt="Paper.png" src="/images/thumb/b/b2/Paper.png/16px-Paper.png" decoding="async" width="16" height="16" srcset="/images/thumb/b/b2/Paper.png/24px-Paper.png 1.5x, /images/thumb/b/b2/Paper.png/32px-Paper.png 2x" /></a> <a href="/Paper" title="Paper">Paper</a></span> • <span style="white-space:nowrap"><a href="/Stick" title="Stick"><img alt="Stick.png" src="/images/thumb/a/aa/Stick.png/16px-Stick.png" decoding="async" width="16" height="16" srcset="/images/thumb/a/aa/Stick.png/24px-Stick.png 1.5x, /images/thumb/a/aa/Stick.png/32px-Stick.png 2x" /></a> <a href="/Stick" title="Stick">Stick</a></span> • <span style="white-space:nowrap"><a href="/String" title="String"><img alt="String.png" src="/images/thumb/a/a0/String.png/16px-String.png" decoding="async" width="16" height="16" srcset="/images/thumb/a/a0/String.png/24px-String.png 1.5x, /images/thumb/a/a0/String.png/32px-String.png 2x" /></a> <a href="/String" title="String">String</a></span> • <span style="white-space:nowrap"><a href="/TNT_Stick" title="TNT Stick"><img alt="TNT Stick.png" src="/images/thumb/9/9d/TNT_Stick.png/16px-TNT_Stick.png" decoding="async" width="16" height="16" srcset="/images/thumb/9/9d/TNT_Stick.png/24px-TNT_Stick.png 1.5x, /images/thumb/9/9d/TNT_Stick.png/32px-TNT_Stick.png 2x" /></a> <a href="/TNT_Stick" title="TNT Stick">TNT Stick</a></span> • <span style="white-space:nowrap"><a href="/Wheat" title="Wheat"><img alt="Wheat.png" src="/images/thumb/e/e2/Wheat.png/16px-Wheat.png" decoding="async" width="16" height="16" srcset="/images/thumb/e/e2/Wheat.png/24px-Wheat.png 1.5x, /images/thumb/e/e2/Wheat.png/32px-Wheat.png 2x" /></a> <a href="/Wheat" title="Wheat">Wheat</a></span>
+</td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Cached time: 20230709131718
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.950 seconds
+Real time usage: 1.469 seconds
+Preprocessor visited node count: 1991/1000000
+Post‐expand include size: 37383/2097152 bytes
+Template argument size: 6746/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 15/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.270/7 seconds
+Lua virtual size: 6.32 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  727.322      1 -total
+ 40.92%  297.650      1 Template:Languages
+ 24.30%  176.748      2 Template:Grid/Craft
+ 20.92%  152.163     20 Template:Grid
+ 19.70%  143.313      1 Games/Minetest_Game/Items/navbox
+ 14.84%  107.925      1 Template:Item_Data
+ 13.67%   99.395     63 Template:Iconlink
+ 10.96%   79.700     70 Template:Nowrap
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:139-0!canonical and timestamp 20230709131716 and revision id 24416
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Clay_Brick&amp;oldid=24416">http://wiki.minetest.net/index.php?title=Clay_Brick&amp;oldid=24416</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li><li><a href="/Category:Craftitems" title="Category:Craftitems">Craftitems</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Clay+Brick" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Clay_Brick" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Clay_Brick&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Clay_Brick">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Clay_Brick&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Clay_Brick&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Clay_Brick" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Clay_Brick" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Clay_Brick&amp;oldid=24416" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Clay_Brick&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 21 September 2020, at 18:52.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.950","walltime":"1.469","ppvisitednodes":{"value":1991,"limit":1000000},"postexpandincludesize":{"value":37383,"limit":2097152},"templateargumentsize":{"value":6746,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":15,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  727.322      1 -total"," 40.92%  297.650      1 Template:Languages"," 24.30%  176.748      2 Template:Grid/Craft"," 20.92%  152.163     20 Template:Grid"," 19.70%  143.313      1 Games/Minetest_Game/Items/navbox"," 14.84%  107.925      1 Template:Item_Data"," 13.67%   99.395     63 Template:Iconlink"," 10.96%   79.700     70 Template:Nowrap"]},"scribunto":{"limitreport-timeusage":{"value":"0.270","limit":"7"},"limitreport-virtmemusage":{"value":6623232,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709131718","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":498});});</script></body></html>

@@ -1,0 +1,712 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Biomes/ms - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"8e30d6d2740aa24473402c7c","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Biomes/ms","wgTitle":"Biomes/ms","wgCurRevisionId":25465,"wgRevisionId":25465,"wgArticleId":3668,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Malay"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Biomes/ms","wgRelevantArticleId":3668,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":
+"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=ext.cite.styles%7Cmediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Biomes_ms rootpage-Biomes skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Biomes/ms</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/Biomes" title="Biomes">Biomes</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> Bahasa:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><a href="/Biomes" title="Biomes">English</a>&#160;• <bdi lang="de"><a href="/Biomes/de" title="Biomes/de">Deutsch</a></bdi>&#160;• <bdi lang="fr"><a href="/Biomes/fr" title="Biomes/fr">français</a></bdi>&#160;• <bdi lang="id"><a href="/Biomes/id" title="Biomes/id">Bahasa Indonesia</a></bdi>&#160;• <bdi lang="ja"><a href="/Biomes/ja" title="Biomes/ja">日本語</a></bdi><b>&#160;• <bdi lang="ms"><a class="mw-selflink selflink">Bahasa Melayu</a></bdi></b></td>
+</tr></tbody></table>
+<p><b>Biom</b> (<a href="/Help:Original_names/ms" title="Help:Original names/ms">BI</a>:&#160;<i>biomes</i>) dalam Minetest adalah sebahagian daripada <a href="/Map_generator/ms" title="Map generator/ms">penjanaan peta</a>. Biom ialah kawasan dengan daratan, bawah tanah dan tumbuh-tumbuhan yang serupa.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Jenis-jenis_biom"><span class="tocnumber">1</span> <span class="toctext">Jenis-jenis biom</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#v5.2C_v7.2C_valleys.2C_carpathian.2C_flat.2C_fractal"><span class="tocnumber">1.1</span> <span class="toctext">v5, v7, valleys, carpathian, flat, fractal</span></a>
+<ul>
+<li class="toclevel-3 tocsection-3"><a href="#Biom_daratan"><span class="tocnumber">1.1.1</span> <span class="toctext">Biom daratan</span></a></li>
+<li class="toclevel-3 tocsection-4"><a href="#Biom_pantai.2C_pesisir_dan_gumuk"><span class="tocnumber">1.1.2</span> <span class="toctext">Biom pantai, pesisir dan gumuk</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#Biom_lautan"><span class="tocnumber">1.1.3</span> <span class="toctext">Biom lautan</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-6"><a href="#v6"><span class="tocnumber">1.2</span> <span class="toctext">v6</span></a>
+<ul>
+<li class="toclevel-3 tocsection-7"><a href="#Biom"><span class="tocnumber">1.2.1</span> <span class="toctext">Biom</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="#Sifat_landskap"><span class="tocnumber">1.2.2</span> <span class="toctext">Sifat landskap</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Sejarah"><span class="tocnumber">2</span> <span class="toctext">Sejarah</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Pembangunan_Minetest"><span class="tocnumber">2.1</span> <span class="toctext">Pembangunan Minetest</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Biom-biom_Minetest_Game"><span class="tocnumber">2.2</span> <span class="toctext">Biom-biom Minetest Game</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Lihat_juga"><span class="tocnumber">2.3</span> <span class="toctext">Lihat juga</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Jenis-jenis_biom">Jenis-jenis biom</span></h2>
+<p>Biom bergantung kepada penjana peta yang digunakan. Kebanyakan penjana peta mempunyai biom yang sama kecuali dalam janapeta v6.
+</p><p><b>Nota</b>: Blok ditulis tebal dalam lajur “Blok” ialah blok permukaan daratan biom tersebut.
+</p>
+<h3><span id="v5,_v7,_valleys,_carpathian,_flat,_fractal"></span><span class="mw-headline" id="v5.2C_v7.2C_valleys.2C_carpathian.2C_flat.2C_fractal">v5, v7, valleys, carpathian, flat, fractal</span></h3>
+<p>Biom dalam penjana peta ini ditakrifkan oleh mods. Jika ia tidak ditakrifkan, kesemua penjana peta ini hanya menjana dunia <a href="/Stone/ms" title="Stone/ms">batu</a>. Biom dalam penjana peta ini tidak berkait dengan bentuk rupa bumi; ini bermakna mana-mana biom (termasuk kawasan rumput) boleh terbentuk dekat kawasan rata atau kawasan bergunung.
+Bahagian ini menunjukkan biom yang digunakan dalam <a href="/Games/Minetest_Game/ms" title="Games/Minetest Game/ms">Minetest Game</a>.
+</p>
+<h4><span class="mw-headline" id="Biom_daratan">Biom daratan</span></h4>
+<table class="wikitable">
+<tbody><tr>
+<th>Nama
+</th>
+<th width="15%">Blok-blok
+</th>
+<th>Keterangan
+</th>
+<th width="355px">Gambar
+</th></tr>
+<tr>
+<td><b>Kawasan rumput</b><br />(<a href="/Help:Original_names/ms" title="Help:Original names/ms">BI</a>:&#160;<i>Grassland</i>)
+</td>
+<td><b><a href="/Dirt_with_Grass/ms" title="Dirt with Grass/ms">Tanah Berumput</a></b>, <a href="/Dirt/ms" title="Dirt/ms">Tanah</a>, <a href="/Stone/ms" title="Stone/ms">Batu</a><br /><br /><a href="/Grass/ms" title="Grass/ms">Rumput</a>, <a href="/Flower/ms" title="Flower/ms">Bunga</a>, <a href="/Bush_Leaves/ms" title="Bush Leaves/ms">Daun Belukar</a>, <a href="/Bush_Stem/ms" title="Bush Stem/ms">Batang Belukar</a>
+</td>
+<td>Kawasan rumput mempunyai jumlah nod <a href="/Dirt/ms" title="Dirt/ms">tanah</a> dan blok <a href="/Dirt_with_Grass/ms" title="Dirt with Grass/ms">tanah berumput</a> yang sangat banyak, yang mana <a href="/Flower/ms" title="Flower/ms">bunga-bungaan</a>, <a href="/Grass/ms" title="Grass/ms">rumput</a> dan belukar boleh wujud secara semulajadi di kawasan ini. Bawah tanahnya diperbuat daripada <a href="/Stone/ms" title="Stone/ms">batu</a>.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Minetest_Game_plains_v7.jpg" class="image"><img alt="" src="/images/thumb/8/8c/Minetest_Game_plains_v7.jpg/350px-Minetest_Game_plains_v7.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/8/8c/Minetest_Game_plains_v7.jpg/525px-Minetest_Game_plains_v7.jpg 1.5x, /images/thumb/8/8c/Minetest_Game_plains_v7.jpg/700px-Minetest_Game_plains_v7.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Minetest_Game_plains_v7.jpg" class="internal" title="Enlarge"></a></div>Biom kawasan rumput, setakat versi 0.4.15</div></div></div>
+</td></tr>
+<tr>
+<td><b>Hutan konifer</b><br />(<a href="/Help:Original_names/ms" title="Help:Original names/ms">BI</a>:&#160;<i>Coniferous forest</i>)
+</td>
+<td><b><a href="/Dirt_with_Grass/ms" title="Dirt with Grass/ms">Tanah Berumput</a></b>, <a href="/Dirt/ms" title="Dirt/ms">Tanah</a>, <a href="/Stone/ms" title="Stone/ms">Batu</a><br /><br /><a href="/Pine_Tree/ms" title="Pine Tree/ms">Kayu Pokok Pain</a>, <a href="/Leaves/ms" title="Leaves/ms">Daun Pain</a>, <a href="/Grass/ms" title="Grass/ms">Rumput</a>, <a href="/Flower/ms" title="Flower/ms">Bunga</a>, <a href="/Red_Mushroom/ms" title="Red Mushroom/ms">Cendawan Merah</a>, <a href="/Brown_Mushroom/ms" title="Brown Mushroom/ms">Cendawan Perang</a>
+</td>
+<td>Hutan konifer membesar di kawasan yang lebih sejuk dan diisi dengan pokok pain. Kayu balak pokok pain tumbang dan cendawan-cendawan boleh dijumpai di sini juga. Biom yang serupa ialah <b>taiga</b> (lihat bawah).
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Pine_forest.jpg" class="image"><img alt="" src="/images/thumb/d/da/Pine_forest.jpg/350px-Pine_forest.jpg" decoding="async" width="350" height="213" class="thumbimage" srcset="/images/thumb/d/da/Pine_forest.jpg/525px-Pine_forest.jpg 1.5x, /images/thumb/d/da/Pine_forest.jpg/700px-Pine_forest.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Pine_forest.jpg" class="internal" title="Enlarge"></a></div>Hutan pokok pain dalam versi 0.4.13.</div></div></div>
+</td></tr>
+<tr>
+<td><b>Hutan daun luruh</b><br />(<a href="/Help:Original_names/ms" title="Help:Original names/ms">BI</a>:&#160;<i>Deciduous forest</i>)
+</td>
+<td><a href="/Dirt_with_Grass/ms" title="Dirt with Grass/ms">Tanah Berumput</a>, <a href="/Dirt/ms" title="Dirt/ms">Tanah</a>, <a href="/Stone/ms" title="Stone/ms">Batu</a><br /><br /><a href="/Tree/ms" title="Tree/ms">Kayu Pokok Biasa</a>, <a href="/Leaves/ms" title="Leaves/ms">Daun Biasa</a>, <a href="/Aspen_Tree/ms" title="Aspen Tree/ms">Kayu Pokok Aspen</a>, <a href="/Leaves/ms" title="Leaves/ms">Daun Aspen</a>, <a href="/Apple/ms" title="Apple/ms">Epal</a>, <a href="/Red_Mushroom/ms" title="Red Mushroom/ms">Cendawan Merah</a>, <a href="/Brown_Mushroom/ms" title="Brown Mushroom/ms">Cendawan Perang</a>, <a href="/Bush_Leaves/ms" title="Bush Leaves/ms">Daun Belukar</a>, <a href="/Bush_Stem/ms" title="Bush Stem/ms">Batang Belukar</a>
+</td>
+<td>Hutan daun luruh terbentuk di kawasan lebih panas dan menjadi rumah kepada pokok biasa, pokok epal dan pokok aspen. Seperti hutan-hutan yang lain, kayu-kayu balak tumbang juga boleh dijumpai di sini. Hutan daun luruh selalunya mengelilingi kawasan lapang.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Deciduous_forest_v7.jpg" class="image"><img alt="" src="/images/thumb/8/84/Deciduous_forest_v7.jpg/350px-Deciduous_forest_v7.jpg" decoding="async" width="350" height="213" class="thumbimage" srcset="/images/thumb/8/84/Deciduous_forest_v7.jpg/525px-Deciduous_forest_v7.jpg 1.5x, /images/thumb/8/84/Deciduous_forest_v7.jpg/700px-Deciduous_forest_v7.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Deciduous_forest_v7.jpg" class="internal" title="Enlarge"></a></div>Hutan dengan pokok biasa dan pokok aspen dalam versi 0.4.15</div></div></div>
+</td></tr>
+<tr>
+<td><b>Hutan hujan</b><br />(<a href="/Help:Original_names/ms" title="Help:Original names/ms">BI</a>:&#160;<i>Rainforest</i>)
+</td>
+<td><b><a href="/Dirt_with_Rainforest_Litter/ms" title="Dirt with Rainforest Litter/ms">Tanah Bersarap Hutan Hujan</a></b>, <a href="/Dirt/ms" title="Dirt/ms">Tanah</a>, <a href="/Stone/ms" title="Stone/ms">Batu</a><br /><br /><a href="/Jungle_Grass/ms" title="Jungle Grass/ms">Rumput Hutan</a>, <a href="/Jungle_Tree/ms" title="Jungle Tree/ms">Kayu Pokok Hutan</a>, <a href="/index.php?title=Jungle_Leaves/ms&amp;action=edit&amp;redlink=1" class="new" title="Jungle Leaves/ms (page does not exist)">Daun Hutan</a>, <a href="/Brown_Mushroom/ms" title="Brown Mushroom/ms">Cendawan Perang</a>, <a href="/Waterlily/ms" title="Waterlily/ms">Teratai</a>
+</td>
+<td>Hutan hujan (atau rimba) diperbuat daripada pokok hutan besar yang tumbuh secara rapat bersama. <a href="/Jungle_Grass/ms" title="Jungle Grass/ms">Rumput hutan</a> dan <a href="/Jungle_Tree/ms" title="Jungle Tree/ms">kayu pokok hutan</a> yang memegang <a href="/Leaves/ms" title="Leaves/ms">daun hutan</a> wujud secara semulajadi di sini. Dekat kayu balak pokok hutan tumbang, jarang-jarang ada cendawan perang.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Minetest_Game_jungle_v7.jpg" class="image"><img alt="" src="/images/thumb/4/4a/Minetest_Game_jungle_v7.jpg/350px-Minetest_Game_jungle_v7.jpg" decoding="async" width="350" height="212" class="thumbimage" srcset="/images/thumb/4/4a/Minetest_Game_jungle_v7.jpg/525px-Minetest_Game_jungle_v7.jpg 1.5x, /images/thumb/4/4a/Minetest_Game_jungle_v7.jpg/700px-Minetest_Game_jungle_v7.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Minetest_Game_jungle_v7.jpg" class="internal" title="Enlarge"></a></div>Biom hutan hujan dalam janapeta v7 setakat versi 0.4.16</div></div></div>
+</td></tr>
+<tr>
+<td><b>Savana</b><br />(<a href="/Help:Original_names/ms" title="Help:Original names/ms">BI</a>:&#160;<i>Savanna</i>)
+</td>
+<td><b><a href="/Dirt_with_Dry_Grass/ms" class="mw-redirect" title="Dirt with Dry Grass/ms">Tanah Berumput Kering</a></b>, <a href="/Dirt/ms" title="Dirt/ms">Tanah</a>, <a href="/Stone/ms" title="Stone/ms">Batu</a><br /><br /><a href="/Dry_Grass/ms" title="Dry Grass/ms">Rumput Kering</a>, <a href="/Acacia_Tree/ms" title="Acacia Tree/ms">Kayu Pokok Akasia</a>, <a href="/Leaves/ms" title="Leaves/ms">Daun Akasia</a>, <a href="/Bush_Leaves/ms" title="Bush Leaves/ms">Daun Belukar Akasia</a>, <a href="/Acacia_Bush_Stem/ms" title="Acacia Bush Stem/ms">Batang Belukar Akasia</a>
+</td>
+<td>Savana ialah daratan kering yang bukan gurun. Ia dipenuhi rumput kering yang banyak dan kadang-kadang boleh jumpa pokok akasia dan belukar akasia. Terdapat juga beberapa kayu balak pokok akasia tumbang.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Savannah.jpg" class="image"><img alt="" src="/images/thumb/2/2c/Savannah.jpg/350px-Savannah.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/2/2c/Savannah.jpg/525px-Savannah.jpg 1.5x, /images/thumb/2/2c/Savannah.jpg/700px-Savannah.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Savannah.jpg" class="internal" title="Enlarge"></a></div>Savana dalam versi 0.4.15</div></div></div>
+</td></tr>
+<tr>
+<td><b>Gurun</b><br />(<a href="/Help:Original_names/ms" title="Help:Original names/ms">BI</a>:&#160;<i>Desert</i>)
+</td>
+<td><b><a href="/Desert_Sand/ms" title="Desert Sand/ms">Pasir Gurun</a></b>, <a href="/Desert_Stone/ms" title="Desert Stone/ms">Batu Gurun</a>, <a href="/Cactus/ms" title="Cactus/ms">Kaktus</a><br /><br /><a href="/Dry_Shrub/ms" title="Dry Shrub/ms">Pokok Renek Kering</a>
+</td>
+<td>Gurun mengandungi <a href="/Desert_Sand/ms" title="Desert Sand/ms">pasir gurun</a> dan <a href="/Desert_Stone/ms" title="Desert Stone/ms">batu gurun</a> yang sangat banyak. <a href="/Cactus/ms" title="Cactus/ms">Kaktus</a> dan <a href="/Dry_Shrub/ms" title="Dry Shrub/ms">pokok renek kering</a> juga wujud secara semulajadi atas daratan gurun. Kaktus boleh terbentuk dalam dua bentuk berbeza. Gurun terbentuk di kawasan panas dan kering.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Minetest_Game_desert.jpg" class="image"><img alt="" src="/images/thumb/d/d6/Minetest_Game_desert.jpg/350px-Minetest_Game_desert.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/d/d6/Minetest_Game_desert.jpg/525px-Minetest_Game_desert.jpg 1.5x, /images/thumb/d/d6/Minetest_Game_desert.jpg/700px-Minetest_Game_desert.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Minetest_Game_desert.jpg" class="internal" title="Enlarge"></a></div>Biom gurun dalam janapeta v7, setakat versi 0.4.15</div></div></div>
+</td></tr>
+<tr>
+<td><b>Gurun batu pasir</b><br />(<a href="/Help:Original_names/ms" title="Help:Original names/ms">BI</a>:&#160;<i>Sandstone desert</i>)
+</td>
+<td><b><a href="/Sand/ms" title="Sand/ms">Pasir</a></b>, <a href="/Sandstone/ms" title="Sandstone/ms">Batu Pasir</a><br /><br /><a href="/Dry_Shrub/ms" title="Dry Shrub/ms">Pokok Renek Kering</a>
+</td>
+<td>Gurun batu pasir ialah kawasan tandus luas yang dilitupi <a href="/Sand/ms" title="Sand/ms">pasir</a> dengan <a href="/Sandstone/ms" title="Sandstone/ms">batu pasir</a> di bawahnya. Mereka terbentuk dalam klimat suhu tinggi dan kering.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Minetest_Game_sandstone_desert.jpg" class="image"><img alt="" src="/images/thumb/5/53/Minetest_Game_sandstone_desert.jpg/350px-Minetest_Game_sandstone_desert.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/5/53/Minetest_Game_sandstone_desert.jpg/525px-Minetest_Game_sandstone_desert.jpg 1.5x, /images/thumb/5/53/Minetest_Game_sandstone_desert.jpg/700px-Minetest_Game_sandstone_desert.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Minetest_Game_sandstone_desert.jpg" class="internal" title="Enlarge"></a></div>Gurun batu pasir, setakat versi 0.4.15</div></div></div>
+</td></tr>
+<tr>
+<td><b>Gurun sejuk</b><br />(<a href="/Help:Original_names/ms" title="Help:Original names/ms">BI</a>:&#160;<i>Cold desert</i>)
+</td>
+<td><b><a href="/Silver_Sand/ms" title="Silver Sand/ms">Pasir Perak</a></b>, <a href="/Stone/ms" title="Stone/ms">Batu</a><br /><br /><a href="/Dry_Shrub/ms" title="Dry Shrub/ms">Pokok Renek Kering</a>
+</td>
+<td>Gurun sejuk ialah kawasan tandus luas yang dilitupi dengan <a href="/Silver_Sand/ms" title="Silver Sand/ms">pasir perak</a> di atas <a href="/Stone/ms" title="Stone/ms">batu</a>. Mereka terbentuk di kawasan sejuk dan kering.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Minetest_Game_cold_desert.jpg" class="image"><img alt="" src="/images/thumb/f/fd/Minetest_Game_cold_desert.jpg/350px-Minetest_Game_cold_desert.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/f/fd/Minetest_Game_cold_desert.jpg/525px-Minetest_Game_cold_desert.jpg 1.5x, /images/thumb/f/fd/Minetest_Game_cold_desert.jpg/700px-Minetest_Game_cold_desert.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Minetest_Game_cold_desert.jpg" class="internal" title="Enlarge"></a></div>Gurun sejuk, setakat versi 0.4.15</div></div></div>
+</td></tr>
+<tr>
+<td><b>Kawasan rumput bersalji</b><br />(<a href="/Help:Original_names/ms" title="Help:Original names/ms">BI</a>:&#160;<i>Snowy grassland</i>)
+</td>
+<td><b><a href="/Snow/ms" title="Snow/ms">Salji</a></b>, <a href="/Dirt_with_Snow/ms" title="Dirt with Snow/ms">Tanah Bersalji</a>, <a href="/Dirt/ms" title="Dirt/ms">Tanah</a>, <a href="/Stone/ms" title="Stone/ms">Batu</a><br /><br /><a href="/Bush_Leaves/ms" title="Bush Leaves/ms">Daun Belukar</a>, <a href="/Bush_Stem/ms" title="Bush Stem/ms">Batang Belukar</a>
+</td>
+<td>Biom kawasan rumput bersalji selalunya berada di sempadan kawasan rumput dan dilitupi dengan lapisan <a href="/Snow/ms" title="Snow/ms">salji</a> nipis di atas <a href="/Dirt_with_Snow/ms" title="Dirt with Snow/ms">tanah bersalji</a>. Beberapa belukar dilitupi salji boleh dijumpai di sini.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Snow_biome.jpg" class="image"><img alt="" src="/images/thumb/6/65/Snow_biome.jpg/350px-Snow_biome.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/6/65/Snow_biome.jpg/525px-Snow_biome.jpg 1.5x, /images/thumb/6/65/Snow_biome.jpg/700px-Snow_biome.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Snow_biome.jpg" class="internal" title="Enlarge"></a></div>Kawasan rumput bersalji, setakat versi 0.4.15</div></div></div>
+</td></tr>
+<tr>
+<td><b>Taiga</b><br />(<a href="/Help:Original_names/ms" title="Help:Original names/ms">BI</a>:&#160;<i>Taiga</i>)
+</td>
+<td><b><a href="/Snow/ms" title="Snow/ms">Salji</a></b>, <a href="/Dirt_with_Snow/ms" title="Dirt with Snow/ms">Tanah Bersalji</a>, <a href="/Dirt/ms" title="Dirt/ms">Tanah</a>, <a href="/Stone/ms" title="Stone/ms">Batu</a><br /><br /><a href="/Pine_Tree/ms" title="Pine Tree/ms">Kayu Pokok Pain</a>, <a href="/Leaves/ms" title="Leaves/ms">Daun Pain</a>, <a href="/Dry_Shrub/ms" title="Dry Shrub/ms">Pokok Renek Kering</a>, <a href="/Brown_Mushroom/ms" title="Brown Mushroom/ms">Cendawan Perang</a>, <a href="/Red_Mushroom/ms" title="Red Mushroom/ms">Cendawan Merah</a>
+</td>
+<td>Taiga ialah biom sejuk dilitupi salji dengan tumbuh-tumbuhan yang kaya beserta permukaannya yang penuh dengan <a href="/Snow/ms" title="Snow/ms">salji</a> dan <a href="/Dirt_with_Snow/ms" title="Dirt with Snow/ms">tanah bersalji</a>. Mereka kaya dengan pokok pain yang dilitupi salji. Dalam hutan pokok pain, jarang-jarang ada cendawan tumbuh di atas kayu balak pokok pain tumbang.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Minetest_Game_taiga.jpg" class="image"><img alt="" src="/images/thumb/c/cf/Minetest_Game_taiga.jpg/350px-Minetest_Game_taiga.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/c/cf/Minetest_Game_taiga.jpg/525px-Minetest_Game_taiga.jpg 1.5x, /images/thumb/c/cf/Minetest_Game_taiga.jpg/700px-Minetest_Game_taiga.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Minetest_Game_taiga.jpg" class="internal" title="Enlarge"></a></div>Pokok pain dalam biom taiga, setakat versi 0.4.13</div></div></div>
+</td></tr>
+<tr>
+<td><b>Tundra</b><br />(<a href="/Help:Original_names/ms" title="Help:Original names/ms">BI</a>:&#160;<i>Tundra</i>)
+</td>
+<td><b><a href="/Snow_Block/ms" title="Snow Block/ms">Bongkah Salji</a></b>, <a href="/Stone/ms" title="Stone/ms">Batu</a>,<br /><i><a href="/Ice/ms" title="Ice/ms">Ais</a></i><sup id="cite_ref-valleys_only_1-0" class="reference"><a href="#cite_note-valleys_only-1">&#91;1&#93;</a></sup>, <i><a href="/Gravel/ms" title="Gravel/ms">Kelikir</a></i><sup id="cite_ref-valleys_only_1-1" class="reference"><a href="#cite_note-valleys_only-1">&#91;1&#93;</a></sup>
+</td>
+<td>Tundra ialah biom tandus di klimat sangat sejuk tanpa sebarang tumbuh-tumbuhan dan hanya ada selapis <a href="/Snow_Block/ms" title="Snow Block/ms">bongkah salji</a> di atas <a href="/Stone/ms" title="Stone/ms">batu</a>. Mereka biasa dijumpai di antara taiga, kawasan rumput bersalji dan glasier. Ini salah satu biom di mana bongkah salji (dan bukannya salji biasa) tercipta.
+<p>Dalam janapeta valleys, sungainya membeku dan diperbuat daripada <a href="/Ice/ms" title="Ice/ms">ais</a> namun ia mungkin susah dijumpai kerana selalunya mereka terkambus di bawah bongkah salji. Di bawah ais tersebut, anda boleh jumpa lantai sungai daripada <a href="/Gravel/ms" title="Gravel/ms">kelikir</a>.
+</p>
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Minetest_Game_tundra.jpg" class="image"><img alt="" src="/images/thumb/c/ca/Minetest_Game_tundra.jpg/350px-Minetest_Game_tundra.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/c/ca/Minetest_Game_tundra.jpg/525px-Minetest_Game_tundra.jpg 1.5x, /images/thumb/c/ca/Minetest_Game_tundra.jpg/700px-Minetest_Game_tundra.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Minetest_Game_tundra.jpg" class="internal" title="Enlarge"></a></div>Tundra dalam versi 0.4.15</div></div></div>
+</td></tr>
+<tr>
+<td><b>Glasier</b><br />(<a href="/Help:Original_names/ms" title="Help:Original names/ms">BI</a>:&#160;<i>Glacier</i>)
+</td>
+<td><a href="/Snow_Block/ms" title="Snow Block/ms">Bongkah Salji</a>, <a href="/Ice/ms" title="Ice/ms">Ais</a>,<br /><i><a href="/Gravel/ms" title="Gravel/ms">Kelikir</a></i><sup id="cite_ref-valleys_only_1-2" class="reference"><a href="#cite_note-valleys_only-1">&#91;1&#93;</a></sup>
+</td>
+<td>Glasier hanya terbentuk dalam kawasan paling sejuk dan diperbuat daripada ais yang sangat banyak, dilitupi lapisan bongkah salji yang tebal tanpa sebarang tumbuh-tumbuhan. Biom glasier boleh terbentuk bergunung seperti dalam tangkapan layar atau sangat rata. Biom glasier selalunya bersempadan dengan biom kepingan ais berhampiran lautan.
+<p>Dalam janapeta valleys, biom glasier mempunyai sungai membeku seperti dalam tundra.
+</p>
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Glacier.jpg" class="image"><img alt="" src="/images/thumb/8/8c/Glacier.jpg/350px-Glacier.jpg" decoding="async" width="350" height="213" class="thumbimage" srcset="/images/thumb/8/8c/Glacier.jpg/525px-Glacier.jpg 1.5x, /images/thumb/8/8c/Glacier.jpg/700px-Glacier.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Glacier.jpg" class="internal" title="Enlarge"></a></div>Pembentukan glasier besar, bersempadan dengan biom salji biasa, setakat versi 0.4.13</div></div></div>
+</td></tr></tbody></table>
+<h4><span id="Biom_pantai,_pesisir_dan_gumuk"></span><span class="mw-headline" id="Biom_pantai.2C_pesisir_dan_gumuk">Biom pantai, pesisir dan gumuk</span></h4>
+<p>Biom-biom ini terbentuk di antara biom daratan dan biom lautan.
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>Nama
+</th>
+<th width="15%">Blok-blok
+</th>
+<th>Keterangan
+</th>
+<th width="355px">Gambar
+</th></tr>
+<tr>
+<td><b>Gumuk kawasan rumput</b><br />(<a href="/Help:Original_names/ms" title="Help:Original names/ms">BI</a>:&#160;<i>Grassland dunes</i>), <br /><b>Gumuk hutan konifer</b><br />(<a href="/Help:Original_names/ms" title="Help:Original names/ms">BI</a>:&#160;<i>Coniferous forest dunes</i>)
+</td>
+<td><b><a href="/Sand/ms" title="Sand/ms">Pasir</a></b><br /><br /><a href="/Grass/ms" title="Grass/ms">Rumput</a>
+</td>
+<td>Gumuk diperbuat daripada pasir yang mana kadang-kala ditumbuhi dengan rumput. Mereka terbentuk betul-betul 5 blok di atas paras laut dan bersempadan dengan kawasan rumput dan hutan konifer.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Minetest_Game_grassland_dunes.jpg" class="image"><img alt="" src="/images/thumb/d/d3/Minetest_Game_grassland_dunes.jpg/350px-Minetest_Game_grassland_dunes.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/d/d3/Minetest_Game_grassland_dunes.jpg/525px-Minetest_Game_grassland_dunes.jpg 1.5x, /images/thumb/d/d3/Minetest_Game_grassland_dunes.jpg/700px-Minetest_Game_grassland_dunes.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Minetest_Game_grassland_dunes.jpg" class="internal" title="Enlarge"></a></div>Gumuk kawasan rumput dalam versi 0.4.16</div></div></div>
+</td></tr>
+<tr>
+<td><b>Pesisir hutan daun luruh</b><br />(<a href="/Help:Original_names/ms" title="Help:Original names/ms">BI</a>:&#160;<i>Decidious forest shore</i>)
+</td>
+<td><a href="/Water/ms" title="Water/ms">Air</a>, <b><a href="/Dirt/ms" title="Dirt/ms">Tanah</a></b>,<br /><br /><a href="/Waterlily/ms" title="Waterlily/ms">Teratai</a>
+</td>
+<td>Pesisir hutan daun luruh ialah kawasan yang berada di paras laut bersempadan dengan biom hutan daun luruh dan mempunyai tanah sebagai lantainya (bukannya pasir). Di kawasan air cetek, ada peluang untuk menjumpai teratai.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Minetest_Game_forest_shore.jpg" class="image"><img alt="" src="/images/thumb/1/1b/Minetest_Game_forest_shore.jpg/350px-Minetest_Game_forest_shore.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/1/1b/Minetest_Game_forest_shore.jpg/525px-Minetest_Game_forest_shore.jpg 1.5x, /images/thumb/1/1b/Minetest_Game_forest_shore.jpg/700px-Minetest_Game_forest_shore.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Minetest_Game_forest_shore.jpg" class="internal" title="Enlarge"></a></div>Pesisir hutan daun luruh dalam versi 0.4.16</div></div></div>
+</td></tr>
+<tr>
+<td><b>Paya hutan hujan</b><br />(<a href="/Help:Original_names/ms" title="Help:Original names/ms">BI</a>:&#160;<i>Rainforest swamp</i>)
+</td>
+<td><a href="/Water/ms" title="Water/ms">Air</a>, <b><a href="/Dirt/ms" title="Dirt/ms">Tanah</a></b>, <a href="/Jungle_Tree/ms" title="Jungle Tree/ms">Kayu Pokok Hutan</a>, <a href="/index.php?title=Jungle_Leaves/ms&amp;action=edit&amp;redlink=1" class="new" title="Jungle Leaves/ms (page does not exist)">Daun Hutan</a>, <a href="/Waterlily/ms" title="Waterlily/ms">Teratai</a>
+</td>
+<td>Paya hutan hujan ialah biom kecil yang hanya terbentuk di paras laut bersebelahan hutan hujan. Paya hutan hujan mempunyai pokok hutan sama seperti hutan hujan, tetapi akar mereka dibanjiri air. <a href="/Waterlily/ms" title="Waterlily/ms">Teratai</a> boleh muncul di sini di kawasan air cetek.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Minetest_Game_jungle_swamp.jpg" class="image"><img alt="" src="/images/thumb/c/cc/Minetest_Game_jungle_swamp.jpg/350px-Minetest_Game_jungle_swamp.jpg" decoding="async" width="350" height="212" class="thumbimage" srcset="/images/thumb/c/cc/Minetest_Game_jungle_swamp.jpg/525px-Minetest_Game_jungle_swamp.jpg 1.5x, /images/thumb/c/cc/Minetest_Game_jungle_swamp.jpg/700px-Minetest_Game_jungle_swamp.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Minetest_Game_jungle_swamp.jpg" class="internal" title="Enlarge"></a></div>Biom paya hutan hujan setakat versi 0.4.15</div></div></div>
+</td></tr>
+<tr>
+<td><b>Pesisir savana</b><br />(<a href="/Help:Original_names/ms" title="Help:Original names/ms">BI</a>:&#160;<i>Savanna shore</i>)
+</td>
+<td><a href="/Water/ms" title="Water/ms">Air</a>, <b><a href="/Dirt/ms" title="Dirt/ms">Tanah</a></b>,<br /><br /><a href="/Papyrus/ms" title="Papyrus/ms">Papirus</a>, <a href="/Waterlily/ms" title="Waterlily/ms">Teratai</a>
+</td>
+<td>Pesisir savana selalunya kawasan kecil air cetek yang berlantaikan tanah. Ia terjadi apabila savana mencecah paras laut. Banyak <a href="/Papyrus/ms" title="Papyrus/ms">papirus</a> tumbuh di atas satu blok tanah, tetapi ia ialah satu-satunya tempat di mana papirus tumbuh secara semulajadi. Beberapa <a href="/Waterlily/ms" title="Waterlily/ms">teratai</a> juga boleh dijumpai di kawasan air cetek.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Minetest_Game_savanna_shore_v7.jpg" class="image"><img alt="" src="/images/thumb/7/76/Minetest_Game_savanna_shore_v7.jpg/350px-Minetest_Game_savanna_shore_v7.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/7/76/Minetest_Game_savanna_shore_v7.jpg/525px-Minetest_Game_savanna_shore_v7.jpg 1.5x, /images/thumb/7/76/Minetest_Game_savanna_shore_v7.jpg/700px-Minetest_Game_savanna_shore_v7.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Minetest_Game_savanna_shore_v7.jpg" class="internal" title="Enlarge"></a></div>Pesisir savana dalam versi 0.5.0-dev</div></div></div>
+</td></tr>
+<tr>
+<td><b>Pantai tundra</b><br />(<a href="/Help:Original_names/ms" title="Help:Original names/ms">BI</a>:&#160;<i>Tundra beach</i>)
+</td>
+<td><a href="/Water/ms" title="Water/ms">Air</a>, <b><a href="/Gravel/ms" title="Gravel/ms">Kelikir</a></b>
+</td>
+<td>Pantai tundra tiada apa-apa melainkan kelikir dan terbentuk apabila tundra bertemu dengan lautan.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Minetest_Game_tundra_beach.jpg" class="image"><img alt="" src="/images/thumb/5/52/Minetest_Game_tundra_beach.jpg/350px-Minetest_Game_tundra_beach.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/5/52/Minetest_Game_tundra_beach.jpg/525px-Minetest_Game_tundra_beach.jpg 1.5x, /images/thumb/5/52/Minetest_Game_tundra_beach.jpg/700px-Minetest_Game_tundra_beach.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Minetest_Game_tundra_beach.jpg" class="internal" title="Enlarge"></a></div>Pantai tundra dalam versi 0.4.16</div></div></div>
+</td></tr></tbody></table>
+<h4><span class="mw-headline" id="Biom_lautan">Biom lautan</span></h4>
+<p>Lautan ialah badan air yang besar dan selalunya mempunyai <a href="/Sand/ms" title="Sand/ms">pasir</a> sebagai lantai lautan dengan tompokan <a href="/Clay/ms" title="Clay/ms">tanah liat</a>. Terdapat beberapa biom lautan dalam Minetest Game, satu untuk setiap biom daratan. Setiap biom lautan mempunyai suhu dan keperluan kelembapan yang sama dengan yang ada di daratan.
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>Nama
+</th>
+<th width="15%">Blok
+</th>
+<th>Keterangan
+</th>
+<th width="355px">Gambar
+</th></tr>
+<tr>
+<td><b>Lautan tundra</b><br />(<a href="/Help:Original_names/ms" title="Help:Original names/ms">BI</a>:&#160;<i>tundra ocean</i>), <b>lautan taiga</b><br />(<a href="/Help:Original_names/ms" title="Help:Original names/ms">BI</a>:&#160;<i>taiga ocean</i>), <b>lautan kawasan rumput bersalji</b><br />(<a href="/Help:Original_names/ms" title="Help:Original names/ms">BI</a>:&#160;<i>snowy grasland ocean</i>), <b>lautan kawasan rumput</b><br />(<a href="/Help:Original_names/ms" title="Help:Original names/ms">BI</a>:&#160;<i>grassland ocean</i>), <b>lautan hutan konifer</b><br />(<a href="/Help:Original_names/ms" title="Help:Original names/ms">BI</a>:&#160;<i>coniferous forest ocean</i>), <b>lautan hutan daun luruh</b><br />(<a href="/Help:Original_names/ms" title="Help:Original names/ms">BI</a>:&#160;<i>deciduous forest ocean</i>), <b>lautan gurun sejuk</b><br />(<a href="/Help:Original_names/ms" title="Help:Original names/ms">BI</a>:&#160;<i>cold desert ocean</i>)
+</td>
+<td><a href="/Water/ms" title="Water/ms">Air</a>, <b><a href="/Sand/ms" title="Sand/ms">Pasir</a></b>, <a href="/Clay/ms" title="Clay/ms">Tanah Liat</a>, <a href="/Stone/ms" title="Stone/ms">Batu</a>
+</td>
+<td>Biom-biom lautan ini mempunyai pasir sebagai lantainya. Selain dari lautan tundra, lautan lain tersenarai mempunyai pantai pasir yang boleh naik sehingga 4 blok di atas paras laut. Seperti dalam kebanyakan biom lautan yang lain, gugusan tanah liat lebih biasa di dalam pasir dan terjadi di antara ketinggian Y=0 dan Y=-15.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Ocean.jpg" class="image"><img alt="" src="/images/thumb/3/33/Ocean.jpg/350px-Ocean.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/3/33/Ocean.jpg/525px-Ocean.jpg 1.5x, /images/thumb/3/33/Ocean.jpg/700px-Ocean.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Ocean.jpg" class="internal" title="Enlarge"></a></div>Lautan dalam versi 0.4.16</div></div></div>
+</td></tr>
+<tr>
+<td><b>Lautan savana</b><br />(<a href="/Help:Original_names/ms" title="Help:Original names/ms">BI</a>:&#160;<i>savanna ocean</i>), <b>Lautan hutan hujan</b><br />(<a href="/Help:Original_names/ms" title="Help:Original names/ms">BI</a>:&#160;<i>rainforest ocean</i>)
+</td>
+<td><a href="/Water/ms" title="Water/ms">Air</a>, <b><a href="/Sand/ms" title="Sand/ms">Pasir</a></b>, <a href="/Clay/ms" title="Clay/ms">Tanah Liat</a>, <a href="/Stone/ms" title="Stone/ms">Batu</a>,<br /><br /><a href="/Coral/ms" title="Coral/ms">Batu Karang</a>, <a href="/Coral_Skeleton/ms" title="Coral Skeleton/ms">Rangka Karang</a>
+</td>
+<td>Lautan savana dan hutan hujan ialah masing-masing lautan yang bersempadan dengan savana dan hutan hujan. Terumbu <a href="/Coral/ms" title="Coral/ms">karang</a> boleh terbentuk dalam air dekat dengan permukaan.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Minetest_Game_rainforest_savannah_ocean.jpg" class="image"><img alt="" src="/images/thumb/9/91/Minetest_Game_rainforest_savannah_ocean.jpg/350px-Minetest_Game_rainforest_savannah_ocean.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/9/91/Minetest_Game_rainforest_savannah_ocean.jpg/525px-Minetest_Game_rainforest_savannah_ocean.jpg 1.5x, /images/thumb/9/91/Minetest_Game_rainforest_savannah_ocean.jpg/700px-Minetest_Game_rainforest_savannah_ocean.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Minetest_Game_rainforest_savannah_ocean.jpg" class="internal" title="Enlarge"></a></div>Lautan savana dan lautan hutan hujan beserta terumbu karang dalam versi 0.4.16</div></div></div>
+</td></tr>
+<tr>
+<td><b>Lautan gurun</b><br />(<a href="/Help:Original_names/ms" title="Help:Original names/ms">BI</a>:&#160;<i>desert ocean</i>)
+</td>
+<td><a href="/Water/ms" title="Water/ms">Air</a>, <b><a href="/Sand/ms" title="Sand/ms">Pasir</a></b>, <a href="/Clay/ms" title="Clay/ms">Tanah Liat</a>, <a href="/Desert_Stone/ms" title="Desert Stone/ms">Batu Pasir</a>,<br /><br /><a href="/Coral/ms" title="Coral/ms">Batu Karang</a>, <a href="/Coral_Skeleton/ms" title="Coral Skeleton/ms">Rangka Karang</a>
+</td>
+<td>Gurun variasi lautan. Ia mempunyai batu gurun menggantikan batu. Terumbu <a href="/Coral/ms" title="Coral/ms">karang</a> boleh terbentuk dalam air dekat dengan permukaan.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Minetest_Game_desert_ocean.jpg" class="image"><img alt="" src="/images/thumb/a/a8/Minetest_Game_desert_ocean.jpg/350px-Minetest_Game_desert_ocean.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/a/a8/Minetest_Game_desert_ocean.jpg/525px-Minetest_Game_desert_ocean.jpg 1.5x, /images/thumb/a/a8/Minetest_Game_desert_ocean.jpg/700px-Minetest_Game_desert_ocean.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Minetest_Game_desert_ocean.jpg" class="internal" title="Enlarge"></a></div>Lautan gurun dalam versi 0.4.16</div></div></div>
+</td></tr>
+<tr>
+<td><b>Lautan gurun batu pasir</b><br />(<a href="/Help:Original_names/ms" title="Help:Original names/ms">BI</a>:&#160;<i>sandstone desert ocean</i>)
+</td>
+<td><a href="/Water/ms" title="Water/ms">Air</a>, <b><a href="/Sand/ms" title="Sand/ms">Pasir</a></b>, <a href="/Clay/ms" title="Clay/ms">Tanah Liat</a>, <a href="/Sandstone/ms" title="Sandstone/ms">Batu Pasir</a>
+</td>
+<td>Gurun batu pasir variasi lautan. Ia mempunyai batu pasir menggantikan batu.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Minetest_Game_sandstone_desert_ocean.jpg" class="image"><img alt="" src="/images/thumb/c/c4/Minetest_Game_sandstone_desert_ocean.jpg/350px-Minetest_Game_sandstone_desert_ocean.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/c/c4/Minetest_Game_sandstone_desert_ocean.jpg/525px-Minetest_Game_sandstone_desert_ocean.jpg 1.5x, /images/thumb/c/c4/Minetest_Game_sandstone_desert_ocean.jpg/700px-Minetest_Game_sandstone_desert_ocean.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Minetest_Game_sandstone_desert_ocean.jpg" class="internal" title="Enlarge"></a></div>Lautan gurun batu pasir dalam versi 0.4.16</div></div></div>
+</td></tr>
+<tr>
+<td><b>Kepingan ais</b><br />(<a href="/Help:Original_names/ms" title="Help:Original names/ms">BI</a>:&#160;<i>Ice sheet</i>)
+</td>
+<td><a href="/Snow_Block/ms" title="Snow Block/ms">Bongkah Salji</a>, <a href="/Ice/ms" title="Ice/ms">Ais</a>, <a href="/Water/ms" title="Water/ms">Air</a>, <b><a href="/Sand/ms" title="Sand/ms">Pasir</a></b>, <a href="/Clay/ms" title="Clay/ms">Tanah Liat</a>
+</td>
+<td>Kepingan ais ialah pending lautan kepada biom glasier, oleh itu ia hanya terbentuk di kawasan lautan paling sejuk dan bersempadan dengan biom glasier. Kepingan ais agak tinggi dan mempunyai selapis bongkah ais dengan banyak lapis sehingga sepuluh lapis ais di bawahnya, “terapung” di atas air dalam lautan dalam.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Minetest_Game_ice_sheet.jpg" class="image"><img alt="" src="/images/thumb/2/2b/Minetest_Game_ice_sheet.jpg/350px-Minetest_Game_ice_sheet.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/2/2b/Minetest_Game_ice_sheet.jpg/525px-Minetest_Game_ice_sheet.jpg 1.5x, /images/thumb/2/2b/Minetest_Game_ice_sheet.jpg/700px-Minetest_Game_ice_sheet.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Minetest_Game_ice_sheet.jpg" class="internal" title="Enlarge"></a></div>Kepingan ais dalam versi 0.4.15</div></div></div>
+</td></tr>
+</tbody></table>
+<h3><span class="mw-headline" id="v6">v6</span></h3>
+<p>Biom dalam janapeta v6 agak ringkas, namun ada beberapa ciri unik yang tidak dijumpai dalam janapeta yang lain. Janapeta ini mempunyai beberapa biom dan 4 spesis <a href="/index.php?title=Trees/ms&amp;action=edit&amp;redlink=1" class="new" title="Trees/ms (page does not exist)">pokok</a>. Dalam janapeta v6, biom <b>ada</b> menentukan bentuk rupa bumi hingga ke suatu tahap.
+</p><p>Dalam Minetest Game, sesetengah <a href="/Blocks/ms" class="mw-redirect" title="Blocks/ms">blok</a> tidak dijana langsung, namun tiada apa yang asas. Contohnya, tidak ada <a href="/Aspen_Tree/ms" title="Aspen Tree/ms">pokok aspen</a>, <a href="/Acacia_Tree/ms" title="Acacia Tree/ms">pokok akasia</a> dan <a href="/Coral/ms" title="Coral/ms">batu karang</a>.
+</p><p>Secara teknikalnya, penjana peta v6 mempunyai set biom pratakrif yang tidak boleh diubah secara terus oleh mods. Hasil dalam permainan berbeza selalunya serupa sahaja. Permainan selalunya hanya <i>menambah</i> benda kepada janapeta v6 dengan sesuatu yang dipanggil perhiasan, contohnya <a href="/Flower/ms" title="Flower/ms">bunga</a> dan <a href="/Grass/ms" title="Grass/ms">rumput</a>.
+</p>
+<h4><span class="mw-headline" id="Biom">Biom</span></h4>
+<table class="wikitable">
+<tbody><tr>
+<th>Nama
+</th>
+<th>Blok-blok Utama<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</th>
+<th>Perhiasan<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</th>
+<th>Keterangan
+</th>
+<th width="355px">Gambar
+</th></tr>
+<tr>
+<td><b>Normal</b><br />(<a href="/Help:Original_names/ms" title="Help:Original names/ms">BI</a>:&#160;<i>Normal</i>)
+</td>
+<td><a href="/Dirt_with_Grass/ms" title="Dirt with Grass/ms">Tanah Berumput</a>, <a href="/Dirt/ms" title="Dirt/ms">Tanah</a>, <a href="/Stone/ms" title="Stone/ms">Batu</a>,<br /><br /><a href="/Tree/ms" title="Tree/ms">Kayu Pokok</a>, <a href="/Leaves/ms" title="Leaves/ms">Daun</a>, <a href="/Apple/ms" title="Apple/ms">Epal</a>
+</td>
+<td><a href="/Grass/ms" title="Grass/ms">Rumput</a>, <a href="/Flower/ms" title="Flower/ms">Bunga</a>, <a href="/Brown_Mushroom/ms" title="Brown Mushroom/ms">Cendawan Perang</a>, <a href="/Red_Mushroom/ms" title="Red Mushroom/ms">Cendawan Merah</a>
+</td>
+<td>Biom Normal ialah biom paling biasa dalam janapeta v6 dan terbentuk di zon kawasan suhu sederhana. Ia merangkumi kawasan landai berumput dan hutan dengan pokok-pokok biasa dan pokok-pokok epal. Biom ini agak rata dan dilitupi Tanah Berumput. Kawasan landai ialah kawasan tanah rata yang luas. Hutan pula mengandungi <a href="/index.php?title=Trees/ms&amp;action=edit&amp;redlink=1" class="new" title="Trees/ms (page does not exist)">Pokok</a> biasa dan kadang-kalanya pokok epal.
+<p>Dalam Minetest Game, Rumput dan bunga merebak ke seluruh biom; cendawan boleh tumbuh berhampiran <a href="/Tree/ms" title="Tree/ms">pokok</a>.
+</p>
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Large_plains.png" class="image"><img alt="" src="/images/thumb/7/7e/Large_plains.png/350px-Large_plains.png" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/7/7e/Large_plains.png/525px-Large_plains.png 1.5x, /images/thumb/7/7e/Large_plains.png/700px-Large_plains.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Large_plains.png" class="internal" title="Enlarge"></a></div>Kawasan landai, setakat versi 0.4.13</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Mapgen_v6_0_4_9.jpg" class="image"><img alt="" src="/images/thumb/f/f2/Mapgen_v6_0_4_9.jpg/350px-Mapgen_v6_0_4_9.jpg" decoding="async" width="350" height="224" class="thumbimage" srcset="/images/thumb/f/f2/Mapgen_v6_0_4_9.jpg/525px-Mapgen_v6_0_4_9.jpg 1.5x, /images/thumb/f/f2/Mapgen_v6_0_4_9.jpg/700px-Mapgen_v6_0_4_9.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mapgen_v6_0_4_9.jpg" class="internal" title="Enlarge"></a></div>Hutan pokok biasa dalam versi 0.4.9</div></div></div>
+</td></tr>
+<tr>
+<td><b>Gurun</b><br />(<a href="/Help:Original_names/ms" title="Help:Original names/ms">BI</a>:&#160;<i>Desert</i>)
+</td>
+<td><b><a href="/Desert_Sand/ms" title="Desert Sand/ms">Pasir Gurun</a></b>, <b><a href="/Desert_Stone/ms" title="Desert Stone/ms">Batu Gurun</a></b>
+</td>
+<td><a href="/Cactus/ms" title="Cactus/ms">Kaktus</a>, <a href="/Dry_Shrub/ms" title="Dry Shrub/ms">Pokok Renek Kering</a>
+</td>
+<td>Gurun mempunyai <a href="/Desert_Sand/ms" title="Desert Sand/ms">pasir gurun</a> dan <a href="/Desert_Stone/ms" title="Desert Stone/ms">batu gurun</a> yang sangat banyak dan selalu ada cenuram besar atau ngarai. Gurun selalunya dilitupi dengan pasir gurun, namun di beberapa cenuram batu gurun terdedah tanpa pasir gurun di atasnya. Gurun mewujudkan sungai dan tasik bawah tanah yang boleh mencecah 200 blok dalamnya.
+<p>Dalam Minetest Game, <a href="/Cactus/ms" title="Cactus/ms">Kaktus</a> dan <a href="/Dry_Shrub/ms" title="Dry Shrub/ms">pokok renek kering</a> juga tumbuh secara semulajadi secara berkelompok di atas pasir gurun. Gurun membentuk sungai dan tasik bawah tanah yang boleh berada sehingga 200 blok dalamnya. Kaktus terbentuk dalam bentuk “menegak” dengan tinggi sehingga 4 blok.
+</p>
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Desert_at_sunset_0.4.7.png" class="image"><img alt="" src="/images/thumb/6/69/Desert_at_sunset_0.4.7.png/350px-Desert_at_sunset_0.4.7.png" decoding="async" width="350" height="213" class="thumbimage" srcset="/images/thumb/6/69/Desert_at_sunset_0.4.7.png/525px-Desert_at_sunset_0.4.7.png 1.5x, /images/thumb/6/69/Desert_at_sunset_0.4.7.png/700px-Desert_at_sunset_0.4.7.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Desert_at_sunset_0.4.7.png" class="internal" title="Enlarge"></a></div>Biom gurun, setakat versi 0.4.7</div></div></div>
+</td></tr>
+<tr>
+<td><b>Rimba</b><br />(<a href="/Help:Original_names/ms" title="Help:Original names/ms">BI</a>:&#160;<i>Jungle</i>)
+</td>
+<td><b><a href="/Dirt_with_Grass/ms" title="Dirt with Grass/ms">Tanah Berumput</a></b>, <a href="/Dirt/ms" title="Dirt/ms">Tanah</a>, <a href="/Stone/ms" title="Stone/ms">Batu</a>,<br /><br /><a href="/Jungle_Tree/ms" title="Jungle Tree/ms">Kayu Pokok Hutan</a>, <a href="/index.php?title=Jungle_Leaves/ms&amp;action=edit&amp;redlink=1" class="new" title="Jungle Leaves/ms (page does not exist)">Daun Hutan</a>, <a href="/Jungle_Grass/ms" title="Jungle Grass/ms">Rumput Hutan</a>
+</td>
+<td><a href="/Flower/ms" title="Flower/ms">Bunga</a>, <a href="/Grass/ms" title="Grass/ms">Rumput</a>
+</td>
+<td>Rimba mempunyai pokok-pokok hutan besar yang tumbuh menebal secara rapat-rapat bersama. <a href="/Jungle_Grass/ms" title="Jungle Grass/ms">Rumput hutan</a> dan <a href="/Jungle_Tree/ms" title="Jungle Tree/ms">kayu pokok hutan</a> memegang <a href="/Leaves/ms" title="Leaves/ms">daun hutan</a> tumbuh secara semulajadi di sini.
+<p>Dalam Minetest Game, bunga dan Rumput mungkin muncul di sini, tetapi hanya jarang-jarang ada, maka Rumput Hutan selalunya mendominasi rimba.
+</p>
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Jungle_v6.jpg" class="image"><img alt="" src="/images/thumb/d/d7/Jungle_v6.jpg/350px-Jungle_v6.jpg" decoding="async" width="350" height="213" class="thumbimage" srcset="/images/thumb/d/d7/Jungle_v6.jpg/525px-Jungle_v6.jpg 1.5x, /images/thumb/d/d7/Jungle_v6.jpg/700px-Jungle_v6.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Jungle_v6.jpg" class="internal" title="Enlarge"></a></div>Biom rimba setakat versi 0.4.16</div></div></div>
+</td></tr>
+<tr>
+<td><b>Taiga</b><br />(<a href="/Help:Original_names/ms" title="Help:Original names/ms">BI</a>:&#160;<i>Taiga</i>)
+</td>
+<td><b><a href="/Snow_Block/ms" title="Snow Block/ms">Bongkah Salji</a></b>, <a href="/Dirt_with_Snow/ms" title="Dirt with Snow/ms">Tanah Bersalji</a>, <a href="/Stone/ms" title="Stone/ms">Batu</a>,<br /><br /><a href="/Snow/ms" title="Snow/ms">Salji</a>, <a href="/Pine_Tree/ms" title="Pine Tree/ms">Kayu Pokok Pain</a>, <a href="/Leaves/ms" title="Leaves/ms">Daun Pain</a>
+</td>
+<td>
+</td>
+<td>Permukaannyya dilitupi <a href="/Snow_Block/ms" title="Snow Block/ms">Bongkah Salji</a> di atas <a href="/Dirt_with_Snow/ms" title="Dirt with Snow/ms">Tanah Bersalji</a>. Biom ini merangkumi juga kawasan landai bersalji dan hutan <a href="/Pine_Tree/ms" title="Pine Tree/ms">Pokok Pain</a> yang dilitupi <a href="/Snow/ms" title="Snow/ms">Salji</a>.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Mapgen_v6_taiga.jpg" class="image"><img alt="" src="/images/thumb/2/27/Mapgen_v6_taiga.jpg/350px-Mapgen_v6_taiga.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/2/27/Mapgen_v6_taiga.jpg/525px-Mapgen_v6_taiga.jpg 1.5x, /images/thumb/2/27/Mapgen_v6_taiga.jpg/700px-Mapgen_v6_taiga.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mapgen_v6_taiga.jpg" class="internal" title="Enlarge"></a></div>Dua ciri utama taiga: bongkah salji dan pokok pain (versi 0.4.15)</div></div></div>
+</td></tr>
+<tr>
+<td><b>Tundra</b><br />(<a href="/Help:Original_names/ms" title="Help:Original names/ms">BI</a>:&#160;<i>Tundra</i>)
+</td>
+<td><b><a href="/Dirt_with_Snow/ms" title="Dirt with Snow/ms">Tanah Bersalji</a></b>, <b><a href="/Snow/ms" title="Snow/ms">Salji</a></b>, <a href="/Stone/ms" title="Stone/ms">Batu</a>
+</td>
+<td><a href="/Dry_Shrub/ms" title="Dry Shrub/ms">Pokok Renek Kering</a>
+</td>
+<td>Tundra ialah padang terbuka luas dengan <a href="/Dirt_with_Snow/ms" title="Dirt with Snow/ms">tanah bersalji</a> di atasnya tanoa sebarang pokok. Dalam Minetest Game, padang ini ditumbuhi beberapa <a href="/Dry_Shrub/ms" title="Dry Shrub/ms">pokok renek kering</a>.
+<p>Terdapat juga variasi kurang biasa untuk biom ini di mana permukaannya hanyalah <a href="/Snow/ms" title="Snow/ms">salji</a> betul-betul di atas <a href="/Stone/ms" title="Stone/ms">batu</a>, mendedahkan sisi batu. Tiada pokok renek kering boleh dijumpai di sini. Variasi ini boleh berlaku kadang-kadang di penara.
+</p>
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Mapgen_v6_tundra.jpg" class="image"><img alt="" src="/images/thumb/2/20/Mapgen_v6_tundra.jpg/350px-Mapgen_v6_tundra.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/2/20/Mapgen_v6_tundra.jpg/525px-Mapgen_v6_tundra.jpg 1.5x, /images/thumb/2/20/Mapgen_v6_tundra.jpg/700px-Mapgen_v6_tundra.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mapgen_v6_tundra.jpg" class="internal" title="Enlarge"></a></div>Biom tundra dalam versi 0.4.15</div></div></div>
+</td></tr></tbody></table>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-valleys_only-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-valleys_only_1-0">1.0</a></sup> <sup><a href="#cite_ref-valleys_only_1-1">1.1</a></sup> <sup><a href="#cite_ref-valleys_only_1-2">1.2</a></sup></span> <span class="reference-text">Blok ini hanya dijana dalam janapeta <i>valleys</i></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Blok dijana oleh janapeta v6 teras</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Blok-blok tambahan daripada Minetest Game, boleh dikawal dengan bendera penjana peta <code>decorations</code>. Lihat juga: <a href="/index.php?title=Map_generator_features/ms&amp;action=edit&amp;redlink=1" class="new" title="Map generator features/ms (page does not exist)">Ciri-ciri terkongsi</a></span>
+</li>
+</ol></div>
+<h4><span class="mw-headline" id="Sifat_landskap">Sifat landskap</span></h4>
+<p>Sifat landskap terbentuk secara (agak) berasingan daripada biom.
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>Nama
+</th>
+<th>Blok
+</th>
+<th>Keterangan
+</th>
+<th width="355px">Gambar
+</th></tr>
+<tr>
+<td><b>Pantai pasir</b><br />(<a href="/Help:Original_names/ms" title="Help:Original names/ms">BI</a>:&#160;<i>Sand beach</i>)
+</td>
+<td><a href="/Water/ms" title="Water/ms">Air</a>, <a href="/Sand/ms" title="Sand/ms">Pasir</a>, <i><a href="/Clay/ms" title="Clay/ms">Tanah Liat</a></i>, <a href="/Stone/ms" title="Stone/ms">Batu</a>
+</td>
+<td>Pantai pasir diperbuat daripada <a href="/Sand/ms" title="Sand/ms">pasir</a> dan terbentuk pada <a href="/index.php?title=Coordinates/ms&amp;action=edit&amp;redlink=1" class="new" title="Coordinates/ms (page does not exist)">ketinggian</a> Y=2 ke bawah, iaitu dekat dengan paras laut secara lalai. Pantai pasir selalu menjangkau dalam lautan, dengan senangnya menukarkan banyak lantai laut menjadi pasir. Pasir menggantikan lantai biom lain. Bergantung kepada bentuk rupa bumi, pantai pasir boleh menjadi pendek atau sangat panjang dan luas (seperti dalam tangkapan layar). <a href="/Clay/ms" title="Clay/ms">Tanah liat</a> boleh dijumpai di pasir dan terbentuk dalam “tompokan” kecil atau sederhana di bawah air (Secara teknikalnya, tanah liat dijana seperti <a href="/Ores/ms" title="Ores/ms">bijih</a> oleh Minetest Game).
+<p>Pantai pasir dijana berdasarkan ketinggian dan hingar Perlin; secara teknikalnya mereka dijana secara bebas daripada air di lautan. Kesan ini boleh dilihat sekiranya paras air (dengan tetapan <code>water_level</code>) telah dikurangkan.
+</p>
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Mapgen_v6_beach.jpg" class="image"><img alt="" src="/images/thumb/0/01/Mapgen_v6_beach.jpg/350px-Mapgen_v6_beach.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/0/01/Mapgen_v6_beach.jpg/525px-Mapgen_v6_beach.jpg 1.5x, /images/thumb/0/01/Mapgen_v6_beach.jpg/700px-Mapgen_v6_beach.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mapgen_v6_beach.jpg" class="internal" title="Enlarge"></a></div>Pantai pasir bersempadan dengan gurun dalam versi 0.4.15</div></div></div>
+</td></tr>
+<tr>
+<td><b>Lautan</b><br />(<a href="/Help:Original_names/ms" title="Help:Original names/ms">BI</a>:&#160;<i>Ocean</i>)
+</td>
+<td><a href="/Water/ms" title="Water/ms">Air</a>, <a href="/Stone/ms" title="Stone/ms">Batu</a>, <b><a href="/Dirt/ms" title="Dirt/ms">Tanah</a></b>, <b><a href="/Sand/ms" title="Sand/ms">Pasir</a></b>
+</td>
+<td>Lautan hanyalah badan air yang besar yang mencapai sekitar 25 blok dalamnya dengan permukaan air pada ketinggian Y=0 di seluruh dunia (secara lalainya). Lantai lautan semulajadi ialah <a href="/Dirt/ms" title="Dirt/ms">tanah</a> (berbeza daripada janapeta lain), namun <a href="/Sand/ms" title="Sand/ms">pasir</a> juga menjadi biasa kerana wujudnya pantai pasir. Lautan selalunya tersebar antara 250-300 blok, namun ia boleh diubah lebih lagi. Lautan ialah ciri landskap yang dimasukkan sekitar versi <a href="/index.php?title=Version_History&amp;action=edit&amp;redlink=1" class="new" title="Version History (page does not exist)">0.2.20110731_1 Pre-Alpha</a>.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Mapgen_v6_ocean.jpg" class="image"><img alt="" src="/images/thumb/b/bf/Mapgen_v6_ocean.jpg/350px-Mapgen_v6_ocean.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/b/bf/Mapgen_v6_ocean.jpg/525px-Mapgen_v6_ocean.jpg 1.5x, /images/thumb/b/bf/Mapgen_v6_ocean.jpg/700px-Mapgen_v6_ocean.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mapgen_v6_ocean.jpg" class="internal" title="Enlarge"></a></div>Lautan luas dalam versi 0.4.15</div></div></div>
+</td></tr>
+<tr>
+<td><b>Pulau</b><br />(<a href="/Help:Original_names/ms" title="Help:Original names/ms">BI</a>:&#160;<i>Island</i>)
+</td>
+<td><i>Semua blok daripada biom v6</i>, <a href="/Water/ms" title="Water/ms">Air</a>
+</td>
+<td>Pulau terbentuk banyak kali di lautan. Pulau selalunya muncul daripada tanah setinggi 3-10 blok, tetapi boleh menjadi setinggi 40-80 blok.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Island_0.4.7.jpg" class="image"><img alt="" src="/images/thumb/d/de/Island_0.4.7.jpg/350px-Island_0.4.7.jpg" decoding="async" width="350" height="213" class="thumbimage" srcset="/images/thumb/d/de/Island_0.4.7.jpg/525px-Island_0.4.7.jpg 1.5x, /images/thumb/d/de/Island_0.4.7.jpg/700px-Island_0.4.7.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Island_0.4.7.jpg" class="internal" title="Enlarge"></a></div>Pulau gaya pantai yang kecil, setakat versi 0.4.7</div></div></div>
+</td></tr>
+<tr>
+<td><b>Gunung</b><br />(<a href="/Help:Original_names/ms" title="Help:Original names/ms">BI</a>:&#160;<i>Mountain</i>)
+</td>
+<td><i>Blok serupa seperti hutan dan kawasan landai</i>
+</td>
+<td>Gununglah paling bahaya. Pokok tumbuh secara semulajadi di sini. Sangat mudah untuk terbunuh di rupa bumi gunung jika anda tidak ambil perhatian ke mana anda sedang bergerak.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Mountain.png" class="image"><img alt="" src="/images/thumb/3/39/Mountain.png/350px-Mountain.png" decoding="async" width="350" height="260" class="thumbimage" srcset="/images/thumb/3/39/Mountain.png/525px-Mountain.png 1.5x, /images/thumb/3/39/Mountain.png/700px-Mountain.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mountain.png" class="internal" title="Enlarge"></a></div>Gunung, sebelum versi 0.4.7</div></div></div>
+</td></tr>
+<tr>
+<td><b>Kepingan ais</b><br />(<a href="/Help:Original_names/ms" title="Help:Original names/ms">BI</a>:&#160;<i>Ice sheet</i>)
+</td>
+<td><a href="/Ice/ms" title="Ice/ms">Ais</a>, <a href="/Water/ms" title="Water/ms">Air</a>, <b><a href="/Dirt/ms" title="Dirt/ms">Tanah</a></b>, <b><a href="/Sand/ms" title="Sand/ms">Pasir</a></b>
+</td>
+<td>Kepingan ais ialah dua lapisan <a href="/Ice/ms" title="Ice/ms">ais</a> di atas air laut. Mereka dijana apabila biom taiga atau tundra melanggar laut.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Ice_sheet_v6.jpg" class="image"><img alt="" src="/images/thumb/8/88/Ice_sheet_v6.jpg/350px-Ice_sheet_v6.jpg" decoding="async" width="350" height="213" class="thumbimage" srcset="/images/thumb/8/88/Ice_sheet_v6.jpg/525px-Ice_sheet_v6.jpg 1.5x, /images/thumb/8/88/Ice_sheet_v6.jpg/700px-Ice_sheet_v6.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Ice_sheet_v6.jpg" class="internal" title="Enlarge"></a></div>Kepingan ais dalam versi 0.4.15</div></div></div>
+</td></tr>
+<tr>
+<td><b>Penara</b><br />(<a href="/Help:Original_names/ms" title="Help:Original names/ms">BI</a>:&#160;<i>Plateau</i>)
+</td>
+<td><i>Hampir kesemua blok daripada biom v6</i>
+</td>
+<td>Struktur gergasi yang mula kelihatan sejak versi 0.4, penara sangat biasa dijumpai di gurun dan juga rupa bumi bergunung. Penara juga boleh terapung di atas tanah dan menjana biom miniatur di atasnya.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Plateau_0.4.7_alternative.png" class="image"><img alt="" src="/images/thumb/3/3b/Plateau_0.4.7_alternative.png/350px-Plateau_0.4.7_alternative.png" decoding="async" width="350" height="213" class="thumbimage" srcset="/images/thumb/3/3b/Plateau_0.4.7_alternative.png/525px-Plateau_0.4.7_alternative.png 1.5x, /images/thumb/3/3b/Plateau_0.4.7_alternative.png/700px-Plateau_0.4.7_alternative.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Plateau_0.4.7_alternative.png" class="internal" title="Enlarge"></a></div>Penara, setakat versi 0.4.7</div></div></div>
+</td></tr>
+<tr>
+<td><b>Gua air</b><br />(<a href="/Help:Original_names/ms" title="Help:Original names/ms">BI</a>:&#160;<i>Water cave</i>)
+</td>
+<td><a href="/Water/ms" title="Water/ms">Air</a>, <a href="/Stone/ms" title="Stone/ms">Batu</a>
+</td>
+<td>Gua air ialah gua yang hanya terjadi di paras laut, yang bertukar menjadi sungai atau tasik luas di bawah tanah. Dalam kes ekstrim, gua-gua ini boleh menyambung sehingga ribuan blok ke bawah dan sangat senang untuk sesat di dalamnya.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Water_cave_0.4.7_alternative.png" class="image"><img alt="" src="/images/thumb/9/9a/Water_cave_0.4.7_alternative.png/350px-Water_cave_0.4.7_alternative.png" decoding="async" width="350" height="215" class="thumbimage" srcset="/images/thumb/9/9a/Water_cave_0.4.7_alternative.png/525px-Water_cave_0.4.7_alternative.png 1.5x, /images/thumb/9/9a/Water_cave_0.4.7_alternative.png/700px-Water_cave_0.4.7_alternative.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Water_cave_0.4.7_alternative.png" class="internal" title="Enlarge"></a></div>Gua air, setakat versi 0.4.7</div></div></div>
+</td></tr>
+<tr>
+<td><b>Padang kelikir</b><br />(<a href="/Help:Original_names/ms" title="Help:Original names/ms">BI</a>:&#160;<i>Gravel field</i>)
+</td>
+<td><b><a href="/Gravel/ms" title="Gravel/ms">Kelikir</a></b>
+</td>
+<td>Kadang-kadang, padang <a href="/Gravel/ms" title="Gravel/ms">kelikir</a> yang sangat luas boleh muncul di permukaan. Kawasan ini tidak ada apa-apa melainkan kelikir. Padang kelikir boleh terjadi di mana-mana biom dan hanya menggantikan bahan permukaan mereka (cth. tanah berumput) dengan kelikir.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Mapgen_v6_gravel_biome.png" class="image"><img alt="" src="/images/thumb/0/0e/Mapgen_v6_gravel_biome.png/350px-Mapgen_v6_gravel_biome.png" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/0/0e/Mapgen_v6_gravel_biome.png/525px-Mapgen_v6_gravel_biome.png 1.5x, /images/thumb/0/0e/Mapgen_v6_gravel_biome.png/700px-Mapgen_v6_gravel_biome.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mapgen_v6_gravel_biome.png" class="internal" title="Enlarge"></a></div>Padang kelikir dalam versi 0.4.15</div></div></div>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Sejarah">Sejarah</span></h2>
+<h3><span class="mw-headline" id="Pembangunan_Minetest">Pembangunan Minetest</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/File:Putkiksia.png" class="image"><img alt="" src="/images/thumb/9/9c/Putkiksia.png/300px-Putkiksia.png" decoding="async" width="300" height="225" class="thumbimage" srcset="/images/thumb/9/9c/Putkiksia.png/450px-Putkiksia.png 1.5x, /images/thumb/9/9c/Putkiksia.png/600px-Putkiksia.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Putkiksia.png" class="internal" title="Enlarge"></a></div>Janapeta kekalutan masa awal, tiada biom langsung</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/File:Mapgen_updated.png" class="image"><img alt="" src="/images/thumb/0/0c/Mapgen_updated.png/300px-Mapgen_updated.png" decoding="async" width="300" height="225" class="thumbimage" srcset="/images/thumb/0/0c/Mapgen_updated.png/450px-Mapgen_updated.png 1.5x, /images/thumb/0/0c/Mapgen_updated.png/600px-Mapgen_updated.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mapgen_updated.png" class="internal" title="Enlarge"></a></div>Biom yang tidak boleh ditakrifkan (sebelum versi 0.0.1)</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/File:Screenshot_2438759180_mapgenv6.jpeg" class="image"><img alt="" src="/images/thumb/c/c7/Screenshot_2438759180_mapgenv6.jpeg/300px-Screenshot_2438759180_mapgenv6.jpeg" decoding="async" width="300" height="225" class="thumbimage" srcset="/images/thumb/c/c7/Screenshot_2438759180_mapgenv6.jpeg/450px-Screenshot_2438759180_mapgenv6.jpeg 1.5x, /images/thumb/c/c7/Screenshot_2438759180_mapgenv6.jpeg/600px-Screenshot_2438759180_mapgenv6.jpeg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Screenshot_2438759180_mapgenv6.jpeg" class="internal" title="Enlarge"></a></div>Janapeta versi 6 yang awal dengan biom hutan dan gurun (versi 0.4.0)</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/File:Mapgen_v6.jpg" class="image"><img alt="" src="/images/thumb/1/15/Mapgen_v6.jpg/300px-Mapgen_v6.jpg" decoding="async" width="300" height="192" class="thumbimage" srcset="/images/thumb/1/15/Mapgen_v6.jpg/450px-Mapgen_v6.jpg 1.5x, /images/thumb/1/15/Mapgen_v6.jpg/600px-Mapgen_v6.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mapgen_v6.jpg" class="internal" title="Enlarge"></a></div>Biom salji dalam janapeta v6 (versi 0.4.13)</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/File:Mapgen_v7.jpg" class="image"><img alt="" src="/images/thumb/b/b3/Mapgen_v7.jpg/300px-Mapgen_v7.jpg" decoding="async" width="300" height="192" class="thumbimage" srcset="/images/thumb/b/b3/Mapgen_v7.jpg/450px-Mapgen_v7.jpg 1.5x, /images/thumb/b/b3/Mapgen_v7.jpg/600px-Mapgen_v7.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mapgen_v7.jpg" class="internal" title="Enlarge"></a></div>Janapeta v7 yang menyokong API Biom. Menunjukkan kawasan rumput berbatu pasir yang kini telah dibuang daripada Minetest Game (versi 0.4.13)</div></div></div>
+<ul><li>Sebelum Minetest mempunyai nombor versi, biom tidak boleh ditakrifkan dan hanya mempunyai empat bahan: rumput, batu, cahaya dan "air" (seperti dalam gambar).</li>
+<li>Versi 0.0.1: Baru ada biom sebenar, tetapi sebelum versi <a href="/index.php?title=Version_History/ms&amp;action=edit&amp;redlink=1" class="new" title="Version History/ms (page does not exist)">0.2.20110529 Pre-Alpha</a> penjanaan peta agak berserabut. Biom akan merentasi sesama sendiri, dan secara amnya biom tidak dapat ditakrifkan.</li>
+<li>Versi 0.3.0 dan sebelumnya: Biom-biom sangat asas. Hanya ada kawasan rumput, hutan, lautan dan pantai.</li>
+<li>Versi 0.4.0: Penjana peta versi 6 diperkenalkan. Penjana peta ini mempunyai biom yang sama seperti versi-versi sebelumnya. Kemudian, gurun telah ditambah diikuti oleh rimba.</li>
+<li>Versi 0.4.13: Taiga dan tundra telah ditambah ke dalam janapeta v6. Sekitar waktu ini, kerja-kerja API Biom telah bermula, tetapi ia tidak boleh digunakan lagi.</li>
+<li>Versi 0.4.14: API Biom telah diperkenalkan untuk janapeta v7 yang membolehkan mods mencipta biom mereka sendiri dari awal. Ini peristiwa penting utama kerana API Biom lebih fleksibel berbanding biom v6 yang tidak boleh diubah; biom-biom boleh menjadi lebih kaya sekarang. Semua janapeta kini menyokong API Biom, kecuali janapeta v6 yang terus mempunyai biom yang tidak boleh diubah.</li></ul>
+<h3><span class="mw-headline" id="Biom-biom_Minetest_Game">Biom-biom Minetest Game</span></h3>
+<ul><li>Sebelum versi 0.4.14: Minetest Game tidak mencipta sebarang biom; semua biom dicipta sendiri oleh Minetest. Minetest Game  hanya menambah beberapa perhiasan kepada janapeta v6 seperti bunga, papirus, kaktus dll.</li>
+<li>Versi 0.4.14: Minetest Game mula menggunakan API Biom yang baru yang membuatkan janapeta v7 akhirnya sesuai untuk bermain. Minetest Game menggunakan API Biom untuk menambah glasier, kepingan ais, tundra, taiga, kawasan rumput berbatu, kawasan rumput batu pasir, hutan konifer, hutan daun luruh, gurun, savana, hutan hujan, paya dan pantai. Biom janapeta v6 tidak berubah.</li>
+<li>Versi 0.4.15: Kawasan rumput bersalji, gurun sejuk dan gurun batu pasir telah ditambah. Kawasan rumput berbatu pasir telah dibuang.</li></ul>
+<h3><span class="mw-headline" id="Lihat_juga">Lihat juga</span></h3>
+<p>Untuk maklumat lanjut berkaitan perkembangan penjana peta, sila lihat halaman <a href="/Map_Generator_Evolution/ms" title="Map Generator Evolution/ms">Perkembangan Penjana Peta</a>.
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20230709083923
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.843 seconds
+Real time usage: 1.312 seconds
+Preprocessor visited node count: 993/1000000
+Post‐expand include size: 6535/2097152 bytes
+Template argument size: 1113/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 13/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1342/5000000 bytes
+Lua time usage: 0.120/7 seconds
+Lua virtual size: 5.55 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  437.743      1 -total
+ 74.24%  324.993      1 Template:Languages
+  7.36%   32.234     44 Template:Original_names/ms
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:3668-0!canonical and timestamp 20230709083922 and revision id 25465
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Biomes/ms&amp;oldid=25465">http://wiki.minetest.net/index.php?title=Biomes/ms&amp;oldid=25465</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/Category:Malay" title="Category:Malay">Malay</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Biomes%2Fms" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Biomes/ms" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Biomes/ms&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Biomes/ms">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Biomes/ms&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Biomes/ms&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Biomes/ms" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Biomes/ms" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Biomes/ms&amp;oldid=25465" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Biomes/ms&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 9 April 2021, at 20:36.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.843","walltime":"1.312","ppvisitednodes":{"value":993,"limit":1000000},"postexpandincludesize":{"value":6535,"limit":2097152},"templateargumentsize":{"value":1113,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":13,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1342,"limit":5000000},"timingprofile":["100.00%  437.743      1 -total"," 74.24%  324.993      1 Template:Languages","  7.36%   32.234     44 Template:Original_names/ms"]},"scribunto":{"limitreport-timeusage":{"value":"0.120","limit":"7"},"limitreport-virtmemusage":{"value":5824512,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709083923","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":246});});</script></body></html>

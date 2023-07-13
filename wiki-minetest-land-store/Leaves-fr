@@ -1,0 +1,386 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Leaves/fr - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"835ca8300aad7ae1645ba871","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Leaves/fr","wgTitle":"Leaves/fr","wgCurRevisionId":27566,"wgRevisionId":27566,"wgArticleId":1182,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages","Leaves","Organic blocks","Flammable","French"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Leaves/fr","wgRelevantArticleId":1182,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":
+"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","jquery.tablesorter.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=jquery.tablesorter.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Leaves_fr rootpage-Leaves skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Leaves/fr</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/Leaves" title="Leaves">Leaves</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> Langue&#160;:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><a href="/Leaves" title="Leaves">English</a>&#160;• <bdi lang="de"><a href="/Leaves/de" title="Leaves/de">Deutsch</a></bdi><b>&#160;• <bdi lang="fr"><a class="mw-selflink selflink">français</a></bdi></b>&#160;• <bdi lang="hu"><a href="/Leaves/hu" title="Leaves/hu">magyar</a></bdi>&#160;• <bdi lang="ms"><a href="/Leaves/ms" title="Leaves/ms">Bahasa Melayu</a></bdi></td>
+</tr></tbody></table>
+<p><br />
+</p>
+<table class="wikitable" width="250px" style="float:right;text-align:left;margin:0 0 0.5em 1em;padding:5px;font-size:90%;position:relative;clear:right;overflow:auto;z-index:1">
+
+<tbody><tr>
+<th colspan="2" style="font-size:110%;text-align:center">Feilles
+</th></tr>
+<tr>
+<th colspan="2"><div class="center"><div class="animated" style="width:150px;height:150px"><div class="image"><a href="/File:Leaves.png" title="File:Leaves.png"><img alt="Leaves.png" src="/images/f/f1/Leaves.png" decoding="async" width="150" height="150" /></a></div><div class="image"><a href="/File:Jungle_Leaves.png" title="File:Jungle Leaves.png"><img alt="Jungle Leaves.png" src="/images/c/c5/Jungle_Leaves.png" decoding="async" width="150" height="150" /></a></div><div class="image"><a href="/File:Pine_Needles.png" title="File:Pine Needles.png"><img alt="Pine Needles.png" src="/images/2/2c/Pine_Needles.png" decoding="async" width="150" height="150" /></a></div><div class="image"><a href="/File:Acacia_Leaves.png" title="File:Acacia Leaves.png"><img alt="Acacia Leaves.png" src="/images/2/27/Acacia_Leaves.png" decoding="async" width="150" height="150" /></a></div><div class="image"><a href="/File:Aspen_Leaves.png" title="File:Aspen Leaves.png"><img alt="Aspen Leaves.png" src="/images/d/d3/Aspen_Leaves.png" decoding="async" width="150" height="150" /></a></div></div></div>
+</th></tr>
+<tr>
+<th colspan="2" align="center">A <a href="/Blocks" class="mw-redirect" title="Blocks">block</a> in <a href="/Games/Minetest_Game" title="Games/Minetest Game">Minetest Game</a>
+</th></tr>
+<tr>
+<td><b>Type</b>
+</td>
+<td>Solid block
+</td></tr>
+<tr>
+<td><b><a href="/Mining/fr#L.C3.A2chers" title="Mining/fr">Drop</a></b>
+</td>
+<td>Voir le tableau
+</td></tr>
+<tr>
+<td><b><a href="/Category:Falling" title="Category:Falling">Physique</a></b>
+</td>
+<td>No
+</td></tr>
+<tr>
+<td><b><a href="/Category:Luminous" title="Category:Luminous">Luminance</a></b>
+</td>
+<td>No
+</td></tr>
+<tr>
+<td><b><a href="/Category:Flammable" title="Category:Flammable">Imflammable</a></b>
+</td>
+<td>Oui
+</td></tr>
+<tr>
+<td><b><a href="/Category:Generated_blocks" title="Category:Generated blocks">Bloc généré</a></b>
+</td>
+<td>Oui
+</td></tr>
+<tr>
+<td><b>Renouvelable</b>
+</td>
+<td>Oui
+</td></tr>
+<tr>
+<td><b>Empilable</b>
+</td>
+<td>Yes (99)
+</td></tr>
+<tr>
+<td><b><a href="/Itemstrings/fr" title="Itemstrings/fr">Itemstring</a></b>
+</td>
+<td>Voir le tableau
+</td></tr></tbody></table>
+<p>Les différentes <b>feuilles</b> se trouvent sur les <a href="/Tree/fr" class="mw-redirect" title="Tree/fr">arbres</a>; Il y a cinq type de feuilles&#160;: <b>feuilles</b>, <b>feuilles de la jungle</b>, <b>aiguille de pin</b>, <b>feuilles d’acacia</b> et <b>feuilles de peuplier</b>.  
+</p><p>Lorsque vous les prenez, vous avez 5% de chances d'obtenir un <a href="/index.php?title=Tree_Sapling/fr&amp;action=edit&amp;redlink=1" class="new" title="Tree Sapling/fr (page does not exist)">plant d'arbre</a> correspondant. Elles peuvent être récoltée avec une <a href="/Sword/fr" title="Sword/fr">épée</a> ou avec une <a href="/index.php?title=Hand/fr&amp;action=edit&amp;redlink=1" class="new" title="Hand/fr (page does not exist)">main</a>.
+</p><p>Elles peuvent également disparaître (avec la même probabilité de donner un plant) lorsque aucun bloc de tronc ne se trouve à moins de 4 blocs. Peut importe le type de bloc de tronc. Les feuilles placés par les joueurs ne disparaissent pas.
+</p><p>Si l'option <i>Fancy trees</i> est cochée dans l'interface de configuration, les feuilles sont transparentes, sinon elles sont opaques.
+</p><p>Les <b>feuilles d'arbre de jungle</b> respectent les mêmes règles, mais avec les blocs associés aux <a href="/Jungle_Tree/fr" title="Jungle Tree/fr">arbres de la jungle</a>.
+</p><p><br />
+</p>
+<h2><span class="mw-headline" id="Types">Types</span></h2>
+<table class="wikitable sortable">
+<tbody><tr>
+<th class="unsortable">
+</th>
+<th>Type de feuilles
+</th>
+<th>Itemstring
+</th>
+<th class="unsortable">Objet obtenu
+</th></tr>
+<tr>
+<td><a href="/File:Leaves.png" class="image"><img alt="Leaves.png" src="/images/thumb/f/f1/Leaves.png/32px-Leaves.png" decoding="async" width="32" height="32" srcset="/images/thumb/f/f1/Leaves.png/48px-Leaves.png 1.5x, /images/thumb/f/f1/Leaves.png/64px-Leaves.png 2x" /></a>
+</td>
+<td><a class="mw-selflink selflink">Feuilles</a>
+</td>
+<td>default:leaves
+</td>
+<td>
+<p><a class="mw-selflink selflink">Feuilles</a> (95%)  
+<a href="/index.php?title=Saplings/fr&amp;action=edit&amp;redlink=1" class="new" title="Saplings/fr (page does not exist)">Plant d’arbre</a> (5%)  
+</p>
+</td></tr>
+<tr>
+<td><a href="/File:Jungle_Leaves.png" class="image"><img alt="Jungle Leaves.png" src="/images/thumb/c/c5/Jungle_Leaves.png/32px-Jungle_Leaves.png" decoding="async" width="32" height="32" srcset="/images/thumb/c/c5/Jungle_Leaves.png/48px-Jungle_Leaves.png 1.5x, /images/thumb/c/c5/Jungle_Leaves.png/64px-Jungle_Leaves.png 2x" /></a>
+</td>
+<td><a class="mw-selflink selflink">Feuilles de la jungle</a>
+</td>
+<td>default:jungleleaves
+</td>
+<td>
+<p><a class="mw-selflink selflink">Feuille de la jungle</a> (95%)  
+<a href="/index.php?title=Saplings/fr&amp;action=edit&amp;redlink=1" class="new" title="Saplings/fr (page does not exist)">Plant d’arbre de la jungle</a> (5%)  
+</p>
+</td></tr>
+<tr>
+<td><a href="/File:Pine_Needles.png" class="image"><img alt="Pine Needles.png" src="/images/thumb/2/2c/Pine_Needles.png/32px-Pine_Needles.png" decoding="async" width="32" height="32" srcset="/images/thumb/2/2c/Pine_Needles.png/48px-Pine_Needles.png 1.5x, /images/thumb/2/2c/Pine_Needles.png/64px-Pine_Needles.png 2x" /></a>
+</td>
+<td><a class="mw-selflink selflink">Aiguilles de pin</a>
+</td>
+<td>default:pine_needles
+</td>
+<td>
+<p><a class="mw-selflink selflink">Aiguilles de pin</a> (95%)  
+<a href="/index.php?title=Saplings/fr&amp;action=edit&amp;redlink=1" class="new" title="Saplings/fr (page does not exist)">Plant de pin</a> (5%)  
+</p>
+</td></tr>
+<tr>
+<td><a href="/File:Acacia_Leaves.png" class="image"><img alt="Acacia Leaves.png" src="/images/thumb/2/27/Acacia_Leaves.png/32px-Acacia_Leaves.png" decoding="async" width="32" height="32" srcset="/images/thumb/2/27/Acacia_Leaves.png/48px-Acacia_Leaves.png 1.5x, /images/thumb/2/27/Acacia_Leaves.png/64px-Acacia_Leaves.png 2x" /></a>
+</td>
+<td><a class="mw-selflink selflink">Feuilles d’acacia</a>
+</td>
+<td>default:acacia_leaves
+</td>
+<td>
+<p><a class="mw-selflink selflink">Feuilles d’acacia</a> (95%)  
+<a href="/index.php?title=Saplings/fr&amp;action=edit&amp;redlink=1" class="new" title="Saplings/fr (page does not exist)">Plant d’acacia</a> (5%)  
+</p>
+</td></tr>
+<tr>
+<td><a href="/File:Aspen_Leaves.png" class="image"><img alt="Aspen Leaves.png" src="/images/thumb/d/d3/Aspen_Leaves.png/32px-Aspen_Leaves.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/d3/Aspen_Leaves.png/48px-Aspen_Leaves.png 1.5x, /images/thumb/d/d3/Aspen_Leaves.png/64px-Aspen_Leaves.png 2x" /></a>
+</td>
+<td><a class="mw-selflink selflink">Feuilles de peuplier</a>
+</td>
+<td>default:aspen_leaves
+</td>
+<td>
+<p><a class="mw-selflink selflink">Feuilles de peuplier</a> (95%)  
+<a href="/index.php?title=Saplings/fr&amp;action=edit&amp;redlink=1" class="new" title="Saplings/fr (page does not exist)">Plant de peuplier</a> (5%)  
+</p>
+</td></tr></tbody></table>
+<p><br />
+</p>
+<h2><span class="mw-headline" id="Voir_aussi">Voir aussi</span></h2>
+<ul><li><a href="/index.php?title=Saplings/fr&amp;action=edit&amp;redlink=1" class="new" title="Saplings/fr (page does not exist)">Plants d’arbre</a></li>
+<li><a href="/Tree/fr" class="mw-redirect" title="Tree/fr">Arbre</a></li>
+<li><a href="/Jungle_Tree/fr" title="Jungle Tree/fr">Arbre de la jungle</a></li>
+<li><a href="/Pine_Tree/fr" title="Pine Tree/fr">Pin</a></li>
+<li><a href="/Acacia_Tree/fr" title="Acacia Tree/fr">Acacia</a></li>
+<li><a href="/Aspen_Tree/fr" title="Aspen Tree/fr">Peuplier</a></li>
+<li><a href="/index.php?title=Trees/fr&amp;action=edit&amp;redlink=1" class="new" title="Trees/fr (page does not exist)">Arbres</a></li>
+<li><a href="/Wooden_Planks/fr" class="mw-redirect" title="Wooden Planks/fr">Planche de bois</a></li></ul>
+<p><br /><br />
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20230709163231
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.317 seconds
+Real time usage: 0.596 seconds
+Preprocessor visited node count: 380/1000000
+Post‐expand include size: 5072/2097152 bytes
+Template argument size: 892/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 14/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.170/7 seconds
+Lua virtual size: 5.92 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  455.409      1 -total
+ 66.17%  301.342      1 Template:Languages
+ 28.39%  129.294      1 Template:Block_Data
+  4.78%   21.765     10 Template:Drop
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:1182-0!canonical and timestamp 20230709163231 and revision id 27566
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Leaves/fr&amp;oldid=27566">http://wiki.minetest.net/index.php?title=Leaves/fr&amp;oldid=27566</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li><li><a href="/Category:Leaves" title="Category:Leaves">Leaves</a></li><li><a href="/Category:Organic_blocks" title="Category:Organic blocks">Organic blocks</a></li><li><a href="/Category:Flammable" title="Category:Flammable">Flammable</a></li><li><a href="/Category:French" title="Category:French">French</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Leaves%2Ffr" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Leaves/fr" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Leaves/fr&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Leaves/fr">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Leaves/fr&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Leaves/fr&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Leaves/fr" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Leaves/fr" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Leaves/fr&amp;oldid=27566" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Leaves/fr&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 22 January 2023, at 14:54.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.317","walltime":"0.596","ppvisitednodes":{"value":380,"limit":1000000},"postexpandincludesize":{"value":5072,"limit":2097152},"templateargumentsize":{"value":892,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":14,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  455.409      1 -total"," 66.17%  301.342      1 Template:Languages"," 28.39%  129.294      1 Template:Block_Data","  4.78%   21.765     10 Template:Drop"]},"scribunto":{"limitreport-timeusage":{"value":"0.170","limit":"7"},"limitreport-virtmemusage":{"value":6209536,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709163231","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":344});});</script></body></html>

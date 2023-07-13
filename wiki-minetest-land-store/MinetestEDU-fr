@@ -1,0 +1,402 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>MinetestEDU/fr - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"61deabfaa1b1543b6feaddbe","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"MinetestEDU/fr","wgTitle":"MinetestEDU/fr","wgCurRevisionId":23772,"wgRevisionId":23772,"wgArticleId":4802,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Minetest as Educational Tool","MinetestEDU"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"MinetestEDU/fr","wgRelevantArticleId":4802,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready",
+"noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-MinetestEDU_fr rootpage-MinetestEDU skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">MinetestEDU/fr</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/MinetestEDU" title="MinetestEDU">MinetestEDU</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="floatright"><a href="/File:MinetestEDU-Logo.png" class="image"><img alt="MinetestEDU-Logo.png" src="/images/thumb/6/6d/MinetestEDU-Logo.png/300px-MinetestEDU-Logo.png" decoding="async" width="300" height="296" srcset="/images/6/6d/MinetestEDU-Logo.png 1.5x" /></a></div>
+<p>Cette page est destinée à fournir aux enseignants, aux jeunes et aux travailleurs sociaux de toutes sortes qui souhaitent utiliser Minetest dans un sens éducatif avec les enfants et les jeunes, toutes les inforations nécessaires à l'utilisation de Minetest dans un contexte pédagogique.
+</p><p>L'objectif est d'y placer toutes les informations nécessaires au débutant du minetest, à la fois pour l'enseignant et l'élève. Nous y avons ajouté les possibilités pédagogiques offertes par Minetest et des retours d'expériences concrêts, en en expliquant les forces et limites. Nous essayons ainsi de répondre à toutes les questions que vous pourriez vous poser dans un contexte scolaire&#160;: comment utiliser Minetest par vous-même et l'étendre avec des mods&#160;; Ou comment configurer un serveur sur Internet et le protéger contre les accès indésirables. En particulier pour le travail avec les enfants, on veille à ce que les enfants puissent être correctement supervisés afin de faciliter une coopération ordonnée...
+</p>
+<div style="border: 2px solid #cc0000; align:center; padding:4px;">
+<p>Les enseignants qui souhaiteraient traduire ces textes dans d'autres langues peuvent bien sûr le faire. Il est également possible de créer de nouvelles pages dans votre propre langue, qui peuvent ensuite être traduites par d'autres dans leur propre langue. Cependant, notez que dans un objectif d'universalité, toutes les informations devraient également être disponibles en anglais.
+</p>
+</div>
+<center>   <a href="/File:Uk-usflag.png" class="image"><img alt="Uk-usflag.png" src="/images/thumb/e/e4/Uk-usflag.png/30px-Uk-usflag.png" decoding="async" width="30" height="18" srcset="/images/thumb/e/e4/Uk-usflag.png/45px-Uk-usflag.png 1.5x, /images/thumb/e/e4/Uk-usflag.png/60px-Uk-usflag.png 2x" /></a> <a href="/MinetestEDU" title="MinetestEDU">English Language</a> -  <a href="/File:Germanflag.png" class="image"><img alt="Germanflag.png" src="/images/thumb/5/54/Germanflag.png/30px-Germanflag.png" decoding="async" width="30" height="18" srcset="/images/thumb/5/54/Germanflag.png/45px-Germanflag.png 1.5x, /images/thumb/5/54/Germanflag.png/60px-Germanflag.png 2x" /></a> <a href="/MinetestEDU/de" title="MinetestEDU/de">Deutsche Startseite</a> - <a href="/File:Italianflag.png" class="image"><img alt="Italianflag.png" src="/images/thumb/4/45/Italianflag.png/30px-Italianflag.png" decoding="async" width="30" height="18" srcset="/images/thumb/4/45/Italianflag.png/45px-Italianflag.png 1.5x, /images/thumb/4/45/Italianflag.png/60px-Italianflag.png 2x" /></a> <a href="/MinetestEDU/it" title="MinetestEDU/it">Pagina italiana</a></center>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Information_g.C3.A9n.C3.A9ral_sur_Minetest"><span class="tocnumber">1</span> <span class="toctext">Information général sur Minetest</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Pourquoi_Minetest_plut.C3.B4t_que_Minecraft.3F"><span class="tocnumber">1.1</span> <span class="toctext">Pourquoi Minetest plutôt que Minecraft?</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Erreurs_courantes_des_utilisateurs_de_Minecraft"><span class="tocnumber">1.2</span> <span class="toctext">Erreurs courantes des utilisateurs de Minecraft</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#T.C3.A9l.C3.A9chargez.2C_installez.2C_commencez_.C3.A0_jouer_.21"><span class="tocnumber">2</span> <span class="toctext">Téléchargez, installez, commencez à jouer&#160;!</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Installation_d.27extensions_.28ou_Mods.29"><span class="tocnumber">3</span> <span class="toctext">Installation d'extensions (ou Mods)</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Types_de_Mods"><span class="tocnumber">3.1</span> <span class="toctext">Types de Mods</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Les_mods_.28extensions.29_d.27int.C3.A9r.C3.AAts_p.C3.A9dagogiques"><span class="tocnumber">3.2</span> <span class="toctext">Les mods (extensions) d'intérêts pédagogiques</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Cr.C3.A9er_des_mods.2C_des_packs_de_textures_ou_des_skins"><span class="tocnumber">3.3</span> <span class="toctext">Créer des mods, des packs de textures ou des skins</span></a>
+<ul>
+<li class="toclevel-3 tocsection-9"><a href="#La_cr.C3.A9ation_de_mods"><span class="tocnumber">3.3.1</span> <span class="toctext">La création de mods</span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="#La_cr.C3.A9ation_de_textures"><span class="tocnumber">3.3.2</span> <span class="toctext">La création de textures</span></a></li>
+<li class="toclevel-3 tocsection-11"><a href="#La_cr.C3.A9ation_de_skins"><span class="tocnumber">3.3.3</span> <span class="toctext">La création de skins</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-12"><a href="#Cr.C3.A9ation_de_mondes_r.C3.A9alistes"><span class="tocnumber">3.4</span> <span class="toctext">Création de mondes réalistes</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Importer_un_monde_depuis_IGN.fr"><span class="tocnumber">3.5</span> <span class="toctext">Importer un monde depuis IGN.fr</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Exportation_de_ressource_3D_cr.C3.A9es_dans_le_jeu_dans_d.27autres_formats"><span class="tocnumber">3.6</span> <span class="toctext">Exportation de ressource 3D crées dans le jeu dans d'autres formats</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#Configurer_un_serveur_Minetest_accessible_sur_Internet"><span class="tocnumber">4</span> <span class="toctext">Configurer un serveur Minetest accessible sur Internet</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#Projets_p.C3.A9dagogiques_et_articles_d.C3.A9di.C3.A9s_.C3.A0_l.27.C3.A9ducation"><span class="tocnumber">5</span> <span class="toctext">Projets pédagogiques et articles dédiés à l'éducation</span></a></li>
+</ul>
+</div>
+
+<h2><span id="Information_général_sur_Minetest"></span><span class="mw-headline" id="Information_g.C3.A9n.C3.A9ral_sur_Minetest">Information général sur Minetest</span></h2>
+<p>Minetest est un moteur de jeux Voxel gratuit et libre pour presque tous les systèmes d'exploitation. Dans des mondes générés aléatoirement et constitués de blocs, le joueur peut extraire différentes ressources, les combiner les unes avec les autres et façonner le monde à son gré. Minetest est très similaire à d'autres jeux informatiques sandbox comme Infiniminer et Minecraft. Le jeu n'a pas de but ni de fin, mais l'accent est mis sur la construction de bâtiments à partir de blocs. Cependant, il est également possible de construire un monde de telle manière que certains objectifs doivent être atteints, en fonction de ce qui est souhaité. Techniquement, le moteur de minetest est particulièrement axé sur deux objectifs. Le contenu du jeu devrait être facilement modifiable et extensible par les Mods et devrait également fonctionner sur les machines anciennes et nouvelles.
+</p>
+<h3><span id="Pourquoi_Minetest_plutôt_que_Minecraft?"></span><span class="mw-headline" id="Pourquoi_Minetest_plut.C3.B4t_que_Minecraft.3F">Pourquoi Minetest plutôt que Minecraft?</span></h3>
+<p>Minecraft est plus connu (c'est d'ailleurs l'un des jeux vidéos les plus vendus au monde) et de nombreux enfants et adolescents y jouent déjà. Alors pourquoi utiliser Minetest&#160;? Voici quelques arguments&#160;: 
+</p><p><b>Les conditions d'utilisation&#160;:</b>
+</p>
+<ul><li>Obtenir un serveur sur Internet n'est pas aussi facile que pour Minecraft. Il n'y a que des fournisseurs pour cela et vous devez administrer votre propre serveur à la main, car il n'y a pas d'interfaces graphiques autorisées, comme c'est le cas avec Minecraft.</li></ul>
+<p><b>Le contexte professionnel&#160;:</b>
+</p>
+<ul><li>C'est gratuit, c'est un logiciel libre et la licence impose que cela reste ainsi.</li>
+<li>Minetest fonctionne sur la plupart des systèmes d'exploitation (Gnu/Linux, MacOS, Windows, android...)<i> à l'exception notable des systèmes iOS</i>.</li>
+<li>Vous pouvez vous connecter à l'ensemble des serveurs depuis n'importe lequel des systèmes d'exploitations clients.</li>
+<li>Vous pouvez personnaliser comme vous le souhaitez le jeu en y ajoutant des mods que vous avez trouvé, créé ou modifier.</li></ul>
+<p><b>Migrer depuis Minecraft est simple&#160;:</b>
+</p>
+<ul><li>Ce que vous faites habituellement sur Minecraft, vous pouvez le faire sur Minetest <i>(parfois même plus ou plus simplement)</i>.</li>
+<li>Le fonctionnement est presque identique à Minecraft, donc même les changeurs ne devraient pas avoir de problèmes.</li>
+<li>Il existe des outils pour convertir les mondes Minecraft en mondes Minetest.</li></ul>
+<h3><span class="mw-headline" id="Erreurs_courantes_des_utilisateurs_de_Minecraft">Erreurs courantes des utilisateurs de Minecraft</span></h3>
+<p>La plus grosse erreur que vous pouvez faire avec Minetest est de ne considérer que le système nu que vous obtenez avec l'installation. Parce que Minetest n'est (presque) rien sans les extensions (<a href="/Mods" title="Mods">Mods</a>) et <a rel="nofollow" class="external text" href="https://content.minetest.net/packages/?type=game">jeux</a>. Les principaux développeurs sont très réticents à s'en tenir aux fonctionnalités fixes. Mais étendre Minetest est beaucoup plus facile qu'avec Minecraft si vous n'êtes pas un profane absolu en informatique.
+</p><p>Sur cette page, nous avons donc rassemblé des informations pour vous aider à découvrir les améliorations importantes qui font de Minetest un remplacement à part entière de Minecraft. Il faudra sûrement un certain temps avant de publier une variante de minetest, ce qui permettra aux enseignants ayant peu d'expérience personnelle de gérer un plus grand nombre d'élèves. Le fait qu'il n'y ait pas d'entreprise derrière Minetest aura certainement un impact. C'est ainsi que les membres de la communauté développent ce qu'ils aiment ... parfois mieux que dans Minecraft ... mais ici et là, il y a un manque de détails.
+</p><p>Cependant, cette collecte d'informations vise à permettre aux enseignants techniquement intéressés d'utiliser Minetest en rassemblant toutes les informations nécessaires. Vous êtes invités à ajouter vos propres informations. Tout le monde est invité à assister.
+</p><p>Pour résumé, Minetest se distingue de son compère par&#160;:
+</p>
+<ul><li>De meilleures performances (réalisé en C++, le jeu permet ainsi un FPS en moyenne 3 fois supérieur à Minecraft, un plus faible usage de la bande passante...),</li>
+<li>La possibilité de passer par le serveur pour imposer les textures...</li>
+<li>Un fonctionnement possible sur les petites configurations (ou de vieux PCs),</li>
+<li>Une map «&#160;en volume&#160;» (de 60 000 cube de côté)</li>
+<li>Un mode multijoueur relativement simple mais fonctionnel.</li>
+<li>Gratuit, et surtout libre, l'administrateur possède une totale liberté de modification et de personnalisation&#160;!</li>
+<li>En constante évolution, le jeu progresse très vite&#160;!</li></ul>
+<h2><span id="Téléchargez,_installez,_commencez_à_jouer_!"></span><span class="mw-headline" id="T.C3.A9l.C3.A9chargez.2C_installez.2C_commencez_.C3.A0_jouer_.21">Téléchargez, installez, commencez à jouer&#160;!</span></h2>
+<p>Pour télécharger Minetest, rendez-vous sur le site officiel et suivez la procédure décrite pour votre système d'exploitation&#160;: <a rel="nofollow" class="external free" href="http://www.minetest.net/downloads/">http://www.minetest.net/downloads/</a>
+</p><p>Une fois installé, il existe deux façons d'obtenir une première impression de Minetest:
+</p>
+<ul><li>vous pouver créer un monde local et jouer en mode «&#160;singleplayer&#160;»</li>
+<li>vous pouvez visiter l'un des nombreux serveurs publics, y compris pédagogiques, via la <a rel="nofollow" class="external text" href="https://www.minetest.net/servers/">listes des serveurs publics</a>.</li></ul>
+<p>La première variante est probablement meilleure pour les débutants, car ils peuvent jouer seuls en toute tranquillité. Les serveurs montrent des exemples de variantes de minetest fortement étendues et conviennent donc particulièrement à ceux qui connaissent déjà Minecraft et ont certaines attentes.
+</p>
+<ul><li><a href="/MinetestEDU/First_use_of_a_Singleplayer_World/fr" title="MinetestEDU/First use of a Singleplayer World/fr">Instruction détaillées pour votre 1ère utilisation de Minetest en mode Singleplayer</a>
+<ul><li><a href="/index.php?title=MinetestEDU/Don%27t/fr_get_lost/fr&amp;action=edit&amp;redlink=1" class="new" title="MinetestEDU/Don&#39;t/fr get lost/fr (page does not exist)">Comment ne pas se perdre dans un monde Minetest</a></li>
+<li><a href="/index.php?title=MinetestEDU/How_to_change_the_Texture_Pack/fr&amp;action=edit&amp;redlink=1" class="new" title="MinetestEDU/How to change the Texture Pack/fr (page does not exist)">Utilser votre pack de textures personnel quand vous vous connecter à un serveur</a></li></ul></li>
+<li><a href="/MinetestEDU/About_Minetest-Server/fr" title="MinetestEDU/About Minetest-Server/fr">Informations générales sur les serveurs Minetest</a>
+<ul><li><a href="/index.php?title=MinetestEDU/Instructions_to_use_a_server/fr&amp;action=edit&amp;redlink=1" class="new" title="MinetestEDU/Instructions to use a server/fr (page does not exist)">Tutoriel simple pour aider les élèves à se connecter à un serveur</a></li>
+<li><a href="/index.php?title=MinetestEDU/Privileges_on_Server/fr&amp;action=edit&amp;redlink=1" class="new" title="MinetestEDU/Privileges on Server/fr (page does not exist)">Ce qui est possible, et ce qui ne l'ai pas</a></li></ul></li>
+<li><a href="/index.php?title=MinetestEDU/How_to_make_Minetest_faster/fr&amp;action=edit&amp;redlink=1" class="new" title="MinetestEDU/How to make Minetest faster/fr (page does not exist)">Informations pour optimiser votre serveur Minetest</a></li></ul>
+<p>Minetest offre la possibilité de créer simplement un serveur local qui peut être utilisé avec d'autres utilisateurs qui sont dans le même LAN / WLAN. Ceci est très utile pour les écoles ou si vous en rencontrez d'autres à l'étranger.
+</p>
+<ul><li><a rel="nofollow" class="external text" href="https://www.svtux.fr/svtux/svtuxboxproject/DOCS/Fiche-memo-minetest-serveur.pdf">Comment créer un serveur local en quelques clics</a></li></ul>
+<h2><span id="Installation_d'extensions_(ou_Mods)"></span><span class="mw-headline" id="Installation_d.27extensions_.28ou_Mods.29">Installation d'extensions (ou Mods)</span></h2>
+<p>Tout ce que Minetest ne semble pas offrir par rapport à Minecraft peut être inséré dans Minetest via une extension ou une modification, appelée Mod. Cela semble gênant, mais c'est tellement facile que ce n'est plus un problème. Il vous suffit de trouver le bon mod.
+</p>
+<ul><li><a href="/Editing_MinetestEDU/Mod_installation_on_you_computer/fr" title="Editing MinetestEDU/Mod installation on you computer/fr">Installer un mod dans le jeu Singleplayer</a></li>
+<li>Installer un mod sur le serveur <i>(Voir la section «&#160;configurer un serveur&#160;»)</i></li></ul>
+<h3><span class="mw-headline" id="Types_de_Mods">Types de Mods</span></h3>
+<p>Le nombre exact de mods n'est pas connu. Il existe une [<a rel="nofollow" class="external text" href="https://content.minetest.net/%7Cliste">de plus de 700 mods</a>], mais elle n'est certainement pas complète, car n'importe qui peut créer un mod et le publier n'importe où. L'effet des mods peut être classé comme suit:
+</p>
+<ul><li>L <b>interface utilisateur</b> peut varier légèrement selon les systèmes d'exploitation utilisés".</li>
+<li>Les <b>blocs</b> utilisables pour construire.</li>
+<li>Les <b>materiaux</b> <i>(rochers, mineraux, etc.)</i> conçu pour durer toute la vie du serveur, mais utilisable aussi comme blocs.</li>
+<li>Quand le mond eest créé, les plantes et <b>biomes</b> <i>(écosystème local avec ses spécificités biologiques et physico-chimiques)</i> sont créés. Les matérieux ainsi mis à disposition sont alors utilisables.</li>
+<li>Les <b>outils</b> pour creuser, hacher, couper... et se battre.</li>
+<li>Les <b>Mobs</b> <i>(créatures auto-agissantes, sous forme humaine, animale ou monstre)</i> qui peuvent interagir avec le joueur.</li>
+<li>Certains mods peuvent modifier totalement l'environnement <i>(e.g. par exemple avec le jeu «&#160;jouer sur la planète Mars)</i></li>
+<li>Des construction pré-construites peuvent être ajoutées par l'enseignant ou générées automatiquement par le jeu <i>(villages avec ou sans habitants, mines abandonnée, pyramides, ...)</i></li></ul>
+<p>Beaucoup de Mods offrent des combinaisons de possibilités et d'aller plus loin.
+</p>
+<h3><span id="Les_mods_(extensions)_d'intérêts_pédagogiques"></span><span class="mw-headline" id="Les_mods_.28extensions.29_d.27int.C3.A9r.C3.AAts_p.C3.A9dagogiques">Les mods (extensions) d'intérêts pédagogiques</span></h3>
+<p>Minetest propose beaucoup de mods, mais il n'y a pas de bonne vue d'ensemble montrant les mods les plus importants et les plus importants ainsi que le plus récent. L'aperçu suivant trie certains mods testés selon leur signification et fournit des informations sur le contenu et comment les utiliser.
+</p>
+<table style="margin: 0 auto 1em; text-align: justify; border-collapse: collapse; border-width: 1px; border-style: dashed; width: 100%; clear: both; border-color:#48d; background:#fbfcff;">
+<tbody><tr>
+<td style="border: none; padding: 2px 0 2px 0.9em; text-align: center;">
+ <img alt="Mbox information.png" src="/images/thumb/f/fc/Mbox_information.png/25px-Mbox_information.png" decoding="async" width="25" height="25" srcset="/images/thumb/f/fc/Mbox_information.png/38px-Mbox_information.png 1.5x, /images/thumb/f/fc/Mbox_information.png/50px-Mbox_information.png 2x" /></td>
+<td style="border: none; padding: 0.25em 0.9em; width: 100%;"><b>IMPORTANT</b> Si vous souhaitez configurer un serveur, vous devez avoir en tête qu'il est toujours préférable de n'installer qu'un minimum de mods afin de limiter les risques de problèmes techniques. Certaines des fonctionnalités décrites peuvent même demander quelques ajustement de la configuration du serveur. Par précaution, il convient de toujours tester un serveur d'abord localement sur une machine de test avant de passer en production.</td>
+</tr></tbody></table> 
+<ul><li><a href="/MinetestEDU/Mod-Overview/fr" title="MinetestEDU/Mod-Overview/fr">Liste des mods d'intérêts pédagogiques</a></li></ul>
+<h3><span id="Créer_des_mods,_des_packs_de_textures_ou_des_skins"></span><span class="mw-headline" id="Cr.C3.A9er_des_mods.2C_des_packs_de_textures_ou_des_skins">Créer des mods, des packs de textures ou des skins</span></h3>
+<h4><span id="La_création_de_mods"></span><span class="mw-headline" id="La_cr.C3.A9ation_de_mods">La création de mods</span></h4>
+<p>Voici un incroyable document (en anglais seulement pour le moment) réalisé par Rubenwardy sur la <b>création de mods</b> (extensions)&#160;: <a rel="nofollow" class="external free" href="https://rubenwardy.com/minetest_modding_book/en/index.html">https://rubenwardy.com/minetest_modding_book/en/index.html</a>
+</p>
+<h4><span id="La_création_de_textures"></span><span class="mw-headline" id="La_cr.C3.A9ation_de_textures">La création de textures</span></h4>
+<p>Dans la même documentation que ci-dessus, vous trouverez également comment créer des textures&#160;: <a rel="nofollow" class="external free" href="https://rubenwardy.com/minetest_modding_book/en/items/creating_textures.html">https://rubenwardy.com/minetest_modding_book/en/items/creating_textures.html</a>
+</p>
+<h4><span id="La_création_de_skins"></span><span class="mw-headline" id="La_cr.C3.A9ation_de_skins">La création de skins</span></h4>
+<p>... bientôt disponible...
+</p>
+<h3><span id="Création_de_mondes_réalistes"></span><span class="mw-headline" id="Cr.C3.A9ation_de_mondes_r.C3.A9alistes">Création de mondes réalistes</span></h3>
+<p>La création de mondes réaliste est possible en associant un générateur de "map" aux mods qui lui conviennent. Plus d'informations disponibles ici&#160;: <a href="/MinetestEDU/Mod-Overview/fr" title="MinetestEDU/Mod-Overview/fr">créer des mondes réalistes.</a>
+</p>
+<h3><span class="mw-headline" id="Importer_un_monde_depuis_IGN.fr">Importer un monde depuis IGN.fr</span></h3>
+<p>Il est possible d'utiliser le service d'IGN Minecraft à la carte&#160;: <a rel="nofollow" class="external free" href="https://minecraft.ign.fr">https://minecraft.ign.fr</a>
+</p><p>Pour cela, au moment du choix il faut choisir la plateforme puis dans format on peut choisir Minetest.
+Cela permet d'avoir une partie d'un quartier d'une ville par exemple.
+</p>
+<pre> Remarque&#160;: n'oubliez pas d'aller dans options avancées et de choisir l'échelle 1,5 cubes pour 1 mètre IRL pour avoir plus de détails&#160;!
+</pre>
+<h3><span id="Exportation_de_ressource_3D_crées_dans_le_jeu_dans_d'autres_formats"></span><span class="mw-headline" id="Exportation_de_ressource_3D_cr.C3.A9es_dans_le_jeu_dans_d.27autres_formats">Exportation de ressource 3D crées dans le jeu dans d'autres formats</span></h3>
+<p>Il est également possible d'exporter ses productions dans le jeux dans différents formats. <a href="/MinetestEDU/Mod-Overview/fr#Exportation_de_ressource_3D_cr.C3.A9es_dans_le_jeu_dans_d.27autres_formats" title="MinetestEDU/Mod-Overview/fr">Plus d'informations sont disponibles ici</a>.
+</p>
+<h2><span class="mw-headline" id="Configurer_un_serveur_Minetest_accessible_sur_Internet">Configurer un serveur Minetest accessible sur Internet</span></h2>
+<p>Si vous souhaitez pouvoir travailler avec vos élèves à distance, il peut être pertinent de mettre en place un serveur Minetest accessible sur Internet.
+</p><p>Jusqu'à présent, il n'y a pas encore de bons fournisseurs où vous pouvez rapidement commander et configurer un serveur de minetest. Une des raisons à cela est que l'installation de mods est généralement nécessaire et que vous devez accéder à l'ordinateur distant. Alors que Minecraft a maintenant des interfaces utilisateur graphiques, Minetest exige que tout soit fait à partir de la console.
+</p>
+<ul><li><a href="/MinetestEDU/Server_requirements/fr" title="MinetestEDU/Server requirements/fr">De quel type de serveur ai-je besoin&#160;?</a></li>
+<li><a href="/MinetestEDU/Installation_of_Minetest_on_a_Linux_server/fr" title="MinetestEDU/Installation of Minetest on a Linux server/fr">Installation de Minetest sur un serveur Linux</a></li>
+<li><a href="/MinetestEDU/Installation_of_Mods_for_the_server/fr" title="MinetestEDU/Installation of Mods for the server/fr">Installation d'un mod sur le server</a></li>
+<li><a href="/MinetestEDU/Copy_a_singleplayer_world_to_the_internet/fr" title="MinetestEDU/Copy a singleplayer world to the internet/fr">Copier un monde singleplayer sur un serveur se trouvant sur Internet</a></li></ul>
+<p>Si vous avez correctement installé le serveur Minetest et que vous pouvez également y accéder avec le client Minetest local, vous devez définir certains paramètres qui visent principalement à protéger le serveur contre les accès non autorisés. Cela peut être fait non seulement par des mods mais aussi par des paramètres dans un fichier spécial.
+</p>
+<ul><li><a href="/MinetestEDU/Informations_about_%27%27minetest.conf%27%27" title="MinetestEDU/Informations about &#39;&#39;minetest.conf&#39;&#39;">Informations sur le fichier de configuration du serveur <i>minetest.conf</i></a></li>
+<li><a href="/MinetestEDU/Publish_the_Server" title="MinetestEDU/Publish the Server">Publier le serveur sur une liste de serveurs publics</a></li>
+<li><a href="/MinetestEDU/The_file_%27%27auth.txt%27%27" title="MinetestEDU/The file &#39;&#39;auth.txt&#39;&#39;">About the file <i>auth.txt</i></a></li>
+<li><a href="/MinetestEDU/Define_the_Texture_Pack_on_a_server" title="MinetestEDU/Define the Texture Pack on a server">Definir un pack de Textures sur le serveur</a></li></ul>
+<p>Si le serveur est correctement configuré, il peut démarrer. Si vous partagez l'adresse du serveur ou pointez sur le serveur dans la liste des serveurs publics, d'autres utilisateurs viendront sur le serveur et il peut donc arriver que vous deviez intervenir en tant qu'administrateur. Voici donc quelques commandes et options importantes que vous avez en tant qu'administrateur.
+</p>
+<ul><li><a href="/Server_commands/fr" title="Server commands/fr">Commandes serveur de l'administrateur</a></li>
+<li><a href="/MinetestEDU/Protect_areas_on_the_server" title="MinetestEDU/Protect areas on the server">Protéger une zone du monde</a></li>
+<li><a href="/index.php?title=MinetestEDU/Automatic_transports_on_the_map&amp;action=edit&amp;redlink=1" class="new" title="MinetestEDU/Automatic transports on the map (page does not exist)">Enable automatic transports on the map</a></li></ul>
+<p>Nous espérons que le serveur est maintenant parfaitement configuré et que tous les joueurs et l'administrateur sont satisfaits. Il y a sûrement toujours quelque chose à faire, beaucoup de ces choses peuvent être faites lorsque vous êtes vous-même sur le serveur de minetest. Mais certaines choses ne peuvent être faites que sur la console et si vous les automatisez, vous pouvez vous épargner beaucoup de travail.
+</p>
+<ul><li><a href="/index.php?title=MinetestEDU/Automatic_Backup&amp;action=edit&amp;redlink=1" class="new" title="MinetestEDU/Automatic Backup (page does not exist)">Automatic Backup</a></li>
+<li><a href="/MinetestEDU/Installation_of_Minetest_on_a_Linux_server/fr" title="MinetestEDU/Installation of Minetest on a Linux server/fr">Redémarrer le serveur automatiquement après un crash</a></li>
+<li><a href="/index.php?title=MinetestEDU/Startscripts_for_different_worlds&amp;action=edit&amp;redlink=1" class="new" title="MinetestEDU/Startscripts for different worlds (page does not exist)">Startscripts to run different worlds with one installation</a></li>
+<li><a href="/MinetestEDU/Installation_of_Minetest_on_a_Linux_server/fr" title="MinetestEDU/Installation of Minetest on a Linux server/fr">Démarrer plusieurs monde en parallème sur le même serveur</a></li></ul>
+<p>Les blocs de commandes sont des blocs spéciaux qui peuvent être utilisés pour exécuter des commandes de texte qui sont autrement entrées manuellement. Avec lui, vous pouvez automatiser beaucoup et soulager l'administrateur du travail ou faire beaucoup d'autres choses ... selon vos besoins.
+</p>
+<ul><li><a href="/index.php?title=MinetestEDU/Basic_Informations_about_command_blocks&amp;action=edit&amp;redlink=1" class="new" title="MinetestEDU/Basic Informations about command blocks (page does not exist)">Basic Informations about command blocks and how to use them</a></li>
+<li>...</li></ul>
+<h2><span id="Projets_pédagogiques_et_articles_dédiés_à_l'éducation"></span><span class="mw-headline" id="Projets_p.C3.A9dagogiques_et_articles_d.C3.A9di.C3.A9s_.C3.A0_l.27.C3.A9ducation">Projets pédagogiques et articles dédiés à l'éducation</span></h2>
+<p>Si vous recherchez des articles, ressources, retours d'expérience... autour des usages pédagogiques de Minetest, c'est par ici&#160;: <a href="/MinetestEDU/projets-p%C3%A9dagogiques" title="MinetestEDU/projets-pédagogiques">Projets pédagogiques et articles dédiés à l'éducation</a>
+</p>
+<ul><li><a href="/MinetestEDU/Map_creation_in_Minetest/fr" title="MinetestEDU/Map creation in Minetest/fr">Créer un monde spécial, adapté à votre cours</a></li>
+<li><a href="/index.php?title=MinetestEDU/Install_the_tutorial_game/fr&amp;action=edit&amp;redlink=1" class="new" title="MinetestEDU/Install the tutorial game/fr (page does not exist)">Comment apprendre à travailler en classe avec Minetest</a></li></ul>
+<!-- 
+NewPP limit report
+Cached time: 20230709083331
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.141 seconds
+Real time usage: 0.168 seconds
+Preprocessor visited node count: 140/1000000
+Post‐expand include size: 1556/2097152 bytes
+Template argument size: 844/2097152 bytes
+Highest expansion depth: 6/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   27.362      1 -total
+ 57.07%   15.616      1 Template:Mbox
+ 40.52%   11.088      1 Template:Redbox
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:4802-0!canonical and timestamp 20230709083331 and revision id 23772
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=MinetestEDU/fr&amp;oldid=23772">http://wiki.minetest.net/index.php?title=MinetestEDU/fr&amp;oldid=23772</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Minetest_as_Educational_Tool" title="Category:Minetest as Educational Tool">Minetest as Educational Tool</a></li><li><a href="/Category:MinetestEDU" title="Category:MinetestEDU">MinetestEDU</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=MinetestEDU%2Ffr" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/MinetestEDU/fr" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:MinetestEDU/fr&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/MinetestEDU/fr">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=MinetestEDU/fr&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=MinetestEDU/fr&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/MinetestEDU/fr" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/MinetestEDU/fr" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=MinetestEDU/fr&amp;oldid=23772" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=MinetestEDU/fr&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 9 January 2020, at 15:13.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.141","walltime":"0.168","ppvisitednodes":{"value":140,"limit":1000000},"postexpandincludesize":{"value":1556,"limit":2097152},"templateargumentsize":{"value":844,"limit":2097152},"expansiondepth":{"value":6,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%   27.362      1 -total"," 57.07%   15.616      1 Template:Mbox"," 40.52%   11.088      1 Template:Redbox"]},"cachereport":{"timestamp":"20230709083331","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":616});});</script></body></html>

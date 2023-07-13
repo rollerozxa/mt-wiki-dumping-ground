@@ -1,0 +1,868 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Crafting/es - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"60a85a0dc57a2572e0b17d1b","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Crafting/es","wgTitle":"Crafting/es","wgCurRevisionId":27252,"wgRevisionId":27252,"wgArticleId":1371,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages","Gameplay","Spanish"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Crafting/es","wgRelevantArticleId":1371,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":
+"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","jquery.tablesorter.styles":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=jquery.tablesorter.styles%7Cmediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Crafting_es rootpage-Crafting skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Crafting/es</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/Crafting" title="Crafting">Crafting</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> Idioma:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><a href="/Crafting" title="Crafting">English</a>&#160;• <bdi lang="de"><a href="/Crafting/de" title="Crafting/de">Deutsch</a></bdi><b>&#160;• <bdi lang="es"><a class="mw-selflink selflink">español</a></bdi></b>&#160;• <bdi lang="fr"><a href="/Crafting/fr" title="Crafting/fr">français</a></bdi>&#160;• <bdi lang="hu"><a href="/Crafting/hu" title="Crafting/hu">magyar</a></bdi>&#160;• <bdi lang="it"><a href="/Crafting/it" title="Crafting/it">italiano</a></bdi>&#160;• <bdi lang="ms"><a href="/Crafting/ms" title="Crafting/ms">Bahasa Melayu</a></bdi>&#160;• <bdi lang="ru"><a href="/Crafting/ru" title="Crafting/ru">русский</a></bdi></td>
+</tr></tbody></table>
+<p><b>Craftear</b> es la forma de hacer <a href="/Blocks" class="mw-redirect" title="Blocks">bloques</a> y <a href="/Items" title="Items">objetos</a> en Minetest. Para craftear algo, el jugador debe mover los objetos a la cuadricula de crafteo y luego organizar los elementos en un patrón definido.
+</p><p>Muchos otros jugadores han creado otras combinaciones y crafteos, disponibles gracias a los <a href="/Mods" title="Mods">mods</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Crafteos_B.C3.A1sicos"><span class="tocnumber">1</span> <span class="toctext">Crafteos Básicos</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Cuadricula_de_crafteo_y_caja_de_producci.C3.B3n"><span class="tocnumber">1.1</span> <span class="toctext">Cuadricula de crafteo y caja de producción</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Colocaci.C3.B3n_de_objetos_y_caja_de_producci.C3.B3n"><span class="tocnumber">1.2</span> <span class="toctext">Colocación de objetos y caja de producción</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Usando_los_objetos"><span class="tocnumber">1.3</span> <span class="toctext">Usando los objetos</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Formas_de_las_.27recetas.27"><span class="tocnumber">1.4</span> <span class="toctext">Formas de las 'recetas'</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Actividades_parecidas_al_crafteo"><span class="tocnumber">2</span> <span class="toctext">Actividades parecidas al crafteo</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Ejemplo_de_recetas"><span class="tocnumber">3</span> <span class="toctext">Ejemplo de recetas</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Recetas_sin_forma"><span class="tocnumber">3.1</span> <span class="toctext">Recetas sin forma</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Recetas_de_reparaci.C3.B3n"><span class="tocnumber">3.2</span> <span class="toctext">Recetas de reparación</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Recetas_con_forma"><span class="tocnumber">3.3</span> <span class="toctext">Recetas con forma</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Recetas_de_crafteo_usando_grupos"><span class="tocnumber">3.4</span> <span class="toctext">Recetas de crafteo usando grupos</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Primeros_pasos"><span class="tocnumber">4</span> <span class="toctext">Primeros pasos</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Vea_tambien"><span class="tocnumber">5</span> <span class="toctext">Vea tambien</span></a></li>
+</ul>
+</div>
+
+<h2><span id="Crafteos_Básicos"></span><span class="mw-headline" id="Crafteos_B.C3.A1sicos">Crafteos Básicos</span></h2>
+<p><i>En esta sección se explican los crafteos básicos de una forma general. Las reglas explicadas aquí son válidas para casi todos los mods.</i>
+</p>
+<h3><span id="Cuadricula_de_crafteo_y_caja_de_producción"></span><span class="mw-headline" id="Cuadricula_de_crafteo_y_caja_de_producci.C3.B3n">Cuadricula de crafteo y caja de producción</span></h3>
+<p>Para poder craftear cualquier cosa, necesitas la cuadrícula de crafteo. Esta consiste en un determinado número de huecos del <a href="/Inventory" title="Inventory">inventario</a>, a los que puedes añadir o quitar <a href="/Items" title="Items">objetos</a>, como en el inventario. Los objetos tienen que ser colocados de una forma especifica en la cuadricula (mirar 'Entrada y caja de producción'). 
+Al lado de la cuadrícula de crafteo, se encuentra la caja de producción, en la cual aparece el objeto crafteado, siempre que haya colocado de manera correcta en la cuadricula de crafteo los objetos o bloques. Haz click con el botón izquierdo del ratón sobre la imágen que aparece en la caja de producción y se realizará el crafteo una vez, hazlo con la rueda del ratón y se realizará 10 veces (aunque siempre dependerá de la cantidad de objetos o materiales en la cuadrícula de crafteo). Generalmente los crafteos no toman tiempo, y puede usar inmediatamente el objeto producido.
+</p><p>La cuadrícula de crafteo, generalmente funciona como el inventario. Así que, puedes usar la cuadricula de crafteo que encuentras en tu <a href="/Inventory_menu" title="Inventory menu">menú de inventario</a>, como una extensión del inventario.
+</p><p>Sin embargo, no puedes colocar objetos en la caja de producción. De ésta, solo puedes coger objetos.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/File:Crafting_grid.png" class="image"><img alt="" src="/images/thumb/b/b9/Crafting_grid.png/300px-Crafting_grid.png" decoding="async" width="300" height="166" class="thumbimage" srcset="/images/thumb/b/b9/Crafting_grid.png/450px-Crafting_grid.png 1.5x, /images/b/b9/Crafting_grid.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Crafting_grid.png" class="internal" title="Enlarge"></a></div>Cuadricula de crafteo 3×3 (izquierda). Caja de producción (derecha).</div></div></div>
+<p>Minetest, solo tiene una cuadrícula de crafteo, que cuenta con un tamaño de 3x3 cuadrados y, a la que se puede acceder desde el inventario.
+</p><p>Los mods y <a href="/Games" title="Games">subjuegos</a> de <a href="/index.php?title=Vanilla_Minetest_game&amp;action=edit&amp;redlink=1" class="new" title="Vanilla Minetest game (page does not exist)">Minetest Vainilla</a> quizá añadan varias cuadrículas de crafteo en varios lugares, no solo el inventario.
+</p>
+<h3><span id="Colocación_de_objetos_y_caja_de_producción"></span><span class="mw-headline" id="Colocaci.C3.B3n_de_objetos_y_caja_de_producci.C3.B3n">Colocación de objetos y caja de producción</span></h3>
+<p>Una 'Receta' de Crafteo consiste en al menos un objeto de entrada y exactamente un objeto de salida. Los objetos de entrada pueden ser objetos concretos (por ejemplo <a href="/Wooden_Planks" class="mw-redirect" title="Wooden Planks">tablas de madera</a>), o un objeto que sea miembro de un <a href="/Groups" title="Groups">grupo</a>(por ejemplo el grupo <a href="/Category:Wood" title="Category:Wood">madera</a>, grupo al que pertenecen las <a href="/Wooden_Planks" class="mw-redirect" title="Wooden Planks">tablas de madera</a> y las <a href="/Junglewood_Planks" class="mw-redirect" title="Junglewood Planks">tablas de madera de selva</a>). Si una 'Receta' consta de varios huecos que requieren materiales del mismo grupo, no significa que que tenga que colocar el mismo objeto en todos los huecos. Vea <a href="#Recetas_de_crafteo_usando_grupos">#Recetas de crafteo usando grupos</a> para un ejemplo detallado.
+</p><p>El juego de <a href="/index.php?title=Vanilla_Minetest_game&amp;action=edit&amp;redlink=1" class="new" title="Vanilla Minetest game (page does not exist)">Minetest Vainilla</a>, otros <a href="/Games" title="Games">subjuegos</a> y muchos mods hacen extensible el sistema de grupos, entendiendo que esto es crucial para craftear de manera eficiente.
+</p>
+<h3><span class="mw-headline" id="Usando_los_objetos">Usando los objetos</span></h3>
+<p>Normalmente, cuando crafteas un objeto, se elimina uno de cada hueco de la cuadrícula de crafteo.
+</p><p>En una receta de crafteo un objeto puede ocupar el lugar de otro. Actualmente se usa raramente en los mods. En el juego Minetest Vainilla, por ejemplo usando un <a href="/Bucket" title="Bucket">Cubo de lava</a> como <a href="/Smelting" class="mw-redirect" title="Smelting">combustible para el horno</a>, la lava desaparece y queda un <a href="/Bucket" title="Bucket">Cubo vacío</a> en el hueco del combustible.
+</p>
+<h3><span id="Formas_de_las_'recetas'"></span><span class="mw-headline" id="Formas_de_las_.27recetas.27">Formas de las 'recetas'</span></h3>
+<p>Hay dos tipos de 'recetas' de crafteo, las que definen la forma del objeto que se obtiene y las que no.
+</p><p>En las 'recetas' que definen la forma del objeto, debemos seguir un patrón exacto. Esta wiki contienen los patrones del juego Minetest Vainilla. Si una 'receta' de crafteo toma un pequeño rectácngulo de la cuadrícula de crafteo, puede colocarlo en cualquier parte de la cuadrícula. Por ejemplo, si necesita un cuadrado de 2x2 en la cuadrícula de crafteo de 3x3, puede colocarlo en cualquiera de las esquinas (derecha o izquierda, superior o inferior). Si una receta de crafteo utiliza más espacio que el disponible en la cuadricula de crafteo, usted no puede crear el objeto en la misma. Necesita uno más grande.
+</p><p>Para una 'receta' que no define la forma del objeto, puede colocar los materiales en <i>cualquier</i> hueco disponible de la cuadrícula de crafteo. Sin embargo, no funciona con los materiales apilados. 
+</p><p>Muchas 'recetas' de crafteo en el juego Minetest Vainilla, definen la forma del objeto. Si no esta indicado lo contrario, se asume que la 'receta' define la forma del objeto. Las 'recetas' que no definen la forma del objeto, en el juego Minetest Vainilla, producen <a href="/Bronze_Ingot" title="Bronze Ingot">lingotes de bronce</a>, <a href="/Wool" title="Wool">lana</a>, <a href="/Flour" title="Flour">harina</a> y <a href="/Dye" title="Dye">tinta</a>, respectivamente.
+</p>
+<h2><span class="mw-headline" id="Actividades_parecidas_al_crafteo">Actividades parecidas al crafteo</span></h2>
+<p><a href="/Smelting" class="mw-redirect" title="Smelting">Fundición</a> y <a href="/Repairing" title="Repairing">reparación</a> son formas diferentes de crafteo, la mayoría de las reglas que se describen aquí son aplicables. Para la fundición, la cuadrícula de crafteo es de 1x1. Una receta de reparación siempre necesita de dos objetos del mismo tipo.
+</p>
+<h2><span class="mw-headline" id="Ejemplo_de_recetas">Ejemplo de recetas</span></h2>
+<p>Esta sección contiene amplios ejemplos de los tipos de crafteos básicos. Los ejemplos aquí son tomados del juego Minetest Vainilla.
+</p>
+<h3><span class="mw-headline" id="Recetas_sin_forma">Recetas sin forma</span></h3>
+<p>Los <a href="/Bronze_Ingot" title="Bronze Ingot">lingotes de bronce</a> son un ejemplo de receta que no define la forma del objeto. Necesitas un <a href="/Steel_Ingot" title="Steel Ingot">lingote de acero</a> y un <a href="/Copper_Ingot" title="Copper Ingot">lingote de cobre</a>. Usted puede poner estos en cualquier lugar de la cuadricula de crafteo, por lo que las combinaciones siguientes son todas válidas:
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th scope="row" width="50px">Nombre
+</th>
+<th scope="row" width="140px">Ingredientes
+</th>
+<th scope="row" width="140px">Entrada/Salida
+</th></tr>
+<tr>
+<th scope="row"><a href="/Bronze_Ingot" title="Bronze Ingot">Lingote de bronce</a>
+</th>
+<td><a href="/Steel_Ingot" title="Steel Ingot">Lingote de acero</a> + <a href="/Copper_ingot" class="mw-redirect" title="Copper ingot">Lingote de cobre</a>
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Steel_Ingot" title="Steel Ingot"><img alt="Steel Ingot.png" src="/images/thumb/b/bd/Steel_Ingot.png/32px-Steel_Ingot.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/bd/Steel_Ingot.png/48px-Steel_Ingot.png 1.5x, /images/thumb/b/bd/Steel_Ingot.png/64px-Steel_Ingot.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Copper_Ingot" title="Copper Ingot"><img alt="Copper Ingot.png" src="/images/thumb/0/00/Copper_Ingot.png/32px-Copper_Ingot.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/00/Copper_Ingot.png/48px-Copper_Ingot.png 1.5x, /images/thumb/0/00/Copper_Ingot.png/64px-Copper_Ingot.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/Bronze_Ingot" title="Bronze Ingot"><img alt="Bronze Ingot.png" src="/images/thumb/1/16/Bronze_Ingot.png/32px-Bronze_Ingot.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/16/Bronze_Ingot.png/48px-Bronze_Ingot.png 1.5x, /images/thumb/1/16/Bronze_Ingot.png/64px-Bronze_Ingot.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black"></span></div></div>
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<th scope="row"><a href="/Bronze_Ingot" title="Bronze Ingot">Lingote de bronce</a>
+</th>
+<td><a href="/Steel_Ingot" title="Steel Ingot">Lingote de acero</a> + <a href="/Copper_ingot" class="mw-redirect" title="Copper ingot">Lingote de cobre</a>
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Steel_Ingot" title="Steel Ingot"><img alt="Steel Ingot.png" src="/images/thumb/b/bd/Steel_Ingot.png/32px-Steel_Ingot.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/bd/Steel_Ingot.png/48px-Steel_Ingot.png 1.5x, /images/thumb/b/bd/Steel_Ingot.png/64px-Steel_Ingot.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Copper_Ingot" title="Copper Ingot"><img alt="Copper Ingot.png" src="/images/thumb/0/00/Copper_Ingot.png/32px-Copper_Ingot.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/00/Copper_Ingot.png/48px-Copper_Ingot.png 1.5x, /images/thumb/0/00/Copper_Ingot.png/64px-Copper_Ingot.png 2x" /></a></div></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/Bronze_Ingot" title="Bronze Ingot"><img alt="Bronze Ingot.png" src="/images/thumb/1/16/Bronze_Ingot.png/32px-Bronze_Ingot.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/16/Bronze_Ingot.png/48px-Bronze_Ingot.png 1.5x, /images/thumb/1/16/Bronze_Ingot.png/64px-Bronze_Ingot.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black"></span></div></div>
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<th scope="row"><a href="/Bronze_Ingot" title="Bronze Ingot">Lingote de bronce</a>
+</th>
+<td><a href="/Steel_Ingot" title="Steel Ingot">Lingote de acero</a> + <a href="/Copper_ingot" class="mw-redirect" title="Copper ingot">Lingote de cobre</a>
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Steel_Ingot" title="Steel Ingot"><img alt="Steel Ingot.png" src="/images/thumb/b/bd/Steel_Ingot.png/32px-Steel_Ingot.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/bd/Steel_Ingot.png/48px-Steel_Ingot.png 1.5x, /images/thumb/b/bd/Steel_Ingot.png/64px-Steel_Ingot.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Copper_Ingot" title="Copper Ingot"><img alt="Copper Ingot.png" src="/images/thumb/0/00/Copper_Ingot.png/32px-Copper_Ingot.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/00/Copper_Ingot.png/48px-Copper_Ingot.png 1.5x, /images/thumb/0/00/Copper_Ingot.png/64px-Copper_Ingot.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/Bronze_Ingot" title="Bronze Ingot"><img alt="Bronze Ingot.png" src="/images/thumb/1/16/Bronze_Ingot.png/32px-Bronze_Ingot.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/16/Bronze_Ingot.png/48px-Bronze_Ingot.png 1.5x, /images/thumb/1/16/Bronze_Ingot.png/64px-Bronze_Ingot.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black"></span></div></div>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p>Etcétera.
+</p><p>Para mantener las paginas de la wiki cortas y simples, en la pagina actual solo se muestra uno de los posibles ejemplos.
+</p>
+<h3><span id="Recetas_de_reparación"></span><span class="mw-headline" id="Recetas_de_reparaci.C3.B3n">Recetas de reparación</span></h3>
+<p>Su usted tiene dos palas de acero desgastadas, usted puede reparar una colocando ambas en algun lugar de la cuadricula de crafteo:
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th scope="row" width="50px">Nombre
+</th>
+<th scope="col" width="140px">Ingredientes
+</th>
+<th scope="col">Input &#8594; Salida
+</th></tr>
+<tr>
+<th scope="row"><a href="/Shovel" title="Shovel">Pala</a> de acero reparada
+</th>
+<td align="center"><a href="/Shovel" title="Shovel">Palas</a> de acero desgastadas
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Steel_Shovel_slightly_worn_off" title="Steel Shovel slightly worn off"><img alt="Steel Shovel slightly worn off.png" src="/images/thumb/d/d1/Steel_Shovel_slightly_worn_off.png/32px-Steel_Shovel_slightly_worn_off.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/d1/Steel_Shovel_slightly_worn_off.png/48px-Steel_Shovel_slightly_worn_off.png 1.5x, /images/thumb/d/d1/Steel_Shovel_slightly_worn_off.png/64px-Steel_Shovel_slightly_worn_off.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Steel_Shovel_heavily_worn_off" title="Steel Shovel heavily worn off"><img alt="Steel Shovel heavily worn off.png" src="/images/thumb/4/4d/Steel_Shovel_heavily_worn_off.png/32px-Steel_Shovel_heavily_worn_off.png" decoding="async" width="32" height="32" srcset="/images/thumb/4/4d/Steel_Shovel_heavily_worn_off.png/48px-Steel_Shovel_heavily_worn_off.png 1.5x, /images/thumb/4/4d/Steel_Shovel_heavily_worn_off.png/64px-Steel_Shovel_heavily_worn_off.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/Steel_Shovel_repaired" title="Steel Shovel repaired"><img alt="Steel Shovel repaired.png" src="/images/thumb/1/17/Steel_Shovel_repaired.png/32px-Steel_Shovel_repaired.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/17/Steel_Shovel_repaired.png/48px-Steel_Shovel_repaired.png 1.5x, /images/thumb/1/17/Steel_Shovel_repaired.png/64px-Steel_Shovel_repaired.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black"></span></div></div>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p>Tenga en cuenta que las recetas de reparación también son sin forma. Las recetas de reparación nunca se muestran explícitamente en la wiki (salvo en este ejemplo).
+</p>
+<h3><span class="mw-headline" id="Recetas_con_forma">Recetas con forma</span></h3>
+<p>Estos son algunos de los crafteos validos para una receta de forma 3x1:
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th scope="row" width="50px">Nombre
+</th>
+<th scope="col" width="140px">Ingredientes
+</th>
+<th class="unsortable" scope="col">Input &#8594; Salida
+</th></tr>
+<tr>
+<th scope="row"><a href="/Paper" title="Paper">Papel</a>
+</th>
+<td align="center"><a href="/Papyrus" title="Papyrus">Papiro</a>
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Papyrus" title="Papyrus"><img alt="Papyrus.png" src="/images/thumb/1/12/Papyrus.png/32px-Papyrus.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/12/Papyrus.png/48px-Papyrus.png 1.5x, /images/thumb/1/12/Papyrus.png/64px-Papyrus.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Papyrus" title="Papyrus"><img alt="Papyrus.png" src="/images/thumb/1/12/Papyrus.png/32px-Papyrus.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/12/Papyrus.png/48px-Papyrus.png 1.5x, /images/thumb/1/12/Papyrus.png/64px-Papyrus.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Papyrus" title="Papyrus"><img alt="Papyrus.png" src="/images/thumb/1/12/Papyrus.png/32px-Papyrus.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/12/Papyrus.png/48px-Papyrus.png 1.5x, /images/thumb/1/12/Papyrus.png/64px-Papyrus.png 2x" /></a></div></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/Paper" title="Paper"><img alt="Paper.png" src="/images/thumb/b/b2/Paper.png/32px-Paper.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/b2/Paper.png/48px-Paper.png 1.5x, /images/thumb/b/b2/Paper.png/64px-Paper.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black"></span></div></div>
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<th scope="row"><a href="/Paper" title="Paper">Papel</a>
+</th>
+<td align="center"><a href="/Papyrus" title="Papyrus">Papiro</a>
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Papyrus" title="Papyrus"><img alt="Papyrus.png" src="/images/thumb/1/12/Papyrus.png/32px-Papyrus.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/12/Papyrus.png/48px-Papyrus.png 1.5x, /images/thumb/1/12/Papyrus.png/64px-Papyrus.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Papyrus" title="Papyrus"><img alt="Papyrus.png" src="/images/thumb/1/12/Papyrus.png/32px-Papyrus.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/12/Papyrus.png/48px-Papyrus.png 1.5x, /images/thumb/1/12/Papyrus.png/64px-Papyrus.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Papyrus" title="Papyrus"><img alt="Papyrus.png" src="/images/thumb/1/12/Papyrus.png/32px-Papyrus.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/12/Papyrus.png/48px-Papyrus.png 1.5x, /images/thumb/1/12/Papyrus.png/64px-Papyrus.png 2x" /></a></div></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/Paper" title="Paper"><img alt="Paper.png" src="/images/thumb/b/b2/Paper.png/32px-Paper.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/b2/Paper.png/48px-Paper.png 1.5x, /images/thumb/b/b2/Paper.png/64px-Paper.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black"></span></div></div>
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<th scope="row"><a href="/Paper" title="Paper">Papel</a>
+</th>
+<td align="center"><a href="/Papyrus" title="Papyrus">Papiro</a>
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Papyrus" title="Papyrus"><img alt="Papyrus.png" src="/images/thumb/1/12/Papyrus.png/32px-Papyrus.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/12/Papyrus.png/48px-Papyrus.png 1.5x, /images/thumb/1/12/Papyrus.png/64px-Papyrus.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Papyrus" title="Papyrus"><img alt="Papyrus.png" src="/images/thumb/1/12/Papyrus.png/32px-Papyrus.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/12/Papyrus.png/48px-Papyrus.png 1.5x, /images/thumb/1/12/Papyrus.png/64px-Papyrus.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Papyrus" title="Papyrus"><img alt="Papyrus.png" src="/images/thumb/1/12/Papyrus.png/32px-Papyrus.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/12/Papyrus.png/48px-Papyrus.png 1.5x, /images/thumb/1/12/Papyrus.png/64px-Papyrus.png 2x" /></a></div></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/Paper" title="Paper"><img alt="Paper.png" src="/images/thumb/b/b2/Paper.png/32px-Paper.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/b2/Paper.png/48px-Paper.png 1.5x, /images/thumb/b/b2/Paper.png/64px-Paper.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black"></span></div></div>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p>Estos crafteos son parte de la misma receta. La página actual de la wiki no repite los otros dos crafteos para simplificar.
+</p>
+<h3><span class="mw-headline" id="Recetas_de_crafteo_usando_grupos">Recetas de crafteo usando grupos</span></h3>
+<p>Una receta de crafteo utilizando grupos, podría ser representada como ésta en el wiki:
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th scope="row" width="50px">Nombre
+</th>
+<th scope="col" width="140px">Ingredientes
+</th>
+<th scope="col">Input &#8594; Salida
+</th></tr>
+<tr>
+<th scope="row"><a href="/Furnace" title="Furnace">Horno</a>
+</th>
+<td align="center"><a href="/Category:Stone" title="Category:Stone">“Piedra”- grupo de objeto</a>
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Group_stone" title="Group stone"><img alt="Group stone.png" src="/images/thumb/0/00/Group_stone.png/32px-Group_stone.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/00/Group_stone.png/48px-Group_stone.png 1.5x, /images/thumb/0/00/Group_stone.png/64px-Group_stone.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Group_stone" title="Group stone"><img alt="Group stone.png" src="/images/thumb/0/00/Group_stone.png/32px-Group_stone.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/00/Group_stone.png/48px-Group_stone.png 1.5x, /images/thumb/0/00/Group_stone.png/64px-Group_stone.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Group_stone" title="Group stone"><img alt="Group stone.png" src="/images/thumb/0/00/Group_stone.png/32px-Group_stone.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/00/Group_stone.png/48px-Group_stone.png 1.5x, /images/thumb/0/00/Group_stone.png/64px-Group_stone.png 2x" /></a></div></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Group_stone" title="Group stone"><img alt="Group stone.png" src="/images/thumb/0/00/Group_stone.png/32px-Group_stone.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/00/Group_stone.png/48px-Group_stone.png 1.5x, /images/thumb/0/00/Group_stone.png/64px-Group_stone.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Group_stone" title="Group stone"><img alt="Group stone.png" src="/images/thumb/0/00/Group_stone.png/32px-Group_stone.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/00/Group_stone.png/48px-Group_stone.png 1.5x, /images/thumb/0/00/Group_stone.png/64px-Group_stone.png 2x" /></a></div></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Group_stone" title="Group stone"><img alt="Group stone.png" src="/images/thumb/0/00/Group_stone.png/32px-Group_stone.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/00/Group_stone.png/48px-Group_stone.png 1.5x, /images/thumb/0/00/Group_stone.png/64px-Group_stone.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Group_stone" title="Group stone"><img alt="Group stone.png" src="/images/thumb/0/00/Group_stone.png/32px-Group_stone.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/00/Group_stone.png/48px-Group_stone.png 1.5x, /images/thumb/0/00/Group_stone.png/64px-Group_stone.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Group_stone" title="Group stone"><img alt="Group stone.png" src="/images/thumb/0/00/Group_stone.png/32px-Group_stone.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/00/Group_stone.png/48px-Group_stone.png 1.5x, /images/thumb/0/00/Group_stone.png/64px-Group_stone.png 2x" /></a></div></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/Furnace" title="Furnace"><img alt="Furnace.png" src="/images/thumb/0/0f/Furnace.png/32px-Furnace.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/0f/Furnace.png/48px-Furnace.png 1.5x, /images/thumb/0/0f/Furnace.png/64px-Furnace.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black"></span></div></div>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p>Tenga en cuenta que hay un icono especial con una "G" en ella. Este icono es un icono genérico para cualquier objeto del grupo “<a href="/Category:Stone" title="Category:Stone">Piedra</a>”. Por lo tanto, un horno es construido con 8 objetos cualquiera del grupo piedra. <a href="/Cobblestone" title="Cobblestone">Adoquin</a> y <a href="/Desert_Stone" title="Desert Stone">Piedra del desierto</a> son ejemplos de miembros de este grupo.
+</p><p>Así que usted puede construir un horno completamente de adoquines
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th scope="row" width="50px">Nombre
+</th>
+<th scope="col" width="140px">Ingredientes
+</th>
+<th scope="col">Input &#8594; Salida
+</th></tr>
+<tr>
+<th scope="row"><a href="/Furnace" title="Furnace">Horno</a>
+</th>
+<td align="center"><a href="/Cobblestone" title="Cobblestone">Adoquines</a>
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Cobblestone" title="Cobblestone"><img alt="Cobblestone.png" src="/images/thumb/6/67/Cobblestone.png/32px-Cobblestone.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/67/Cobblestone.png/48px-Cobblestone.png 1.5x, /images/thumb/6/67/Cobblestone.png/64px-Cobblestone.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Cobblestone" title="Cobblestone"><img alt="Cobblestone.png" src="/images/thumb/6/67/Cobblestone.png/32px-Cobblestone.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/67/Cobblestone.png/48px-Cobblestone.png 1.5x, /images/thumb/6/67/Cobblestone.png/64px-Cobblestone.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Cobblestone" title="Cobblestone"><img alt="Cobblestone.png" src="/images/thumb/6/67/Cobblestone.png/32px-Cobblestone.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/67/Cobblestone.png/48px-Cobblestone.png 1.5x, /images/thumb/6/67/Cobblestone.png/64px-Cobblestone.png 2x" /></a></div></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Cobblestone" title="Cobblestone"><img alt="Cobblestone.png" src="/images/thumb/6/67/Cobblestone.png/32px-Cobblestone.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/67/Cobblestone.png/48px-Cobblestone.png 1.5x, /images/thumb/6/67/Cobblestone.png/64px-Cobblestone.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Cobblestone" title="Cobblestone"><img alt="Cobblestone.png" src="/images/thumb/6/67/Cobblestone.png/32px-Cobblestone.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/67/Cobblestone.png/48px-Cobblestone.png 1.5x, /images/thumb/6/67/Cobblestone.png/64px-Cobblestone.png 2x" /></a></div></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Cobblestone" title="Cobblestone"><img alt="Cobblestone.png" src="/images/thumb/6/67/Cobblestone.png/32px-Cobblestone.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/67/Cobblestone.png/48px-Cobblestone.png 1.5x, /images/thumb/6/67/Cobblestone.png/64px-Cobblestone.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Cobblestone" title="Cobblestone"><img alt="Cobblestone.png" src="/images/thumb/6/67/Cobblestone.png/32px-Cobblestone.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/67/Cobblestone.png/48px-Cobblestone.png 1.5x, /images/thumb/6/67/Cobblestone.png/64px-Cobblestone.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Cobblestone" title="Cobblestone"><img alt="Cobblestone.png" src="/images/thumb/6/67/Cobblestone.png/32px-Cobblestone.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/67/Cobblestone.png/48px-Cobblestone.png 1.5x, /images/thumb/6/67/Cobblestone.png/64px-Cobblestone.png 2x" /></a></div></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/Furnace" title="Furnace"><img alt="Furnace.png" src="/images/thumb/0/0f/Furnace.png/32px-Furnace.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/0f/Furnace.png/48px-Furnace.png 1.5x, /images/thumb/0/0f/Furnace.png/64px-Furnace.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black"></span></div></div>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p>O Piedra del desierto:
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th scope="row" width="50px">Nombre
+</th>
+<th scope="col" width="140px">Ingredientes
+</th>
+<th scope="col">Input &#8594; Salida
+</th></tr>
+<tr>
+<th scope="row"><a href="/Furnace" title="Furnace">Horno</a>
+</th>
+<td align="center"><a href="/Desert_Stone" title="Desert Stone">Piedras del desierto</a>
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Desert_stone" title="Desert stone"><img alt="Desert Stone.png" src="/images/thumb/d/da/Desert_Stone.png/32px-Desert_Stone.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/da/Desert_Stone.png/48px-Desert_Stone.png 1.5x, /images/thumb/d/da/Desert_Stone.png/64px-Desert_Stone.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Desert_stone" title="Desert stone"><img alt="Desert Stone.png" src="/images/thumb/d/da/Desert_Stone.png/32px-Desert_Stone.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/da/Desert_Stone.png/48px-Desert_Stone.png 1.5x, /images/thumb/d/da/Desert_Stone.png/64px-Desert_Stone.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Desert_stone" title="Desert stone"><img alt="Desert Stone.png" src="/images/thumb/d/da/Desert_Stone.png/32px-Desert_Stone.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/da/Desert_Stone.png/48px-Desert_Stone.png 1.5x, /images/thumb/d/da/Desert_Stone.png/64px-Desert_Stone.png 2x" /></a></div></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Desert_stone" title="Desert stone"><img alt="Desert Stone.png" src="/images/thumb/d/da/Desert_Stone.png/32px-Desert_Stone.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/da/Desert_Stone.png/48px-Desert_Stone.png 1.5x, /images/thumb/d/da/Desert_Stone.png/64px-Desert_Stone.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Desert_stone" title="Desert stone"><img alt="Desert Stone.png" src="/images/thumb/d/da/Desert_Stone.png/32px-Desert_Stone.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/da/Desert_Stone.png/48px-Desert_Stone.png 1.5x, /images/thumb/d/da/Desert_Stone.png/64px-Desert_Stone.png 2x" /></a></div></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Desert_stone" title="Desert stone"><img alt="Desert Stone.png" src="/images/thumb/d/da/Desert_Stone.png/32px-Desert_Stone.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/da/Desert_Stone.png/48px-Desert_Stone.png 1.5x, /images/thumb/d/da/Desert_Stone.png/64px-Desert_Stone.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Desert_stone" title="Desert stone"><img alt="Desert Stone.png" src="/images/thumb/d/da/Desert_Stone.png/32px-Desert_Stone.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/da/Desert_Stone.png/48px-Desert_Stone.png 1.5x, /images/thumb/d/da/Desert_Stone.png/64px-Desert_Stone.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Desert_stone" title="Desert stone"><img alt="Desert Stone.png" src="/images/thumb/d/da/Desert_Stone.png/32px-Desert_Stone.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/da/Desert_Stone.png/48px-Desert_Stone.png 1.5x, /images/thumb/d/da/Desert_Stone.png/64px-Desert_Stone.png 2x" /></a></div></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/Furnace" title="Furnace"><img alt="Furnace.png" src="/images/thumb/0/0f/Furnace.png/32px-Furnace.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/0f/Furnace.png/48px-Furnace.png 1.5x, /images/thumb/0/0f/Furnace.png/64px-Furnace.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black"></span></div></div>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p>O puede mezclarlas:
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th scope="row" width="50px">Nombre
+</th>
+<th scope="col" width="140px">Ingredientes
+</th>
+<th scope="col">Input &#8594; Salida
+</th></tr>
+<tr>
+<th scope="row"><a href="/Furnace" title="Furnace">Horno</a>
+</th>
+<td align="center"><a href="/Cobblestone" title="Cobblestone">Adoquines</a> + <a href="/Desert_Stone" title="Desert Stone">Piedras del desierto</a>
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Cobblestone" title="Cobblestone"><img alt="Cobblestone.png" src="/images/thumb/6/67/Cobblestone.png/32px-Cobblestone.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/67/Cobblestone.png/48px-Cobblestone.png 1.5x, /images/thumb/6/67/Cobblestone.png/64px-Cobblestone.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Desert_stone" title="Desert stone"><img alt="Desert Stone.png" src="/images/thumb/d/da/Desert_Stone.png/32px-Desert_Stone.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/da/Desert_Stone.png/48px-Desert_Stone.png 1.5x, /images/thumb/d/da/Desert_Stone.png/64px-Desert_Stone.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Cobblestone" title="Cobblestone"><img alt="Cobblestone.png" src="/images/thumb/6/67/Cobblestone.png/32px-Cobblestone.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/67/Cobblestone.png/48px-Cobblestone.png 1.5x, /images/thumb/6/67/Cobblestone.png/64px-Cobblestone.png 2x" /></a></div></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Desert_stone" title="Desert stone"><img alt="Desert Stone.png" src="/images/thumb/d/da/Desert_Stone.png/32px-Desert_Stone.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/da/Desert_Stone.png/48px-Desert_Stone.png 1.5x, /images/thumb/d/da/Desert_Stone.png/64px-Desert_Stone.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Cobblestone" title="Cobblestone"><img alt="Cobblestone.png" src="/images/thumb/6/67/Cobblestone.png/32px-Cobblestone.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/67/Cobblestone.png/48px-Cobblestone.png 1.5x, /images/thumb/6/67/Cobblestone.png/64px-Cobblestone.png 2x" /></a></div></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Desert_stone" title="Desert stone"><img alt="Desert Stone.png" src="/images/thumb/d/da/Desert_Stone.png/32px-Desert_Stone.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/da/Desert_Stone.png/48px-Desert_Stone.png 1.5x, /images/thumb/d/da/Desert_Stone.png/64px-Desert_Stone.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Cobblestone" title="Cobblestone"><img alt="Cobblestone.png" src="/images/thumb/6/67/Cobblestone.png/32px-Cobblestone.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/67/Cobblestone.png/48px-Cobblestone.png 1.5x, /images/thumb/6/67/Cobblestone.png/64px-Cobblestone.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Desert_stone" title="Desert stone"><img alt="Desert Stone.png" src="/images/thumb/d/da/Desert_Stone.png/32px-Desert_Stone.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/da/Desert_Stone.png/48px-Desert_Stone.png 1.5x, /images/thumb/d/da/Desert_Stone.png/64px-Desert_Stone.png 2x" /></a></div></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/Furnace" title="Furnace"><img alt="Furnace.png" src="/images/thumb/0/0f/Furnace.png/32px-Furnace.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/0f/Furnace.png/48px-Furnace.png 1.5x, /images/thumb/0/0f/Furnace.png/64px-Furnace.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black"></span></div></div>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p>O mezclar todo:
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th scope="row" width="50px">Nombre
+</th>
+<th scope="col" width="140px">Ingredientes
+</th>
+<th scope="col">Input &#8594; Salida
+</th></tr>
+<tr>
+<th scope="row"><a href="/Furnace" title="Furnace">Horno</a>
+</th>
+<td align="center"><a href="/Stone" title="Stone">Piedra</a> + <a href="/Desert_Stone" title="Desert Stone">Piedra del desierto</a> + <a href="/Cobblestone" title="Cobblestone">Adoquines</a> + <a href="/Desert_Stone_Brick" title="Desert Stone Brick">Ladrillos de piedra del desierto</a> + <a href="/Stone_Brick" title="Stone Brick">Ladrillos de piedra</a>
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Stone" title="Stone"><img alt="Stone.png" src="/images/thumb/d/d4/Stone.png/32px-Stone.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/d4/Stone.png/48px-Stone.png 1.5x, /images/thumb/d/d4/Stone.png/64px-Stone.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Desert_stone" title="Desert stone"><img alt="Desert Stone.png" src="/images/thumb/d/da/Desert_Stone.png/32px-Desert_Stone.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/da/Desert_Stone.png/48px-Desert_Stone.png 1.5x, /images/thumb/d/da/Desert_Stone.png/64px-Desert_Stone.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Stone_brick" title="Stone brick"><img alt="Stone Brick.png" src="/images/thumb/6/6d/Stone_Brick.png/32px-Stone_Brick.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/6d/Stone_Brick.png/48px-Stone_Brick.png 1.5x, /images/thumb/6/6d/Stone_Brick.png/64px-Stone_Brick.png 2x" /></a></div></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Cobblestone" title="Cobblestone"><img alt="Cobblestone.png" src="/images/thumb/6/67/Cobblestone.png/32px-Cobblestone.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/67/Cobblestone.png/48px-Cobblestone.png 1.5x, /images/thumb/6/67/Cobblestone.png/64px-Cobblestone.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Cobblestone" title="Cobblestone"><img alt="Cobblestone.png" src="/images/thumb/6/67/Cobblestone.png/32px-Cobblestone.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/67/Cobblestone.png/48px-Cobblestone.png 1.5x, /images/thumb/6/67/Cobblestone.png/64px-Cobblestone.png 2x" /></a></div></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Desert_stone_brick" title="Desert stone brick"><img alt="Desert Stone Brick.png" src="/images/thumb/2/2c/Desert_Stone_Brick.png/32px-Desert_Stone_Brick.png" decoding="async" width="32" height="32" srcset="/images/thumb/2/2c/Desert_Stone_Brick.png/48px-Desert_Stone_Brick.png 1.5x, /images/thumb/2/2c/Desert_Stone_Brick.png/64px-Desert_Stone_Brick.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Stone_brick" title="Stone brick"><img alt="Stone Brick.png" src="/images/thumb/6/6d/Stone_Brick.png/32px-Stone_Brick.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/6d/Stone_Brick.png/48px-Stone_Brick.png 1.5x, /images/thumb/6/6d/Stone_Brick.png/64px-Stone_Brick.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Cobblestone" title="Cobblestone"><img alt="Cobblestone.png" src="/images/thumb/6/67/Cobblestone.png/32px-Cobblestone.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/67/Cobblestone.png/48px-Cobblestone.png 1.5x, /images/thumb/6/67/Cobblestone.png/64px-Cobblestone.png 2x" /></a></div></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/Furnace" title="Furnace"><img alt="Furnace.png" src="/images/thumb/0/0f/Furnace.png/32px-Furnace.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/0f/Furnace.png/48px-Furnace.png 1.5x, /images/thumb/0/0f/Furnace.png/64px-Furnace.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black"></span></div></div>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Primeros_pasos">Primeros pasos</span></h2>
+<p>Para ayudarte a iniciar en Minetest, hemos creado una lista de los objetos y bloques mas importantes para comenzar. Empiece con la parte superior de la lista, eche un vistazo a la sección "Crafting" de la página respectiva (en ese orden), creé el objeto en Minetest y regrese a esta página cuando lo haya logrado, luego sigua con el próximo crafteo de la lista. Para mayor comodidad, los enlaces lo envían directamente a la sección "Crafting".
+</p>
+<ol><li><a href="/Wooden_Planks_and_Junglewood_Planks#Crafting" class="mw-redirect" title="Wooden Planks and Junglewood Planks">Tablones de madera</a></li>
+<li><a href="/Stick#Crafting" title="Stick">Palos</a></li>
+<li><a href="/Ladder#Crafting" class="mw-redirect" title="Ladder">Escalera</a></li>
+<li><a href="/Slab#Crafting" title="Slab">Losa</a> de madera</li>
+<li><a href="/Pickaxe#Crafting" title="Pickaxe">Pico</a> de madera</li>
+<li><a href="/Pickaxe#Crafting" title="Pickaxe">Pico</a> de piedra</li>
+<li><a href="/Stair#Crafting" title="Stair">Escalones</a> de piedra</li>
+<li><a href="/Torch#Crafting" title="Torch">Antorcha</a></li>
+<li><a href="/Chest#Crafting" title="Chest">Cofre</a></li>
+<li><a href="/Furnace#Crafting" title="Furnace">Horno</a></li>
+<li>cualquier <a href="/Axe#Crafting" title="Axe">Hacha</a></li>
+<li>cualquier <a href="/Shovel#Crafting" title="Shovel">Pala</a></li>
+<li><a href="/Bucket#Crafting" title="Bucket">Cubo</a></li>
+<li>cualquier <a href="/Hoe#Crafting" title="Hoe">Azada</a></li>
+<li><a href="/Flour#Crafting" title="Flour">Harina</a></li>
+<li><a href="/Bread#Crafting" title="Bread">Pan</a></li></ol>
+<p>Consulte <a href="/Blocks" class="mw-redirect" title="Blocks">Bloques</a> y <a href="/Items" title="Items">Objetos</a> para ver la lista completa de bloques y objetos. Usted encontrara el procedimiento de crafteo en las paginas respectivas a cada objeto. Tambien revise las paginas listadas en <a href="/Groups" title="Groups">Grupos</a> para saber mas sobre los grupos de crafteo.
+</p>
+<h2><span class="mw-headline" id="Vea_tambien">Vea tambien</span></h2>
+<ul><li><a href="/Crafting_guide" title="Crafting guide">Crafting guide</a></li>
+<li><a href="/Smelting" class="mw-redirect" title="Smelting">Smelting</a></li>
+<li><a href="/Repairing" title="Repairing">Repairing</a></li>
+<li><a href="/Inventory" title="Inventory">Inventory</a></li>
+<li><a href="/Itemstrings" title="Itemstrings">Itemstrings</a></li></ul>
+<!-- 
+NewPP limit report
+Cached time: 20230709084708
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 1.058 seconds
+Real time usage: 2.455 seconds
+Preprocessor visited node count: 1519/1000000
+Post‐expand include size: 78757/2097152 bytes
+Template argument size: 2040/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 13/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 1.130/7 seconds
+Lua virtual size: 6.45 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1884.759      1 -total
+ 83.60% 1575.667     12 Template:Grid/Craft
+ 78.85% 1486.214    120 Template:Grid
+ 16.13%  304.011      1 Template:Languages
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:1371-0!canonical and timestamp 20230709084705 and revision id 27252
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Crafting/es&amp;oldid=27252">http://wiki.minetest.net/index.php?title=Crafting/es&amp;oldid=27252</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li><li><a href="/Category:Gameplay" title="Category:Gameplay">Gameplay</a></li><li><a href="/Category:Spanish" title="Category:Spanish">Spanish</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Crafting%2Fes" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Crafting/es" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Crafting/es&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Crafting/es">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Crafting/es&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Crafting/es&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Crafting/es" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Crafting/es" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Crafting/es&amp;oldid=27252" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Crafting/es&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 16 January 2023, at 15:10.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.058","walltime":"2.455","ppvisitednodes":{"value":1519,"limit":1000000},"postexpandincludesize":{"value":78757,"limit":2097152},"templateargumentsize":{"value":2040,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":13,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00% 1884.759      1 -total"," 83.60% 1575.667     12 Template:Grid/Craft"," 78.85% 1486.214    120 Template:Grid"," 16.13%  304.011      1 Template:Languages"]},"scribunto":{"limitreport-timeusage":{"value":"1.130","limit":"7"},"limitreport-virtmemusage":{"value":6766592,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709084708","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":270});});</script></body></html>

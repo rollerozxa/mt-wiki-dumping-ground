@@ -1,0 +1,577 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Server/ROBOTS_SKYBLOCK_2 - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"2158d4f8b4a2609eefdff0fc","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Server/ROBOTS_SKYBLOCK_2","wgTitle":"Server/ROBOTS SKYBLOCK 2","wgCurRevisionId":21697,"wgRevisionId":21697,"wgArticleId":4020,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Notable Servers"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Server/ROBOTS_SKYBLOCK_2","wgRelevantArticleId":4020,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":
+"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Server_ROBOTS_SKYBLOCK_2 rootpage-Server skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Server/ROBOTS_SKYBLOCK_2</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/Server" title="Server">Server</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p><br />
+</p>
+<table class="wikitable" width="200px" style="float:right;text-align:left;margin:0 0 0.5em 1em;padding:5px;font-size:90%;position:relative;clear:right;overflow:auto;z-index:1">
+
+<tbody><tr>
+<th colspan="2" style="font-size:110%;text-align:center">ROBOTS_SKYBLOCK
+</th></tr>
+<tr>
+<th colspan="2"><div class="center"><a href="/File:Blank.png" class="image"><img alt="Blank.png" src="/images/d/d2/Blank.png" decoding="async" width="150" height="150" /></a></div>
+</th></tr>
+<tr>
+<th colspan="2" align="center">A <a href="/Server" title="Server">server</a>
+</th></tr>
+<tr>
+<td><b>Owner</b>
+</td>
+<td>rnd
+</td></tr>
+<tr>
+<td><b>Address</b>
+</td>
+<td>46.150.38.60
+</td></tr>
+<tr>
+<td><b>Port</b>
+</td>
+<td>30001
+</td></tr>
+<tr>
+<td><b>Flags</b>
+</td>
+<td>Dmg, PvP, Pwd
+</td></tr></tbody></table>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Intro"><span class="tocnumber">1</span> <span class="toctext">Intro</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#General_Server-info"><span class="tocnumber">2</span> <span class="toctext">General Server-info</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Mods"><span class="tocnumber">3</span> <span class="toctext">Mods</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Map"><span class="tocnumber">4</span> <span class="toctext">Map</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Quests"><span class="tocnumber">5</span> <span class="toctext">Quests</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Level_1"><span class="tocnumber">5.1</span> <span class="toctext">Level 1</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Level_2"><span class="tocnumber">5.2</span> <span class="toctext">Level 2</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Level_3"><span class="tocnumber">5.3</span> <span class="toctext">Level 3</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Level_4"><span class="tocnumber">5.4</span> <span class="toctext">Level 4</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Level_5"><span class="tocnumber">5.5</span> <span class="toctext">Level 5</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Intro">Intro</span></h2>
+<p>This is a description about the ROBOTS_SKYBLOCK_2 - server by rnd, 
+which runs a game with the mods 
+</p>
+<ul><li>skyblock2
+<ul><li>based on Skyblock (<a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=11&amp;t=2799">Forum</a>)</li></ul></li>
+<li><a href="/Mods/basic_robot" title="Mods/basic robot">basic_robot</a>       (<a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=15850">Forum</a>, <a rel="nofollow" class="external text" href="https://github.com/ac-minetest/basic_robot/">github</a>) - robots</li>
+<li><a href="/Mods/basic_machines" title="Mods/basic machines">basic_machines</a> (<a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=12033">Forum</a> <a rel="nofollow" class="external text" href="https://github.com/ac-minetest/basic_machines/">github</a>, <a rel="nofollow" class="external text" href="https://github.com/ac-minetest/basic_machines/wiki">Wiki at github</a> - automation</li></ul>
+<p>The previous game and map <a href="/ROBOTS-server" title="ROBOTS-server">ROBOTS-server</a> on that server was taken offline in 2017-07,<br />
+and the game and map <a href="/ROBOTS_SKYBLOCK" class="mw-redirect" title="ROBOTS SKYBLOCK">ROBOTS_SKYBLOCK</a> was taken offline in 2018-01.
+</p>
+<h2><span class="mw-headline" id="General_Server-info">General Server-info</span></h2>
+<p>(as of 2018-02)
+</p>
+<ul><li>Admin: rnd</li>
+<li>IP: 46.150.38.60:30001</li>
+<li>Max users: 15</li>
+<li>Operating hours: 09:00 - 01:00 UTC (+/- an hour) - shuts down over night</li>
+<li>Mapgen: skyblocks2</li>
+<li>/teleport, /home and /spawn disabled</li></ul>
+<p><b>See also:</b> 
+List of servers: 
+</p>
+<ul><li><a rel="nofollow" class="external text" href="http://minetest.net/servers">Minetest Server List</a> and <a rel="nofollow" class="external text" href="http://servers.minetest.net/">List2</a></li>
+<li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewforum.php?f=10">Minetest Forum servers section</a></li></ul>
+<h2><span class="mw-headline" id="Mods">Mods</span></h2>
+<p>Notable mods:
+</p>
+<ul><li><a rel="nofollow" class="external text" href="https://github.com/ac-minetest/basic_robot">basic_robots</a>   - robots</li>
+<li><a rel="nofollow" class="external text" href="https://github.com/ac-minetest/basic_machines">basic_machines</a> - keypad, lights, mover, grinder, detector, etc.</li>
+<li>Skyblock2, a rewrite-from-scratch with custom quests (e.g. robots are given as quest-rewards)</li>
+<li><a rel="nofollow" class="external text" href="https://github.com/ac-minetest/basic_protect">basic_protect</a>  - Protectors that protect a 32x32 area (changed from 20x20).</li>
+<li>basic_gui</li></ul>
+<ul><li><a href="/Farming" title="Farming">farming</a> - blueberries, carrots, cocoa, corn, melons, potatoes, pumpkins, tomatoes, rhubarb ...</li></ul>
+<dl><dd>as well as new foods, eg, baked potatoes, corn-cobs, donuts, rhubarb-pie ...</dd></dl>
+<ul><li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?t=14317">compost</a> - makes dirt from leaves</li></ul>
+<ul><li>flowers, dye</li>
+<li>wool, beds</li>
+<li>letters - lettercutter, produces big letter-blocks for shop-signs etc.</li>
+<li><a rel="nofollow" class="external text" href="https://github.com/pithydon/furniture">furniture</a> - tables, chairs, sofas ('wool-chair')</li></ul>
+<ul><li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?t=16085">abriglass</a> - colored glass, stained-glass</li>
+<li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?t=509">moreblocks</a> - stairs&amp;slopes, iron stone, plank stone, glowglass ...</li>
+<li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=11&amp;t=549">moreores</a> - tin, silver, mitril ...</li>
+<li><a href="/index.php?title=Darkage&amp;action=edit&amp;redlink=1" class="new" title="Darkage (page does not exist)">darkage</a> - more blocks: darkage_bricks, darkage_lamps, darkage_shale, serpentine, ...</li></ul>
+<dl><dd>See the <a rel="nofollow" class="external text" href="http://darkage.wikia.com/wiki/About">DarkAge-Wiki</a> for infos and recipes.</dd></dl>
+<ul><li>worldedit + gui, mapfix</li></ul>
+<ul><li><a rel="nofollow" class="external text" href="https://github.com/ac-minetest/oldplayer">oldplayer</a>: users need to finish level 1 before logoff, otherwise account gets deleted.</li></ul>
+<ul><li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?t=18498">helloip</a> - guess player's country from ip</li></ul>
+<h2><span class="mw-headline" id="Map">Map</span></h2>
+<p>The skyblock-mod creates a map with a grid of small floating islands above the clouds.<br />
+Each players spawns on such an island of his own.
+</p><p>That means there is no underground with caves etc. and no mining as in a regular minetest-game.<br />
+Therefore, resources have to be created in other ways - 
+so a lot of crafting-recipes are changed.
+</p><p><br />
+</p>
+<h2><span class="mw-headline" id="Quests">Quests</span></h2>
+<p>Note: the quests here are different from a 'normal' skyblock-game.
+</p><p><br />
+</p>
+<h3><span class="mw-headline" id="Level_1">Level 1</span></h3>
+<table class="wikitable">
+
+<tbody><tr>
+<th>##</th>
+<th>Quest</th>
+<th>Result / Rewards</th>
+<th>Remarks
+</th></tr>
+<tr>
+<td>1</td>
+<td>dig 10 dirt</td>
+<td>6 leaves</td>
+<td>-
+</td></tr>
+<tr>
+<td>2</td>
+<td>dig 16 trees</td>
+<td><b>water-source</b></td>
+<td>flowing water + flowing lava --&gt; stone
+</td></tr>
+<tr>
+<td>3</td>
+<td>place 10 dirt</td>
+<td>5 stick</td>
+<td>to craft 5 saplings
+</td></tr>
+<tr>
+<td>4</td>
+<td>craft 5 saplings</td>
+<td>axe_wood</td>
+<td>
+</td></tr>
+<tr>
+<td>5</td>
+<td>craft 16 composters<br /> and produce 32 dirt</td>
+<td><b>lava_source</b></td>
+<td>the mod checks your inventory for 32 dirt<br />each time a composter is crafted
+</td></tr>
+<tr>
+<td>6</td>
+<td>craft 4 furnace</td>
+<td><b>protector</b>, steel_axe</td>
+<td>end of level 1
+</td></tr>
+</tbody></table>
+<p>Notes:<br />
+</p>
+<ul><li>Make sure that water doesn't come in contact with the lava-source - not even diagonally</li></ul>
+<p><br />
+</p>
+<h3><span class="mw-headline" id="Level_2">Level 2</span></h3>
+<table class="wikitable">
+
+<tbody><tr>
+<th>##</th>
+<th>Quest</th>
+<th>Result / Rewards</th>
+<th>Remarks
+</th></tr>
+<tr>
+<td>1</td>
+<td>produce+dig 100 dirt<br />without placing it</td>
+<td>iron_lump</td>
+<td>for q 2.7
+</td></tr>
+<tr>
+<td>2</td>
+<td>place and dig protector</td>
+<td>pick_steel</td>
+<td>-
+</td></tr>
+<tr>
+<td>3</td>
+<td>dig 100 jungle tree</td>
+<td>stone_with_copper</td>
+<td>for q 3.5
+</td></tr>
+<tr>
+<td>4</td>
+<td>place 1 dirt after you digged 100 dirt</td>
+<td>papyrus</td>
+<td>for q 3.4
+</td></tr>
+<tr>
+<td>5</td>
+<td>place 100 stone</td>
+<td>coal_lump</td>
+<td>for q 2.6
+</td></tr>
+<tr>
+<td>6</td>
+<td>craft 100 stone with coal</td>
+<td><b>robot</b></td>
+<td>-
+</td></tr>
+<tr>
+<td>7</td>
+<td>craft 100 stone with iron</td>
+<td>6 jungleleaves</td>
+<td>for q 2.3
+</td></tr></tbody></table>
+<p>Notes:<br />
+</p>
+<ul><li>Q2.1 - placing dirt will reset the dig-count of this quest</li>
+<li>Papyrus grows on dirt near water.</li></ul>
+<h3><span class="mw-headline" id="Level_3">Level 3</span></h3>
+<p>(todo - version on github outdated&#160;?)
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th>##</th>
+<th>Quest</th>
+<th>Result / Rewards</th>
+<th>Remarks
+</th></tr>
+<tr>
+<td>1</td>
+<td>place battery<br />(needs constructor first)</td>
+<td><b>grinder</b></td>
+<td>-
+</td></tr>
+<tr>
+<td>2</td>
+<td>place 1 silt      <br />while having 100 silt in inventory</td>
+<td>?</td>
+<td>-
+</td></tr>
+<tr>
+<td>3</td>
+<td>place 1 steelblock<br />while having 4 steelblocks in inventory</td>
+<td>mese_crystal?</td>
+<td>-
+</td></tr>
+<tr>
+<td>4</td>
+<td>place 1 mossy cobblestone <br />while having 100 m.cs. in inventory</td>
+<td>tin&#160;?</td>
+<td>-
+</td></tr>
+<tr>
+<td>5</td>
+<td>place 1 goldblock <br />while having 4 goldblocks in inventory</td>
+<td>mese_crystal?</td>
+<td>for q3.7
+</td></tr>
+<tr>
+<td>6</td>
+<td>craft 10 bookshelves</td>
+<td>rhubarb-plant</td>
+<td>for q3.10
+</td></tr>
+<tr>
+<td>7</td>
+<td>craft 100 brick</td>
+<td>silver</td>
+<td>-
+</td></tr>
+<tr>
+<td>8</td>
+<td>craft 50 stone with mese</td>
+<td>grass</td>
+<td>..
+</td></tr>
+<tr>
+<td>9</td>
+<td>craft 100 stone with copper</td>
+<td>gold_lump</td>
+<td>-
+</td></tr>
+<tr>
+<td>10</td>
+<td>bake 10 rhubarb-pie</td>
+<td>mithril</td>
+<td>-
+</td></tr></tbody></table>
+<p>Notes:<br />
+...
+diamond&#160;??
+</p>
+<h3><span class="mw-headline" id="Level_4">Level 4</span></h3>
+<p>(todo)
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th>##</th>
+<th>Quest</th>
+<th>Result / Rewards</th>
+<th>Remarks
+</th></tr>
+<tr>
+<td>1</td>
+<td>place mover</td>
+<td>corn-plant</td>
+<td>-
+</td></tr>
+<tr>
+<td>1</td>
+<td>place generator</td>
+<td>grapes</td>
+<td>-
+</td></tr>
+<tr>
+<td>1</td>
+<td>place clock-gen</td>
+<td>blueberries</td>
+<td>-
+</td></tr>
+<tr>
+<td>1</td>
+<td>place autocrafter</td>
+<td>beans</td>
+<td>-
+</td></tr>
+<tr>
+<td>1</td>
+<td>place enviroment block</td>
+<td>tomato</td>
+<td>-
+</td></tr>
+
+<tr>
+<td>1</td>
+<td>craft robot</td>
+<td>cocoa_beans</td>
+<td>-
+</td></tr>
+</tbody></table>
+<p>Notes:<br />
+...
+</p>
+<h3><span class="mw-headline" id="Level_5">Level 5</span></h3>
+<p>(none yet)
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20230709184848
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.221 seconds
+Real time usage: 0.433 seconds
+Preprocessor visited node count: 100/1000000
+Post‐expand include size: 1000/2097152 bytes
+Template argument size: 48/2097152 bytes
+Highest expansion depth: 4/40
+Expensive parser function count: 1/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.130/7 seconds
+Lua virtual size: 5.57 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  319.150      1 Template:Server_Data
+100.00%  319.150      1 -total
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:4020-0!canonical and timestamp 20230709184848 and revision id 21697
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Server/ROBOTS_SKYBLOCK_2&amp;oldid=21697">http://wiki.minetest.net/index.php?title=Server/ROBOTS_SKYBLOCK_2&amp;oldid=21697</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/Category:Notable_Servers" title="Category:Notable Servers">Notable Servers</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Server%2FROBOTS+SKYBLOCK+2" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Server/ROBOTS_SKYBLOCK_2" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Server/ROBOTS_SKYBLOCK_2&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Server/ROBOTS_SKYBLOCK_2">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Server/ROBOTS_SKYBLOCK_2&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Server/ROBOTS_SKYBLOCK_2&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Server/ROBOTS_SKYBLOCK_2" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Server/ROBOTS_SKYBLOCK_2" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Server/ROBOTS_SKYBLOCK_2&amp;oldid=21697" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Server/ROBOTS_SKYBLOCK_2&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 4 July 2018, at 16:36.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.221","walltime":"0.433","ppvisitednodes":{"value":100,"limit":1000000},"postexpandincludesize":{"value":1000,"limit":2097152},"templateargumentsize":{"value":48,"limit":2097152},"expansiondepth":{"value":4,"limit":40},"expensivefunctioncount":{"value":1,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  319.150      1 Template:Server_Data","100.00%  319.150      1 -total"]},"scribunto":{"limitreport-timeusage":{"value":"0.130","limit":"7"},"limitreport-virtmemusage":{"value":5840896,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709184848","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":774});});</script></body></html>

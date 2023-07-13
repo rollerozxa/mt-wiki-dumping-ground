@@ -1,0 +1,393 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Trees - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"e8d27d4fe55a3244c5628295","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Trees","wgTitle":"Trees","wgCurRevisionId":22450,"wgRevisionId":22450,"wgArticleId":134,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages","Plants"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Trees","wgRelevantArticleId":134,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user"
+:"ready","user.options":"loading","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Trees rootpage-Trees skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Trees</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> Language:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><b><a class="mw-selflink selflink">English</a></b>&#160;• <bdi lang="de"><a href="/Trees/de" title="Trees/de">Deutsch</a></bdi></td>
+</tr></tbody></table>
+<p><i>Note: This page lists the available tree species in Minetest Game. For the blocks, visit the corresponding pages (see below).</i>
+</p><p><b>Trees</b> appear naturally in the world and from different species of <a href="/Sapling" class="mw-redirect" title="Sapling">saplings</a>. Unlike other plants, saplings grow, at some point in time, instantly into a full-size tree. There are various species of trees. <b>This page lists the trees currently found in <a href="/Games/Minetest_Game" title="Games/Minetest Game">Minetest Game</a> 5.0.0.</b>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Tree_species_guide"><span class="tocnumber">2</span> <span class="toctext">Tree species guide</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Apple_tree"><span class="tocnumber">2.1</span> <span class="toctext">Apple tree</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Jungle_tree"><span class="tocnumber">2.2</span> <span class="toctext">Jungle tree</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Emergent_jungle_tree"><span class="tocnumber">2.3</span> <span class="toctext">Emergent jungle tree</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Pine_tree"><span class="tocnumber">2.4</span> <span class="toctext">Pine tree</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Acacia_tree"><span class="tocnumber">2.5</span> <span class="toctext">Acacia tree</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Aspen_tree"><span class="tocnumber">2.6</span> <span class="toctext">Aspen tree</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Overview">Overview</span></h2>
+<table class="wikitable">
+<tbody><tr>
+<th>Species
+</th>
+<th>Trunk
+</th>
+<th>Foliage
+</th>
+<th>Sapling
+</th>
+<th>Fruit
+</th>
+<th>Generated in <a href="/Map_generator" title="Map generator">v6</a>?
+</th></tr>
+<tr>
+<td>Apple tree
+</td>
+<td><a href="/File:Tree.png" class="image"><img alt="Tree.png" src="/images/thumb/a/ac/Tree.png/32px-Tree.png" decoding="async" width="32" height="32" srcset="/images/thumb/a/ac/Tree.png/48px-Tree.png 1.5x, /images/thumb/a/ac/Tree.png/64px-Tree.png 2x" /></a> <a href="/Apple_Tree" title="Apple Tree">Apple Tree</a>
+</td>
+<td><a href="/File:Leaves.png" class="image"><img alt="Leaves.png" src="/images/thumb/f/f1/Leaves.png/32px-Leaves.png" decoding="async" width="32" height="32" srcset="/images/thumb/f/f1/Leaves.png/48px-Leaves.png 1.5x, /images/thumb/f/f1/Leaves.png/64px-Leaves.png 2x" /></a> <a href="/Leaves" title="Leaves">Apple Tree Leaves</a>
+</td>
+<td><a href="/File:Sapling.png" class="image"><img alt="Sapling.png" src="/images/thumb/5/51/Sapling.png/32px-Sapling.png" decoding="async" width="32" height="32" srcset="/images/thumb/5/51/Sapling.png/48px-Sapling.png 1.5x, /images/thumb/5/51/Sapling.png/64px-Sapling.png 2x" /></a> <a href="/Saplings" class="mw-redirect" title="Saplings">Apple Tree Sapling</a>
+</td>
+<td><a href="/File:Apple.png" class="image"><img alt="Apple.png" src="/images/thumb/7/7d/Apple.png/32px-Apple.png" decoding="async" width="32" height="32" srcset="/images/thumb/7/7d/Apple.png/48px-Apple.png 1.5x, /images/thumb/7/7d/Apple.png/64px-Apple.png 2x" /></a> <a href="/Apple" title="Apple">Apple</a> (sometimes)
+</td>
+<td>Yes
+</td></tr>
+<tr>
+<td>Jungle tree
+</td>
+<td><a href="/File:Jungle_Tree.png" class="image"><img alt="Jungle Tree.png" src="/images/thumb/1/16/Jungle_Tree.png/32px-Jungle_Tree.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/16/Jungle_Tree.png/48px-Jungle_Tree.png 1.5x, /images/thumb/1/16/Jungle_Tree.png/64px-Jungle_Tree.png 2x" /></a> <a href="/Jungle_Tree" title="Jungle Tree">Jungle Tree</a>
+</td>
+<td><a href="/File:Jungle_Leaves.png" class="image"><img alt="Jungle Leaves.png" src="/images/thumb/c/c5/Jungle_Leaves.png/32px-Jungle_Leaves.png" decoding="async" width="32" height="32" srcset="/images/thumb/c/c5/Jungle_Leaves.png/48px-Jungle_Leaves.png 1.5x, /images/thumb/c/c5/Jungle_Leaves.png/64px-Jungle_Leaves.png 2x" /></a> <a href="/Leaves" title="Leaves">Jungle Tree Leaves</a>
+</td>
+<td><a href="/File:Jungle_Sapling.png" class="image"><img alt="Jungle Sapling.png" src="/images/thumb/8/8d/Jungle_Sapling.png/32px-Jungle_Sapling.png" decoding="async" width="32" height="32" srcset="/images/thumb/8/8d/Jungle_Sapling.png/48px-Jungle_Sapling.png 1.5x, /images/thumb/8/8d/Jungle_Sapling.png/64px-Jungle_Sapling.png 2x" /></a> <a href="/Saplings" class="mw-redirect" title="Saplings">Jungle Tree Sapling</a>
+</td>
+<td><i>None</i>
+</td>
+<td>Yes
+</td></tr>
+<tr>
+<td>Emergent jungle tree
+</td>
+<td><a href="/File:Jungle_Tree.png" class="image"><img alt="Jungle Tree.png" src="/images/thumb/1/16/Jungle_Tree.png/32px-Jungle_Tree.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/16/Jungle_Tree.png/48px-Jungle_Tree.png 1.5x, /images/thumb/1/16/Jungle_Tree.png/64px-Jungle_Tree.png 2x" /></a> <a href="/Jungle_Tree" title="Jungle Tree">Jungle Tree</a>
+</td>
+<td><a href="/File:Jungle_Leaves.png" class="image"><img alt="Jungle Leaves.png" src="/images/thumb/c/c5/Jungle_Leaves.png/32px-Jungle_Leaves.png" decoding="async" width="32" height="32" srcset="/images/thumb/c/c5/Jungle_Leaves.png/48px-Jungle_Leaves.png 1.5x, /images/thumb/c/c5/Jungle_Leaves.png/64px-Jungle_Leaves.png 2x" /></a> <a href="/Leaves" title="Leaves">Jungle Tree Leaves</a>
+</td>
+<td><a href="/File:Emergent_Jungle_Tree_Sapling.png" class="image"><img alt="Emergent Jungle Tree Sapling.png" src="/images/thumb/0/09/Emergent_Jungle_Tree_Sapling.png/32px-Emergent_Jungle_Tree_Sapling.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/09/Emergent_Jungle_Tree_Sapling.png/48px-Emergent_Jungle_Tree_Sapling.png 1.5x, /images/thumb/0/09/Emergent_Jungle_Tree_Sapling.png/64px-Emergent_Jungle_Tree_Sapling.png 2x" /></a> <a href="/Saplings" class="mw-redirect" title="Saplings">Emergent Jungle Tree Sapling</a>
+</td>
+<td><i>None</i>
+</td>
+<td>No
+</td></tr>
+<tr>
+<td>Pine tree
+</td>
+<td><a href="/File:Pine_Tree.png" class="image"><img alt="Pine Tree.png" src="/images/thumb/d/d4/Pine_Tree.png/32px-Pine_Tree.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/d4/Pine_Tree.png/48px-Pine_Tree.png 1.5x, /images/thumb/d/d4/Pine_Tree.png/64px-Pine_Tree.png 2x" /></a> <a href="/Pine_Tree" title="Pine Tree">Pine Tree</a>
+</td>
+<td><a href="/File:Pine_Needles.png" class="image"><img alt="Pine Needles.png" src="/images/thumb/2/2c/Pine_Needles.png/32px-Pine_Needles.png" decoding="async" width="32" height="32" srcset="/images/thumb/2/2c/Pine_Needles.png/48px-Pine_Needles.png 1.5x, /images/thumb/2/2c/Pine_Needles.png/64px-Pine_Needles.png 2x" /></a> <a href="/Leaves" title="Leaves">Pine Tree Needles</a>
+</td>
+<td><a href="/File:Pine_Sapling.png" class="image"><img alt="Pine Sapling.png" src="/images/thumb/1/18/Pine_Sapling.png/32px-Pine_Sapling.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/18/Pine_Sapling.png/48px-Pine_Sapling.png 1.5x, /images/thumb/1/18/Pine_Sapling.png/64px-Pine_Sapling.png 2x" /></a> <a href="/Saplings" class="mw-redirect" title="Saplings">Pine Tree Sapling</a>
+</td>
+<td><i>None</i>
+</td>
+<td>Yes
+</td></tr>
+<tr>
+<td>Acacia tree
+</td>
+<td><a href="/File:Acacia_Tree.png" class="image"><img alt="Acacia Tree.png" src="/images/thumb/8/8f/Acacia_Tree.png/32px-Acacia_Tree.png" decoding="async" width="32" height="32" srcset="/images/thumb/8/8f/Acacia_Tree.png/48px-Acacia_Tree.png 1.5x, /images/thumb/8/8f/Acacia_Tree.png/64px-Acacia_Tree.png 2x" /></a> <a href="/Acacia_Tree" title="Acacia Tree">Acacia Tree</a>
+</td>
+<td><a href="/File:Acacia_Leaves.png" class="image"><img alt="Acacia Leaves.png" src="/images/thumb/2/27/Acacia_Leaves.png/32px-Acacia_Leaves.png" decoding="async" width="32" height="32" srcset="/images/thumb/2/27/Acacia_Leaves.png/48px-Acacia_Leaves.png 1.5x, /images/thumb/2/27/Acacia_Leaves.png/64px-Acacia_Leaves.png 2x" /></a> <a href="/Leaves" title="Leaves">Acacia Tree Leaves</a>
+</td>
+<td><a href="/File:Acacia_Tree_Sapling.png" class="image"><img alt="Acacia Tree Sapling.png" src="/images/thumb/0/0e/Acacia_Tree_Sapling.png/32px-Acacia_Tree_Sapling.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/0e/Acacia_Tree_Sapling.png/48px-Acacia_Tree_Sapling.png 1.5x, /images/thumb/0/0e/Acacia_Tree_Sapling.png/64px-Acacia_Tree_Sapling.png 2x" /></a> <a href="/Saplings" class="mw-redirect" title="Saplings">Acacia Tree Sapling</a>
+</td>
+<td><i>None</i>
+</td>
+<td>No
+</td></tr>
+<tr>
+<td>Aspen tree
+</td>
+<td><a href="/File:Aspen_Tree.png" class="image"><img alt="Aspen Tree.png" src="/images/thumb/2/26/Aspen_Tree.png/32px-Aspen_Tree.png" decoding="async" width="32" height="32" srcset="/images/thumb/2/26/Aspen_Tree.png/48px-Aspen_Tree.png 1.5x, /images/thumb/2/26/Aspen_Tree.png/64px-Aspen_Tree.png 2x" /></a> <a href="/Aspen_Tree" title="Aspen Tree">Aspen Tree</a>
+</td>
+<td><a href="/File:Aspen_Leaves.png" class="image"><img alt="Aspen Leaves.png" src="/images/thumb/d/d3/Aspen_Leaves.png/32px-Aspen_Leaves.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/d3/Aspen_Leaves.png/48px-Aspen_Leaves.png 1.5x, /images/thumb/d/d3/Aspen_Leaves.png/64px-Aspen_Leaves.png 2x" /></a> <a href="/Leaves" title="Leaves">Aspen Leaves</a>
+</td>
+<td><a href="/File:Aspen_Tree_Sapling.png" class="image"><img alt="Aspen Tree Sapling.png" src="/images/thumb/5/52/Aspen_Tree_Sapling.png/32px-Aspen_Tree_Sapling.png" decoding="async" width="32" height="32" srcset="/images/thumb/5/52/Aspen_Tree_Sapling.png/48px-Aspen_Tree_Sapling.png 1.5x, /images/thumb/5/52/Aspen_Tree_Sapling.png/64px-Aspen_Tree_Sapling.png 2x" /></a> <a href="/Saplings" class="mw-redirect" title="Saplings">Aspen Tree Sapling</a>
+</td>
+<td><i>None</i>
+</td>
+<td>No
+</td></tr>
+</tbody></table>
+<h2><span class="mw-headline" id="Tree_species_guide">Tree species guide</span></h2>
+<h3><span class="mw-headline" id="Apple_tree">Apple tree</span></h3>
+<p><b>Apple tree</b> is a very common tree species which occours especially in temperate climates and grows from <a href="/Saplings" class="mw-redirect" title="Saplings">apple tree saplings</a>. Its trunk usually consists of 4 or 5 <a href="/Tree" class="mw-redirect" title="Tree">tree</a> blocks and some <a href="/Leaves" title="Leaves">apple tree leaves</a>. Apple trees may or may not bear apples. When grrown from an <a href="/Saplings" class="mw-redirect" title="Saplings">apple tree sapling</a>, there is a 25% chance the tree will bear apples.
+</p><p>Apple trees are able to regrow their apples.
+</p><p>The trunk of regular trees are slightly differently shaped depending on the map generator being used. In v6, it grows straight upwards, while in the other map generators, the trunk may branch.
+</p>
+<div><ul> 
+<li style="display: inline-block;"><div class="thumb tnone"><div class="thumbinner" style="width:202px;"><a href="/File:Tree_pic.png" class="image"><img alt="" src="/images/thumb/4/4f/Tree_pic.png/200px-Tree_pic.png" decoding="async" width="200" height="196" class="thumbimage" srcset="/images/thumb/4/4f/Tree_pic.png/300px-Tree_pic.png 1.5x, /images/4/4f/Tree_pic.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Tree_pic.png" class="internal" title="Enlarge"></a></div>Apple tree with branches but without apples (in all mapgens except v6)</div></div></div></li>
+<li style="display: inline-block;"><div class="thumb tnone"><div class="thumbinner" style="width:202px;"><a href="/File:Tree_v6.png" class="image"><img alt="" src="/images/thumb/b/bb/Tree_v6.png/200px-Tree_v6.png" decoding="async" width="200" height="185" class="thumbimage" srcset="/images/thumb/b/bb/Tree_v6.png/300px-Tree_v6.png 1.5x, /images/b/bb/Tree_v6.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Tree_v6.png" class="internal" title="Enlarge"></a></div>Apple tree without apples in mapgen v6</div></div></div></li>
+<li style="display: inline-block;"><div class="thumb tnone"><div class="thumbinner" style="width:202px;"><a href="/File:Apple_tree.png" class="image"><img alt="" src="/images/thumb/4/4e/Apple_tree.png/200px-Apple_tree.png" decoding="async" width="200" height="153" class="thumbimage" srcset="/images/thumb/4/4e/Apple_tree.png/300px-Apple_tree.png 1.5x, /images/4/4e/Apple_tree.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Apple_tree.png" class="internal" title="Enlarge"></a></div>Modern apple tree with branches (in all mapgens except v6)</div></div></div></li>
+<li style="display: inline-block;"><div class="thumb tnone"><div class="thumbinner" style="width:202px;"><a href="/File:Apple_Tree_v6.png" class="image"><img alt="" src="/images/thumb/f/fb/Apple_Tree_v6.png/200px-Apple_Tree_v6.png" decoding="async" width="200" height="224" class="thumbimage" srcset="/images/thumb/f/fb/Apple_Tree_v6.png/300px-Apple_Tree_v6.png 1.5x, /images/f/fb/Apple_Tree_v6.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Apple_Tree_v6.png" class="internal" title="Enlarge"></a></div>Apple tree in mapgen v6</div></div></div></li>
+</ul></div>
+<h3><span class="mw-headline" id="Jungle_tree">Jungle tree</span></h3>
+<p><b>Jungle trees</b> grow from <a href="/Saplings" class="mw-redirect" title="Saplings">jungle tree saplings</a> and are only found naturally in <a href="/Biomes#Jungle" title="Biomes">jungles</a>. The trunk consists of <a href="/Jungle_Tree" title="Jungle Tree">jungle tree blocks</a> amd <a href="/Leaves" title="Leaves">jungle tree leaves</a> and usually has 9-13 jungle tree blocks in height. On a flat floor, up to additional 8 jungle tree blocks can appear around the trunk. This makes jungle trees excellent for <a href="/Farming" title="Farming">farming</a> a lot of tree trunk blocks.
+</p><p>The jungle trees in v6 are very differently shaped than in the other map generators. V6 jungle trees don't branch out and have a wider leaf spread. Jungle trees in the other map generators have branches, but fewer leaves in total.
+</p>
+<div><ul> 
+<li style="display: inline-block;"><div class="thumb tnone"><div class="thumbinner" style="width:202px;"><a href="/File:Jungletree_pic.png" class="image"><img alt="" src="/images/thumb/4/44/Jungletree_pic.png/200px-Jungletree_pic.png" decoding="async" width="200" height="475" class="thumbimage" srcset="/images/thumb/4/44/Jungletree_pic.png/300px-Jungletree_pic.png 1.5x, /images/4/44/Jungletree_pic.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Jungletree_pic.png" class="internal" title="Enlarge"></a></div>Modern jungle tree (in all mapgens except v6)</div></div></div></li>
+<li style="display: inline-block;"><div class="thumb tnone"><div class="thumbinner" style="width:202px;"><a href="/File:Jungle_Tree_v6.png" class="image"><img alt="" src="/images/thumb/e/ed/Jungle_Tree_v6.png/200px-Jungle_Tree_v6.png" decoding="async" width="200" height="327" class="thumbimage" srcset="/images/thumb/e/ed/Jungle_Tree_v6.png/300px-Jungle_Tree_v6.png 1.5x, /images/e/ed/Jungle_Tree_v6.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Jungle_Tree_v6.png" class="internal" title="Enlarge"></a></div>Jungle tree in mapgen v6</div></div></div></li>
+</ul></div>
+<h3><span class="mw-headline" id="Emergent_jungle_tree">Emergent jungle tree</span></h3>
+<p><b>Emergent jungle trees</b> grow from <a href="/Saplings" class="mw-redirect" title="Saplings">|emergent jungle tree saplings</a>. They are like jungle trees, much much taller.
+</p>
+<h3><span class="mw-headline" id="Pine_tree">Pine tree</span></h3>
+<p><b>Pine trees</b> appear naturally in <a href="/Biomes" title="Biomes">taiga biomes</a>. Pine trees may be covered in <a href="/Snow" title="Snow">snow</a>. In the <a href="/Map_generator" title="Map generator">map generator</a> v6, this is always the case. They can grow up to 13 nodes high. They are made of <a href="/Pine_Tree" title="Pine Tree">pine tree blocks</a> and <a href="/Leaves" title="Leaves">pine tree needles</a>. <a href="/Saplings" class="mw-redirect" title="Saplings">Pine tree saplings</a> grow into pine trees. which will be again be covered in snow if the sapling was next to <a href="/Dirt_with_Snow" title="Dirt with Snow">dirt with snow</a>, <a href="/Snow" title="Snow">snow</a> or <a href="/Snow_Block" title="Snow Block">snow block</a>.
+</p><p>Although the difference is subtle, pine trees are shaped a bit differently in v6 than in the other map generators. In v6, pine trees are generally higher and have wider leaves.
+</p>
+<div><ul> 
+<li style="display: inline-block;"><div class="thumb tnone"><div class="thumbinner" style="width:202px;"><a href="/File:Pine_Tree_flat.png" class="image"><img alt="" src="/images/thumb/4/46/Pine_Tree_flat.png/200px-Pine_Tree_flat.png" decoding="async" width="200" height="309" class="thumbimage" srcset="/images/thumb/4/46/Pine_Tree_flat.png/300px-Pine_Tree_flat.png 1.5x, /images/4/46/Pine_Tree_flat.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Pine_Tree_flat.png" class="internal" title="Enlarge"></a></div>Typical pine tree (in all mapgens except v6)</div></div></div></li>
+<li style="display: inline-block;"><div class="thumb tnone"><div class="thumbinner" style="width:202px;"><a href="/File:Snow_Pine_Tree_flat.png" class="image"><img alt="" src="/images/thumb/f/f6/Snow_Pine_Tree_flat.png/200px-Snow_Pine_Tree_flat.png" decoding="async" width="200" height="319" class="thumbimage" srcset="/images/thumb/f/f6/Snow_Pine_Tree_flat.png/300px-Snow_Pine_Tree_flat.png 1.5x, /images/f/f6/Snow_Pine_Tree_flat.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Snow_Pine_Tree_flat.png" class="internal" title="Enlarge"></a></div>Snow-covered pine tree (in all mapgens except v6)</div></div></div></li>
+<li style="display: inline-block;"><div class="thumb tnone"><div class="thumbinner" style="width:202px;"><a href="/File:Pine_Tree_v6.png" class="image"><img alt="" src="/images/thumb/0/0c/Pine_Tree_v6.png/200px-Pine_Tree_v6.png" decoding="async" width="200" height="240" class="thumbimage" srcset="/images/thumb/0/0c/Pine_Tree_v6.png/300px-Pine_Tree_v6.png 1.5x, /images/0/0c/Pine_Tree_v6.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Pine_Tree_v6.png" class="internal" title="Enlarge"></a></div>Pine tree in v6</div></div></div></li>
+<li style="display: inline-block;"><div class="thumb tnone"><div class="thumbinner" style="width:202px;"><a href="/File:Snow_Pine_Tree_v6.png" class="image"><img alt="" src="/images/thumb/c/c6/Snow_Pine_Tree_v6.png/200px-Snow_Pine_Tree_v6.png" decoding="async" width="200" height="317" class="thumbimage" srcset="/images/thumb/c/c6/Snow_Pine_Tree_v6.png/300px-Snow_Pine_Tree_v6.png 1.5x, /images/c/c6/Snow_Pine_Tree_v6.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Snow_Pine_Tree_v6.png" class="internal" title="Enlarge"></a></div>Snow-covered pine tree in v6</div></div></div></li>
+</ul></div>
+<h3><span class="mw-headline" id="Acacia_tree">Acacia tree</span></h3>
+<p><b>Acacia trees</b> grow in savannah biomes and grow from <a href="/Saplings" class="mw-redirect" title="Saplings">acacia tree saplings</a>. Acacia trees do not natually appear in the v6 <a href="/Map_generator" title="Map generator">map generator</a>.
+</p><p>They are made of 12-13 <a href="/Acacia_Tree" title="Acacia Tree">acacia tree blocks</a> and about 75 <a href="/Leaves" title="Leaves">acacia tree leaves</a>. Acacia trees consist of a main vertical trunk which is 4 or 5 acacia tree block tall, and 4 branches of 2 acacia tree blocks each. 
+</p>
+<div class="thumb tnone"><div class="thumbinner" style="width:402px;"><a href="/File:Screenshot_Acacia_Trees.png" class="image"><img alt="" src="/images/thumb/0/0a/Screenshot_Acacia_Trees.png/400px-Screenshot_Acacia_Trees.png" decoding="async" width="400" height="184" class="thumbimage" srcset="/images/thumb/0/0a/Screenshot_Acacia_Trees.png/600px-Screenshot_Acacia_Trees.png 1.5x, /images/0/0a/Screenshot_Acacia_Trees.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Screenshot_Acacia_Trees.png" class="internal" title="Enlarge"></a></div>Acacia tree</div></div></div>
+<h3><span class="mw-headline" id="Aspen_tree">Aspen tree</span></h3>
+<p><b>Aspen trees</b> grow in deciduous forests and grow from <a href="/Saplings" class="mw-redirect" title="Saplings">aspen tree saplings</a>. Aspen trees do not naturally appear in the v6 <a href="/Map_generator" title="Map generator">map generator</a>. They are made of <a href="/Aspen_Tree" title="Aspen Tree">aspen tree blocks</a> and <a href="/Leaves" title="Leaves">aspen tree leaves</a>.
+</p>
+<div><ul> 
+<li style="display: inline-block;"><div class="thumb tnone"><div class="thumbinner" style="width:202px;"><a href="/File:Aspen_Tree_flat.png" class="image"><img alt="" src="/images/thumb/f/fb/Aspen_Tree_flat.png/200px-Aspen_Tree_flat.png" decoding="async" width="200" height="367" class="thumbimage" srcset="/images/thumb/f/fb/Aspen_Tree_flat.png/300px-Aspen_Tree_flat.png 1.5x, /images/f/fb/Aspen_Tree_flat.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Aspen_Tree_flat.png" class="internal" title="Enlarge"></a></div>Aspen tree</div></div></div></li>
+<li style="display: inline-block;"><div class="thumb tnone"><div class="thumbinner" style="width:602px;"><a href="/File:Aspen_trees.png" class="image"><img alt="" src="/images/thumb/2/28/Aspen_trees.png/600px-Aspen_trees.png" decoding="async" width="600" height="230" class="thumbimage" srcset="/images/2/28/Aspen_trees.png 1.5x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Aspen_trees.png" class="internal" title="Enlarge"></a></div>Various aspen trees of varying height</div></div></div></li>
+</ul></div>
+<!-- 
+NewPP limit report
+Cached time: 20230709153915
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.430 seconds
+Real time usage: 0.681 seconds
+Preprocessor visited node count: 164/1000000
+Post‐expand include size: 1251/2097152 bytes
+Template argument size: 188/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 14/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.120/7 seconds
+Lua virtual size: 5.54 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  302.894      1 Template:Languages
+100.00%  302.894      1 -total
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:134-0!canonical and timestamp 20230709153914 and revision id 22450
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Trees&amp;oldid=22450">http://wiki.minetest.net/index.php?title=Trees&amp;oldid=22450</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li><li><a href="/Category:Plants" title="Category:Plants">Plants</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Trees" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Trees" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Trees&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Trees">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Trees&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Trees&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Trees" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Trees" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Trees&amp;oldid=22450" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Trees&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 11 March 2019, at 02:18.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.430","walltime":"0.681","ppvisitednodes":{"value":164,"limit":1000000},"postexpandincludesize":{"value":1251,"limit":2097152},"templateargumentsize":{"value":188,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":14,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  302.894      1 Template:Languages","100.00%  302.894      1 -total"]},"scribunto":{"limitreport-timeusage":{"value":"0.120","limit":"7"},"limitreport-virtmemusage":{"value":5808128,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709153915","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":317});});</script></body></html>

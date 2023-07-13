@@ -1,0 +1,483 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Mods:Mobs - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"3b952c05ec783e157f3a3f89","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Mods:Mobs","wgTitle":"Mods:Mobs","wgCurRevisionId":27438,"wgRevisionId":27438,"wgArticleId":1228,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Legacy mod lists","Languages pages","Languages pages without translations"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Mods:Mobs","wgRelevantArticleId":1228,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={
+"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=ext.cite.styles%7Cmediawiki.page.gallery.styles%7Cmediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Mods_Mobs rootpage-Mods_Mobs skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Mods:Mobs</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="margin: 0 auto 1em; text-align: justify; border-collapse: collapse; border-width: 1px; border-style: dashed; width: 100%; clear: both; border-color:#f28500; background:#ffe;">
+<tbody><tr>
+<td style="border: none; padding: 2px 0 2px 0.9em; text-align: center;">
+ <img alt="Mbox important.png" src="/images/thumb/7/79/Mbox_important.png/25px-Mbox_important.png" decoding="async" width="25" height="25" srcset="/images/thumb/7/79/Mbox_important.png/38px-Mbox_important.png 1.5x, /images/7/79/Mbox_important.png 2x" /></td>
+<td style="border: none; padding: 0.25em 0.9em; width: 100%;"><b>This is an <i>unofficial</i> list of mods. It is incomplete and very outdated.</b><br />
+Do not rely on it to find the latest mods. Use <a rel="nofollow" class="external text" href="https://content.minetest.net/">ContentDB</a> to find mods instead.</td>
+
+</tr></tbody></table>
+<table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> Language:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><b><a class="mw-selflink selflink">English</a></b></td>
+</tr></tbody></table>
+<p>Please see the <a rel="nofollow" class="external text" href="https://content.minetest.net/packages/?tag=mobs">Mobs tag</a> on ContentDB for an up to date list of mob mods.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Mods_that_add_mobs"><span class="tocnumber">1</span> <span class="toctext">Mods that add mobs</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Carbone_Mobs_.5Bmobs.5D"><span class="tocnumber">1.1</span> <span class="toctext">Carbone Mobs [mobs]</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#CUTE_CUBIC_MOBS_2_.5Bccmobs.5D"><span class="tocnumber">1.2</span> <span class="toctext">CUTE CUBIC MOBS 2 [ccmobs]</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Extreme_Survival_Mobs_.5Besmobs.5D"><span class="tocnumber">1.3</span> <span class="toctext">Extreme Survival Mobs [esmobs]</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Jellyfish_Mod_.5Bjellyfish.5D"><span class="tocnumber">1.4</span> <span class="toctext">Jellyfish Mod [jellyfish]</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#M.I.L.A._.28Mobs_Intelligence_:_Lightweight_Api.29"><span class="tocnumber">1.5</span> <span class="toctext">M.I.L.A. (Mobs Intelligence&#160;: Lightweight Api)</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Mobkit_-_Entity_API"><span class="tocnumber">1.6</span> <span class="toctext">Mobkit - Entity API</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Mobsplus_and_Edited_Areas_.28modpack.29_.5Bmobsplusareas-mp.5D"><span class="tocnumber">1.7</span> <span class="toctext">Mobsplus and Edited Areas (modpack) [mobsplusareas-mp]</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Nodebox_Mob_API_.5Bnmobs.5D"><span class="tocnumber">1.8</span> <span class="toctext">Nodebox Mob API [nmobs]</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Open_AI_open_ai"><span class="tocnumber">1.9</span> <span class="toctext">Open AI open_ai</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Peaceful_NPC_.5Bpeaceful_npc.5D"><span class="tocnumber">1.10</span> <span class="toctext">Peaceful NPC [peaceful_npc]</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Santa.21_.5Bsanta.5D"><span class="tocnumber">1.11</span> <span class="toctext">Santa! [santa]</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Senderman_.5Bsenderman.5D"><span class="tocnumber">1.12</span> <span class="toctext">Senderman [senderman]</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Soldiermob_.5Bsoldiermob.5D"><span class="tocnumber">1.13</span> <span class="toctext">Soldiermob [soldiermob]</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Slugs_.5Bslugs.5D"><span class="tocnumber">1.14</span> <span class="toctext">Slugs [slugs]</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#They.27re_everywhere.21.28bugslive.29_.5Bbugslive.5D"><span class="tocnumber">1.15</span> <span class="toctext">They're everywhere!(bugslive) [bugslive]</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Workers_.5Bworkers.5D"><span class="tocnumber">1.16</span> <span class="toctext">Workers [workers]</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Worms_and_Snakes_.5Bworm.5D"><span class="tocnumber">1.17</span> <span class="toctext">Worms and Snakes [worm]</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Zombie_Waves_.5Bzombie_waves.5D"><span class="tocnumber">1.18</span> <span class="toctext">Zombie Waves [zombie_waves]</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-20"><a href="#Other_mods_.28containing_mobs.29"><span class="tocnumber">2</span> <span class="toctext">Other mods (containing mobs)</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#Other_mods_.28without_mobs.29"><span class="tocnumber">3</span> <span class="toctext">Other mods (without mobs)</span></a></li>
+<li class="toclevel-1 tocsection-22"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-23"><a href="#Notes_and_references"><span class="tocnumber">5</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Mods_that_add_mobs"><a href="/Mods" title="Mods">Mods</a> that add <a href="/Mobs" title="Mobs">mobs</a></span></h2>
+<h3><span id="Carbone_Mobs_[mobs]"></span><span class="mw-headline" id="Carbone_Mobs_.5Bmobs.5D">Carbone Mobs [<a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?t=9656">mobs</a>]</span></h3>
+<p>Another mobs mod based on PilzAdam's mobs mod. Includes dirt monsters, stone monsters, sand monsters, tree monsters, <a href="/Oerkki" title="Oerkki">oerkkis</a>, <a href="/Dungeon_master" title="Dungeon master">dungeon masters</a>, rhino, troopers, sheep and rats.
+</p>
+<h3><span id="CUTE_CUBIC_MOBS_2_[ccmobs]"></span><span class="mw-headline" id="CUTE_CUBIC_MOBS_2_.5Bccmobs.5D">CUTE CUBIC MOBS 2 [<a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=16526">ccmobs</a>]</span></h3>
+<p>adds mobs of the type cow, goat, pig, sheep, rockmonster and treemonster. Rather cubic mobs made of nodeboxes in contrast to meshes as used by most other mob mods. The code is based on the original ccmobs.
+</p>
+<h3><span id="Extreme_Survival_Mobs_[esmobs]"></span><span class="mw-headline" id="Extreme_Survival_Mobs_.5Besmobs.5D">Extreme Survival Mobs [<a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?t=13616">esmobs</a>]</span></h3>
+<p>Smart PVP Mobs with an enhanced pathfinding that will find you!
+</p>
+<h3><span id="Jellyfish_Mod_[jellyfish]"></span><span class="mw-headline" id="Jellyfish_Mod_.5Bjellyfish.5D">Jellyfish Mod [<a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=15965">jellyfish</a>]</span></h3>
+<p>adds some jellyfish  -  (ouch)
+</p>
+<h3><span id="M.I.L.A._(Mobs_Intelligence_:_Lightweight_Api)"></span><span class="mw-headline" id="M.I.L.A._.28Mobs_Intelligence_:_Lightweight_Api.29"><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=15375">M.I.L.A.</a> (Mobs Intelligence&#160;: Lightweight Api)</span></h3>
+<p>A small api which aims to run faster than mobs redo, and to do less things than cmb.
+</p>
+<hr />
+<hr />
+<h3><span class="mw-headline" id="Mobkit_-_Entity_API">Mobkit - Entity API</span></h3>
+<p>Description: A mob-api that tries to offer realistic physics, async operation, Mob spatial awareness and consistasy among others. <br /> 
+Links: [ContentDB] | <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=22112">Forum</a> | <a rel="nofollow" class="external text" href="https://github.com/TheTermos/mobkit/">Codehosting</a> <br /> 
+Author: <a rel="nofollow" class="external text" href="https://forum.minetest.net/memberlist.php?mode=viewprofile&amp;u=24082">Termos</a> 
+</p><p><br />
+The following mods depending on the MobKit API and containing animals, humanoids, monsters or a mixture of these catogories.
+</p>
+<ul><li><b>aerotest</b> (Eagle - King of the sky)<br /></li></ul>
+<p>Description: Adds eagles.<br /> 
+Links: [ContentDB] | <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=24084">Forum</a> | <a rel="nofollow" class="external text" href="https://github.com/berengma/aerotest">Codehosting</a><br /> 
+Authors: <a rel="nofollow" class="external text" href="https://forum.minetest.net/memberlist.php?mode=viewprofile&amp;u=18398">Gundul</a>, <a rel="nofollow" class="external text" href="https://forum.minetest.net/memberlist.php?mode=viewprofile&amp;u=24082">Termos</a>, <a rel="nofollow" class="external text" href="https://forum.minetest.net/memberlist.php?mode=viewprofile&amp;u=22863">Extex</a>, <a rel="nofollow" class="external text" href="https://forum.minetest.net/memberlist.php?mode=viewprofile&amp;u=301">Melkor</a> 
+</p>
+<ul><li><b>better_fauna</b><br /></li></ul>
+<p>Description: Adds cows, sheeps, pigs, chicken and turkeys with group spawning support.<br /> 
+Links: <a rel="nofollow" class="external text" href="https://content.minetest.net/packages/ElCeejo/better_fauna/">ContentDB</a> | [Forum] | <a rel="nofollow" class="external text" href="https://github.com/ElCeejo/better_fauna">Codehosting</a><br />
+Author: <a rel="nofollow" class="external text" href="https://content.minetest.net/users/ElCeejo/">ElCeejo</a>
+</p>
+<ul><li><b>eg_goats</b><br /></li></ul>
+<p>Description: Adds goats.<br />
+Links: [ContentDB] | [Forum] | <a rel="nofollow" class="external text" href="https://notabug.org/NetherEran/travelers_adventure/src/master/mods/mobs/eg_goats">Codehosting</a> <br /> 
+Author: <a rel="nofollow" class="external text" href="https://notabug.org/NetherEran">NetherEran</a>
+</p>
+<ul><li><b>markov_macaws</b><br /></li></ul>
+<p>Description: Adds macaws.<br /> 
+Links: [ContentDB] | [Forum] | <a rel="nofollow" class="external text" href="https://notabug.org/NetherEran/markov_macaws">Codehosting</a><br /> 
+Author: <a rel="nofollow" class="external text" href="https://notabug.org/NetherEran">NetherEran</a> 
+</p>
+<ul><li><b>wildlife</b><br /></li></ul>
+<p>Description: Adds wolfs and deers.<br />
+Links: <a rel="nofollow" class="external text" href="https://content.minetest.net/packages/Termos/wildlife/">ContentDB</a> | [Forum] | <a rel="nofollow" class="external text" href="https://github.com/TheTermos/wildlife/">Codehosting</a><br />
+Author: <a rel="nofollow" class="external text" href="https://forum.minetest.net/memberlist.php?mode=viewprofile&amp;u=24082">Termos</a> 
+</p>
+<ul><li><b>zombiestrd</b><br /></li></ul>
+<p>Description: Adds zombies and sharks.<br />
+Links: [ContentDB] | [Forum] | <a rel="nofollow" class="external text" href="https://github.com/TheTermos/zombiestrd/">Codehosting</a><br />
+Author: <a rel="nofollow" class="external text" href="https://forum.minetest.net/memberlist.php?mode=viewprofile&amp;u=24082">Termos</a> 
+</p><p><br />
+The following mods depending on the MobKit API but do not contain animals, humanoids, monsters or a mixture of these catogories.
+</p>
+<ul><li><b>motorboat</b><br /></li></ul>
+<p>Description: Adds a motorboat.<br />
+Links: [ContentDB] | <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=24652">Forum</a> | <a rel="nofollow" class="external text" href="https://github.com/APercy/motorboat">Codehosting</a><br />
+Author: <a rel="nofollow" class="external text" href="https://forum.minetest.net/memberlist.php?mode=viewprofile&amp;u=26463">apercy</a>
+</p>
+<ul><li><b>sailing_kit</b><br /></li></ul>
+<p>Description: Adds a sailboat.<br />
+Links: <a rel="nofollow" class="external text" href="https://content.minetest.net/packages/Termos/sailing_kit/">ContentDB</a> | <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?t=23520">Forum</a> | <a rel="nofollow" class="external text" href="https://github.com/TheTermos/sailing_kit">Codehosting</a><br />
+Author: <a rel="nofollow" class="external text" href="https://forum.minetest.net/memberlist.php?mode=viewprofile&amp;u=24082">Termos</a> 
+</p>
+<hr />
+<hr />
+<h3><span id="Mobsplus_and_Edited_Areas_(modpack)_[mobsplusareas-mp]"></span><span class="mw-headline" id="Mobsplus_and_Edited_Areas_.28modpack.29_.5Bmobsplusareas-mp.5D">Mobsplus and Edited Areas (modpack) [<a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?t=9166">mobsplusareas-mp</a>]</span></h3>
+<p>Combines elements of Simple Mobs, KPGMobs and Zeg's Mobs. Includes Dirt Monster, Tree Monster, Sand Monster, Stone Monster, Oerkki, Dungeon Master, and Wolf as well as Boar, Sheep, Chicken, Cow, Horses (all original varieties), and Rat and also Mese Monster and Lava Flan. 
+</p><p><br /> 
+</p>
+<hr /> 
+<hr />
+<p><br /> 
+</p>
+<ul><li><b><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?p=176616#p176616">Creeper for Mobs Redo</a></b></li></ul>
+<p>adds some explosive nuisance
+</p>
+<ul><li><b><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=16054">Desert Life (desert_life) for Mobs Redo</a></b></li></ul>
+<p>adds ostrich to desert biomes besides some more desert plants.
+</p>
+<ul><li><b>Progress Mobs (was SimpleMobs++) [<a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=10354">pmobs</a>]</b></li></ul>
+<p>Depends on Mobs Redo!
+giant spiders, bees,chicken, cows, sheep, warthog, rats, sand-, dirt-, stone-, tree-monsters, oerkki, dungeon masters, lava flan, mese monsters and as additions yeti, wolves, dogs and wardogs.
+</p>
+<ul><li><b><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=11743#p176617">Slimes for Mobs Redo</a></b></li></ul>
+<ul><li><b>Snow Walkers (for mobs_redo) [<a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=19921">mobs_others</a>]</b></li></ul>
+<p>Adds said unfreindly and rather pale guys, and an obsidian sword needed to fight them.
+Inspired by George R.R. Martin's "White Walkers / the Others"<sup id="cite_ref-got_1-0" class="reference"><a href="#cite_note-got-1">&#91;1&#93;</a></sup> fictional characters
+</p>
+<ul><li><b><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=22504">tmw_slimes</a> for Mobs Redo</b></li></ul>
+<p>Slimes inspired by <a rel="nofollow" class="external text" href="https://www.themanaworld.org/">TheManaWorld</a>. Original version from the Content-DB may not work with mt-5.3. Search the thread for fixes.
+</p>
+<hr />
+<hr />
+<h3><span id="Nodebox_Mob_API_[nmobs]"></span><span class="mw-headline" id="Nodebox_Mob_API_.5Bnmobs.5D">Nodebox Mob API [<a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=16557">nmobs</a>]</span></h3>
+<p>A very primitive mob API for use with nodebox mobs only. Mobs move around but are not otherwise animated.
+</p>
+<h3><span class="mw-headline" id="Open_AI_open_ai">Open AI <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=16032">open_ai</a></span></h3>
+<p>A mobs API to add mobs as moduls. It is in developing status and sofar only sheep exist.
+</p>
+<h3><span id="Peaceful_NPC_[peaceful_npc]"></span><span class="mw-headline" id="Peaceful_NPC_.5Bpeaceful_npc.5D">Peaceful NPC [<a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=11&amp;t=4167">peaceful_npc</a>]</span></h3>
+<p>includes random non-player characters that follow you
+</p>
+<h3><span id="Santa!_[santa]"></span><span class="mw-headline" id="Santa.21_.5Bsanta.5D">Santa! [<a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=4075">santa</a>]</span></h3>
+<p>adds a Santa that drops coal
+</p>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/File:Jordan4ibanez_santa.png" class="image"><img alt="Jordan4ibanez santa.png" src="/images/thumb/f/fb/Jordan4ibanez_santa.png/69px-Jordan4ibanez_santa.png" decoding="async" width="69" height="120" srcset="/images/thumb/f/fb/Jordan4ibanez_santa.png/103px-Jordan4ibanez_santa.png 1.5x, /images/thumb/f/fb/Jordan4ibanez_santa.png/138px-Jordan4ibanez_santa.png 2x" /></a></div></div>
+			<div class="gallerytext">
+			</div>
+		</div></li>
+</ul>
+<h3><span id="Senderman_[senderman]"></span><span class="mw-headline" id="Senderman_.5Bsenderman.5D">Senderman [<a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=11&amp;t=9623">senderman</a>]</span></h3>
+<p>meet Senderman. Includes the senderegg.
+</p>
+<h3><span id="Soldiermob_[soldiermob]"></span><span class="mw-headline" id="Soldiermob_.5Bsoldiermob.5D">Soldiermob [<a rel="nofollow" class="external text" href="https://github.com/maikerumine/soldiermob">soldiermob</a>]</span></h3>
+<p>This mob adds VERY aggressive soldiers that will shoot at you. Good luck!
+</p>
+<h3><span id="Slugs_[slugs]"></span><span class="mw-headline" id="Slugs_.5Bslugs.5D">Slugs [<a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=18873">slugs</a>]</span></h3>
+<p>This mod adds moving slugs using nodes. (Similar idea to worm mod) Beware, rather cubic.
+</p>
+<h3><span id="They're_everywhere!(bugslive)_[bugslive]"></span><span class="mw-headline" id="They.27re_everywhere.21.28bugslive.29_.5Bbugslive.5D">They're everywhere!(bugslive) [<a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=11174">bugslive</a>]</span></h3>
+<p>adds some creeping critters.
+A version that runs with Mobs Redo exists.
+</p>
+<h3><span id="Workers_[workers]"></span><span class="mw-headline" id="Workers_.5Bworkers.5D">Workers [<a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?t=2576">workers</a>]</span></h3>
+<p>adds worker cubes. May be a bit outdated. Beware, very cubic.
+</p>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/File:WorkersMod_Benjo_the_builder.png" class="image"><img alt="WorkersMod Benjo the builder.png" src="/images/thumb/1/1c/WorkersMod_Benjo_the_builder.png/116px-WorkersMod_Benjo_the_builder.png" decoding="async" width="116" height="120" srcset="/images/thumb/1/1c/WorkersMod_Benjo_the_builder.png/175px-WorkersMod_Benjo_the_builder.png 1.5x, /images/thumb/1/1c/WorkersMod_Benjo_the_builder.png/233px-WorkersMod_Benjo_the_builder.png 2x" /></a></div></div>
+			<div class="gallerytext">
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/File:WorkersMod_Cardon_the_cop.png" class="image"><img alt="WorkersMod Cardon the cop.png" src="/images/thumb/9/9a/WorkersMod_Cardon_the_cop.png/120px-WorkersMod_Cardon_the_cop.png" decoding="async" width="120" height="120" srcset="/images/thumb/9/9a/WorkersMod_Cardon_the_cop.png/180px-WorkersMod_Cardon_the_cop.png 1.5x, /images/thumb/9/9a/WorkersMod_Cardon_the_cop.png/239px-WorkersMod_Cardon_the_cop.png 2x" /></a></div></div>
+			<div class="gallerytext">
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/File:WorkersMod_Mordec_the_miner.png" class="image"><img alt="WorkersMod Mordec the miner.png" src="/images/thumb/e/e2/WorkersMod_Mordec_the_miner.png/114px-WorkersMod_Mordec_the_miner.png" decoding="async" width="114" height="120" srcset="/images/thumb/e/e2/WorkersMod_Mordec_the_miner.png/171px-WorkersMod_Mordec_the_miner.png 1.5x, /images/thumb/e/e2/WorkersMod_Mordec_the_miner.png/228px-WorkersMod_Mordec_the_miner.png 2x" /></a></div></div>
+			<div class="gallerytext">
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/File:WorkersMod_Garren_the_gardener.png" class="image"><img alt="WorkersMod Garren the gardener.png" src="/images/thumb/7/7a/WorkersMod_Garren_the_gardener.png/118px-WorkersMod_Garren_the_gardener.png" decoding="async" width="118" height="120" srcset="/images/thumb/7/7a/WorkersMod_Garren_the_gardener.png/177px-WorkersMod_Garren_the_gardener.png 1.5x, /images/thumb/7/7a/WorkersMod_Garren_the_gardener.png/235px-WorkersMod_Garren_the_gardener.png 2x" /></a></div></div>
+			<div class="gallerytext">
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/File:WorkersMod_Toco_the_thief.png" class="image"><img alt="WorkersMod Toco the thief.png" src="/images/thumb/1/1a/WorkersMod_Toco_the_thief.png/117px-WorkersMod_Toco_the_thief.png" decoding="async" width="117" height="120" srcset="/images/thumb/1/1a/WorkersMod_Toco_the_thief.png/176px-WorkersMod_Toco_the_thief.png 1.5x, /images/thumb/1/1a/WorkersMod_Toco_the_thief.png/235px-WorkersMod_Toco_the_thief.png 2x" /></a></div></div>
+			<div class="gallerytext">
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/File:WorkersMod_Gredo_the_guard.png" class="image"><img alt="WorkersMod Gredo the guard.png" src="/images/thumb/f/f8/WorkersMod_Gredo_the_guard.png/116px-WorkersMod_Gredo_the_guard.png" decoding="async" width="116" height="120" srcset="/images/thumb/f/f8/WorkersMod_Gredo_the_guard.png/174px-WorkersMod_Gredo_the_guard.png 1.5x, /images/thumb/f/f8/WorkersMod_Gredo_the_guard.png/233px-WorkersMod_Gredo_the_guard.png 2x" /></a></div></div>
+			<div class="gallerytext">
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/File:WorkersMod_Harvey_the_harvester.png" class="image"><img alt="WorkersMod Harvey the harvester.png" src="/images/thumb/5/52/WorkersMod_Harvey_the_harvester.png/117px-WorkersMod_Harvey_the_harvester.png" decoding="async" width="117" height="120" srcset="/images/thumb/5/52/WorkersMod_Harvey_the_harvester.png/176px-WorkersMod_Harvey_the_harvester.png 1.5x, /images/thumb/5/52/WorkersMod_Harvey_the_harvester.png/234px-WorkersMod_Harvey_the_harvester.png 2x" /></a></div></div>
+			<div class="gallerytext">
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/File:WorkersMod_Asvard_the_assassin.png" class="image"><img alt="WorkersMod Asvard the assassin.png" src="/images/thumb/a/ae/WorkersMod_Asvard_the_assassin.png/117px-WorkersMod_Asvard_the_assassin.png" decoding="async" width="117" height="120" srcset="/images/thumb/a/ae/WorkersMod_Asvard_the_assassin.png/176px-WorkersMod_Asvard_the_assassin.png 1.5x, /images/thumb/a/ae/WorkersMod_Asvard_the_assassin.png/234px-WorkersMod_Asvard_the_assassin.png 2x" /></a></div></div>
+			<div class="gallerytext">
+			</div>
+		</div></li>
+</ul>
+<h3><span id="Worms_and_Snakes_[worm]"></span><span class="mw-headline" id="Worms_and_Snakes_.5Bworm.5D">Worms and Snakes [<a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=11&amp;t=17522">worm</a>]</span></h3>
+<p>This mod adds moving worms and snakes using nodes. (Similar idea to slugs mod) Beware, rather cubic.
+</p>
+<h3><span id="Zombie_Waves_[zombie_waves]"></span><span class="mw-headline" id="Zombie_Waves_.5Bzombie_waves.5D">Zombie Waves [zombie_waves]</span></h3>
+<p>includes zombies. The mod may have survived in the <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?id=6696">Zombie Survival</a> Sub-game.
+</p>
+<h2><span id="Other_mods_(containing_mobs)"></span><span class="mw-headline" id="Other_mods_.28containing_mobs.29">Other mods (containing mobs)</span></h2>
+<ul><li><b>random buildings</b></li></ul>
+<p>includes lumberjacks and traders.
+</p>
+<ul><li><b>Zeg's Mobs and Lava Temple [<a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?id=5820">zmobs</a>]</b></li></ul>
+<p>Depends on Simple Mobs (mobs). Adds mese monsters and lava flans.
+</p>
+<h2><span id="Other_mods_(without_mobs)"></span><span class="mw-headline" id="Other_mods_.28without_mobs.29">Other mods (without mobs)</span></h2>
+<ul><li><b>Mob Catching Ball [<a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=10374">mccarball</a>]</b></li></ul>
+<p>A spherical device that, when placed next to a mob, captures and contains said mob. The player can then store it in their inventory. By placing the device somewhere the mob can be releaseed again.
+</p>
+<ul><li><b>Nether [<a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=5790">nether</a>]</b></li></ul>
+<p>The forum page includes a link to a lawyer mob that runs if the simple mobs mod by PilzAdam is run.
+</p>
+<ul><li><b>Mob Spawner [<a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=10555">mobspawn</a>]</b></li></ul>
+<p>Adds spawners for several mob mods such as mobs, carbone_mobs, mobf, creatures, zmobs and more to come.
+</p>
+<ul><li><b>Assign Mobs to spawn in given Biomes [<a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=15755">mobsbiomes</a>]</b></li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<ul><li><a href="/Mobs" title="Mobs">Mobs</a></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span></h2>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-got-1"><span class="mw-cite-backlink"><a href="#cite_ref-got_1-0">↑</a></span> <span class="reference-text">Based on characters of the <a rel="nofollow" class="external text" href="https://en.wikipedia.org/wiki/A_Song_of_Ice_and_Fire">Game of Thrones Television series</a> which is based on novells by George R.R. Martin</span>
+</li>
+</ol></div>
+<!-- 
+NewPP limit report
+Cached time: 20230708195141
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.337 seconds
+Real time usage: 0.574 seconds
+Preprocessor visited node count: 197/1000000
+Post‐expand include size: 2653/2097152 bytes
+Template argument size: 352/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 14/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 6525/5000000 bytes
+Lua time usage: 0.130/7 seconds
+Lua virtual size: 5.54 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  326.594      1 -total
+ 92.15%  300.942      1 Template:Languages
+  7.75%   25.302      1 Template:LegacyModList
+  4.39%   14.333      1 Template:Mbox
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:1228-0!canonical and timestamp 20230708195140 and revision id 27438
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Mods:Mobs&amp;oldid=27438">http://wiki.minetest.net/index.php?title=Mods:Mobs&amp;oldid=27438</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Legacy_mod_lists" title="Category:Legacy mod lists">Legacy mod lists</a></li><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li><li><a href="/Category:Languages_pages_without_translations" title="Category:Languages pages without translations">Languages pages without translations</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Mods%3AMobs" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Mods:Mobs" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk"><a href="/Talk:Mods:Mobs" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Mods:Mobs">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Mods:Mobs&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Mods:Mobs&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Mods:Mobs" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Mods:Mobs" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Mods:Mobs&amp;oldid=27438" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Mods:Mobs&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 18 January 2023, at 20:42.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.337","walltime":"0.574","ppvisitednodes":{"value":197,"limit":1000000},"postexpandincludesize":{"value":2653,"limit":2097152},"templateargumentsize":{"value":352,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":14,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":6525,"limit":5000000},"timingprofile":["100.00%  326.594      1 -total"," 92.15%  300.942      1 Template:Languages","  7.75%   25.302      1 Template:LegacyModList","  4.39%   14.333      1 Template:Mbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.130","limit":"7"},"limitreport-virtmemusage":{"value":5812224,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230708195141","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":628});});</script></body></html>

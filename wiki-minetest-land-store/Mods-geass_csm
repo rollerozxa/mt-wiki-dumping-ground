@@ -1,0 +1,496 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Mods/geass csm - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"571ab3b5043f06f895c0946e","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Mods/geass_csm","wgTitle":"Mods/geass csm","wgCurRevisionId":26252,"wgRevisionId":26252,"wgArticleId":3791,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with ignored display titles","Pages using deprecated source tags","Pages with syntax highlighting errors","Mods"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Mods/geass_csm","wgRelevantArticleId":3791,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,
+"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","ext.pygments":"ready","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=ext.pygments%7Cmediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Mods_geass_csm rootpage-Mods skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Mods/geass csm</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/Mods" title="Mods">Mods</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p><br />
+</p>
+<table class="wikitable" width="200px" style="float:right;text-align:left;margin:0 0 0.5em 1em;padding:5px;font-size:90%;position:relative;clear:right;overflow:auto;z-index:1">
+
+<tbody><tr>
+<th colspan="2" style="font-size:110%;text-align:center">geass_csm
+</th></tr>
+<tr>
+<th colspan="2"><div class="center"><a href="/File:Blank.png" class="image"><img alt="Blank.png" src="/images/d/d2/Blank.png" decoding="async" width="150" height="150" /></a></div>
+</th></tr>
+<tr>
+<th colspan="2" align="center">A <a href="/Mods" title="Mods">mod</a>
+</th></tr>
+<tr>
+<td><b>Mod Type</b>
+</td>
+<td>Misc
+</td></tr>
+<tr>
+<td><b>Author</b>
+</td>
+<td>quater
+</td></tr>
+<tr>
+<td><b>Latest version</b>
+</td>
+<td><a rel="nofollow" class="external text" href="https://github.com/quater117/geass_csm/archive/master.zip">2018-01-05</a>
+</td></tr>
+<tr>
+<td><b>Forum topic</b>
+</td>
+<td><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=53&amp;t=19296">Forum</a>
+</td></tr>
+<tr>
+<td><b>Source code</b>
+</td>
+<td><a rel="nofollow" class="external text" href="https://github.com/quater117/geass_csm">GitHub</a>
+</td></tr>
+<tr>
+<td><b>ContentDB</b>
+</td>
+<td><i>N/A</i>
+</td></tr>
+<tr>
+<td><b>Technical name</b>
+</td>
+<td>geass_csm
+</td></tr></tbody></table>
+<p>This is the user-documentation about the mod <b>geass_csm</b> by quater.
+This mod is inspired by <a rel="nofollow" class="external text" href="https://wiki.minetest.net/Mods/LuaCmd">LuaCmd</a> and <a rel="nofollow" class="external text" href="https://wiki.minetest.net/Mods/basic_robot_csm">basic_robot_csm</a>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Intro"><span class="tocnumber">1</span> <span class="toctext">Intro</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#How_to_get"><span class="tocnumber">1.1</span> <span class="toctext">How to get</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#How_to_use"><span class="tocnumber">1.2</span> <span class="toctext">How to use</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Commands"><span class="tocnumber">2</span> <span class="toctext">Commands</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Miscellaneous"><span class="tocnumber">2.1</span> <span class="toctext">Miscellaneous</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Example_of_programs"><span class="tocnumber">3</span> <span class="toctext">Example of programs</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Hello_world"><span class="tocnumber">3.1</span> <span class="toctext">Hello world</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Morse"><span class="tocnumber">3.2</span> <span class="toctext">Morse</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#rot13"><span class="tocnumber">3.3</span> <span class="toctext">rot13</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Standard_library"><span class="tocnumber">3.4</span> <span class="toctext">Standard library</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Questions_.2F_Ideas_.2F_Suggestions"><span class="tocnumber">4</span> <span class="toctext">Questions / Ideas / Suggestions</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Intro">Intro</span></h2>
+<p>geass_csm is a mod running on the minetest-client.
+</p><p>Users can write programs on this mod in <a rel="nofollow" class="external text" href="http://www.lua.org/">Lua</a>.
+</p><p>These programs are executed inside a sandbox.
+</p><p>Input &amp; Output happens mainly via chat, but it is also possible to play sounds, <br />
+and to process formspecs.
+</p>
+<h3><span class="mw-headline" id="How_to_get">How to get</span></h3>
+<ul><li>install a minetest-version 0.4.16dev, 0.5.0 or later</li>
+<li>download mod from github</li>
+<li>unpack in "minetest DIR"/clientmods/</li>
+<li>enable client mods in advanced settings menu or in minetest.conf</li>
+<li>inside /clientmods/mods.conf there should be a line:</li></ul>
+<dl><dd>load_mod_geass_csm = true</dd></dl>
+<ul><li>while playing say ".luac" or '.lua [code]'</li></ul>
+<h3><span class="mw-headline" id="How_to_use">How to use</span></h3>
+<p>The chat-command '.luac' will present an editor-form and some buttons:
+</p>
+<ul><li>Button "<b>Help</b>" shows some helptext.</li>
+<li>Button "<b>Halt</b>" stops the current program.</li>
+<li>Button "<b>Run</b>" starts executing the code of the program and saves the program.</li>
+<li>Button "<b>Apply</b>" saves the program of the current tab (using mod-storage).</li></ul>
+<p>Select a tab, 
+enter a program (or use cut&amp;paste)
+</p>
+<dl><dd>e.g. core.display_chat_message("Hello world&#160;!")</dd></dl>
+<p>press Run-button.
+</p>
+<h2><span class="mw-headline" id="Commands">Commands</span></h2>
+<p>Available commands: .lua, .luaclear, .luac<br /> 
+See commands in init.lua.<br />
+See also
+</p>
+<ul><li><a rel="nofollow" class="external text" href="https://github.com/minetest/minetest/blob/master/doc/client_lua_api.md">client_lua_api</a></li>
+<li><a rel="nofollow" class="external text" href="https://rubenwardy.com/minetest_modding_book/lua_api.html">Lua Modding API Reference</a></li></ul>
+<p>Lua-docs:
+</p>
+<ul><li><a rel="nofollow" class="external free" href="https://www.lua.org/docs.html">https://www.lua.org/docs.html</a></li>
+<li><a rel="nofollow" class="external free" href="http://lua-users.org/wiki/">http://lua-users.org/wiki/</a></li></ul>
+<h3><span class="mw-headline" id="Miscellaneous">Miscellaneous</span></h3>
+<p>Available subcommands for .luac: edit, exec, halt, load, cat, title, copy, remove, unregister, history<br />
+Specials contents in mod_storage:
+</p>
+<ul><li>on_connect</li>
+<li>titles</li></ul>
+<p>Specials variables and function:
+</p>
+<ul><li>_halt()</li>
+<li>_running_script</li>
+<li>require()</li></ul>
+<h2><span class="mw-headline" id="Example_of_programs">Example of programs</span></h2>
+<p>When a program is started,
+it is executed repeatedly (about once per second)
+until stopped.<br />
+To stop it, press the STOP-button,
+or use the function:
+_halt()
+in the program.
+</p>
+<h3><span class="mw-headline" id="Hello_world">Hello world</span></h3>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre>-- First example
+core.display_chat_message("Hello world&#160;!")
+_halt()</pre></div>
+<h3><span class="mw-headline" id="Morse">Morse</span></h3>
+<p>A interessing example:<br />
+First type in the chat: .luac edit morse<br />
+To edit a new script titled 'morse'<br />
+Then copy &amp; paste the code below and run it (this is a code for minetest 0.5.0)<br />
+If you want to remove this 'fonctionnality' do: .luac unregister morse<br />
+</p>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre>local to_morse = {
+  a = '.-',  b = '-...', c = '-.-.', d = '-..', e = '.', f = '..-.', g = '--.',
+  h = '....', i = '..', j = '.---', k = '-.-', l = '.-..', m = '--', n = '-.',
+  o = '---', p = '.--.', q = '--.-', r = '.-.', s = '...', t = '-', u = '..-',
+  v = '...-', w = '.--', x = '-..-', y = '-.--', z = '--..', [1] = '.----',
+  [2] = '..---', [3] = '...--', [4] = '....-', [5] = '.....', [6] = '-....',
+  [7] = '--...', [8] = '---..', [9] = '----.', [0] = '-----', [' '] = '   '
+}
+local from_morse = {}
+for k, v in pairs(to_morse) do
+  from_morse[v] = k
+end
+core.register_on_sending_chat_message(
+function(message)
+  if message:sub(1, 1) == '!' then
+    message = message:sub(2)
+    message:lower()
+    local to_send = ''
+    for i = 1, #message do
+      local m = to_morse[message:sub(i, i)]
+      if m then
+        to_send = to_send .. m .. ' '
+      else
+        core.display_chat_message(core.colorize('red', 'Can\'t translate: ')
+          .. message:sub(i, i))
+      end
+    end
+    core.send_chat_message(to_send)
+    return true
+  end
+  return false
+end)
+
+core.register_on_receiving_chat_message(
+function(message)
+  core.display_chat_message(message)
+  local name, morse = message:match('^&lt;([^&gt;]*)&gt;%s(.*)')
+  if morse and (morse:sub(1, 1) == '.' or morse:sub(1, 1) == '-'
+    or morse:sub(1, 3) == '   ') then
+    local message = ''
+    morse = morse:gsub('%s%s%s', '&#160;%% ')
+    for m in morse:gmatch('[^%s]+') do
+      if m == '%' then
+        m = '   '
+      end
+      local c = from_morse[m]
+      if c then
+        message = message .. c
+      else
+        break
+      end
+    end
+    core.display_chat_message(core.colorize('red', 'Message: ')
+      .. core.colorize('yellow', message))
+  end
+  return true
+end)
+
+_halt()</pre></div>
+<h3><span class="mw-headline" id="rot13">rot13</span></h3>
+<p>An other example:
+Proceed as previous example
+</p>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre>function rot13(s)
+  return (s:gsub("%a", function(c) c=c:byte() return string.char(c+(c%32&lt;14 and 13 or -13)) end))
+end
+
+core.register_on_sending_chat_message(
+function(message)
+  if message:sub(1, 5) == '/msg ' then
+    message = message:sub(6)
+    local name, msg = message:match('([^%s]+)%s%?(.+)')
+    if not name then
+      return false
+    end
+    core.send_chat_message('/msg ' .. name .. ' @' .. rot13(msg))
+    return true
+  elseif message:sub(1, 1) == '?' and message ~= '?' then
+    message = message:sub(2)
+    local to_send = rot13(message)
+    core.send_chat_message('@' .. to_send)
+    return true
+  end
+  return false
+end)
+
+core.register_on_receiving_chat_message(
+function(ciphertext)
+  core.display_chat_message(ciphertext)
+  local name, c_msg = ciphertext:match('^&lt;(.*)&gt;%s@(.*)')
+  if ciphertext:match('^PM%sfrom%s') then
+    local name, c_msg = ciphertext:match('^PM%sfrom%s([^%s]*):%s@(.*)')
+    if name then
+      core.display_chat_message(core.colorize('red', 'Message: ')
+        .. core.colorize('yellow', rot13(c_msg)))
+    end
+  elseif name then
+    core.display_chat_message(core.colorize('red', 'Message: ')
+      .. core.colorize('yellow', rot13(c_msg)))
+    return true
+  end
+  return true
+end)
+
+_halt()</pre></div>
+<h3><span class="mw-headline" id="Standard_library">Standard library</span></h3>
+<p>The player can make it own library and load it.<br />
+As: .luac edit std<br />
+And press 'Apply'
+</p>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre>print = core.display_chat_message</pre></div>
+<p>Then: .luac edit lua_code
+</p>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre>require('std')
+print('Loaded')
+_halt()</pre></div>
+<p>Or in the chat: .lua require'std'; print('Quick Test')
+</p>
+<h2><span id="Questions_/_Ideas_/_Suggestions"></span><span class="mw-headline" id="Questions_.2F_Ideas_.2F_Suggestions">Questions / Ideas / Suggestions</span></h2>
+<ul><li>A better error system</li></ul>
+<!-- 
+NewPP limit report
+Cached time: 20230709182922
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.225 seconds
+Real time usage: 0.849 seconds
+Preprocessor visited node count: 122/1000000
+Post‐expand include size: 1484/2097152 bytes
+Template argument size: 206/2097152 bytes
+Highest expansion depth: 4/40
+Expensive parser function count: 1/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 3811/5000000 bytes
+Lua time usage: 0.130/7 seconds
+Lua virtual size: 5.54 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  341.104      1 Template:Mod_Data
+100.00%  341.104      1 -total
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:3791-0!canonical and timestamp 20230709182921 and revision id 26252
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Mods/geass_csm&amp;oldid=26252">http://wiki.minetest.net/index.php?title=Mods/geass_csm&amp;oldid=26252</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/index.php?title=Category:Pages_with_ignored_display_titles&amp;action=edit&amp;redlink=1" class="new" title="Category:Pages with ignored display titles (page does not exist)">Pages with ignored display titles</a></li><li><a href="/index.php?title=Category:Pages_using_deprecated_source_tags&amp;action=edit&amp;redlink=1" class="new" title="Category:Pages using deprecated source tags (page does not exist)">Pages using deprecated source tags</a></li><li><a href="/index.php?title=Category:Pages_with_syntax_highlighting_errors&amp;action=edit&amp;redlink=1" class="new" title="Category:Pages with syntax highlighting errors (page does not exist)">Pages with syntax highlighting errors</a></li><li><a href="/Category:Mods" title="Category:Mods">Mods</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Mods%2Fgeass+csm" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Mods/geass_csm" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Mods/geass_csm&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Mods/geass_csm">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Mods/geass_csm&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Mods/geass_csm&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Mods/geass_csm" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Mods/geass_csm" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Mods/geass_csm&amp;oldid=26252" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Mods/geass_csm&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 18 April 2021, at 05:10.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.225","walltime":"0.849","ppvisitednodes":{"value":122,"limit":1000000},"postexpandincludesize":{"value":1484,"limit":2097152},"templateargumentsize":{"value":206,"limit":2097152},"expansiondepth":{"value":4,"limit":40},"expensivefunctioncount":{"value":1,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":3811,"limit":5000000},"timingprofile":["100.00%  341.104      1 Template:Mod_Data","100.00%  341.104      1 -total"]},"scribunto":{"limitreport-timeusage":{"value":"0.130","limit":"7"},"limitreport-virtmemusage":{"value":5808128,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709182922","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":1254});});</script></body></html>

@@ -1,0 +1,642 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Controls/ms - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"432ac119a1056136fd558385","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Controls/ms","wgTitle":"Controls/ms","wgCurRevisionId":26086,"wgRevisionId":26086,"wgArticleId":3618,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Malay"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Controls/ms","wgRelevantArticleId":3618,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready",
+"user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Controls_ms rootpage-Controls skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Controls/ms</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/Controls" title="Controls">Controls</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> Bahasa:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><a href="/Controls" title="Controls">English</a>&#160;• <bdi lang="de"><a href="/Controls/de" title="Controls/de">Deutsch</a></bdi>&#160;• <bdi lang="es"><a href="/Controls/es" title="Controls/es">español</a></bdi>&#160;• <bdi lang="fr"><a href="/Controls/fr" title="Controls/fr">français</a></bdi>&#160;• <bdi lang="ja"><a href="/Controls/ja" title="Controls/ja">日本語</a></bdi><b>&#160;• <bdi lang="ms"><a class="mw-selflink selflink">Bahasa Melayu</a></bdi></b></td>
+</tr></tbody></table>
+<p>Ini gambaran keseluruhan untuk semua kawalan yang digunakan dalam Minetest.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Mengubah_kawalan"><span class="tocnumber">1</span> <span class="toctext">Mengubah kawalan</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Kawalan_permainan"><span class="tocnumber">2</span> <span class="toctext">Kawalan permainan</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Perbezaan_untuk_OS_X"><span class="tocnumber">2.1</span> <span class="toctext">Perbezaan untuk OS X</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Mengubah_kawalan_dalam_minetest.conf"><span class="tocnumber">2.2</span> <span class="toctext">Mengubah kawalan dalam minetest.conf</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Kawalan_inventori"><span class="tocnumber">3</span> <span class="toctext">Kawalan inventori</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Kawalan_konsol"><span class="tocnumber">4</span> <span class="toctext">Kawalan konsol</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Mengubah_kawalan">Mengubah kawalan</span></h2>
+<p>Ada dua cara untuk mengubah kawalan: Sama ada menggunakan menu pilihan yang boleh diakses dalam permainan, ataupun dengan menyunting <a href="/Minetest.conf" title="Minetest.conf">minetest.conf</a>. Lihat minetest.conf.example untuk belajar nama tetapan. Ambil perhatian bahawa sesetengah kawalan tidak boleh diubah langsung.
+</p>
+<h2><span class="mw-headline" id="Kawalan_permainan">Kawalan permainan</span></h2>
+<p>Minetest versi PC menggunakan tetikus dan papan kekunci. Berikut disertakan kawalan versi PC (perbezaan antara versi PC juga dinyatakan):
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>Perbuatan
+</th>
+<th>Kawalan lalai
+</th>
+<th>Boleh diubah dalam permainan?
+</th>
+<th>Tetapan minetest.conf
+</th>
+<th>Komen
+</th></tr>
+<tr>
+<th colspan="5">Pergerakan
+</th></tr>
+<tr>
+<td>Lihat sekeliling</td>
+<td>Gerakkan tetikus</td>
+<td>Tidak</td>
+<td><i>(tiada)</i></td>
+<td>
+</td></tr>
+<tr>
+<td>Bergerak ke depan</td>
+<td>W</td>
+<td>Ya</td>
+<td><code>keymap_forward</code></td>
+<td>
+</td></tr>
+<tr>
+<td>Bergerak ke kiri</td>
+<td>A</td>
+<td>Ya</td>
+<td><code>keymap_left</code></td>
+<td>
+</td></tr>
+<tr>
+<td>Bergerak ke kanan</td>
+<td>D</td>
+<td>Ya</td>
+<td><code>keymap_right</code></td>
+<td>
+</td></tr>
+<tr>
+<td>Bergerak ke belakang</td>
+<td>S</td>
+<td>Ya</td>
+<td><code>keymap_backward</code></td>
+<td>
+</td></tr>
+<tr>
+<td>Togol mod pergerakan pantas</td>
+<td>J</td>
+<td>Ya</td>
+<td><code>keymap_fastmove</code></td>
+<td>Lihat <a href="/index.php?title=Controls/Movement_modes/ms&amp;action=edit&amp;redlink=1" class="new" title="Controls/Movement modes/ms (page does not exist)">Mod pergerakan</a>. Perlukan <a href="/index.php?title=Privileges/ms&amp;action=edit&amp;redlink=1" class="new" title="Privileges/ms (page does not exist)">keistimewaan</a> “pergerakan pantas”
+</td></tr>
+<tr>
+<td>Togol mod terbang</td>
+<td>K</td>
+<td>Ya</td>
+<td><code>keymap_freemove</code></td>
+<td>Lihat <a href="/index.php?title=Controls/Movement_modes/ms&amp;action=edit&amp;redlink=1" class="new" title="Controls/Movement modes/ms (page does not exist)">Mod pergerakan</a>. Perlukan <a href="/index.php?title=Privileges/ms&amp;action=edit&amp;redlink=1" class="new" title="Privileges/ms (page does not exist)">keistimewaan</a> “terbang”
+</td></tr>
+<tr>
+<td>Togol mod tembus blok</td>
+<td>H</td>
+<td>Ya</td>
+<td><code>keymap_noclip</code></td>
+<td>Lihat <a href="/index.php?title=Controls/Movement_modes/ms&amp;action=edit&amp;redlink=1" class="new" title="Controls/Movement modes/ms (page does not exist)">Mod pergerakan</a>. Perlukan <a href="/index.php?title=Privileges/ms&amp;action=edit&amp;redlink=1" class="new" title="Privileges/ms (page does not exist)">keistimewaan</a> “tembus blok”
+</td></tr>
+<tr>
+<td>Bergerak pantas</td>
+<td>E</td>
+<td>Ya</td>
+<td><code>keymap_special1</code></td>
+<td>Hanya berfungsi jika mod pergerakan pantas diaktifkan. Agak pelik tetapi kekunci ini juga dipanggil kekunci “Guna” (Use)
+</td></tr>
+<tr>
+<td>Lompat</td>
+<td>Space</td>
+<td>Ya</td>
+<td><code>keymap_jump</code></td>
+<td>Digunakan apabila anda bukan berada dekat tangga, bukan dalam cecair dan tidak menggunakan mod terbang
+</td></tr>
+<tr>
+<td><a href="/index.php?title=Sneaking/ms&amp;action=edit&amp;redlink=1" class="new" title="Sneaking/ms (page does not exist)">Selinap</a></td>
+<td>Shift</td>
+<td>Ya</td>
+<td><code>keymap_sneak</code></td>
+<td>Digunakan apabila anda bukan berada dekat tangga, bukan dalam cecair dan tidak menggunakan mod terbang
+</td></tr>
+<tr>
+<td>Bergerak ke atas</td>
+<td>Space</td>
+<td>Ya</td>
+<td><code>keymap_jump</code></td>
+<td>Digunakan apabila anda berada dekat tangga, dalam cecair atau menggunakan mod terbang
+</td></tr>
+<tr>
+<td>Bergerak ke bawah</td>
+<td>Shift</td>
+<td>Ya</td>
+<td><code>keymap_sneak</code></td>
+<td>Digunakan apabila anda berada dekat tangga, dalam cecair atau menggunakan mod terbang
+</td></tr>
+<tr>
+<td>Togol bergerak ke depan secara automatik</td>
+<td><i>(tiada)</i></td>
+<td>Tidak</td>
+<td><code>keymap_autoforward</code></td>
+<td>Apabila mod ini dibolehkan, ia bertindak seolah-olah kekunci bergerak ke depan sentiasa ditekan jadi anda akan sentiasa berjalan
+</td></tr>
+<tr>
+<th colspan="5">Interaksi dunia
+</th></tr>
+<tr>
+<td><a href="/index.php?title=Punching/ms&amp;action=edit&amp;redlink=1" class="new" title="Punching/ms (page does not exist)">Ketuk</a> / <a href="/Mining/ms" title="Mining/ms">gali</a> / mengutip <a href="/Item_stack/ms" title="Item stack/ms">tindanan item</a></td>
+<td>Butang tetikus kiri</td>
+<td>Tidak</td>
+<td><i>(tiada)</i></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/index.php?title=Using/ms&amp;action=edit&amp;redlink=1" class="new" title="Using/ms (page does not exist)">Guna</a> / <a href="/Building/ms" title="Building/ms">bina</a></td>
+<td>Butang tetikus kanan</td>
+<td>Tidak</td>
+<td><i>(tiada)</i></td>
+<td>Jika barang yang dihalakan itu boleh digunakan (contoh: <a href="/index.php?title=Chest/ms&amp;action=edit&amp;redlink=1" class="new" title="Chest/ms (page does not exist)">Peti</a>), anda menggunakannya, jika tidak anda akan cuba membina dekat barang tersebut
+</td></tr>
+<tr>
+<td>Bina</td>
+<td>Shift+Butang tetikus kanan</td>
+<td>Tidak</td>
+<td><i>(tiada)</i></td>
+<td>Digunakan untuk membina dekat blok boleh guna
+</td></tr>
+<tr>
+<td>Pilih tindanan item sebelumnya/selepasnya dalam <a href="/index.php?title=Hotbar/ms&amp;action=edit&amp;redlink=1" class="new" title="Hotbar/ms (page does not exist)">hotbar</a></td>
+<td>Pusingkan roda tetikus</td>
+<td>Tidak</td>
+<td><i>(tiada)</i></td>
+<td>
+</td></tr>
+<tr>
+<td>Pilih tindanan item sebelumnya dalam <a href="/index.php?title=Hotbar/ms&amp;action=edit&amp;redlink=1" class="new" title="Hotbar/ms (page does not exist)">hotbar</a></td>
+<td>B</td>
+<td>Ya</td>
+<td><code>keymap_hotbar_previous</code></td>
+<td>
+</td></tr>
+<tr>
+<td>Pilih tindanan item selepasnya dalam <a href="/index.php?title=Hotbar/ms&amp;action=edit&amp;redlink=1" class="new" title="Hotbar/ms (page does not exist)">hotbar</a></td>
+<td>N</td>
+<td>Ya</td>
+<td><code>keymap_hotbar_next</code></td>
+<td>
+</td></tr>
+<tr>
+<td>Pilih tindanan item dalam hotbar secara terus</td>
+<td>0-9</td>
+<td>Tidak</td>
+<td><i>(tiada)</i></td>
+<td>
+</td></tr>
+<tr>
+<td>Jatuhkan tindanan item dipegang</td>
+<td>Q</td>
+<td>Ya</td>
+<td><code>keymap_drop</code></td>
+<td>
+</td></tr>
+<tr>
+<td>Jatuhkan 1 item daripada tindanan item dipegang</td>
+<td>Shift+Q</td>
+<td>Ya</td>
+<td><code>keymap_sneak</code>, <code>keymap_drop</code></td>
+<td>
+</td></tr>
+<tr>
+<th colspan="5">Kamera
+</th></tr>
+<tr>
+<td>Pilih kamera</td>
+<td>F7</td>
+<td>Tidak</td>
+<td><code>keymap_camera_mode</code></td>
+<td>Kamera yang ada (mengikut susunan): pandangan orang pertama, pandangan orang ketiga dari belakang, pandangan orang ketiga dari depan
+</td></tr>
+<tr>
+<td>Togol mod sinematik</td>
+<td><i>(tiada)</i></td>
+<td>Ya</td>
+<td><code>keymap_cinematic</code></td>
+<td>Dalam mod sinematik, kamera tidak akan ikut pergerakan anda dengan cepat, sebaliknya ia akan “ikut belakang”, jadi pergerakan kamera nampak serupa macam pergerakan kamera sebenar
+</td></tr>
+<tr>
+<td>Zum masuk dekat rerambut silang</td>
+<td>Z</td>
+<td>Ya</td>
+<td><code>keymap_zoom</code></td>
+<td>Memerlukan keistimewaan “zum”
+</td></tr>
+<tr>
+<th colspan="5">Grafik
+</th></tr>
+<tr>
+<td>Membolehkan/Melumpuhkan kabut</td>
+<td>F3</td>
+<td>Tidak</td>
+<td><code>keymap_toggle_force_fog_off</code></td>
+<td>
+</td></tr>
+<tr>
+<td>Menambah jarak pandang minimum</td>
+<td>+</td>
+<td>Tidak</td>
+<td><code>keymap_increase_viewing_range_min</code></td>
+<td>
+</td></tr>
+<tr>
+<td>Mengurangkan jarak pandang minimum</td>
+<td>-</td>
+<td>Tidak</td>
+<td><code>keymap_decrease_viewing_range_min</code></td>
+<td>
+</td></tr>
+<tr>
+<td>Togol pandangan jauh</td>
+<td>R</td>
+<td>Ya</td>
+<td><code>keymap_rangeselect</code></td>
+<td>Pandangan jauh membolehkan kita melihat tanpa batasan jarak. <b>Amaran</b>: Ini boleh memberi kesan kepada prestasi Minetest; gunakannya sekejap saja atau hanya untuk percubaan
+</td></tr>
+<tr>
+<td>Mengambil <a href="/index.php?title=Screenshot/ms&amp;action=edit&amp;redlink=1" class="new" title="Screenshot/ms (page does not exist)">tangkapan skrin</a></td>
+<td>F12</td>
+<td>Tidak</td>
+<td><code>keymap_screenshot</code></td>
+<td>
+</td></tr>
+<tr>
+<th colspan="5">Papar Pandu (HUD)
+</th></tr>
+<tr>
+<td>Tunjuk/sembunyi <a href="/index.php?title=Inventory_menu/ms&amp;action=edit&amp;redlink=1" class="new" title="Inventory menu/ms (page does not exist)">menu inventori</a></td>
+<td>I</td>
+<td>Ya</td>
+<td><code>keymap_inventory</code></td>
+<td>
+</td></tr>
+<tr>
+<td>Tunjuk/sembunyi HUD</td>
+<td>F1</td>
+<td>Tidak</td>
+<td><code>keymap_toggle_hud</code></td>
+<td>
+</td></tr>
+<tr>
+<td>Tunjuk/sembunyi log sembang</td>
+<td>F2</td>
+<td>Tidak</td>
+<td><code>keymap_toggle_chat</code></td>
+<td>
+</td></tr>
+<tr>
+<td>Togol <a href="/index.php?title=Minimap/ms&amp;action=edit&amp;redlink=1" class="new" title="Minimap/ms (page does not exist)">peta mini</a></td>
+<td>F9</td>
+<td>Tiada</td>
+<td><code>keymap_minimap</code></td>
+<td>Terdapat dua mod: Permukaan dan radar, dalam 3 tahap zum berbeza
+</td></tr>
+<tr>
+<td>Togol bentuk peta mini (segi empat atau bulat)</td>
+<td>Shift+F9</td>
+<td>Tidak</td>
+<td><code>keymap_sneak</code>, <code>keymap_minimap</code></td>
+<td>
+</td></tr>
+<tr>
+<td>Buka/tutup <a href="/index.php?title=Console/ms&amp;action=edit&amp;redlink=1" class="new" title="Console/ms (page does not exist)">konsol</a></td>
+<td>F10</td>
+<td>Ya</td>
+<td><code>keymap_console</code></td>
+<td>
+</td></tr>
+<tr>
+<td>Batalkan / tutup tetingkap / buka menu jeda / keluar Minetest</td>
+<td>Esc</td>
+<td>Tidak</td>
+<td><i>(none)</i></td>
+<td>
+</td></tr>
+<tr>
+<th colspan="5">Bunyi
+</th></tr>
+<tr>
+<td>Perlahankan bunyi</td>
+<td><i>(tiada)</i></td>
+<td>Ya</td>
+<td><code>keymap_decrease_volume</code></td>
+<td>
+</td></tr>
+<tr>
+<td>Kuatkan bunyi</td>
+<td><i>(tiada)</i></td>
+<td>Ya</td>
+<td><code>keymap_increase_volume</code></td>
+<td>
+</td></tr>
+<tr>
+<td>Togol bisu</td>
+<td>M</td>
+<td>Ya</td>
+<td><code>keymap_mute</code></td>
+<td>
+</td></tr>
+<tr>
+<th colspan="5">Arahan dan sembang
+</th></tr>
+<tr>
+<td>Buka <a href="/index.php?title=Chat_window/ms&amp;action=edit&amp;redlink=1" class="new" title="Chat window/ms (page does not exist)">tetingkap sembang</a></td>
+<td>T</td>
+<td>Ya</td>
+<td><code>keymap_chat</code></td>
+<td>Perlukan keistimewaan “jerit” untuk <a href="/index.php?title=Chat/ms&amp;action=edit&amp;redlink=1" class="new" title="Chat/ms (page does not exist)">bersembang</a>
+</td></tr>
+<tr>
+<td>Mula membuat <a href="/index.php?title=Server_commands/ms&amp;action=edit&amp;redlink=1" class="new" title="Server commands/ms (page does not exist)">arahan pelayan</a></td>
+<td>/</td>
+<td>Ya</td>
+<td><code>keymap_cmd</code></td>
+<td>
+</td></tr>
+<tr>
+<td>Mula membuat <a href="/index.php?title=Local_commands/ms&amp;action=edit&amp;redlink=1" class="new" title="Local commands/ms (page does not exist)">arahan tempatan</a></td>
+<td>.</td>
+<td>Ya</td>
+<td><code>keymap_cmd_local</code></td>
+<td>Arahan tempatan senahagian daripada <a href="/index.php?title=Client_mods/ms&amp;action=edit&amp;redlink=1" class="new" title="Client mods/ms (page does not exist)">mods klien</a>
+</td></tr>
+<tr>
+<th colspan="5">Nyahpepijat (untuk para pembangun)
+</th></tr>
+<tr>
+<td>Membolehkan/melumpuhkan kemaskini kamera</td>
+<td>F4 <i>atau tiada</i></td>
+<td>Tidak</td>
+<td><code>keymap_toggle_update_camera</code></td>
+<td>Hanya berguna kepada para pembangun. Jika dilumpuhkan, landskap dilukis di sekeliling anda tidak akan dikemaskini pada saat anda melihat sekeliling. Perbuatan ini hanya ada ikatan kekunci lalai dalam Minetest versi pembangun; dalam terbitan rasmi tidak ada ikatan kekunci lalai kerana ia boleh menyebabkan ramai pemain terkeliru
+</td></tr>
+<tr>
+<td>Membolehkan/melumpuhkan paparan <a href="/index.php?title=Debug/ms&amp;action=edit&amp;redlink=1" class="new" title="Debug/ms (page does not exist)">nyahpepijat</a></td>
+<td>F5</td>
+<td>Tidak</td>
+<td><code>keymap_toggle_debug</code></td>
+<td>Turut menunjukkan <a href="/index.php?title=Coordinates/ms&amp;action=edit&amp;redlink=1" class="new" title="Coordinates/ms (page does not exist)">koordinat</a> anda
+</td></tr>
+<tr>
+<td>Membolehkan/melumpukan <a href="/index.php?title=Profiler/ms&amp;action=edit&amp;redlink=1" class="new" title="Profiler/ms (page does not exist)">pembukah</a></td>
+<td>F6</td>
+<td>Tiada</td>
+<td><code>keymap_toggle_profiler</code></td>
+<td>Hanya berguna untuk para pembangun
+</td></tr>
+<tr>
+<td>Tulis kesan tindanan ke dalam <a href="/index.php?title=Debug.txt/ms&amp;action=edit&amp;redlink=1" class="new" title="Debug.txt/ms (page does not exist)">debug.txt</a></td>
+<td>P</td>
+<td>Ya</td>
+<td><code>keymap_print_debug_stacks</code></td>
+<td>Hanya berguna untuk para pembangun
+</td></tr>
+</tbody></table>
+<h3><span class="mw-headline" id="Perbezaan_untuk_OS_X">Perbezaan untuk OS X</span></h3>
+<ul><li>Untuk membuat <b>klik kanan</b>, gunakan sentuhan dua jari pada pad jejak (trackpad)</li>
+<li>Jika anda menggunakan papan kekunci Perancis (AZERTY), bersedia untuk kekunci “M” tidak berfungsi dalam sembangan</li></ul>
+<h3><span class="mw-headline" id="Mengubah_kawalan_dalam_minetest.conf">Mengubah kawalan dalam <code>minetest.conf</code></span></h3>
+<p>Dengan <code>minetest.conf</code>, anda boleh mengubah kawalan yang tidak ditunjukkan di dalam menu tetapan. Lihat <a href="/index.php?title=Minetest.conf/ms&amp;action=edit&amp;redlink=1" class="new" title="Minetest.conf/ms (page does not exist)">minetest.conf</a> untuk maklumat lanjut.
+</p>
+<h2><span class="mw-headline" id="Kawalan_inventori">Kawalan inventori</span></h2>
+<p>Lihat <a href="/index.php?title=Inventory/ms&amp;action=edit&amp;redlink=1" class="new" title="Inventory/ms (page does not exist)">Inventory/ms#Kawalan</a>.
+</p>
+<h2><span class="mw-headline" id="Kawalan_konsol">Kawalan konsol</span></h2>
+<p>Lihat <a href="/index.php?title=Console/ms&amp;action=edit&amp;redlink=1" class="new" title="Console/ms (page does not exist)">Console/ms#Gambaran keseluruhan kawalan</a>.
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20230709174403
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.262 seconds
+Real time usage: 0.487 seconds
+Preprocessor visited node count: 113/1000000
+Post‐expand include size: 1897/2097152 bytes
+Template argument size: 421/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 13/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.120/7 seconds
+Lua virtual size: 5.54 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  300.241      1 Template:Languages
+100.00%  300.241      1 -total
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:3618-0!canonical and timestamp 20230709174402 and revision id 26086
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Controls/ms&amp;oldid=26086">http://wiki.minetest.net/index.php?title=Controls/ms&amp;oldid=26086</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/Category:Malay" title="Category:Malay">Malay</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Controls%2Fms" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Controls/ms" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Controls/ms&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Controls/ms">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Controls/ms&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Controls/ms&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Controls/ms" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Controls/ms" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Controls/ms&amp;oldid=26086" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Controls/ms&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 17 April 2021, at 00:31.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.262","walltime":"0.487","ppvisitednodes":{"value":113,"limit":1000000},"postexpandincludesize":{"value":1897,"limit":2097152},"templateargumentsize":{"value":421,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":13,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  300.241      1 Template:Languages","100.00%  300.241      1 -total"]},"scribunto":{"limitreport-timeusage":{"value":"0.120","limit":"7"},"limitreport-virtmemusage":{"value":5804032,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709174403","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":838});});</script></body></html>

@@ -1,0 +1,352 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>MinetestEDU/de/Installation of Minetest auf einem Linux-Server - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"a81c6742bdb1534452a6de34","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"MinetestEDU/de/Installation_of_Minetest_auf_einem_Linux-Server","wgTitle":"MinetestEDU/de/Installation of Minetest auf einem Linux-Server","wgCurRevisionId":22707,"wgRevisionId":22707,"wgArticleId":4023,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["MinetestEDU"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"MinetestEDU/de/Installation_of_Minetest_auf_einem_Linux-Server","wgRelevantArticleId":4023,"wgIsProbablyEditable":!1,
+"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-MinetestEDU_de_Installation_of_Minetest_auf_einem_Linux-Server rootpage-MinetestEDU skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">MinetestEDU/de/Installation of Minetest auf einem Linux-Server</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/MinetestEDU" title="MinetestEDU">MinetestEDU</a>&lrm; | <a href="/MinetestEDU/de" title="MinetestEDU/de">de</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>Natürlich kann man auch einen Windows-Server für einen Minetest-Server nutzen, aber da für Linux-Betriebssysteme keine Gebühr anfällt, sollte eine Linux-Distribution eine sinnvolle Wahl sein, wenn man einen vServer im Internet mieten will. 
+</p><p><i><b>WICHTIG:</b> Die Reihenfolge, unten denen die Anleitung hier erscheinen, stellen keine Empfehlung dar, sondern ergaben sich aus der Reihenfolge, wie Autoren, ihre Anleitungen hier eingefügt haben.</i>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#OpenSuse"><span class="tocnumber">1</span> <span class="toctext">OpenSuse</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Warum_OpenSuse.3F"><span class="tocnumber">1.1</span> <span class="toctext">Warum OpenSuse?</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Per_ssh_sicher_auf_den_Server"><span class="tocnumber">1.2</span> <span class="toctext">Per ssh sicher auf den Server</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Minetest_installieren"><span class="tocnumber">1.3</span> <span class="toctext">Minetest installieren</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Die_weitere_Einrichtung"><span class="tocnumber">1.4</span> <span class="toctext">Die weitere Einrichtung</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Debian"><span class="tocnumber">2</span> <span class="toctext">Debian</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Warum_Debian.3F"><span class="tocnumber">2.1</span> <span class="toctext">Warum Debian?</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Per_SSH_auf_dem_Server"><span class="tocnumber">2.2</span> <span class="toctext">Per SSH auf dem Server</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Abh.C3.A4ngigkeiten"><span class="tocnumber">2.3</span> <span class="toctext">Abhängigkeiten</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Herunterladen"><span class="tocnumber">2.4</span> <span class="toctext">Herunterladen</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Kompilieren"><span class="tocnumber">2.5</span> <span class="toctext">Kompilieren</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Starten"><span class="tocnumber">2.6</span> <span class="toctext">Starten</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="OpenSuse">OpenSuse</span></h2>
+<h3><span id="Warum_OpenSuse?"></span><span class="mw-headline" id="Warum_OpenSuse.3F">Warum OpenSuse?</span></h3>
+<p>Nun ja, ein Grund könnte sein, dass OpenSuse als Desktop-Betriebssystem seit einigen Jahren bekannt ist. Daher kennen Nutzer von OpenSuse auf dem heimischen PC die üblichen Befehlen und Problemen einigermaßen gut aus. Auch Windows-Nutzer können sich einen OpenSuse-Server mieten. Einfacher oder komplizierter wird es mit den anderen Linux-Betriebssytemen auch nicht.
+</p>
+<h3><span class="mw-headline" id="Per_ssh_sicher_auf_den_Server">Per ssh sicher auf den Server</span></h3>
+<p>Der übliche „Weg“, um auf dem Server etwas zu machen, ist über die Konsole mit ssh. Die Konsole öffnet man bei sich auf dem Heimrechner <i>(gibt es bei unter OpenSuse natürlich!)</i> und nimmt die vom Server-Betreiber und -Vermieter gelieferten Zugangsdaten. Das sind im wesentlichen die IP-Adresse des Server (<i>im IP4-Format</i>) und das Passwort für den root-Zugriff.
+</p>
+<dl><dd><i><b>Übersetzung:</b> Die Konsole ist das Gegenteil zu einer grafischen Benutzeroberfläche. Statt etwas anzuklicken muss man einen Textbefehl eintippen. Die Übertragung von Textbefehlen ist einfacher, als eine grafische Oberfläche zu übertragen. Daher ist die Konsolen-Bedienung schnell und effektiv.</i></dd></dl>
+<dl><dd><i><b>Übersetzung:</b> Der Benutzer „root“ ist auf Linux sozusagen der Ober-Boss des Systems. Man meldet sich als root nur an, wenn man etwas im System erledigen will und nutzt für die alltägliche Arbeit einen anderen Account.</i></dd></dl>
+<p><b>Windows-Nutzer</b> müssen sich ein Konsolenprogramm installieren, wie zum Beispiel <a rel="nofollow" class="external text" href="https://www.putty.org/">Putty</a>.
+</p>
+<dl><dd><i><b>Übersetzung:</b> Secure Shell oder <b>SSH</b> bezeichnet sowohl ein Netzwerkprotokoll als auch entsprechende Programme, mit deren Hilfe man auf eine sichere Art und Weise eine verschlüsselte Netzwerkverbindung mit einem entfernten Gerät herstellen kann.</i></dd></dl>
+<p>Man kommt auf den Server mit diesem Befehl drauf, wo statt IP_ADRESSE natürlich die vier Gruppen von Zahlen stehen müssen, die man vom Server-Vermieter erhalten hat.
+</p>
+<pre>ssh root@IP_ADRESSE
+</pre>
+<dl><dd><i><b>Übersetzung:</b> „ssh“ ist der Befehl, mit dem man die Verbindung startet. „root“ ist der Benutzername, als den man sich „auf“ (@ = at) dem Rechner im Internet mit der genannten „IP_ADRESSE“ anmeldet.</i></dd></dl>
+<p>Nach der Eingabe des Befehls muss man das Passwort angeben, um nachzuweisen, dass man auf den Server drauf darf. Außerdem gibt es meist zu Beginn, wenn man das erste Mal den Server von der Konsole aus besucht, einen Hinweis bezüglich der Verschlüsselung, für die ohne weiteres Zutun ein Schlüssel erzeugt wird. Man muss nur zustimmen. Bei weiteren Besuchen vom gleichen PC, kommt diese Abfrage nicht mehr.
+</p><p>Da die zufällig erzeugten Passwörter meist schön sicher aber dementsprechend kompliziert sind, sollte man möglichst bald ein eigenes Passwort einstellen, dass natürlich sicher sein sollte, damit es nicht per Zufall herausgefunden wird. Dazu gibt man in der Konsole, nach der Anmeldung auf dem Server folgendes ein:
+</p>
+<pre>passwd
+</pre>
+<p>… und anschließend wird man nach dem neuen Passwort gefragt.
+</p>
+<h3><span class="mw-headline" id="Minetest_installieren">Minetest installieren</span></h3>
+<p>Das installierte OpenSuse-System enthält nur die wichtigsten Programme. Minetest ist noch nicht enthalten und auch die Installation ist nicht direkt möglich. Grund dafür ist, dass üblicherweise (erst Recht für einen Server) das Repository = Software-verzeichnis nicht eingebunden ist, das Minetest enthält.
+</p>
+<dl><dd><i><b>Übersetzung:</b> Bei Linux ist die Installation über Pakete geregelt, die auch Informationen enthalten, von welchen anderen Programmen eine Software abhängig ist. Dabei bindet man das Betriebssystem meist an Softwareverzeichnisse an (die Repositorys), in denen die Software auch regelmäßig erneuert wird. Über das Repository bekommt man auch Software angeboten, die nicht direkt zum Betriebssystem gehört. Es gibt einige Quellen, die solche Software-Verzeichnisse anbieten und damit eine Art Service leisten, immer die aktuellste Version einer Auswahl von Programmen zu erstellen. Dazu gehört das Übersetzen (Kompilieren) der Programm-Quelldateien (die die Entwickler erstellen) passend zu dem jeweiligen Betriebssystem. Und dank der klar festgelegten Abhängigkeiten bekommt man meist auch alle notwendigen Programme mitinstalliert. Organisiert wird das alles über einen Paketmanager, der bei OpenSuse Zypper heißt.</i></dd>
+<dd><i>Um Minetest zu installieren muss man also erst einmal das Repository in den Paketmanager einbinden, dass Minetest für das aktuelle Betriebssystem anbietet.</i></dd></dl>
+<p>Um Minetest zu installieren muss man also erst einmal das Repository in den Paketmanager einbinden, dass Minetest für das aktuelle Betriebssystem anbietet.
+</p>
+<pre>zypper addrepo&#160;???
+</pre>
+<p>Wenn man nicht sicher, wie das zu installierende Programmpaket heißt, kann man in den eingebundenen Repositorys nachschauen, indem man nach einem bekannte Teil des Begriffes suchen lässt.
+</p>
+<pre>zypper search minetest
+</pre>
+<p>??? … was noch ...&#160;???
+</p><p>Zum Test, ob das Programm Minetest generell läuft, könnte man einmal Minetest starten, indem man einfach eingibt:
+</p>
+<pre>minetest
+</pre>
+<p>Es folgt eine Ausgabe von einigen Informationen, aber „natürlich“ wird nicht die Oberfläche von Minetest gestartet, denn man ist ja nur per ssh auf dem Server-Rechner und dabei wird keine grafische Oberfläche übertragen.
+</p>
+<h3><span class="mw-headline" id="Die_weitere_Einrichtung">Die weitere Einrichtung</span></h3>
+<p>Wenn Minetest prinzipiell läuft gilt es nun noch folgendes vorzunehmen:
+</p>
+<ul><li>eine eventuell schon vorhandene und vorbereitete Welt auf den Server kopieren</li>
+<li>alle notwendigen Mods kopieren und installieren</li>
+<li>den Server mit der gewünschten Welt starten</li></ul>
+<p>Die Informationen dazu werden auf Unterseiten beschrieben, da diese unabhängig von der auf dem Server installieren Linux-Distribution sind. Gehen Sie bitte dazu wieder <a href="/MinetestEDU/de" title="MinetestEDU/de">auf die Hauptseite zurück</a>!
+</p>
+<h2><span class="mw-headline" id="Debian">Debian</span></h2>
+<h3><span id="Warum_Debian?"></span><span class="mw-headline" id="Warum_Debian.3F">Warum Debian?</span></h3>
+<p>Debian in ein weit verbreitetes Linux-Betriebssystem, das eigentlich immer von vServer-Anbieter zur Verfügung gestellt wird. Außerdem gibt es viele Varianen von Linux-Distributionen, die von Debian abgeleitet sind und somit gelten die Anweisungen hier auch für diese Abwandlungen.
+</p><p>Die hier genannten Anweisungen gelten auch für das den RaspberryPi, wenn man das dort verbreitete Raspian nutzt. Ein Nachteil bei Debian ist die Tatsache ist, dass die Entwickler oft nicht die aktuellsten Pakete auch in die neueste Distribution einfügen, da aus Sicherheitsgründen eher die älteren bevorzugt werden. Das gilt vor allem für Anwendungsprogramme, wie auch Minetest.
+</p><p>Prinzipiell ist das Herunterladen und Compilieren bereits in der README auf GitHub erklärt. <a rel="nofollow" class="external free" href="https://github.com/minetest/minetest/blob/master/README.md">https://github.com/minetest/minetest/blob/master/README.md</a>
+Nachfolgend ist aber nochmals aufgeführt, wie man dies alles durchführen kann. Die ursprüngliche Anleitung stammte von Raspian (Jessie).
+</p>
+<h3><span class="mw-headline" id="Per_SSH_auf_dem_Server">Per SSH auf dem Server</span></h3>
+<p>Wie vorher beschrieben, muss man sich per SSH auf den vServer im Internet anmelden.
+</p>
+<h3><span id="Abhängigkeiten"></span><span class="mw-headline" id="Abh.C3.A4ngigkeiten">Abhängigkeiten</span></h3>
+<p>Zunächst sind die Abhängigkeiten zum Compilieren wie folgt zu installieren:
+</p>
+<pre>sudo apt-get install build-essential libirrlicht-dev cmake libbz2-dev libpng-dev libjpeg-dev libxxf86vm-dev libgl1-mesa-dev libsqlite3-dev libogg-dev libvorbis-dev libopenal-dev libcurl4-gnutls-dev libfreetype6-dev zlib1g-dev libgmp-dev libjsoncpp-dev
+</pre>
+<h3><span class="mw-headline" id="Herunterladen">Herunterladen</span></h3>
+<p>Den Minetest Quellcode kann man auf verschiedene Arten herunterladen. Nachfolgend wird die Methode über git erklärt.
+In diesem Fall wird mittels der git Option "<code>--branch stable-0.4</code>" der Quellcode von der Version "0.4.x stable" ohne Versionsgeschichte ("<code>--depth 1</code>") heruntergeladen.
+</p><p>Den eigentlichen Minetest Quellcode abrufen:
+</p>
+<pre>git clone --branch stable-0.4 --depth 1 <a rel="nofollow" class="external free" href="https://github.com/minetest/minetest.git">https://github.com/minetest/minetest.git</a>
+</pre>
+<p>In das erstellte Verzeichnis wechseln:
+</p>
+<pre>cd minetest/
+</pre>
+<p>Dasselbe für das standardmässig mitgelieferte "Minetest Game":
+</p>
+<pre>git clone --branch stable-0.4 --depth 1 <a rel="nofollow" class="external free" href="https://github.com/minetest/minetest_game.git">https://github.com/minetest/minetest_game.git</a> games/minetest_game
+</pre>
+<p>Dabei wird ein Unterverzeichnis erzeugt, in dem die Dateien des Minetest-Games liegen. Da es sich nur um Script-Dateien handelt, müssen diese nicht kompiliert werden, sondern können nach dem Kompilieren des Minetest-Programmsan die richtige Stelle kopiert werden. 
+</p>
+<h3><span class="mw-headline" id="Kompilieren">Kompilieren</span></h3>
+<p>Anschließend festlegen was gebaut werden soll. In diesem Fall mit dem Minetest Server als Release-Version:
+</p>
+<pre>cmake . -DRUN_IN_PLACE=TRUE -DBUILD_SERVER=TRUE -DCMAKE_BUILD_TYPE="Release"
+</pre>
+<p>Das ganze dann schließlich kompilieren, was einige Zeit in Anspruch nimmt. Die Option "-j 4" legt fest, dass auf vier Prozessorkernen gleichzeitig kompiliert wird, was für den Raspberry 2 oder 3 Sinn ergibt:
+</p>
+<pre>make -j 4
+</pre>
+<p>Sollte alles fehlerfrei durchgelaufen sein, befindet sich der fertig compilierte Minetest Server und Client im Unterverzeichnis bin.
+</p>
+<h3><span class="mw-headline" id="Starten">Starten</span></h3>
+<p>Nach Betreten des Verzeichnisses "<code>bin/</code>" kann der Server wie folgt gestartet werden:
+</p>
+<pre>./minetestserver
+</pre>
+<!-- 
+NewPP limit report
+Cached time: 20230709182041
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.056 seconds
+Real time usage: 0.142 seconds
+Preprocessor visited node count: 37/1000000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    0.000      1 -total
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:4023-0!canonical and timestamp 20230709182041 and revision id 22707
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=MinetestEDU/de/Installation_of_Minetest_auf_einem_Linux-Server&amp;oldid=22707">http://wiki.minetest.net/index.php?title=MinetestEDU/de/Installation_of_Minetest_auf_einem_Linux-Server&amp;oldid=22707</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/Category:MinetestEDU" title="Category:MinetestEDU">MinetestEDU</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=MinetestEDU%2Fde%2FInstallation+of+Minetest+auf+einem+Linux-Server" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/MinetestEDU/de/Installation_of_Minetest_auf_einem_Linux-Server" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:MinetestEDU/de/Installation_of_Minetest_auf_einem_Linux-Server&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/MinetestEDU/de/Installation_of_Minetest_auf_einem_Linux-Server">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=MinetestEDU/de/Installation_of_Minetest_auf_einem_Linux-Server&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=MinetestEDU/de/Installation_of_Minetest_auf_einem_Linux-Server&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/MinetestEDU/de/Installation_of_Minetest_auf_einem_Linux-Server" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/MinetestEDU/de/Installation_of_Minetest_auf_einem_Linux-Server" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=MinetestEDU/de/Installation_of_Minetest_auf_einem_Linux-Server&amp;oldid=22707" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=MinetestEDU/de/Installation_of_Minetest_auf_einem_Linux-Server&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 26 July 2019, at 11:20.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.056","walltime":"0.142","ppvisitednodes":{"value":37,"limit":1000000},"postexpandincludesize":{"value":0,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20230709182041","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":968});});</script></body></html>

@@ -1,0 +1,36 @@
+This page contains information useful for developing Minetest for the Steam Deck. Contact rubenwardy with any questions.
+
+== Usage as an end user ==
+
+See [https://blog.rubenwardy.com/2022/12/02/minetest-steam-deck/ rubenwardy's blog post]
+
+== Installing a dev version ==
+
+=== Uploading an AppImage using Deck DevKit ===
+
+Source: https://partner.steamgames.com/doc/steamdeck/loadgames
+
+* Name: MinetestAppImage
+* Local folder: <code>/home/user/dev/tmp/minetestdeck/</code>
+* Upload filtering [Include only] <code>Minetest-dev.AppImage</code>
+* Start command: <code>Minetest-dev.AppImage</code>
+* Save config
+* Click Upload
+* On deck: <code>cp /usr/lib/libcrypto.so ~/devkit-game/MinetestAppImage/libcrypto.so.1</code>
+* Minetest should now be in Non-steam games as "Devkit games: MinetestAppImage"
+
+Note, I had issues reusing the layout from the stable version of the game. Pressing "apply layout" did nothing. I needed to follow this bizarre workaround https://www.reddit.com/r/SteamDeck/comments/10tsp1a/i_cant_change_the_default_controller_layout/
+
+=== Uploading a build using Deck DevKit ===
+
+'''Note: Untested'''
+
+Source: https://partner.steamgames.com/doc/steamdeck/loadgames
+
+* Name: Minetest
+* Local folder: <code>/home/user/dev/minetest/</code>
+* Upload filtering [Include only] <code>/bin/*** /builtin/*** /games/devtest/*** /games/minetest_game/*** /textures/base/pack/*** /client/shaders/***</code>
+* Check "Delete remote files not present in local folder"
+* Start command: <code>bin/minetest</code>
+* Save config
+* Click Upload

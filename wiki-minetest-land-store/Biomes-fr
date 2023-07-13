@@ -1,0 +1,430 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Biomes/fr - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"5e3cf9a74f18d437e9958028","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Biomes/fr","wgTitle":"Biomes/fr","wgCurRevisionId":27852,"wgRevisionId":27852,"wgArticleId":1399,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Incomplete translated pages","French"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Biomes/fr","wgRelevantArticleId":1399,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready",
+"user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=skins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Biomes_fr rootpage-Biomes skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Biomes/fr</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/Biomes" title="Biomes">Biomes</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> Langue&#160;:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><a href="/Biomes" title="Biomes">English</a>&#160;• <bdi lang="de"><a href="/Biomes/de" title="Biomes/de">Deutsch</a></bdi><b>&#160;• <bdi lang="fr"><a class="mw-selflink selflink">français</a></bdi></b>&#160;• <bdi lang="id"><a href="/Biomes/id" title="Biomes/id">Bahasa Indonesia</a></bdi>&#160;• <bdi lang="ja"><a href="/Biomes/ja" title="Biomes/ja">日本語</a></bdi>&#160;• <bdi lang="ms"><a href="/Biomes/ms" title="Biomes/ms">Bahasa Melayu</a></bdi></td>
+</tr></tbody></table>
+<table style="margin: 0 auto 1em; text-align: justify; border-collapse: collapse; border-width: 1px; border-style: dashed; width: 100%; clear: both; border-color:#f4c430; background:#ffe;">
+<tbody><tr>
+<td style="border: none; padding: 2px 0 2px 0.9em; text-align: center;">
+ <img alt="Mbox style.png" src="/images/thumb/b/be/Mbox_style.png/25px-Mbox_style.png" decoding="async" width="25" height="25" srcset="/images/thumb/b/be/Mbox_style.png/38px-Mbox_style.png 1.5x, /images/b/be/Mbox_style.png 2x" /></td>
+<td style="border: none; padding: 0.25em 0.9em; width: 100%;"><b>Cette traduction est incomplète</b><br />
+Vous pouvez aider à la finir si vous le souhaitez.</td>
+
+</tr></tbody></table>
+<p>D'après Wikipédia, les <b>biomes</b> sont définis climatiquement et géographiquement par des conditions climatiques similaires, une faune et une flore similaires, et sont souvent référencés en tant qu'écosystèmes.
+</p>
+<h2><span class="mw-headline" id="Types_de_biomes">Types de biomes</span></h2>
+<table class="wikitable">
+<tbody><tr>
+<th width="15%">Nom et Composition
+</th>
+<th width="5%">Générateur de carte (Map)
+</th>
+<th>Description
+</th>
+<th width="355px">Images
+</th></tr>
+<tr>
+<td><b>Plaines</b><br /><a href="/Stone/fr" title="Stone/fr">Pierre</a>, <a href="/Sandstone/fr" title="Sandstone/fr">Pierre de Sable</a>, <a href="/Dirt/fr" title="Dirt/fr">Terre</a>, <a href="/Dirt_with_Grass/fr" title="Dirt with Grass/fr">Terre avec de l'Herbe</a>, <a href="/Grass/fr" title="Grass/fr">Herbe</a>, <a href="/Flower/fr" title="Flower/fr">Fleurs</a>
+</td>
+<td>v5, v6, v7
+</td>
+<td>Les plaines sont des écosystèmes assez plats. On y trouve de grandes quantités de <a href="/Dirt/fr" title="Dirt/fr">terre</a> et de <a href="/Dirt_with_Grass/fr" title="Dirt with Grass/fr">Terre avec de l'Herbe</a>, sur lesquels les <a href="/Flower/fr" title="Flower/fr">fleurs</a> et l'<a href="/Grass/fr" title="Grass/fr">herbe</a> apparaissent naturellement (depuis la version 0.4.7). Le sous-sol est composé de <a href="/Stone/fr" title="Stone/fr">Pierre</a> et de <a href="/Sandstone/fr" title="Sandstone/fr">Pierre de Sable</a>.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Large_plains.png" class="image"><img alt="" src="/images/thumb/7/7e/Large_plains.png/350px-Large_plains.png" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/7/7e/Large_plains.png/525px-Large_plains.png 1.5x, /images/thumb/7/7e/Large_plains.png/700px-Large_plains.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Large_plains.png" class="internal" title="Enlarge"></a></div>Écosystème Plaine, depuis 0.4.13</div></div></div>
+</td></tr>
+
+<tr>
+<td><b>Forêt de feuillus</b><br /><a href="/Stone/fr" title="Stone/fr">Pierre</a>, <a href="/Dirt/fr" title="Dirt/fr">Terre</a>, <a href="/Dirt_with_Grass/fr" title="Dirt with Grass/fr">Terre avec de l'Herbe</a>, <a href="/Tree/fr" class="mw-redirect" title="Tree/fr">Arbres</a>, <a href="/Leaves/fr" title="Leaves/fr">Feuilles</a>, <a href="/Aspen_Tree/fr" title="Aspen Tree/fr">Peupliers</a>, <a href="/Leaves/fr" title="Leaves/fr">Feuilles de peuplier</a>, <a href="/Apple/fr" title="Apple/fr">Pomme</a>, <a href="/Red_Mushroom/fr" title="Red Mushroom/fr">Champignon Rouge</a>, <a href="/Brown_Mushroom/fr" title="Brown Mushroom/fr">Champignon Brun</a>
+</td>
+<td>v5, v6, v7
+</td>
+<td>La forêt de feuillus est l'écosystème le plus commun dans Minetest surtout dans les zones tempérées. Les arbres, les pommiers et les peupliers s'y développent naturellement. Généralement, on y trouve aussi des lacs, des étangs ou des rivières. Les forêts de feuillus entourent habituellement les plaines.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Forest.png" class="image"><img alt="" src="/images/thumb/c/c1/Forest.png/350px-Forest.png" decoding="async" width="350" height="260" class="thumbimage" srcset="/images/thumb/c/c1/Forest.png/525px-Forest.png 1.5x, /images/thumb/c/c1/Forest.png/700px-Forest.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Forest.png" class="internal" title="Enlarge"></a></div>Biome de forêt, avant 0.4.7, mais toujours d'actualité</div></div></div>
+</td></tr>
+
+<tr>
+<td><b>Forêt de Conifères</b><br /><a href="/Stone/fr" title="Stone/fr">Pierre</a>, <a href="/Dirt/fr" title="Dirt/fr">Terre</a>, <a href="/Dirt_with_Grass/fr" title="Dirt with Grass/fr">Terre avec de l'Herbe</a>, <a href="/Pine_Tree/fr" title="Pine Tree/fr">Pin</a>, <a href="/Leaves" title="Leaves">Épines de Pin</a>, <a href="/Grass/fr" title="Grass/fr">Herbe</a>, <a href="/Flower/fr" title="Flower/fr">Fleurs</a>, <a href="/Red_Mushroom/fr" title="Red Mushroom/fr">Champignon Rouge</a>, <a href="/Brown_Mushroom/fr" title="Brown Mushroom/fr">Champignon Brun</a>
+</td>
+<td>v5, v7
+</td>
+<td>Les forêts de conifères poussent dans des zones plus froides et elles sont constituées de pins. Les forêts de pins peuvent aussi être recouvertes de neiges dans les régions froides.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Pine_forest.jpg" class="image"><img alt="" src="/images/thumb/d/da/Pine_forest.jpg/350px-Pine_forest.jpg" decoding="async" width="350" height="213" class="thumbimage" srcset="/images/thumb/d/da/Pine_forest.jpg/525px-Pine_forest.jpg 1.5x, /images/thumb/d/da/Pine_forest.jpg/700px-Pine_forest.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Pine_forest.jpg" class="internal" title="Enlarge"></a></div>Une forêt de pins depuis la v. 0.4.13.</div></div></div>
+</td></tr>
+
+<tr>
+<td><b>Désert</b><br /><a href="/Desert_Stone/fr" title="Desert Stone/fr">Pierre du désert</a>, <a href="/Desert_Sand/fr" title="Desert Sand/fr">Sable du désert</a>, <a href="/Cactus/fr" title="Cactus/fr">Cactus</a>, <a href="/Dry_Shrub/fr" title="Dry Shrub/fr">Herbe sèche</a>
+</td>
+<td>
+</td>
+<td>Les déserts ont été introduits dans la <a rel="nofollow" class="external text" href="http://c55.me/blog/?p=1047">version du 8 avril 2012</a>. Ils contiennent une grande quantité de <a href="/Desert_Sand/fr" title="Desert Sand/fr">sable du désert</a> et de <a href="/Desert_Stone/fr" title="Desert Stone/fr">pierre du désert</a>. Les <a href="/Cactus/fr" title="Cactus/fr">cactus</a> et les <a href="/Dry_Shrub/fr" title="Dry Shrub/fr">herbes sèches</a> y poussent naturellement. Dans le sous-sol, on trouve parfois des rivières et des lacs qui peuvent être profonds de plus de 200 blocs.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Desert_at_sunset_0.4.7.png" class="image"><img alt="" src="/images/thumb/6/69/Desert_at_sunset_0.4.7.png/350px-Desert_at_sunset_0.4.7.png" decoding="async" width="350" height="213" class="thumbimage" srcset="/images/thumb/6/69/Desert_at_sunset_0.4.7.png/525px-Desert_at_sunset_0.4.7.png 1.5x, /images/thumb/6/69/Desert_at_sunset_0.4.7.png/700px-Desert_at_sunset_0.4.7.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Desert_at_sunset_0.4.7.png" class="internal" title="Enlarge"></a></div>Désert, depuis 0.4.7</div></div></div>
+</td></tr>
+
+<tr>
+<td><b>Savane</b><br /><a href="/Stone/fr" title="Stone/fr">Pierre</a>, <a href="/Dirt/fr" title="Dirt/fr">Terre</a>, <a href="/Dirt_with_Grass/fr" title="Dirt with Grass/fr">Terre avec de l'Herbe</a>, <a href="/Acacia_Tree/fr" title="Acacia Tree/fr">Arbre d'Acacia</a>, <a href="/Leaves/fr" title="Leaves/fr">Feuilles d'Acacia</a>, <a href="/Dry_Grass/fr" title="Dry Grass/fr">Herbe Séchée</a>
+</td>
+<td>v5, v7
+</td>
+<td>La savane est une région sèche qui n'est pas apparentée à un désert. Elle est peuplée d'arbres d'acacia et d'herbe sèche.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Savannah.jpg" class="image"><img alt="" src="/images/thumb/2/2c/Savannah.jpg/350px-Savannah.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/2/2c/Savannah.jpg/525px-Savannah.jpg 1.5x, /images/thumb/2/2c/Savannah.jpg/700px-Savannah.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Savannah.jpg" class="internal" title="Enlarge"></a></div>Une savane depuis la v. 0.4.13</div></div></div>
+</td></tr>
+
+<tr>
+<td><b>Jungle</b><br /><a href="/Stone/fr" title="Stone/fr">Pierre</a>, <a href="/Sandstone/fr" title="Sandstone/fr">Pierre de Sable</a>, <a href="/Dirt/fr" title="Dirt/fr">Terre</a>, <a href="/Dirt_with_Grass/fr" title="Dirt with Grass/fr">Terre avec de l'Herbe</a>, <a href="/Jungle_Grass/fr" title="Jungle Grass/fr">Herbe de jungle</a>, <a href="/Jungle_Tree/fr" title="Jungle Tree/fr">Arbre de jungle</a>, <a href="/Leaves/fr" title="Leaves/fr">Feuilles de la Jungle</a>, <a href="/Brown_Mushroom/fr" title="Brown Mushroom/fr">Champignon Brun</a>
+</td>
+<td>v5, v6, v7
+</td>
+<td>La jungle contient de grands arbres très serrés qui créent un environnement plutôt sombre. L'<a href="/Jungle_Grass/fr" title="Jungle Grass/fr">herbe de jungle</a> et les <a href="/Jungle_Tree/fr" title="Jungle Tree/fr">arbres de jungle</a> portent respectivement des <a href="/Leaves_and_Jungle_Leaves/fr" class="mw-redirect" title="Leaves and Jungle Leaves/fr">des feuilles et des feuilles d'arbre de jungle</a> qui se développent naturellement. Parfois, sur les troncs d'arbre de la jungle, lorsqu'ils sont tombés, on peut trouver des champignons. Les écosystèmes de type jungle sont activées dans tout monde créé avec la version 0.4.10 ou plus récente.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Jungle_0.4.7.jpg" class="image"><img alt="" src="/images/thumb/1/16/Jungle_0.4.7.jpg/350px-Jungle_0.4.7.jpg" decoding="async" width="350" height="213" class="thumbimage" srcset="/images/thumb/1/16/Jungle_0.4.7.jpg/525px-Jungle_0.4.7.jpg 1.5x, /images/thumb/1/16/Jungle_0.4.7.jpg/700px-Jungle_0.4.7.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Jungle_0.4.7.jpg" class="internal" title="Enlarge"></a></div>Jungle, depuis 0.4.7</div></div></div>
+</td></tr>
+
+<tr>
+<td><b>Neige</b><br /><a href="/Stone/fr" title="Stone/fr">Pierre</a>, <a href="/Dirt/fr" title="Dirt/fr">Terre</a>, <a href="/Snow_Block/fr" title="Snow Block/fr">Bloc de Neige</a>, <a href="/Dirt_with_Snow/fr" title="Dirt with Snow/fr">Terre Enneigée</a>, <a href="/Snow/fr" title="Snow/fr">Neige</a>, <a href="/Pine_Tree/fr" title="Pine Tree/fr">Pin</a>, <a href="/Leaves/fr" title="Leaves/fr">Aiguilles de Pin</a>, <a href="/Dry_Shrub/fr" title="Dry Shrub/fr">Herbe Sèche</a>, <a href="/Red_Mushroom/fr" title="Red Mushroom/fr">Champignon Rouge</a>, <a href="/Brown_Mushroom/fr" title="Brown Mushroom/fr">Champignon Brun</a>
+</td>
+<td>v5, v6 ,v7
+</td>
+<td>Les écosystèmes de type Neige sont des régions enneigées. Ils sont souvent peuplées de forêts de pins. Des champigons peuvent apparaître sur les troncs des pins, lorsqu'ils sont tombés par terre.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Snow_biome.jpg" class="image"><img alt="" src="/images/thumb/6/65/Snow_biome.jpg/350px-Snow_biome.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/6/65/Snow_biome.jpg/525px-Snow_biome.jpg 1.5x, /images/thumb/6/65/Snow_biome.jpg/700px-Snow_biome.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Snow_biome.jpg" class="internal" title="Enlarge"></a></div>Snow biome, as of 0.4.13</div></div></div> <div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Snow_pines.jpg" class="image"><img alt="" src="/images/thumb/d/de/Snow_pines.jpg/350px-Snow_pines.jpg" decoding="async" width="350" height="214" class="thumbimage" srcset="/images/thumb/d/de/Snow_pines.jpg/525px-Snow_pines.jpg 1.5x, /images/thumb/d/de/Snow_pines.jpg/700px-Snow_pines.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Snow_pines.jpg" class="internal" title="Enlarge"></a></div>Pins dans les régions enneigées depuis le v. 0.4.13</div></div></div>
+</td></tr>
+<tr>
+<td><b>Glacier</b><br /><a href="/Ice/fr" title="Ice/fr">Glace</a>, <a href="/Snow_Block/fr" title="Snow Block/fr">Bloc de Neige</a>
+</td>
+<td>v5, v7
+</td>
+<td>Les glaciers se forment dans les régions les plus froides uniquement et on y trouve une grande quantité de glace recouverte par une couche de neige. Les écosystèmes de types Glacier peuvent présenter un relief montagneux comme le montre la capture d'écran ci-contre ou vraiment plat. Les Glaciers peuvent aussi être en bordure des océans. A cause des conditions extrêmes, on ne trouvera aucune végétation.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Glacier.jpg" class="image"><img alt="" src="/images/thumb/8/8c/Glacier.jpg/350px-Glacier.jpg" decoding="async" width="350" height="213" class="thumbimage" srcset="/images/thumb/8/8c/Glacier.jpg/525px-Glacier.jpg 1.5x, /images/thumb/8/8c/Glacier.jpg/700px-Glacier.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Glacier.jpg" class="internal" title="Enlarge"></a></div>Un grand glacier en formation, entouré par un écosystème de type Neige depuis la v. 0.4.13.</div></div></div>
+</td></tr>
+<tr>
+<td><b>Graviers</b><br /><a href="/Gravel/fr" title="Gravel/fr">Graviers</a>, <a href="/Stone/fr" title="Stone/fr">Pierre</a>
+</td>
+<td>v6
+</td>
+<td>Très rarement, on peut découvrir sur certain niveau de grandes étendues de <a href="/Gravel/fr" title="Gravel/fr">graviers</a> en surface. Il n'y a rien d'autre que du gravier et de la pierre.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Gravel_Biome_0.4.7.png" class="image"><img alt="" src="/images/thumb/0/06/Gravel_Biome_0.4.7.png/350px-Gravel_Biome_0.4.7.png" decoding="async" width="350" height="213" class="thumbimage" srcset="/images/thumb/0/06/Gravel_Biome_0.4.7.png/525px-Gravel_Biome_0.4.7.png 1.5x, /images/thumb/0/06/Gravel_Biome_0.4.7.png/700px-Gravel_Biome_0.4.7.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Gravel_Biome_0.4.7.png" class="internal" title="Enlarge"></a></div>Un biome de graviers, depuis 0.4.7</div></div></div>
+</td></tr></tbody></table>
+<p><br />
+</p>
+<h2><span class="mw-headline" id="Biomes_techniques">Biomes techniques</span></h2>
+<table class="wikitable">
+<tbody><tr>
+<th width="15%">Nom et matériaux
+</th>
+<th>Description
+</th>
+<th width="355px">Images
+</th></tr>
+
+<tr>
+<td><b>Montagne</b><br /><a href="/index.php?title=Trees/fr&amp;action=edit&amp;redlink=1" class="new" title="Trees/fr (page does not exist)">Arbre et pommier</a>
+</td>
+<td>Le biome de montagne est celui qui monte le plus en altitude. Les arbres, les pommiers et parfois les jungles s'y développent naturellement. Il est très facile de se tuer dans les montagnes si vous ne faites pas attention à l'endroit où vous mettez les pieds.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Mountain.png" class="image"><img alt="" src="/images/thumb/3/39/Mountain.png/350px-Mountain.png" decoding="async" width="350" height="260" class="thumbimage" srcset="/images/thumb/3/39/Mountain.png/525px-Mountain.png 1.5x, /images/thumb/3/39/Mountain.png/700px-Mountain.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mountain.png" class="internal" title="Enlarge"></a></div>Montagnes, avant 0.4.7</div></div></div>
+</td></tr>
+
+<tr>
+<td><b>Océan</b><br /><a href="/Water/fr" title="Water/fr">Eau</a>, <a href="/Stone/fr" title="Stone/fr">Pierre</a>, <a href="/Sand/fr" title="Sand/fr">Sable</a>, <a href="/Gravel/fr" title="Gravel/fr">Gravier</a>
+</td>
+<td>L'océan est un biome non officiel qui aurait été implémenté dans la Version Historique du 31 juillet 2011. Il s'agit simplement d'une grande étendue d'eau. Ils sont générés de la même façon que les lacs, ils sont appelés océans car ils peuvent être très grands, parfois entre 200 et 350 blocs de long.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Beach_0.4.7.png" class="image"><img alt="" src="/images/thumb/f/f9/Beach_0.4.7.png/350px-Beach_0.4.7.png" decoding="async" width="350" height="213" class="thumbimage" srcset="/images/thumb/f/f9/Beach_0.4.7.png/525px-Beach_0.4.7.png 1.5x, /images/thumb/f/f9/Beach_0.4.7.png/700px-Beach_0.4.7.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Beach_0.4.7.png" class="internal" title="Enlarge"></a></div>Un océan et une plage, depuis 0.4.7</div></div></div>
+</td></tr>
+
+<tr>
+<td><b>Île</b><br /><a href="/Sand/fr" title="Sand/fr">Sable</a>, <a href="/Water/fr" title="Water/fr">Eau</a>
+</td>
+<td>Bien que non classifiées en tant qu'écosystème, les îles sont suffisamment fréquentes dans les océans pour être classifiées en tant que biome technique. Leur hauteur varie généralement de 3 à 10 blocs, et peuvent faire entre 40 et 80 blocs de long.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Island_0.4.7.jpg" class="image"><img alt="" src="/images/thumb/d/de/Island_0.4.7.jpg/350px-Island_0.4.7.jpg" decoding="async" width="350" height="213" class="thumbimage" srcset="/images/thumb/d/de/Island_0.4.7.jpg/525px-Island_0.4.7.jpg 1.5x, /images/thumb/d/de/Island_0.4.7.jpg/700px-Island_0.4.7.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Island_0.4.7.jpg" class="internal" title="Enlarge"></a></div>Une petite île, depuis 0.4.7</div></div></div>
+</td></tr>
+
+<tr>
+<td><b>Plateau</b><br /><a href="/Stone/fr" title="Stone/fr">Roche</a>, <a href="/Dirt/fr" title="Dirt/fr">Terre</a>, <a href="/index.php?title=Grass_Block/fr&amp;action=edit&amp;redlink=1" class="new" title="Grass Block/fr (page does not exist)">Bloc d'herbe</a>
+</td>
+<td>Gigantesque structure, les plateaux sont très fréquents autour des montagnes. Vous pouvez parfois trouver des hauts-plateaux à plus de 35 blocs d'altitude. Ils sont généralement entourés de falaises. A leur sommet, la surface est pratiquement plate et permet de générer des biomes miniatures.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Plateau_0.4.7_alternative.png" class="image"><img alt="" src="/images/thumb/3/3b/Plateau_0.4.7_alternative.png/350px-Plateau_0.4.7_alternative.png" decoding="async" width="350" height="213" class="thumbimage" srcset="/images/thumb/3/3b/Plateau_0.4.7_alternative.png/525px-Plateau_0.4.7_alternative.png 1.5x, /images/thumb/3/3b/Plateau_0.4.7_alternative.png/700px-Plateau_0.4.7_alternative.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Plateau_0.4.7_alternative.png" class="internal" title="Enlarge"></a></div>Plateau, depuis 0.4.7</div></div></div>
+</td></tr>
+
+<tr>
+<td><b>Cavernes sous-marines</b><br /><a href="/Stone/fr" title="Stone/fr">Roche</a>, <a href="/Water/fr" title="Water/fr">Eau</a>
+</td>
+<td>Les cavernes sous-marines sont uniquement placées au niveau de la mer. Elles forment un lac ou une rivière souterraine. Elles peuvent descendre très bas - quelques milliers de blocs -, il est facile de s'y perdre.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Water_cave_0.4.7_alternative.png" class="image"><img alt="" src="/images/thumb/9/9a/Water_cave_0.4.7_alternative.png/350px-Water_cave_0.4.7_alternative.png" decoding="async" width="350" height="215" class="thumbimage" srcset="/images/thumb/9/9a/Water_cave_0.4.7_alternative.png/525px-Water_cave_0.4.7_alternative.png 1.5x, /images/thumb/9/9a/Water_cave_0.4.7_alternative.png/700px-Water_cave_0.4.7_alternative.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Water_cave_0.4.7_alternative.png" class="internal" title="Enlarge"></a></div>Une cave marine, depuis 0.4.7</div></div></div>
+</td></tr>
+
+<tr>
+<td><b>Lacs de lave</b><br /><a href="/Stone/fr" title="Stone/fr">Roche</a>, <a href="/Lava/fr" title="Lava/fr">Lave</a>, <a href="/index.php?title=Ores/fr&amp;action=edit&amp;redlink=1" class="new" title="Ores/fr (page does not exist)">Minerais</a>
+</td>
+<td>Très communes à partir de 95 blocs sous le niveau de la mer, ce sont des cavernes à moitié remplies de <a href="/Lava/fr" title="Lava/fr">lave</a>. Les <a href="/index.php?title=Ores/fr&amp;action=edit&amp;redlink=1" class="new" title="Ores/fr (page does not exist)">minerais</a> y sont particulièrement fréquents. Cependant, ces cavernes ne sont pas toujours liées les unes aux autres, il est alors difficile de les atteindre.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Lava_lake_0.4.7.jpg" class="image"><img alt="" src="/images/thumb/b/be/Lava_lake_0.4.7.jpg/350px-Lava_lake_0.4.7.jpg" decoding="async" width="350" height="213" class="thumbimage" srcset="/images/thumb/b/be/Lava_lake_0.4.7.jpg/525px-Lava_lake_0.4.7.jpg 1.5x, /images/thumb/b/be/Lava_lake_0.4.7.jpg/700px-Lava_lake_0.4.7.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Lava_lake_0.4.7.jpg" class="internal" title="Enlarge"></a></div>Un lac de lave, depuis 0.4.7</div></div></div>
+</td></tr>
+
+<tr>
+<td><b>Cachots</b><br /><a href="/Cobblestone/fr" title="Cobblestone/fr">Pierre taillée</a>, <a href="/Mossy_Cobblestone/fr" title="Mossy Cobblestone/fr">Pierre taillée moussue</a>, <a href="/Stair/fr" title="Stair/fr">Escaliers</a>
+</td>
+<td>Les cachots (improprement appelés <i>donjons</i>) sont des structures souterraines creuses faites de <a href="/Cobblestone/fr" title="Cobblestone/fr">Pierre taillée</a> et de <a href="/Mossy_Cobblestone/fr" title="Mossy Cobblestone/fr">pierre taillée moussue</a>. De nombreux chemins et <a href="/Stair/fr" title="Stair/fr">escaliers</a> connectent un système complexe de salles. Ils sont activés par défaut dans tout monde créé avec la version 0.4.10 ou plus récente.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Dungeon_0.4.7.jpg" class="image"><img alt="" src="/images/thumb/d/d6/Dungeon_0.4.7.jpg/350px-Dungeon_0.4.7.jpg" decoding="async" width="350" height="213" class="thumbimage" srcset="/images/thumb/d/d6/Dungeon_0.4.7.jpg/525px-Dungeon_0.4.7.jpg 1.5x, /images/thumb/d/d6/Dungeon_0.4.7.jpg/700px-Dungeon_0.4.7.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Dungeon_0.4.7.jpg" class="internal" title="Enlarge"></a></div>Cachot, depuis 0.4.7</div></div></div>
+</td></tr>
+
+<tr>
+<td><b>Desert dungeons</b><br /><a href="/Desert_Stone/fr" title="Desert Stone/fr">Pierre du Désert</a>, <a href="/Sandstone_Brick/fr" title="Sandstone Brick/fr">Brique de Grès</a>
+</td>
+<td>Les cachots du désert sont similaires aux cachots, mais ils apparaissent normalement sous les écosystèmes de type Désert et disposent de larges pièces et de très longs escaliers. Ils sont constitués de <a href="/Desert_Stone/fr" title="Desert Stone/fr">pierre du désert</a> ou de <a href="/Sandstone_Brick/fr" title="Sandstone Brick/fr">Brique de Grès</a>.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Desert_dungeon_desert_stone.jpg" class="image"><img alt="" src="/images/thumb/2/2e/Desert_dungeon_desert_stone.jpg/350px-Desert_dungeon_desert_stone.jpg" decoding="async" width="350" height="213" class="thumbimage" srcset="/images/thumb/2/2e/Desert_dungeon_desert_stone.jpg/525px-Desert_dungeon_desert_stone.jpg 1.5x, /images/thumb/2/2e/Desert_dungeon_desert_stone.jpg/700px-Desert_dungeon_desert_stone.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Desert_dungeon_desert_stone.jpg" class="internal" title="Enlarge"></a></div>Cachot du Désert en pierre du désert depuis la v. 0.4.13</div></div></div> <div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Desert_dungeon_sandstone.jpg" class="image"><img alt="" src="/images/thumb/8/87/Desert_dungeon_sandstone.jpg/350px-Desert_dungeon_sandstone.jpg" decoding="async" width="350" height="213" class="thumbimage" srcset="/images/thumb/8/87/Desert_dungeon_sandstone.jpg/525px-Desert_dungeon_sandstone.jpg 1.5x, /images/thumb/8/87/Desert_dungeon_sandstone.jpg/700px-Desert_dungeon_sandstone.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Desert_dungeon_sandstone.jpg" class="internal" title="Enlarge"></a></div>Cachot du déser en briques de grès depuis la v. 0.4.13</div></div></div>
+</td></tr></tbody></table>
+<p><br />
+</p>
+<h2><span class="mw-headline" id="Historique">Historique</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/File:Putkiksia.png" class="image"><img alt="" src="/images/thumb/9/9c/Putkiksia.png/200px-Putkiksia.png" decoding="async" width="200" height="150" class="thumbimage" srcset="/images/thumb/9/9c/Putkiksia.png/300px-Putkiksia.png 1.5x, /images/thumb/9/9c/Putkiksia.png/400px-Putkiksia.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Putkiksia.png" class="internal" title="Enlarge"></a></div>Le premier biome&#160;: le «&#160;chaos&#160;»</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/File:Mapgen_updated.png" class="image"><img alt="" src="/images/thumb/0/0c/Mapgen_updated.png/300px-Mapgen_updated.png" decoding="async" width="300" height="225" class="thumbimage" srcset="/images/thumb/0/0c/Mapgen_updated.png/450px-Mapgen_updated.png 1.5x, /images/thumb/0/0c/Mapgen_updated.png/600px-Mapgen_updated.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mapgen_updated.png" class="internal" title="Enlarge"></a></div>Un biome indéfinissable (0.0.1)</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/File:Plains.png" class="image"><img alt="" src="/images/thumb/5/52/Plains.png/300px-Plains.png" decoding="async" width="300" height="223" class="thumbimage" srcset="/images/thumb/5/52/Plains.png/450px-Plains.png 1.5x, /images/thumb/5/52/Plains.png/600px-Plains.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Plains.png" class="internal" title="Enlarge"></a></div>Plains biome, before 0.4.3</div></div></div>
+<p>Avant que Minetest n'ait des numéros de version, les biomes étaient indéfinissables et consistaient en 4 matériaux&#160;: le <a href="/index.php?title=Grass_Block/fr&amp;action=edit&amp;redlink=1" class="new" title="Grass Block/fr (page does not exist)">gazon</a>, la <a href="/Stone/fr" title="Stone/fr">roche</a>, la lumière et l'<a href="/Water/fr" title="Water/fr">eau</a> (ci-dessous). L'arrivée de la version 0.0.1 a apporté des «vrais&#160;» biomes, mais avant <a href="/index.php?title=Version_History&amp;action=edit&amp;redlink=1" class="new" title="Version History (page does not exist)">0.2.20110529 pre-alpha</a>, la génération du monde était assez en désordre. Les biomes se croisaient entre eux, et étaient généralement indéfinissables.
+</p><p>Pour plus de détails sur son évolution, voir <a href="/Map_Generator_Evolution" title="Map Generator Evolution">ici</a>.
+</p><p><br /><br />
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20230709122554
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.402 seconds
+Real time usage: 0.654 seconds
+Preprocessor visited node count: 237/1000000
+Post‐expand include size: 3128/2097152 bytes
+Template argument size: 524/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 13/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.120/7 seconds
+Lua virtual size: 5.55 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  330.684      1 -total
+ 91.38%  302.190      1 Template:Languages
+  8.50%   28.111      1 Template:Incomplete_translation/fr
+  4.81%   15.900      1 Template:Mbox
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:1399-0!canonical and timestamp 20230709122553 and revision id 27852
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Biomes/fr&amp;oldid=27852">http://wiki.minetest.net/index.php?title=Biomes/fr&amp;oldid=27852</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Incomplete_translated_pages" title="Category:Incomplete translated pages">Incomplete translated pages</a></li><li><a href="/Category:French" title="Category:French">French</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Biomes%2Ffr" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Biomes/fr" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Biomes/fr&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Biomes/fr">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Biomes/fr&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Biomes/fr&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Biomes/fr" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Biomes/fr" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Biomes/fr&amp;oldid=27852" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Biomes/fr&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 26 May 2023, at 14:08.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.402","walltime":"0.654","ppvisitednodes":{"value":237,"limit":1000000},"postexpandincludesize":{"value":3128,"limit":2097152},"templateargumentsize":{"value":524,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":13,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  330.684      1 -total"," 91.38%  302.190      1 Template:Languages","  8.50%   28.111      1 Template:Incomplete_translation/fr","  4.81%   15.900      1 Template:Mbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.120","limit":"7"},"limitreport-virtmemusage":{"value":5816320,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709122554","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":359});});</script></body></html>

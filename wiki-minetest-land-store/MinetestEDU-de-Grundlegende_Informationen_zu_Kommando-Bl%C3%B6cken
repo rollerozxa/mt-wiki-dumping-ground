@@ -1,0 +1,313 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>MinetestEDU/de/Grundlegende Informationen zu Kommando-Blöcken - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"3890fd29306470baac6fd3db","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"MinetestEDU/de/Grundlegende_Informationen_zu_Kommando-Blöcken","wgTitle":"MinetestEDU/de/Grundlegende Informationen zu Kommando-Blöcken","wgCurRevisionId":22704,"wgRevisionId":22704,"wgArticleId":3778,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["MinetestEDU"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"MinetestEDU/de/Grundlegende_Informationen_zu_Kommando-Blöcken","wgRelevantArticleId":3778,"wgIsProbablyEditable":!1,
+"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-MinetestEDU_de_Grundlegende_Informationen_zu_Kommando-Blöcken rootpage-MinetestEDU skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">MinetestEDU/de/Grundlegende Informationen zu Kommando-Blöcken</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/MinetestEDU" title="MinetestEDU">MinetestEDU</a>&lrm; | <a href="/MinetestEDU/de" title="MinetestEDU/de">de</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Was_sind_Kommando-Bl.C3.B6cke_und_wie_kann_man_sie_nutzen"><span class="tocnumber">1</span> <span class="toctext">Was sind Kommando-Blöcke und wie kann man sie nutzen</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Grundlegende_Funktionalit.C3.A4t"><span class="tocnumber">2</span> <span class="toctext">Grundlegende Funktionalität</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Grundlegender_Code"><span class="tocnumber">2.1</span> <span class="toctext">Grundlegender Code</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Aktivieren_des_Kommando-Blocks"><span class="tocnumber">2.2</span> <span class="toctext">Aktivieren des Kommando-Blocks</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Verschiedene_Beispiel_f.C3.BCr_Nutzungsm.C3.B6glichkeiten"><span class="tocnumber">3</span> <span class="toctext">Verschiedene Beispiel für Nutzungsmöglichkeiten</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Kommando-Bl.C3.B6cke_zum_Teleportieren_nutzen"><span class="tocnumber">3.1</span> <span class="toctext">Kommando-Blöcke zum Teleportieren nutzen</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Abgabe_von_Bl.C3.B6cken_an_einen_Benutzer"><span class="tocnumber">3.2</span> <span class="toctext">Abgabe von Blöcken an einen Benutzer</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#area-Bereiche_zuweisen"><span class="tocnumber">3.3</span> <span class="toctext">area-Bereiche zuweisen</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Das_Inventar_l.C3.B6schen"><span class="tocnumber">3.4</span> <span class="toctext">Das Inventar löschen</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span id="Was_sind_Kommando-Blöcke_und_wie_kann_man_sie_nutzen"></span><span class="mw-headline" id="Was_sind_Kommando-Bl.C3.B6cke_und_wie_kann_man_sie_nutzen">Was sind Kommando-Blöcke und wie kann man sie nutzen</span></h2>
+<p>Kommando-Blöcke (engl. Command-Block) sind Steine, die mit dem <b>Mod Mesecons</b> installiert werden. Siehe <a rel="nofollow" class="external text" href="http://mesecons.net/items.html">Mesecon-Items</a>.
+</p><p>Es sind Blöcke, die die Ausführung von beliebigen <a href="/Server_commands" title="Server commands">Server-Befehlen</a> und Text-Befehlen von Mods ermöglichen, indem sie über ein Mesecons-Signal aktiviert werden. Die Art der Aktivierung kann verschiedenen sein. Dazu gibt es verschiedene Steine, die Signale aussenden könnten (siehe <a rel="nofollow" class="external text" href="http://mesecons.net/items.html">Mesecons-Items - Receptors</a>).
+</p><p>Die Befehle wirken such auf bestimmte Personen aus, wobei man festlegen kannm ob es eine bestimmte Person ist oder zum Beispiel die nächste Person.
+</p><p>Sie können nicht gecraftet werden und erscheinen nicht in der Inventar-Auswahl. Man kann sich selber oder anderen Kommando-Blöcke geben, wenn man folgenden Befehl eingibt:
+</p><p>Für mich selber:
+</p>
+<ul><li><code>/giveme mesecons_commandblock:commandblock_off 1</code></li></ul>
+<p>Für einen anderen Spieler
+</p>
+<ul><li><code>/give &lt;SPIELERNAME&gt; mesecons_commandblock:commandblock_off 1</code></li></ul>
+<h2><span id="Grundlegende_Funktionalität"></span><span class="mw-headline" id="Grundlegende_Funktionalit.C3.A4t">Grundlegende Funktionalität</span></h2>
+<h3><span class="mw-headline" id="Grundlegender_Code">Grundlegender Code</span></h3>
+<p>Setzt man einen Kommando-Block, so ist automatisch ein Befehl eingetragen, nämlich 
+</p>
+<pre>tell @nearest Commandblock unconfigured
+</pre>
+<center><a href="/File:Dialogue_of_Commandblock.png" class="image"><img alt="Dialogue of Commandblock.png" src="/images/thumb/0/0a/Dialogue_of_Commandblock.png/450px-Dialogue_of_Commandblock.png" decoding="async" width="450" height="255" srcset="/images/thumb/0/0a/Dialogue_of_Commandblock.png/675px-Dialogue_of_Commandblock.png 1.5x, /images/0/0a/Dialogue_of_Commandblock.png 2x" /></a></center>
+<p>Bei der Eingabe handelt es sich um einen Befehl, den man fast genauso über die Texteingabe verwenden kann. Der Unterschied ist "@nearest", denn damit wird festgelegt, auf wenn sich der Befehl bezieht. Bei der Texteingabe müsste an dieser Stelle ein spezieller Spielername angegeben werden.
+</p><p>In dem obigen Beispiel wird bei Aktivierung durch eine Mesecon-Signal dem Spieler, der sich am nächsten zum Kommando-Block befindet mitgeteilt, dass der Kommando-Block nicht konfiguriert ist.
+</p><p>Tatsächlich kann man also so ziemlich jeden beliebigen Befehl im Kommando-Block nutzen, muss nur statt einem Spielernamen eines der folgenden Ziele für den Befehl angeben:
+</p>
+<ul><li><code>@nearest</code> ... für den Spieler, der dem Kommando-Block am nächsten ist.</li>
+<li><code>@farthest</code> ... für den Spieler, der am weitesten weg vom Kommando-Block ist.</li>
+<li><code>@random</code> ... für einen zufälligen Spieler</li></ul>
+<p>Ein kleiner Unterschied ist der, dass normaler Befehl mit einem Schrägstrich "/" begonnen werden, die im Kommando-Block aber weggelassen werden. Bei World-Edit-Befehl die immer so beginnen <code>"//replace ..."</code> wird dann das erste Schrägstrich dann weggelassen und es müsste im Kommando-Block stehen <code>"/replace ..."</code>.
+</p><p>Befehle, die man anwenden kann, sind vor allem im Minetestspiele eingebaute Server-Befehl, die man üblicherweise als Admin nutzt (<i>siehe <a href="/Server_commands" title="Server commands">Server Commands</a></i>) oder Befehle, die mit Mods dazu kommen. Mehr dazu gibt es bei den jeweiligen Mods in der Übersicht, im jeweiligen Forum-Thread oder auf der Github-Seite eines Mods.
+</p>
+<h3><span class="mw-headline" id="Aktivieren_des_Kommando-Blocks">Aktivieren des Kommando-Blocks</span></h3>
+<p>Einzige Vorraussetzung für die Aktivierung und damit Ausführung eines Kommando-Blocks ist, dass er ein Mesecons-Signal erhält. Hier einige Beipiele wie man das machen kann und wie man den Kommando-Block verbinden muss:
+</p>
+<ul><li><b>Aktivierung durch Druckplatte</b> Hier ein paar Beispiele für eine mögliche Anordnung ohne weitere Leitungen. Bei der Version rechts kann man den Kommand-Block auch abdecken, so dass er nicht sichtbar ist.</li></ul>
+<center><a href="/File:Commandblock_and_pressure_plate.png" class="image"><img alt="Commandblock and pressure plate.png" src="/images/thumb/7/70/Commandblock_and_pressure_plate.png/450px-Commandblock_and_pressure_plate.png" decoding="async" width="450" height="257" srcset="/images/thumb/7/70/Commandblock_and_pressure_plate.png/675px-Commandblock_and_pressure_plate.png 1.5x, /images/7/70/Commandblock_and_pressure_plate.png 2x" /></a></center>
+<p><br />
+</p>
+<ul><li><b>Aktivierung durch Spieler-Detektor</b> Der Spieler Detektor ist ein Sensor, der auf die Anwesenheit eines Spieler reagiert und wenn man sich nah genug annähert wird ein Mese-Signal ausgegeben.</li></ul>
+<center><a href="/File:Player-Detector-Block.png" class="image"><img alt="Player-Detector-Block.png" src="/images/thumb/1/11/Player-Detector-Block.png/450px-Player-Detector-Block.png" decoding="async" width="450" height="255" srcset="/images/thumb/1/11/Player-Detector-Block.png/675px-Player-Detector-Block.png 1.5x, /images/1/11/Player-Detector-Block.png 2x" /></a></center>
+<dl><dd>Dabei kann man auch nach einem speziellen Spieler oder mehreren angegebenen Spielern suchen.</dd></dl>
+<center><a href="/File:Dialogue_of_Player-Detector-Block.png" class="image"><img alt="Dialogue of Player-Detector-Block.png" src="/images/thumb/f/ff/Dialogue_of_Player-Detector-Block.png/450px-Dialogue_of_Player-Detector-Block.png" decoding="async" width="450" height="161" srcset="/images/thumb/f/ff/Dialogue_of_Player-Detector-Block.png/675px-Dialogue_of_Player-Detector-Block.png 1.5x, /images/thumb/f/ff/Dialogue_of_Player-Detector-Block.png/900px-Dialogue_of_Player-Detector-Block.png 2x" /></a></center>
+<dl><dd>Eine Idee für eine Anwendung ist eine Art personalisierte Geheimtür erstellen, durch die nur spezielle Spieler durch können. Für öffentliche Server ermöglichen Sie einen zum Beispielen einen automatisierten Transport, wenn sich ein Spieler einer bestimmten Stelle nähert, zum Beispiel indem man einen Kommando-Block zusammen mit einem Spieler-Detektor im Boden versteckt.</dd></dl>
+<center><a href="/File:Secret_Player-Detector_and_Commandblock.png" class="image"><img alt="Secret Player-Detector and Commandblock.png" src="/images/thumb/2/2c/Secret_Player-Detector_and_Commandblock.png/450px-Secret_Player-Detector_and_Commandblock.png" decoding="async" width="450" height="271" srcset="/images/thumb/2/2c/Secret_Player-Detector_and_Commandblock.png/675px-Secret_Player-Detector_and_Commandblock.png 1.5x, /images/thumb/2/2c/Secret_Player-Detector_and_Commandblock.png/900px-Secret_Player-Detector_and_Commandblock.png 2x" /></a></center>
+<dl><dd>Eine andere Anwendung dieser Idee ist das Ausgeben von bestimmten Blöcken oder auch das Löschen des ganzen Inventars.</dd></dl>
+<p><br />
+</p>
+<ul><li><b>Aktivierung durch Knöpfe</b> Knöpfe werden per Rechtsklick aktiviert und liefern ein kurzes Mese-Signal. Da ein Spieler hier bewusst den Knopf aktivieren muss, ist eine Kombination von Kommando-Block mit Knöpfen ideal um dem Spieler etwas zu geben und oder eine bestimmte Aktivität auszulösen. Hier einige Anschliss-Beispiele zum Aktivieren eines Kommando-Blocks mit einem Knopf.</li></ul>
+<center><a href="/File:Buttons_and_Commandblocks.png" class="image"><img alt="Buttons and Commandblocks.png" src="/images/thumb/e/e8/Buttons_and_Commandblocks.png/450px-Buttons_and_Commandblocks.png" decoding="async" width="450" height="266" srcset="/images/thumb/e/e8/Buttons_and_Commandblocks.png/675px-Buttons_and_Commandblocks.png 1.5x, /images/thumb/e/e8/Buttons_and_Commandblocks.png/900px-Buttons_and_Commandblocks.png 2x" /></a></center>
+<ul><li><b>Aktivierung durch Kombinationen mehrerer Signale</b></li></ul>
+<ul><li>Aktivierung durch</li></ul>
+<h2><span id="Verschiedene_Beispiel_für_Nutzungsmöglichkeiten"></span><span class="mw-headline" id="Verschiedene_Beispiel_f.C3.BCr_Nutzungsm.C3.B6glichkeiten">Verschiedene Beispiel für Nutzungsmöglichkeiten</span></h2>
+<h3><span id="Kommando-Blöcke_zum_Teleportieren_nutzen"></span><span class="mw-headline" id="Kommando-Bl.C3.B6cke_zum_Teleportieren_nutzen">Kommando-Blöcke zum Teleportieren nutzen</span></h3>
+<p>Neben anderen Mods, die das einfache Anlegen von Transportern auch durch Nicht-Admins ermöglichen (<a href="/MinetestEDU/de/Mod-%C3%9Cbersicht#Automatischer_Transport_bzw._Teleportierung" title="MinetestEDU/de/Mod-Übersicht">siehe Mod-Liste</a>), können Transport, vielleicht auch mit weiteren Befehlen, mit Hilfe von Kommando-Blocks realisiert werden.
+</p><p>Sinnvoll wäre eine Aktivierung über die folgenden Detektoren:
+</p>
+<ul><li><b>Spieler-Detektor</b> ... wenn ein Spieler dem Deteltor näher kommt, könnte er an eine bestimmte Stelle transportiert werden. Statt lange Wege zu bauen, könnte man einfach einen Transport nutzen.</li>
+<li><b>Knopf oder Druckplatte</b> ... der Spieler stellt sich oder läuft bewusst über die Druckplatte oder kann einen von vielleicht auch mehreren Knöpfen anwählen. So könnte man mehrere Ziele anbieten.</li></ul>
+<p>Als Befehl müsste man dann zum Beispiel im Kommando-Block stehen haben:
+</p>
+<pre>transport @nearest 1,2,3
+</pre>
+<p>... wobei 1,2,3 die Koordinaten für den Zielpunkt ist.
+</p><p>Man könnte dem transportierten Spieler dabei auch Rechte geben oder etwas mitteilen, allerdings fallen solche Nachrichten nicht besonders auf.
+</p>
+<h3><span id="Abgabe_von_Blöcken_an_einen_Benutzer"></span><span class="mw-headline" id="Abgabe_von_Bl.C3.B6cken_an_einen_Benutzer">Abgabe von Blöcken an einen Benutzer</span></h3>
+<p>Mit einem Knopf, einem Spieler-Detektor oder einer Druckplatte könnte man den Spieler ein Mese-Signal auslösen lassen, wordurch er Spieler einen bestimmten Block bekommt. Das könnte zum Beispiel für die Benutzung eines Bahn-Strecke ein Kart sein, den man bekommt.
+</p>
+<h3><span class="mw-headline" id="area-Bereiche_zuweisen">area-Bereiche zuweisen</span></h3>
+<h3><span id="Das_Inventar_löschen"></span><span class="mw-headline" id="Das_Inventar_l.C3.B6schen">Das Inventar löschen</span></h3>
+<!-- 
+NewPP limit report
+Cached time: 20230709182129
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.086 seconds
+Real time usage: 0.105 seconds
+Preprocessor visited node count: 35/1000000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    0.000      1 -total
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:3778-0!canonical and timestamp 20230709182129 and revision id 22704
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=MinetestEDU/de/Grundlegende_Informationen_zu_Kommando-Blöcken&amp;oldid=22704">http://wiki.minetest.net/index.php?title=MinetestEDU/de/Grundlegende_Informationen_zu_Kommando-Blöcken&amp;oldid=22704</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/Category:MinetestEDU" title="Category:MinetestEDU">MinetestEDU</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=MinetestEDU%2Fde%2FGrundlegende+Informationen+zu+Kommando-Bl%C3%B6cken" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/MinetestEDU/de/Grundlegende_Informationen_zu_Kommando-Bl%C3%B6cken" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:MinetestEDU/de/Grundlegende_Informationen_zu_Kommando-Bl%C3%B6cken&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/MinetestEDU/de/Grundlegende_Informationen_zu_Kommando-Bl%C3%B6cken">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=MinetestEDU/de/Grundlegende_Informationen_zu_Kommando-Bl%C3%B6cken&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=MinetestEDU/de/Grundlegende_Informationen_zu_Kommando-Bl%C3%B6cken&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/MinetestEDU/de/Grundlegende_Informationen_zu_Kommando-Bl%C3%B6cken" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/MinetestEDU/de/Grundlegende_Informationen_zu_Kommando-Bl%C3%B6cken" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=MinetestEDU/de/Grundlegende_Informationen_zu_Kommando-Bl%C3%B6cken&amp;oldid=22704" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=MinetestEDU/de/Grundlegende_Informationen_zu_Kommando-Bl%C3%B6cken&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 26 July 2019, at 11:18.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.086","walltime":"0.105","ppvisitednodes":{"value":35,"limit":1000000},"postexpandincludesize":{"value":0,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20230709182129","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":409});});</script></body></html>

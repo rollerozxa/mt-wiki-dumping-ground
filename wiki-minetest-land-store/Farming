@@ -1,0 +1,440 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Farming - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"8fdceceb4d83e212a541e268","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Farming","wgTitle":"Farming","wgCurRevisionId":27563,"wgRevisionId":27563,"wgArticleId":649,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages","Incomplete pages","Gameplay"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Farming","wgRelevantArticleId":649,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready",
+"user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=skins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Farming rootpage-Farming skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Farming</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> Language:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><b><a class="mw-selflink selflink">English</a></b>&#160;• <bdi lang="de"><a href="/Farming/de" title="Farming/de">Deutsch</a></bdi>&#160;• <bdi lang="fr"><a href="/Farming/fr" title="Farming/fr">français</a></bdi></td>
+</tr></tbody></table>
+<table style="margin: 0 auto 1em; text-align: justify; border-collapse: collapse; border-width: 1px; border-style: dashed; width: 100%; clear: both; border-color:#f28500; background:#ffe;">
+<tbody><tr>
+<td style="border: none; padding: 2px 0 2px 0.9em; text-align: center;">
+ <img alt="Mbox important.png" src="/images/thumb/7/79/Mbox_important.png/25px-Mbox_important.png" decoding="async" width="25" height="25" srcset="/images/thumb/7/79/Mbox_important.png/38px-Mbox_important.png 1.5x, /images/7/79/Mbox_important.png 2x" /></td>
+<td style="border: none; padding: 0.25em 0.9em; width: 100%;"><b>This article is incomplete.</b><br />
+Please help expand this article to include more useful information.</td>
+
+</tr></tbody></table>
+<p>This page contains an overview of farmable <a href="/Blocks" class="mw-redirect" title="Blocks">blocks</a> in <a href="/Games/Minetest_Game" title="Games/Minetest Game">Minetest Game</a>.
+Farmable blocks will spawn either new blocks or yield new items, when <a href="/Mining" title="Mining">mined</a>. 
+All farmable blocks have to be on top of another certain kind of block to grow. 
+Some farmable blocks also need <a href="/Light" title="Light">light</a>.
+</p><p>There are some <a rel="nofollow" class="external text" href="https://content.minetest.net/packages/?tag=plants_and_farming">farming mods</a> with extensions, e.g. more fruits and foods.
+</p><p>The “Maximum profit” column shows the maximum possible outcome a single block will yield, including itself.
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>
+</th>
+<th>Block
+</th>
+<th>Grows on
+</th>
+<th>Needs <a href="/Light" title="Light">light</a>?
+</th>
+<th>Maximum profit
+</th>
+<th>Theorical growth speed (evolution)
+</th>
+<th>Expected growth speed (full)
+</th>
+<th>Number of growth stages
+</th></tr>
+<tr>
+<td><a href="/File:Cotton_8.png" class="image"><img alt="Cotton 8.png" src="/images/thumb/0/0c/Cotton_8.png/32px-Cotton_8.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/0c/Cotton_8.png/48px-Cotton_8.png 1.5x, /images/thumb/0/0c/Cotton_8.png/64px-Cotton_8.png 2x" /></a>
+</td>
+<td><a href="/Cotton_Plant" title="Cotton Plant">Cotton Plant</a>
+</td>
+<td><a href="/Soil" title="Soil">Wet Soil</a>, <a href="/Savanna_Soil" title="Savanna Soil">Wet Savanna Soil</a>, <a href="/Desert_Sand_Soil" title="Desert Sand Soil">Wet Desert Sand Soil</a>
+</td>
+<td>Yes, 13 or higher
+</td>
+<td>3 <a href="/File:Cotton.png" class="image"><img alt="Cotton.png" src="/images/thumb/c/c3/Cotton.png/32px-Cotton.png" decoding="async" width="32" height="32" srcset="/images/thumb/c/c3/Cotton.png/48px-Cotton.png 1.5x, /images/thumb/c/c3/Cotton.png/64px-Cotton.png 2x" /></a> <a href="/Cotton" title="Cotton">Cotton</a> and 3 <a href="/File:Cotton_Seed.png" class="image"><img alt="Cotton Seed.png" src="/images/thumb/9/97/Cotton_Seed.png/32px-Cotton_Seed.png" decoding="async" width="32" height="32" srcset="/images/thumb/9/97/Cotton_Seed.png/48px-Cotton_Seed.png 1.5x, /images/thumb/9/97/Cotton_Seed.png/64px-Cotton_Seed.png 2x" /></a> <a href="/Cotton_Seed" title="Cotton Seed">Cotton Seeds</a>
+</td>
+<td>1/2 chance to grow every 80 seconds = about 160 seconds per stage
+</td>
+<td><b>160 × 7 = 1120 seconds ≈ 19 minutes</b>
+</td>
+<td>8
+</td></tr>
+<tr>
+<td><a href="/File:Wheat_8.png" class="image"><img alt="Wheat 8.png" src="/images/thumb/3/38/Wheat_8.png/32px-Wheat_8.png" decoding="async" width="32" height="32" srcset="/images/thumb/3/38/Wheat_8.png/48px-Wheat_8.png 1.5x, /images/thumb/3/38/Wheat_8.png/64px-Wheat_8.png 2x" /></a>
+</td>
+<td><a href="/Wheat_Plant" title="Wheat Plant">Wheat Plant</a>
+</td>
+<td><a href="/Soil" title="Soil">Wet Soil</a>, <a href="/Savanna_Soil" title="Savanna Soil">Wet Savanna Soil</a>
+</td>
+<td>Yes, 13 or higher
+</td>
+<td>2 <a href="/File:Wheat.png" class="image"><img alt="Wheat.png" src="/images/thumb/e/e2/Wheat.png/32px-Wheat.png" decoding="async" width="32" height="32" srcset="/images/thumb/e/e2/Wheat.png/48px-Wheat.png 1.5x, /images/thumb/e/e2/Wheat.png/64px-Wheat.png 2x" /></a> <a href="/Wheat" title="Wheat">Wheat</a> and 2 <a href="/File:Wheat_Seed.png" class="image"><img alt="Wheat Seed.png" src="/images/thumb/7/73/Wheat_Seed.png/32px-Wheat_Seed.png" decoding="async" width="32" height="32" srcset="/images/thumb/7/73/Wheat_Seed.png/48px-Wheat_Seed.png 1.5x, /images/thumb/7/73/Wheat_Seed.png/64px-Wheat_Seed.png 2x" /></a><a href="/Wheat_Seed" title="Wheat Seed">Wheat Seeds</a>
+</td>
+<td>1/2 chance to grow every 90 seconds = about 180 seconds per stage
+</td>
+<td><b>180 × 7 = 1260 seconds = 21 minutes</b>
+</td>
+<td>8
+</td></tr>
+<tr>
+<td><a href="/File:Jungle_Sapling.png" class="image"><img alt="Jungle Sapling.png" src="/images/thumb/8/8d/Jungle_Sapling.png/32px-Jungle_Sapling.png" decoding="async" width="32" height="32" srcset="/images/thumb/8/8d/Jungle_Sapling.png/48px-Jungle_Sapling.png 1.5x, /images/thumb/8/8d/Jungle_Sapling.png/64px-Jungle_Sapling.png 2x" /></a>
+</td>
+<td><a href="/Tree_Saplings" title="Tree Saplings">Jungle Sapling</a>
+</td>
+<td><a href="/Dirt" title="Dirt">Dirt</a>, <a href="/Dirt_with_Grass" title="Dirt with Grass">Dirt with Grass</a>, <a href="/Dirt_with_Grass_and_Footsteps" title="Dirt with Grass and Footsteps">Dirt with Grass and Footsteps</a>, <a href="/Dirt_with_Savanna_Grass" title="Dirt with Savanna Grass">Dirt with Savanna Grass</a>, <a href="/Dirt_with_Snow" title="Dirt with Snow">Dirt with Snow</a>, <a href="/Soil" title="Soil">Soil</a>, <a href="/Wet_Soil" class="mw-redirect" title="Wet Soil">Wet Soil</a>, <a href="/Desert_Sand_Soil" title="Desert Sand Soil">Desert Sand Soil</a>, <a href="/Wet_Desert_Sand_Soil" class="mw-redirect" title="Wet Desert Sand Soil">Wet Desert Sand Soil</a>
+</td>
+<td>No
+</td>
+<td>About 20 <a href="/File:Jungle_Tree.png" class="image"><img alt="Jungle Tree.png" src="/images/thumb/1/16/Jungle_Tree.png/32px-Jungle_Tree.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/16/Jungle_Tree.png/48px-Jungle_Tree.png 1.5x, /images/thumb/1/16/Jungle_Tree.png/64px-Jungle_Tree.png 2x" /></a> <a href="/Jungle_Tree" title="Jungle Tree">Jungle Trees</a> and many <a href="/File:Jungle_Leaves.png" class="image"><img alt="Jungle Leaves.png" src="/images/thumb/c/c5/Jungle_Leaves.png/32px-Jungle_Leaves.png" decoding="async" width="32" height="32" srcset="/images/thumb/c/c5/Jungle_Leaves.png/48px-Jungle_Leaves.png 1.5x, /images/thumb/c/c5/Jungle_Leaves.png/64px-Jungle_Leaves.png 2x" /></a> <a href="/Leaves_and_Jungle_Leaves" class="mw-redirect" title="Leaves and Jungle Leaves">Jungle Leaves</a>
+</td>
+<td>1/50 chance every 10 seconds
+</td>
+<td><b>10 × 50 = 500 seconds ≈ 8 minutes</b>
+</td>
+<td>2
+</td></tr>
+<tr>
+<td><a href="/File:Sapling.png" class="image"><img alt="Sapling.png" src="/images/thumb/5/51/Sapling.png/32px-Sapling.png" decoding="async" width="32" height="32" srcset="/images/thumb/5/51/Sapling.png/48px-Sapling.png 1.5x, /images/thumb/5/51/Sapling.png/64px-Sapling.png 2x" /></a>
+</td>
+<td><a href="/Tree_Saplings" title="Tree Saplings">Sapling</a>
+</td>
+<td><a href="/Dirt" title="Dirt">Dirt</a>, <a href="/Dirt_with_Grass" title="Dirt with Grass">Dirt with Grass</a>, <a href="/Dirt_with_Grass_and_Footsteps" title="Dirt with Grass and Footsteps">Dirt with Grass and Footsteps</a>, <a href="/Dirt_with_Savanna_Grass" title="Dirt with Savanna Grass">Dirt with Savanna Grass</a>, <a href="/Dirt_with_Snow" title="Dirt with Snow">Dirt with Snow</a>, <a href="/Soil" title="Soil">Soil</a>, <a href="/Wet_Soil" class="mw-redirect" title="Wet Soil">Wet Soil</a>, <a href="/Desert_Sand_Soil" title="Desert Sand Soil">Desert Sand Soil</a>, <a href="/Wet_Desert_Sand_Soil" class="mw-redirect" title="Wet Desert Sand Soil">Wet Desert Sand Soil</a>
+</td>
+<td>No
+</td>
+<td>5 <a href="/File:Tree.png" class="image"><img alt="Tree.png" src="/images/thumb/a/ac/Tree.png/32px-Tree.png" decoding="async" width="32" height="32" srcset="/images/thumb/a/ac/Tree.png/48px-Tree.png 1.5x, /images/thumb/a/ac/Tree.png/64px-Tree.png 2x" /></a> <a href="/Tree" class="mw-redirect" title="Tree">Trees</a>, many <a href="/File:Leaves.png" class="image"><img alt="Leaves.png" src="/images/thumb/f/f1/Leaves.png/32px-Leaves.png" decoding="async" width="32" height="32" srcset="/images/thumb/f/f1/Leaves.png/48px-Leaves.png 1.5x, /images/thumb/f/f1/Leaves.png/64px-Leaves.png 2x" /></a> <a href="/Leaves_and_Jungle_Leaves" class="mw-redirect" title="Leaves and Jungle Leaves">Leaves</a> and some <a href="/File:Apple.png" class="image"><img alt="Apple.png" src="/images/thumb/7/7d/Apple.png/32px-Apple.png" decoding="async" width="32" height="32" srcset="/images/thumb/7/7d/Apple.png/48px-Apple.png 1.5x, /images/thumb/7/7d/Apple.png/64px-Apple.png 2x" /></a> <a href="/Apple" title="Apple">Apples</a>
+</td>
+<td>1/50 chance every 10 seconds
+</td>
+<td><b>10 × 50 = 500 seconds ≈ 8 minutes</b>
+</td>
+<td>2
+</td></tr>
+<tr>
+<td><a href="/File:Acacia_Tree_Sapling.png" class="image"><img alt="Acacia Tree Sapling.png" src="/images/thumb/0/0e/Acacia_Tree_Sapling.png/32px-Acacia_Tree_Sapling.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/0e/Acacia_Tree_Sapling.png/48px-Acacia_Tree_Sapling.png 1.5x, /images/thumb/0/0e/Acacia_Tree_Sapling.png/64px-Acacia_Tree_Sapling.png 2x" /></a>
+</td>
+<td><a href="/Tree_Saplings" title="Tree Saplings">Acacia Sapling</a>
+</td>
+<td><a href="/Dirt" title="Dirt">Dirt</a>, <a href="/Dirt_with_Grass" title="Dirt with Grass">Dirt with Grass</a>, <a href="/Dirt_with_Grass_and_Footsteps" title="Dirt with Grass and Footsteps">Dirt with Grass and Footsteps</a>, <a href="/Dirt_with_Savanna_Grass" title="Dirt with Savanna Grass">Dirt with Savanna Grass</a>, <a href="/Dirt_with_Snow" title="Dirt with Snow">Dirt with Snow</a>, <a href="/Soil" title="Soil">Soil</a>, <a href="/Wet_Soil" class="mw-redirect" title="Wet Soil">Wet Soil</a>, <a href="/Desert_Sand_Soil" title="Desert Sand Soil">Desert Sand Soil</a>, <a href="/Wet_Desert_Sand_Soil" class="mw-redirect" title="Wet Desert Sand Soil">Wet Desert Sand Soil</a>
+</td>
+<td>No
+</td>
+<td>13 <a href="/File:Acacia_Tree.png" class="image"><img alt="Acacia Tree.png" src="/images/thumb/8/8f/Acacia_Tree.png/32px-Acacia_Tree.png" decoding="async" width="32" height="32" srcset="/images/thumb/8/8f/Acacia_Tree.png/48px-Acacia_Tree.png 1.5x, /images/thumb/8/8f/Acacia_Tree.png/64px-Acacia_Tree.png 2x" /></a> <a href="/Acacia_Tree" title="Acacia Tree">Acacia Trees</a> and ca. 75 <a href="/File:Acacia_Leaves.png" class="image"><img alt="Acacia Leaves.png" src="/images/thumb/2/27/Acacia_Leaves.png/32px-Acacia_Leaves.png" decoding="async" width="32" height="32" srcset="/images/thumb/2/27/Acacia_Leaves.png/48px-Acacia_Leaves.png 1.5x, /images/thumb/2/27/Acacia_Leaves.png/64px-Acacia_Leaves.png 2x" /></a> <a href="/Leaves" title="Leaves">Acacia Leaves</a>
+</td>
+<td>1/50 chance every 10 seconds
+</td>
+<td><b>10 × 50 = 500 seconds ≈ 8 minutes</b>
+</td>
+<td>2
+</td></tr>
+<tr>
+<td><a href="/File:Pine_Sapling.png" class="image"><img alt="Pine Sapling.png" src="/images/thumb/1/18/Pine_Sapling.png/32px-Pine_Sapling.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/18/Pine_Sapling.png/48px-Pine_Sapling.png 1.5x, /images/thumb/1/18/Pine_Sapling.png/64px-Pine_Sapling.png 2x" /></a>
+</td>
+<td><a href="/Tree_Saplings" title="Tree Saplings">Pine Sapling</a>
+</td>
+<td><a href="/Dirt" title="Dirt">Dirt</a>, <a href="/Dirt_with_Grass" title="Dirt with Grass">Dirt with Grass</a>, <a href="/Dirt_with_Grass_and_Footsteps" title="Dirt with Grass and Footsteps">Dirt with Grass and Footsteps</a>, <a href="/Dirt_with_Savanna_Grass" title="Dirt with Savanna Grass">Dirt with Savanna Grass</a>, <a href="/Dirt_with_Snow" title="Dirt with Snow">Dirt with Snow</a>, <a href="/Soil" title="Soil">Soil</a>, <a href="/Wet_Soil" class="mw-redirect" title="Wet Soil">Wet Soil</a>, <a href="/Desert_Sand_Soil" title="Desert Sand Soil">Desert Sand Soil</a>, <a href="/Wet_Desert_Sand_Soil" class="mw-redirect" title="Wet Desert Sand Soil">Wet Desert Sand Soil</a>
+</td>
+<td>No
+</td>
+<td>Some <a href="/File:Pine_Tree.png" class="image"><img alt="Pine Tree.png" src="/images/thumb/d/d4/Pine_Tree.png/32px-Pine_Tree.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/d4/Pine_Tree.png/48px-Pine_Tree.png 1.5x, /images/thumb/d/d4/Pine_Tree.png/64px-Pine_Tree.png 2x" /></a> <a href="/Pine_Tree" title="Pine Tree">Pine Trees</a> and many <a href="/File:Pine_Needles.png" class="image"><img alt="Pine Needles.png" src="/images/thumb/2/2c/Pine_Needles.png/32px-Pine_Needles.png" decoding="async" width="32" height="32" srcset="/images/thumb/2/2c/Pine_Needles.png/48px-Pine_Needles.png 1.5x, /images/thumb/2/2c/Pine_Needles.png/64px-Pine_Needles.png 2x" /></a> <a href="/Leaves" title="Leaves">Pine Needles</a>
+</td>
+<td>1/50 chance every 10 seconds
+</td>
+<td><b>10 × 50 = 500 seconds ≈ 8 minutes</b>
+</td>
+<td>2
+</td></tr>
+<tr>
+<td><a href="/File:Cactus.png" class="image"><img alt="Cactus.png" src="/images/thumb/a/a6/Cactus.png/32px-Cactus.png" decoding="async" width="32" height="32" srcset="/images/thumb/a/a6/Cactus.png/48px-Cactus.png 1.5x, /images/thumb/a/a6/Cactus.png/64px-Cactus.png 2x" /></a>
+</td>
+<td><a href="/Cactus" title="Cactus">Cactus</a>
+</td>
+<td><a href="/Category:Sand" title="Category:Sand">Any kind of sand</a>
+</td>
+<td>Yes, 13 or higher
+</td>
+<td>4 <a href="/File:Cactus.png" class="image"><img alt="Cactus.png" src="/images/thumb/a/a6/Cactus.png/32px-Cactus.png" decoding="async" width="32" height="32" srcset="/images/thumb/a/a6/Cactus.png/48px-Cactus.png 1.5x, /images/thumb/a/a6/Cactus.png/64px-Cactus.png 2x" /></a> <a href="/Cactus" title="Cactus">Cacti</a>
+</td>
+<td>1/20 chance every 50 seconds
+</td>
+<td><b>50 × 20 = 1000 seconds ≈ 17 minutes</b>
+</td>
+<td>4
+</td></tr>
+<tr>
+<td><a href="/File:Papyrus.png" class="image"><img alt="Papyrus.png" src="/images/thumb/1/12/Papyrus.png/32px-Papyrus.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/12/Papyrus.png/48px-Papyrus.png 1.5x, /images/thumb/1/12/Papyrus.png/64px-Papyrus.png 2x" /></a>
+</td>
+<td><a href="/Papyrus" title="Papyrus">Papyrus</a>
+</td>
+<td><a href="/Dirt" title="Dirt">Dirt</a>, <a href="/Dirt_with_Grass" title="Dirt with Grass">Dirt with Grass</a>. (<a href="/Water" title="Water">Water</a> must be to 3 blocks away)
+</td>
+<td>Yes, 13 or higher
+</td>
+<td>4 <a href="/File:Papyrus.png" class="image"><img alt="Papyrus.png" src="/images/thumb/1/12/Papyrus.png/32px-Papyrus.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/12/Papyrus.png/48px-Papyrus.png 1.5x, /images/thumb/1/12/Papyrus.png/64px-Papyrus.png 2x" /></a> <a href="/Papyrus" title="Papyrus">Papyri</a>
+</td>
+<td>1/20 chance every 50 seconds
+</td>
+<td><b>50 × 20 = 1000 seconds ≈ 17 minutes</b>
+</td>
+<td>4
+</td></tr>
+<tr>
+<td>
+</td>
+<td><a href="/Group:flora" title="Group:flora">Group:flora</a>
+</td>
+<td><a href="/Dirt_with_Grass" title="Dirt with Grass">Dirt with Grass</a>
+</td>
+<td>Yes, 13 or higher
+</td>
+<td>4 flora blocks of the same kind
+</td>
+<td>1/25 chance every 50 seconds
+</td>
+<td><b>50 × 25 = 1250 seconds ≈ 21 minutes</b>
+</td>
+<td>1
+</td></tr>
+<tr>
+<td>
+</td>
+<td><a href="/Group:flora" title="Group:flora">Group:flora</a>
+</td>
+<td><a href="/Desert_Sand" title="Desert Sand">Desert Sand</a>
+</td>
+<td>No
+</td>
+<td>1 <a href="/File:Dry_Shrub.png" class="image"><img alt="Dry Shrub.png" src="/images/thumb/f/fe/Dry_Shrub.png/32px-Dry_Shrub.png" decoding="async" width="32" height="32" srcset="/images/thumb/f/fe/Dry_Shrub.png/48px-Dry_Shrub.png 1.5x, /images/thumb/f/fe/Dry_Shrub.png/64px-Dry_Shrub.png 2x" /></a> <a href="/Dry_Shrub" title="Dry Shrub">Dry Shrub</a>
+</td>
+<td>1/25 chance every 50 seconds
+</td>
+<td><b>50 × 25 = 1250 seconds ≈ 21 minutes</b>
+</td>
+<td>1
+</td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Cached time: 20230709160837
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.377 seconds
+Real time usage: 0.941 seconds
+Preprocessor visited node count: 95/1000000
+Post‐expand include size: 2697/2097152 bytes
+Template argument size: 368/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 14/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.130/7 seconds
+Lua virtual size: 5.55 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  331.687      1 -total
+ 90.68%  300.790      1 Template:Languages
+  9.21%   30.535      1 Template:Incomplete
+  5.47%   18.140      1 Template:Mbox
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:649-0!canonical and timestamp 20230709160836 and revision id 27563
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Farming&amp;oldid=27563">http://wiki.minetest.net/index.php?title=Farming&amp;oldid=27563</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li><li><a href="/Category:Incomplete_pages" title="Category:Incomplete pages">Incomplete pages</a></li><li><a href="/Category:Gameplay" title="Category:Gameplay">Gameplay</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Farming" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Farming" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Farming&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Farming">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Farming&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Farming&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Farming" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Farming" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Farming&amp;oldid=27563" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Farming&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 22 January 2023, at 14:53.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.377","walltime":"0.941","ppvisitednodes":{"value":95,"limit":1000000},"postexpandincludesize":{"value":2697,"limit":2097152},"templateargumentsize":{"value":368,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":14,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  331.687      1 -total"," 90.68%  300.790      1 Template:Languages","  9.21%   30.535      1 Template:Incomplete","  5.47%   18.140      1 Template:Mbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.130","limit":"7"},"limitreport-virtmemusage":{"value":5816320,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709160837","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":273});});</script></body></html>

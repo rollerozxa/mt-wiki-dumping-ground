@@ -1,0 +1,298 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Console/fr - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"08dc260eeeed59f9f0cb8522","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Console/fr","wgTitle":"Console/fr","wgCurRevisionId":11693,"wgRevisionId":11693,"wgArticleId":2752,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages","GUI","French"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Console/fr","wgRelevantArticleId":2752,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready",
+"user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Console_fr rootpage-Console skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Console/fr</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/Console" title="Console">Console</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> Langue&#160;:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><a href="/Console" title="Console">English</a>&#160;• <bdi lang="de"><a href="/Console/de" title="Console/de">Deutsch</a></bdi><b>&#160;• <bdi lang="fr"><a class="mw-selflink selflink">français</a></bdi></b></td>
+</tr></tbody></table>
+<p>La <b>console</b> est une partie des interfaces graphiques de Minetest’s (GUI - Graphical User Interface) qui permet de conserver facilement la trace de nombreux <a href="/Chat/fr" title="Chat/fr">tchats</a> et des messages systèmes. On y accède par la touche &lt;kdb&gt;F10&lt;/kdb&gt; qui est aussi utilisée pour sortir de la console.
+Vous pouvez taper des messages de tchat, des commandes Minetest ou simplement faire défiler le journal de tous les messages qui ont été échangés durant la partie pour pouvoir les consulter.
+</p><p><br />
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Utilisation"><span class="tocnumber">1</span> <span class="toctext">Utilisation</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Gestion_de_l.27Historique"><span class="tocnumber">1.1</span> <span class="toctext">Gestion de l'Historique</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#D.C3.A9filement"><span class="tocnumber">1.2</span> <span class="toctext">Défilement</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Vue_d.27ensemble_des_contr.C3.B4les"><span class="tocnumber">1.3</span> <span class="toctext">Vue d'ensemble des contrôles</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Utilisation">Utilisation</span></h2>
+<p>La console fonctionne de façon similaire à la <a href="/Chat_window/fr" title="Chat window/fr">fenêtre de tchat</a>. Elle rend juste les choses un peu plus pratique.
+Lorsque vous tapez une ligne qui ne commence pas par un “/” et que vous appuyez sur la touche <kbd>Enter</kbd> cette ligne sera envoyée comme un message de tchat ordinaire.
+Si la ligne commence par “/”, elle sera interprétée comme une commande. Voir les <a href="/Server_commands/fr" title="Server commands/fr">commandes serveur</a> pour plus de détails.
+</p><p><br />
+</p>
+<h3><span id="Gestion_de_l'Historique"></span><span class="mw-headline" id="Gestion_de_l.27Historique">Gestion de l'Historique</span></h3>
+<p>La console dispose d'une fonction appelée “historique” qui conserve pour vous la trace des messages et des commandes que vous avez entré précédemment au cours de la partie. Les messages sont vidés lorsque vous quittez le jeu.
+Avec les touches <kbd>Flèche haut</kbd> et <kbd>Flèche bas</kbd> vous pouvez consulter l'historique des messages et des commandes entrées. 
+Vous pouvez aussi renvoyé un message en vous déplaçant dans l'historique et en le validant avec la touche <kbd>Enter</kbd>, cela remplace la ligne courante avec celle de l'entrée de l’historique.
+</p><p><br />
+</p>
+<h3><span id="Défilement"></span><span class="mw-headline" id="D.C3.A9filement">Défilement</span></h3>
+<p>Vous pouvez faire défiler les messages par page vers le haut ou vers le bas avec les touches <kbd>Page up</kbd> ou <kbd>Page down</kbd>, respectivement. 
+Le texte de la console descend automatiquement au fur et à mesure que les messages sont saisis et lorsque la dernière ligne est atteinte, c'est le corps des messages précédent qui remonte à chaque message validé.
+</p><p><br />
+</p>
+<h3><span id="Vue_d'ensemble_des_contrôles"></span><span class="mw-headline" id="Vue_d.27ensemble_des_contr.C3.B4les">Vue d'ensemble des contrôles</span></h3>
+<ul><li>GUI (Interface Graphique Utilisateur)
+<ul><li><kbd>F10</kbd>: Ouvrir/fermer la console</li>
+<li><kbd>Esc</kbd>: Ferme la console</li></ul></li></ul>
+<ul><li>Déplacement du curseur
+<ul><li><kbd>Flèche Gauche</kbd>: Déplace le curseur à gauche d'un caractère</li>
+<li><kbd>Flèche Droite</kbd>: Déplace le curseur à droite d'un caractère</li>
+<li><kbd>Fin</kbd>: Déplace le curseur à la fin de la ligne courante</li>
+<li><kbd>Home</kbd>: Déplace le curseur au début de la ligne courante</li></ul></li></ul>
+<ul><li>Défilement
+<ul><li><kbd>Page Haut</kbd>: Remonte dans l'historique des messages par page entière</li>
+<li><kbd>Molette de la souris vers le haut</kbd>: Défilement des messages vers le haut</li>
+<li><kbd>Molette de la souris vers le bas</kbd>: Défilement des messages vers le bas</li>
+<li><kbd>Page Bas</kbd>: Descend l'historique des messages par page entière</li></ul></li></ul>
+<ul><li>Entrées
+<ul><li><kbd>Tab</kbd>: Complète la saisie pour un nom connu (ex: joueur connu -&gt; kiamamoto. Saisir kia+TAB affiche kiamamoto:</li>
+<li><kbd>Shift</kbd>+<kbd>Tab</kbd>: Complète la saisie pour un nom connu.</li>
+<li><kbd>Entrer</kbd>: Envoie la commande ou le message et efface la ligne saisie.</li></ul></li></ul>
+<ul><li>Historique
+<ul><li><kbd>Flèche Gauche</kbd>: Remplace une ligne avec une précédente entrée dans l'historique</li>
+<li><kbd>Flèche Droite</kbd>: Remplace une ligne avec une entrée antérieure dans l'historique</li></ul></li></ul>
+<ul><li>Suppression de caractères
+<ul><li><kbd>Backspace</kbd>: Efface le caractère à gauche du curseur</li>
+<li><kbd>Ctrl</kbd>+<kbd>Backspace</kbd>: Efface le mot à gauche du curseur</li>
+<li><kbd>Ctrl</kbd>+<kbd>U</kbd>: Efface tous les caractères à gauche du curseur</li>
+<li><kbd>Del</kbd>: Efface le caractère à droite du curseur</li>
+<li><kbd>Ctrl</kbd>+<kbd>Del</kbd>: Efface le mot à droite du curseur</li>
+<li><kbd>Ctrl</kbd>+<kbd>K</kbd>: Efface tous les caractères à droite du curseur</li></ul></li></ul>
+<p><br /><br />
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20230709103445
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.175 seconds
+Real time usage: 0.367 seconds
+Preprocessor visited node count: 72/1000000
+Post‐expand include size: 1426/2097152 bytes
+Template argument size: 246/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 13/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.130/7 seconds
+Lua virtual size: 5.53 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  299.378      1 Template:Languages
+100.00%  299.378      1 -total
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:2752-0!canonical and timestamp 20230709103445 and revision id 11693
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Console/fr&amp;oldid=11693">http://wiki.minetest.net/index.php?title=Console/fr&amp;oldid=11693</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li><li><a href="/Category:GUI" title="Category:GUI">GUI</a></li><li><a href="/Category:French" title="Category:French">French</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Console%2Ffr" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Console/fr" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Console/fr&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Console/fr">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Console/fr&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Console/fr&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Console/fr" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Console/fr" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Console/fr&amp;oldid=11693" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Console/fr&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 14 November 2016, at 22:59.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.175","walltime":"0.367","ppvisitednodes":{"value":72,"limit":1000000},"postexpandincludesize":{"value":1426,"limit":2097152},"templateargumentsize":{"value":246,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":13,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  299.378      1 Template:Languages","100.00%  299.378      1 -total"]},"scribunto":{"limitreport-timeusage":{"value":"0.130","limit":"7"},"limitreport-virtmemusage":{"value":5795840,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709103445","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":573});});</script></body></html>

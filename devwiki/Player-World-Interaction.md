@@ -1,0 +1,53 @@
+```{=mediawiki}
+{{Incomplete}}
+```
+## Digging a node {#digging_a_node}
+
+Preconditions are a node somewhere in the map.\
+This node is pointable, has a selection box and can be dug by the hand or the tool the player is wielding.\
+The player has interact priv and the tool has a tool range that the node can be pointed.\
+The node is not stuck somewhere the player can\'t point it.
+
+-   First look at the node, it becomes pointed_thing.
+
+:   Note that on android the node is pointed without looking (referring to the cross position) at it.
+
+-   Then LMB is pressed down while holding an item which does not have on_use.
+
+:   If LMB wasn\'t released before, a click happens, which causes a punch event.
+
+    :   The client send a punch event (client-\>interact(4, pointed), see game.cpp:3657 (28.02.2017)).
+    :   On server side the punch event is passed to mods, see on_punch and the deprecated register_on_punchnode.
+:   Then the client sends the digging start event to the server (interact(0, pointed), game.cpp:3948).
+
+    :   The server uses this information for anticheat measurements.
+
+-   Now continue looking at the node, i.e. keep pointing it, and hold down LMB.
+
+:   Periodically client-side: Crack animation is updated, digging particles are spawned (if not disabled in the settings) and the node dig sound is played.
+
+    :   The dig sound is either the \"dig\" field in the \"sounds\" table in the nodedef
+    :   or, if it\'s not present, the client uses the sound \"default_dig\_\${groupname}\" (file name extension omitted here), where \$groupname is one of the groups the node has, see (game.cpp:4001), and gain is set to 0.5.
+    :   The default_dig\_ thing should be banned from source code in my opinion.
+
+-   Some time later, when the digging time elapsed,
+
+:   the client sends a digging completion event to the server (interact(2, pointed), game.cpp:4018),
+:   the node disappears client-side,
+:   more particles are spawned (if enabled) and
+:   the dug sound is played.
+
+-   Now the server recieves the digging completion event.
+
+:   Anticheat probably, e.g due to lag, thinks the player dug the node too fast.
+
+    :   dug_too_fast cheat is passed to mods, see register_on_cheat, and digging aborts.
+:   If the nodedef has a can_dig function, it\'s executed and probably stops the digging.
+:   The on_dig function in the nodedef is called now.
+
+    :   The default on_dig function problably removes the node:
+
+        :   The on_destruct is executed, air is set and after_destruct is executed.
+    :   And probably (the same probably as before) it then calls the after_dig_node function in the nodedef if present.
+
+[Category:Core Engine](Category:Core_Engine "wikilink")

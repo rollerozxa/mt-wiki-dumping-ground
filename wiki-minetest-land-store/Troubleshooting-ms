@@ -1,0 +1,384 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Troubleshooting/ms - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"b853a4cbc3db53f66187dc40","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Troubleshooting/ms","wgTitle":"Troubleshooting/ms","wgCurRevisionId":17937,"wgRevisionId":17937,"wgArticleId":3238,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with ignored display titles","Languages pages","Gameplay","Malay"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Troubleshooting/ms","wgRelevantArticleId":3238,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],
+"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Troubleshooting_ms rootpage-Troubleshooting skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Troubleshooting/ms</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/Troubleshooting" title="Troubleshooting">Troubleshooting</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> Bahasa:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><a href="/Troubleshooting" title="Troubleshooting">English</a>&#160;• <bdi lang="fr"><a href="/Troubleshooting/fr" title="Troubleshooting/fr">français</a></bdi>&#160;• <bdi lang="it"><a href="/Troubleshooting/it" title="Troubleshooting/it">italiano</a></bdi>&#160;• <bdi lang="ja"><a href="/Troubleshooting/ja" title="Troubleshooting/ja">日本語</a></bdi><b>&#160;• <bdi lang="ms"><a class="mw-selflink selflink">Bahasa Melayu</a></bdi></b></td>
+</tr></tbody></table>
+<p><br />
+Halaman ini menyenaraikan masalah teknikal yang sering dialami seperti keruntuhan dan mesej-mesej ralat (diletakkan dalam tanda petikan) serta penyelesaian atau penjelasan yang mungkin boleh membantu. Untuk soalan-soalam umum, sila lihat halaman <a href="/FAQ/ms" title="FAQ/ms">soalan sering ditanya</a>.
+</p><p>Untuk maklumat berkaitan cara untuk melaporkan pepijat, sila baca halaman <a href="/Reporting_bugs/ms" title="Reporting bugs/ms">Melaporkan pepijat</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Grafik_dan_bunyi"><span class="tocnumber">1</span> <span class="toctext">Grafik dan bunyi</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Skrin_terlalu_gelap"><span class="tocnumber">1.1</span> <span class="toctext">Skrin terlalu gelap</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Semua_benda_dalam_permainan_berwarna_pelik_.28terutamanya_merah.29.2C_nampak_macam_pelangi.2C_boleh_melihat_melalui_benda"><span class="tocnumber">1.2</span> <span class="toctext">Semua benda dalam permainan berwarna pelik (terutamanya merah), nampak macam pelangi, boleh melihat melalui benda</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Tiada_bunyi_apabila_bermain_dekat_Windows"><span class="tocnumber">1.3</span> <span class="toctext">Tiada bunyi apabila bermain dekat Windows</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Mesej_ralat_tanpa_keruntuhan"><span class="tocnumber">2</span> <span class="toctext">Mesej ralat tanpa keruntuhan</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#.E2.80.9CUnsupported_texture_format.E2.80.9D"><span class="tocnumber">2.1</span> <span class="toctext">“Unsupported texture format”</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#.E2.80.9CGenerating_dummy_image_for_.5B.E2.80.A6.5D.png.E2.80.9D"><span class="tocnumber">2.2</span> <span class="toctext">“Generating dummy image for […].png”</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#.22ERROR:_No_world_name_given_or_no_game_selected.22_in_create_world"><span class="tocnumber">2.3</span> <span class="toctext">"ERROR: No world name given or no game selected" in create world</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Keruntuhan"><span class="tocnumber">3</span> <span class="toctext">Keruntuhan</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Sebarang_sistem_pengoperasian"><span class="tocnumber">3.1</span> <span class="toctext">Sebarang sistem pengoperasian</span></a>
+<ul>
+<li class="toclevel-3 tocsection-11"><a href="#.E2.80.9CMinetest_can_not_load_.5B.E2.80.A6.5D.2Finit.lua.E2.80.9D"><span class="tocnumber">3.1.1</span> <span class="toctext">“Minetest can not load […]/init.lua”</span></a></li>
+<li class="toclevel-3 tocsection-12"><a href="#.E2.80.9CAssertion_.270.27_failed.E2.80.9D"><span class="tocnumber">3.1.2</span> <span class="toctext">“Assertion '0' failed”</span></a></li>
+<li class="toclevel-3 tocsection-13"><a href="#.E2.80.9CServerEnvironment::loadMeta.28.29:_EnvArgsEnd_not_found.E2.80.9D"><span class="tocnumber">3.1.3</span> <span class="toctext">“ServerEnvironment::loadMeta(): EnvArgsEnd not found”</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-14"><a href="#Windows"><span class="tocnumber">3.2</span> <span class="toctext">Windows</span></a>
+<ul>
+<li class="toclevel-3 tocsection-15"><a href="#.E2.80.9CMSCP2010.dll_is_not_found.E2.80.9D_.28atau_yang_serupa_dengannya.29"><span class="tocnumber">3.2.1</span> <span class="toctext">“MSCP2010.dll is not found” (atau yang serupa dengannya)</span></a></li>
+<li class="toclevel-3 tocsection-16"><a href="#Minetest_tidak_boleh_dimulakan"><span class="tocnumber">3.2.2</span> <span class="toctext">Minetest tidak boleh dimulakan</span></a></li>
+<li class="toclevel-3 tocsection-17"><a href="#.E2.80.9Cwhat.28.29.3DAccess_Violation.E2.80.9D"><span class="tocnumber">3.2.3</span> <span class="toctext">“what()=Access Violation”</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-18"><a href="#Kawalan"><span class="tocnumber">4</span> <span class="toctext">Kawalan</span></a>
+<ul>
+<li class="toclevel-2 tocsection-19"><a href="#Saya_ada_pad_sentuh_dan_saya_tak_boleh_bergerak_sambil_memusingkan_kepala"><span class="tocnumber">4.1</span> <span class="toctext">Saya ada pad sentuh dan saya tak boleh bergerak sambil memusingkan kepala</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Grafik_dan_bunyi">Grafik dan bunyi</span></h2>
+<h3><span class="mw-headline" id="Skrin_terlalu_gelap">Skrin terlalu gelap</span></h3>
+<p>Jika dirasakan skrin terlalu gelap, anda boleh melaraskan gama kepada nilai yang lebih selesa. Asalnya, ia ditetapkan kepada 1.8 daripada nilai-nilai sah antara 1.0 hingga 3.0, dengan nombor rendah lebih cerah.
+</p><p>Untuk menukar gama paparan, buka fail <a href="/index.php?title=Minetest.conf/ms&amp;action=edit&amp;redlink=1" class="new" title="Minetest.conf/ms (page does not exist)">minetest.conf</a> anda dan tambah baris
+</p>
+<pre> display_gamma = 1.0
+</pre>
+<p>Jika 1.0 itu terlalu terang, cuba gantikan nombor 0 dengan nombor lain di bawah 8 untuk melaras kecerahan dengan lebih lanjut.
+</p><p>Sekiranya skrin masih kelihatan gelap, tidak ada penyelesaian mudah yang lain, selain daripada mengubah tetapan paparan anda. Jika tiada apa yang lain berjaya dilakukan dan anda masih ingin menaikkan kecerahan, anda perlu menyunting fail teks. Cara ini hanya berkesan sekiranya pembayang dibolehkan. Buka <code>(direktori Minetest)/client/shaders/nodes_shader/opengl_vertex.glsl</code> menggunakan penyunting teks, pergi ke baris 80 dan tukarkan baris ini:
+</p>
+<pre>vec4 base = texture2D(baseTexture, uv).rgba;
+</pre>
+<p><b>dengan:</b>
+</p>
+<pre>vec4 base = texture2D(baseTexture, uv).rgba;
+</pre>
+<pre>float factor = 1.2;
+color.r *= factor;
+color.g *= factor;
+color.b *= factor;
+</pre>
+<p>Anda boleh cuba nilai lain daripada 1.2, lebih tinggi nilai maka lebih cerah jadinya.
+</p>
+<h3><span id="Semua_benda_dalam_permainan_berwarna_pelik_(terutamanya_merah),_nampak_macam_pelangi,_boleh_melihat_melalui_benda"></span><span class="mw-headline" id="Semua_benda_dalam_permainan_berwarna_pelik_.28terutamanya_merah.29.2C_nampak_macam_pelangi.2C_boleh_melihat_melalui_benda">Semua benda dalam permainan berwarna pelik (terutamanya merah), nampak macam pelangi, boleh melihat melalui benda</span></h3>
+<p>Tutup pembayang. Pembayang tidak disokong oleh kad grafik anda.
+</p>
+<h3><span class="mw-headline" id="Tiada_bunyi_apabila_bermain_dekat_Windows">Tiada bunyi apabila bermain dekat Windows</span></h3>
+<p>Anda perlu muat turun OpenAL untuk memainkan bunyi apabila bermain dekat Windows (fail yang diperlukan ialah <a rel="nofollow" class="external text" href="http://sfan.sf.funpic.de/oalinst.exe">oalinst.exe</a>, anda perlu melakukan atur cara setelah selesai muat turun. Pengguna  Firefox dan Chrome mungkin perlu pilih untuk simpan fail (save file) atau muat turun dahulu (keep download), pengguna Internet Explorer hanya perlu tekan butang jalankan (run). Pelayar yang lain mungkin sama atau berbeza. Jika sesuatu pelayar gagal muat turun, cuba pelayar yang lain.)
+</p>
+<h2><span class="mw-headline" id="Mesej_ralat_tanpa_keruntuhan">Mesej ralat tanpa keruntuhan</span></h2>
+<h3><span id="“Unsupported_texture_format”"></span><span class="mw-headline" id=".E2.80.9CUnsupported_texture_format.E2.80.9D">“Unsupported texture format”</span></h3>
+<p>Jika bermain dalam bahasa Melayu, ianya dipaparkan sebagai “Format tekstur tidak disokong”.
+</p><p>Jangan risau, ini perkara biasa. Minetest masih lagi terus berfungsi.
+</p>
+<h3><span id="“Generating_dummy_image_for_[…].png”"></span><span class="mw-headline" id=".E2.80.9CGenerating_dummy_image_for_.5B.E2.80.A6.5D.png.E2.80.9D">“Generating dummy image for […].png”</span></h3>
+<p>Jika bermain dalam bahasa Melayu, ianya dipaparkan sebagai “Menjana imej semu untuk […].png”.
+</p><p>Ini bermakna terdapat mods yang rosak atau pek tekstur tidak membekalkan imej untuk sesuatu objek.
+Minetest masih lagi terus berfungsi, tetapi objek yang dinyatakan akan menggunakan imej pengganti (iaitu imej semu, “dummy image”); warnanya dijana secara rambang.
+Perkara ini patut dilaporkan kepada penerbit mods atau pek tekstur.
+</p>
+<h3><span id="&quot;ERROR:_No_world_name_given_or_no_game_selected&quot;_in_create_world"></span><span class="mw-headline" id=".22ERROR:_No_world_name_given_or_no_game_selected.22_in_create_world">"ERROR: No world name given or no game selected" in create world</span></h3>
+<p>Jika bermain dalam bahasa Melayu, ianya dipaparkan sebagai “RALAT: Nama dunia tidak diberi atau tiada permainan dipilih” ketika mencipta dunia
+</p>
+<dl><dd>Anda perlu pilih nama permainan di dalam kotak senarai di dalam dialog mencipta dunia.</dd>
+<dd>Sebelum mengklik "New" (atau "Baru") untuk mencipta dunia baru, sila pilih ikon di bahagian bawah&#160;! (anda perlu pilih)
+<dl><dd>- Logo minetest ( Minetest Worlds / Dunia Minetest )</dd>
+<dd>- Koordinat Cartes ( Minimal Development Test - Worlds / Percubaan Pembangunan Minima - Dunia)</dd></dl></dd>
+<dd>Mungkin terdapat lebih banyak ikon sekiranya anda memasang banyak <a href="/index.php?title=Subgames/ms&amp;action=edit&amp;redlink=1" class="new" title="Subgames/ms (page does not exist)">subpermainan</a>.</dd></dl>
+<h2><span class="mw-headline" id="Keruntuhan">Keruntuhan</span></h2>
+<p><i>Semua tajuk subseksyen dalam tanda petikan di sini ialah mesej ralat yang dipaparkan ketika Minetest runtuh.</i>
+</p>
+<h3><span class="mw-headline" id="Sebarang_sistem_pengoperasian">Sebarang sistem pengoperasian</span></h3>
+<h4><span id="“Minetest_can_not_load_[…]/init.lua”"></span><span class="mw-headline" id=".E2.80.9CMinetest_can_not_load_.5B.E2.80.A6.5D.2Finit.lua.E2.80.9D">“Minetest can not load […]/init.lua”</span></h4>
+<p>Jika bermain dalam bahasa Melayu, ianya dipaparkan sebagai “Minetest tidak boleh memuatkan […]/init.lua”
+</p><p>Ini selalunya terjadi apabila folder mods dinamakan secara salah. Contohnya, mods yang dimuatturun daripada GitHub selalunya mempunyai akhiran "-master" ditambah kepada nama folder, spt. "namamods-master". Hanya padamkan akhiran "-master" daripada nama folder dan cuba lagi.
+Kadang-kadang, penulis mods juga menambah nombor versi kepada nama folder, contohnya "namamods-v2.0". Keluarkan nombor versi seperti "-v2.0" daripada nama folder dan cuba lagi.
+Jika anda tidak pasti nama mods yang sebenar, cuba cari halaman forum mods tersebut dan lihat nama yang diletakkan dalam kurungan petak [ ] dekat tajuk forumnya.
+Jika langkah-langkah yang dinyatakan semuanya tidak membantu, mungkin terdapat masalah dengan mods itu sendiri. Laporkan ralat kepada pemilik mods dekat halaman forum mods, atau kepada halaman Github mods tersebut jika ada. Dalam laporan anda, tampalkan salinan daripada seksyen dalam dalam fail debug.txt yang bermula dengan "=====ERROR FROM LUA=====" (atau "=====RALAT DARIPADA LUA====="), jika ada.
+</p>
+<h4><span id="“Assertion_'0'_failed”"></span><span class="mw-headline" id=".E2.80.9CAssertion_.270.27_failed.E2.80.9D">“Assertion '0' failed”</span></h4>
+<p>Jika bermain dalam bahasa Melayu, ianya dipaparkan sebagai “Penerapan '0' gagal”
+</p><p>Ini kebiasaannya ralat dalam mods. Laporkan kepada pengaturcara mods.
+Untuk mengetahui nama mods, lihat pada teks ralat betul-betul di atas ayat tadi yang memberikan laluan kepada fail init.lua untuk mods tersebut.
+</p>
+<pre> ERROR: An unhandled exception occurred: LuaError: error: mods/minetest/&lt;namamod&gt;/init.lua:69: [...]
+</pre>
+<p><i>ATAU</i>
+</p>
+<pre> RALAT: Pengecualian tidak dapat dikawal telah berlaku: LuaError: ralat:
+</pre>
+<p>mods/minetest/&lt;namamod&gt;/init.lua:69: [...]
+</p>
+<h4><span id="“ServerEnvironment::loadMeta():_EnvArgsEnd_not_found”"></span><span class="mw-headline" id=".E2.80.9CServerEnvironment::loadMeta.28.29:_EnvArgsEnd_not_found.E2.80.9D">“ServerEnvironment::loadMeta(): EnvArgsEnd not found”</span></h4>
+<p>Jika bermain dalam bahasa Melayu, ianya dipaparkan sebagai “ServerEnbironment::loadMeta(): EnvArgsEnd tidak dijumpai”
+</p><p>Ini bermakna fail <i>env_meta.txt</i> di dalam folder dunia anda telah tercemar. Memandangkan ia tidak mempunyai sebarang maklumat penting, anda boleh padamkan fail tersebut dan biarkan Minetest mencipta semula fail tersebut secara sendirinya.
+</p>
+<h3><span class="mw-headline" id="Windows">Windows</span></h3>
+<h4><span id="“MSCP2010.dll_is_not_found”_(atau_yang_serupa_dengannya)"></span><span class="mw-headline" id=".E2.80.9CMSCP2010.dll_is_not_found.E2.80.9D_.28atau_yang_serupa_dengannya.29">“MSCP2010.dll is not found” (atau yang serupa dengannya)</span></h4>
+<p>Jika guna Windows dalam bahasa Melayu, ia dipaparkan sebagai “MSCP2010.dll tidak dijumpai” (atau yang serupa dengannya)
+</p><p>Hal ini kerana Microsoft C++ Redistribute Package 2010 tidak terpasang. <a rel="nofollow" class="external text" href="https://www.microsoft.com/en-my/download/details.aspx?id=5555%7CMuat">turun</a>
+</p>
+<h4><span class="mw-headline" id="Minetest_tidak_boleh_dimulakan">Minetest tidak boleh dimulakan</span></h4>
+<p>Jika ia berhenti berjalan sebelum tetingkap utama dibuka, dan tidak ada sebarang mesej ralat di dalam fail debug.txt, maka cuba mulakan semula komputer anda.
+(kadang kala ia runtuh dengan ralat <code>0x00005</code>, ini disebabkan oleh pengemaskinian Windows.)
+Anda boleh mencari mesej ralat di dalam fail debug.txt atau mencari artikel yang berkaitan di dalam forum menggunakan bahasa Inggeris.
+</p>
+<h4><span id="“what()=Access_Violation”"></span><span class="mw-headline" id=".E2.80.9Cwhat.28.29.3DAccess_Violation.E2.80.9D">“what()=Access Violation”</span></h4>
+<p>Jika guna Windows dalam bahasa Melayu, ia dipaparkan sebagai “what()=Pencabulan Akses”.
+</p><p>Ini disebabkan oleh pemacu Direct3D.
+Untuk membaikinya, pergi ke fail <a href="/Minetest.conf" title="Minetest.conf">minetest.conf</a> dan cari:
+</p>
+<pre> video_driver = direct3d9
+</pre>
+<p>lalu tukarkannya menjadi:
+</p>
+<pre> video_driver = opengl
+</pre>
+<h2><span class="mw-headline" id="Kawalan">Kawalan</span></h2>
+<h4><span class="mw-headline" id="Saya_ada_pad_sentuh_dan_saya_tak_boleh_bergerak_sambil_memusingkan_kepala">Saya ada pad sentuh dan saya tak boleh bergerak sambil memusingkan kepala</span></h4>
+<p>Ini masalah dengan tetapan pad sentuh dalam sistem pengoperasian anda, bukan masalah Minetest - sesetengah sistem pengoperasian boleh ditetapkan untuk melumpuhkan input papan kekunci apabila pad sentuh sedang digunakan.
+</p><p>Untuk membaiki bawah sekitaran atas meja GNOME, pasang dan buka "gnome-tweak-tool" lalu buka bahagian "Papan Kekunci &amp; Tetikus". Kemudian, tekan pada suis "Lumpuhkan Ketika Menaip".
+</p><p>Untuk membaiki di bawah platform yang lain, sila cari di internet untuk arahan mengubah tetapan ini.
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20230709142729
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.202 seconds
+Real time usage: 0.402 seconds
+Preprocessor visited node count: 124/1000000
+Post‐expand include size: 1886/2097152 bytes
+Template argument size: 401/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 13/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.130/7 seconds
+Lua virtual size: 5.54 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  304.213      1 Template:Languages
+100.00%  304.213      1 -total
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:3238-0!canonical and timestamp 20230709142729 and revision id 17937
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Troubleshooting/ms&amp;oldid=17937">http://wiki.minetest.net/index.php?title=Troubleshooting/ms&amp;oldid=17937</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/index.php?title=Category:Pages_with_ignored_display_titles&amp;action=edit&amp;redlink=1" class="new" title="Category:Pages with ignored display titles (page does not exist)">Pages with ignored display titles</a></li><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li><li><a href="/Category:Gameplay" title="Category:Gameplay">Gameplay</a></li><li><a href="/Category:Malay" title="Category:Malay">Malay</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Troubleshooting%2Fms" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Troubleshooting/ms" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Troubleshooting/ms&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Troubleshooting/ms">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Troubleshooting/ms&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Troubleshooting/ms&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Troubleshooting/ms" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Troubleshooting/ms" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Troubleshooting/ms&amp;oldid=17937" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Troubleshooting/ms&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 5 December 2017, at 15:53.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.202","walltime":"0.402","ppvisitednodes":{"value":124,"limit":1000000},"postexpandincludesize":{"value":1886,"limit":2097152},"templateargumentsize":{"value":401,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":13,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  304.213      1 Template:Languages","100.00%  304.213      1 -total"]},"scribunto":{"limitreport-timeusage":{"value":"0.130","limit":"7"},"limitreport-virtmemusage":{"value":5808128,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709142729","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":272});});</script></body></html>

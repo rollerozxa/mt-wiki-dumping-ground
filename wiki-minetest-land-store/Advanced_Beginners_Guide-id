@@ -1,0 +1,299 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Advanced Beginners Guide/id - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"ecdd6596ff50d2994f9363da","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Advanced_Beginners_Guide/id","wgTitle":"Advanced Beginners Guide/id","wgCurRevisionId":27587,"wgRevisionId":27587,"wgArticleId":1887,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages","Tutorials","Indonesian"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Advanced_Beginners_Guide/id","wgRelevantArticleId":1887,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],
+"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Advanced_Beginners_Guide_id rootpage-Advanced_Beginners_Guide skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Advanced Beginners Guide/id</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/Advanced_Beginners_Guide" title="Advanced Beginners Guide">Advanced Beginners Guide</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> Bahasa:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><a href="/Advanced_Beginners_Guide" title="Advanced Beginners Guide">English</a>&#160;• <bdi lang="de"><a href="/Advanced_Beginners_Guide/de" title="Advanced Beginners Guide/de">Deutsch</a></bdi>&#160;• <bdi lang="fr"><a href="/Advanced_Beginners_Guide/fr" title="Advanced Beginners Guide/fr">français</a></bdi><b>&#160;• <bdi lang="id"><a class="mw-selflink selflink">Bahasa Indonesia</a></bdi></b>&#160;• <bdi lang="it"><a href="/Advanced_Beginners_Guide/it" title="Advanced Beginners Guide/it">italiano</a></bdi></td>
+</tr></tbody></table>
+<p>Panduan ini menjelaskan beberapa fitur lanjutan dari Minetest dalam satu tempat sebagai referensi cepat untuk mereka yang telah memahami dasar permainan.
+</p><p>Sebelum melanjutkan Anda harus sudah membaca:
+</p>
+<ul><li><a href="/Help:Getting_Started" class="mw-redirect" title="Help:Getting Started">Help:Getting Started</a></li>
+<li><a href="/Games/Tutorial" title="Games/Tutorial">Games/Tutorial</a></li>
+<li><a href="/Help:How_to_build_your_first_house" class="mw-redirect" title="Help:How to build your first house">Help:How to build your first house</a></li></ul>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Antarmuka"><span class="tocnumber">1</span> <span class="toctext">Antarmuka</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Perintah_server"><span class="tocnumber">2</span> <span class="toctext">Perintah server</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Perizinan"><span class="tocnumber">3</span> <span class="toctext">Perizinan</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#minetest.conf"><span class="tocnumber">4</span> <span class="toctext">minetest.conf</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Modifikasi"><span class="tocnumber">5</span> <span class="toctext">Modifikasi</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Server"><span class="tocnumber">5.1</span> <span class="toctext">Server</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Kontribusi"><span class="tocnumber">5.2</span> <span class="toctext">Kontribusi</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Antarmuka">Antarmuka</span></h2>
+<p>Untuk daftar lengkap dari kontrol, lihat <a href="/Controls" title="Controls">Controls</a>.
+</p><p>Beberapa tombol penting adalah:
+</p>
+<ul><li>T - Membuka jendela <a href="/Chat" title="Chat">obrolan</a>.</li>
+<li>/ - Membuka jendela obrolan dengan “/” telah ada untuk Anda sehingga Anda dapat kemudian menulis sebuah <a href="/Server_commands" title="Server commands">perintah server</a>.</li>
+<li>F5 - Aktifkan/Nonaktifkan layar debug yang juga menampilkan koordinat Anda. (Berguna untuk menggunakan perintah /teleport).</li>
+<li>F10 - Buka/Tutup <a href="/Console" title="Console">konsol/catatan obrolan</a>. Menampilkan catatan perintah dan obrolan sebelumnya dan juga menerima perintah baru atau pesan obrolan. (Gunakan tombol Page Up dan Page Down untuk bergulir).</li></ul>
+<h2><span class="mw-headline" id="Perintah_server">Perintah server</span></h2>
+<p>Lihat <a href="/Server_commands" title="Server commands">Perintah server</a> untuk daftar lengkap dari perintah. Perintah server menjalankan aksi tersembunyi atau aksi yang tidak dapat diaktifkan dengan cara lain saat bermain. Dimulai dengan tombol “/” lalu menulis perintah dan tekan “Enter” untuk menjalankannya. Beberapa perintah hanya berjalan jika telah diberikan <a href="/Privileges" title="Privileges">izin</a>.
+</p><p>Beberapa perintah berguna adalah:
+</p>
+<ul><li>/help all - Menampilkan perintah tersedia dan penjelasan singkat dan petunjuk cara menggunakan perintah tersebut. (Tekan F10 lalu gunakan Page Up dan Page Down untuk melihat daftar seluruhnya).</li>
+<li>/help &lt;command&gt; - Menampilkan penjelasan singkat tentang perintah yang diberikan. Anda dapat melihat panduan dari perintah meskipun Anda tidak memiliki izin untuk melakukannya.</li>
+<li>/sethome – Atur posisi sekarang sebagai posisi rumah untuk perintah /home.</li>
+<li>/home – Teleportasi ke posisi rumah yang telah diatur dengan perintah /sethome. Perintah ini tidak bekerja sebelum perintah /sethome dijalankan.</li>
+<li>/teleport &lt;x&gt; &lt;y&gt; &lt;z&gt; - Teleportasi diri Anda ke koordinat yang diberikan. Koordinat adalah kumpulan tiga angka yang dapat positif maupun negatis. (Tekan F5 untuk melihat info debug yang juga terdapat koordinat dari lokasi sekarang).</li>
+<li>/grant &lt;player&gt; &lt;privilege&gt; - Memberikan &lt;<a href="/Privileges" title="Privileges">izin</a>&gt; tertentu ke &lt;pemain&gt;.</li></ul>
+<h2><span class="mw-headline" id="Perizinan">Perizinan</span></h2>
+<p>Lihat halaman <a href="/Privileges" title="Privileges">perizinan</a> untuk informasi lebih lanjut tentang sistem perizinan. Izin mengatur apakah pemain dapat menggunakan perintah server tertentu dan aksi tertentu.
+</p><p>Beberapa izin yang berguna adalah:
+</p>
+<ul><li>home – dapat menggunakan perintah /home dan /sethome.</li>
+<li>teleport – dapat menggunakan perintah /teleport.</li>
+<li>fast – membolehkan pemain untuk mengaktifkan mode cepat.</li>
+<li>fly – membolehkan pemain untuk mengaktifkan mode terbang.</li></ul>
+<h2><span class="mw-headline" id="minetest.conf">minetest.conf</span></h2>
+<p><a href="/Minetest.conf" title="Minetest.conf"><b>minetest.conf</b></a> adalah berkas konfigurasi yang berisi pengaturan permainan. Sebuah berkas bernama minetest.conf.example diberikan sebagai contoh. Lihat berkas tersebut untuk daftar lebih lengkap dari pengaturan yang tersedia. Beberapa pengaturan permainan hanya dapat diubah dengan menggunakan berkas ini. Perubahan berkas ini berefek pada semua <a href="/Games" title="Games">permainan</a>. Semua perubahan ke berkas konfigurasi saat bermain tidak akan berefek sebelum permainan dimulai ulang. Sub-permainan juga mempunyai berkas konfigurasi yang hanya merubah sub-permainan tersebut. Semua berkas konfigurasi mempunyai berkas contoh yang menampilkan semua pengaturan tersedia.
+</p><p>Beberapa pengaturan yang berguna adalah:
+</p>
+<ul><li>fullscreen = false – menentukan apakan permainan ditampilkan dalam jendela.</li>
+<li>screenW = 1024 – Lebar jendela permainan.</li>
+<li>screenH = 768 – Tinggi jendela permainan.</li>
+<li>wanted_fps = 30 - Jumlah perenderan (penggambaran) yang diatur secara dinamis sesuai nilai pengaturan ini.</li></ul>
+<h2><span class="mw-headline" id="Modifikasi">Modifikasi</span></h2>
+<p><a href="/Mods" title="Mods">Modifikasi</a> (atau biasa disebut <i>mods</i> atau <i>module</i>) adalah modifikasi yang dbuat oleh pemain ke permainan yang dengan cara tertentu mengubah permainan. Lihat halaman <a href="/Mods" title="Mods">Modifikasi</a> untuk informasi lebih lanjut dan tentang <a href="/Help:Installing_Mods" class="mw-redirect" title="Help:Installing Mods">bagaimana cara memasang modifikasi</a>.
+</p>
+<h3><span class="mw-headline" id="Server">Server</span></h3>
+<p>Cara terbaik untuk mencoba modifikasi tanpa memasangnya adalah dengan <a href="/Server#Playing_on_a_server" title="Server">bermain pada sebuah server</a>. Server Minetest membolehkan pemain untuk bermain daring dengan pemain lain. Anda tidak dapat mengatur modifikasi mana yang dipasang pada server sehingga Anda harus mencari sebuah server yang memiliki modifikasi yang Anda suka. Lihat halaman <a href="/Server" title="Server">server</a> untuk informasi lebih lanjut.
+</p>
+<h3><span class="mw-headline" id="Kontribusi">Kontribusi</span></h3>
+<p>Membuat sebuah modifikasi adalah cara terbaik untuk <a rel="nofollow" class="external text" href="http://dev.minetest.net/How_to_start_contributing">berkontribusi</a> ke komunitas Minetest. Lihat halaman <a rel="nofollow" class="external text" href="http://dev.minetest.net/How_to_start_contributing">kontribusi</a> untuk informasi lebih lanjut tentang bagaimana memulainya.
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20230709090328
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.180 seconds
+Real time usage: 0.373 seconds
+Preprocessor visited node count: 98/1000000
+Post‐expand include size: 2015/2097152 bytes
+Template argument size: 447/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 13/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.130/7 seconds
+Lua virtual size: 5.55 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  299.686      1 Template:Languages
+100.00%  299.686      1 -total
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:1887-0!canonical and timestamp 20230709090327 and revision id 27587
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Advanced_Beginners_Guide/id&amp;oldid=27587">http://wiki.minetest.net/index.php?title=Advanced_Beginners_Guide/id&amp;oldid=27587</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li><li><a href="/Category:Tutorials" title="Category:Tutorials">Tutorials</a></li><li><a href="/Category:Indonesian" title="Category:Indonesian">Indonesian</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Advanced+Beginners+Guide%2Fid" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Advanced_Beginners_Guide/id" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Advanced_Beginners_Guide/id&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Advanced_Beginners_Guide/id">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Advanced_Beginners_Guide/id&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Advanced_Beginners_Guide/id&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Advanced_Beginners_Guide/id" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Advanced_Beginners_Guide/id" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Advanced_Beginners_Guide/id&amp;oldid=27587" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Advanced_Beginners_Guide/id&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 28 January 2023, at 11:39.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.180","walltime":"0.373","ppvisitednodes":{"value":98,"limit":1000000},"postexpandincludesize":{"value":2015,"limit":2097152},"templateargumentsize":{"value":447,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":13,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  299.686      1 Template:Languages","100.00%  299.686      1 -total"]},"scribunto":{"limitreport-timeusage":{"value":"0.130","limit":"7"},"limitreport-virtmemusage":{"value":5816320,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709090328","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":280});});</script></body></html>

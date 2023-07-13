@@ -1,0 +1,407 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Server commands/fr - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"75ef1b91705565783477b94a","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Server_commands/fr","wgTitle":"Server commands/fr","wgCurRevisionId":27547,"wgRevisionId":27547,"wgArticleId":1531,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["French"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Server_commands/fr","wgRelevantArticleId":1531,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready",
+"user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Server_commands_fr rootpage-Server_commands skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Server commands/fr</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/Server_commands" title="Server commands">Server commands</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> Langue&#160;:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><a href="/Server_commands" title="Server commands">English</a>&#160;• <bdi lang="de"><a href="/Server_commands/de" title="Server commands/de">Deutsch</a></bdi><b>&#160;• <bdi lang="fr"><a class="mw-selflink selflink">français</a></bdi></b>&#160;• <bdi lang="it"><a href="/Server_commands/it" title="Server commands/it">italiano</a></bdi>&#160;• <bdi lang="zh-hans"><a href="/Server_commands/zh-hans" title="Server commands/zh-hans">中文（简体）‎</a></bdi></td>
+</tr></tbody></table>
+<p>Les commandes "serveur" sont des commandes spéciales qui peuvent être exécutées par n'importe quel joueur via le <a href="/Chat/fr" title="Chat/fr">chat</a> du jeu. Elles ont par définition un effet spécifique sur le serveur. Certaines commandes peuvent être lancées par n'importe quel joueur. D'autres exigent que le joueur possède des droits particuliers qui sont appelés des <a href="/Privileges/fr" title="Privileges/fr">privilèges</a>. La commande <kbd>"/privs"</kbd> permet de connaître les privilèges attachés à votre compte. Sauf mention contraire, les commandes listées ici ne requièrent pas de privilège particulier et sont intégrées automatiquement dans Minetest 0.4.10 et dans <a href="/index.php?title=Vanilla_Minetest_game/fr&amp;action=edit&amp;redlink=1" class="new" title="Vanilla Minetest game/fr (page does not exist)">vanilla Minetest game/fr</a>. Certains mods ou certains jeux peuvent ajouter des commandes additionnelles&#160;; référez-vous à la documentation des mods ou utilisez la commande <kbd>"/help all"</kbd> pour les identifier.
+</p><p><br />
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Ex.C3.A9cuter_une_commande"><span class="tocnumber">1</span> <span class="toctext">Exécuter une commande</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Syntaxe_g.C3.A9n.C3.A9rale"><span class="tocnumber">2</span> <span class="toctext">Syntaxe générale</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Liste_des_commandes_par_d.C3.A9faut"><span class="tocnumber">3</span> <span class="toctext">Liste des commandes par défaut</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Documentation_rapide"><span class="tocnumber">3.1</span> <span class="toctext">Documentation rapide</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Li.C3.A9es_au_joueur"><span class="tocnumber">3.2</span> <span class="toctext">Liées au joueur</span></a>
+<ul>
+<li class="toclevel-3 tocsection-6"><a href="#Informatif"><span class="tocnumber">3.2.1</span> <span class="toctext">Informatif</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#tChat"><span class="tocnumber">3.2.2</span> <span class="toctext">tChat</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="#Objets"><span class="tocnumber">3.2.3</span> <span class="toctext">Objets</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="#T.C3.A9l.C3.A9portation"><span class="tocnumber">3.2.4</span> <span class="toctext">Téléportation</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-10"><a href="#Mod.C3.A9ration"><span class="tocnumber">3.3</span> <span class="toctext">Modération</span></a>
+<ul>
+<li class="toclevel-3 tocsection-11"><a href="#Mot_de_passe"><span class="tocnumber">3.3.1</span> <span class="toctext">Mot de passe</span></a></li>
+<li class="toclevel-3 tocsection-12"><a href="#Privil.C3.A8ges"><span class="tocnumber">3.3.2</span> <span class="toctext">Privilèges</span></a></li>
+<li class="toclevel-3 tocsection-13"><a href="#Exclure_des_joueurs_du_serveur"><span class="tocnumber">3.3.3</span> <span class="toctext">Exclure des joueurs du serveur</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-14"><a href="#Li.C3.A9es_au_serveur"><span class="tocnumber">3.4</span> <span class="toctext">Liées au serveur</span></a>
+<ul>
+<li class="toclevel-3 tocsection-15"><a href="#Informatif_2"><span class="tocnumber">3.4.1</span> <span class="toctext">Informatif</span></a></li>
+<li class="toclevel-3 tocsection-16"><a href="#Manipulation_du_monde"><span class="tocnumber">3.4.2</span> <span class="toctext">Manipulation du monde</span></a></li>
+<li class="toclevel-3 tocsection-17"><a href="#Maintenance_serveur"><span class="tocnumber">3.4.3</span> <span class="toctext">Maintenance serveur</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-18"><a href="#Rollback_.28retour_arri.C3.A8re.29"><span class="tocnumber">3.5</span> <span class="toctext">Rollback (retour arrière)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-19"><a href="#Commandes_de_r.C3.A9f.C3.A9rences_pour_le_jeu_de_base_vanilla"><span class="tocnumber">4</span> <span class="toctext">Commandes de références pour le jeu de base vanilla</span></a></li>
+</ul>
+</div>
+
+<h2><span id="Exécuter_une_commande"></span><span class="mw-headline" id="Ex.C3.A9cuter_une_commande">Exécuter une commande</span></h2>
+<p>Une commande commence toujours par le caractère "/". Pour exécuter une commande, il suffit simplement de la saisir dans le <a href="/Chat/fr" title="Chat/fr">tChat</a> ou dans la <a href="/Console/fr" title="Console/fr">console</a>. Vous pouvez encore presser directement la touche "/" (avec les <a href="/Controls/fr" title="Controls/fr">contrôles</a> de base) pour ouvrir la <a href="/Chat_window/fr" title="Chat window/fr">fenêtre de tchat</a> et il ne vous restera plus alors qu'à saisir votre commande&#160;; le caractère "/" étant déjà pré-saisi.
+Cette dernière méthode ne fonctionne pas pour les messages ordinaires car la présence du caractère "/" devant votre message fera que votre texte sera interprété par le serveur comme une commande. 
+La plupart des commandes affichent quelque chose dans le tchat lorsqu'elles réussissent. Donc pour vérifier qu'une commande s'est correctement exécutée, il suffit de lire la réponse du serveur. Si vous voyez un message du type "-!- Invalid command: /blargh" dans le tchat, vous avez probablement commis une erreur de syntaxe. 
+</p><p><br />
+</p>
+<h2><span id="Syntaxe_générale"></span><span class="mw-headline" id="Syntaxe_g.C3.A9n.C3.A9rale">Syntaxe générale</span></h2>
+<p>Toutes les commandes commencent par "/" suivi d'un seul mot (la commande) puis selon le cas d'une série d'arguments. Vous trouverez la syntaxe exacte dans liste ci-dessous.
+Dans cette liste, le texte entouré de <code>&lt;&gt;</code> et de <code>[]</code> représente des paramètres fictifs qui doivent être remplacés par vos propres valeurs. Les arguments entre <code>&lt;&gt;</code> sont obligatoires alors que ceux entre <code>[]</code> sont facultatifs.
+</p><p><br />
+</p>
+<h2><span id="Liste_des_commandes_par_défaut"></span><span class="mw-headline" id="Liste_des_commandes_par_d.C3.A9faut">Liste des commandes par défaut</span></h2>
+<p>Les commandes listées ici sont toutes disponibles, indépendamment des <a href="/Mods/fr" title="Mods/fr">mods</a> ou des <a href="/index.php?title=Game/fr&amp;action=edit&amp;redlink=1" class="new" title="Game/fr (page does not exist)">jeux</a> installés.
+</p><p><br />
+</p>
+<h3><span class="mw-headline" id="Documentation_rapide">Documentation rapide</span></h3>
+<p>Afficher une courte documentation des commandes du serveur et des privilèges&#160;; ils apparaîtront dans le log du tchat. Dans le cas ou l'aide est trop longue, il est possible d'ouvrir la console avec la touche &lt;kbr&gt;F10 pour visualiser la totalité du texte d'affiché.
+</p>
+<ul><li><code>/help</code> - Affiche une liste des commandes disponibles pour les privilèges que vous disposez sur le serveur.</li>
+<li><code>/help &lt;command&gt;</code> - Affiche une courte description sur la commande donnée en paramètre. Vous pouvez afficher l'aide d'une commande sans pour autant avoir les privilèges pour exécuter la commande.</li>
+<li><code>/help all</code> - Liste en fonction de vos privilèges les commandes serveurs disponibles avec une courte description et la syntaxe associée.</li>
+<li><code>/help privs</code> - Liste tous les privilèges "serveur" qui peuvent être donnés à un joueur ainsi qu'une courte description de chacun de ces privilèges.</li></ul>
+<p><br />
+</p>
+<h3><span id="Liées_au_joueur"></span><span class="mw-headline" id="Li.C3.A9es_au_joueur">Liées au joueur</span></h3>
+<h4><span class="mw-headline" id="Informatif">Informatif</span></h4>
+<ul><li><code>/privs [player]</code> - Liste tous les privilèges accordés à [player]. Si personne n'est spécifié, se sont vos privilèges qui s'affichent.</li></ul>
+<p><br />
+</p>
+<h4><span class="mw-headline" id="tChat">tChat</span></h4>
+<p>Ces commandes requièrent le privilège "shout" pour fonctionner.
+</p>
+<ul><li><code>/msg &lt;player&gt; &lt;message&gt;</code> - Envoie le message privé &lt;message&gt; au joueur &lt;player&gt;.</li>
+<li><code>/me &lt;action&gt;</code> - Affiche un message au format "* &lt;votre nom&gt; &lt;action&gt;" dans le tchat. Exemple "/me mange une pizza" affichera "* Bob mange une pizza" (si votre nom est "bob").</li></ul>
+<p>Voir <a href="/Chat/fr" title="Chat/fr">tchat</a> pour plus de détails.
+</p><p><br />
+</p>
+<h4><span class="mw-headline" id="Objets">Objets</span></h4>
+<p><i>Pour les commandes <code>/give</code> et <code>/giveme</code>, si vous renseignez un nombre négatif, celui-ci sera remplacé par 65535. Donc par exemple si vous voulez donner -1 bloc à quelqu'un, vous donnerez à la place 65535 blocs (qui est aussi la plus grande taille possible d'empilement d'un objet).</i>
+</p>
+<ul><li><code>/giveme &lt;itemstring&gt; [count]</code> - Donne un certain objet un nombre de fois [count] (par défaut 1) à vous même. Pour voir la liste des &lt;itemstring&gt; possibles, merci de vous référer à la page <a href="/Itemstrings/fr" title="Itemstrings/fr">Itemstrings/fr</a>. Attention, cela nécessite le privilège "give".</li>
+<li><code>/give &lt;player&gt; &lt;itemstring&gt; [count]</code> - Donne un certain objet un nombre de fois [count] (par défaut 1) au joueur &lt;player&gt;. Pour voir la liste des &lt;itemstring&gt; possibles, merci de se référer à la page <a href="/Itemstrings/fr" title="Itemstrings/fr">Itemstrings/fr</a>. Attention, cela nécessite le privilège "give".</li>
+<li><code>/pulverize</code> - Détruit l'objet actuellement sélectionné. Peut-être utilisé par tout le monde.</li></ul>
+<p><br />
+</p>
+<h4><span id="Téléportation"></span><span class="mw-headline" id="T.C3.A9l.C3.A9portation">Téléportation</span></h4>
+<p>La téléportation est le déplacement immédiat de n'importe quel joueur à une position donnée. Toutes les commandes suivante nécessitent d'avoir le privilège "teleport"
+</p>
+<ul><li><code>/teleport &lt;x&gt;,&lt;y&gt;,&lt;z&gt;</code> - Se téléporter soi-même aux coordonnées &lt;x&gt;,&lt;y&gt;,&lt;z&gt;.</li>
+<li><code>/teleport &lt;player&gt;</code> - Se téléporter à la position du joueur &lt;player&gt;.</li>
+<li><code>/teleport &lt;player&gt; &lt;x&gt;,&lt;y&gt;,&lt;z&gt;</code> - Téléporte le joueur &lt;player&gt; à la position donnée par &lt;x&gt;,&lt;y&gt;,&lt;z&gt;. Attention, cela nécessite le privilège "bring".</li>
+<li><code>/teleport &lt;player1&gt; &lt;player2&gt;</code> - Téléporte le joueur &lt;player1&gt; à la position du joueur &lt;player2&gt;. Attention, cela nécessite le privilège "bring".</li></ul>
+<p>Le <a href="/index.php?title=Vanilla_Minetest_game/fr&amp;action=edit&amp;redlink=1" class="new" title="Vanilla Minetest game/fr (page does not exist)">jeu de base Vanilla</a> donne aussi accès à la commande <code>/home</code>. Pour plus de détails voir <a href="#Commandes_de_r.C3.A9f.C3.A9rences_pour_le_jeu_de_base_vanilla">#Commandes_de_références_pour_le_jeu_de_base_vanilla</a> en bas de page.
+</p><p><br />
+</p>
+<h3><span id="Modération"></span><span class="mw-headline" id="Mod.C3.A9ration">Modération</span></h3>
+<h4><span class="mw-headline" id="Mot_de_passe">Mot de passe</span></h4>
+<p>Ces commandes permettent de définir et réinitialiser le mot de passe de n'importe quel joueur. Attention, cela nécessite le privilège "password" pour que ça marche.
+</p>
+<ul><li><code>/setpassword &lt;player&gt; &lt;password&gt;</code> - Défini le mot de passe &lt;password&gt; pour le joueur &lt;player&gt;.</li>
+<li><code>/clearpassword &lt;player&gt;</code> - Efface le mot de passe du joueur &lt;player&gt;.</li></ul>
+<p><br />
+</p>
+<h4><span id="Privilèges"></span><span class="mw-headline" id="Privil.C3.A8ges">Privilèges</span></h4>
+<p>Toutes ces commandes nécessitent d'avoir le privilège "privs" activé ou bien le privilège "basic_privs" (pour manipuler les privilèges "interact" et "shout").
+</p>
+<ul><li><code>/grant &lt;player&gt; &lt;privilege&gt;</code> - Donne le privilège &lt;privilege&gt; au joueur &lt;player&gt;.</li>
+<li><code>/grant &lt;player&gt; all</code> - Donne tous les privilèges possible au joueur &lt;player&gt;.</li>
+<li><code>/revoke &lt;player&gt; &lt;privilege&gt;</code> -  Enlève le privilège &lt;privilege&gt; au joueur &lt;player&gt;.</li>
+<li><code>/revoke &lt;player&gt; all</code> - Enlève tous les privilèges possible au joueur &lt;player&gt;.</li></ul>
+<p><br />
+</p>
+<h4><span class="mw-headline" id="Exclure_des_joueurs_du_serveur">Exclure des joueurs du serveur</span></h4>
+<p>Ces commandes permettent au joueur d'exclure, bannir ou dé-bannir un autre joueur. Exclure un joueur signifie le déconnecter du serveur. Cela nécessite le privilège "kick". Bannir un joueur empêche celui-ci de pouvoir se reconnecter à nouveau sur le serveur. Le joueur doit être connecté au moment du "ban". Dé-bannir signifie permettre à un joueur banni de pouvoir se reconnecter sur le serveur. La commande pour bannir/dé-bannir nécessite le privilège "ban".
+</p>
+<ul><li><code>/kick &lt;player&gt; [reason]</code> – Exclus le joueur &lt;player&gt;. Optionnellement le motif du bannissement [reason] peut lui être notifié. Ce texte sera vu par le joueur exclu.</li>
+<li><code>/ban</code> - Montre la liste des joueurs bannis.</li>
+<li><code>/ban &lt;IP&gt;</code> - Banni le joueur avec l'ip &lt;IP&gt;.</li>
+<li><code>/ban &lt;player&gt;</code> - Banni le joueur &lt;player&gt;.</li>
+<li><code>/unban &lt;player&gt;</code> - Dé-banni le joueur &lt;player&gt;.</li>
+<li><code>/unban &lt;IP&gt;</code> - Dé-banni le joueur qui a comme ip &lt;IP&gt;.</li></ul>
+<p>Attention&#160;: le bannissement par nom ou par adresse IP s'effectue toujours sur l'adresse IP, ce qui peut avoir pour conséquence d'exclure tous les joueurs qui ont la même adresse IP.
+</p><p><br />
+</p>
+<h3><span id="Liées_au_serveur"></span><span class="mw-headline" id="Li.C3.A9es_au_serveur">Liées au serveur</span></h3>
+<h4><span class="mw-headline" id="Informatif_2">Informatif</span></h4>
+<p>Demande certaines informations de la part du serveur&#160;; la réponse du serveur sera aussi écrite dans la console de tchat.
+</p>
+<ul><li><code>/status</code> - La version du serveur Minetest, depuis quand le serveur est en route en secondes (appelé "uptime"), la liste des joueurs connectés et le <a href="/index.php?title=Message_Of_The_Day/fr&amp;action=edit&amp;redlink=1" class="new" title="Message Of The Day/fr (page does not exist)">message du jour</a> (s'il existe).</li>
+<li><code>/mods</code> - La liste des mods installés sur le serveur.</li></ul>
+<p><br />
+</p>
+<h4><span class="mw-headline" id="Manipulation_du_monde">Manipulation du monde</span></h4>
+<ul><li><code>/time &lt;heure&gt;</code> - Modifie l'<a href="/Time_of_day/fr" title="Time of day/fr">heure du jour</a> (tod).
+<ul><li>0 tod et 24000 tod correspond à minuit</li>
+<li>12000 tod correspond à midi</li>
+<li>18600 tod correspond au coucher du soleil</li>
+<li>4750 tod correspond au lever du soleil.</li></ul></li></ul>
+<p>Pour résumer, heure du jour = heure * 1000. Nécessite le privilège "settime".
+</p>
+<ul><li><code>/set -n time_speed &lt;vitesse&gt;</code> - Modifie la vitesse du <a href="/Time_of_day" title="Time of day">cycle jour/nuit</a> où <code>&lt;vitesse&gt;</code> est la vitesse du temps (lire "<code>&lt;vitesse&gt;</code> fois plus rapide que dans la vie réelle). 72 est la valeur par défaut, qui donne un cycle jour/nuit de 20 minutes (24*60/72 = 20). 1 donne une vitesse égale à la vitesse réelle du temps (très utile pour faire un serveur synchronisé au monde réel). 0 fixe l'heure à sa position actuelle (très utile pour faire une nuit ou un jour permanent). Nécessite le privilège "settime".</li>
+<li><code>/spawnentity &lt;entité&gt;</code> - fait spawner une <a rel="nofollow" class="external text" href="http://dev.minetest.net/LuaEntitySAO#Lua_Entity">entité</a> de type &lt;entité&gt; près de votre position (nécessite les privilèges "give" et "interact").</li></ul>
+<p><br />
+</p>
+<h4><span class="mw-headline" id="Maintenance_serveur">Maintenance serveur</span></h4>
+<p>Toutes ces commandes nécessitent le privilège "server".
+</p>
+<ul><li><code>/shutdown</code> - Arrête le serveur.</li>
+<li><code>/set &lt;variable&gt;</code> - Lit la variable serveur &lt;variable&gt; (→<a href="/Minetest.conf/fr" title="Minetest.conf/fr">minetest.conf/fr</a>) et affiche sa valeur actuelle.</li>
+<li><code>/set &lt;variable&gt; &lt;new value&gt;</code> - Modifie la variable serveur &lt;variable&gt; avec la valeur &lt;new value&gt;.</li>
+<li><code>/set -n &lt;variable&gt; &lt;initial value&gt;</code> - Crée une nouvelle variable serveur nommée &lt;variable&gt; et lui affecte la valeur &lt;initial value&gt;.</li>
+<li><code>/clearobjects</code> - Enlève tous les <a href="/Item_stack/fr" title="Item stack/fr">items</a> à terre et les <a href="/Mobs/fr" title="Mobs/fr">mobs</a>. Note&#160;: cette commande peut faire crasher le serveur ou le faire ralentir fortement pendant une période de 10 à plus de 60 secondes.</li>
+<li><code>/auth_reload</code> - Recharge le fichier <i>auth.txt</i>, qui contient les données d'authentification avec les privilèges et les mots de passe en base64.</li>
+<li><code>/deleteblocks here</code> - Supprime le bloc de la map dans lequel le joueur se trouve. Cela lance le générateur de carte, et peut générer certains phénomènes comme des coulées ou des générations de cavernes. 113 est une distance de sécurité pour un serveur sans mods qui interfèrent.</li>
+<li><code>/deleteblocks &lt;pos1&gt; &lt;pos2&gt;</code> - Supprime les blocs de la carte contenus entre les positions &lt;pos1&gt; et &lt;pos2&gt;. Peut faire crasher le serveur pour de grandes zones.</li></ul>
+<p><br />
+</p>
+<h3><span id="Rollback_(retour_arrière)"></span><span class="mw-headline" id="Rollback_.28retour_arri.C3.A8re.29">Rollback (retour arrière)</span></h3>
+<p>Nécessite d'avoir le privilège "rollback"
+</p>
+<ul><li><code>/rollback_check [range] [seconds]</code> - Vérifie quelle est la dernière personne à avoir touchée ce node ou à côté. Par défaut [range]=0, et [seconds]=86400 (24h).</li>
+<li><code>/rollback &lt;player name&gt; [seconds]</code> - Annule les actions d'un joueur &lt;player name&gt;; par défaut [seconds]=60</li>
+<li><code>/rollback&#160;:&lt;actor name&gt; [seconds]:</code> - Annule les actions d'un actor <i>(pas un joueur)</i>; par défaut [seconds]=60</li></ul>
+<p><br />
+</p>
+<h2><span id="Commandes_de_références_pour_le_jeu_de_base_vanilla"></span><span class="mw-headline" id="Commandes_de_r.C3.A9f.C3.A9rences_pour_le_jeu_de_base_vanilla">Commandes de références pour le <a href="/index.php?title=Vanilla_Minetest_game&amp;action=edit&amp;redlink=1" class="new" title="Vanilla Minetest game (page does not exist)">jeu de base vanilla</a></span></h2>
+<p>Si vous utilisez le jeu de base Vanilla, deux autres commandes sont disponibles. Ces commandes peuvent ne peut pas être disponibles si vous utilisez un autre <a href="/index.php?title=Game/fr&amp;action=edit&amp;redlink=1" class="new" title="Game/fr (page does not exist)">jeu de base</a>. Ces deux commandes nécessitent le privilège "home".
+</p>
+<ul><li><code>/sethome</code> – Enregistre votre position courante comme votre maison.</li>
+<li><code>/home</code> – Vous téléporte à votre maison. Note que cette commande ne fait rien si vous n'avez pas exécuté /sethome au préalable.</li></ul>
+<p><br />
+<br />
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20230709103534
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.227 seconds
+Real time usage: 0.498 seconds
+Preprocessor visited node count: 145/1000000
+Post‐expand include size: 1881/2097152 bytes
+Template argument size: 419/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 13/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 13/5000000 bytes
+Lua time usage: 0.110/7 seconds
+Lua virtual size: 5.54 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  354.352      1 Template:Languages
+100.00%  354.352      1 -total
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:1531-0!canonical and timestamp 20230709103533 and revision id 27547
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Server_commands/fr&amp;oldid=27547">http://wiki.minetest.net/index.php?title=Server_commands/fr&amp;oldid=27547</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/Category:French" title="Category:French">French</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Server+commands%2Ffr" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Server_commands/fr" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Server_commands/fr&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Server_commands/fr">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Server_commands/fr&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Server_commands/fr&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Server_commands/fr" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Server_commands/fr" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Server_commands/fr&amp;oldid=27547" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Server_commands/fr&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 22 January 2023, at 14:43.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.227","walltime":"0.498","ppvisitednodes":{"value":145,"limit":1000000},"postexpandincludesize":{"value":1881,"limit":2097152},"templateargumentsize":{"value":419,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":13,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":13,"limit":5000000},"timingprofile":["100.00%  354.352      1 Template:Languages","100.00%  354.352      1 -total"]},"scribunto":{"limitreport-timeusage":{"value":"0.110","limit":"7"},"limitreport-virtmemusage":{"value":5808128,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709103534","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":278});});</script></body></html>

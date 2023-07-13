@@ -1,0 +1,438 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>MinetestEDU/de/Mod-Übersicht - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"213e4d32f3e44302bf16644c","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"MinetestEDU/de/Mod-Übersicht","wgTitle":"MinetestEDU/de/Mod-Übersicht","wgCurRevisionId":25031,"wgRevisionId":25031,"wgArticleId":3761,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["MinetestEDU","German"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"MinetestEDU/de/Mod-Übersicht","wgRelevantArticleId":3761,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE=
+{"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-MinetestEDU_de_Mod-Übersicht rootpage-MinetestEDU skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">MinetestEDU/de/Mod-Übersicht</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/MinetestEDU" title="MinetestEDU">MinetestEDU</a>&lrm; | <a href="/MinetestEDU/de" title="MinetestEDU/de">de</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>Wie man Mods und Mini-Spiele installiert wird auf eigenen Seiten erklärt. Siehe:
+</p>
+<ul><li>Mod lokal installieren</li>
+<li>Mod auf Server installieren</li>
+<li>Mini-Spiel installieren</li></ul>
+<p><br />
+</p>
+<table style="margin: 0 auto 1em; text-align: justify; border-collapse: collapse; border-width: 1px; border-style: dashed; width: 100%; clear: both; border-color:#48d; background:#fbfcff;">
+<tbody><tr>
+<td style="border: none; padding: 2px 0 2px 0.9em; text-align: center;">
+ <img alt="Mbox information.png" src="/images/thumb/f/fc/Mbox_information.png/25px-Mbox_information.png" decoding="async" width="25" height="25" srcset="/images/thumb/f/fc/Mbox_information.png/38px-Mbox_information.png 1.5x, /images/thumb/f/fc/Mbox_information.png/50px-Mbox_information.png 2x" /></td>
+<td style="border: none; padding: 0.25em 0.9em; width: 100%;"><b>Wichtig bei vielen Mods:</b> man kann manche Funktionen nur nutzen, wenn man ein entsprechendes Recht hat. Welche Rechte für ein Mod benötigt werden, sollten in der Dokumentation zum Mod zu finden sein. 
+<ul><li>Zu Rechten/Privilegien (auch auf Servern) allgemein: <a href="/Privileges/de" title="Privileges/de">Privilegien</a></li>
+<li>Wie man neue Spieler automatisch mit Rechten versieht: siehe <a href="/index.php?title=MinetestEDU/de/Einstellungen_in_minetest.conf_vornehmen&amp;action=edit&amp;redlink=1" class="new" title="MinetestEDU/de/Einstellungen in minetest.conf vornehmen (page does not exist)">Einstellungen in minetest.conf vornehmen</a></li>
+<li>Wie man in Minetest Spielern bestimmte Recht gibt: <a href="/Server_commands#Privilege_manipulation" title="Server commands">Privilegien vergeben und wegnehmen</a></li></ul></td>
+</tr></tbody></table>
+<p><br />
+</p>
+<div style="border: 2px solid #cc0000; align:center; padding:4px;">
+<p>Ich dachte daran, die Mods ein wenig unterschiedlich hier zu präsentieren, je nach der Art und dem Umfang.
+</p>
+<ul><li>Auf dieser Seite wollte ich die Mods immer ganz kurz vorzustellen, um zu erklären, um was es geht.</li>
+<li>Bei umfangreichen Mods macht eine Extraseite Sinn, auf der man umfangreiche Anleitungen ablegen kann.</li>
+<li>Bei vielen gleichartigen Mods <i>(wie etwa bei den neuen Blocktypen)</i> ist meist keine Anleitung notwendig, aber da es so viele sind, wollte ich eine Unterseite erstellen, wo die Mods (statt auf der Startseite) einzeln vorgestellt werden. Hier könnte die Vorstellung auch etwas umfangreicher sein, indem man etwa aufzählt, was an wichtigen Inhalten vorkommen.</li>
+<li>Haben die Mods an irgendeiner Stelle eine umfangreiche Anleitung/Tutorials oder ähnliches, kann man diese Seite verlinken.</li></ul>
+</div>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Grundlegendes_im_Spiel"><span class="tocnumber">1</span> <span class="toctext">Grundlegendes im Spiel</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Aussehen_der_Spielfigur_.C3.A4ndern"><span class="tocnumber">2</span> <span class="toctext">Aussehen der Spielfigur ändern</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Werkzeuge_um_Sch.C3.BCler_auf_einem_gemeinsamen_Server_zu_kontrollieren"><span class="tocnumber">3</span> <span class="toctext">Werkzeuge um Schüler auf einem gemeinsamen Server zu kontrollieren</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Werkzeuge_f.C3.BCr_den_Adminstrator_um_die_Welt_vorzubereiten"><span class="tocnumber">4</span> <span class="toctext">Werkzeuge für den Adminstrator um die Welt vorzubereiten</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Absicherung_von_Bereichen_auf_einem_Server_gegen_Zerst.C3.B6rung"><span class="tocnumber">5</span> <span class="toctext">Absicherung von Bereichen auf einem Server gegen Zerstörung</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Informationen_und_Anweisungen_f.C3.BCr_die_Spieler_ver.C3.B6ffentlichen"><span class="tocnumber">6</span> <span class="toctext">Informationen und Anweisungen für die Spieler veröffentlichen</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Neue_Bl.C3.B6cke"><span class="tocnumber">7</span> <span class="toctext">Neue Blöcke</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Mapgen_Mods_die_das_Aussehen_der_Umgebung_w.C3.A4hrend_der_Karten-Erstellung_manipulieren"><span class="tocnumber">8</span> <span class="toctext">Mapgen Mods die das Aussehen der Umgebung während der Karten-Erstellung manipulieren</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Mobs_auf_die_Karte_bringen"><span class="tocnumber">9</span> <span class="toctext">Mobs auf die Karte bringen</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Neue_Pflanzen.2C_Lebensmittel_und_B.C3.A4ume"><span class="tocnumber">10</span> <span class="toctext">Neue Pflanzen, Lebensmittel und Bäume</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Technologie_und_Programmierung"><span class="tocnumber">11</span> <span class="toctext">Technologie und Programmierung</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Automatischer_Transport_bzw._Teleportierung"><span class="tocnumber">12</span> <span class="toctext">Automatischer Transport bzw. Teleportierung</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Stra.C3.9Fen.2C_Fahrzeuge_und_Transport-M.C3.B6glichkeiten"><span class="tocnumber">13</span> <span class="toctext">Straßen, Fahrzeuge und Transport-Möglichkeiten</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Wirtschaft_und_Handel"><span class="tocnumber">14</span> <span class="toctext">Wirtschaft und Handel</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Praktisch_f.C3.BCr_den_Spieler"><span class="tocnumber">15</span> <span class="toctext">Praktisch für den Spieler</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#Bitte_verteilen"><span class="tocnumber">16</span> <span class="toctext">Bitte verteilen</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Grundlegendes_im_Spiel">Grundlegendes im Spiel</span></h2>
+<p><b>Änderung des Inventars</b> 
+</p>
+<ul><li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?t=3933">unified_inventory</a> ... Dieses Mod <b>Unified Inventory</b> erweitert das normale Inventar und bietet eine ganz neue Oberfläche des Inventars mit vielen Zusatzfunktionen an, die von Spielern als praktisch empfunden werden. Es wird als Grundlage von vielen anderen Mods genutzt, indem sie dort Zusatzknöpfe integrieren.</li>
+<li>Smart inventory</li></ul>
+<p><b>Änderung des Spiel-Modus</b>
+</p>
+<table style="margin: 0 auto 1em; text-align: justify; border-collapse: collapse; border-width: 1px; border-style: dashed; width: 100%; clear: both; border-color:#48d; background:#fbfcff;">
+<tbody><tr>
+<td style="border: none; padding: 2px 0 2px 0.9em; text-align: center;">
+ <img alt="Mbox information.png" src="/images/thumb/f/fc/Mbox_information.png/25px-Mbox_information.png" decoding="async" width="25" height="25" srcset="/images/thumb/f/fc/Mbox_information.png/38px-Mbox_information.png 1.5x, /images/thumb/f/fc/Mbox_information.png/50px-Mbox_information.png 2x" /></td>
+<td style="border: none; padding: 0.25em 0.9em; width: 100%;"><b>TIPP:</b> Als Admin kann man sich und anderen Spieler auf einem Server auch im Survival Mode das Recht "creative" geben. Man kann sich dann beliebig viele Blöcke nehmen. Allerdings ist das Abbauen nicht so einfach wie im Creative-Mode. Aber man kann sich die besten Werkzeuge nehmen um, das zu erleichtern.</td>
+</tr></tbody></table>
+<ul><li><a rel="nofollow" class="external text" href="https://github.com/MT-Eurythmia/pvpplus">pvpplus</a> ... Mit dem Mod <b>PVP-Plus</b> kann man Server erstellen, bei denen nicht dauerhaft PVP aktiviert sein muss. Spieler können selber bestimmen, ob sie PVP erlauben wollen, ob sie also etwa mit einem Mitspieler um ihr "Leben" kämpfen wollen.</li></ul>
+<h2><span id="Aussehen_der_Spielfigur_ändern"></span><span class="mw-headline" id="Aussehen_der_Spielfigur_.C3.A4ndern">Aussehen der Spielfigur ändern</span></h2>
+<p>In der aktuellen Version 0.4.16 ist es so, dass alle Spieler auf einem Server gleich aussehen. Das Aussehen ist für den Client <i>(also für den einzelnen Spieler)</i> durch eine Datei im Minetest-Verzeichnis festgelegt. Es gibt Mods, mit denen man ein eigenes Aussehen wählen, damit man so die Spieler besser unterscheiden kann.
+</p>
+<ul><li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?t=8816">u_skins</a> ... Das Mod <b>Unified_Inventory Skins</b> ist eine Ergänzung zum Mod "Unified Inventory" (siehe oben) und dieses Mod muss ebenfalls installiert werden. Dann man man im Inventar einen Knopf nutzen, um einen Skin für sich auszuwählen. Dabei wird eine große Auswahl vorgeben. Man kann diese Auswahl auch ändern, aber dazu müsste man den Code und Dateien ergänzen. Generell aber machbar!</li>
+<li class="mw-empty-elt"></li></ul>
+<h2><span id="Werkzeuge_um_Schüler_auf_einem_gemeinsamen_Server_zu_kontrollieren"></span><span class="mw-headline" id="Werkzeuge_um_Sch.C3.BCler_auf_einem_gemeinsamen_Server_zu_kontrollieren">Werkzeuge um Schüler auf einem gemeinsamen Server zu kontrollieren</span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://github.com/zeuner/edutest">EDUTest</a> ... Das Ziel des <b>EDUtest</b>-Projektes ist es, die Nutzung von Minetest in einem pädagogischen Kontext zu erleichtern. Dieser Mod stellt ein GUI-Frontend für das Lehrpersonal zur Verfügung. Mit den entsprechenden Rechten durch den Server-Administrator ausgestattet, kann man auch als nicht so Computer-afiner Lehrer mit Hilfe einer einfachen Benutzeroberfläche viele Aktionen schnell vornehmen.</li></ul>
+<dl><dd><dl><dd><a href="/MinetestEDU/de/Mod-%C3%9Cbersicht/EDUtest" title="MinetestEDU/de/Mod-Übersicht/EDUtest">EDUtest</a></dd></dl></dd></dl>
+<ul><li><ul><li><a rel="nofollow" class="external text" href="https://github.com/apienk/minetest-edutest-ui">minetest-edutest-ui on GitHub</a> ... von EDUTest abgeleitete andere Version.</li></ul></li>
+<li>...</li></ul>
+<h2><span id="Werkzeuge_für_den_Adminstrator_um_die_Welt_vorzubereiten"></span><span class="mw-headline" id="Werkzeuge_f.C3.BCr_den_Adminstrator_um_die_Welt_vorzubereiten">Werkzeuge für den Adminstrator um die Welt vorzubereiten</span></h2>
+<ul><li><b><a href="/MinetestEDU/de/Mod-%C3%9Cbersicht/World-Edit" title="MinetestEDU/de/Mod-Übersicht/World-Edit">World-Edit</a></b> Dies ist ein Mod, der im wesentlichen dem gleichnamigen in Minecraft entspricht. Man kann in kurzer Zeit viele Steine in einem Bereich auf einmal verändern und muss es nicht Block-für-Block machen. Genaue Anleitungen auf der Unterseite.</li></ul>
+<table style="margin: 0 auto 1em; text-align: justify; border-collapse: collapse; border-width: 1px; border-style: dashed; width: 100%; clear: both; border-color:#48d; background:#fbfcff;">
+<tbody><tr>
+<td style="border: none; padding: 2px 0 2px 0.9em; text-align: center;">
+ <img alt="Mbox information.png" src="/images/thumb/f/fc/Mbox_information.png/25px-Mbox_information.png" decoding="async" width="25" height="25" srcset="/images/thumb/f/fc/Mbox_information.png/38px-Mbox_information.png 1.5x, /images/thumb/f/fc/Mbox_information.png/50px-Mbox_information.png 2x" /></td>
+<td style="border: none; padding: 0.25em 0.9em; width: 100%;"><b>TIPP:</b>Hat ein Spieler die Landschaft verbaut, so kann man zwar World-Edit nutzen, um den hässlichen Bau wegzubekommen, aber es bleibt eine Lücke zurück. Besser geht es mit dem Befehle "delete-blocks", der dem Befehl "regen" in Minecraft entspricht. Mehr dazu siehe ... . Alte Bauten von anderen Spielern kann man so aber nicht zurückholen. Da hilft vor allem eine Sicherung eines Gebietes.</td>
+</tr></tbody></table> 
+<ul><li><b><a href="/MinetestEDU/de/Mod-%C3%9Cbersicht/World-Edit#Einf.C3.BCgen_und_Speichern_von_schematics_mit_.22handle-schematics.22" title="MinetestEDU/de/Mod-Übersicht/World-Edit">Handle-Schematics</a></b> Es ist ein eigenständiges Mod, das aber zu World-Edit dazugehört. Es ermöglicht das einigermaßen komfortable Arbeiten mit Schematics, was ein Art Ausschnitt einer Welt ist. So kann man auch Bereiche aus einer Welt kopieren und in eine andere einfügen.</li></ul>
+<p><br />
+</p>
+<ul><li><b><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?id=1882">Map Tools (maptools)</a> </b> ist ein Mod das Blöcke enthält, mit denen man Karten zum Beispiel sichern kann, indem sie spezielle Eigenschaften haben. Es gibt unsichtbare oder nicht-abbaubare Blöcke und viele weitere spezielle Dinge, mit denen man die Bewegung der Schüler kontrollieren kann. Sicher noch nicht komplett, aber vielleicht ein erstes Set an sinnvollen Blöcken. Ausführlichere Informationen und Anleitung auf einer <i>→ <a href="/Mods/MapTools/de" title="Mods/MapTools/de">Extra-Seite</a></i>.</li></ul>
+<p><br />
+</p>
+<ul><li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=9897"><b>Multinode-gates, drawbridges and garage doors [gates]</b></a> ist ein Mod, das das Erstellen von nahezu beliebigen Türen/Toren ermöglicht. Die Methode dahinter ist die Nutzung von "schematics". Dabei werden in einer Datei zwei Zustände festgehalten, durch die der Spieler mit Hilfe eines Blockes hin und her schaltet. So definiert man vorher einen Zustand für das geöffnete Tor und einen Zustand für das geschlossene Tor. Das Öffnen/Schließen kann auch über ein Mesecon-Signal aktiviert werden. Dieses Mod hat vielfache Anwendungsmöglichkeiten.</li></ul>
+<ul><li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=19915"><b>Minecraft Citybuild (plot_system)</b></a> ist ein Mod, mit dem man größere Menge an Parzellen von einheitlicher Größe anlegen an. Könnte nützlich sein, um mehreren Schülern eigene Bauplätze zuzuweisen.</li></ul>
+<p><br />
+</p>
+<ul><li>{<a rel="nofollow" class="external free" href="https://forum.minetest.net/viewtopic.php?f=14&amp;t=19869">https://forum.minetest.net/viewtopic.php?f=14&amp;t=19869</a> <b>Amidst</b>} ist ein Mod, dass die Map in kleinerem Format als 2D-Bild darstellt und so dem Adminstrator ermöglicht, eine bessere Übersicht vorab zu haben. Es gibt keine Live-Darstellung von bebauten und veränderten Maps. Die Darstellung ergibt sich aus dem Samen/Seed, dem verwendeten Mapgen-Typ und eventuell genutzten Mods, die eigene Biome anbieten, wie beim Etherreal-Mod.</li></ul>
+<h2><span id="Absicherung_von_Bereichen_auf_einem_Server_gegen_Zerstörung"></span><span class="mw-headline" id="Absicherung_von_Bereichen_auf_einem_Server_gegen_Zerst.C3.B6rung">Absicherung von Bereichen auf einem Server gegen Zerstörung</span></h2>
+<p><b>Gebiete in einer Welt schützen, so dass nicht jeder dort bauen/abbauen kann:</b> 
+</p>
+<ul><li><a href="/MinetestEDU/de/Mod-%C3%9Cbersicht/Areas_und_Markers" title="MinetestEDU/de/Mod-Übersicht/Areas und Markers">Areas und Markers</a> ... Die Mods <b>areas</b> und <b>markers</b> gehören zusammen, wobei man areas auch alleine nutzen kann. Markers bietet für das Mod areas eine Benutzungsmöglichkeit ohne Textbefehle mit Markierungsstangen, die auch eine sinnvolle Sicherung für einzelne Spieler ohne Admin-Recht bietet. In den Voreinstellungen von markers ist festgelegt, wieviele eigene Bereiche von welcher Grösse ein normaler Spieler sich reservieren darf.</li>
+<li>Das Mod <b>Maptools</b> (siehe vorherigen Abschnitt) bietet einige besondere Blöcke, mit denen man Bereiche sichern kann.</li>
+<li class="mw-empty-elt"></li></ul>
+<p><br />
+<b>Gebiete in einer Welt sichern, um sie wieder zurücksetzen zu können:</b>
+Im schulischen Einsatz bzw. wenn man Server mit Anleitungen für Spieler vorbereitet, ist es sinnvoll (auch im laufenden Betrieb) das Zurücksetzen eines Bereiches, auf einen vorher definierten Zustand zu ermöglichen. Ansonsten müsste man den Server neu starten und eine "alte" Version des Servers nutzen. Das macht vor allem dann Sinn, wenn größere Änderungen durchgeführt wurden.
+</p>
+<ul><li><b><a rel="nofollow" class="external text" href="https://bitbucket.org/adrido/reset_area">Areas Reset [area_reset]</a></b> beruht auf dem Mod "gates" <i>(siehe vorne)</i> und speichert bei der Konfiguration des Bedien-Blockes einen Zustand als Schema (schematic). Daher legt man den Bereich mit zwei Eckpunkten fest und mit dem Bedien-Block kann man dann zum Beispiel über ein Mesecon-Signal den Bedien-Block aktivieren und damit den vorher definierten Bereich auf den gespeicherten Zustand zurücksetzen.</li></ul>
+<p><b>Truhen gegen Zugriff schützen:</b>
+</p>
+<table style="margin: 0 auto 1em; text-align: justify; border-collapse: collapse; border-width: 1px; border-style: dashed; width: 100%; clear: both; border-color:#48d; background:#fbfcff;">
+<tbody><tr>
+<td style="border: none; padding: 2px 0 2px 0.9em; text-align: center;">
+ <img alt="Mbox information.png" src="/images/thumb/f/fc/Mbox_information.png/25px-Mbox_information.png" decoding="async" width="25" height="25" srcset="/images/thumb/f/fc/Mbox_information.png/38px-Mbox_information.png 1.5x, /images/thumb/f/fc/Mbox_information.png/50px-Mbox_information.png 2x" /></td>
+<td style="border: none; padding: 0.25em 0.9em; width: 100%;"><b>TIPP:</b> Einzelne Spieler können sich eine private, verschlossene Truhe bauen, auf deren Inhalt nur sie Zugriff haben. Das ist im Basis-Spiel schon enthalten.</td>
+</tr></tbody></table>
+<ul><li class="mw-empty-elt"></li></ul>
+<p><b>Den Zugriff zum Server etwas kontrollieren/erschweren</b>
+</p>
+<ul><li><a rel="nofollow" class="external text" href="https://github.com/minetest-mods/interact">interact</a> ... Das Mod <b>interact</b> bietet vorbereitete Seite, die man als neuer Benutzer "bearbeiten" muss um einige Frage zu antworten zu können und die richtigen Tasten zu drücken. Es gibt vor eingestellte Frage, man kann am im Code den Text umstellen. Wer alle Fragen richtig beantwortet bekommt das "interact" Recht (siehe auch Privilegien und Server-Befehle). Wer antwortet, dass er nur als Gast auf die Welt will, darf zwar herumlaufen, kann aber nichts machen.</li></ul>
+<table style="margin: 0 auto 1em; text-align: justify; border-collapse: collapse; border-width: 1px; border-style: dashed; width: 100%; clear: both; border-color:#48d; background:#fbfcff;">
+<tbody><tr>
+<td style="border: none; padding: 2px 0 2px 0.9em; text-align: center;">
+ <img alt="Mbox information.png" src="/images/thumb/f/fc/Mbox_information.png/25px-Mbox_information.png" decoding="async" width="25" height="25" srcset="/images/thumb/f/fc/Mbox_information.png/38px-Mbox_information.png 1.5x, /images/thumb/f/fc/Mbox_information.png/50px-Mbox_information.png 2x" /></td>
+<td style="border: none; padding: 0.25em 0.9em; width: 100%;"><b>TIPP:</b> Man kann über die Einstellungen zum Server in der minetest.conf einige Sicherungen einbauen. So kann ein bestimmtes Passwort für den ersten Besuch festgelegt werden oder man legt fest, dass neue Benutzer kein "interact"-Recht bekommen und so auch nichts kaputt machen können. Mehr dazu siehe ...</td>
+</tr></tbody></table>
+<table style="margin: 0 auto 1em; text-align: justify; border-collapse: collapse; border-width: 1px; border-style: dashed; width: 100%; clear: both; border-color:#48d; background:#fbfcff;">
+<tbody><tr>
+<td style="border: none; padding: 2px 0 2px 0.9em; text-align: center;">
+ <img alt="Mbox information.png" src="/images/thumb/f/fc/Mbox_information.png/25px-Mbox_information.png" decoding="async" width="25" height="25" srcset="/images/thumb/f/fc/Mbox_information.png/38px-Mbox_information.png 1.5x, /images/thumb/f/fc/Mbox_information.png/50px-Mbox_information.png 2x" /></td>
+<td style="border: none; padding: 0.25em 0.9em; width: 100%;"><b>TIPP:</b>Man könnte in einer Welt ein kleines "Labyrinth" mit mehreren Fragen erstellen, die dem Benutzer erst mit der letzen richtig beantworteten Frage das "interact"-Recht gibt. Mehr dazu siehe <a href="/MinetestEDU/de/Grundlegende_Informationen_zu_Kommando-Bl%C3%B6cken" title="MinetestEDU/de/Grundlegende Informationen zu Kommando-Blöcken"> Grundlegende Informationen zu den Kommando-Blöcken</a>.</td>
+</tr></tbody></table>
+<h2><span id="Informationen_und_Anweisungen_für_die_Spieler_veröffentlichen"></span><span class="mw-headline" id="Informationen_und_Anweisungen_f.C3.BCr_die_Spieler_ver.C3.B6ffentlichen">Informationen und Anweisungen für die Spieler veröffentlichen</span></h2>
+<p>Als grundlegende Möglichkeit gibt im Spiel zwei Möglichkeiten dem Spieler Informationen zukommen zu lassen: Über Schilder, die aber nicht sehr praktisch sind, und über das "Motto des Tages" <i>(siehe Server-Einstellungen)</i>. Inzwischen gibt es aber schon zahlreiche Mods, die hier Alternativen anbieten.
+</p><p><b>Schilder</b>
+<i>Die im Minetest-Game vorhandenen Schilder sind nicht wirklich optimal. Man kann zwar etwas drauf schreibn, aber sieht es nicht von der Ferne, sondern muss das Schild anklicken oder mit dem Mauszeiger darüber gehen. Dazu gibt es einige Alternativen.</i> 
+</p>
+<ul><li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?t=13762">signs_lib</a> ... das Mod <b>kaeza's/VanessaE's signs library</b> liefert eine Auswahl an verschieden-farbigen Schilden, auf dem man auch mit verschiedenen Farben schreiben kann (auch bunt!). Neben der farbigen Formatierung sind nur minimale weitere Editier-Möglichkeiten vorhanden (<i>mehr dazu siehe → <a rel="nofollow" class="external text" href="http://daconcepts.com/vanessa/hobbies/minetest/signs_usage_guide/signs-usage.html">Usage Guide</a></i>)</li>
+<li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?t=19365">display_modpack</a> ... das <b>Display-Modpack</b> liefert Schilder, die recht modern aussehen. Wichtig sind verschiedene Arten von Richtungsschilder (Pfeile) die man auch beschreiben kann. Außerdem gibt Schilder mit einer bis zu drei Zeilen in verschiedenen Designs. Besonders interessant ist das "Poster", das eine von weiten sichtbare Überschrift hat und, wenn man das Poster anklickt, einen größeren Text ermöglicht. <i>Leider ist die Darstellung des Textes nicht immer zuverlässig, d.h. der Text wird teilweis erst angezeigt, wenn man das Objekt anklickt!</i></li></ul>
+<table style="margin: 0 auto 1em; text-align: justify; border-collapse: collapse; border-width: 1px; border-style: dashed; width: 100%; clear: both; border-color:#48d; background:#fbfcff;">
+<tbody><tr>
+<td style="border: none; padding: 2px 0 2px 0.9em; text-align: center;">
+ <img alt="Mbox information.png" src="/images/thumb/f/fc/Mbox_information.png/25px-Mbox_information.png" decoding="async" width="25" height="25" srcset="/images/thumb/f/fc/Mbox_information.png/38px-Mbox_information.png 1.5x, /images/thumb/f/fc/Mbox_information.png/50px-Mbox_information.png 2x" /></td>
+<td style="border: none; padding: 0.25em 0.9em; width: 100%;"><b>TIPP:</b> Es kann beim Display-Modpack vorkommen, dass beim unbeachsichtigten Abbauen/Abfallen eines Schildes der Text als Objekt in der Welt zurückbleibt, der sich hartnäckig nicht löschen lässt. Am einfachsten löscht man diesen Text, wenn man an der gleichen Stelle noch ein Schild baut, das dann automatisch den Text wieder als Inhalt zugeordnet bekommt, und dann dieses Schild normal entfernt, sprich abbaut.</td>
+</tr></tbody></table>
+<p><b>Bücher, Wikis, ...</b> 
+</p>
+<ul><li class="mw-empty-elt"></li></ul>
+<p>Server-Mail
+</p>
+<ul><li class="mw-empty-elt"></li></ul>
+<h2><span id="Neue_Blöcke"></span><span class="mw-headline" id="Neue_Bl.C3.B6cke">Neue Blöcke</span></h2>
+<p>Das Erstellen von neuen Blöcken/Gegenständen/... in Minetest ist mit Hilfe Mods extrem einfach. Hier eine Auswahl:
+</p>
+<ul><li>Standard-Blöcke aus neuem Material</li>
+<li><a href="/MinetestEDU/de/Mod-%C3%9Cbersicht/Bl%C3%B6cke_zu_historischen_Themen" title="MinetestEDU/de/Mod-Übersicht/Blöcke zu historischen Themen">Blöcke, die zu einem bestimmten historischen Thema/Zeitalter passen</a></li>
+<li>Alle Arten von Glas (farbig, dekoriert, ...)</li>
+<li><a href="/index.php?title=MinetestEDU/de/Mod-%C3%9Cbersicht/Einrichtungen_und_Dekorationen&amp;action=edit&amp;redlink=1" class="new" title="MinetestEDU/de/Mod-Übersicht/Einrichtungen und Dekorationen (page does not exist)">Einrichtungen und Dekorationen</a></li>
+<li><a href="/index.php?title=MinetestEDU/de/Mod-%C3%9Cbersicht/Bl%C3%B6cke_zu_spezielle_Themen&amp;action=edit&amp;redlink=1" class="new" title="MinetestEDU/de/Mod-Übersicht/Blöcke zu spezielle Themen (page does not exist)">Spezielle thematische Mods, wie Industrie, Kirche, ...</a></li></ul>
+<h2><span id="Mapgen_Mods_die_das_Aussehen_der_Umgebung_während_der_Karten-Erstellung_manipulieren"></span><span class="mw-headline" id="Mapgen_Mods_die_das_Aussehen_der_Umgebung_w.C3.A4hrend_der_Karten-Erstellung_manipulieren">Mapgen Mods die das Aussehen der Umgebung während der Karten-Erstellung manipulieren</span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?t=14638">Ethereal-Mod</a> ... das <b>Ethereal-Mod</b> ist extrem umfangreich und wurde nach seiner Erstellung schon einmal neu aufgelegt. Es beinhaltet eine große Anzahl an neuer Biome, die das Aussehen der Welt komplett verändern im Vergleich zu einer normalen Welt. Die neuen Biome enthalten viele Arten an neuen Bäumen, Pflanzen, Bodenarten und sich daraus ergebenden neuen Baublöcken.</li></ul>
+<p>Die normalen Biome sehr sehr europäisch geprägt und so könnte man in eine andere "Welt" eintauchen, wenn man eines der zwei Mods nutzt, die Biome erzeugen, wie in Ozeanien üblich sind.
+</p>
+<ul><li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=20770">Aotearoa</a> ... das <b>Aotearoa-Mod</b> ersetzt die Biome durch solche, wie sie in Aotearoa, dem Land der langen, weißen Wolken, vorkommen. Es ist ein Land mit dunklen, hoch aufragenden Wäldern, windgepeitschten Bergen und eindringlichem Vogelgesang. Es enthält eine große Anzahl realistischer Bäume und andere Pflanzen, die dort beheimatet sind.</li>
+<li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=14412">Australia</a> ... das Mod <b>Australia</b> wurde für die Mapgen-Variante "Valley" erstellt und ersetzt die normalen Biome durch die typischen Landschaften Australiens, mit anderen Bäumen und Pflanzen, anders gefärbten Boden-Blöcken und auch Wasser.</li></ul>
+<p>Ganz was anderes bietet der Marssurvive-Mod, für alle, die Lust auf etwa Weltall-Feeling haben.
+</p>
+<ul><li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=11&amp;t=13913"><b>Mars-Survive</b></a> macht aus der normalen, grünen Welt einen rötlichen Planeten, was den Mars darstellen soll. Ohne Raumanzug kann man sich draußen nicht aufhalten. Oder man hat einen abgeschlossenen Raum und einen aktivieren Luft-Generator. Gut zu kombinieren mit dem Mod <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?t=11751"><b>SciFi-Nodes</b></a> oder mit dem <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?t=4086"><b>Ufo-Mod</b></a>. Und wer fertige Raumschiffe will, kann sich per World-Edit <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=12&amp;t=16260">hier</a> eines der StraTrek-Raumschiffe ausschneiden und in seiner Welt einfügen.</li></ul>
+<ul><li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=11&amp;t=20257">cloudlands</a> ... Hallelujah Mountains ist ein Mod, dass eine Karte mit vielen schwebenden Inseln generiert, die zum Teil mit Bäume und Pflanzen bewachsen sind, sowie aich mal einen Teich haben. SO könnte man sozusagen auf "natürliche Weise" Gebiete abtrennen.</li></ul>
+<h2><span class="mw-headline" id="Mobs_auf_die_Karte_bringen">Mobs auf die Karte bringen</span></h2>
+<h2><span id="Neue_Pflanzen,_Lebensmittel_und_Bäume"></span><span class="mw-headline" id="Neue_Pflanzen.2C_Lebensmittel_und_B.C3.A4ume">Neue Pflanzen, Lebensmittel und Bäume</span></h2>
+<h2><span class="mw-headline" id="Technologie_und_Programmierung">Technologie und Programmierung</span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?t=628"><b>Mesecons</b></a> ... Mit <b>Mesecons</b> wird eine Art Ersatz für das von Minecraft bekannte Redstone zur Verfügung gestellt. Es ist allerdings keine Kopie sondern hat einige spezielle Sonderheiten zu bieten. Im Vergleich zu Redstone scheint es aber nicht so schnell zu reagieren, so dass einige Schaltungen nicht immer so gut funktionieren. Alelrdings bietet es mehr spezielle Schaltungselemente. Mehr zu Mesecons auf der Mod-eigenen Homepage oder hier ...</li>
+<li>Digilines</li></ul>
+<ul><li>robots</li></ul>
+<ul><li><a rel="nofollow" class="external text" href="https://github.com/BiLachner/TurtleMiner"><b>TurtleMiner</b></a> <i>(<a href="/Mods/TurtleMiner" title="Mods/TurtleMiner">Minetest-Wiki-Seite</a>)</i> ist ein Mod, dass einen Ersatz für das, bei Informatik-Lehrern, beliebte Mod ComputerCraft für MinecraftEDU  darstellen soll(te). Die Entwicklung stockt aktuell. Die Fähigkeiten sind sehr noch beschränkt auf eine einfache Bedienung, es gibt keine Drag-n-Drop-Programmierung. Ein französischer Lehrer hat einen <a rel="nofollow" class="external text" href="https://github.com/JulienPavageau/TurtleMiner">Fork</a> mit einer Aufzeichnungs-Möglichkeit für Aktionen versehen und einer einfachen Skripting-Möglichkeit mit Hilfe von Buchstaben und Zahlen (siehe <a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=34w6UouqqTs">Video 1</a> und <a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=3kbbj4HP7lE">Video 2</a>).</li></ul>
+<h2><span class="mw-headline" id="Automatischer_Transport_bzw._Teleportierung">Automatischer Transport bzw. Teleportierung</span></h2>
+<p>Natürlich kann man auf einem Server einfach zu Fuß zu einem bestimmten Ort laufe oder vielleicht auf fliegen, um etwas schneller zu sein. Sobald man aber an verschiedenen Ort einzelne Strukturen hat, macht es Sinn eine Transport-Möglichkeit vorzusehen, denn sonst muss man zum einen viel Zeit aufbringen um von Ort zu Ort zu kommen oder man verläuft sich womöglich. Die folgenden Mods bieten verschiedene Möglichkeiten: 
+</p>
+<ul><li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?id=8021">travelpoints</a> ... Hier ein Mod names <b>Travelpoints</b>, dass die Möglichkeit bietet verschiedene Teleport-Ziele anzulegen, sowohl global (für alle nutzbar) oder private. Man kann die Ziele per Textbefehl nutzen aber auch Teleport-Plattformen bauen, die immer zu ein bestimmtes Ziele teleportieren. Die Plattformen können auch nur für bestimmte Personen freigegeben werden. Man muss einfach darüber laufen und ist am neuen Ort. <b>ACHTUNG! Funktioniert aktuell nicht!</b></li>
+<li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?t=4877">Travelnet teleporters/bookmarks</a> ... Das Mod <b>Travelnet</b> bieten zwei Arten von Transport-Kästen, mit denen Spieler von einem zum anderen (festgelegten) Ort transportiert werden können. Die Travelnet-Box ist flexibel und ermöglicht Transport zu allen Orten, wo eine andere Travelnet-Box steht. Die Auswahl der Ziele geschieht per Rechtsklick auf die Box. Außerdem gibt es Fahrstühle, die nur einen Transport hoch- und runter ermöglichen. Die Bedienung ist für andere Benutzer sehr einfach.</li>
+<li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?t=12005">warps</a> ... Hier wird der Transport mit Hilfe von <i>Warp</i>-Steinen durchgeführt, die man anklicken muss. Dazu gibt es ein schickes Transportgeräusch. Allerdings muss man etwas warten, bis man wegtransportiert wird.</li>
+<li>POI</li></ul>
+<table style="margin: 0 auto 1em; text-align: justify; border-collapse: collapse; border-width: 1px; border-style: dashed; width: 100%; clear: both; border-color:#48d; background:#fbfcff;">
+<tbody><tr>
+<td style="border: none; padding: 2px 0 2px 0.9em; text-align: center;">
+ <img alt="Mbox information.png" src="/images/thumb/f/fc/Mbox_information.png/25px-Mbox_information.png" decoding="async" width="25" height="25" srcset="/images/thumb/f/fc/Mbox_information.png/38px-Mbox_information.png 1.5x, /images/thumb/f/fc/Mbox_information.png/50px-Mbox_information.png 2x" /></td>
+<td style="border: none; padding: 0.25em 0.9em; width: 100%;"><b>TIPP</b> Teleportieren kann man auch mit Hilfe eines Kommando-Blocks in Kombination mit einigen Mesecon-Objekten. Siehe <a href="/MinetestEDU/de/Grundlegende_Informationen_zu_Kommando-Bl%C3%B6cken#Kommando-Bl.C3.B6cke_zum_Teleportieren_nutzen" title="MinetestEDU/de/Grundlegende Informationen zu Kommando-Blöcken">Kommand-Blöcke nutzen</a> und Mesecon</td>
+</tr></tbody></table>
+<h2><span id="Straßen,_Fahrzeuge_und_Transport-Möglichkeiten"></span><span class="mw-headline" id="Stra.C3.9Fen.2C_Fahrzeuge_und_Transport-M.C3.B6glichkeiten">Straßen, Fahrzeuge und Transport-Möglichkeiten</span></h2>
+<ul><li>Streets</li>
+<li>Fahrzeuge: Autos aller Art, Flugmaschinen</li></ul>
+<ul><li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=18243">bridges</a> ...das Mod <b>Bridges</b> bietet aufwendig gestaltete Brücken-Strukturen in verschiedenen Varianten, mit denen man tolle Brücken bauen kann, die auch gut zusammen mit dem Streets-Mod nutzbar sind.</li></ul>
+<h2><span class="mw-headline" id="Wirtschaft_und_Handel">Wirtschaft und Handel</span></h2>
+<h2><span id="Praktisch_für_den_Spieler"></span><span class="mw-headline" id="Praktisch_f.C3.BCr_den_Spieler">Praktisch für den Spieler</span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?t=17812">Tower Crane</a> ... Meist haben die einfachen Spieler auf einem Server keine Flugrechte. Daher muss man sich Rampen bauen, um auf ein Bauwerk zu kommen. Das Mod <b>Towercrane</b> bietet eine Möglichkeit, in einem begrenzten Bereich herumfliegen zu können, indem man sich einen Kran baut und dann in seiner Reicheweite scheinbar fliegen kann. - <a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=lOK78oSXKZw">Mod-Review bei YouTube</a></li></ul>
+<h2><span class="mw-headline" id="Bitte_verteilen">Bitte verteilen</span></h2>
+<ul><li>Protection</li></ul>
+<p>Small mods:
+</p>
+<ul><li>shop</li>
+<li>letter - lettercutter</li>
+<li>crafting-guide</li></ul>
+<p>Bigger Mods containing many new blocks and functionallity:
+</p>
+<ul><li><a href="/Mods/xdecor" title="Mods/xdecor">xdecor</a> (small) - furniture &amp; decorations, workbench, signs ...</li>
+<li>homedecor (big) - lots of furniture &amp; decorations</li></ul>
+<ul><li>darkage    - pre-industrial items and builting-materials</li>
+<li>moreblocks - more stairs and slopes</li>
+<li>moreore    - tin, silver, mithril</li></ul>
+<ul><li>farming / <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=11&amp;t=9019">farming-redo</a> - more plants &amp; foods (e.g. potatoes &amp; baked potatoes ...)</li>
+<li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=11&amp;t=9917">mobs-redo</a>
+<ul><li>mobs-animals (sheep, chickens, cow, wolf... mostly peaceful)</li>
+<li>mobs-monsters</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=11&amp;t=14726">Trains</a></li>
+<li>Mesecons</li>
+<li>Technic</li></ul>
+<!-- 
+NewPP limit report
+Cached time: 20230709182117
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.177 seconds
+Real time usage: 0.209 seconds
+Preprocessor visited node count: 474/1000000
+Post‐expand include size: 8745/2097152 bytes
+Template argument size: 3574/2097152 bytes
+Highest expansion depth: 6/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 2/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   47.669      1 -total
+ 68.39%   32.600      8 Template:Mbox
+ 24.66%   11.753      1 Template:Redbox
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:3761-0!canonical and timestamp 20230709182117 and revision id 25031
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=MinetestEDU/de/Mod-Übersicht&amp;oldid=25031">http://wiki.minetest.net/index.php?title=MinetestEDU/de/Mod-Übersicht&amp;oldid=25031</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:MinetestEDU" title="Category:MinetestEDU">MinetestEDU</a></li><li><a href="/Category:German" title="Category:German">German</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=MinetestEDU%2Fde%2FMod-%C3%9Cbersicht" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/MinetestEDU/de/Mod-%C3%9Cbersicht" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:MinetestEDU/de/Mod-%C3%9Cbersicht&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/MinetestEDU/de/Mod-%C3%9Cbersicht">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=MinetestEDU/de/Mod-%C3%9Cbersicht&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=MinetestEDU/de/Mod-%C3%9Cbersicht&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/MinetestEDU/de/Mod-%C3%9Cbersicht" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/MinetestEDU/de/Mod-%C3%9Cbersicht" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=MinetestEDU/de/Mod-%C3%9Cbersicht&amp;oldid=25031" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=MinetestEDU/de/Mod-%C3%9Cbersicht&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 8 April 2021, at 23:13.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.177","walltime":"0.209","ppvisitednodes":{"value":474,"limit":1000000},"postexpandincludesize":{"value":8745,"limit":2097152},"templateargumentsize":{"value":3574,"limit":2097152},"expansiondepth":{"value":6,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":2,"limit":5000000},"timingprofile":["100.00%   47.669      1 -total"," 68.39%   32.600      8 Template:Mbox"," 24.66%   11.753      1 Template:Redbox"]},"cachereport":{"timestamp":"20230709182117","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":562});});</script></body></html>

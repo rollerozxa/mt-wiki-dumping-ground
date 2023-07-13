@@ -1,0 +1,267 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>MinetestEDU/About Minetest-Server/fr - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"f37595c8edde5b2486d5d2d3","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"MinetestEDU/About_Minetest-Server/fr","wgTitle":"MinetestEDU/About Minetest-Server/fr","wgCurRevisionId":23746,"wgRevisionId":23746,"wgArticleId":4804,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["MinetestEDU"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"MinetestEDU/About_Minetest-Server/fr","wgRelevantArticleId":4804,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":
+[]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=skins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-MinetestEDU_About_Minetest-Server_fr rootpage-MinetestEDU skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">MinetestEDU/About Minetest-Server/fr</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/MinetestEDU" title="MinetestEDU">MinetestEDU</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p><b>Concrètement, avant de commencer, il faut savoir&#160;:</b>
+</p>
+<ul><li>Que le jeu en réseau n'occupant que très peu de bande passante, il est pratique quand la connexion est de mauvaise qualité,</li>
+<li>Que l'enseignant (et/ou les élèves) peut ajouter, modifier, éditer... chacune des pièces du jeu (y compris les pouvoir donnés aux élèves, le rythme jour-nuit...),</li>
+<li>Que les participants peuvent également créer des mods, packs de textures... et donc modifier le jeu&#160;!</li>
+<li>Que l'ensemble des actions réalisées sont enregistrées sur le serveur (au clic près&#160;!),</li>
+<li>Que l'administrateur (ou tout utilisateurs ayant ce privilège), via l'interface graphique, peut bannir n'importe qui du jeu&#160;!</li>
+<li>Et que par défaut..., les élèves pourront y faire ce qu'ils veulent&#160;!</li></ul>
+<p>Ces quelques généralités vous permettent plus aisément de comprendre mon choix quant à cette plateforme plus qu'à d'autres plus connues.
+</p><p>--&gt; Fiche mémo «&#160;Les données privées enregistrées par un serveur Minetest&#160;»&#160;: <a rel="nofollow" class="external free" href="https://www.svtux.fr/svtux/svtuxboxproject/DOCS/Fiche-memo-minetest-donnees-personnelles.pdf">https://www.svtux.fr/svtux/svtuxboxproject/DOCS/Fiche-memo-minetest-donnees-personnelles.pdf</a>
+</p>
+<h2><span id="L'hébergement_du_serveur,_une_question_sensible"></span><span class="mw-headline" id="L.27h.C3.A9bergement_du_serveur.2C_une_question_sensible">L'hébergement du serveur, une question sensible</span></h2>
+<p>La question de l'hébergement est sans aucun doute celle sur laquelle il est intéressant de s'attarder.
+</p><p><b>Solution n°1&#160;:</b> vous souhaitez avoir une main complète sur votre serveur et vous accordez une importance cruciale au respect de votre vie privée, alors oubliez toute forme d'hébergement externe. Aucun est sûr car vous n'avez pas la machine physiquement sous les yeux. Ceci est une évidence, mais tout le monde l'oubli&#160;! Mais problème&#160;: il faut une expertise technique et de l'expérience... bref, une solution ultime réservée aux rares initiés.
+</p><p><b>Solution n°2&#160;:</b> acheter un serveur en ligne chez un hébergeur. Un peu coûteuse, cette solution est plus confortable techniquement.
+</p><p><b>Solution n°3&#160;:</b> votre DSI s'en occupe pour vous&#160;!
+</p><p>Précision sur l'ouverture des ports&#160;: le port dédié à Minetest habituellement est le port 30000 en udp (mais vous pouvez choisir un autre port comme 30001)
+</p><p>--&gt; Fiche mémo «&#160;créer un serveur local en 4 clics&#160;!&#160;»&#160;: <a rel="nofollow" class="external free" href="https://www.svtux.fr/svtux/svtuxboxproject/DOCS/Fiche-memo-minetest-serveur.pdf">https://www.svtux.fr/svtux/svtuxboxproject/DOCS/Fiche-memo-minetest-serveur.pdf</a>
+</p>
+<h2><span id="Passons_au_concret_:_choisir_la_configuration_matérielle"></span><span class="mw-headline" id="Passons_au_concret_:_choisir_la_configuration_mat.C3.A9rielle">Passons au concret&#160;: choisir la configuration matérielle</span></h2>
+<p>Nul besoin d'une très grosse configuration pour un serveur Minetest dédié uniquement à cette fonction pour moins de 5 joueurs, mais un minimum est tout de même nécessaire&#160;! Si officiellement 512 Mo de Ram suffisent, mon expérience tend à me démontrer qu'1 Go est vivement recommandé pour tous ceux qui souhaitent jouer avec une classe ou des amis&#160;!
+</p><p>D'un point de vue performance, voici deux exemples concrets parmi mes configurations serveurs&#160;:
+</p><p><i>Configuration n°1&#160;: base d'un RaspberryPi-4</i>
+</p>
+<ul><li>Matériel&#160;: Raspberry Pi 4 (une carte micro-SD de bonne qualité et rapide est indispensable&#160;!),</li>
+<li>OS Raspbian Buster</li>
+<li>Minetest installé via les paquets backports de Raspbian (v5.1.0)</li>
+<li>Résultats --&gt; &lt; 5 joueurs</li></ul>
+<p><i>Configuration n°2&#160;: un serveur pour plusieurs classes</i>
+</p>
+<ul><li>CPU Intel i7, Xeon ou équivalent (16 à 32Go de RAM, disque SSD),</li>
+<li>OS Debian Buster ou Fedora Server 31</li>
+<li>Minetest officiel (v5.1.0)</li>
+<li>Résultats --&gt; jusqu'à ~100 joueurs env.</li></ul>
+<p>Sachez que par défaut, le facteur limitant sera la rapidité de votre disque dur (d'où l'intérêt du SSD), suivi du CPU dont la charge peut monter rapidement si un grand nombre de joueurs sont connectés. Pensez donc à monitorer votre serveur pour en surveiller l'état de ses performances (j'y reviendrai plus bas). Enfin, il faut avoir dans un coin de votre tête qu'un joueur utilisera environ 150Mo de RAM.
+</p>
+<h2><span id="Quel_Système_d'exploitation_pour_le_serveur_?"></span><span class="mw-headline" id="Quel_Syst.C3.A8me_d.27exploitation_pour_le_serveur_.3F">Quel Système d'exploitation pour le serveur&#160;?</span></h2>
+<p>Pour l'essentiel des administrateurs réseaux, «&#160;serveur&#160;» rime avec «&#160;Gnu/Linux&#160;». Et avis pris auprès des développeurs de Minetest, cet adage est confirmé&#160;!
+</p><p>D'expérience (et sans doute est-ce un défaut de formation), je vous recommande de fuir les autres solutions, à minima pour des raisons de sécurité.Les experts réseaux me comprendrons&#160;!
+</p><p>Parmi les innombrables distributions Gnu/Linux, lorsqu'il s'agit de monter un serveur, deux sortent du lot&#160;: Debian et RedHat. Personnellement, j'ai une faiblesse pour la première (et ses dérivés) pour sa stabilité incomparable, sa sécurité et sa flexibilité. Par conséquent, je peux recommandé 2 distributions pour les avoir utilisé pour des serveurs Minetest&#160;:
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20230709182217
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.025 seconds
+Real time usage: 0.040 seconds
+Preprocessor visited node count: 9/1000000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    0.000      1 -total
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:4804-0!canonical and timestamp 20230709182217 and revision id 23746
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=MinetestEDU/About_Minetest-Server/fr&amp;oldid=23746">http://wiki.minetest.net/index.php?title=MinetestEDU/About_Minetest-Server/fr&amp;oldid=23746</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/Category:MinetestEDU" title="Category:MinetestEDU">MinetestEDU</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=MinetestEDU%2FAbout+Minetest-Server%2Ffr" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/MinetestEDU/About_Minetest-Server/fr" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:MinetestEDU/About_Minetest-Server/fr&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/MinetestEDU/About_Minetest-Server/fr">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=MinetestEDU/About_Minetest-Server/fr&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=MinetestEDU/About_Minetest-Server/fr&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/MinetestEDU/About_Minetest-Server/fr" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/MinetestEDU/About_Minetest-Server/fr" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=MinetestEDU/About_Minetest-Server/fr&amp;oldid=23746" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=MinetestEDU/About_Minetest-Server/fr&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 7 January 2020, at 10:03.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.025","walltime":"0.040","ppvisitednodes":{"value":9,"limit":1000000},"postexpandincludesize":{"value":0,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20230709182217","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":519});});</script></body></html>

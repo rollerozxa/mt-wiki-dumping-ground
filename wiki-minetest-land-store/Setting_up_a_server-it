@@ -1,0 +1,366 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Setting up a server/it - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"428ce692e3f8fd117df2c077","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Setting_up_a_server/it","wgTitle":"Setting up a server/it","wgCurRevisionId":27727,"wgRevisionId":27727,"wgArticleId":4776,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages","Tutorials","Server"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Setting_up_a_server/it","wgRelevantArticleId":4776,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={
+"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Setting_up_a_server_it rootpage-Setting_up_a_server skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Setting up a server/it</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/Setting_up_a_server" title="Setting up a server">Setting up a server</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> Lingua:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><a href="/Setting_up_a_server" title="Setting up a server">English</a>&#160;• <bdi lang="de"><a href="/Setting_up_a_server/de" title="Setting up a server/de">Deutsch</a></bdi>&#160;• <bdi lang="es"><a href="/Setting_up_a_server/es" title="Setting up a server/es">español</a></bdi>&#160;• <bdi lang="fr"><a href="/Setting_up_a_server/fr" title="Setting up a server/fr">français</a></bdi><b>&#160;• <bdi lang="it"><a class="mw-selflink selflink">italiano</a></bdi></b>&#160;• <bdi lang="ja"><a href="/Setting_up_a_server/ja" title="Setting up a server/ja">日本語</a></bdi>&#160;• <bdi lang="ru"><a href="/Setting_up_a_server/ru" title="Setting up a server/ru">русский</a></bdi></td>
+</tr></tbody></table>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Scegliere_l.27hardware"><span class="tocnumber">1</span> <span class="toctext">Scegliere l'hardware</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Eseguire_il_server"><span class="tocnumber">2</span> <span class="toctext">Eseguire il server</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Tramite_il_client"><span class="tocnumber">2.1</span> <span class="toctext">Tramite il client</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Server_dedicato"><span class="tocnumber">2.2</span> <span class="toctext">Server dedicato</span></a>
+<ul>
+<li class="toclevel-3 tocsection-5"><a href="#Linux"><span class="tocnumber">2.2.1</span> <span class="toctext">Linux</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Windows"><span class="tocnumber">2.2.2</span> <span class="toctext">Windows</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Permettere_a_giocatori_esterni_di_connettersi"><span class="tocnumber">3</span> <span class="toctext">Permettere a giocatori esterni di connettersi</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Proteggere_il_vostro_server"><span class="tocnumber">4</span> <span class="toctext">Proteggere il vostro server</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Gestire_il_vostro_server"><span class="tocnumber">5</span> <span class="toctext">Gestire il vostro server</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Configurazione_del_server"><span class="tocnumber">5.1</span> <span class="toctext">Configurazione del server</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Comandi_del_server"><span class="tocnumber">5.2</span> <span class="toctext">Comandi del server</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Sistema_dei_privilegi"><span class="tocnumber">5.3</span> <span class="toctext">Sistema dei privilegi</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#Si_veda_anche"><span class="tocnumber">6</span> <span class="toctext">Si veda anche</span></a></li>
+</ul>
+</div>
+
+<h2><span id="Scegliere_l'hardware"></span><span class="mw-headline" id="Scegliere_l.27hardware">Scegliere l'hardware</span></h2>
+<p>Si raccomanda che usiate un VPS o un server dedicato per ospitare un server di gioco che volete rendere pubblicamente disponibile.
+Le connessioni internet di casa tendono a essere inaffidabili e hanno anche una velocità di upload minore. Potreste anche non essere in grado di mantenere un server in linea 24 ore su 24 e 7 giorni su 7 quando lo ospitate sulla vostra connessione di casa.
+</p><p>Detto questo, ospitarlo sulla vostra connessione di casa andrà bene se avete dell'hardware che potete mantenere in linea, e se avete una connessione internet buona abbastanza.
+</p><p>Ci sono due modi per eseguire un server di Minetest:
+</p>
+<ul><li>Tramite il client - questo va bene per i giochi locali/LAN. Il vostro giocatore admin dovrà essere sempre in linea, dato che il server è ospitato dal client di Minetest.</li>
+<li>Server dedicato - per un server pubblico sicuramente volete questo. Il vostro giocatore admin è solo un altro giocatore, e può entrare e uscire a volontà come qualsiasi altro giocatore.</li></ul>
+<h2><span class="mw-headline" id="Eseguire_il_server">Eseguire il server</span></h2>
+<h3><span class="mw-headline" id="Tramite_il_client">Tramite il client</span></h3>
+<p>Se volete ospitare un server su cui giocare con gli amici, allora il modo più semplice di avviarlo è quello di usare il client di Minetest. Si noti che state eseguendo il server sul vostro computer, e il server si spegnerà se lasciate il gioco.
+</p>
+<ul><li>Andate nella scheda server</li>
+<li>Assicuratevi che sia selezionato un mondo</li>
+<li>Inserite il vostro nome utente e la password</li>
+<li>Cliccate avvia</li></ul>
+<h3><span class="mw-headline" id="Server_dedicato">Server dedicato</span></h3>
+<h4><span class="mw-headline" id="Linux">Linux</span></h4>
+<ol><li>Aprite un terminale.</li>
+<li>Digitate <code>LA/VOSTRA/CARTELLA/MINETEST/bin/minetestserver</code> o rilasciate l'eseguibile minetestserver (posto in <code>/Minetest/bin/</code>) nel terminale <b>(PER FAVORE LEGGETE LE NOTE SOTTOSTANTI!)</b>
+<ul><li>Se volete specificare un ID di gioco specifico, le scelte degli ID sono poste in <code>/Minetest/games/</code>. Aggiungete <code>--gameid <b>l'IDdelGioco</b></code> alla fine del comando.</li>
+<li>Se ricevete l'errore "Sono disponibili mondi multipli.", le scelte dei mondi sono poste in <code>/Minetest/worlds/</code>. Aggiungete <code>--worldname <b>ilMondo</b></code> alla fine del comando.</li></ul></li>
+<li>Se il vostro server va in crash, controllate il <code>debug.txt</code> in <code>/Minetest/bin/</code></li>
+<li>Assicuratevi di mettere il vostro server <a href="#Protecting_your_server">al sicuro dai danni</a>.</li></ol>
+<p>Per semplicità di utilizzo potete creare un file chiamato minetestserver.sh, aggiungere le righe sottostanti e metterlo nella vostra cartella /Minetest/bin. Per eseguire il server, eseguite il file in un terminale.
+</p>
+<pre>#!/bin/bash -x
+
+./minetestserver --gameid minetest --worldname world
+</pre>
+<h4><span class="mw-headline" id="Windows">Windows</span></h4>
+<ol><li>Aprite il prompt dei comandi andando nella cartella di installazione di Minetest, poi nella cartella "bin", tenete premuto Maiusc, fate click di destro su di un file vuoto (non su minetest.exe), cliccate "Apri qui la finestra dei comandi".</li>
+<li>Digitate: <code>minetest.exe --server</code>.
+<ul><li>Se ricevete l'errore "Sono disponibili mondi multipli.", usate invece <code>minetest.exe --server --worldname <b>nome_mondo</b></code>, dove <code><b>nome_mondo</b></code> è il nome del mondo.</li></ul></li>
+<li>Se il vostro server va in crash, controllate il <code>debug.txt</code> in <code>/Minetest/bin/</code></li>
+<li>Assicuratevi di mettere il vostro server <a href="#Proteggere_il_vostro_server">al sicuro dai danni</a>.</li></ol>
+<p>Se non vi va di avviare il server andato in crash, avviate il server da un file batch che contiene il codice seguente:
+</p>
+<pre>@echo off
+:crash
+minetest.exe --server --worldname <i>nome_mondo</i>
+goto crash
+</pre>
+<h2><span class="mw-headline" id="Permettere_a_giocatori_esterni_di_connettersi">Permettere a giocatori esterni di connettersi</span></h2>
+<p>I giocatori esterni alla vostra rete non saranno in grado di connettersi al server a meno che facciate il forward della porta.
+</p>
+<ol><li>Scegliete una porta su cui eseguire il server. È raccomandata quella predefinita, la 30000</li>
+<li>Trovate l'IP interno del computer su cui state eseguendo il sever
+<ul><li><b>Linux</b>: aprite un terminale e digitate <code>ifconfig</code> e premete Invio. Cercate "inet adr" vicino "wlan0" o "eth0".</li>
+<li><b>Windows</b>:
+<ul><li>Aprite un prompt dei comandi: Avvio → Esegui ..., inserite <code>cmd.exe</code> e premete invio.</li>
+<li>Digitate <code>ipconfig</code> e premete Invio.</li>
+<li>Cercate <code>IPv4 Address</code>.</li></ul></li>
+<li><b>macOS</b>: Aprite il prompt dei comandi e inserite netstat -nr.</li></ul></li>
+<li>Accedete al vostro router, ed eseguite il port forward UDP sulla porta di vostra scelta sull'indirizzo IP interno che avete trovato</li>
+<li>Modificate qualsiasi firewall che potreste avere per consentire il traffico sulla porta che scegliete</li>
+<li>Fate elencare il vostro server nell'elenco dei server impostando le seguenti impostazioni in minetest.conf
+<ul><li><code>server_announce = true</code> - fa sì che Minetest dica del server all'elenco dei server.</li>
+<li><code>server_name</code> - impostate questo valore con il nome del vostro server.</li>
+<li><code>server_description</code> - impostate questo valore con una decrizione più lunga che descriva il vostro server.</li>
+<li><code>server_address</code> - se avete un nome di dominio per il vostro server, allora impostatela al nome di dominio (<a href="/How_to_get_a_domain_name_for_your_server/it" title="How to get a domain name for your server/it">come ottenere un nome di dominio se ne volete uno per il vostro server</a>).</li>
+<li><code>server_url</code> - se avete un sito web per il vostro server, allora impostatela con l'URL del sito web.</li>
+<li><code>motd</code> - un messaggio che viene inviato all'accesso dei giocatori. Usatelo per dargli il benvenuto.</li>
+<li>Dovreste riavviare il server per essere certi che sia stata cambiata ogni impostazione modificata</li></ul></li></ol>
+<h2><span class="mw-headline" id="Proteggere_il_vostro_server">Proteggere il vostro server</span></h2>
+<p>Quando si prepara un nuovo server, dovreste considerare quali protezioni siano necessarie. Ciò è estremamente importante per i server pubblici, perché non potete prevedere chi si connetterà o che cosa farà sul vostro server.
+</p><p>I problemi comuni includono:
+</p>
+<ul><li>Danneggiamento accidentale o intenzionale del lavoro degli altri giocatori ("griefing").</li>
+<li>Spam in chat (può includere imprecazioni o annunci pubblicitari).</li>
+<li>Attacchi, molestie o altri comportamenti indesiderati tra giocatori.</li>
+<li>Piantagrane che aggirano i ban.</li>
+<li>Impersonificazione di persone note nella comunità di MT.</li>
+<li>Bug, per esempio provocati da mod, che consentono a un giocatore malevolo di eseguire comandi di sistema arbitrari.</li></ul>
+<p>Molti di questi problemi possono essere rimossi o minimizzati tramite consapevolezza e pianificazione avanzata:
+</p>
+<ul><li>Installate un mod di protezione, come <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?t=7239">areas</a> o <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=11&amp;t=9376">protectors</a>. Questi permettono ai giocatori di proteggere le aree. Le aree protette non possono essere modificate da altri giocatori.</li>
+<li>Abilitate il "rollback" ("ripristino", NdT) aggiungendo <code>enable_rollback = true</code> a <a href="/Minetest.conf" title="Minetest.conf">minetest.conf</a>. Rollback può dirvi quale giocatore ha posizionato un nodo, e consente l'annullamento delle azioni di un giocatore.</li>
+<li>Installate un mod che vi aiuti a gestire i ban, come <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?t=9315">xban2</a>.</li>
+<li>Se invece state ospitando un server privato, installate un mod che limita i giocatori permessi a una lista specifica (detta "lista bianca" o "whitelist"), come <a rel="nofollow" class="external text" href="https://content.minetest.net/packages/Zughy/whitelist/">whitelist</a>.</li>
+<li>Create delle regole per il vostro server e assicuratevi di avere abbastanza tempo (o una squadra di moderatori) per sorvegliare il vostro server e controllare i giocatori che infrangono le vostre regole.</li>
+<li>Non concedete mai privilegi a un giocatore solo perché usa un nome che riconoscete. I nomi dei giocatori non sono riservati tra i server, quindi dovreste sempre avere conferma di chi è il giocatore.</li>
+<li>Su Linux potete aggiungere un utente dedicato per eseguire il server minetest.</li></ul>
+<p><br />
+Si noti che TNT e diffusione del fuoco, entrambi abilitati in modo predefinito in modalità gioco locale, sono disabilitati in modo predefinito sui server.
+</p>
+<h2><span class="mw-headline" id="Gestire_il_vostro_server">Gestire il vostro server</span></h2>
+<h3><span class="mw-headline" id="Configurazione_del_server">Configurazione del server</span></h3>
+<p>Per una spiegazione dettagliata del file di configurazione del server, si veda la pagina <a rel="nofollow" class="external text" href="https://github.com/minetest/minetest/blob/master/minetest.conf.example">minetest.conf</a>.
+</p><p>Potreste anche voler considerare l'uso di un <a href="/index.php?title=Database_backends/it&amp;action=edit&amp;redlink=1" class="new" title="Database backends/it (page does not exist)">database backend</a> (tipo di banca dati, NdT) diverso per il vostro mondo.
+</p>
+<h3><span class="mw-headline" id="Comandi_del_server">Comandi del server</span></h3>
+<p>Si veda la pagina <a href="/Server_commands/it" title="Server commands/it">Comandi del server</a> per un elenco di comandi utili.
+</p><p>Si veda anche <a href="/Itemstrings/it" title="Itemstrings/it">Stringhe oggetti</a> per le stringhe oggetto da usarsi coi comandi <code>/give</code> e <code>/giveme</code>.
+</p>
+<h3><span class="mw-headline" id="Sistema_dei_privilegi">Sistema dei privilegi</span></h3>
+<p>Si veda la pagina <a href="/Privileges/it" title="Privileges/it">Privilegi</a> per informazioni dettagliate sul sistema dei privilegi.
+</p>
+<h2><span class="mw-headline" id="Si_veda_anche">Si veda anche</span></h2>
+<ul><li>La pagina <a href="/Help:Setting_up_a_server/Debian" class="mw-redirect" title="Help:Setting up a server/Debian">Setting up a Debian server</a> per ulteriori informazioni relative a Debian (Ubuntu).</li>
+<li>Per altri possibili comandi si studi la pagina <a href="/Command_line" title="Command line">Command line</a>.</li>
+<li>La discussione "<a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=10&amp;t=2870">Illustrated Server Creation Guide</a>" sul forum contiene discussioni interessanti.</li>
+<li>Si veda questa discussione sul forum riguardo "<a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=10&amp;t=8924">How to create and maintain a server - Windows</a>"</li>
+<li>Si veda questa discussione sul forum per "<a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=10&amp;t=1825">Server performance settings</a>"</li></ul>
+<!-- 
+NewPP limit report
+Cached time: 20230709090318
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.210 seconds
+Real time usage: 0.415 seconds
+Preprocessor visited node count: 110/1000000
+Post‐expand include size: 2344/2097152 bytes
+Template argument size: 555/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 13/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.130/7 seconds
+Lua virtual size: 5.55 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  302.600      1 Template:Languages
+100.00%  302.600      1 -total
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:4776-0!canonical and timestamp 20230709090318 and revision id 27727
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Setting_up_a_server/it&amp;oldid=27727">http://wiki.minetest.net/index.php?title=Setting_up_a_server/it&amp;oldid=27727</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li><li><a href="/Category:Tutorials" title="Category:Tutorials">Tutorials</a></li><li><a href="/Category:Server" title="Category:Server">Server</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Setting+up+a+server%2Fit" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Setting_up_a_server/it" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Setting_up_a_server/it&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Setting_up_a_server/it">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Setting_up_a_server/it&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Setting_up_a_server/it&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Setting_up_a_server/it" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Setting_up_a_server/it" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Setting_up_a_server/it&amp;oldid=27727" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Setting_up_a_server/it&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 25 April 2023, at 07:47.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.210","walltime":"0.415","ppvisitednodes":{"value":110,"limit":1000000},"postexpandincludesize":{"value":2344,"limit":2097152},"templateargumentsize":{"value":555,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":13,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  302.600      1 Template:Languages","100.00%  302.600      1 -total"]},"scribunto":{"limitreport-timeusage":{"value":"0.130","limit":"7"},"limitreport-virtmemusage":{"value":5820416,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709090318","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":516});});</script></body></html>

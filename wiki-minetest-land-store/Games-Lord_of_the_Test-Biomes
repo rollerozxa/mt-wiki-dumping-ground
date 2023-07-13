@@ -1,0 +1,790 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Games/Lord of the Test/Biomes - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"be5bb179ba63910cfdcd83a3","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Games/Lord_of_the_Test/Biomes","wgTitle":"Games/Lord of the Test/Biomes","wgCurRevisionId":21280,"wgRevisionId":21280,"wgArticleId":1110,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages","Lord of the Test"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Games/Lord_of_the_Test/Biomes","wgRelevantArticleId":1110,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],
+"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Games_Lord_of_the_Test_Biomes rootpage-Games skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Games/Lord of the Test/Biomes</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/Games" title="Games">Games</a>&lrm; | <a href="/Games/Lord_of_the_Test" title="Games/Lord of the Test">Lord of the Test</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> Language:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><b><a class="mw-selflink selflink">English</a></b>&#160;• <bdi lang="de"><a href="/Games/Lord_of_the_Test/Biomes/de" title="Games/Lord of the Test/Biomes/de">Deutsch</a></bdi></td>
+</tr></tbody></table>
+<div style="clear: right; margin-bottom: .5em; float: right; margin-left:2.5em; width: auto;"><div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Angmar_Forest"><span class="tocnumber">1</span> <span class="toctext">Angmar Forest</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Trollshaws"><span class="tocnumber">2</span> <span class="toctext">Trollshaws</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Angmar_Plains"><span class="tocnumber">3</span> <span class="toctext">Angmar Plains</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Lorien"><span class="tocnumber">4</span> <span class="toctext">Lorien</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Fangorn"><span class="tocnumber">5</span> <span class="toctext">Fangorn</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Mirkwood"><span class="tocnumber">6</span> <span class="toctext">Mirkwood</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Mordor"><span class="tocnumber">7</span> <span class="toctext">Mordor</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Iron_Hills"><span class="tocnumber">8</span> <span class="toctext">Iron Hills</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Dunland"><span class="tocnumber">9</span> <span class="toctext">Dunland</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Ithilien"><span class="tocnumber">10</span> <span class="toctext">Ithilien</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Gondor"><span class="tocnumber">11</span> <span class="toctext">Gondor</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Rohan"><span class="tocnumber">12</span> <span class="toctext">Rohan</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Shire"><span class="tocnumber">13</span> <span class="toctext">Shire</span></a></li>
+</ul>
+</div>
+</div> 
+<p>One of the main features of the game is the rich landscape with a lot of diversions, depending on the area you're in. The next regions are generated upon creating a new world:
+</p>
+<h3><span class="mw-headline" id="Angmar_Forest">Angmar Forest</span></h3>
+<p>The Realm of the Witch King, a cold and dangerous biome, Orcs and Troll roam around here. Occasionally fearsome half-trolls are spotted here. Thick Snow blocks usually form the cold surface of the land with small patches of frozen water. On surfaces below the thick layer of snow, you will spot cold stones harden by the frozen water in the cracks of the stone. Firs and Pines pop out rarely in the land with a even rarer chance of beeches. Blood flowers, Seregon, pop out of the frozen stones. Dry shrubs can be found throughout the surface, result of the harsh cold weather of Angmar.
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:402px;"><a href="/File:Angmar_forest.png" class="image"><img alt="Angmar forest.png" src="/images/thumb/8/89/Angmar_forest.png/400px-Angmar_forest.png" decoding="async" width="400" height="300" class="thumbimage" srcset="/images/8/89/Angmar_forest.png 1.5x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Angmar_forest.png" class="internal" title="Enlarge"></a></div></div></div></div>
+<table class="wikitable" style="margin-left: auto;">
+<caption>Biome specifications
+</caption>
+<tbody><tr>
+<th style="text-align:center;width:200px" colspan="2">biome=1
+</th></tr>
+<tr>
+<td rowspan="2" style="text-align:center;font-weight: bold;"><a href="/Games/Lord_of_the_Test/Plants" title="Games/Lord of the Test/Plants">plants</a>
+</td>
+<td><a href="/Dry_Shrub" title="Dry Shrub">dry shrub</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Plants#Seregon" title="Games/Lord of the Test/Plants">seregon</a>
+</td></tr>
+<tr>
+<td rowspan="3" style="text-align:center;font-weight: bold;"><a href="/Games/Lord_of_the_Test/Trees" title="Games/Lord of the Test/Trees">trees</a>
+</td>
+<td><a href="/Games/Lord_of_the_Test/Trees#Beech" title="Games/Lord of the Test/Trees">beech tree</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Trees#Pine" title="Games/Lord of the Test/Trees">pine tree</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Trees#Fir" title="Games/Lord of the Test/Trees">fir tree</a>
+</td></tr>
+</tbody></table>
+<div style="clear:both"></div>
+<h3><span class="mw-headline" id="Trollshaws">Trollshaws</span></h3>
+<p>Home of the Trolls, a cold and forested area. In day, Half Trolls venture here, in night, Trolls roam their homeland. On the surface, thin layer of snow is spotted above dirt. Firs and Pines spawn here so commonly that it creates a forest, huge beeches may be spotted sometimes. In this cold land, no flowers strive only dry shrubs, the remains of the dead flowers who tried surviving here, is found.
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:402px;"><a href="/File:Trollshaws.png" class="image"><img alt="Trollshaws.png" src="/images/thumb/9/95/Trollshaws.png/400px-Trollshaws.png" decoding="async" width="400" height="300" class="thumbimage" srcset="/images/thumb/9/95/Trollshaws.png/600px-Trollshaws.png 1.5x, /images/9/95/Trollshaws.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Trollshaws.png" class="internal" title="Enlarge"></a></div></div></div></div>
+<table class="wikitable" style="margin-left: auto;">
+<caption>Biome specifications
+</caption>
+<tbody><tr>
+<th style="text-align:center;width:200px" colspan="2">biome=3
+</th></tr>
+<tr>
+<td rowspan="1" style="text-align:center;font-weight: bold;"><a href="/Games/Lord_of_the_Test/Plants" title="Games/Lord of the Test/Plants">plants</a>
+</td>
+<td><a href="/Dry_Shrub" title="Dry Shrub">dry shrub</a>
+</td></tr>
+<tr>
+<td rowspan="3" style="text-align:center;font-weight: bold;"><a href="/Games/Lord_of_the_Test/Trees" title="Games/Lord of the Test/Trees">trees</a>
+</td>
+<td><a href="/Games/Lord_of_the_Test/Trees#Beech" title="Games/Lord of the Test/Trees">beech tree</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Trees#Pine" title="Games/Lord of the Test/Trees">pine tree</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Trees#Fir" title="Games/Lord of the Test/Trees">fir tree</a>
+</td></tr>
+</tbody></table>
+<div style="clear:both"></div>
+<h3><span class="mw-headline" id="Angmar_Plains">Angmar Plains</span></h3>
+<p>These lands were once forested but those trees were cut down by the forces of Angmar. Now this harsh and cold land is devoid of flora and covered with thick snow. Forces of Angmar have long abandoned this wasteland and Trolls and Half Trolls which venture here from Trollshaws can be found.
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:402px;"><a href="/File:Angmar_plains.png" class="image"><img alt="Angmar plains.png" src="/images/thumb/8/8a/Angmar_plains.png/400px-Angmar_plains.png" decoding="async" width="400" height="320" class="thumbimage" srcset="/images/thumb/8/8a/Angmar_plains.png/600px-Angmar_plains.png 1.5x, /images/8/8a/Angmar_plains.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Angmar_plains.png" class="internal" title="Enlarge"></a></div></div></div></div>
+<table class="wikitable" style="margin-left: auto;">
+<caption>Biome specifications
+</caption>
+<tbody><tr>
+<th style="text-align:center;width:200px" colspan="2">biome=2
+</th></tr>
+<tr>
+<td rowspan="1" style="text-align:center;font-weight: bold;"><a href="/Games/Lord_of_the_Test/Plants" title="Games/Lord of the Test/Plants">plants</a>
+</td>
+<td>none
+</td></tr>
+<tr>
+<td rowspan="1" style="text-align:center;font-weight: bold;"><a href="/Games/Lord_of_the_Test/Trees" title="Games/Lord of the Test/Trees">trees</a>
+</td>
+<td>none either
+</td></tr>
+</tbody></table>
+<div style="clear:both"></div>
+<h3><span class="mw-headline" id="Lorien">Lorien</span></h3>
+<p>Land of the Fair Elves, strange bluish lorien grass form the surface of the land. Tall golden mallorn trees grows here with occasional huge ones. Jungle grass grows here with a wide variety of flowers like Elanor, Lissuin, and Niphredil, decorating the land like it is made out of fallen stars. Fireflies may be spotted hovering above flowers and friendly Elves will greet you while you walk across the land.
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:402px;"><a href="/File:Lorien.png" class="image"><img alt="Lorien.png" src="/images/thumb/e/e4/Lorien.png/400px-Lorien.png" decoding="async" width="400" height="300" class="thumbimage" srcset="/images/thumb/e/e4/Lorien.png/600px-Lorien.png 1.5x, /images/e/e4/Lorien.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Lorien.png" class="internal" title="Enlarge"></a></div></div></div></div>
+<table class="wikitable" style="margin-left: auto;">
+<caption>Biome specifications
+</caption>
+<tbody><tr>
+<th style="text-align:center;width:200px" colspan="2">biome=7
+</th></tr>
+<tr>
+<td rowspan="4" style="text-align:center;font-weight: bold;"><a href="/Games/Lord_of_the_Test/Plants" title="Games/Lord of the Test/Plants">plants</a>
+</td>
+<td><a href="/Jungle_Grass" title="Jungle Grass">jungle grass</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Plants#Elanor" title="Games/Lord of the Test/Plants">elanor</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Plants#Lissuin" title="Games/Lord of the Test/Plants">lissuin</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Plants#Niphredil" title="Games/Lord of the Test/Plants">niphredil</a>
+</td></tr>
+<tr>
+<td rowspan="1" style="text-align:center;font-weight: bold;"><a href="/Games/Lord_of_the_Test/Trees" title="Games/Lord of the Test/Trees">trees</a>
+</td>
+<td><a href="/Games/Lord_of_the_Test/Trees#Mallorn" title="Games/Lord of the Test/Trees">mallorn tree</a>
+</td></tr>
+</tbody></table>
+<div style="clear:both"></div>
+<h3><span class="mw-headline" id="Fangorn">Fangorn</span></h3>
+<p>Realm of the Moving Trees. Fangorn grass form the surface of the land, but it is covered by the wide variety of trees that decided to make their home here; some of which include apple trees, plum trees, oak trees, and rowan trees, distinct trees with attractive red berries. Tall birches and elms will also grow in the canopy layer of the forested region. A wide variety of plants can also be spotted here, a great place to find farming crops. Moving trees, Ents, roam the land, guardians of the trees, protecting the land way from the evil Uruk Hai, forces of Saruman that will occasionally roam the land to search for wood.
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:402px;"><a href="/File:Fangorn.png" class="image"><img alt="Fangorn.png" src="/images/thumb/3/37/Fangorn.png/400px-Fangorn.png" decoding="async" width="400" height="300" class="thumbimage" srcset="/images/thumb/3/37/Fangorn.png/600px-Fangorn.png 1.5x, /images/3/37/Fangorn.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Fangorn.png" class="internal" title="Enlarge"></a></div></div></div></div>
+<table class="wikitable" style="margin-left: auto;">
+<caption>Biome specifications
+</caption>
+<tbody><tr>
+<th style="text-align:center;width:200px" colspan="2">biome=9
+</th></tr>
+<tr>
+<td rowspan="10" style="text-align:center;font-weight: bold;"><a href="/Games/Lord_of_the_Test/Plants" title="Games/Lord of the Test/Plants">plants</a>
+</td>
+<td><a href="/Games/Lord_of_the_Test/Plants#Barley" title="Games/Lord of the Test/Plants">barley</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Plants#Berries" title="Games/Lord of the Test/Plants">berries</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Plants#Cabbage" title="Games/Lord of the Test/Plants">cabbage</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Plants#Corn" title="Games/Lord of the Test/Plants">corn</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Plants#Melons" title="Games/Lord of the Test/Plants">melons</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Plants#Mushrooms" title="Games/Lord of the Test/Plants">mushrooms</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Plants#Pipeweed" title="Games/Lord of the Test/Plants">pipeweed</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Plants#Potatoes" title="Games/Lord of the Test/Plants">potatoes</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Plants#Tomatoes" title="Games/Lord of the Test/Plants">tomatoes</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Plants#Turnips" title="Games/Lord of the Test/Plants">turnips</a>
+</td></tr>
+<tr>
+<td rowspan="5" style="text-align:center;font-weight: bold;"><a href="/Games/Lord_of_the_Test/Trees" title="Games/Lord of the Test/Trees">trees</a>
+</td>
+<td><a href="/Games/Lord_of_the_Test/Trees#Apple" title="Games/Lord of the Test/Trees">apple tree</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Trees#Birch" title="Games/Lord of the Test/Trees">birch tree</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Trees#Elm" title="Games/Lord of the Test/Trees">elm tree</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Trees#Oak" title="Games/Lord of the Test/Trees">oak tree</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Trees#Plum" title="Games/Lord of the Test/Trees">plum tree</a>
+</td></tr>
+</tbody></table>
+<div style="clear:both"></div>
+<h3><span class="mw-headline" id="Mirkwood">Mirkwood</span></h3>
+<p>Dark and corrupted forested region. Found on the surface is dark mirkwood grass. Huge Mirkwood Trees and Jungle Trees cover the floor of the forest from any light. In the dark corners of the forest, huge spiders the size of humans search for prey, anyone who is ignorant enough to venture into their lair.
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:402px;"><a href="/File:Mirkwood.png" class="image"><img alt="Mirkwood.png" src="/images/thumb/4/43/Mirkwood.png/400px-Mirkwood.png" decoding="async" width="400" height="300" class="thumbimage" srcset="/images/thumb/4/43/Mirkwood.png/600px-Mirkwood.png 1.5x, /images/4/43/Mirkwood.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mirkwood.png" class="internal" title="Enlarge"></a></div></div></div></div>
+<table class="wikitable" style="margin-left: auto;">
+<caption>Biome specifications
+</caption>
+<tbody><tr>
+<th style="text-align:center;width:200px" colspan="2">biome=10
+</th></tr>
+<tr>
+<td rowspan="1" style="text-align:center;font-weight: bold;"><a href="/Games/Lord_of_the_Test/Plants" title="Games/Lord of the Test/Plants">plants</a>
+</td>
+<td>nothing special
+</td></tr>
+<tr>
+<td rowspan="2" style="text-align:center;font-weight: bold;"><a href="/Games/Lord_of_the_Test/Trees" title="Games/Lord of the Test/Trees">trees</a>
+</td>
+<td><a href="/Games/Lord_of_the_Test/Trees#Mirkwood" title="Games/Lord of the Test/Trees">mirkwood tree</a>
+</td></tr>
+<tr>
+<td><a href="/Trees#Jungle_trees" title="Trees">jungle tree</a>
+</td></tr>
+</tbody></table>
+<div style="clear:both"></div>
+<h3><span class="mw-headline" id="Mordor">Mordor</span></h3>
+<p>Evil, gloomy and dangerous lands of the Sauron forces. Dark ash filled stone, Mordor Stone, fill the land with spiky Brambles of Mordor. The only trees found here are ones that are burned. This land is the result of the volcanic eruptions and massive destruction. Sauron's forces formed by Orcs, Uruk Hai, and Battle Trolls constantly guard the land, making the land unsafe to venture. <i>One does not simply walk into Mordor.</i>
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:402px;"><a href="/File:Mordor.png" class="image"><img alt="Mordor.png" src="/images/thumb/6/6a/Mordor.png/400px-Mordor.png" decoding="async" width="400" height="300" class="thumbimage" srcset="/images/thumb/6/6a/Mordor.png/600px-Mordor.png 1.5x, /images/6/6a/Mordor.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mordor.png" class="internal" title="Enlarge"></a></div></div></div></div>
+<table class="wikitable" style="margin-left: auto;">
+<caption>Biome specifications
+</caption>
+<tbody><tr>
+<th style="text-align:center;width:200px" colspan="2">biome=8
+</th></tr>
+<tr>
+<td rowspan="1" style="text-align:center;font-weight: bold;"><a href="/Games/Lord_of_the_Test/Plants" title="Games/Lord of the Test/Plants">plants</a>
+</td>
+<td><a href="/Games/Lord_of_the_Test/Plants#Brambles" title="Games/Lord of the Test/Plants">brambles</a>
+</td></tr>
+<tr>
+<td rowspan="1" style="text-align:center;font-weight: bold;"><a href="/Games/Lord_of_the_Test/Trees" title="Games/Lord of the Test/Trees">trees</a>
+</td>
+<td>none
+</td></tr>
+</tbody></table>
+<div style="clear:both"></div>
+<h3><span class="mw-headline" id="Iron_Hills">Iron Hills</span></h3>
+<p>A heaven of iron for dwarves. These hills make perfect mines.
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:402px;"><a href="/File:Iron_hills.png" class="image"><img alt="Iron hills.png" src="/images/thumb/0/01/Iron_hills.png/400px-Iron_hills.png" decoding="async" width="400" height="300" class="thumbimage" srcset="/images/thumb/0/01/Iron_hills.png/600px-Iron_hills.png 1.5x, /images/0/01/Iron_hills.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Iron_hills.png" class="internal" title="Enlarge"></a></div></div></div></div>
+<table class="wikitable" style="margin-left: auto;">
+<caption>Biome specifications
+</caption>
+<tbody><tr>
+<th style="text-align:center;width:200px" colspan="2">biome=11
+</th></tr>
+<tr>
+<td rowspan="1" style="text-align:center;font-weight: bold;"><a href="/Games/Lord_of_the_Test/Plants" title="Games/Lord of the Test/Plants">plants</a>
+</td>
+<td>nothing special
+</td></tr>
+<tr>
+<td rowspan="3" style="text-align:center;font-weight: bold;"><a href="/Games/Lord_of_the_Test/Trees" title="Games/Lord of the Test/Trees">trees</a>
+</td>
+<td><a href="/Games/Lord_of_the_Test/Trees#Beech" title="Games/Lord of the Test/Trees">beech tree</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Trees#Pine" title="Games/Lord of the Test/Trees">pine tree</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Trees#Fir" title="Games/Lord of the Test/Trees">fir tree</a>
+</td></tr>
+</tbody></table>
+<div style="clear:both"></div>
+<h3><span class="mw-headline" id="Dunland">Dunland</span></h3>
+<p>The hills where the wild Dunlendings live.
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:402px;"><a href="/File:Dunland.png" class="image"><img alt="Dunland.png" src="/images/thumb/8/83/Dunland.png/400px-Dunland.png" decoding="async" width="400" height="300" class="thumbimage" srcset="/images/thumb/8/83/Dunland.png/600px-Dunland.png 1.5x, /images/8/83/Dunland.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Dunland.png" class="internal" title="Enlarge"></a></div></div></div></div>
+<table class="wikitable" style="margin-left: auto;">
+<caption>Biome specifications
+</caption>
+<tbody><tr>
+<th style="text-align:center;width:200px" colspan="2">biome=4
+</th></tr>
+<tr>
+<td rowspan="1" style="text-align:center;font-weight: bold;"><a href="/Games/Lord_of_the_Test/Plants" title="Games/Lord of the Test/Plants">plants</a>
+</td>
+<td><a href="/Grass" title="Grass">grass</a>
+</td></tr>
+<tr>
+<td rowspan="1" style="text-align:center;font-weight: bold;"><a href="/Games/Lord_of_the_Test/Trees" title="Games/Lord of the Test/Trees">trees</a>
+</td>
+<td><a href="/Games/Lord_of_the_Test/Trees#Apple" title="Games/Lord of the Test/Trees">apple tree</a>
+</td></tr>
+</tbody></table>
+<div style="clear:both"></div>
+<h3><span class="mw-headline" id="Ithilien">Ithilien</span></h3>
+<p>The most eastern part of Gondor has a beautifull landscape with a variety of plants and trees.
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:402px;"><a href="/File:Ithilien.png" class="image"><img alt="Ithilien.png" src="/images/thumb/7/72/Ithilien.png/400px-Ithilien.png" decoding="async" width="400" height="300" class="thumbimage" srcset="/images/thumb/7/72/Ithilien.png/600px-Ithilien.png 1.5x, /images/7/72/Ithilien.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Ithilien.png" class="internal" title="Enlarge"></a></div></div></div></div>
+<table class="wikitable" style="margin-left: auto;">
+<caption>Biome specifications
+</caption>
+<tbody><tr>
+<th style="text-align:center;width:200px" colspan="2">biome=6
+</th></tr>
+<tr>
+<td rowspan="14" style="text-align:center;font-weight: bold;"><a href="/Games/Lord_of_the_Test/Plants" title="Games/Lord of the Test/Plants">plants</a>
+</td>
+<td><a href="/Games/Lord_of_the_Test/Plants#Asphodel" title="Games/Lord of the Test/Plants">asphodel</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Plants#Anemones" title="Games/Lord of the Test/Plants">anemones</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Plants#Barley" title="Games/Lord of the Test/Plants">barley</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Plants#Berries" title="Games/Lord of the Test/Plants">berries</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Plants#Cabbage" title="Games/Lord of the Test/Plants">cabbage</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Plants#Corn" title="Games/Lord of the Test/Plants">corn</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Plants#Eglantive" title="Games/Lord of the Test/Plants">eglantive</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Plants#Iris" title="Games/Lord of the Test/Plants">iris</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Plants#Melons" title="Games/Lord of the Test/Plants">melons</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Plants#Mushrooms" title="Games/Lord of the Test/Plants">mushrooms</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Plants#Pipeweed" title="Games/Lord of the Test/Plants">pipeweed</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Plants#Potatoes" title="Games/Lord of the Test/Plants">potatoes</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Plants#Tomatoes" title="Games/Lord of the Test/Plants">tomatoes</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Plants#Turnips" title="Games/Lord of the Test/Plants">turnips</a>
+</td></tr>
+<tr>
+<td rowspan="5" style="text-align:center;font-weight: bold;"><a href="/Games/Lord_of_the_Test/Trees" title="Games/Lord of the Test/Trees">trees</a>
+</td>
+<td><a href="/Games/Lord_of_the_Test/Trees#Apple" title="Games/Lord of the Test/Trees">apple tree</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Trees#Culumalda" title="Games/Lord of the Test/Trees">culumalda tree</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Trees#Elm" title="Games/Lord of the Test/Trees">elm tree</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Trees#Lebethron" title="Games/Lord of the Test/Trees">lebethron tree</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Trees#Plum" title="Games/Lord of the Test/Trees">plum tree</a>
+</td></tr>
+</tbody></table>
+<div style="clear:both"></div>
+<h3><span class="mw-headline" id="Gondor">Gondor</span></h3>
+<p>Home of the proud men. 
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:402px;"><a href="/File:Gondor.png" class="image"><img alt="Gondor.png" src="/images/thumb/8/8f/Gondor.png/400px-Gondor.png" decoding="async" width="400" height="300" class="thumbimage" srcset="/images/thumb/8/8f/Gondor.png/600px-Gondor.png 1.5x, /images/8/8f/Gondor.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Gondor.png" class="internal" title="Enlarge"></a></div></div></div></div>
+<table class="wikitable" style="margin-left: auto;">
+<caption>Biome specifications
+</caption>
+<tbody><tr>
+<th style="text-align:center;width:200px" colspan="2">biome=5
+</th></tr>
+<tr>
+<td rowspan="10" style="text-align:center;font-weight: bold;"><a href="/Games/Lord_of_the_Test/Plants" title="Games/Lord of the Test/Plants">plants</a>
+</td>
+<td><a href="/Games/Lord_of_the_Test/Plants#Barley" title="Games/Lord of the Test/Plants">barley</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Plants#Berries" title="Games/Lord of the Test/Plants">berries</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Plants#Cabbage" title="Games/Lord of the Test/Plants">cabbage</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Plants#Corn" title="Games/Lord of the Test/Plants">corn</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Plants#Mallos" title="Games/Lord of the Test/Plants">mallos</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Plants#Mushrooms" title="Games/Lord of the Test/Plants">mushrooms</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Plants#Pipeweed" title="Games/Lord of the Test/Plants">pipeweed</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Plants#Potatoes" title="Games/Lord of the Test/Plants">potatoes</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Plants#Tomatoes" title="Games/Lord of the Test/Plants">tomatoes</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Plants#Turnips" title="Games/Lord of the Test/Plants">turnips</a>
+</td></tr>
+<tr>
+<td rowspan="5" style="text-align:center;font-weight: bold;"><a href="/Games/Lord_of_the_Test/Trees" title="Games/Lord of the Test/Trees">trees</a>
+</td>
+<td><a href="/Games/Lord_of_the_Test/Trees#Apple" title="Games/Lord of the Test/Trees">apple tree</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Trees#Elm" title="Games/Lord of the Test/Trees">elm tree</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Trees#Plum" title="Games/Lord of the Test/Trees">plum tree</a>
+</td></tr>
+<tr>
+<td><a href="/Trees#Regular_trees" title="Trees">regular tree</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Trees#White" title="Games/Lord of the Test/Trees">white tree</a>
+</td></tr>
+</tbody></table>
+<div style="clear:both"></div>
+<h3><span class="mw-headline" id="Rohan">Rohan</span></h3>
+<p>Home of the horselords.
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:402px;"><a href="/File:Rohan.png" class="image"><img alt="Rohan.png" src="/images/thumb/3/35/Rohan.png/400px-Rohan.png" decoding="async" width="400" height="300" class="thumbimage" srcset="/images/thumb/3/35/Rohan.png/600px-Rohan.png 1.5x, /images/3/35/Rohan.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Rohan.png" class="internal" title="Enlarge"></a></div></div></div></div>
+<table class="wikitable" style="margin-left: auto;">
+<caption>Biome specifications
+</caption>
+<tbody><tr>
+<th style="text-align:center;width:200px" colspan="2">biome=12
+</th></tr>
+<tr>
+<td rowspan="11" style="text-align:center;font-weight: bold;"><a href="/Games/Lord_of_the_Test/Plants" title="Games/Lord of the Test/Plants">plants</a>
+</td>
+<td><a href="/Games/Lord_of_the_Test/Plants#Barley" title="Games/Lord of the Test/Plants">barley</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Plants#Berries" title="Games/Lord of the Test/Plants">berries</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Plants#Cabbage" title="Games/Lord of the Test/Plants">cabbage</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Plants#Corn" title="Games/Lord of the Test/Plants">corn</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Plants#Melons" title="Games/Lord of the Test/Plants">melons</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Plants#Mushrooms" title="Games/Lord of the Test/Plants">mushrooms</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Plants#Pipeweed" title="Games/Lord of the Test/Plants">pipeweed</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Plants#Pilinehtar" title="Games/Lord of the Test/Plants">pilinehtar</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Plants#Potatoes" title="Games/Lord of the Test/Plants">potatoes</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Plants#Tomatoes" title="Games/Lord of the Test/Plants">tomatoes</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Plants#Turnips" title="Games/Lord of the Test/Plants">turnips</a>
+</td></tr>
+<tr>
+<td rowspan="4" style="text-align:center;font-weight: bold;"><a href="/Games/Lord_of_the_Test/Trees" title="Games/Lord of the Test/Trees">trees</a>
+</td>
+<td><a href="/Games/Lord_of_the_Test/Trees#Apple" title="Games/Lord of the Test/Trees">apple tree</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Trees#Elm" title="Games/Lord of the Test/Trees">elm tree</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Trees#Plum" title="Games/Lord of the Test/Trees">plum tree</a>
+</td></tr>
+<tr>
+<td><a href="/Trees#Regular_trees" title="Trees">regular tree</a>
+</td></tr>
+</tbody></table>
+<div style="clear:both"></div>
+<h3><span class="mw-headline" id="Shire">Shire</span></h3>
+<p>Home of the Hobbits. From where the long journey starts.
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:402px;"><a href="/File:Shire.png" class="image"><img alt="Shire.png" src="/images/thumb/e/e5/Shire.png/400px-Shire.png" decoding="async" width="400" height="300" class="thumbimage" srcset="/images/thumb/e/e5/Shire.png/600px-Shire.png 1.5x, /images/e/e5/Shire.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Shire.png" class="internal" title="Enlarge"></a></div></div></div></div>
+<table class="wikitable" style="margin-left: auto;">
+<caption>Biome specifications
+</caption>
+<tbody><tr>
+<th style="text-align:center;width:200px" colspan="2">biome=13
+</th></tr>
+<tr>
+<td rowspan="11" style="text-align:center;font-weight: bold;"><a href="/Games/Lord_of_the_Test/Plants" title="Games/Lord of the Test/Plants">plants</a>
+</td>
+<td><a href="/Games/Lord_of_the_Test/Plants#Barley" title="Games/Lord of the Test/Plants">barley</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Plants#Berries" title="Games/Lord of the Test/Plants">berries</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Plants#Cabbage" title="Games/Lord of the Test/Plants">cabbage</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Plants#Corn" title="Games/Lord of the Test/Plants">corn</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Plants#Melons" title="Games/Lord of the Test/Plants">melons</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Plants#Mushrooms" title="Games/Lord of the Test/Plants">mushrooms</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Plants#Pipeweed" title="Games/Lord of the Test/Plants">pipeweed</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Plants#Pilinehtar" title="Games/Lord of the Test/Plants">pilinehtar</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Plants#Potatoes" title="Games/Lord of the Test/Plants">potatoes</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Plants#Tomatoes" title="Games/Lord of the Test/Plants">tomatoes</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Plants#Turnips" title="Games/Lord of the Test/Plants">turnips</a>
+</td></tr>
+<tr>
+<td rowspan="4" style="text-align:center;font-weight: bold;"><a href="/Games/Lord_of_the_Test/Trees" title="Games/Lord of the Test/Trees">trees</a>
+</td>
+<td><a href="/Games/Lord_of_the_Test/Trees#Apple" title="Games/Lord of the Test/Trees">apple tree</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Trees#Oak" title="Games/Lord of the Test/Trees">oak tree</a>
+</td></tr>
+<tr>
+<td><a href="/Games/Lord_of_the_Test/Trees#Plum" title="Games/Lord of the Test/Trees">plum tree</a>
+</td></tr>
+<tr>
+<td><a href="/Trees#Regular_trees" title="Trees">regular tree</a>
+</td></tr>
+</tbody></table>
+<div style="clear:both"></div>
+<table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> Language:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><b><a class="mw-selflink selflink">English</a></b>&#160;• <bdi lang="de"><a href="/Games/Lord_of_the_Test/Biomes/de" title="Games/Lord of the Test/Biomes/de">Deutsch</a></bdi></td>
+</tr></tbody></table>
+<!-- 
+NewPP limit report
+Cached time: 20230709053625
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.554 seconds
+Real time usage: 0.796 seconds
+Preprocessor visited node count: 1832/1000000
+Post‐expand include size: 15080/2097152 bytes
+Template argument size: 3372/2097152 bytes
+Highest expansion depth: 6/40
+Expensive parser function count: 14/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.120/7 seconds
+Lua virtual size: 5.54 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  472.437      1 -total
+ 63.68%  300.829      2 Template:Languages
+ 17.25%   81.482    119 Template:Gamelink
+  7.13%   33.691      1 Template:TOC_right
+  4.65%   21.991     13 Template:-
+  2.65%   12.498      1 Template:TOC
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:1110-0!canonical and timestamp 20230709053624 and revision id 21280
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Games/Lord_of_the_Test/Biomes&amp;oldid=21280">http://wiki.minetest.net/index.php?title=Games/Lord_of_the_Test/Biomes&amp;oldid=21280</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li><li><a href="/Category:Lord_of_the_Test" title="Category:Lord of the Test">Lord of the Test</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Games%2FLord+of+the+Test%2FBiomes" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Games/Lord_of_the_Test/Biomes" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Games/Lord_of_the_Test/Biomes&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Games/Lord_of_the_Test/Biomes">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Games/Lord_of_the_Test/Biomes&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Games/Lord_of_the_Test/Biomes&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Games/Lord_of_the_Test/Biomes" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Games/Lord_of_the_Test/Biomes" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Games/Lord_of_the_Test/Biomes&amp;oldid=21280" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Games/Lord_of_the_Test/Biomes&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 6 June 2018, at 07:11.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.554","walltime":"0.796","ppvisitednodes":{"value":1832,"limit":1000000},"postexpandincludesize":{"value":15080,"limit":2097152},"templateargumentsize":{"value":3372,"limit":2097152},"expansiondepth":{"value":6,"limit":40},"expensivefunctioncount":{"value":14,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  472.437      1 -total"," 63.68%  300.829      2 Template:Languages"," 17.25%   81.482    119 Template:Gamelink","  7.13%   33.691      1 Template:TOC_right","  4.65%   21.991     13 Template:-","  2.65%   12.498      1 Template:TOC"]},"scribunto":{"limitreport-timeusage":{"value":"0.120","limit":"7"},"limitreport-virtmemusage":{"value":5808128,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709053625","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":590});});</script></body></html>

@@ -1,0 +1,314 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Minetest in der Schule/Anleitung Technic Mod/Handbuch Technic übersetzt - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"d2f8688b8a692437bf289e72","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Minetest_in_der_Schule/Anleitung_Technic_Mod/Handbuch_Technic_übersetzt","wgTitle":"Minetest in der Schule/Anleitung Technic Mod/Handbuch Technic übersetzt","wgCurRevisionId":8911,"wgRevisionId":8911,"wgArticleId":2187,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["German","Tutorials"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Minetest_in_der_Schule/Anleitung_Technic_Mod/Handbuch_Technic_übersetzt","wgRelevantArticleId":2187,
+"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=skins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Minetest_in_der_Schule_Anleitung_Technic_Mod_Handbuch_Technic_übersetzt rootpage-Minetest_in_der_Schule skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Minetest in der Schule/Anleitung Technic Mod/Handbuch Technic übersetzt</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/Minetest_in_der_Schule" title="Minetest in der Schule">Minetest in der Schule</a>&lrm; | <a href="/Minetest_in_der_Schule/Anleitung_Technic_Mod" title="Minetest in der Schule/Anleitung Technic Mod">Anleitung Technic Mod</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>Automatische Übersetzung des <a rel="nofollow" class="external text" href="https://github.com/minetest-technic/technic/blob/master/manual.md">Technic-Handbuches</a> 
+</p><p><br />
+Die Technik Modpack erweitert das Spiel Minetest mit vielen neuen Elementen, vor allem konstruierbar Maschinen und Werkzeuge. Es ist eine große Modpack und neigt Spiel zu beherrschen, wenn sie verwendet wird. Dieses Handbuch beschreibt, wie die Technik Modpack zu verwenden, vor allem aus der Sicht des Spielers.
+</p><p>Die Technik Modpack hängt von einigen anderen Altvordere:
+</p>
+<pre>   die grundlegende Minetest Spiel
+   mesecons, die den Bau von Logiksystemen auf Basis von Signalisierungselementen unterstützt
+   Verrohrungen, die die Automatisierung von Artikel Transport unterstützt
+   moreores, die einige zusätzliche Erz-Typen bietet
+</pre>
+<p>Dieses Handbuch erklärt nicht, wie diese Altvordere zu verwenden, was sein (aber nicht wirklich) ihre eigenen Handbücher haben.
+</p><p>Rezepte für konstruierbar Artikel in Technik sind in der Regel nicht zu erraten, und werden hier auch nicht speziell dokumentiert. Sie sollten ein Handwerk Führung mod verwenden, um die Rezepte im Spiel zu suchen. Für die bestmögliche Führung, verwenden Sie die unified_inventory mod, mit denen Technik ihre Sonderrezeptarten registriert.
+Substanzen
+Erz
+</p><p>Die Technik mod macht ausgiebig Gebrauch von nicht nur den Standard-Erzen aber auch einige, die von Mods hinzugefügt werden. Sie müssen für alle Erz-Typen im Laufe des Spiels zu verminen. Jede Erz-Typ wird in einem bestimmten Bereich von Erhebungen gefunden, und während die Bereiche meist überlappen, einige haben sich nicht überlappende Bereiche, so dass Sie letztlich auf mehr als eine Erhebung zur Mine müssen alle Erze zu finden. Auch, weil eine der besten Lagen in sehr tief zu schürfen, werden Sie zu meinem dort am Anfang des Spiels nicht in der Lage sein.
+</p><p>Elevation wird in Metern gemessen wird, relativ zu einer Bezugsebene, die nicht ganz dem Meeresspiegel. (Der Standard Meeresspiegel liegt auf einer Höhe von etwa 1,4.) Positive Höhen über der Bezugsebene sind und negative Erhebungen unten. Da Erhebungen auf diese Weise immer beschrieben sind rund, größere Zahlen als höher, vermeiden wir das Wort "Tiefe".
+</p><p>Die Erze, die in Technik Materie sind Kohle, Eisen, Kupfer, Zinn, Zink, Chrom, Uran, Silber, Gold, Mithril, mese und Diamant.
+</p><p>Kohle ist Teil der Grundminetest Spiel. Es wird von der Erhebung 64 nach unten gefunden, so vorhanden direkt an der Oberfläche zu Beginn des Spiels ist es, aber es ist weit weniger häufig über Elevation 0 als unten. Es wird zunächst als Brennstoff, Fahr wichtige Maschinen in der ersten Hälfte des Spiels verwendet. Es wird weniger wichtig als Brennstoff einmal die meisten Ihrer Maschinen elektrisch angetrieben sind, aber Kraftstoff brennen bleibt eine Möglichkeit, elektrische Energie zu erzeugen. Kohle wird auch, in der Regel in Staubform, als Zutat in Legieren Rezepten verwendet, wo immer elementarer Kohlenstoff erforderlich ist.
+</p><p>Eisen ist Bestandteil des Grundminetest Spiel. Es wird von der Erhebung 2 nach unten, und seine Fülle steigt in Stufen gefunden, wie man absteigt, von der Erhebung ihr Maximum erreichte -64 nach unten. Es ist ein gemeinsames Metall, häufig als Strukturkomponente verwendet. In Technik, im Gegensatz zu dem Grundspiel, Eisen wird in verschiedenen Formen verwendet, Legierungen, die hauptsächlich auf Basis von Eisen und einschließlich Kohlenstoff (Kohle).
+</p><p>Kupfer ist Teil der Grundminetest Spiel (es von moreores migriert haben). Es wird von der Erhebung -16 nach unten gefunden, ist aber reichlich von Elevation -64 nach unten. Es ist ein gemeinsames Metall, verwendet entweder allein für seine elektrische Leitfähigkeit, oder als Basiskomponente von Legierungen. Obwohl häufig vorkommend, ist es sehr stark genutzt, und die meiste Zeit wird es das Material sein, das die meisten Ihrer Aktivität einschränkt.
+</p><p>Zinn wird von der moreores mod geliefert. Es wird von der Erhebung 8 nach unten, ohne Höhenabhängige Variationen in Hülle und Fülle über diesen Punkt hinaus gefunden. Es ist ein gemeinsames Metall. Seine Hauptaufgabe in reiner Form ist als Bestandteil von elektrischen Batterien. Abgesehen davon, dass ihr Hauptzweck ist als Sekundärbestandteil in Bronze (wobei die Basis Kupfer), aber Bronze ist selbst wenig genutzt. Seine Fülle ist weit über seine Nutzung, so dass Sie in der Regel einen Überschuss davon haben.
+</p><p>Zink wird durch Technik geliefert. Es wird von der Erhebung 2 nach unten, ohne Höhenabhängige Variationen in Hülle und Fülle über diesen Punkt hinaus gefunden. Es ist ein gemeinsames Metall. Sein Hauptzweck ist als Sekundärbestandteil in Messing (wobei die Basis Kupfer), aber Messing ist selbst wenig genutzt. Seine Fülle ist weit über seine Nutzung, so dass Sie in der Regel einen Überschuss davon haben.
+</p><p>Chrom wird durch Technik geliefert. Es ist aus der Höhe -100 nach unten, ohne Höhenabhängige Variationen in Hülle und Fülle über diesen Punkt hinaus gefunden. Es ist ein mäßig gemeinsamen Metall. Sein Hauptzweck ist als Sekundärbestandteil in Edelstahl (die Basis Eisen).
+</p><p>Uran wird durch Technik geliefert. Es wird nur von der Erhebung -80 bis -300 gefunden; indem es erfordert daher eine -300 oben Höhe abzubauen, obwohl tiefer Bergbau sonst produktiver ist. Es ist ein mäßig Metall, soweit sinnvoll nur aus Gründen der Radioaktivität bezogen werden: es den Brennstoff für Kernreaktoren bildet, und ist auch einer der Strahlungsabschirmungsmaterialien erhältlich. Es ist nicht schwer genug Uranerz zu finden, um diese Anwendungen zu befriedigen. Beachten Sie, dass das Erz leicht radioaktiv ist: es wird Ihnen leicht schaden, wenn Sie so nah wie möglich zu ihm stehen. Es ist sicher, wenn mehr als einen Meter entfernt, oder wenn bestimmt.
+</p><p>Silber wird durch die moreores mod geliefert. Es wird von der Erhebung -2 nach unten, ohne Höhenabhängige Variationen in Hülle und Fülle über diesen Punkt hinaus gefunden. Es ist ein Halbedelmetall. Es wird wenig genutzt, wobei vor allem aufgrund seiner Leitfähigkeit in elektrischen Geräten verwendet, die beste Leiter aller reinen Elemente zu sein.
+</p><p>Gold ist Teil der Grundminetest Spiel (migriert haben dort von moreores). Es wird von der Erhebung -64 nach unten gefunden, ist aber reichlich von Elevation -256 nach unten. Es ist ein Edelmetall. Es wird wenig genutzt, wobei vor allem aufgrund seiner Kombination aus guter Leitfähigkeit in elektrischen Geräten verwendet (drittbeste aller reinen Elemente) und Korrosionsbeständigkeit.
+</p><p>Mithril wird durch die moreores mod geliefert. Es ist aus der Höhe -512 nach unten, die tiefste Decke jeder minable Substanz, ohne Erhebung abhängige Variationen in Hülle und Fülle über diesen Punkt hinaus gefunden. Es ist ein seltenes Edelmetall, und im Gegensatz zu allen anderen Metallen hier beschrieben ist es völlig fiktiv, von J. R. R. Tolkien Mittelerde Einstellung abgeleitet wird. Es wird wenig genutzt.
+</p><p>Mese ist Teil der Grundminetest Spiel. Es wird von der Erhebung -64 nach unten gefunden. Das Erz ist häufiger von Elevation -256 nach unten und von der Erhebung -1024 nach unten gibt es auch gelegentliche Blöcke fester mese (jeweils so viel mese als neun Blöcke Erz Nachgeben). Es ist ein Edelstein, und im Gegensatz zu Diamant ist völlig fiktiv. Es wird in vielen Rezepten, obwohl in erster Linie nicht in großen Mengen verwendet werden, wo auch immer eine magische Qualität verliehen werden muss.
+</p><p>Diamant ist ein Teil der Grundminetest Spiel (es aus Technik migriert haben). Es ist aus der Höhe -128 nach unten gefunden, ist aber reichlich von Elevation -256 nach unten. Es ist ein Edelstein. Es ist mit seiner extremen Härte mäßig, vor allem aus Gründen verwendet.
+Rock
+</p><p>Zusätzlich zu den Erzen, gibt es mehrere Arten von Gestein, das in ihrem eigenen Recht zu werden abgebaut müssen, anstatt für Mineralien. Die Gesteinstypen, die in Technik wichtig sind Standard Stein, Wüste aus Stein, Marmor und Granit.
+</p><p>Standard-Stein ist ein Teil der Grundminetest Spiel. Es ist sehr häufig. Wie im Grundspiel, wenn gegraben es ergibt Pflasterstein, die es wieder gekocht werden kann in Standard-Stein zu verwandeln. Cobblestone in Rezepte nur für einige relativ primitiven Maschinen verwendet. Standard-Stein wird in ein paar Maschinen Rezepte verwendet. Diese Gesteinsarten gewinnen zusätzliche Bedeutung mit Technik, da die Mühle verwendet werden, können sie in Schmutz und Sand zu machen. Dies vor allem, wenn sie mit einem automatisierten cobblestone Generator kombiniert wird, kann ein einfacher Weg sein Sand zu erwerben, als es zu sammeln, wo es natürlicherweise vorkommt.
+</p><p>Wüstenstein ist Teil der Grundminetest Spiel. Es ist speziell in der Wüste Biome gefunden, und nur von der Erhebung 2 nach oben. Obwohl es leicht zugänglich ist, ist daher die Menge letztlich sehr begrenzt. Es wird in ein paar Rezepte verwendet.
+</p><p>Marmor wird durch Technik geliefert. Es wird in dichten Büscheln von Elevation -50 nach unten gefunden. Es hat vor allem den dekorativen Einsatz, sondern erscheint auch in einer Maschine Rezept.
+</p><p>Granit ist durch Technik geliefert. Es wird in dichten Büscheln von Elevation -150 nach unten gefunden. Es ist viel schwieriger zu graben, als Standard-Stein, so Bergbau behindert, wenn es auftritt. Es hat vor allem den dekorativen Einsatz, scheint aber auch in ein paar Maschinen Rezepte.
+Gummi
+</p><p>Gummi ist ein biologisch abgeleitetes Material, das industrielle Anwendungen aufgrund seiner spezifischen elektrischen Widerstand und seine Undurchlässigkeit hat. In Technik, wird es in ein paar Rezepte verwendet, und es muss durch Antippen Gummibäume erworben werden.
+</p><p>Wenn Sie die moretrees Mod installiert haben, werden die Gummibäume Sie brauchen, sind diejenigen, die durch diese mod definiert. Wenn nicht, Technik liefert eine Kopie des moretrees Gummibaum.
+</p><p>Extrahieren von Gummi erfordert ein bestimmtes Werkzeug, einen Baum Hahn. Mit Hilfe der Baumhahn (durch Linksklick) auf einem Gummibaumstamm Block extrahiert ein Stück rohes Latex aus dem Kofferraum. Jeder Stamm Block kann immer wieder für Latex angezapft werden, in Abständen von mehreren Minuten; sein Aussehen ändert zu zeigen, ob es für die Erschließung zur Zeit reif ist. Jeder Baum hat mehrere Stamm-Blöcke, so dass mehrere Latex Klumpen können von einem Baum in einem Besuch extrahiert werden.
+</p><p>Raw Latex wird nicht direkt verwendet. Es muss vulkanisiert werden fertigen Gummi herzustellen. Dies kann durch Legieren des Latex mit Kohlenstaub durchgeführt werden.
+Metall
+</p><p>Viele der Substanzen wichtig in Technic sind Metalle, und es ist ein gemeinsames Muster, wie Metallen behandelt werden. Im Allgemeinen kann jedes Metall in fünf Formen existieren: Erz, Klumpen, Staub, Barren und Block. Mit ein paar knifflige Ausnahmen in Mods außerhalb Technik, Metalle werden nur in Staub, Barren und Blockformen verwendet. Metalle können leicht zwischen diesen drei Formen überführt werden, kann aber nicht von ihnen zurück zu Erz oder Klumpenformen überführt werden.
+</p><p>Wie in der Grundminetest-Spiel, ein "Klumpen" aus Metall wird direkt erworben Erz durch das Graben und wird dann für die Verwendung in einer anderen Form weiterverarbeitet werden. Ein Klumpen ist also eher als die auf raffinierte Metall zu Erz. (Im wirklichen Leben Metallerzreduktion ergibt selten Klumpen ( "Nuggets") aus reinem Metall direkt. Häufiger das gewünschte Metall chemisch in das Gestein als Oxid oder eine andere Verbindung gebunden ist, und das Erz verarbeitet werden müssen chemisch reines Metall zu erhalten .)
+</p><p>Nicht alle Metalle kommen direkt als Erz. Im allgemeinen elementare Metalle (jene eines einzelnen chemischen Elementes bestehend) auftreten, wie Erz, und Legierungen (die aus einem Gemisch von mehreren Elementen) nicht. In der Tat ist, wenn die fiktive Mithril elementares genommen zu sein, wird dieses Muster zur Zeit perfekt gefolgt. (Es ist nicht klar, in der Middle-Earth eingestellt wird, ob Mithril elementar ist oder eine Legierung.) Dies kann sich in Zukunft ändern: im wirklichen Leben einige Legierungen wie Erz auftreten, und einige elementare Metalle treten selten natürlich außerhalb solcher Legierungen. Metalle, die als Erz nicht auch auftreten, fehlt die "Klumpen" zu bilden.
+</p><p>Die grundlegende Minetest Spiel bietet eine einzige Art und Weise Metalle zu verfeinern: kochen einen Klumpen in einem Ofen um einen Block zu erzeugen. Mit Technik besteht diese Verfeinerung Methode immer noch, aber nur selten außerhalb der ersten Hälfte des Spiels verwendet, da Technik eine effizientere Methode bietet einmal einige Maschinen gebaut wurden. Die Mühle, nur in elektrisch betriebenen Formen kann ein Metallklumpen in zwei Stapel von Metallstaub zermahlen. Jeder Staub Stapel kann dann in einen Barren gekocht werden, wodurch man zwei Barren aus einem Klumpen. Diese Verdoppelung der Materialwert bedeutet, dass Sie nur einen Klumpen direkt kochen sollten, wenn Sie keine andere Wahl haben, vor allem am Anfang des Spiels, wenn Sie noch nicht mit einer Schleifmaschine gebaut.
+</p><p>Ein Block kann auch wieder auf (ein Haufen) Staub gemahlen werden. Somit ist es immer möglich, Metall zwischen Barren und Staub Formen zu konvertieren, auf Kosten eines gewissen Energieverbrauch. Neun Blöcken aus einem Metall, zu einem Block gefertigt werden, die für den Aufbau verwendet werden kann. Der Block kann auch wieder auf neun Barren gefertigt werden. Somit ist es möglich, Metall zwischen Barren und Blockformen frei zu konvertieren, die das Metall kompakt zu speichern bequem ist. Jedes Metall hat Staub, Barren und Blockformen.
+</p><p>Rezepte in dem ein Metall ist der Basisbestandteil Legieren, eine Metalllegierung, immer kommen in zwei Formen, wobei das Metall entweder als Staub oder als Barren herzustellen. Wenn der Sekundärbestandteil ist auch ein Metall ist, muss es in der gleichen Form wie der Grundbestandteil zugeführt werden. Die Ausgangslegierung wird ebenfalls in der gleichen Form zurückgeführt. Zum Beispiel Messing kann durch Legieren zwei Kupferbarren mit einem Zink-Barren hergestellt werden, um drei Messingblöcke zu machen, oder durch Legieren zwei Stapel von Kupferstaub mit einem Haufen von Zinkstaub drei Haufen von Messing Staub zu machen. Die beiden Arten der Legierungs erzeugen gleichwertige Ergebnisse.
+Eisen und seine Legierungen
+</p><p>Eisen bildet mehrere wichtige Legierungen. In realen Geschichte, war Eisen das zweite Metall als Basiskomponente von bewusst konstruierten Legierungen verwendet werden (der erste war Kupfer), und es war das erste Metall, dessen Arbeit erforderlichen Prozesse aller metallurgischen Raffinesse. Die Spielmechanik um Eisen imitieren im Großen und Ganzen den historischen Verlauf der Prozesse rund um sie, anstatt die weniger vielfältig moderne Verfahren.
+</p><p>Die Zweikomponenten-Legierungssystem von Eisen mit Kohlenstoff ist von großer Bedeutung, sowohl im Spiel und im wirklichen Leben. Die grundlegende Minetest Spiel unterscheidet nicht zwischen diesen reinem Eisen und diesen Legierungen überhaupt, aber Technik führt eine Unterscheidung auf den Kohlenstoffgehalt basiert und benennt einige Elemente des Grundspiels entsprechend.
+</p><p>Das Eisen / Kohlenstoff-Spektrum wird im Spiel durch drei Metallsubstanzen dargestellt: Schmiedeeisen, Kohlenstoffstahl und Gusseisen. Schmiedeeisen hat einen niedrigen Kohlenstoffgehalt (weniger als 0,25%), widersteht bewegend, und ist leicht geschweißt, sondern ist relativ weich und anfällig für Rosten. In realen Geschichte war es für Schienen, Tore, Ketten, Draht, Rohre, Schrauben und andere Zwecke verwendet werden. Gusseisen hat einen hohen Kohlenstoffgehalt (2,1% bis 4%), ist besonders hart und korrosionsbeständig, ist aber relativ spröde und schwer zu arbeiten. Historisch wurde es verwendet, große Strukturen zu bauen, wie Brücken, und für Kanonen, Kochgeschirr und Motorzylinder. Kohlenstoffstahl hat mit mittlerem Kohlenstoffgehalt (0,25% bis 2,1%), und Zwischen Eigenschaften: mäßig hart und auch hart, etwas resistent gegen Korrosion. Im wirklichen Leben ist es jetzt für die meisten Zwecke bisher zufrieden mit Schmiedeeisen und viele von denen, von Gusseisen verwendet, aber seit jeher besonders wichtig für seine Verwendung in der Schwerter, Rüstungen, Wolkenkratzer, große Brücken und Maschinen.
+</p><p>In realen Geschichte, aus Eisen die erste Form verfeinert werden war Schmiedeeisen, die fast reines Eisen ist, mit niedrigem Kohlenstoffgehalt. Es wurde aus Erz durch eine Niedertemperatur-Ofenprozess (der "bloomery"), in dem das Erz / Eisen fest bleibt und Verunreinigungen (Schlacke) erzeugt werden schrittweise durch Hämmern ( "arbeiten", also "wrought") entfernt. Das begann in den Nahen Osten, um 1800 v.Chr.
+</p><p>Historisch gesehen, auf die nächste Formen von Eisen verfeinert werden, waren die von hohem Kohlenstoffgehalt. Dies war das Ergebnis der Entwicklung einer anspruchsvolleren Art von Ofen, Hochofen, der fähig höheren Temperaturen zu erreichen. Der eigentliche Vorteil des Hochofens ist, dass es das Metall schmilzt, so dass sie direkt in eine durch eine Form zugeführt Form gegossen werden, anstatt allmählich in die gewünschte Form zu schlagen. Ein Nebeneffekt des Hochofens ist, daß Kohlenstoff aus dem Brennstoff des Ofens zwangsläufig in das Metall eingearbeitet ist. Normalerweise wird Eisen zweimal durch den Hochofen verarbeitet: einmal "Roheisen", die Inhalte und viele sehr hohe Kohlenstoff an Verunreinigungen produziert, aber niedriger Schmelzpunkt, ist es in grobe Ingots Gießen, dann das Roheisen Umschmelzen und es in die letzten Formen gegossen . Das Ergebnis wird als "Gusseisen" bezeichnet. Roheisen wurde zum ersten Mal in China um 1200 BCE produziert und Gusseisen später im 5. Jahrhundert vor Christus. Im Übrigen haben die Chinesen nicht die bloomery Prozess, so war dies ihre erste Eisenveredelungsprozess, und im Gegensatz zum Rest der Welt, ihre erste Schmiedeeisen aus Roheisen hergestellt wurde und nicht direkt aus dem Erz.
+</p><p>Kohlenstoffstahl, mit Zwischenkohlenstoffgehalt, wurde erst viel später entwickelt, in Europa im 17. Jahrhundert CE. Es erforderte ein anspruchsvolleres Verfahren, weil der Hochofen war es extrem schwierig, einen kontrollierten Kohlenstoffgehalt zu erreichen. Tweaks des Hochofens würde manchmal einen Zwischenkohlenstoffgehalt von Glück erzeugen, aber die ersten Prozesse zuverlässig Stahl produzieren beruhten auf Entfernen fast alle Kohlenstoff aus Roheisen und dann explizit eine kontrollierte Menge an Kohlenstoff wieder in Misch.
+</p><p>Im Spiel wird der bloomery Prozess durch gewöhnliche Kochen oder Schleifen eines Eisenklumpen vertreten. Der Knoten repräsentiert nicht verarbeitete Erz, und wird nur als "Eisen", nicht speziell als Schmiedeeisen identifiziert. Dieser Standard Veredelungsprozess erzeugt Staub oder einen Barren, die als Schmiedeeisen speziell identifiziert wird. So ist die Standard-Veredelungsprozess erzeugt das (fast) reines Metall.
+</p><p>Gusseisen ist schwieriger. Sie könnten über das Kochen ein Eisenklumpen (die Erz) von den realen Noten erwarten würde Roheisen produzieren, die dann wieder gekocht werden kann, um Gusseisen herzustellen. Dies ist eine Art der Fall, aber nicht genau, denn wie bereits ein Eisenklumpen erzeugt Kenntnis genommen Kochen Schmiedeeisen. Das Spiel unterscheidet nicht zwischen Niedertemperatur und Hochtemperatur-Garverfahren: die gleiche Ofen verwendet wird, nicht nur alle Arten von Metall zu gießen, sondern auch Essen zu kochen. So gibt es keine Unterscheidung zwischen Garprozesse verschiedene Schmiedeeisen und Roheisen zu erzeugen. Aber wiederholte Kochen ist wie ein Spiel Mechaniker zur Verfügung und ist in der Tat verwendet Gusseisen zu produzieren: Wieder Kochen eines Schmiedeeisen Barren mit einer Gusseisen Barren produziert. So Roheisen ist nicht im Spiel als eigenständiges Element dargestellt; Statt Schmiedeeisen steht für Roheisen zusätzlich zu seiner realistischen Anwendungen wie Schmiedeeisen in.
+</p><p>Legierungsschmiedeeisen mit Kohlenstaub (die im Wesentlichen Kohlenstoff): Kohlenstoffstahl wird durch ein regelmäßiger in-game-Verfahren hergestellt. Dies trägt eine angemessene Ähnlichkeit mit der historischen Entwicklung der Kohlenstoffstahl. Diese Legierungs Rezept ist relativ zeitaufwendig für die Menge des verarbeiteten Materials im Vergleich gegen andere Legierungs Rezepte, und Kohlenstoffstahl wird stark genutzt, so ist es ratsam, sie im Voraus zu legieren, wenn Sie nicht darauf warten.
+</p><p>Es gibt zusätzliche Rezepte, die alle drei dieser Typen von Eisen ermöglichen ineinander umgewandelt werden. Kohlenstoffstahl wieder mit Kohlenstaub Legieren produziert Gusseisen, mit seinen höheren Kohlenstoffgehalt. Kochen Kohlenstoff-Stahl oder Gusseisen erzeugt Schmiedeeisen, in einer verkürzten Form des bloomery Prozess.
+</p><p>Es gibt eine weitere Eisen-Legierung im Spiel: Edelstahl. Es ist in einer völlig ordnungsgemäß verwaltet, durch Legieren Kohlenstoffstahl mit Chrom hergestellt.
+Uran-Anreicherung
+</p><p>Wenn Uran verwendet werden soll, einen Kernreaktor zu Brennstoff, ist es nicht ausreichend, lediglich zu isolieren und zu Uranmetall zu verfeinern. Es ist notwendig, ihre Isotopenzusammensetzung zu steuern, da die verschiedenen Isotope unterschiedlich in Kernprozessen verhalten.
+</p><p>Die wichtigsten Isotope von Interesse sind, U-235 und U-238. U-235 ist gut an eine nukleare Kettenreaktion aufrechtzuerhalten, weil, wenn ein U-235-Kern mit einem Neutron wird es in der Regel Spaltung (split) in Fragmente beschossen wird. Es wird deshalb als "spaltbar" beschrieben. U-238, andererseits nicht spaltbaren: wenn mit einer Neutronen bombardiert wird es in der Regel zu erfassen, werden U-239, die sehr instabil ist und zerfällt schnell in semi-stabilen (und spaltbares) Plutonium-239.
+</p><p>Ungünstig, macht das spaltbare U-235 nur etwa 0,7% des natürlichen Urans auf, fast alle anderen 99,3% U-238 zu sein. Natürliches Uran deshalb macht keinen großen Kernbrennstoff. (Im wirklichen Leben gibt es eine kleine Anzahl von Reaktortypen, die sie benutzen können, aber Technik nicht über einen solchen Reaktor.) Bessere Kernbrennstoff benötigt einen höheren Anteil an U-235 zu enthalten.
+</p><p>einen höheren U-235-Gehalt zu erreichen, ist nicht so einfach wie die U-235 von der U-238 zu trennen und nur die erforderliche Menge an U-235 verwendet wird. Weil U-235 und U-238 sowohl Uran sind und daher chemisch identisch sind, können sie nicht chemisch getrennt werden, in der Weise, dass verschiedene Elemente voneinander getrennt werden, wenn Umschmelzen von Metall. Sie unterscheiden sich in Atommasse, so können sie durch Zentrifugieren getrennt werden, sondern weil ihre Atommassen sehr nahe sind, Schleudert sie nicht sehr gut trennen. Sie können nicht vollständig voneinander getrennt werden, aber es ist möglich, Uran zu erzeugen, die die Isotope in verschiedenen Anteilen gemischt hat. Uran mit einem deutlich größeren spaltbares U-235-Fraktion als natürliches Uran ist "angereichert" genannt, und das bei einem deutlich geringeren spaltbaren Fraktion wird "leer" genannt.
+</p><p>Ein einziger Durchgang durch eine Zentrifuge erzeugt zwei Ausgangsströme, einen mit einem geringfügig höher spaltbare Anteil als dem Eingang, und eine mit einem niedrigeren fraktioniert spaltbare Anteil. Um die spaltbaren Anteil um einen erheblichen Betrag ändert, müssen diese Ausgangsströme wieder zentrifugiert werden, wiederholt. Die übliche Anordnung ist eine "Kaskade", eine lineare Anordnung vieler Zentrifugen. Jede Zentrifuge nimmt als Eingabe Uran mit einigen spezifischen spaltbare Anteil und übergibt seinen zwei Ausgangsströme zu den beiden benachbarten Zentrifugen. Natürliches Uran eingegeben wird irgendwo in der Mitte der Kaskade, und die beiden Enden der Kaskade sie angemessen angereichertes und abgereichertes Uran.
+</p><p>Brennstoff für Kernreaktor der Technik besteht aus angereichertem Uran, von denen 3,5% spaltbares ist. (. Dies ist ein typischer Wert für einen realen Leichtwasserreaktor, einen gemeinsamen Typ für die Stromerzeugung) Um Uran im Spiel bereichern, muss es zuerst in Staubform sein: die Zentrifuge nicht auf Barren arbeiten. (Im wirklichen Leben die Anreicherung von Uran mit dem Uran in Form eines Gas.) Am besten ist es Uran Klumpen direkt zu Staub zu schleifen, anstatt kochen sie zuerst zu Barren, weil dies doppelt so viel Metallstaub ergibt. Wenn Uran in raffinierter Form (Staub, Barren oder Block) ist, zeigt der Name des Inventargegenstand seiner spaltbaren Anteil. Uranium alle verfügbaren spaltbaren Anteil kann den üblichen Verfahren für Metall setzen durch alle werden.
+</p><p>Eine einzige Zentrifuge Operation dauert zwei Uranstaub Pfähle, und erzeugt als Ausgang ein Staubhaufen mit einem spaltbaren Anteil um 0,1% höher und eines mit einem spaltbaren Anteil 0,1% niedriger. Uran kann bis zum für Kernbrennstoff benötigt 3,5% angereichert werden, und abgereichertes nach unten auf 0,0%. Somit wird eine Kaskade die gesamte Palette von spaltbarem Fraktionen Abdeckung erfordert 34 Kaskadenstufen. (Im wirklichen Leben auf 3,5% Anreicherung verwendet Tausende von Kaskadenstufen. Auch Zentrifugieren weniger wirksam ist, wenn das Eingangsisotopenverhältnis mehr schief ist, so dass die Schritte in spaltbare Anteil kleiner sind für relativ abgereichertem Uran. Zero-spaltbaren Inhalt nur asymptotisch zugänglich ist und natürliches Uran relativ billig, so dass Uran wird normalerweise nur auf rund 0,3% aufgestockt. auf der anderen Seite, viel höhere Anreicherung als 3,5% nicht viel schwieriger ist, als die weit zu bereichern.)
+</p><p>Obwohl Zentrifugen manuell eingesetzt werden kann, ist es nicht möglich, die Anreicherung von Uran mit der Hand durchzuführen. Es ist eine praktische Notwendigkeit einer automatisierten Kaskade, mit pneumatischen Schläuche einzurichten, um Uranstaub Pfählen zwischen Zentrifugen übertragen. Da beide Ausgangssignale von einer Zentrifuge in die gleiche Röhre ausgestoßen werden, werden Sortierrohre erforderlich, um die Ausgangssignale in verschiedenen Richtungen längs der Kaskade zu senden. Es ist möglich, Gegenstände in den Zentrifugen durch die gleichen Rohre zu senden, die die Ausgänge nehmen, so ist die einfachste Version der Kaskadenstruktur hat eine Reihe von 34-Zentrifugen durch eine Linie von 34 Sortierrohrsegmente verbunden sind.
+</p><p>Unter der Annahme, dass die Kaskade Uran auf 0,0% den ganzen Weg verarmt, eine Einheit von 3,5% -fissile Uran produzieren erfordert die Eingabe von fünf Einheiten von 0,7% -fissile (Natur-) Uran, nimmt 490 Zentrifugen Betrieb und produziert vier Einheiten von 0,0% -fissile (fully depleted) Uran als Beiprodukt. Es ist möglich, die Anzahl der erforderlichen Operationen Zentrifuge zu reduzieren, indem mehr Natururan Eingang verwendet und nur teilweise abgereichertem Uran, aber (anders als in Echtzeit) ist dies nicht der Regel ein wirtschaftliches Konzept ausgibt. Die 490 Operationen sind nicht gleichmäßig über die Kaskadenstufen verteilt: die geschäftigste Stufe der ist 0,7% -fissile Uran nehmen, die 28 der 490 Operationen durchführt. Die am wenigsten ausgelastet ist derjenige 3,4% -fissile Uran nehmen, die 1 der 490 Operationen durchführt.
+</p><p>Eine Zentrifuge Kaskade verbrauchen sehr viel Energie. Es lohnt sich, einen Akku-Upgrade in jeder Zentrifuge setzen. (Es kann nur eine untergebracht werden, da eine Steuerlogikeinheit Upgrade auch für Rohrbetrieb erforderlich ist.) Ein MV-Zentrifuge, die einzige derzeit verfügbare, zieht 7 KEU / s in diesem Zustand und nimmt 5 s für jedes Uran Zentrifugieren Betrieb. Es dauert somit 35 Keu pro Betrieb und die Kaskade erfordert 17.15 MEU jede Einheit von angereichertem Uran herzustellen. Es dauert fünf Einheiten von angereichertem Uran jeden Brennstab zu machen, und sechs Stangen, einen Reaktor zu tanken, so dass die Anreicherungskaskade erfordert 514,5 MEU einen vollständigen Satz von Reaktorbrennstoff zu verarbeiten. Dies ist etwa 0,85% des 6.048 GEU, dass der Reaktor aus diesem Kraftstoff erzeugt.
+</p><p>Wenn es genug Strom vorhanden ist, und genügend natürliches Uran eingegeben wird, die Kaskade zu halten ständig in Betrieb, und genau eine Zentrifuge auf jeder Stufe, dann ist die Gesamtgeschwindigkeit der Kaskade wird durch die geschäftigsten Stufe bestimmt, die 0,7% der Bühne. Es kann seine 28 Operationen zur Anreicherung eines einzelnen Uraneinheit in 140 s durchführen, so daß die Gesamtzykluszeit der Kaskade. Es dauert also 70 min einen vollständigen Satz von Reaktorbrennstoff zu bereichern. Während die Kaskade in dieser voller Geschwindigkeit läuft, ist die durchschnittliche Stromverbrauch 122,5 keu / s. Die momentane Leistungsaufnahme von Sekunden variiert Sekunde über Zyklus 140 s, und der maximal möglichen momentanen Stromverbrauch (mit allen 34 Zentrifugen gleichzeitig aktiv) beträgt 238 keu / s. Es wird empfohlen, einige Batteriekästen zu haben, um diese Schwankungen zu glätten.
+</p><p>Wenn die Leistung an die Zentrifugenkaskade Mittelwerte geliefert weniger als 122,5 keu / s, dann kann die Kaskade nicht ununterbrochen laufen. (Auch wenn die Stromversorgung intermittierend ist, wie Sonne, dann Dauerbetrieb mehr Batteriekästen benötigt die Versorgungsschwankungen zu glätten, auch wenn die durchschnittliche Leistung hoch genug ist.) Weil es automatisiert ist und erfordert keine kontinuierliche Spieler Aufmerksamkeit, die Kaskade laufen als die volle Geschwindigkeit bei weniger sollte kein großes Problem sein. Die Anreicherung der Arbeit wird die gleiche Energie verbrauchen insgesamt unabhängig davon, wie schnell wird es durchgeführt wird, und die Geschwindigkeit, in direktem Verhältnis zu der durchschnittlichen Stromversorgung (minus jeder Versorgung verloren, weil die Batteriekästen vollständig gefüllt) variieren.
+</p><p>Wenn nicht genügend Leistung, sowohl die Zentrifugenkaskade bei voller Geschwindigkeit und was auch immer andere Maschinen benötigen Energie, alle Maschinen auf dem gleichen Stromnetz wie die Zentrifuge laufen wird gezwungen, mit der gleichen fraktionierten Geschwindigkeit zu laufen. Dies kann unbequem sein, insbesondere wenn die Verwendung der anderen Maschinen ist weniger automatisiert als der Zentrifugenkaskade. Es kann, indem man die Zentrifuge Kaskade auf einem separaten Stromnetz von anderen Maschinen und Begrenzen der Anteil der erzeugten Leistung vermieden werden, die es geht.
+</p><p>Wenn es eine ausreichende Leistung ist und es erwünscht ist, Uran schneller als eine einzelne Kaskade kann zu bereichern, kann das Verfahren wirtschaftlich beschleunigt werden, als durch eine ganze zweite Kaskade zu bauen. Da die Stufen der Kaskade unterschiedliche Proportionen der Arbeit zu tun, ist es möglich, eine zweite und nachfolgende Zentrifugen nur den am stärksten befahrenen Stufen hinzuzufügen, und haben die weniger beschäftigt Stufen noch jeder mit nur einer einzigen Zentrifuge halten.
+</p><p>Ein weiterer möglicher Ansatz zur Anreicherung von Uran ist keine feste Zuordnung von spaltbarem Anteilen an Zentrifugen zu haben, dynamisch setzen, was Uran in Zentrifugen welch auch immer zur Verfügung stehen zur Verfügung. Theoretisch können alle der Zentrifugen fast vollständig besetzt die Zeit gehalten werden, um alle, eine effizientere Nutzung der Kapitalausstattung zu machen, und die Anzahl von Zentrifugen können so wenig sein (bis hinunter zu eins) oder so groß wie gewünscht. Der schwierige Teil ist, dass es nicht ausreichend ist, jeden Uranstaub Stapel einzeln in zu setzen, was Zentrifuge zur Verfügung: sie Eingang in passenden Paaren sein muss. Jede ungerade Staubhaufen in einer Zentrifuge, werden nicht bearbeitet und daß die Zentrifuge von der Annahme alle anderen Eingaben zu verhindern.
+Beton
+</p><p>Beton ist ein synthetisches Baustoff. Die Technik Modpack setzt sie im Spiel.
+</p><p>Zwei Formen von Beton sind als Bausteine: ordinary "Beton" und erweiterte "Blast feste Beton". Trotz seines Namens hat dieser keinen besonderen Widerstand gegen Explosionen oder andere Mittel der Zerstörung.
+</p><p>Beton kann auch zur Herstellung von Zäunen verwendet werden. Sie wirken wie Holzzäune, aber sind nicht brennbar. Verwirrend ist, das Element, das auf einem hölzernen "Zaun" entspricht, wird "konkreten Beitrag" genannt. Beiträge nebeneinander platziert werden implizit Zaun zwischen ihnen zu schaffen. Fechten erscheint auch zwischen einem Pfosten und den angrenzenden Betonblock.
+industrieller Prozess
+Legierung
+</p><p>In Technik ist, Legieren eine Möglichkeit, Elemente zu kombinieren andere Gegenstände, die sich von Standard-Crafting zu erstellen. Legieren verwendet immer Eingänge von genau zwei unterschiedlichen Typen und erzeugt eine einzelne Ausgabe. Wie beim Kochen, die einen einzigen Eingang stattfindet, wird es durchgeführt eine angetriebene Maschine, allgemein bekannt als "Legierungsofen". Eine Legierung Ofen hat immer zwei Eingangsschlitze, und es spielt keine Rolle, welche Art und Weise um die beiden Bestandteile in den Schlitzen angeordnet sind. Viele Legierungs Rezepte erfordern einen oder beide Schlitze, um einen Stapel von mehr als einer der Bestandteile Artikel enthalten: die Menge jeder Zutat erforderlich Teil des Rezeptes ist.
+</p><p>Wie bei den Öfen zum Kochen verwendet wird, gibt es mehrere Arten von Legierungsofen, in unterschiedlicher Weise mit Strom versorgt. Die am häufigsten verwendeten Legierung Öfen sind elektrisch angetrieben. Es gibt auch eine Legierung Ofen, der durch die direkte Verbrennung von Kraftstoff betrieben wird, ebenso wie die grundlegende Kochofen. Gebäude nahezu jede elektrische Maschine, einschließlich der elektrisch angetriebenen Legierung Öfen, erfordert eine Maschine Gehäusekomponente, ein Bestandteil davon aus Messing ist eine Legierung. Es ist daher notwendig, den Brennstoff befeuerten Ofen Legierung in den frühen Teil des Spiels, auf dem Weg zum Aufbau elektrischer Maschinen zu verwenden.
+</p><p>Legieren Rezepte werden vor allem mit Metallen betroffen. Diese Rezepte kombinieren, um ein Basismetall mit einem anderen Element, meist ein anderes Metall, ein neues Metall zu erzeugen. Dies wird im Abschnitt über die Metall diskutiert. Es gibt auch einige Legierungs Rezepte in dem der Grundbestandteil ist nicht-metallisch, wie das Rezept für den Siliziumwafer.
+Mahlen, Extrahieren und Komprimieren
+</p><p>Schleifen, Extrahieren und Komprimieren sind drei verschiedene, aber sehr ähnlich, Weisen ein Element in ein anderes zu konvertieren. Sie sind alle ziemlich ähnlich dem Kochen in der Grundminetest Spiel gefunden. Jeder verwendet einen Eingang eines einzelnen Elementtyp aus und erzeugt einen einzelnen Ausgang. Sie werden durchgeführt, alle angetriebenen Maschinen mit jeweils allgemein als "Schleifer" genannt, "Extraktor" und "Kompressor". Einige Komprimieren Rezepte verlangen die einen Stapel von mehr als einem der Eingangspunkt zu sein: die erforderliche Menge Teil des Rezeptes ist. Schleifen und Extrahieren Rezepte erfordern niemals eine so gestapelt Eingang.
+</p><p>Es gibt mehrere Arten von Mühle, Dunstabzugshaube, und Kompressor. Im Gegensatz zu Koch Öfen und Legierung Öfen gibt es keine, die den Kraftstoff direkt verbrennen; sie sind alle elektrisch angetrieben.
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20230709030449
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.026 seconds
+Real time usage: 0.028 seconds
+Preprocessor visited node count: 1/1000000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 1/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    0.000      1 -total
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:2187-0!canonical and timestamp 20230709030449 and revision id 8911
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Minetest_in_der_Schule/Anleitung_Technic_Mod/Handbuch_Technic_übersetzt&amp;oldid=8911">http://wiki.minetest.net/index.php?title=Minetest_in_der_Schule/Anleitung_Technic_Mod/Handbuch_Technic_übersetzt&amp;oldid=8911</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:German" title="Category:German">German</a></li><li><a href="/Category:Tutorials" title="Category:Tutorials">Tutorials</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Minetest+in+der+Schule%2FAnleitung+Technic+Mod%2FHandbuch+Technic+%C3%BCbersetzt" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Minetest_in_der_Schule/Anleitung_Technic_Mod/Handbuch_Technic_%C3%BCbersetzt" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Minetest_in_der_Schule/Anleitung_Technic_Mod/Handbuch_Technic_%C3%BCbersetzt&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Minetest_in_der_Schule/Anleitung_Technic_Mod/Handbuch_Technic_%C3%BCbersetzt">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Minetest_in_der_Schule/Anleitung_Technic_Mod/Handbuch_Technic_%C3%BCbersetzt&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Minetest_in_der_Schule/Anleitung_Technic_Mod/Handbuch_Technic_%C3%BCbersetzt&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Minetest_in_der_Schule/Anleitung_Technic_Mod/Handbuch_Technic_%C3%BCbersetzt" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Minetest_in_der_Schule/Anleitung_Technic_Mod/Handbuch_Technic_%C3%BCbersetzt" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Minetest_in_der_Schule/Anleitung_Technic_Mod/Handbuch_Technic_%C3%BCbersetzt&amp;oldid=8911" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Minetest_in_der_Schule/Anleitung_Technic_Mod/Handbuch_Technic_%C3%BCbersetzt&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 20 July 2016, at 00:23.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.026","walltime":"0.028","ppvisitednodes":{"value":1,"limit":1000000},"postexpandincludesize":{"value":0,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":1,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20230709030449","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":259});});</script></body></html>

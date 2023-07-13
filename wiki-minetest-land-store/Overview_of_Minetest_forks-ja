@@ -1,0 +1,318 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Overview of Minetest forks/ja - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"84b33b48c17d390bbfc865db","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Overview_of_Minetest_forks/ja","wgTitle":"Overview of Minetest forks/ja","wgCurRevisionId":27630,"wgRevisionId":27630,"wgArticleId":5133,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages","Related software","Japanese"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Overview_of_Minetest_forks/ja","wgRelevantArticleId":5133,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],
+"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Overview_of_Minetest_forks_ja rootpage-Overview_of_Minetest_forks skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Overview of Minetest forks/ja</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/Overview_of_Minetest_forks" title="Overview of Minetest forks">Overview of Minetest forks</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> 言語:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><a href="/Overview_of_Minetest_forks" title="Overview of Minetest forks">English</a><b>&#160;• <bdi lang="ja"><a class="mw-selflink selflink">日本語</a></bdi></b></td>
+</tr></tbody></table>
+<p>あるソフトウェアが、ほかのソフトウェアのソースコードや関連データを基にしたコピーから派生した場合、そのソフトウェアは、<b>フォーク</b>(派生)であると呼びます。（Wikipediaの<a rel="nofollow" class="external text" href="https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AF_(%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E9%96%8B%E7%99%BA)">フォークの説明</a>も参照）
+Minetestは、これまでの歴史の中でフォークがいくつか生まれました。ここでは、Minetestのフォークについて説明します。
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#.E3.80.8CMinetest.E3.81.AE.E3.83.95.E3.82.A9.E3.83.BC.E3.82.AF.E3.80.8D.E3.81.A8.E3.81.AF.E3.81.AA.E3.82.93.E3.81.A7.E3.81.99.E3.81.8B.3F"><span class="tocnumber">1</span> <span class="toctext">「Minetestのフォーク」とはなんですか?</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#.E3.83.97.E3.83.AD.E3.82.B8.E3.82.A7.E3.82.AF.E3.83.88.E4.B8.80.E8.A6.A7"><span class="tocnumber">2</span> <span class="toctext">プロジェクト一覧</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Voxelands"><span class="tocnumber">2.1</span> <span class="toctext">Voxelands</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Blocklife"><span class="tocnumber">2.2</span> <span class="toctext">Blocklife</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Freeminer"><span class="tocnumber">2.3</span> <span class="toctext">Freeminer</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Minetest-delta"><span class="tocnumber">2.4</span> <span class="toctext">Minetest-delta</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Minetest-M13"><span class="tocnumber">2.5</span> <span class="toctext">Minetest-M13</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#.E3.81.95.E3.81.BE.E3.81.96.E3.81.BE.E3.81.AAAndroid.E7.89.88.E3.83.95.E3.82.A9.E3.83.BC.E3.82.AF"><span class="tocnumber">2.6</span> <span class="toctext">さまざまなAndroid版フォーク</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#.E3.81.95.E3.81.BE.E3.81.96.E3.81.BE.E3.81.AAiOS.E7.89.88.E3.83.95.E3.82.A9.E3.83.BC.E3.82.AF"><span class="tocnumber">2.7</span> <span class="toctext">さまざまなiOS版フォーク</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span id="「Minetestのフォーク」とはなんですか?"></span><span class="mw-headline" id=".E3.80.8CMinetest.E3.81.AE.E3.83.95.E3.82.A9.E3.83.BC.E3.82.AF.E3.80.8D.E3.81.A8.E3.81.AF.E3.81.AA.E3.82.93.E3.81.A7.E3.81.99.E3.81.8B.3F">「Minetestのフォーク」とはなんですか?</span></h2>
+<p>上で述べたようにフォークとは、コピーして変更されたソフトウェアのことです。Minetestの場合も同じですが、MODを同梱しただけのものはフォークとは呼ばずにMODパックと呼びます。ここでのフォークは、コアエンジンに変更を加えたソフトウェアのことで、変更がプルリクエストとして提出されて承認されない限り、Minetestのバージョンとしてリリースされることはないでしょう。
+</p>
+<h2><span id="プロジェクト一覧"></span><span class="mw-headline" id=".E3.83.97.E3.83.AD.E3.82.B8.E3.82.A7.E3.82.AF.E3.83.88.E4.B8.80.E8.A6.A7">プロジェクト一覧</span></h2>
+<p>以下のプロジェクトは、Minetestの既知のフォークです。それぞれのプロジェクトが現在、活動しているかどうかは、わかりません。
+</p>
+<h3><span class="mw-headline" id="Voxelands">Voxelands</span></h3>
+<p><b><a rel="nofollow" class="external text" href="http://www.voxelands.com/">Voxelands</a></b>は、<a rel="nofollow" class="external text" href="https://gitorious.org/minetest-classic/minetest-classic/commit/2c4e0bcbc94abca621aeaa6f5159d2637179da47">コミットの一番古い記録</a>によると2013年4月15日、darkroseにより「Minetest Classic」という名前で、Minetest-c55(Minetest-c55は以前のMinetestの名前) 0.3の最新安定版のフォークとして始められた。
+</p><p>フォークをした動機は、Minetestがゲームではなくゲームエンジンへ変わりつつあることへの不満があった。また、Voxelandの開発者は、0.4系の開発が始まった(<a href="/Mods/ja" title="Mods/ja">Lua Mod API</a>を導入した)ことによりMinetestのパフォーマンスが低下したと主張しており、これも動機の一つとなっている。
+VoxelandsはMinetestと互換性はなく、今ではまったく異なる物となっている。
+</p><p>Voxelandsの主な目標は、Minetest-c55 0.3系と同等のパフォーマンスを維持しながら、新規コンテンツの追加と世界の機能に焦点を当てたバランスのとれたゲームプレイの維持。0.4系からのバグ修正と機能のバックポート。ネットワークプロトコルレベルを0.3系と後方互換を維持することがあげられている。
+</p>
+<h3><span class="mw-headline" id="Blocklife">Blocklife</span></h3>
+<p><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=14&amp;t=12021">Blocklife</a>は、2015年4月30日、gibucsoftからMinetestフォーラムに最初の発表が投稿されました。Minetest 0.4.7のエンジンに少し目立った変更を加え、Minetest GameにいくつかMODを同梱したものから始まりました。Blocklifeでもっとも興味深い機能は、二刀流が使える「手」の機能でした。2018年5月23日、gibucsoftは、開発を再始動することを発表。ブロックサイズを10分の1の大きさに縮小し、より現実の世界に近い「丸い」世界を作ることを目標にしている。
+</p>
+<h3><span class="mw-headline" id="Freeminer">Freeminer</span></h3>
+<p><b><a rel="nofollow" class="external text" href="http://freeminer.org/">Freeminer</a></b>はMinetest 0.4.8のフォーク。もうメンテナンスされていません。
+</p><p>プロジェクトの目標は、「楽しく遊べるゲームを作ること」というあいまいな目的で何がフォークの動機だったのかも不明です。Minetestと比較した変更点リストが公開されています。<a rel="nofollow" class="external autonumber" href="http://forum.freeminer.org/threads/full-list-of-changes-from-minetest.110/">[1]</a>
+</p><p><a rel="nofollow" class="external text" href="https://f-droid.org/packages/org.freeminer.freeminer/">Freeminerには、Android版も存在していました</a>が、こちらもメンテナンスは終了しています。
+</p>
+<h3><span class="mw-headline" id="Minetest-delta">Minetest-delta</span></h3>
+<p><a rel="nofollow" class="external text" href="https://github.com/erlehmann/minetest-delta">Minetest-delta</a>、2011年半ばごろにメンテナンスされていたMinetestのフォークで、Minetestに、より実験的な機能を追加を目的としていました。パピルスやサボテン、ジャングルといった機能は、Minetestに寄贈されマージされた。
+</p>
+<h3><span class="mw-headline" id="Minetest-M13">Minetest-M13</span></h3>
+<p>いにしえのフォーク。2012年以降、活動の記録はない。
+</p>
+<h3><span id="さまざまなAndroid版フォーク"></span><span class="mw-headline" id=".E3.81.95.E3.81.BE.E3.81.96.E3.81.BE.E3.81.AAAndroid.E7.89.88.E3.83.95.E3.82.A9.E3.83.BC.E3.82.AF">さまざまなAndroid版フォーク</span></h3>
+<p>Android版のフォークは、たくさんあります。そして悲しいことに低品質なMinetestのフォークが多くあります。これらのフォークは、しばらくゲームがプレイできなくなるような非常に迷惑な広告やアプリ内課金が付け加えられています。<b>こういったアプリは、Minetest公式のアプリではありません！</b>
+</p><p>Android版の<i>公式</i>アプリは以下から入手できます。
+</p>
+<ul><li><a rel="nofollow" class="external text" href="https://f-droid.org/packages/net.minetest.minetest/">Minetest on F-Droid</a></li>
+<li><a rel="nofollow" class="external text" href="https://play.google.com/store/apps/details?id=net.minetest.minetest">Minetest on Google Play</a></li></ul>
+<p><b>重要な注意: 広告やアプリ内課金、そのほか迷惑機能はMinetestの機能ではありません。</b> そして、これからもそのような機能が入ることはありません！アプリで遊んでいて広告が表示された場合は、本当にMinetestをインストールしているか、ほかのアプリではないか、もう一度確認してください。Minetestは、コミュニティ主導の自由なソフトウェアのプロジェクトで広告やアプリ内課金のようなものを必要としないことを誇りにしています。
+</p><p>これらのMinetestのフォークは、生まれてはすぐに消えていきます。以下のタイトルはGoogle Playで知られているタイトルです（あまりにも早く変わるので、このリストは古くて不完全です）。
+</p>
+<ul><li>Worldcraft: Exploration Lite</li>
+<li>WorldCraft 2&#160;: Pocket Edition</li>
+<li>PixelCraft — 3D Survival!</li>
+<li>MultiCraft ― Free Miner!</li>
+<li>Crazy Craft on Castle World PE</li>
+<li>MultiCraft - Minetest France</li>
+<li>Cartoon Craft: Castle World PE</li>
+<li>Voxel Craft&#160;: Castle Build PE</li>
+<li>World Craft 3D</li>
+<li>Squeake Craft PLUS</li></ul>
+<p><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=3&amp;t=16707">フォーラムの関連スレッド</a>.
+</p><p>これらのフォークについて、存在はあまり知られていません(追加があればページを編集してください)。こういったフォークは、すべて違法なプロプライエタリ(独占的)なフォークであり、広告などの迷惑機能が含まれていることがわかっています。そして(ライセンス上必要な)ソースコードは提供されておらず、プロプライエタリなライセンスがつけられているかライセンスが無いといった問題もあります。このようなことは、Minetestにはありません。
+</p><p>私たちは、Mintestの非公式なフォークを作ることや、それを使って新しい素晴らしいものを作ることに絶対反対しているわけではありません。(フォークできることが自由ソフトウェアのいいところです)。しかし、Android版に関しては、これまでのところ私たちが感銘を受けるような結果はありません。もし、あなたがAndroid用の素晴らしいMinetestのフォークを見つけたなら<a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=3&amp;t=16707">フォーラム</a>まで教えてください。
+</p><p>そして、迷惑機能を持つプロプライエタリなフォークを完全に避けたいならGoogle Playの代わりに<a rel="nofollow" class="external text" href="https://f-droid.org/ja/">F-Droid</a>を使うことをお勧めします。F-Droidは、私たちのように自由ソフトウェアを信じる人たちによって管理されるリポジトリで、うさんくさいプロプライエタリなアプリをアップロードすることは許されません😉
+</p>
+<h3><span id="さまざまなiOS版フォーク"></span><span class="mw-headline" id=".E3.81.95.E3.81.BE.E3.81.96.E3.81.BE.E3.81.AAiOS.E7.89.88.E3.83.95.E3.82.A9.E3.83.BC.E3.82.AF">さまざまなiOS版フォーク</span></h3>
+<p>iOS版Minetest公式アプリは、<a rel="nofollow" class="external text" href="https://github.com/minetest/minetest/issues/12176">Appストアの規約の問題によりリリースされていません</a>。
+</p><p>Android版と同様にMinetestをiOSにフォークする人たちもいますが、ここでも同じ、勝手に広告やアプリ内課金を付け加えた低品質なフォークする問題が当てはまります。
+</p><p>以下がリストです。私たちは、どれも利用することは推奨しません
+</p>
+<ul><li><a rel="nofollow" class="external text" href="https://itunes.apple.com/us/app/buildcraft-multiplayer-block-game/id740372768?mt=8">Buildcraft</a></li>
+<li><a rel="nofollow" class="external text" href="https://itunes.apple.com/us/app/worldcraft-survival-2/id900353132?mt=8">Worldcraft 2</a></li>
+<li><a rel="nofollow" class="external text" href="https://itunes.apple.com/us/app/worldcraft-pocket-edition/id796349324?mt=8">Worldcraft Pocket Edition</a></li>
+<li><a rel="nofollow" class="external text" href="https://itunes.apple.com/us/app/exploration-mind-world-of-craft-survival-game/id880642020?mt=8">Exploration</a></li>
+<li>FreeCraft (Appストアのリンクはありません)</li></ul>
+<p>これらは、どれも自由なソフトウェアではなく、Buildcraftに至っては広告を消すためのアプリ内課金を強制されます。
+</p><p><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=3&amp;t=16707">フォーラムの関連スレッド</a>。
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20230709183243
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.180 seconds
+Real time usage: 0.372 seconds
+Preprocessor visited node count: 82/1000000
+Post‐expand include size: 1356/2097152 bytes
+Template argument size: 228/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 13/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.130/7 seconds
+Lua virtual size: 5.53 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  300.123      1 Template:Languages
+100.00%  300.123      1 -total
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:5133-0!canonical and timestamp 20230709183242 and revision id 27630
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Overview_of_Minetest_forks/ja&amp;oldid=27630">http://wiki.minetest.net/index.php?title=Overview_of_Minetest_forks/ja&amp;oldid=27630</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li><li><a href="/Category:Related_software" title="Category:Related software">Related software</a></li><li><a href="/Category:Japanese" title="Category:Japanese">Japanese</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Overview+of+Minetest+forks%2Fja" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Overview_of_Minetest_forks/ja" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Overview_of_Minetest_forks/ja&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Overview_of_Minetest_forks/ja">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Overview_of_Minetest_forks/ja&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Overview_of_Minetest_forks/ja&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Overview_of_Minetest_forks/ja" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Overview_of_Minetest_forks/ja" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Overview_of_Minetest_forks/ja&amp;oldid=27630" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Overview_of_Minetest_forks/ja&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 29 January 2023, at 11:50.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.180","walltime":"0.372","ppvisitednodes":{"value":82,"limit":1000000},"postexpandincludesize":{"value":1356,"limit":2097152},"templateargumentsize":{"value":228,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":13,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  300.123      1 Template:Languages","100.00%  300.123      1 -total"]},"scribunto":{"limitreport-timeusage":{"value":"0.130","limit":"7"},"limitreport-virtmemusage":{"value":5795840,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709183243","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":687});});</script></body></html>

@@ -1,0 +1,503 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Games/Minetest Game/ms - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"2879bb223ac84597fd1c1d6a","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Games/Minetest_Game/ms","wgTitle":"Games/Minetest Game/ms","wgCurRevisionId":27847,"wgRevisionId":27847,"wgArticleId":3260,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with ignored display titles","Languages pages","Malay"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Games/Minetest_Game/ms","wgRelevantArticleId":3260,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],
+"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","mediawiki.page.gallery.styles":"ready","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=ext.cite.styles%7Cmediawiki.page.gallery.styles%7Cmediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Games_Minetest_Game_ms rootpage-Games skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Games/Minetest Game/ms</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/Games" title="Games">Games</a>&lrm; | <a href="/Games/Minetest_Game" title="Games/Minetest Game">Minetest Game</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> Bahasa:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><a href="/Games/Minetest_Game" title="Games/Minetest Game">English</a>&#160;• <bdi lang="de"><a href="/Games/Minetest_Game/de" title="Games/Minetest Game/de">Deutsch</a></bdi>&#160;• <bdi lang="fr"><a href="/Games/Minetest_Game/fr" title="Games/Minetest Game/fr">français</a></bdi>&#160;• <bdi lang="ja"><a href="/Games/Minetest_Game/ja" title="Games/Minetest Game/ja">日本語</a></bdi><b>&#160;• <bdi lang="ms"><a class="mw-selflink selflink">Bahasa Melayu</a></bdi></b>&#160;• <bdi lang="uk"><a href="/Games/Minetest_Game/uk" title="Games/Minetest Game/uk">українська</a></bdi></td>
+</tr></tbody></table>
+<p><br />
+</p>
+<table class="wikitable" width="200px" style="float:right;text-align:left;margin:0 0 0.5em 1em;padding:5px;font-size:90%;position:relative;clear:right;overflow:auto;z-index:1">
+
+<tbody><tr>
+<th colspan="2" style="font-size:110%;text-align:center">Minetest Game
+</th></tr>
+<tr>
+<th colspan="2"><div class="center"><a href="/File:Minetest_logo.png" class="image"><img alt="Minetest logo.png" src="/images/thumb/c/cf/Minetest_logo.png/150px-Minetest_logo.png" decoding="async" width="150" height="150" srcset="/images/c/cf/Minetest_logo.png 1.5x" /></a></div>
+</th></tr>
+<tr>
+<th colspan="2" align="center">Sebuah <a href="/Games/ms" title="Games/ms">permainan</a>
+</th></tr>
+<tr>
+<td><b>Jenis</b>
+</td>
+<td>Permainan Asal
+</td></tr>
+<tr>
+<td><b>Pemilik</b>
+</td>
+<td>Pembangun Minetest
+</td></tr>
+<tr>
+<td><b>Versi Terbaru</b>
+</td>
+<td>5.7.0
+</td></tr>
+<tr>
+<td><b>Topik Forum</b>
+</td>
+<td><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?t=9724">9724</a>
+</td></tr>
+<tr>
+<td><b>Kod Sumber</b>
+</td>
+<td><a rel="nofollow" class="external text" href="https://github.com/minetest/minetest_game">GitHub</a>
+</td></tr></tbody></table>
+<p><b>Minetest Game</b> (dahulunya “<code>minetest_game</code>”) sebuah <a href="/Games/ms" title="Games/ms">permainan</a> untuk <a href="/Minetest" title="Minetest">Minetest</a> yang selalunya diedarkan bersama-sama Minetest. Ianya sebuah kotak pasir yang besar. <a href="/How_to_build_your_first_house/ms" title="How to build your first house/ms">Tekan sini untuk panduan bermula main.</a>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Gambaran_keseluruhan_cara_main"><span class="tocnumber">1</span> <span class="toctext">Gambaran keseluruhan cara main</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Tangkapan_layar"><span class="tocnumber">2</span> <span class="toctext">Tangkapan layar</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Ciri-ciri"><span class="tocnumber">3</span> <span class="toctext">Ciri-ciri</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Gambaran_keseluruhan"><span class="tocnumber">3.1</span> <span class="toctext">Gambaran keseluruhan</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Dunia"><span class="tocnumber">3.2</span> <span class="toctext">Dunia</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Alatan_yang_boleh_dicipta"><span class="tocnumber">3.3</span> <span class="toctext">Alatan yang boleh dicipta</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Aspek_permainan_yang_lain"><span class="tocnumber">3.4</span> <span class="toctext">Aspek permainan yang lain</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Fungsi"><span class="tocnumber">4</span> <span class="toctext">Fungsi</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Sebagai_permainan_asal"><span class="tocnumber">4.1</span> <span class="toctext">Sebagai permainan asal</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Sebagai_asas_untuk_permainan_baru"><span class="tocnumber">4.2</span> <span class="toctext">Sebagai asas untuk permainan baru</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Sebagai_koleksi_contoh-contoh_mods"><span class="tocnumber">4.3</span> <span class="toctext">Sebagai koleksi contoh-contoh mods</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Kandungan"><span class="tocnumber">5</span> <span class="toctext">Kandungan</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#Benda_ketara_yang_tidak_disediakan"><span class="tocnumber">5.1</span> <span class="toctext">Benda ketara yang tidak disediakan</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#Sejarah_dan_perancangan"><span class="tocnumber">6</span> <span class="toctext">Sejarah dan perancangan</span></a>
+<ul>
+<li class="toclevel-2 tocsection-15"><a href="#Cabang_0.4.9"><span class="tocnumber">6.1</span> <span class="toctext">Cabang 0.4.9</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Cabang_0.4.10"><span class="tocnumber">6.2</span> <span class="toctext">Cabang 0.4.10</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Pembangunan_akan_datang"><span class="tocnumber">6.3</span> <span class="toctext">Pembangunan akan datang</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-18"><a href="#Legal"><span class="tocnumber">7</span> <span class="toctext">Legal</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#Nota_dan_rujukan"><span class="tocnumber">8</span> <span class="toctext">Nota dan rujukan</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Gambaran_keseluruhan_cara_main">Gambaran keseluruhan cara main</span></h2>
+<p>Minetest Game ialah “permainan kotak pasir” yang mudah dan aman damai, ini bermakna tiada arah tuju dan <a href="/Mobs/ms" title="Mobs/ms">musuh janaan komputer</a> yang terbina dalamnya. <a href="/Player/ms" title="Player/ms">Pemain</a> dicampakkan ke atas dunia penuh dengan <a href="/Blocks/ms" class="mw-redirect" title="Blocks/ms">kiub</a> dan boleh cuba untuk meneroka permukaan dan mengembara tumpang melalui <a href="/Biomes/ms" title="Biomes/ms">kawasan berumput, gurun, hutan, rimba, kawasan bersalji dan wilayah artik</a>, meneroka lautan dengan <a href="/Boat/ms" title="Boat/ms">bot</a> atau berenang dan menyelam, serta mengutip pelbagai jenis bahan galian dan <a href="/Crafting/ms" title="Crafting/ms">mencipta</a> <a href="/Tool/ms" title="Tool/ms">alatan</a> daripadanya. Menggunakan sebilah <a href="/index.php?title=Pickaxe/ms&amp;action=edit&amp;redlink=1" class="new" title="Pickaxe/ms (page does not exist)">beliung</a>, pemain boleh <a href="/Mining/ms" title="Mining/ms">menggali</a> ke kawasan yang dalam dan mengutip <a href="/Ores/ms" title="Ores/ms">bahan galian</a> yang berharga, tetapi pemain yang cuai boleh terjatuh ke dalam <a href="/Lava/ms" title="Lava/ms">lava</a>. Atau pemain juga boleh menjadi <a href="/index.php?title=Farming/ms&amp;action=edit&amp;redlink=1" class="new" title="Farming/ms (page does not exist)">peladang</a> atau pekerja hutan dan menanam <a href="/index.php?title=Sapling/ms&amp;action=edit&amp;redlink=1" class="new" title="Sapling/ms (page does not exist)">pokok</a> &amp; <a href="/index.php?title=Wheat_(plant)/ms&amp;action=edit&amp;redlink=1" class="new" title="Wheat (plant)/ms (page does not exist)">tanaman</a>. Hampir setiap blok boleh dikeluarkan dengan alatan yang betul dan dengan blok-blok yang dikutip, hampir setiap bangunan boleh dicipta — hanya imaginasi sahaja menjadi penghalang. Minetest Game menfokuskan kreativiti, <a href="/Building/ms" title="Building/ms">pembinaan</a> dan penerokaan dunia, dan bukannya untuk mencabar, oleh itu cara mainnya secara asas bergayakan kotak pasir.
+</p>
+<h2><span class="mw-headline" id="Tangkapan_layar">Tangkapan layar</span></h2>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 435px"><div style="width: 435px">
+			<div class="thumb" style="width: 430px;"><div style="margin:21.5px auto;"><a href="/File:Desert_at_sunset_0.4.7.png" class="image"><img alt="" src="/images/thumb/6/69/Desert_at_sunset_0.4.7.png/400px-Desert_at_sunset_0.4.7.png" decoding="async" width="400" height="243" srcset="/images/thumb/6/69/Desert_at_sunset_0.4.7.png/600px-Desert_at_sunset_0.4.7.png 1.5x, /images/thumb/6/69/Desert_at_sunset_0.4.7.png/800px-Desert_at_sunset_0.4.7.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p>Gurun
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 435px"><div style="width: 435px">
+			<div class="thumb" style="width: 430px;"><div style="margin:30.5px auto;"><a href="/File:Savannah.jpg" class="image"><img alt="" src="/images/thumb/2/2c/Savannah.jpg/400px-Savannah.jpg" decoding="async" width="400" height="225" srcset="/images/thumb/2/2c/Savannah.jpg/600px-Savannah.jpg 1.5x, /images/thumb/2/2c/Savannah.jpg/800px-Savannah.jpg 2x" /></a></div></div>
+			<div class="gallerytext">
+<p>Savana
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 435px"><div style="width: 435px">
+			<div class="thumb" style="width: 430px;"><div style="margin:21.5px auto;"><a href="/File:Jungle_0.4.7.jpg" class="image"><img alt="" src="/images/thumb/1/16/Jungle_0.4.7.jpg/400px-Jungle_0.4.7.jpg" decoding="async" width="400" height="243" srcset="/images/thumb/1/16/Jungle_0.4.7.jpg/600px-Jungle_0.4.7.jpg 1.5x, /images/thumb/1/16/Jungle_0.4.7.jpg/800px-Jungle_0.4.7.jpg 2x" /></a></div></div>
+			<div class="gallerytext">
+<p>Rimba
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 435px"><div style="width: 435px">
+			<div class="thumb" style="width: 430px;"><div style="margin:36.5px auto;"><a href="/File:Minetest_Game_forest.jpg" class="image"><img alt="" src="/images/thumb/9/9e/Minetest_Game_forest.jpg/400px-Minetest_Game_forest.jpg" decoding="async" width="400" height="213" srcset="/images/thumb/9/9e/Minetest_Game_forest.jpg/600px-Minetest_Game_forest.jpg 1.5x, /images/thumb/9/9e/Minetest_Game_forest.jpg/800px-Minetest_Game_forest.jpg 2x" /></a></div></div>
+			<div class="gallerytext">
+<p>Hutan daun luruh
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 435px"><div style="width: 435px">
+			<div class="thumb" style="width: 430px;"><div style="margin:15px auto;"><a href="/File:Mapgen_valleys.jpg" class="image"><img alt="" src="/images/thumb/1/1b/Mapgen_valleys.jpg/400px-Mapgen_valleys.jpg" decoding="async" width="400" height="256" srcset="/images/thumb/1/1b/Mapgen_valleys.jpg/600px-Mapgen_valleys.jpg 1.5x, /images/1/1b/Mapgen_valleys.jpg 2x" /></a></div></div>
+			<div class="gallerytext">
+<p>Hutan konifer dalam lembah
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 435px"><div style="width: 435px">
+			<div class="thumb" style="width: 430px;"><div style="margin:21.5px auto;"><a href="/File:Glacier.jpg" class="image"><img alt="" src="/images/thumb/8/8c/Glacier.jpg/400px-Glacier.jpg" decoding="async" width="400" height="243" srcset="/images/thumb/8/8c/Glacier.jpg/600px-Glacier.jpg 1.5x, /images/thumb/8/8c/Glacier.jpg/800px-Glacier.jpg 2x" /></a></div></div>
+			<div class="gallerytext">
+<p>Glasier
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 435px"><div style="width: 435px">
+			<div class="thumb" style="width: 430px;"><div style="margin:30.5px auto;"><a href="/File:Minetest_Game_underground.jpg" class="image"><img alt="" src="/images/thumb/7/75/Minetest_Game_underground.jpg/400px-Minetest_Game_underground.jpg" decoding="async" width="400" height="225" srcset="/images/thumb/7/75/Minetest_Game_underground.jpg/600px-Minetest_Game_underground.jpg 1.5x, /images/thumb/7/75/Minetest_Game_underground.jpg/800px-Minetest_Game_underground.jpg 2x" /></a></div></div>
+			<div class="gallerytext">
+<p>Bawah tanah
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 435px"><div style="width: 435px">
+			<div class="thumb" style="width: 430px;"><div style="margin:21.5px auto;"><a href="/File:Lava_lake_0.4.7.jpg" class="image"><img alt="" src="/images/thumb/b/be/Lava_lake_0.4.7.jpg/400px-Lava_lake_0.4.7.jpg" decoding="async" width="400" height="243" srcset="/images/thumb/b/be/Lava_lake_0.4.7.jpg/600px-Lava_lake_0.4.7.jpg 1.5x, /images/thumb/b/be/Lava_lake_0.4.7.jpg/800px-Lava_lake_0.4.7.jpg 2x" /></a></div></div>
+			<div class="gallerytext">
+<p>Tasik lava
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 435px"><div style="width: 435px">
+			<div class="thumb" style="width: 430px;"><div style="margin:21.5px auto;"><a href="/File:Dungeon_0.4.7.jpg" class="image"><img alt="" src="/images/thumb/d/d6/Dungeon_0.4.7.jpg/400px-Dungeon_0.4.7.jpg" decoding="async" width="400" height="243" srcset="/images/thumb/d/d6/Dungeon_0.4.7.jpg/600px-Dungeon_0.4.7.jpg 1.5x, /images/thumb/d/d6/Dungeon_0.4.7.jpg/800px-Dungeon_0.4.7.jpg 2x" /></a></div></div>
+			<div class="gallerytext">
+<p>Kurungan bawah tanah
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 435px"><div style="width: 435px">
+			<div class="thumb" style="width: 430px;"><div style="margin:30px auto;"><a href="/File:Riding_a_boat.jpg" class="image"><img alt="" src="/images/thumb/a/a7/Riding_a_boat.jpg/400px-Riding_a_boat.jpg" decoding="async" width="400" height="226" srcset="/images/thumb/a/a7/Riding_a_boat.jpg/600px-Riding_a_boat.jpg 1.5x, /images/thumb/a/a7/Riding_a_boat.jpg/800px-Riding_a_boat.jpg 2x" /></a></div></div>
+			<div class="gallerytext">
+<p>Menaiki <a href="/Boat/ms" title="Boat/ms">bot</a> dekat sungai
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 435px"><div style="width: 435px">
+			<div class="thumb" style="width: 430px;"><div style="margin:30px auto;"><a href="/File:Farming.jpg" class="image"><img alt="" src="/images/thumb/9/90/Farming.jpg/400px-Farming.jpg" decoding="async" width="400" height="226" srcset="/images/thumb/9/90/Farming.jpg/600px-Farming.jpg 1.5x, /images/thumb/9/90/Farming.jpg/800px-Farming.jpg 2x" /></a></div></div>
+			<div class="gallerytext">
+<p>Ladang dibina oleh pemain
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 435px"><div style="width: 435px">
+			<div class="thumb" style="width: 430px;"><div style="margin:15px auto;"><a href="/File:Minetest_Game_tower.jpg" class="image"><img alt="" src="/images/thumb/1/19/Minetest_Game_tower.jpg/390px-Minetest_Game_tower.jpg" decoding="async" width="390" height="256" srcset="/images/thumb/1/19/Minetest_Game_tower.jpg/585px-Minetest_Game_tower.jpg 1.5x, /images/thumb/1/19/Minetest_Game_tower.jpg/780px-Minetest_Game_tower.jpg 2x" /></a></div></div>
+			<div class="gallerytext">
+<p>Menara dibina oleh pemain
+</p>
+			</div>
+		</div></li>
+</ul>
+<h2><span class="mw-headline" id="Ciri-ciri">Ciri-ciri</span></h2>
+<h3><span class="mw-headline" id="Gambaran_keseluruhan">Gambaran keseluruhan</span></h3>
+<ul><li>Lebih daripada 200 jenis blok untuk dilombong dan dibina (Lihat halaman <a href="/Blocks/ms" class="mw-redirect" title="Blocks/ms">Blok</a> untuk gambarannya)</li>
+<li>Bawah tanah yang dalam dengan 7 jenis <a href="/Ores/ms" title="Ores/ms">bahan galian</a> berbeza beserta <a href="/Lava/ms" title="Lava/ms">lava</a></li>
+<li>6 kekuatan <a href="/Tool/ms" title="Tool/ms">alatan</a> daripada <a href="/index.php?title=Wood/ms&amp;action=edit&amp;redlink=1" class="new" title="Wood/ms (page does not exist)">kayu</a> sehingga <a href="/index.php?title=Diamond/ms&amp;action=edit&amp;redlink=1" class="new" title="Diamond/ms (page does not exist)">intan</a></li>
+<li><a href="/index.php?title=Creative_mode/ms&amp;action=edit&amp;redlink=1" class="new" title="Creative mode/ms (page does not exist)">Mod kreatif</a> di mana (hampir) kesemua item boleh diambil dengan segera</li></ul>
+<h3><span class="mw-headline" id="Dunia">Dunia</span></h3>
+<ul><li>Beberapa <a href="/Biomes/ms" title="Biomes/ms">biom</a> untuk diterokai: Kawasan berumput, gurun, rimba, lautan, savana, hutan daun luruh, hutan konifer, kawasan bersalji, gurun sejuk, glasier</li>
+<li>Kurungan bawah tanah</li>
+<li>Gua bawah tanah yang kecil dan besar</li>
+<li>Poket <a href="/Lava/ms" title="Lava/ms">lava</a> bawah tanah</li>
+<li>6 jenis <a href="/Ores/ms" title="Ores/ms">bahan galian</a>: <a href="/Coal_Ore/ms" title="Coal Ore/ms">Batu arang</a>, <a href="/Iron_Ore/ms" title="Iron Ore/ms">besi</a>, <a href="/Copper_Ore/ms" title="Copper Ore/ms">tembaga</a>, <a href="/Gold_Ore/ms" title="Gold Ore/ms">emas</a>, <a href="/Mese_Ore/ms" title="Mese Ore/ms">mese</a>, <a href="/Diamond_Ore/ms" title="Diamond Ore/ms">intan</a>, digunakan untuk mencipta alatan dan barangan</li>
+<li><a href="/Mese_Block/ms" title="Mese Block/ms">Bongkah Mese</a> yang sangat jarang dijumpai, berada di bawah Y=-1024 (bersamaan 9 <a href="/index.php?title=Mese_Crystal/ms&amp;action=edit&amp;redlink=1" class="new" title="Mese Crystal/ms (page does not exist)">Kristal Mese</a>)</li>
+<li>6 jenis <a href="/index.php?title=Trees/ms&amp;action=edit&amp;redlink=1" class="new" title="Trees/ms (page does not exist)">pokok</a>: pokok “biasa”, pokok epal, pokok hutan, pokok akasia, pokok aspen, pokok pain. Termasuk anak pokok untuk menanam pokok baru</li>
+<li>6 jenis <a href="/index.php?title=Flowers/ms&amp;action=edit&amp;redlink=1" class="new" title="Flowers/ms (page does not exist)">bunga</a> (digunakan untuk membuat pewarna), <a href="/Waterlily/ms" title="Waterlily/ms">teratai</a>, cendawan dan pelbagai tumbuhan kecil yang lain</li></ul>
+<h3><span class="mw-headline" id="Alatan_yang_boleh_dicipta">Alatan yang boleh dicipta</span></h3>
+<ul><li>Alatan untuk memusnahkan blok: <a href="/index.php?title=Pickaxe/ms&amp;action=edit&amp;redlink=1" class="new" title="Pickaxe/ms (page does not exist)">Beliung</a> (untuk batu), <a href="/index.php?title=Shovel/ms&amp;action=edit&amp;redlink=1" class="new" title="Shovel/ms (page does not exist)">penyodok</a> (untuk tanah dan pasir), <a href="/index.php?title=Axe/ms&amp;action=edit&amp;redlink=1" class="new" title="Axe/ms (page does not exist)">kapak</a> (untuk kayu dan pokok), <a href="/index.php?title=Sword/ms&amp;action=edit&amp;redlink=1" class="new" title="Sword/ms (page does not exist)">pedang</a> (untuk daun dan tumbuhan kecil)</li>
+<li>Kebanyakan alatan juga boleh digunakan sebagai senjata jarak dekat</li>
+<li><a href="/index.php?title=Screwdriver/ms&amp;action=edit&amp;redlink=1" class="new" title="Screwdriver/ms (page does not exist)">Pemutar Skru</a> (digunakan untuk memusingkan barang)</li>
+<li><a href="/index.php?title=Bucket/ms&amp;action=edit&amp;redlink=1" class="new" title="Bucket/ms (page does not exist)">Baldi</a> untuk mengumpul cecair seperti <a href="/Water/ms" title="Water/ms">air</a></li>
+<li>Lihat halaman <a href="/Items/ms" class="mw-redirect" title="Items/ms">Item</a> untuk lebih banyak alatan</li></ul>
+<h3><span class="mw-headline" id="Aspek_permainan_yang_lain">Aspek permainan yang lain</span></h3>
+<ul><li>Merentasi lautan dengan <a href="/Boat/ms" title="Boat/ms">bot</a></li>
+<li>Bina <a href="/index.php?title=Rail/ms&amp;action=edit&amp;redlink=1" class="new" title="Rail/ms (page does not exist)">landasan</a> dan naiklah <a href="/Cart/ms" title="Cart/ms">pedati</a> untuk membawa diri sendiri dan juga item</li>
+<li>Gunakan <a href="/index.php?title=Furnace/ms&amp;action=edit&amp;redlink=1" class="new" title="Furnace/ms (page does not exist)">relau</a> untuk <a href="/Smelting/ms" class="mw-redirect" title="Smelting/ms">melebur</a> longgokan menjadi jongkong, gunakan jongkong untuk mencipta benda baru</li>
+<li><a href="/index.php?title=Farming/ms&amp;action=edit&amp;redlink=1" class="new" title="Farming/ms (page does not exist)">Perladangan</a> asas: Menggembur <a href="/Dirt/ms" title="Dirt/ms">tanah</a> menjadi <a href="/index.php?title=Soil/ms&amp;action=edit&amp;redlink=1" class="new" title="Soil/ms (page does not exist)">tanih</a> menggunakan <a href="/index.php?title=Hoe/ms&amp;action=edit&amp;redlink=1" class="new" title="Hoe/ms (page does not exist)">cangkul</a>, tanam <a href="/index.php?title=Wheat_Seed/ms&amp;action=edit&amp;redlink=1" class="new" title="Wheat Seed/ms (page does not exist)">gandum</a> dan <a href="/index.php?title=Cotton_Seed/ms&amp;action=edit&amp;redlink=1" class="new" title="Cotton Seed/ms (page does not exist)">benih kapas</a>, letakkan <a href="/Water/ms" title="Water/ms">air</a> di kawasan berdekatan dan lihatlah mereka membesar</li>
+<li>Apabila pemain mati, pemain akan kehilangan semua item dalam inventori, namun semua item tersebut boleh diambil semula daripada bongkah <a href="/index.php?title=Bones/ms&amp;action=edit&amp;redlink=1" class="new" title="Bones/ms (page does not exist)">tulang</a> mereka</li>
+<li><a href="/index.php?title=Fire/ms&amp;action=edit&amp;redlink=1" class="new" title="Fire/ms (page does not exist)">Api</a>!</li>
+<li><a href="/index.php?title=TNT/ms&amp;action=edit&amp;redlink=1" class="new" title="TNT/ms (page does not exist)">TNT</a> dan <a href="/index.php?title=Gunpowder/ms&amp;action=edit&amp;redlink=1" class="new" title="Gunpowder/ms (page does not exist)">serbuk senjata api</a></li></ul>
+<h2><span class="mw-headline" id="Fungsi">Fungsi</span></h2>
+<h3><span class="mw-headline" id="Sebagai_permainan_asal">Sebagai permainan asal</span></h3>
+<p>Minetest Game disediakan pada asalnya untuk memberikan kandungan permulaaan untuk <a href="/index.php?title=Getting_Started/ms&amp;action=edit&amp;redlink=1" class="new" title="Getting Started/ms (page does not exist)">pemain perseorangan</a> apabila Minetest dimuat turun dalam sebuah fail arkib daripada <a rel="nofollow" class="external text" href="http://minetest.net/download.php">seksyen muat turun</a> dalam halaman utama. Ia mempunyai beberapa mods asas yang menambah kandungan permainan yang cukup untuk membolehkan permainan tersebut dimainkan dengan mudah. <a href="/Controls/ms" title="Controls/ms">Kekunci kawalan</a> dan <a href="/How_to_build_your_first_house/ms" title="How to build your first house/ms">cara main asas</a> ditetapkan kepada fungsi yang serupa yang terdapat dalam <a rel="nofollow" class="external text" href="http://ms.wikipedia.org/wiki/Voksel#Kegunaan">permainan genre yang sama</a> untuk membolehkan seseorang bermain dengan segera.  
+</p><p>Minetest Game tidak diperlukan untuk bermain dalam pelayan yang lain kerana kesemua kandungan permainan dikawal dan "dilayan" oleh pelayan pengehosan. Kandungan ini hanya diperlukan apabila menjalankan pelayan Minetest sendiri kerana ianya kebiasaannya koleksi skrip mods yang dikumpulkan masuk ke dalam folder “game”. “Pemain perseorangan” boleh dilihat sebagai sebuah kes istimewa kerana atur cara Minetest tempatan bertindak sebagai pelayan permainan tempatan, mengehos permainan tempatan dan kemudian menyambung kepada diri sendiri sebagai klien.  
+</p>
+<h3><span class="mw-headline" id="Sebagai_asas_untuk_permainan_baru">Sebagai asas untuk permainan baru</span></h3>
+<p>Cara main boleh diubah menggunakan skrip Lua yang dikumpulkan dalam bentuk mods. Memandangkan kebanyakan mods yang dibuat oleh komuniti menamakan mods “default” sebagai kebergantungannya, Minetest Game yang mempunyai mods tersebut dianggap sebagai kandungan asas yang mana pereka permainan boleh membina permainan mereka sendiri. Oleh itu, sekiranya keserasian dengan kebanyakan mods menjadi salah satu tujuan permainan baru, sangat digalakkan untuk anda mula membina permainan baru dengan menambah kandungan kepada salinan Minetest Game.
+</p>
+<h3><span class="mw-headline" id="Sebagai_koleksi_contoh-contoh_mods">Sebagai koleksi contoh-contoh mods</span></h3>
+<p>Walaupun nampak seperti remeh, fungsi ini tidak patut dilupakan kerana selalunya ia menunjukkan contoh-contoh permulaan untuk belajar menulis kod kepada pencipta mods.
+</p>
+<h2><span class="mw-headline" id="Kandungan">Kandungan</span></h2>
+<p>Minetest Game mempunyai <a href="/Mods/ms" title="Mods/ms">mods</a> yang berikut:
+</p>
+<ul><li>Mods berkaitan cara main
+<ul><li><i>default</i>: Inilah mods terbesar dan paling penting dalam Minetest Game. Ia menambah kebanyakan <a href="/Blocks/ms" class="mw-redirect" title="Blocks/ms">blok</a> yang hanya terjadi secara semula jadi dan juga kebanyakan blok buatan, <a href="/Ores/ms" title="Ores/ms">bijih-bijih</a>, pelbagai <a href="/Crafting/ms" title="Crafting/ms">pertukangan</a> asas, <a href="/Smelting/ms" class="mw-redirect" title="Smelting/ms">bahan api relau</a>, pelbagai jenis <a href="/Tool/ms" title="Tool/ms">alatan</a>, <a href="/Items/ms" class="mw-redirect" title="Items/ms">item-item</a> dan kebanyakan benda lain yang tidak diliputi oleh mods lain dalam permainan ini.</li>
+<li><i>beds</i>: menambah beberapa jenis <a href="/index.php?title=Bed/ms&amp;action=edit&amp;redlink=1" class="new" title="Bed/ms (page does not exist)">katil</a>.</li>
+<li><i>boats</i>: menambah <a href="/Boat/ms" title="Boat/ms">bot</a></li>
+<li><i>bones</i>: menambah <a href="/index.php?title=Bones/ms&amp;action=edit&amp;redlink=1" class="new" title="Bones/ms (page does not exist)">tulang</a></li>
+<li><i>bucket</i>: menambah beberapa jenis <a href="/index.php?title=Bucket/ms&amp;action=edit&amp;redlink=1" class="new" title="Bucket/ms (page does not exist)">baldi</a></li>
+<li><i>carts</i>: menambah <a href="/Cart/ms" title="Cart/ms">pedati</a></li>
+<li><i>doors</i>: menambah <a href="/index.php?title=Door/ms&amp;action=edit&amp;redlink=1" class="new" title="Door/ms (page does not exist)">pintu</a>, pintu kolong (seperti <a href="/index.php?title=Trapdoor/ms&amp;action=edit&amp;redlink=1" class="new" title="Trapdoor/ms (page does not exist)">pintu kolong kayu</a>) dan <a href="/index.php?title=Fence_Gate/ms&amp;action=edit&amp;redlink=1" class="new" title="Fence Gate/ms (page does not exist)">pintu pagar</a></li>
+<li><i>dye</i>: menambah <a href="/index.php?title=Dye/ms&amp;action=edit&amp;redlink=1" class="new" title="Dye/ms (page does not exist)">pewarna</a></li>
+<li><i>farming</i>: barangan berkaitan perladangan: <a href="/index.php?title=Cotton_(plant)/ms&amp;action=edit&amp;redlink=1" class="new" title="Cotton (plant)/ms (page does not exist)">Pokok kapas</a>, <a href="/index.php?title=Wheat/ms&amp;action=edit&amp;redlink=1" class="new" title="Wheat/ms (page does not exist)">gandum</a>, <a href="/index.php?title=Cotton_Seed/ms&amp;action=edit&amp;redlink=1" class="new" title="Cotton Seed/ms (page does not exist)">benih kapas</a>, <a href="/index.php?title=Wheat_Seed/ms&amp;action=edit&amp;redlink=1" class="new" title="Wheat Seed/ms (page does not exist)">benih gandum</a>, <a href="/index.php?title=Cotton_(item)/ms&amp;action=edit&amp;redlink=1" class="new" title="Cotton (item)/ms (page does not exist)">kapas</a>, <a href="/index.php?title=Flour/ms&amp;action=edit&amp;redlink=1" class="new" title="Flour/ms (page does not exist)">tepung</a>, <a href="/Bread/ms" title="Bread/ms">roti</a>, <a href="/index.php?title=Hoe/ms&amp;action=edit&amp;redlink=1" class="new" title="Hoe/ms (page does not exist)">cangkul</a> dan <a href="/index.php?title=Soil/ms&amp;action=edit&amp;redlink=1" class="new" title="Soil/ms (page does not exist)">tanih</a></li>
+<li><i>fire</i>: menambah <a href="/index.php?title=Fire/ms&amp;action=edit&amp;redlink=1" class="new" title="Fire/ms (page does not exist)">api</a>, <a href="/index.php?title=Permanent_Flame/ms&amp;action=edit&amp;redlink=1" class="new" title="Permanent Flame/ms (page does not exist)">api abadi</a> dan <a href="/index.php?title=Flint_and_Steel/ms&amp;action=edit&amp;redlink=1" class="new" title="Flint and Steel/ms (page does not exist)">pemetik api</a></li>
+<li><i>flowers</i>: menambah <a href="/index.php?title=Flowers/ms&amp;action=edit&amp;redlink=1" class="new" title="Flowers/ms (page does not exist)">bunga</a>, cendawan dan <a href="/Waterlily/ms" title="Waterlily/ms">teratai</a></li>
+<li><i>screwdriver</i>: menambah <a href="/index.php?title=Screwdriver/ms&amp;action=edit&amp;redlink=1" class="new" title="Screwdriver/ms (page does not exist)">pemutar skru</a></li>
+<li><i>stairs</i>: menambah <a href="/Stair/ms" title="Stair/ms">tangga</a> dan <a href="/index.php?title=Slab/ms&amp;action=edit&amp;redlink=1" class="new" title="Slab/ms (page does not exist)">papak</a></li>
+<li><i>tnt</i>: menambah <a href="/index.php?title=TNT/ms&amp;action=edit&amp;redlink=1" class="new" title="TNT/ms (page does not exist)">TNT</a> dan <a href="/index.php?title=Gun_Powder/ms&amp;action=edit&amp;redlink=1" class="new" title="Gun Powder/ms (page does not exist)">serbuk senjata api</a></li>
+<li><i>vessels</i>: menambah <a href="/index.php?title=Drinking_glass/ms&amp;action=edit&amp;redlink=1" class="new" title="Drinking glass/ms (page does not exist)">gelas minuman</a>, <a href="/index.php?title=Heavy_steel_bottle/ms&amp;action=edit&amp;redlink=1" class="new" title="Heavy steel bottle/ms (page does not exist)">botol keluli berat</a>, <a href="/index.php?title=Glass_bottle/ms&amp;action=edit&amp;redlink=1" class="new" title="Glass bottle/ms (page does not exist)">botol kaca</a>, <a href="/index.php?title=Glass_fragments/ms&amp;action=edit&amp;redlink=1" class="new" title="Glass fragments/ms (page does not exist)">serpihan kaca</a> dan <a href="/index.php?title=Vessels_Shelf/ms&amp;action=edit&amp;redlink=1" class="new" title="Vessels Shelf/ms (page does not exist)">rak bekas kaca</a></li>
+<li><i>walls</i>: menambah <a href="/index.php?title=Wall/ms&amp;action=edit&amp;redlink=1" class="new" title="Wall/ms (page does not exist)">pagar batu</a></li>
+<li><i>wool</i>: menambah <a href="/index.php?title=Wool/ms&amp;action=edit&amp;redlink=1" class="new" title="Wool/ms (page does not exist)">bulu biri-biri</a> dalam 15 warna</li>
+<li><i>xpanes</i>: menambah <a href="/Glass_Pane/ms" title="Glass Pane/ms">kaca tingkap</a> dan <a href="/Iron_bar/ms" title="Iron bar/ms">jeriji besi</a></li></ul></li>
+<li>Mods berkaitan tetapan
+<ul><li><i>creative</i>: dalam <a href="/index.php?title=Creative_mode/ms&amp;action=edit&amp;redlink=1" class="new" title="Creative mode/ms (page does not exist)">mod kreatif</a>, mods ini membolehkan <a href="/index.php?title=Creative_Inventory/ms&amp;action=edit&amp;redlink=1" class="new" title="Creative Inventory/ms (page does not exist)">inventori kreatif</a> digunakan bersama pelbagai tetapan berkaitan mod kreatif yang lain</li>
+<li><i>give_initial_stuff</i>: Sekiranya tetapan <code>give_initial_stuff</code> ditetapkan kepada <i>true</i>, maka mods ini memberikan pemain baru sebilah <a href="/index.php?title=Pickaxe/ms&amp;action=edit&amp;redlink=1" class="new" title="Pickaxe/ms (page does not exist)">beliung</a> keluli, sebilah <a href="/index.php?title=Axe/ms&amp;action=edit&amp;redlink=1" class="new" title="Axe/ms (page does not exist)">kapak</a> keluli, sebilah <a href="/index.php?title=Shovel/ms&amp;action=edit&amp;redlink=1" class="new" title="Shovel/ms (page does not exist)">penyodok</a> keluli, 99 batang <a href="/index.php?title=Torch/ms&amp;action=edit&amp;redlink=1" class="new" title="Torch/ms (page does not exist)">obor</a> dan 99 ketul <a href="/Cobblestone/ms" title="Cobblestone/ms">batu buntar</a>.</li></ul></li>
+<li>Perintah pelayan
+<ul><li><i>sethome</i>: menambah perintah pelayan “sethome” dan “home”. (Untuk fungsinya, sila lihat <a href="/index.php?title=Server_commands/ms&amp;action=edit&amp;redlink=1" class="new" title="Server commands/ms (page does not exist)">di sini</a>)</li></ul></li></ul>
+<p>Mods berikut pernah ada dalam Minetest Game tetapi telah dikeluarkan:
+</p>
+<ul><li><i>nyancat</i>: menambah <a href="/Nyan_Cat/ms" title="Nyan Cat/ms">Nyan Cat</a> dan <a href="/index.php?title=Nyan_Cat_Rainbow/ms&amp;action=edit&amp;redlink=1" class="new" title="Nyan Cat Rainbow/ms (page does not exist)">Pelangi Nyan Cat</a></li></ul>
+<h3><span class="mw-headline" id="Benda_ketara_yang_tidak_disediakan">Benda ketara yang tidak disediakan</span></h3>
+<p>Memandangkan Minetest Game disediakan di dalam arkib muat turun, ia sepatutnya menjadi seringan dan seneutral yang mungkin. Oleh itu, pemain baru akan berasa agak terkilan apabila beberapa benda yang ada dalam permainan-permainan yang serupa tidak disediakan dalam Minetest Game:
+</p>
+<ul><li>Tiada <a href="/Mobs/ms" title="Mobs/ms">raksasa, haiwan atau NPC</a> <sup id="cite_ref-tikus_1-0" class="reference"><a href="#cite_note-tikus-1">&#91;1&#93;</a></sup> yang disediakan dan tiada API rasmi disediakan untuk mereka.</li>
+<li>Tiada <a href="/Crafting_guide/ms" title="Crafting guide/ms">panduan pertukangan</a></li></ul>
+<h2><span class="mw-headline" id="Sejarah_dan_perancangan">Sejarah dan perancangan</span></h2>
+<h3><span class="mw-headline" id="Cabang_0.4.9">Cabang 0.4.9</span></h3>
+<p>Sejak awal 2014, Minetest Game (waktu itu dipanggil “minetest_game”) telah <a rel="nofollow" class="external text" href="http://ms.wikipedia.org/wiki/Pembekuan_%28kejuruteraan_perisian%29">dibekukan ciri</a> secara separuh rasminya. Ia tidak dijatuhkan sokongan dan terus disimpan dalam mod penyenggaraan sebagai asas kepada semua <a href="/Mods/ms" title="Mods/ms">mods</a> yang bergantung kepada mods "<i>default</i>".
+Sepersetujuan yang dicapai oleh pembangun Minetest ialah Minetest Game perlu diubah sedikit yang mungkin<sup id="cite_ref-persetujuan_2-0" class="reference"><a href="#cite_note-persetujuan-2">&#91;2&#93;</a></sup> (pembekuan ciri) dan tidak menginginkan kandungan baharu ditambah. Dengan cara ini, ia membolehkan mods-mods yang lama untuk terus berfungsi dan meninggalkan pelbagai kandungan permainan untuk dibangunkan secara berasingan oleh pereka permainan untuk mereka bentuk sendiri. 
+</p>
+<h3><span class="mw-headline" id="Cabang_0.4.10">Cabang 0.4.10</span></h3>
+<p>Dengan terbitnya 0.4.10, permainan bernama <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=15&amp;t=9066">Minetest-NeXt</a> telah digabungkan<sup id="cite_ref-gabungan_3-0" class="reference"><a href="#cite_note-gabungan-3">&#91;3&#93;</a></sup> ke dalam permainan Minetest Game.
+</p>
+<h3><span class="mw-headline" id="Pembangunan_akan_datang">Pembangunan akan datang</span></h3>
+<p>Untuk memberikan lebih banyak contoh berkaitan kebarangkalian yang boleh disediakan oleh enjin Minetest, telah berlakunya perbincangan untuk memasukkan lebih banyak permainan contoh ke dalam arkib muat turun. Satu-satunya permainan selain daripada Minetest Game yang disediakan dalam Minetest versi 0.4.9 ialah <a href="/index.php?title=Games/Minimal_development_test/ms&amp;action=edit&amp;redlink=1" class="new" title="Games/Minimal development test/ms (page does not exist)">Minimal</a>, yang hanya digunakan untuk tujuan percubaan. Antara permainan yang telah dicadangkan untuk dimasukkan<sup id="cite_ref-permainandicadangkanmelaluiirc_4-0" class="reference"><a href="#cite_note-permainandicadangkanmelaluiirc-4">&#91;4&#93;</a></sup> termasuklah <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?id=3003">Dwarves</a>, <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?id=3119">PilzTest</a>, <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?id=6977">Nostalgia</a>, <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?id=7573">Realtest</a>, <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?id=7027">Eden</a> atau permainan berdasarkan <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?id=7656">mods Ethereal</a>. Baru-baru ini, <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?id=9036">BFD</a>, <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?id=9066">Minetest NeXt</a> dan <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?id=9033">Carbone</a> serta permainan lain telah dipertimbangkan untuk dimasukkan. Ideanya untuk menunjukkan variasi cara main, persekitaran dan konsep atmosfera yang berbeza.
+</p>
+<h2><span class="mw-headline" id="Legal">Legal</span></h2>
+<p>Minetest Game ialah <a rel="nofollow" class="external text" href="https://ms.wikipedia.org/wiki/Perisian_bebas">perisian bebas</a>, tanpa iklan dan percuma tanpa bayaran. Ianya dilesenkan di bawah lesen <a rel="nofollow" class="external text" href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1">LGPL versi 2.1</a> (atau yang kemudian) untuk kod sumber dan lesen <a rel="nofollow" class="external text" href="https://creativecommons.org/licenses/by-sa/3.0/deed.ms">CC BY-SA 3.0</a> untuk fail-fail media.
+</p>
+<h2><span class="mw-headline" id="Nota_dan_rujukan">Nota dan rujukan</span></h2>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-tikus-1"><span class="mw-cite-backlink"><a href="#cite_ref-tikus_1-0">↑</a></span> <span class="reference-text">Namun tikus mungkin boleh menyelinap masuk jika anda tidak berjaga-jaga&#160;;-).</span>
+</li>
+<li id="cite_note-persetujuan-2"><span class="mw-cite-backlink"><a href="#cite_ref-persetujuan_2-0">↑</a></span> <span class="reference-text">Aliran forum Minetest yang bertajuk <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?pid=137837">"Minetest Game will no longer be developed"</a> (<i>Minetest Game tidak akan dibangunkan lagi</i>).</span>
+</li>
+<li id="cite_note-gabungan-3"><span class="mw-cite-backlink"><a href="#cite_ref-gabungan_3-0">↑</a></span> <span class="reference-text">Aliran forum Minetest bertajuk <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=18&amp;t=9683">"(0.4.10) NeXt merged / Updated minetest_game"</a> (<i>(0.4.10) NeXt digabung masuk / Kemaskini minetest_game</i>).</span>
+</li>
+<li id="cite_note-permainandicadangkanmelaluiirc-4"><span class="mw-cite-backlink"><a href="#cite_ref-permainandicadangkanmelaluiirc_4-0">↑</a></span> <span class="reference-text">seperti yang dibincangkan melalui IRC pada tarikh <a rel="nofollow" class="external text" href="http://irc.minetest.ru/minetest-dev/2013-10-17#i_3378469">2013-10-17</a></span>
+</li>
+</ol></div>
+<!-- 
+NewPP limit report
+Cached time: 20230709180637
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.489 seconds
+Real time usage: 1.163 seconds
+Preprocessor visited node count: 352/1000000
+Post‐expand include size: 3479/2097152 bytes
+Template argument size: 653/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 14/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 8624/5000000 bytes
+Lua time usage: 0.160/7 seconds
+Lua virtual size: 5.93 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  438.897      1 -total
+ 71.17%  312.380      1 Template:Languages
+ 27.82%  122.119      1 Template:Game_Data/ms
+  2.32%   10.183      1 Template:Version
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:3260-0!canonical and timestamp 20230709180636 and revision id 27847
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Games/Minetest_Game/ms&amp;oldid=27847">http://wiki.minetest.net/index.php?title=Games/Minetest_Game/ms&amp;oldid=27847</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/index.php?title=Category:Pages_with_ignored_display_titles&amp;action=edit&amp;redlink=1" class="new" title="Category:Pages with ignored display titles (page does not exist)">Pages with ignored display titles</a></li><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li><li><a href="/Category:Malay" title="Category:Malay">Malay</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Games%2FMinetest+Game%2Fms" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Games/Minetest_Game/ms" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Games/Minetest_Game/ms&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Games/Minetest_Game/ms">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Games/Minetest_Game/ms&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Games/Minetest_Game/ms&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Games/Minetest_Game/ms" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Games/Minetest_Game/ms" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Games/Minetest_Game/ms&amp;oldid=27847" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Games/Minetest_Game/ms&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 26 May 2023, at 12:56.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.489","walltime":"1.163","ppvisitednodes":{"value":352,"limit":1000000},"postexpandincludesize":{"value":3479,"limit":2097152},"templateargumentsize":{"value":653,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":14,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":8624,"limit":5000000},"timingprofile":["100.00%  438.897      1 -total"," 71.17%  312.380      1 Template:Languages"," 27.82%  122.119      1 Template:Game_Data/ms","  2.32%   10.183      1 Template:Version"]},"scribunto":{"limitreport-timeusage":{"value":"0.160","limit":"7"},"limitreport-virtmemusage":{"value":6217728,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709180637","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":1545});});</script></body></html>

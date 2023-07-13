@@ -1,0 +1,401 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Server commands/zh-hans - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"af4bbe883bcb53681120ad4d","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Server_commands/zh-hans","wgTitle":"Server commands/zh-hans","wgCurRevisionId":27549,"wgRevisionId":27549,"wgArticleId":4938,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Chinese"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Server_commands/zh-hans","wgRelevantArticleId":4938,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready",
+"noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Server_commands_zh-hans rootpage-Server_commands skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Server commands/zh-hans</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/Server_commands" title="Server commands">Server commands</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> 语言:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><a href="/Server_commands" title="Server commands">English</a>&#160;• <bdi lang="de"><a href="/Server_commands/de" title="Server commands/de">Deutsch</a></bdi>&#160;• <bdi lang="fr"><a href="/Server_commands/fr" title="Server commands/fr">français</a></bdi>&#160;• <bdi lang="it"><a href="/Server_commands/it" title="Server commands/it">italiano</a></bdi><b>&#160;• <bdi lang="zh-hans"><a class="mw-selflink selflink">中文（简体）‎</a></bdi></b></td>
+</tr></tbody></table>
+<p>“”服务器命令””（也称为“”聊天命令””）是服务器的特殊命令，任何玩家都可以通过<a href="/Chat" title="Chat">chat</a>输入以使服务器执行某些操作。 每个人都可以发布一些命令，但是某些命令仅在您在服务器上授予某些<a href="/Privileges" title="Privileges">privileges</a>的情况下才有效。 使用“ privs”查看您自己的特权。 除非另有说明，否则假定本文中的命令不需要特权。 本文仅介绍Minetest 0.4.10和<a href="/Games/Minetest_Game" title="Games/Minetest Game">Minetest Game</a>中内置的命令。 其他模组和游戏可能会添加其他命令； 在这种情况下，请参阅国防部的文档或使用“ help all”。
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#.E5.8F.91.E5.87.BA.E5.91.BD.E4.BB.A4"><span class="tocnumber">1</span> <span class="toctext">发出命令</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#.E4.BB.8E.E7.B3.BB.E7.BB.9F.E7.BB.88.E7.AB.AF.E5.8F.91.E5.87.BA.E5.91.BD.E4.BB.A4"><span class="tocnumber">2</span> <span class="toctext">从系统终端发出命令</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#.E5.B8.B8.E8.A7.84.E8.AF.AD.E6.B3.95"><span class="tocnumber">3</span> <span class="toctext">常规语法</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#.E5.86.85.E7.BD.AE.E5.91.BD.E4.BB.A4.E7.9A.84.E5.91.BD.E4.BB.A4.E5.8F.82.E8.80.83"><span class="tocnumber">4</span> <span class="toctext">内置命令的命令参考</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#.E5.BF.AB.E9.80.9F.E6.96.87.E6.A1.A3"><span class="tocnumber">4.1</span> <span class="toctext">快速文档</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#.E4.B8.8E.E7.8E.A9.E5.AE.B6.E7.9B.B8.E5.85.B3"><span class="tocnumber">4.2</span> <span class="toctext">与玩家相关</span></a>
+<ul>
+<li class="toclevel-3 tocsection-7"><a href="#.E4.BF.A1.E6.81.AF.E6.80.A7"><span class="tocnumber">4.2.1</span> <span class="toctext">信息性</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="#.E8.81.8A.E5.A4.A9"><span class="tocnumber">4.2.2</span> <span class="toctext">聊天</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="#.E9.A1.B9.E7.9B.AE"><span class="tocnumber">4.2.3</span> <span class="toctext">项目</span></a>
+<ul>
+<li class="toclevel-4 tocsection-10"><a href="#.E7.A4.BA.E4.BE.8B"><span class="tocnumber">4.2.3.1</span> <span class="toctext">示例</span></a></li>
+</ul>
+</li>
+<li class="toclevel-3 tocsection-11"><a href="#.E4.BC.A0.E9.80.81"><span class="tocnumber">4.2.4</span> <span class="toctext">传送</span></a></li>
+<li class="toclevel-3 tocsection-12"><a href="#.E6.9D.80"><span class="tocnumber">4.2.5</span> <span class="toctext">杀</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-13"><a href="#.E9.80.82.E5.BA.A6"><span class="tocnumber">4.3</span> <span class="toctext">适度</span></a>
+<ul>
+<li class="toclevel-3 tocsection-14"><a href="#.E5.AF.86.E7.A0.81.E6.93.8D.E4.BD.9C"><span class="tocnumber">4.3.1</span> <span class="toctext">密码操作</span></a></li>
+<li class="toclevel-3 tocsection-15"><a href="#.E7.89.B9.E6.9D.83.E6.93.8D.E7.BA.B5"><span class="tocnumber">4.3.2</span> <span class="toctext">特权操纵</span></a></li>
+<li class="toclevel-3 tocsection-16"><a href="#.E4.BB.8E.E6.9C.8D.E5.8A.A1.E5.99.A8.E4.B8.AD.E6.8E.92.E9.99.A4.E7.90.83.E5.91.98"><span class="tocnumber">4.3.3</span> <span class="toctext">从服务器中排除球员</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-17"><a href="#.E4.B8.8E.E6.9C.8D.E5.8A.A1.E5.99.A8.E7.9B.B8.E5.85.B3"><span class="tocnumber">4.4</span> <span class="toctext">与服务器相关</span></a>
+<ul>
+<li class="toclevel-3 tocsection-18"><a href="#.E4.BF.A1.E6.81.AF.E6.80.A7_2"><span class="tocnumber">4.4.1</span> <span class="toctext">信息性</span></a></li>
+<li class="toclevel-3 tocsection-19"><a href="#.E4.B8.96.E7.95.8C.E6.93.8D.E7.BA.B5"><span class="tocnumber">4.4.2</span> <span class="toctext">世界操纵</span></a></li>
+<li class="toclevel-3 tocsection-20"><a href="#.E6.9C.8D.E5.8A.A1.E5.99.A8.E7.BB.B4.E6.8A.A4"><span class="tocnumber">4.4.3</span> <span class="toctext">服务器维护</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-21"><a href="#.E5.9B.9E.E6.BB.9A"><span class="tocnumber">4.5</span> <span class="toctext">回滚</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-22"><a href="#Minetest.E6.B8.B8.E6.88.8F.E5.91.BD.E4.BB.A4.E7.9A.84.E5.91.BD.E4.BB.A4.E5.8F.82.E8.80.83"><span class="tocnumber">5</span> <span class="toctext">Minetest游戏命令的命令参考</span></a></li>
+</ul>
+</div>
+
+<h2><span id="发出命令"></span><span class="mw-headline" id=".E5.8F.91.E5.87.BA.E5.91.BD.E4.BB.A4">发出命令</span></h2>
+<p>要发出命令，只需像<a href="/Chat" title="Chat">chat</a>消息一样键入它，或使用<a href="/Console" title="Console">console</a>。 另外，您也可以按“ /”键（仅在默认<a href="/Controls" title="Controls">controls</a>中），这会简单地打开一个<a href="/Chat_window" title="Chat window">chat window</a>，其中已经为您键入了“ /”，然后向右键入命令 离开。 该命令本身将“不”出现在聊天中。 由于每个命令都以“ /”开头，因此普通聊天消息不能以“ /”开头； 即使这样的命令不存在，它们也会被解释为命令。 您可以通过服务器的响应来判断命令是否成功。 如果您在聊天中看到“-!- Invalid command: /blargh，则可能是拼写错误。 如果成功，大多数命令将导致服务器在聊天记录中为您写其他内容。
+</p>
+<h2><span id="从系统终端发出命令"></span><span class="mw-headline" id=".E4.BB.8E.E7.B3.BB.E7.BB.9F.E7.BB.88.E7.AB.AF.E5.8F.91.E5.87.BA.E5.91.BD.E4.BB.A4">从系统终端发出命令</span></h2>
+<p>要在从终端启动的Minetest服务器实例上发布命令，必须在启用<a rel="nofollow" class="external autonumber" href="https://www.gnu.org/software/ncursesncurses">[1]</a>库的情况下构建Minetest。 当用--terminal 参数启动minetestserver时，命令可以在游戏中执行； 即 &lt;command&gt; 
+</p>
+<h2><span id="常规语法"></span><span class="mw-headline" id=".E5.B8.B8.E8.A7.84.E8.AF.AD.E6.B3.95">常规语法</span></h2>
+<p>所有命令均以“<b> /</b>”开头。 此后，紧跟着一个单词，其后是一些或没有参数。 您可以在命令参考中找到确切的语法。 在以下命令参考中，用<b>&lt;&gt;</b>括起来的文本是实际值的占位符。 用<b>[ ]</b>编写的任何内容都可以省略。
+</p>
+<h2><span id="内置命令的命令参考"></span><span class="mw-headline" id=".E5.86.85.E7.BD.AE.E5.91.BD.E4.BB.A4.E7.9A.84.E5.91.BD.E4.BB.A4.E5.8F.82.E8.80.83">内置命令的命令参考</span></h2>
+<p>无论您安装的是mods还是<a href="/Games" title="Games"> games</a>，此处列出的命令始终可用。
+</p>
+<h3><span id="快速文档"></span><span class="mw-headline" id=".E5.BF.AB.E9.80.9F.E6.96.87.E6.A1.A3">快速文档</span></h3>
+<p>显示服务器命令和特权的简短文档； 它也会出现在聊天记录中。 如果帮助时间太长，您可以使用F10打开控制台以再次查看所有内容。
+</p>
+<ul><li>/ help -根据服务器上的权限显示可用命令的列表</li>
+<li>/ help &lt;命令&gt; -显示有关给定命令的简短描述。 即使您没有执行命令的权限，也可以查看命令的帮助</li>
+<li>/ help all -根据您的权限列出服务器上可用的命令，以及每个命令的简短描述和语法参考</li>
+<li>/ help privs -列出服务器上可能授予玩家的所有特权，并显示有关每个特权的简短描述</li></ul>
+<h3><span id="与玩家相关"></span><span class="mw-headline" id=".E4.B8.8E.E7.8E.A9.E5.AE.B6.E7.9B.B8.E5.85.B3">与玩家相关</span></h3>
+<h4><span id="信息性"></span><span class="mw-headline" id=".E4.BF.A1.E6.81.AF.E6.80.A7">信息性</span></h4>
+<ul><li>/privs [&lt;player&gt;]—授予&lt;player&gt;的特权列表，如果未指定，则为您自己的特权</li>
+<li>/haspriv &lt;privilege&gt;—列出所有具有指定特权的在线玩家</li>
+<li>/ last-login [&lt;player&gt;] &lt;/ code&gt;-显示&lt;player&gt;上次登录此服务器时区的日期和时间 (<a rel="nofollow" class="external text" href="https://en.wikipedia.org/wiki/Coordinated_Universal_Time">UTC</a> 时区, <a rel="nofollow" class="external text" href="https://en.wikipedia.org/wiki/ISO_8601">ISO 8601</a> 格式)。如果未指定，则显示您自己的上次登录时间</li></ul>
+<h4><span id="聊天"></span><span class="mw-headline" id=".E8.81.8A.E5.A4.A9">聊天</span></h4>
+<p>这些命令需要“ shout”特权才能工作。
+</p>
+<ul><li>/msg &lt;player&gt; &lt;message&gt;-向&lt;player&gt;发送直接消息&lt;message&gt;；但不影响其他玩家。注意：该消息并不是真正的秘密。任何人拦截网络流量，服务器操作员原则上仍可以阅读</li>
+<li>/me &lt;action&gt;—以“ * &lt;您的名字&gt; &lt;动作&gt;”的格式制作文本，出现在聊天记录中。例如“ /我吃披萨。” 导致“ * Alfred吃披萨。” （如果您的名字是“ Alfred”）</li></ul>
+<p>有关详细信息， 请参见<a href="/Chat" title="Chat">Chat</a> 
+</p>
+<h4><span id="项目"></span><span class="mw-headline" id=".E9.A1.B9.E7.9B.AE">项目</span></h4>
+<ul><li>/give &lt;player&gt; &lt;itemstring&gt; [&lt;count&gt; [&lt;wear&gt;]]-将指定的项（请参阅 <a href="/Itemstrings" title="Itemstrings">Itemstrings</a>）&lt;count&gt;次（默认值：1）提供给播放器。&lt;wear&gt;指定对工具的损坏（0-65535），对其他项目则没有意义，更高的意味着更大的损坏（默认值：0）。需要“给予”特权</li>
+<li>/giveme &lt;itemstring&gt; [&lt;count&gt; [&lt;wear&gt;]]—给自己的东西。&lt;count&gt;和&lt;wear&gt;的含义与/ give相同。需要“授予”特权。</li>
+<li>/pulverize—销毁所持物品。可以被任何玩家使用</li>
+<li>/clearinv [&lt;name&gt;]—销毁库存中的所有项目（未提供任何参数）或其他人的库存中的所有项目（name提供）。要清除其他人的库存，您需要“服务器”权限</li></ul>
+<p>提示：&lt;count&gt;和&lt;wear&gt;的负数将从65536开始倒数，因此您可以使用-1作为65535（可能的最大值）的简写。
+</p>
+<h5><span id="示例"></span><span class="mw-headline" id=".E7.A4.BA.E4.BE.8B">示例</span></h5>
+<ul><li>/giveme default:torch—给你一个火炬 <a href="/Torch" title="Torch">torch</a></li>
+<li>/give Peter default:cobble 50-给 <b> "玩家名称" </b>50鹅卵石 <a href="/Cobblestone" title="Cobblestone">cobblestone</a></li>
+<li>/giveme default:pick_steel 1 16383—为您提供大约25％磨损 的钢镐 <a href="/Pickaxe" title="Pickaxe">pickaxe</a></li></ul>
+<h4><span id="传送"></span><span class="mw-headline" id=".E4.BC.A0.E9.80.81">传送</span></h4>
+<p>传送是任何玩家立即移动到给定位置。以下所有命令均需要“传送”特权
+</p>
+<ul><li>/teleport &lt;x&gt;,&lt;y&gt;,&lt;z&gt;—将自己传送到给定的坐标 <a href="/Coordinates" title="Coordinates">coordinates</a></li>
+<li>/teleport &lt;target_player&gt;-将自己传送到名称为&lt;target_player&gt;的玩家</li>
+<li>/teleport &lt;player&gt; &lt;x&gt;,&lt;y&gt;,&lt;z&gt;-将&lt;player&gt;传送到给定的坐标。还需要“带来”特权</li>
+<li>/teleport &lt;player1&gt; &lt;player2&gt;—将&lt;player1&gt;传送到&lt;player2&gt;。还需要“带来”特权</li></ul>
+<p><a href="/Games/Minetest_Game" title="Games/Minetest Game">Minetest Game</a> 还提供命令“ /home”。有关 <a href="#Command_reference_for_Minetest_Game_commands">#Command reference for Minetest Game commands</a>
+</p>
+<h4><span id="杀"></span><span class="mw-headline" id=".E6.9D.80">杀</span></h4>
+<ul><li>/kill [玩家名称]：杀死玩家或自己。需要“ server”特权</li></ul>
+<h3><span id="适度"></span><span class="mw-headline" id=".E9.80.82.E5.BA.A6">适度</span></h3>
+<h4><span id="密码操作"></span><span class="mw-headline" id=".E5.AF.86.E7.A0.81.E6.93.8D.E4.BD.9C">密码操作</span></h4>
+<p>这些命令允许设置和重置任何播放器的密码，并且需要“密码”特权才能工作。
+</p>
+<ul><li>/setpassword &lt;player&gt; &lt;password&gt;-将&lt;player&gt;的密码设置为&lt;password&gt;</li>
+<li>/clearpassword &lt;player&gt;-将&lt;player&gt;的密码设置为空</li></ul>
+<h4><span id="特权操纵"></span><span class="mw-headline" id=".E7.89.B9.E6.9D.83.E6.93.8D.E7.BA.B5">特权操纵</span></h4>
+<p>所有这些命令都要求您具有“特权”（操纵所有特权）或“ basic_privs”（操纵“交互”和“喊叫”特权）特权。
+</p>
+<ul><li>/grant &lt;player&gt; &lt;privilege&gt;-将&lt;privilege&gt;授予&lt;player&gt;</li>
+<li>/grant &lt;player&gt; all—将所有可用特权授予&lt;player&gt;</li>
+<li>/grantme &lt;privilege&gt;-给自己&lt;privilege&gt;</li>
+<li>/grantme all—赋予自己所有特权</li>
+<li>/revoke &lt;player&gt; &lt;privilege&gt;—从&lt;player&gt;夺走&lt;privilege&gt;</li>
+<li>/revoke &lt;player&gt; all—从&lt;player&gt;中夺走尽可能多的特权</li>
+<li>/revokeme &lt;privilege&gt;—从自己身上夺走&lt;privilege&gt;</li>
+<li>/revokeme all—从您身上夺走尽可能多的特权</li></ul>
+<h4><span id="从服务器中排除球员"></span><span class="mw-headline" id=".E4.BB.8E.E6.9C.8D.E5.8A.A1.E5.99.A8.E4.B8.AD.E6.8E.92.E9.99.A4.E7.90.83.E5.91.98">从服务器中排除球员</span></h4>
+<p>这些命令允许用户踢，禁和禁球员。踢一个播放器意味着从服务器上删除一个连接的播放器。这需要“踢”特权。禁止玩家可以阻止他/她再次连接到服务器。播放器此时不需要连接。取消禁止是指取消玩家的禁令，允许他/她再次连接到服务器。禁止和取消禁止命令需要“禁止”特权。
+</p>
+<ul><li>/kick &lt;player name&gt; [&lt;reason&gt;]–用名称&lt;玩家名称&gt;击败玩家。可以选择以文本形式提供&lt;reason&gt;。此文本也会显示给踢过的玩家。</li>
+<li>/ban -显示被禁玩家名单</li>
+<li>/ban &lt;player name&gt;—播放器的禁令IP</li>
+<li>/unban &lt;player name&gt;-删除具有指定名称的玩家的禁令</li>
+<li>/unban &lt;IP address&gt;-删除具有指定IP地址的播放器禁令</li></ul>
+<p><br />
+</p>
+<h3><span id="与服务器相关"></span><span class="mw-headline" id=".E4.B8.8E.E6.9C.8D.E5.8A.A1.E5.99.A8.E7.9B.B8.E5.85.B3">与服务器相关</span></h3>
+<h4><span id="信息性_2"></span><span class="mw-headline" id=".E4.BF.A1.E6.81.AF.E6.80.A7_2">信息性</span></h4>
+<p>向服务器请求一些信息； 来自服务器的答案也将写入聊天记录中。
+</p>
+<ul><li>/admin-您所连接服务器的管理员/服务器操作员的播放器名称。</li>
+<li>/status—服务器的Minetest版本，服务器运行的时间（以秒为单位）（称为“正常运行时间”）<a href="/index.php?title=Message_Of_The_Day&amp;action=edit&amp;redlink=1" class="new" title="Message Of The Day (page does not exist)">message of the day</a>，连接的播放器列表和当天的消息（如果存在）。</li>
+<li>/mods-服务器上安装的mod列表。</li>
+<li>/days-当前比赛日（从0开始计数）</li>
+<li>/time-当前游戏时间（24小时制）</li></ul>
+<h4><span id="世界操纵"></span><span class="mw-headline" id=".E4.B8.96.E7.95.8C.E6.93.8D.E7.BA.B5">世界操纵</span></h4>
+<ul><li>/time &lt;hours&gt;:&lt;minutes&gt;—以24小时格式（0：00-23：59）<a href="/Time_of_day" title="Time of day">time of day</a>。需要“设置时间”特权</li>
+<li>/time &lt;time_of_day&gt;—将一天中的时间设置为0到24000之间的数字<a href="/Time_of_day" title="Time of day">time of day</a>（请参见 <a href="/Time_of_day" title="Time of day">time of day</a>）。需要“设置时间”特权</li>
+<li>/set -n time_speed &lt;speed&gt;-设置的速度昼/夜周期<a href="/Time_of_day" title="Time of day">day/night cycle</a>这里&lt;speed&gt;是时间的速度（读作“&lt;speed&gt;时间比在现实生活中更快”）。默认值为72，这意味着默认情况下，昼夜循环持续20分钟。需要“服务器”特权</li>
+<li>/spawnentity &lt;entity&gt; [&lt;X&gt;,&lt;Y&gt;,&lt;Z&gt;]-Spawns一个实体型<a rel="nofollow" class="external text" href="http://dev.minetest.net/LuaEntitySAO#Lua_Entity">entity</a>的（参见列表实体名称 <a href="/List_of_entity_names" title="List of entity names">List of entity names</a>）附近的位置或在X，Y，Z坐标，如果指定。需要“授予”和“互动”权限</li></ul>
+<h4><span id="服务器维护"></span><span class="mw-headline" id=".E6.9C.8D.E5.8A.A1.E5.99.A8.E7.BB.B4.E6.8A.A4">服务器维护</span></h4>
+<p>所有这些命令都需要“服务器”特权。
+</p>
+<ul><li>/shutdown—关闭服务器</li>
+<li>/set &lt;variable&gt;-显示给定服务器&lt;variable&gt;的值（→ minetest.conf）</li>
+<li>/set &lt;variable&gt; &lt;new value&gt;-将现有服务器&lt;variable&gt;设置为给定的&lt;new value&gt;</li>
+<li>/set -n &lt;variable&gt; &lt;initial value&gt;—创建一个名为&lt;variable&gt;的新服务器变量，并将其设置为&lt;initial value&gt;</li>
+<li>/clearobjects [full|quick]-清除服务器上的对象/实体（除去掉落的物品，小怪，甚至更多<a href="/Items" title="Items">items</a>, <a href="/Mobs" title="Mobs">mobs</a>）。在“快速”模式（默认）下，已加载的映射块中的对象会立即被删除，而其他对象则在其所在的映射块被加载时被删除。在“完全”模式下，将清除所有对象。快速模式非常快，但是完整模式可能会使服务器的爬网速度降低10到60秒以上，甚至冻结。</li>
+<li>/auth_reload—重新加载auth.txt，这是身份验证数据，包含特权和Base64加密密码</li>
+<li>/emergeblocks here [&lt;radius&gt;]-开始加载（或生成，如果不存在）具有可选半径的玩家当前位置周围的地图块（以节点为单位）</li>
+<li>/emergeblocks &lt;pos1&gt; &lt;pos2&gt;—开始加载（或生成，如果不存在的话）包含在pos1和pos2区域内的地图块</li>
+<li>/fixlight here [&lt;radius&gt;]-使用可选的半径（以节点为单位）重置玩家当前位置周围的照明</li>
+<li>/fixlight &lt;pos1&gt; &lt;pos2&gt;—重置pos1和pos2内的区域中包含的照明</li>
+<li>/deleteblocks here [&lt;radius&gt;]—从数据库中删除玩家所在的MapBlock。当这触发mapgen时，这可能会启动泥浆回流或Cavegen之类的机制，这很可能会影响超出指定范围的mapblock。113个块是无干扰mod的服务器的安全距离。&lt;radius&gt;是一个可选参数，用于指定删除MapBlocks的范围（以节点为单位）</li>
+<li>/deleteblocks &lt;pos1&gt; &lt;pos2&gt;-从数据库中将区域内从pos1到pos2的包含块的MapBlock删除。可能会撞到较大的区域。来自上面的警告</li>
+<li>/remove_player &lt;name&gt;-删除与给定播放器相关的所有数据。仅在播放器当前未连接时才有效。如果使用此名称的玩家再次连接，则他/她将被视为全新的玩家。密码，库存，位置等都消失了</li></ul>
+<h3><span id="回滚"></span><span class="mw-headline" id=".E5.9B.9E.E6.BB.9A">回滚</span></h3>
+<p>允许使用Rollback。需要“回滚”特权。
+</p>
+<ul><li>/rollback_check [&lt;range&gt;] [&lt;seconds&gt;]—检查谁最后一次触摸节点或节点附近，最大值。&lt;seconds&gt;之前（默认&lt;range&gt; = 0，默认&lt;seconds&gt; = 86400，它等于24小时实时）。</li>
+<li>/rollback &lt;player name&gt; [&lt;seconds&gt;]—恢复玩家的动作；&lt;seconds&gt;的默认值为60</li>
+<li>/rollback&#160;:&lt;actor name&gt; [&lt;seconds&gt;]—恢复演员（不是玩家）的动作；&lt;seconds&gt;的默认值为60</li></ul>
+<h2><span id="Minetest游戏命令的命令参考"></span><span class="mw-headline" id="Minetest.E6.B8.B8.E6.88.8F.E5.91.BD.E4.BB.A4.E7.9A.84.E5.91.BD.E4.BB.A4.E5.8F.82.E8.80.83">Minetest游戏命令的命令参考</span></h2>
+<p>如果您使用Minetest游戏，则可以使用一些其他命令。如果您使用其他游戏<a href="/Games" title="Games">Games</a>，则这些命令可能不可用。
+</p>
+<ul><li>/sethome—将当前位置设置为“原点”。需要“家庭”特权</li>
+<li>/home—将自己传送到“归宿”。如果尚未设置“原点”，则此命令不起作用，/sethome请先设置。需要“家庭”特权</li>
+<li>/killme—杀死自己</li></ul>
+<!-- 
+NewPP limit report
+Cached time: 20230709184742
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.237 seconds
+Real time usage: 0.451 seconds
+Preprocessor visited node count: 151/1000000
+Post‐expand include size: 1878/2097152 bytes
+Template argument size: 417/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 13/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.120/7 seconds
+Lua virtual size: 5.54 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  327.388      1 Template:Languages
+100.00%  327.388      1 -total
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:4938-0!canonical and timestamp 20230709184742 and revision id 27549
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Server_commands/zh-hans&amp;oldid=27549">http://wiki.minetest.net/index.php?title=Server_commands/zh-hans&amp;oldid=27549</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/Category:Chinese" title="Category:Chinese">Chinese</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Server+commands%2Fzh-hans" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Server_commands/zh-hans" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Server_commands/zh-hans&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Server_commands/zh-hans">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Server_commands/zh-hans&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Server_commands/zh-hans&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Server_commands/zh-hans" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Server_commands/zh-hans" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Server_commands/zh-hans&amp;oldid=27549" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Server_commands/zh-hans&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 22 January 2023, at 14:45.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.237","walltime":"0.451","ppvisitednodes":{"value":151,"limit":1000000},"postexpandincludesize":{"value":1878,"limit":2097152},"templateargumentsize":{"value":417,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":13,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  327.388      1 Template:Languages","100.00%  327.388      1 -total"]},"scribunto":{"limitreport-timeusage":{"value":"0.120","limit":"7"},"limitreport-virtmemusage":{"value":5808128,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709184742","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":817});});</script></body></html>

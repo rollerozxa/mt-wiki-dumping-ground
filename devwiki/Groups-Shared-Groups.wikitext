@@ -1,0 +1,41 @@
+{{LuaTips}}
+This a list of groups which are shared across multiple mods and games, or groups which have been accepted by the community to have a standard meaning.
+
+== List of shared groups ==
+=== GUI-related ===
+* <code>not_in_creative_inventory=1</code>: This item must not appear in the [https://wiki.minetest.net/index.php?title=Creative_inventory creative inventory]
+* <code>not_in_craft_guide=1</code>: Crafting recipes which have this item as a result will not be shown in a [http://wiki.minetest.net/Crafting_guide crafting guide]. The item may still be shown as an ingredient.
+
+=== Colors ===
+For dyes, the color groups used in Minetest Game have been widely accepted. If you add a dye, you should add the appropriate groups. The groups have names like <code>basecolor_white</code>, <code>excolor_sky_blue</code> and <code>unicolor_dark_green</code>.
+
+See [https://github.com/minetest/minetest_game/blob/master/game_api.txt game_api.txt], section “Dyes” for a detailed description and see the [https://github.com/minetest/minetest_game/tree/master/mods/dye/init.lua dye] mod for an example implementation.
+
+=== Object classification ===
+These groups are used to classify something. The rating is assumed to be 1. These groups mean that the item in question ''is'' something. E.g. the group “<code>tree=1</code>” means the item ''is a'' tree trunk.
+
+==== Basic nodes ====
+* <code>tree</code>: Tree trunk
+* <code>leaves</code>: Leaves, (pine) needles, and the like
+* <code>sand</code>: Sand
+* <code>sandstone</code>: Sandstone
+* <code>stone</code>: Stone or stone-like materials
+* <code>water</code>: Water (source or flowing)
+* <code>lava</code>: Lava (source or flowing)
+
+==== Additional nodes ====
+* <code>wood</code>: Block of wooden planks
+* <code>wool</code>: Block of wool
+* <code>sapling</code>: Sapling
+* <code>flower</code>: Flower
+
+=== Items and tools ===
+* <code>pickaxe</code>: Pickaxe
+* <code>shovel</code>: Shovel
+* <code>axe</code>: Axe
+* <code>sword</code>: Sword
+* <code>hoe</code>: Hoe (farming tool)
+
+=== Damage groups ===
+* <code>fleshy</code>: ''De facto'' considered the “default” damage group for players and mobs when a game has no sophisticated damage system and everything is considered to be in the same “damage class”. Otherwise, intended for living things like animals and the player. This could imply some blood effects when hitting.
+[[Category:Misc]]

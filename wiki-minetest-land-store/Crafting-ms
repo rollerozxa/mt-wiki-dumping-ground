@@ -1,0 +1,872 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Crafting/ms - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"e94c0f41939b4ef732856dcd","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Crafting/ms","wgTitle":"Crafting/ms","wgCurRevisionId":18436,"wgRevisionId":18436,"wgArticleId":3226,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages","Gameplay","Malay"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Crafting/ms","wgRelevantArticleId":3226,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":
+"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","jquery.tablesorter.styles":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=jquery.tablesorter.styles%7Cmediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Crafting_ms rootpage-Crafting skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Crafting/ms</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/Crafting" title="Crafting">Crafting</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> Bahasa:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><a href="/Crafting" title="Crafting">English</a>&#160;• <bdi lang="de"><a href="/Crafting/de" title="Crafting/de">Deutsch</a></bdi>&#160;• <bdi lang="es"><a href="/Crafting/es" title="Crafting/es">español</a></bdi>&#160;• <bdi lang="fr"><a href="/Crafting/fr" title="Crafting/fr">français</a></bdi>&#160;• <bdi lang="hu"><a href="/Crafting/hu" title="Crafting/hu">magyar</a></bdi>&#160;• <bdi lang="it"><a href="/Crafting/it" title="Crafting/it">italiano</a></bdi><b>&#160;• <bdi lang="ms"><a class="mw-selflink selflink">Bahasa Melayu</a></bdi></b>&#160;• <bdi lang="ru"><a href="/Crafting/ru" title="Crafting/ru">русский</a></bdi></td>
+</tr></tbody></table>
+<p><b>Pertukangan</b> (<a href="/Help:Original_names/ms" title="Help:Original names/ms">BI</a>: <i>crafting</i>) ialah cara untuk mencipta <a href="/Blocks/ms" class="mw-redirect" title="Blocks/ms">blok</a> dan <a href="/Items/ms" class="mw-redirect" title="Items/ms">item</a> dalam Minetest. Untuk mencipta sesuatu, pemain mestilah pindahkan item ke dalam grid pertukangan dan menyusunnya mengikut corak yang ditetapkan.
+</p><p>Pelbagai resipi tambahan yang dicipta oleh pemain dan grid pertukangan yang lain ada di dalam pelbagai <a href="/Mods/ms" title="Mods/ms">mods</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Asas_pertukangan"><span class="tocnumber">1</span> <span class="toctext">Asas pertukangan</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Grid_pertukangan_dan_slot_output"><span class="tocnumber">1.1</span> <span class="toctext">Grid pertukangan dan slot output</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Input_dan_output"><span class="tocnumber">1.2</span> <span class="toctext">Input dan output</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Belajar_resipi_pertukangan"><span class="tocnumber">1.3</span> <span class="toctext">Belajar resipi pertukangan</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Menggunakan_item"><span class="tocnumber">1.4</span> <span class="toctext">Menggunakan item</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Resipi_berbentuk_dan_tanpa_bentuk"><span class="tocnumber">1.5</span> <span class="toctext">Resipi berbentuk dan tanpa bentuk</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Aktiviti_yang_serupa_dengan_pertukangan"><span class="tocnumber">2</span> <span class="toctext">Aktiviti yang serupa dengan pertukangan</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Contoh_resipi"><span class="tocnumber">3</span> <span class="toctext">Contoh resipi</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Resipi_tanpa_bentuk"><span class="tocnumber">3.1</span> <span class="toctext">Resipi tanpa bentuk</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Resipi_pembaikan"><span class="tocnumber">3.2</span> <span class="toctext">Resipi pembaikan</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Resipi_berbentuk"><span class="tocnumber">3.3</span> <span class="toctext">Resipi berbentuk</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Resipi_pertukangan_menggunakan_kumpulan"><span class="tocnumber">3.4</span> <span class="toctext">Resipi pertukangan menggunakan kumpulan</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#Mula_bermain"><span class="tocnumber">4</span> <span class="toctext">Mula bermain</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Lihat_juga"><span class="tocnumber">5</span> <span class="toctext">Lihat juga</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Asas_pertukangan">Asas pertukangan</span></h2>
+<p><i>Bahagian ini menjelaskan asas pertukangan dengan cara yang paling umum. Peraturan yang dijelaskan di sini digunapakai untuk kesemua mods yang ada.</i>
+</p>
+<h3><span class="mw-headline" id="Grid_pertukangan_dan_slot_output">Grid pertukangan dan slot output</span></h3>
+<p>Untuk membolehkan anda mencipta apa-apa, anda perlukan grid pertukangan. Grid pertukangan mempunyai sejumlah slot <a href="/index.php?title=Inventory/ms&amp;action=edit&amp;redlink=1" class="new" title="Inventory/ms (page does not exist)">inventori</a> dan anda boleh letakkan, pindahkan dan ambil semula <a href="/Items/ms" class="mw-redirect" title="Items/ms">item</a> daripadanya seperti yang boleh dilakukan dengan sebuah inventori. Untuk mencipta, item mestilah disusun dengan cara tertentu di dalam grid pertukangan (lihat “Input dan output”). Di sebelah grid pertukangan terdapatnya sebuah slot output, di mana hasil ciptaan akan muncul apabila anda susun item dengan cara yang sah. Klik pada simbol ini dengan butang tetikus kiri untuk menciptanya satu kali. Item yang diperlukan di dalam grid pertukangan akan digunakan. Klik pada slot output dengan butang tetikus tengah untuk mengambil ciptaan sehingga sepuluh buah (bergantung kepada jumlah item yang tinggal di dalam grid pertukangan). Pertukangan selalunya tidak memakan masa dan anda boleh menggunakan item yang terhasil dengan segera.
+</p><p>Grid pertukangan selalunya berfungsi seperti inventori. Oleh itu, grid inventori boleh dijumpai di dalam <a href="/index.php?title=Inventory_menu/ms&amp;action=edit&amp;redlink=1" class="new" title="Inventory menu/ms (page does not exist)">menu inventori</a> dan boleh digunakan/disalahgunakan sebagai sambungan inventori pemain.
+</p><p>Namun begitu, anda tidak boleh meletakkan item ke dalam slot output, anda hanya boleh mengambil item daripadanya.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/File:Crafting_grid.png" class="image"><img alt="" src="/images/thumb/b/b9/Crafting_grid.png/300px-Crafting_grid.png" decoding="async" width="300" height="166" class="thumbimage" srcset="/images/thumb/b/b9/Crafting_grid.png/450px-Crafting_grid.png 1.5x, /images/b/b9/Crafting_grid.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Crafting_grid.png" class="internal" title="Enlarge"></a></div>Grid pertukangan 3×3 terbina dalam pemain (kiri). Slot output (kanan).</div></div></div>
+<p>Minetest Game hanya ada sebuah grid pertukangan. Ia boleh diakses melalui menu inventori dan mempunyai saiz 3×3 slot.
+</p><p>Mods dan <a href="/Games/ms" title="Games/ms">permainan</a> Minetest boleh menambah beberapa grid pertukangan di pelbagai tempat, bukan sahaja di dalam inventori. Boleh juga membuatkan menu inventori untuk tidak ada grid pertukangan.
+</p>
+<h3><span class="mw-headline" id="Input_dan_output">Input dan output</span></h3>
+<p>Sebuah resipi pertukangan akan sekurang-kurangnya mempunyai sebuah item input dan hanya akan ada satu tindanan item output. Item input boleh menjadi item padu (contohnya, <a href="/index.php?title=Wooden_Planks/ms&amp;action=edit&amp;redlink=1" class="new" title="Wooden Planks/ms (page does not exist)">Papan Kayu</a>) atau item yang menjadi ahli sesebuah <a href="/index.php?title=Groups/ms&amp;action=edit&amp;redlink=1" class="new" title="Groups/ms (page does not exist)">kumpulan</a> (contohnya, kumpulan <a href="/Category:Wood" title="Category:Wood">papan</a>, kumpulan di mana <a href="/index.php?title=Wooden_Planks/ms&amp;action=edit&amp;redlink=1" class="new" title="Wooden Planks/ms (page does not exist)">Papan Kayu</a> dan <a href="/index.php?title=Junglewood_Planks/ms&amp;action=edit&amp;redlink=1" class="new" title="Junglewood Planks/ms (page does not exist)">Papan Kayu Hutan</a> menjadi ahlinya). Jika sesebuah resipi mempunyai banyak slot yang memerlukan kumpulan yang sama, ia tidak bermakna anda perlu meletakkan item yang sama dalam kesemua slot-slot ini. Sila lihat <a href="#Resipi_pertukangan_menggunakan_kumpulan">#Resipi pertukangan menggunakan kumpulan</a> untuk contoh yang lebih jelas.
+</p><p><a href="/Games/Minetest_Game/ms" title="Games/Minetest Game/ms">Minetest Game</a> dan <a href="/index.php?title=Game/ms&amp;action=edit&amp;redlink=1" class="new" title="Game/ms (page does not exist)">permainan-permainan</a> yang lain, serta pelbagai jenis mods menggunakan sistem kumpulan secara besar-besaran, anda mesti memahami konsep kumpulan ini untuk pertukangan yang efisien.
+</p>
+<h3><span class="mw-headline" id="Belajar_resipi_pertukangan">Belajar resipi pertukangan</span></h3>
+<p>Untuk membolehkan pertukangan, anda perlulah tahu resipi pertukangan yang mana yang ada dahulu. Cara yang biasa adalah dengan menggunakan <a href="/Crafting_guide/ms" title="Crafting guide/ms">panduan pertukangan</a>, sebuah elemen GUI yang memberitahu pemain tentang resipi pertukangan yang terdapat di dalam permainan. Ianya sebuah alatan yang sangat penting untuk bermain.
+</p><p>Kebanyakan subpermainan mempunyai panduan pertukangan terbina dalamnya, jadi anda boleh belajar kesemua resipi pertukangan yang diperlukan dalam permainan. Namun begitu, Minetest Game <i>tiada</i> panduan pertukangan. Untuk belajar resipi pertukangan untuk Minetest Game, anda perlu pasang dan gunakan mods <a href="/Crafting_guide/ms" title="Crafting guide/ms">panduan pertukangan</a> ataupun membaca artikel-artikel dalam wiki ini. Menggunakan panduan pertukangan itu digalakkan kerana ia lebih mudah digunakan, dan kemungkinan ada resipi dalam wiki ini yang telah ketinggalan atau tersilap.
+</p>
+<h3><span class="mw-headline" id="Menggunakan_item">Menggunakan item</span></h3>
+<p>Kebiasaannya, mencipta sebuah item akan menggunakan betul-betul sebuah item daripada setiap slot di dalam grid pertukangan.
+</p><p>Sebuah resipi pertukangan juga boleh menggantikan sebuah item dengan item lain. Perkara ini kini jarang digunakan di dalam mods. Dalam Minetest Game, menggunakan <a href="/index.php?title=Bucket/ms&amp;action=edit&amp;redlink=1" class="new" title="Bucket/ms (page does not exist)">Baldi Lava</a> sebagai <a href="/Smelting/ms" class="mw-redirect" title="Smelting/ms">bahan api relau</a> tidak menggunakan item tersebut, sebaliknya ia meninggalkan <a href="/index.php?title=Bucket/ms&amp;action=edit&amp;redlink=1" class="new" title="Bucket/ms (page does not exist)">Baldi Kosong</a> di dalam slot bahan api.
+</p>
+<h3><span class="mw-headline" id="Resipi_berbentuk_dan_tanpa_bentuk">Resipi berbentuk dan tanpa bentuk</span></h3>
+<p>Terdapat dua jenis resipi pertukangan, resipi berbentuk dan resipi tanpa bentuk.
+</p><p>Untuk resipi berbentuk, item mestilah disusun mengikut corak yang sepatutnya. Wiki ini mendokumenkan corak-corak ini untuk Minetest Game. Sekiranya resipi pertukangan mengambil ruang segi empat yang lebih kecil daripada grid pertukangan, ia boleh dipindahkan ke mana-mana bahagian grid pertukangan. Contohnya, resipi 2×2 boleh disusun di sebelah atas kiri, atas kanan, bawah kiri atau bawah kanan dalam grid pertukangan 3×3. Sekiranya resipi pertukangan menggunakan lebih banyak ruang daripada yang ada di dalam grid pertukangan, and tak boleh mencipta item tersebut dengan grid pertukangan tersebut, anda perlukan grid pertukangan yang lebih besar.
+</p><p>Untuk resipi tanpa bentuk, item yang diperlukan boleh diletakkan di <i>mana-mana</i> slot yang ada pada grid pertukangan tersebut.
+</p><p>Kebanyakan resipi pertukangan Minetest Game resipi berbentuk. Jika tidak dinyatakan secara nyata, anggaplah sesuatu resipi pertukangan itu sebagai resipi berbentuk. Resipi tanpa bentuk di dalam Minetest Game menghasilkan <a href="/index.php?title=Bronze_Ingot/ms&amp;action=edit&amp;redlink=1" class="new" title="Bronze Ingot/ms (page does not exist)">jongkong gangsa</a>, <a href="/index.php?title=Wool/ms&amp;action=edit&amp;redlink=1" class="new" title="Wool/ms (page does not exist)">bulu biri-biri</a>, <a href="/index.php?title=Flour/ms&amp;action=edit&amp;redlink=1" class="new" title="Flour/ms (page does not exist)">tepung</a> dan <a href="/index.php?title=Dye/ms&amp;action=edit&amp;redlink=1" class="new" title="Dye/ms (page does not exist)">pewarna</a>.
+</p>
+<h2><span class="mw-headline" id="Aktiviti_yang_serupa_dengan_pertukangan">Aktiviti yang serupa dengan pertukangan</span></h2>
+<p><a href="/Smelting/ms" class="mw-redirect" title="Smelting/ms">Peleburan</a> dan <a href="/index.php?title=Repairing/ms&amp;action=edit&amp;redlink=1" class="new" title="Repairing/ms (page does not exist)">pembaikan</a> ialah pertukangan dengan cara yang berbeza sedikit, kebanyakan peraturan yang dijelaskan di sini juga digunapakai untuk mereka. Untuk peleburan, grid pertukangannya hanyalah 1×1. Resipi pembaikan itu sentiasa resipi tanpa bentuk yang mengandungi dua alatan daripada jenis yang sama.
+</p>
+<h2><span class="mw-headline" id="Contoh_resipi">Contoh resipi</span></h2>
+<p>Bahagian ini mengandungi contoh-contoh jenis pertukangan asas secara besar-besaran. Contoh di sini semuanya diambil daripada Minetest Game.
+</p>
+<h3><span class="mw-headline" id="Resipi_tanpa_bentuk">Resipi tanpa bentuk</span></h3>
+<p><a href="/index.php?title=Bronze_Ingot/ms&amp;action=edit&amp;redlink=1" class="new" title="Bronze Ingot/ms (page does not exist)">Jongkong Gangsa</a> ialah contoh resipi tanpa bentuk. Anda memerlukan seketul <a href="/index.php?title=Steel_Ingot/ms&amp;action=edit&amp;redlink=1" class="new" title="Steel Ingot/ms (page does not exist)">Jongkong Keluli</a> dan seketul <a href="/index.php?title=Copper_Ingot/ms&amp;action=edit&amp;redlink=1" class="new" title="Copper Ingot/ms (page does not exist)">Jongkong Tembaga</a>. Anda boleh meletakkannya di mana-mana sahaja dalam grid pertukangan sesuka hati, maka kesemua resipi di bawah ini sah digunakan:
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th scope="row" width="50px">Nama
+</th>
+<th scope="row" width="140px">Bahan-bahan
+</th>
+<th scope="row" width="140px">Input/Output
+</th></tr>
+<tr>
+<th scope="row"><a href="/index.php?title=Bronze_Ingot/ms&amp;action=edit&amp;redlink=1" class="new" title="Bronze Ingot/ms (page does not exist)">Jongkong Gangsa</a>
+</th>
+<td><a href="/index.php?title=Steel_Ingot/ms&amp;action=edit&amp;redlink=1" class="new" title="Steel Ingot/ms (page does not exist)">Jongkong Keluli</a> + <a href="/index.php?title=Copper_ingot/ms&amp;action=edit&amp;redlink=1" class="new" title="Copper ingot/ms (page does not exist)">Jongkong Tembaga</a>
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Steel_Ingot" title="Steel Ingot"><img alt="Steel Ingot.png" src="/images/thumb/b/bd/Steel_Ingot.png/32px-Steel_Ingot.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/bd/Steel_Ingot.png/48px-Steel_Ingot.png 1.5x, /images/thumb/b/bd/Steel_Ingot.png/64px-Steel_Ingot.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Copper_Ingot" title="Copper Ingot"><img alt="Copper Ingot.png" src="/images/thumb/0/00/Copper_Ingot.png/32px-Copper_Ingot.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/00/Copper_Ingot.png/48px-Copper_Ingot.png 1.5x, /images/thumb/0/00/Copper_Ingot.png/64px-Copper_Ingot.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/Bronze_Ingot" title="Bronze Ingot"><img alt="Bronze Ingot.png" src="/images/thumb/1/16/Bronze_Ingot.png/32px-Bronze_Ingot.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/16/Bronze_Ingot.png/48px-Bronze_Ingot.png 1.5x, /images/thumb/1/16/Bronze_Ingot.png/64px-Bronze_Ingot.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black"></span></div></div>
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<th scope="row"><a href="/index.php?title=Bronze_Ingot/ms&amp;action=edit&amp;redlink=1" class="new" title="Bronze Ingot/ms (page does not exist)">Jongkong Gangsa</a>
+</th>
+<td><a href="/index.php?title=Steel_Ingot/ms&amp;action=edit&amp;redlink=1" class="new" title="Steel Ingot/ms (page does not exist)">Jongkong Keluli</a> + <a href="/index.php?title=Copper_ingot/ms&amp;action=edit&amp;redlink=1" class="new" title="Copper ingot/ms (page does not exist)">Jongkong Tembaga</a>
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Steel_Ingot" title="Steel Ingot"><img alt="Steel Ingot.png" src="/images/thumb/b/bd/Steel_Ingot.png/32px-Steel_Ingot.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/bd/Steel_Ingot.png/48px-Steel_Ingot.png 1.5x, /images/thumb/b/bd/Steel_Ingot.png/64px-Steel_Ingot.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Copper_Ingot" title="Copper Ingot"><img alt="Copper Ingot.png" src="/images/thumb/0/00/Copper_Ingot.png/32px-Copper_Ingot.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/00/Copper_Ingot.png/48px-Copper_Ingot.png 1.5x, /images/thumb/0/00/Copper_Ingot.png/64px-Copper_Ingot.png 2x" /></a></div></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/Bronze_Ingot" title="Bronze Ingot"><img alt="Bronze Ingot.png" src="/images/thumb/1/16/Bronze_Ingot.png/32px-Bronze_Ingot.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/16/Bronze_Ingot.png/48px-Bronze_Ingot.png 1.5x, /images/thumb/1/16/Bronze_Ingot.png/64px-Bronze_Ingot.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black"></span></div></div>
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<th scope="row"><a href="/index.php?title=Bronze_Ingot/ms&amp;action=edit&amp;redlink=1" class="new" title="Bronze Ingot/ms (page does not exist)">Jongkong Gangsa</a>
+</th>
+<td><a href="/index.php?title=Steel_Ingot/ms&amp;action=edit&amp;redlink=1" class="new" title="Steel Ingot/ms (page does not exist)">Jongkong Keluli</a> + <a href="/index.php?title=Copper_ingot/ms&amp;action=edit&amp;redlink=1" class="new" title="Copper ingot/ms (page does not exist)">Jongkong Tembaga</a>
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Steel_Ingot" title="Steel Ingot"><img alt="Steel Ingot.png" src="/images/thumb/b/bd/Steel_Ingot.png/32px-Steel_Ingot.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/bd/Steel_Ingot.png/48px-Steel_Ingot.png 1.5x, /images/thumb/b/bd/Steel_Ingot.png/64px-Steel_Ingot.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Copper_Ingot" title="Copper Ingot"><img alt="Copper Ingot.png" src="/images/thumb/0/00/Copper_Ingot.png/32px-Copper_Ingot.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/00/Copper_Ingot.png/48px-Copper_Ingot.png 1.5x, /images/thumb/0/00/Copper_Ingot.png/64px-Copper_Ingot.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/Bronze_Ingot" title="Bronze Ingot"><img alt="Bronze Ingot.png" src="/images/thumb/1/16/Bronze_Ingot.png/32px-Bronze_Ingot.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/16/Bronze_Ingot.png/48px-Bronze_Ingot.png 1.5x, /images/thumb/1/16/Bronze_Ingot.png/64px-Bronze_Ingot.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black"></span></div></div>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p>Dan seterusnya.
+</p><p>Untuk memelihara halaman wiki supaya pendek dan ringkas, hanya sebuah pertukangan yang sah sahaja dipaparkan walaupun ada banyak pertukangan yang sah.
+</p>
+<h3><span class="mw-headline" id="Resipi_pembaikan">Resipi pembaikan</span></h3>
+<p>Jika anda ada dua Penyodok Keluli, anda boleh membaiki salah satu dengan meletakkan mereka berdua dekat mana-mana slot dalam grid pertukangan:
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th scope="row" width="50px">Nama
+</th>
+<th scope="col" width="140px">Bahan
+</th>
+<th scope="col">Input &#8594; Output
+</th></tr>
+<tr>
+<th scope="row"><a href="/index.php?title=Shovel/ms&amp;action=edit&amp;redlink=1" class="new" title="Shovel/ms (page does not exist)">Penyodok</a> Keluli yang dibaiki
+</th>
+<td align="center"><a href="/index.php?title=Shovel/ms&amp;action=edit&amp;redlink=1" class="new" title="Shovel/ms (page does not exist)">Penyodok</a> Keluli yang haus
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Steel_Shovel_slightly_worn_off" title="Steel Shovel slightly worn off"><img alt="Steel Shovel slightly worn off.png" src="/images/thumb/d/d1/Steel_Shovel_slightly_worn_off.png/32px-Steel_Shovel_slightly_worn_off.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/d1/Steel_Shovel_slightly_worn_off.png/48px-Steel_Shovel_slightly_worn_off.png 1.5x, /images/thumb/d/d1/Steel_Shovel_slightly_worn_off.png/64px-Steel_Shovel_slightly_worn_off.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Steel_Shovel_heavily_worn_off" title="Steel Shovel heavily worn off"><img alt="Steel Shovel heavily worn off.png" src="/images/thumb/4/4d/Steel_Shovel_heavily_worn_off.png/32px-Steel_Shovel_heavily_worn_off.png" decoding="async" width="32" height="32" srcset="/images/thumb/4/4d/Steel_Shovel_heavily_worn_off.png/48px-Steel_Shovel_heavily_worn_off.png 1.5x, /images/thumb/4/4d/Steel_Shovel_heavily_worn_off.png/64px-Steel_Shovel_heavily_worn_off.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/Steel_Shovel_repaired" title="Steel Shovel repaired"><img alt="Steel Shovel repaired.png" src="/images/thumb/1/17/Steel_Shovel_repaired.png/32px-Steel_Shovel_repaired.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/17/Steel_Shovel_repaired.png/48px-Steel_Shovel_repaired.png 1.5x, /images/thumb/1/17/Steel_Shovel_repaired.png/64px-Steel_Shovel_repaired.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black"></span></div></div>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p>Ambil perhatian bahawa resipi pembaikan juga merupakan resipi tanpa bentuk. Resipi pembaikan selalunya tidak ditunjukkan di dalam wiki (kecuali dalam contoh yang ini).
+</p>
+<h3><span class="mw-headline" id="Resipi_berbentuk">Resipi berbentuk</span></h3>
+<p>Ini semua pertukangan yang sah untuk resipi pertukangan berbentuk 3×1:
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th scope="row" width="50px">Nama
+</th>
+<th scope="col" width="140px">Bahan
+</th>
+<th class="unsortable" scope="col">Input &#8594; Output
+</th></tr>
+<tr>
+<th scope="row"><a href="/index.php?title=Paper/ms&amp;action=edit&amp;redlink=1" class="new" title="Paper/ms (page does not exist)">Kertas</a>
+</th>
+<td align="center"><a href="/Papyrus/ms" title="Papyrus/ms">Papirus</a>
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Papyrus" title="Papyrus"><img alt="Papyrus.png" src="/images/thumb/1/12/Papyrus.png/32px-Papyrus.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/12/Papyrus.png/48px-Papyrus.png 1.5x, /images/thumb/1/12/Papyrus.png/64px-Papyrus.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Papyrus" title="Papyrus"><img alt="Papyrus.png" src="/images/thumb/1/12/Papyrus.png/32px-Papyrus.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/12/Papyrus.png/48px-Papyrus.png 1.5x, /images/thumb/1/12/Papyrus.png/64px-Papyrus.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Papyrus" title="Papyrus"><img alt="Papyrus.png" src="/images/thumb/1/12/Papyrus.png/32px-Papyrus.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/12/Papyrus.png/48px-Papyrus.png 1.5x, /images/thumb/1/12/Papyrus.png/64px-Papyrus.png 2x" /></a></div></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/Paper" title="Paper"><img alt="Paper.png" src="/images/thumb/b/b2/Paper.png/32px-Paper.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/b2/Paper.png/48px-Paper.png 1.5x, /images/thumb/b/b2/Paper.png/64px-Paper.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black"></span></div></div>
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<th scope="row"><a href="/index.php?title=Paper/ms&amp;action=edit&amp;redlink=1" class="new" title="Paper/ms (page does not exist)">Kertas</a>
+</th>
+<td align="center"><a href="/Papyrus/ms" title="Papyrus/ms">Papirus</a>
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Papyrus" title="Papyrus"><img alt="Papyrus.png" src="/images/thumb/1/12/Papyrus.png/32px-Papyrus.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/12/Papyrus.png/48px-Papyrus.png 1.5x, /images/thumb/1/12/Papyrus.png/64px-Papyrus.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Papyrus" title="Papyrus"><img alt="Papyrus.png" src="/images/thumb/1/12/Papyrus.png/32px-Papyrus.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/12/Papyrus.png/48px-Papyrus.png 1.5x, /images/thumb/1/12/Papyrus.png/64px-Papyrus.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Papyrus" title="Papyrus"><img alt="Papyrus.png" src="/images/thumb/1/12/Papyrus.png/32px-Papyrus.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/12/Papyrus.png/48px-Papyrus.png 1.5x, /images/thumb/1/12/Papyrus.png/64px-Papyrus.png 2x" /></a></div></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/Paper" title="Paper"><img alt="Paper.png" src="/images/thumb/b/b2/Paper.png/32px-Paper.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/b2/Paper.png/48px-Paper.png 1.5x, /images/thumb/b/b2/Paper.png/64px-Paper.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black"></span></div></div>
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<th scope="row"><a href="/index.php?title=Paper/ms&amp;action=edit&amp;redlink=1" class="new" title="Paper/ms (page does not exist)">Kertas</a>
+</th>
+<td align="center"><a href="/Papyrus/ms" title="Papyrus/ms">Papirus</a>
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Papyrus" title="Papyrus"><img alt="Papyrus.png" src="/images/thumb/1/12/Papyrus.png/32px-Papyrus.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/12/Papyrus.png/48px-Papyrus.png 1.5x, /images/thumb/1/12/Papyrus.png/64px-Papyrus.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Papyrus" title="Papyrus"><img alt="Papyrus.png" src="/images/thumb/1/12/Papyrus.png/32px-Papyrus.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/12/Papyrus.png/48px-Papyrus.png 1.5x, /images/thumb/1/12/Papyrus.png/64px-Papyrus.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Papyrus" title="Papyrus"><img alt="Papyrus.png" src="/images/thumb/1/12/Papyrus.png/32px-Papyrus.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/12/Papyrus.png/48px-Papyrus.png 1.5x, /images/thumb/1/12/Papyrus.png/64px-Papyrus.png 2x" /></a></div></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/Paper" title="Paper"><img alt="Paper.png" src="/images/thumb/b/b2/Paper.png/32px-Paper.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/b2/Paper.png/48px-Paper.png 1.5x, /images/thumb/b/b2/Paper.png/64px-Paper.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black"></span></div></div>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p>Kesemua pertukangan ini sebahagian daripada resipi yang sama. Halaman wiki yang sebenar tidak akan mengulangi pertukangan lagi dua untuk memudahkan.
+</p>
+<h3><span class="mw-headline" id="Resipi_pertukangan_menggunakan_kumpulan">Resipi pertukangan menggunakan kumpulan</span></h3>
+<p>Sebuah resipi pertukangan menggunakan kumpulan boleh ditunjukkan seperti ini di dalam wiki:
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th scope="row" width="50px">Nama
+</th>
+<th scope="col" width="140px">Bahan
+</th>
+<th scope="col">Input &#8594; Output
+</th></tr>
+<tr>
+<th scope="row"><a href="/index.php?title=Furnace/ms&amp;action=edit&amp;redlink=1" class="new" title="Furnace/ms (page does not exist)">Relau</a>
+</th>
+<td align="center"><a href="/Category:Stone" title="Category:Stone">Item kumpulan “batu”</a>
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Group_stone" title="Group stone"><img alt="Group stone.png" src="/images/thumb/0/00/Group_stone.png/32px-Group_stone.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/00/Group_stone.png/48px-Group_stone.png 1.5x, /images/thumb/0/00/Group_stone.png/64px-Group_stone.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Group_stone" title="Group stone"><img alt="Group stone.png" src="/images/thumb/0/00/Group_stone.png/32px-Group_stone.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/00/Group_stone.png/48px-Group_stone.png 1.5x, /images/thumb/0/00/Group_stone.png/64px-Group_stone.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Group_stone" title="Group stone"><img alt="Group stone.png" src="/images/thumb/0/00/Group_stone.png/32px-Group_stone.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/00/Group_stone.png/48px-Group_stone.png 1.5x, /images/thumb/0/00/Group_stone.png/64px-Group_stone.png 2x" /></a></div></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Group_stone" title="Group stone"><img alt="Group stone.png" src="/images/thumb/0/00/Group_stone.png/32px-Group_stone.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/00/Group_stone.png/48px-Group_stone.png 1.5x, /images/thumb/0/00/Group_stone.png/64px-Group_stone.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Group_stone" title="Group stone"><img alt="Group stone.png" src="/images/thumb/0/00/Group_stone.png/32px-Group_stone.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/00/Group_stone.png/48px-Group_stone.png 1.5x, /images/thumb/0/00/Group_stone.png/64px-Group_stone.png 2x" /></a></div></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Group_stone" title="Group stone"><img alt="Group stone.png" src="/images/thumb/0/00/Group_stone.png/32px-Group_stone.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/00/Group_stone.png/48px-Group_stone.png 1.5x, /images/thumb/0/00/Group_stone.png/64px-Group_stone.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Group_stone" title="Group stone"><img alt="Group stone.png" src="/images/thumb/0/00/Group_stone.png/32px-Group_stone.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/00/Group_stone.png/48px-Group_stone.png 1.5x, /images/thumb/0/00/Group_stone.png/64px-Group_stone.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Group_stone" title="Group stone"><img alt="Group stone.png" src="/images/thumb/0/00/Group_stone.png/32px-Group_stone.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/00/Group_stone.png/48px-Group_stone.png 1.5x, /images/thumb/0/00/Group_stone.png/64px-Group_stone.png 2x" /></a></div></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/Furnace" title="Furnace"><img alt="Furnace.png" src="/images/thumb/0/0f/Furnace.png/32px-Furnace.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/0f/Furnace.png/48px-Furnace.png 1.5x, /images/thumb/0/0f/Furnace.png/64px-Furnace.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black"></span></div></div>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p>Ambil perhatian bahawa ikon istimewa tersebut mempunyai huruf “G” di atasnya. Ikon ini ialah pemegang tempat untuk apa-apa sahaja item yang berada di bawah kumpulan “<a href="/Category:Stone" title="Category:Stone">batu</a>”. Oleh itu, relau boleh dicipta dengan 8 item daripada kumpulan batu. <a href="/Cobblestone/ms" title="Cobblestone/ms">Batu Buntar</a> dan <a href="/Desert_Stone/ms" title="Desert Stone/ms">Batu Gurun</a> ialah contoh ahli kumpulan ini.
+</p><p>Jadi anda boleh mencipta relau dengan menggunakan Batu Buntar sepenuhnya:
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th scope="row" width="50px">Nama
+</th>
+<th scope="col" width="140px">Bahan
+</th>
+<th scope="col">Input &#8594; Output
+</th></tr>
+<tr>
+<th scope="row"><a href="/index.php?title=Furnace/ms&amp;action=edit&amp;redlink=1" class="new" title="Furnace/ms (page does not exist)">Relau</a>
+</th>
+<td align="center"><a href="/Cobblestone/ms" title="Cobblestone/ms">Batu Buntar</a>
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Cobblestone" title="Cobblestone"><img alt="Cobblestone.png" src="/images/thumb/6/67/Cobblestone.png/32px-Cobblestone.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/67/Cobblestone.png/48px-Cobblestone.png 1.5x, /images/thumb/6/67/Cobblestone.png/64px-Cobblestone.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Cobblestone" title="Cobblestone"><img alt="Cobblestone.png" src="/images/thumb/6/67/Cobblestone.png/32px-Cobblestone.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/67/Cobblestone.png/48px-Cobblestone.png 1.5x, /images/thumb/6/67/Cobblestone.png/64px-Cobblestone.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Cobblestone" title="Cobblestone"><img alt="Cobblestone.png" src="/images/thumb/6/67/Cobblestone.png/32px-Cobblestone.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/67/Cobblestone.png/48px-Cobblestone.png 1.5x, /images/thumb/6/67/Cobblestone.png/64px-Cobblestone.png 2x" /></a></div></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Cobblestone" title="Cobblestone"><img alt="Cobblestone.png" src="/images/thumb/6/67/Cobblestone.png/32px-Cobblestone.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/67/Cobblestone.png/48px-Cobblestone.png 1.5x, /images/thumb/6/67/Cobblestone.png/64px-Cobblestone.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Cobblestone" title="Cobblestone"><img alt="Cobblestone.png" src="/images/thumb/6/67/Cobblestone.png/32px-Cobblestone.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/67/Cobblestone.png/48px-Cobblestone.png 1.5x, /images/thumb/6/67/Cobblestone.png/64px-Cobblestone.png 2x" /></a></div></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Cobblestone" title="Cobblestone"><img alt="Cobblestone.png" src="/images/thumb/6/67/Cobblestone.png/32px-Cobblestone.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/67/Cobblestone.png/48px-Cobblestone.png 1.5x, /images/thumb/6/67/Cobblestone.png/64px-Cobblestone.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Cobblestone" title="Cobblestone"><img alt="Cobblestone.png" src="/images/thumb/6/67/Cobblestone.png/32px-Cobblestone.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/67/Cobblestone.png/48px-Cobblestone.png 1.5x, /images/thumb/6/67/Cobblestone.png/64px-Cobblestone.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Cobblestone" title="Cobblestone"><img alt="Cobblestone.png" src="/images/thumb/6/67/Cobblestone.png/32px-Cobblestone.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/67/Cobblestone.png/48px-Cobblestone.png 1.5x, /images/thumb/6/67/Cobblestone.png/64px-Cobblestone.png 2x" /></a></div></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/Furnace" title="Furnace"><img alt="Furnace.png" src="/images/thumb/0/0f/Furnace.png/32px-Furnace.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/0f/Furnace.png/48px-Furnace.png 1.5x, /images/thumb/0/0f/Furnace.png/64px-Furnace.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black"></span></div></div>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p>Atau Batu Gurun sepenuhnya:
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th scope="row" width="50px">Nama
+</th>
+<th scope="col" width="140px">Bahan
+</th>
+<th scope="col">Input &#8594; Output
+</th></tr>
+<tr>
+<th scope="row"><a href="/index.php?title=Furnace/ms&amp;action=edit&amp;redlink=1" class="new" title="Furnace/ms (page does not exist)">Relau</a>
+</th>
+<td align="center"><a href="/Desert_Stone/ms" title="Desert Stone/ms">Batu Gurun</a>
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Desert_stone" title="Desert stone"><img alt="Desert Stone.png" src="/images/thumb/d/da/Desert_Stone.png/32px-Desert_Stone.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/da/Desert_Stone.png/48px-Desert_Stone.png 1.5x, /images/thumb/d/da/Desert_Stone.png/64px-Desert_Stone.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Desert_stone" title="Desert stone"><img alt="Desert Stone.png" src="/images/thumb/d/da/Desert_Stone.png/32px-Desert_Stone.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/da/Desert_Stone.png/48px-Desert_Stone.png 1.5x, /images/thumb/d/da/Desert_Stone.png/64px-Desert_Stone.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Desert_stone" title="Desert stone"><img alt="Desert Stone.png" src="/images/thumb/d/da/Desert_Stone.png/32px-Desert_Stone.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/da/Desert_Stone.png/48px-Desert_Stone.png 1.5x, /images/thumb/d/da/Desert_Stone.png/64px-Desert_Stone.png 2x" /></a></div></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Desert_stone" title="Desert stone"><img alt="Desert Stone.png" src="/images/thumb/d/da/Desert_Stone.png/32px-Desert_Stone.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/da/Desert_Stone.png/48px-Desert_Stone.png 1.5x, /images/thumb/d/da/Desert_Stone.png/64px-Desert_Stone.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Desert_stone" title="Desert stone"><img alt="Desert Stone.png" src="/images/thumb/d/da/Desert_Stone.png/32px-Desert_Stone.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/da/Desert_Stone.png/48px-Desert_Stone.png 1.5x, /images/thumb/d/da/Desert_Stone.png/64px-Desert_Stone.png 2x" /></a></div></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Desert_stone" title="Desert stone"><img alt="Desert Stone.png" src="/images/thumb/d/da/Desert_Stone.png/32px-Desert_Stone.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/da/Desert_Stone.png/48px-Desert_Stone.png 1.5x, /images/thumb/d/da/Desert_Stone.png/64px-Desert_Stone.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Desert_stone" title="Desert stone"><img alt="Desert Stone.png" src="/images/thumb/d/da/Desert_Stone.png/32px-Desert_Stone.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/da/Desert_Stone.png/48px-Desert_Stone.png 1.5x, /images/thumb/d/da/Desert_Stone.png/64px-Desert_Stone.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Desert_stone" title="Desert stone"><img alt="Desert Stone.png" src="/images/thumb/d/da/Desert_Stone.png/32px-Desert_Stone.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/da/Desert_Stone.png/48px-Desert_Stone.png 1.5x, /images/thumb/d/da/Desert_Stone.png/64px-Desert_Stone.png 2x" /></a></div></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/Furnace" title="Furnace"><img alt="Furnace.png" src="/images/thumb/0/0f/Furnace.png/32px-Furnace.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/0f/Furnace.png/48px-Furnace.png 1.5x, /images/thumb/0/0f/Furnace.png/64px-Furnace.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black"></span></div></div>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p>Atau gabungkan kedua-duanya:
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th scope="row" width="50px">Nama
+</th>
+<th scope="col" width="140px">Bahan
+</th>
+<th scope="col">Input &#8594; Output
+</th></tr>
+<tr>
+<th scope="row"><a href="/index.php?title=Furnace/ms&amp;action=edit&amp;redlink=1" class="new" title="Furnace/ms (page does not exist)">Relau</a>
+</th>
+<td align="center"><a href="/Cobblestone/ms" title="Cobblestone/ms">Batu Buntar</a> + <a href="/Desert_Stone/ms" title="Desert Stone/ms">Batu Gurun</a>
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Cobblestone" title="Cobblestone"><img alt="Cobblestone.png" src="/images/thumb/6/67/Cobblestone.png/32px-Cobblestone.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/67/Cobblestone.png/48px-Cobblestone.png 1.5x, /images/thumb/6/67/Cobblestone.png/64px-Cobblestone.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Desert_stone" title="Desert stone"><img alt="Desert Stone.png" src="/images/thumb/d/da/Desert_Stone.png/32px-Desert_Stone.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/da/Desert_Stone.png/48px-Desert_Stone.png 1.5x, /images/thumb/d/da/Desert_Stone.png/64px-Desert_Stone.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Cobblestone" title="Cobblestone"><img alt="Cobblestone.png" src="/images/thumb/6/67/Cobblestone.png/32px-Cobblestone.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/67/Cobblestone.png/48px-Cobblestone.png 1.5x, /images/thumb/6/67/Cobblestone.png/64px-Cobblestone.png 2x" /></a></div></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Desert_stone" title="Desert stone"><img alt="Desert Stone.png" src="/images/thumb/d/da/Desert_Stone.png/32px-Desert_Stone.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/da/Desert_Stone.png/48px-Desert_Stone.png 1.5x, /images/thumb/d/da/Desert_Stone.png/64px-Desert_Stone.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Cobblestone" title="Cobblestone"><img alt="Cobblestone.png" src="/images/thumb/6/67/Cobblestone.png/32px-Cobblestone.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/67/Cobblestone.png/48px-Cobblestone.png 1.5x, /images/thumb/6/67/Cobblestone.png/64px-Cobblestone.png 2x" /></a></div></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Desert_stone" title="Desert stone"><img alt="Desert Stone.png" src="/images/thumb/d/da/Desert_Stone.png/32px-Desert_Stone.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/da/Desert_Stone.png/48px-Desert_Stone.png 1.5x, /images/thumb/d/da/Desert_Stone.png/64px-Desert_Stone.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Cobblestone" title="Cobblestone"><img alt="Cobblestone.png" src="/images/thumb/6/67/Cobblestone.png/32px-Cobblestone.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/67/Cobblestone.png/48px-Cobblestone.png 1.5x, /images/thumb/6/67/Cobblestone.png/64px-Cobblestone.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Desert_stone" title="Desert stone"><img alt="Desert Stone.png" src="/images/thumb/d/da/Desert_Stone.png/32px-Desert_Stone.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/da/Desert_Stone.png/48px-Desert_Stone.png 1.5x, /images/thumb/d/da/Desert_Stone.png/64px-Desert_Stone.png 2x" /></a></div></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/Furnace" title="Furnace"><img alt="Furnace.png" src="/images/thumb/0/0f/Furnace.png/32px-Furnace.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/0f/Furnace.png/48px-Furnace.png 1.5x, /images/thumb/0/0f/Furnace.png/64px-Furnace.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black"></span></div></div>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p>Atau campurkan semua item ahli kumpulan yang ada:
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th scope="row" width="50px">Nama
+</th>
+<th scope="col" width="140px">Bahan
+</th>
+<th scope="col">Input &#8594; Output
+</th></tr>
+<tr>
+<th scope="row"><a href="/index.php?title=Furnace/ms&amp;action=edit&amp;redlink=1" class="new" title="Furnace/ms (page does not exist)">Relau</a>
+</th>
+<td align="center"><a href="/Stone/ms" title="Stone/ms">Batu</a> + <a href="/Desert_Stone/ms" title="Desert Stone/ms">Batu Gurun</a> + <a href="/Cobblestone/ms" title="Cobblestone/ms">Batu Buntar</a> + <a href="/index.php?title=Desert_Stone_Brick/ms&amp;action=edit&amp;redlink=1" class="new" title="Desert Stone Brick/ms (page does not exist)">Bata Batu Gurun</a> + <a href="/index.php?title=Stone_Brick/ms&amp;action=edit&amp;redlink=1" class="new" title="Stone Brick/ms (page does not exist)">Bata Batu</a>
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Stone" title="Stone"><img alt="Stone.png" src="/images/thumb/d/d4/Stone.png/32px-Stone.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/d4/Stone.png/48px-Stone.png 1.5x, /images/thumb/d/d4/Stone.png/64px-Stone.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Desert_stone" title="Desert stone"><img alt="Desert Stone.png" src="/images/thumb/d/da/Desert_Stone.png/32px-Desert_Stone.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/da/Desert_Stone.png/48px-Desert_Stone.png 1.5x, /images/thumb/d/da/Desert_Stone.png/64px-Desert_Stone.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Stone_brick" title="Stone brick"><img alt="Stone Brick.png" src="/images/thumb/6/6d/Stone_Brick.png/32px-Stone_Brick.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/6d/Stone_Brick.png/48px-Stone_Brick.png 1.5x, /images/thumb/6/6d/Stone_Brick.png/64px-Stone_Brick.png 2x" /></a></div></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Cobblestone" title="Cobblestone"><img alt="Cobblestone.png" src="/images/thumb/6/67/Cobblestone.png/32px-Cobblestone.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/67/Cobblestone.png/48px-Cobblestone.png 1.5x, /images/thumb/6/67/Cobblestone.png/64px-Cobblestone.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Cobblestone" title="Cobblestone"><img alt="Cobblestone.png" src="/images/thumb/6/67/Cobblestone.png/32px-Cobblestone.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/67/Cobblestone.png/48px-Cobblestone.png 1.5x, /images/thumb/6/67/Cobblestone.png/64px-Cobblestone.png 2x" /></a></div></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Desert_stone_brick" title="Desert stone brick"><img alt="Desert Stone Brick.png" src="/images/thumb/2/2c/Desert_Stone_Brick.png/32px-Desert_Stone_Brick.png" decoding="async" width="32" height="32" srcset="/images/thumb/2/2c/Desert_Stone_Brick.png/48px-Desert_Stone_Brick.png 1.5x, /images/thumb/2/2c/Desert_Stone_Brick.png/64px-Desert_Stone_Brick.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Stone_brick" title="Stone brick"><img alt="Stone Brick.png" src="/images/thumb/6/6d/Stone_Brick.png/32px-Stone_Brick.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/6d/Stone_Brick.png/48px-Stone_Brick.png 1.5x, /images/thumb/6/6d/Stone_Brick.png/64px-Stone_Brick.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Cobblestone" title="Cobblestone"><img alt="Cobblestone.png" src="/images/thumb/6/67/Cobblestone.png/32px-Cobblestone.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/67/Cobblestone.png/48px-Cobblestone.png 1.5x, /images/thumb/6/67/Cobblestone.png/64px-Cobblestone.png 2x" /></a></div></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/Furnace" title="Furnace"><img alt="Furnace.png" src="/images/thumb/0/0f/Furnace.png/32px-Furnace.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/0f/Furnace.png/48px-Furnace.png 1.5x, /images/thumb/0/0f/Furnace.png/64px-Furnace.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black"></span></div></div>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Mula_bermain">Mula bermain</span></h2>
+<p>Untuk membantu anda mula dalam Minetest Game, kami memberikan anda senarai item-item paling penting dan blok-blok untuk bermula. Mulakan dengan yang paling atas dalam senarai, lihat pada bahagian “Pertukangan” dalam halaman yang berkaitan (mengikut turutan), cipta item tersebut dalam Minetest dan datang semula ke halaman ini apabila anda mampu menciptanya, kemudian teruskan dengan pertukangan seterusnya dalam senarai ini. Untuk memudahkan anda, kesemua pautan di bawah menghantar anda terus ke bahagian “Pertukangan”.
+</p>
+<ol><li><a href="/index.php?title=Wooden_Planks_and_Junglewood_Planks/ms&amp;action=edit&amp;redlink=1" class="new" title="Wooden Planks and Junglewood Planks/ms (page does not exist)">Papan Kayu</a></li>
+<li><a href="/index.php?title=Stick/ms&amp;action=edit&amp;redlink=1" class="new" title="Stick/ms (page does not exist)">Serpihan Kayu</a></li>
+<li><a href="/index.php?title=Ladder/ms&amp;action=edit&amp;redlink=1" class="new" title="Ladder/ms (page does not exist)">Tangga Panjat</a></li>
+<li><a href="/index.php?title=Slab/ms&amp;action=edit&amp;redlink=1" class="new" title="Slab/ms (page does not exist)">Papak</a> Kayu</li>
+<li><a href="/index.php?title=Pickaxe/ms&amp;action=edit&amp;redlink=1" class="new" title="Pickaxe/ms (page does not exist)">Beliung</a> Kayu</li>
+<li><a href="/index.php?title=Pickaxe/ms&amp;action=edit&amp;redlink=1" class="new" title="Pickaxe/ms (page does not exist)">Beliung</a> Batu</li>
+<li><a href="/Stair/ms#Pertukangan" title="Stair/ms">Tangga</a> Batu Buntar</li>
+<li><a href="/index.php?title=Torch/ms&amp;action=edit&amp;redlink=1" class="new" title="Torch/ms (page does not exist)">Obor</a></li>
+<li><a href="/index.php?title=Chest/ms&amp;action=edit&amp;redlink=1" class="new" title="Chest/ms (page does not exist)">Peti</a></li>
+<li><a href="/index.php?title=Furnace/ms&amp;action=edit&amp;redlink=1" class="new" title="Furnace/ms (page does not exist)">Relau</a></li>
+<li>sebarang jenis <a href="/index.php?title=Axe/ms&amp;action=edit&amp;redlink=1" class="new" title="Axe/ms (page does not exist)">Kapak</a></li>
+<li>sebarang jenis <a href="/index.php?title=Shovel/ms&amp;action=edit&amp;redlink=1" class="new" title="Shovel/ms (page does not exist)">Penyodok</a></li>
+<li><a href="/index.php?title=Bucket/ms&amp;action=edit&amp;redlink=1" class="new" title="Bucket/ms (page does not exist)">Baldi</a></li>
+<li>sebarang jenis <a href="/index.php?title=Hoe/ms&amp;action=edit&amp;redlink=1" class="new" title="Hoe/ms (page does not exist)">Cangkul</a></li>
+<li><a href="/index.php?title=Flour/ms&amp;action=edit&amp;redlink=1" class="new" title="Flour/ms (page does not exist)">Tepung</a></li>
+<li><a href="/Bread/ms#Pertukangan" title="Bread/ms">Roti</a></li></ol>
+<p>Lihat <a href="/Blocks/ms" class="mw-redirect" title="Blocks/ms">Blok</a> dan <a href="/Items/ms" class="mw-redirect" title="Items/ms">Item</a> untuk senarai penuh blok-blok dan item-item. Anda boleh jumpa resipi pertukangan dalam halaman-halaman yang berkaitan. Lihat juga halaman yang disenaraikan dalam <a href="/index.php?title=Groups/ms&amp;action=edit&amp;redlink=1" class="new" title="Groups/ms (page does not exist)">Kumpulan</a> untuk melihat secara umum mengenai pertukangan berkumpulan.
+</p>
+<h2><span class="mw-headline" id="Lihat_juga">Lihat juga</span></h2>
+<ul><li><a href="/Crafting_guide/ms" title="Crafting guide/ms">Panduan pertukangan</a></li>
+<li><a href="/Smelting/ms" class="mw-redirect" title="Smelting/ms">Peleburan</a></li>
+<li><a href="/index.php?title=Repairing/ms&amp;action=edit&amp;redlink=1" class="new" title="Repairing/ms (page does not exist)">Pembaikan</a></li>
+<li><a href="/index.php?title=Inventory/ms&amp;action=edit&amp;redlink=1" class="new" title="Inventory/ms (page does not exist)">Inventori</a></li>
+<li><a href="/Itemstrings/ms" title="Itemstrings/ms">Rentetan Item</a></li></ul>
+<!-- 
+NewPP limit report
+Cached time: 20230709174205
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 1.068 seconds
+Real time usage: 2.415 seconds
+Preprocessor visited node count: 1524/1000000
+Post‐expand include size: 78757/2097152 bytes
+Template argument size: 2040/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 13/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 1.120/7 seconds
+Lua virtual size: 6.46 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1808.006      1 -total
+ 83.54% 1510.389     12 Template:Grid/Craft
+ 78.94% 1427.328    120 Template:Grid
+ 16.20%  292.873      1 Template:Languages
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:3226-0!canonical and timestamp 20230709174202 and revision id 18436
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Crafting/ms&amp;oldid=18436">http://wiki.minetest.net/index.php?title=Crafting/ms&amp;oldid=18436</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li><li><a href="/Category:Gameplay" title="Category:Gameplay">Gameplay</a></li><li><a href="/Category:Malay" title="Category:Malay">Malay</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Crafting%2Fms" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Crafting/ms" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Crafting/ms&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Crafting/ms">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Crafting/ms&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Crafting/ms&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Crafting/ms" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Crafting/ms" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Crafting/ms&amp;oldid=18436" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Crafting/ms&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 6 February 2018, at 11:24.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.068","walltime":"2.415","ppvisitednodes":{"value":1524,"limit":1000000},"postexpandincludesize":{"value":78757,"limit":2097152},"templateargumentsize":{"value":2040,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":13,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00% 1808.006      1 -total"," 83.54% 1510.389     12 Template:Grid/Craft"," 78.94% 1427.328    120 Template:Grid"," 16.20%  292.873      1 Template:Languages"]},"scribunto":{"limitreport-timeusage":{"value":"1.120","limit":"7"},"limitreport-virtmemusage":{"value":6774784,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709174205","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":2774});});</script></body></html>

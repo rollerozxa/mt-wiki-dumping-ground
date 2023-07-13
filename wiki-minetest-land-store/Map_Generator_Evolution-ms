@@ -1,0 +1,464 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Map Generator Evolution/ms - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"fc040521e16fe746187ef48e","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Map_Generator_Evolution/ms","wgTitle":"Map Generator Evolution/ms","wgCurRevisionId":25469,"wgRevisionId":25469,"wgArticleId":3806,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Malay"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Map_Generator_Evolution/ms","wgRelevantArticleId":3806,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready",
+"noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","mediawiki.page.gallery.styles":"ready","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.page.gallery.styles%7Cmediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Map_Generator_Evolution_ms rootpage-Map_Generator_Evolution skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Map Generator Evolution/ms</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/Map_Generator_Evolution" title="Map Generator Evolution">Map Generator Evolution</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> Bahasa:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><a href="/Map_Generator_Evolution" title="Map Generator Evolution">English</a><b>&#160;• <bdi lang="ms"><a class="mw-selflink selflink">Bahasa Melayu</a></bdi></b></td>
+</tr></tbody></table>
+<p>Artikel ini menunjukkan sejarah pembangunan <a href="/Map_generator/ms" title="Map generator/ms">penjana peta</a> dalam Minetest.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Pembangunan_penjana_peta_tunggal"><span class="tocnumber">1</span> <span class="toctext">Pembangunan penjana peta tunggal</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Pembangunan_Awal"><span class="tocnumber">1.1</span> <span class="toctext">Pembangunan Awal</span></a>
+<ul>
+<li class="toclevel-3 tocsection-3"><a href="#minetest-c55-101010000530"><span class="tocnumber">1.1.1</span> <span class="toctext">minetest-c55-101010000530</span></a></li>
+<li class="toclevel-3 tocsection-4"><a href="#minetest-c55-101017205222"><span class="tocnumber">1.1.2</span> <span class="toctext">minetest-c55-101017205222</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#minetest-c55-101024231736"><span class="tocnumber">1.1.3</span> <span class="toctext">minetest-c55-101024231736</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#minetest-c55-101101170627_.28dan_kemudiannya.29"><span class="tocnumber">1.1.4</span> <span class="toctext">minetest-c55-101101170627 (dan kemudiannya)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-7"><a href="#Version_1_.28Versi_1.29"><span class="tocnumber">1.2</span> <span class="toctext">Version 1 (Versi 1)</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Version_2_dev3_.28Versi_2_dev3.29"><span class="tocnumber">1.3</span> <span class="toctext">Version 2 dev3 (Versi 2 dev3)</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Version_2_dev4_.28Versi_2_dev4.29"><span class="tocnumber">1.4</span> <span class="toctext">Version 2 dev4 (Versi 2 dev4)</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Version_2_.28Versi_2.29"><span class="tocnumber">1.5</span> <span class="toctext">Version 2 (Versi 2)</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Version_3_.223d_noise.22_.28Versi_3_.22hingar_3d.22.29"><span class="tocnumber">1.6</span> <span class="toctext">Version 3 "3d noise" (Versi 3 "hingar 3d")</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Version_4_.28Versi_4.29"><span class="tocnumber">1.7</span> <span class="toctext">Version 4 (Versi 4)</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Version_5_.28Versi_5.29"><span class="tocnumber">1.8</span> <span class="toctext">Version 5 (Versi 5)</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Version_6_.28Versi_6.29"><span class="tocnumber">1.9</span> <span class="toctext">Version 6 (Versi 6)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#Pembangunan_penjana_peta_jamak"><span class="tocnumber">2</span> <span class="toctext">Pembangunan penjana peta jamak</span></a>
+<ul>
+<li class="toclevel-2 tocsection-16"><a href="#v6"><span class="tocnumber">2.1</span> <span class="toctext">v6</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#singlenode_.28nod_tunggal.29"><span class="tocnumber">2.2</span> <span class="toctext">singlenode (nod tunggal)</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#indev_.28dalam_pembangunan.29"><span class="tocnumber">2.3</span> <span class="toctext">indev (dalam pembangunan)</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#v7"><span class="tocnumber">2.4</span> <span class="toctext">v7</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#math_.28matematik.29"><span class="tocnumber">2.5</span> <span class="toctext">math (matematik)</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#v5"><span class="tocnumber">2.6</span> <span class="toctext">v5</span></a></li>
+<li class="toclevel-2 tocsection-22"><a href="#fractal_.28fraktal.29"><span class="tocnumber">2.7</span> <span class="toctext">fractal (fraktal)</span></a></li>
+<li class="toclevel-2 tocsection-23"><a href="#flat_.28rata.29"><span class="tocnumber">2.8</span> <span class="toctext">flat (rata)</span></a></li>
+<li class="toclevel-2 tocsection-24"><a href="#valleys_.28lembah.29"><span class="tocnumber">2.9</span> <span class="toctext">valleys (lembah)</span></a></li>
+<li class="toclevel-2 tocsection-25"><a href="#carpathian"><span class="tocnumber">2.10</span> <span class="toctext">carpathian</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-26"><a href="#Lihat_juga"><span class="tocnumber">3</span> <span class="toctext">Lihat juga</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Pembangunan_penjana_peta_tunggal">Pembangunan penjana peta tunggal</span></h2>
+<p>Pada awalnya, Minetest (ketika itu dipanggil “Minetest-c55”) hanya mempunyai sebuah penjana peta yang sentiasa ditambah baik dan mempunyai nombor versinya sendiri, di mana setiap versi menggantikan versi sebelumnya. Penjana peta yang terawal dicipta berdasarkan hingar Perlin 2D.
+</p>
+<h3><span class="mw-headline" id="Pembangunan_Awal">Pembangunan Awal</span></h3>
+<p>Juga dipanggil “Version 0” (versi 0), bahagian ini merumuskan ujikaji penjana peta terawal sebelum terbitnya penjana peta pertama yang rasmi.
+</p>
+<h4><span class="mw-headline" id="minetest-c55-101010000530">minetest-c55-101010000530</span></h4>
+<div class="thumb tright"><div class="thumbinner" style="width:642px;"><a href="/File:First_mapgen.png" class="image"><img alt="" src="/images/0/0d/First_mapgen.png" decoding="async" width="640" height="480" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:First_mapgen.png" class="internal" title="Enlarge"></a></div>Janapeta yang pertama</div></div></div>
+<p>Dalam versi Minetest-c55 yang pertama diketahui, hanya ada rupa bumi rata diperbuat daripada blok rumput dengan piramid <a href="/Stone/ms" title="Stone/ms">batu</a> di atasnya. Terdapat beberapa lubang. Tidak ada blok lain atau gua. Rupa buminya sentiasa sama sahaja.
+</p>
+<div style="clear:both"></div>
+<h4><span class="mw-headline" id="minetest-c55-101017205222">minetest-c55-101017205222</span></h4>
+<div class="thumb tright"><div class="thumbinner" style="width:599px;"><a href="/File:Earliest_terrain.png" class="image"><img alt="" src="/images/1/10/Earliest_terrain.png" decoding="async" width="597" height="450" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Earliest_terrain.png" class="internal" title="Enlarge"></a></div>Rupa bumi yang tidak dapat ditakrifkan</div></div></div>
+<p>Rupa bumi sudah tidak rata dan piramid telah hilang. Penjanaan rupa bumi sangat teruk namun sekurang-kurangnya rupa bumi boleh dijana. Ia mengandungi blok rumput dan batu di permukaan. Gua sangat ringkas yang bersegi boleh dijumpai di bawah permukaan. Rupa bumi masih lagi tidak rawak.
+</p>
+<div style="clear:both"></div>
+<h4><span class="mw-headline" id="minetest-c55-101024231736">minetest-c55-101024231736</span></h4>
+<div class="thumb tright"><div class="thumbinner" style="width:598px;"><a href="/File:First_water_mapgen.png" class="image"><img alt="" src="/images/3/37/First_water_mapgen.png" decoding="async" width="596" height="450" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:First_water_mapgen.png" class="internal" title="Enlarge"></a></div>Penjanaan air pertama</div></div></div>
+<p><a href="/Water/ms" title="Water/ms">Air</a> telah dimasukkan dan lautan dibentuk pada paras laut yang tetap.
+</p>
+<div style="clear:both"></div>
+<h4><span id="minetest-c55-101101170627_(dan_kemudiannya)"></span><span class="mw-headline" id="minetest-c55-101101170627_.28dan_kemudiannya.29">minetest-c55-101101170627 (dan kemudiannya)</span></h4>
+<div class="thumb tright"><div class="thumbinner" style="width:652px;"><a href="/File:Puita_jee.png" class="image"><img alt="" src="/images/thumb/9/98/Puita_jee.png/650px-Puita_jee.png" decoding="async" width="650" height="488" class="thumbimage" srcset="/images/9/98/Puita_jee.png 1.5x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Puita_jee.png" class="internal" title="Enlarge"></a></div>Pokok pertama</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:652px;"><a href="/File:Mapgen_updated.png" class="image"><img alt="" src="/images/thumb/0/0c/Mapgen_updated.png/650px-Mapgen_updated.png" decoding="async" width="650" height="488" class="thumbimage" srcset="/images/0/0c/Mapgen_updated.png 1.5x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mapgen_updated.png" class="internal" title="Enlarge"></a></div>Banyaknya pokok</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:652px;"><a href="/File:Grumbuduts_ymparisto.png" class="image"><img alt="" src="/images/thumb/5/53/Grumbuduts_ymparisto.png/650px-Grumbuduts_ymparisto.png" decoding="async" width="650" height="460" class="thumbimage" srcset="/images/thumb/5/53/Grumbuduts_ymparisto.png/975px-Grumbuduts_ymparisto.png 1.5x, /images/5/53/Grumbuduts_ymparisto.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Grumbuduts_ymparisto.png" class="internal" title="Enlarge"></a></div>Lebih banyak pokok</div></div></div>
+<p>Pokok dengan blok <a href="/Tree/ms" title="Tree/ms">kayu</a> dan <a href="/Leaves/ms" title="Leaves/ms">daun</a> telah ditambah, namun mereka sangatlah asas. Belukar (blok daun tunggal atas lantai) juga ditambah. Belukar primitif ini telah dibuang dalam versi berikutnya.
+</p>
+<div style="clear:both"></div>
+<h3><span id="Version_1_(Versi_1)"></span><span class="mw-headline" id="Version_1_.28Versi_1.29">Version 1 (Versi 1)</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:598px;"><a href="/File:Mapgen_v1.png" class="image"><img alt="" src="/images/8/8f/Mapgen_v1.png" decoding="async" width="596" height="450" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mapgen_v1.png" class="internal" title="Enlarge"></a></div>Bukan janapeta versi 1, tetapi hampir serupa dengannya.</div></div></div>
+<p>Janapeta rasmi pertama diperkenalkan dalam Minetest-c55 versi 0.0.1. Ciri-cirinya:
+</p>
+<ul><li>Ringkas, rupa bumi <b>rawak</b> dengan <a href="/Stone/ms" title="Stone/ms">batu</a> dan <a href="/Dirt_with_Grass/ms" title="Dirt with Grass/ms">tanah berumput</a></li>
+<li><a href="/Dirt/ms" title="Dirt/ms">Tanah</a> dijana di bawah air dan berhampiran sesetengah pantai</li>
+<li>Pokok (mengandungi <a href="/Tree/ms" title="Tree/ms">Kayu Pokok</a> dan <a href="/Leaves/ms" title="Leaves/ms">Daun Pokok</a>)</li>
+<li>Tasik dan lautan ringkas pada paras laut yang tetap</li>
+<li>Gua dan gaung (gua menegak) yang ringkas</li>
+<li><a href="/Ores/ms" title="Ores/ms">Bijih</a> pertama: <a href="/Mese_Block/ms" title="Mese Block/ms">Bongkah Mese</a> dan <a href="/Coal_Ore/ms" title="Coal Ore/ms">Bijih Batu Arang</a> dijana di bawah tanah</li></ul>
+<div style="clear:both"></div>
+<h3><span id="Version_2_dev3_(Versi_2_dev3)"></span><span class="mw-headline" id="Version_2_dev3_.28Versi_2_dev3.29">Version 2 dev3 (Versi 2 dev3)</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:652px;"><a href="/File:Mapgenv2_3.jpeg" class="image"><img alt="" src="/images/thumb/0/04/Mapgenv2_3.jpeg/650px-Mapgenv2_3.jpeg" decoding="async" width="650" height="488" class="thumbimage" srcset="/images/0/04/Mapgenv2_3.jpeg 1.5x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mapgenv2_3.jpeg" class="internal" title="Enlarge"></a></div>Janapeta v2 dev3</div></div></div>
+<p>Gunung dibuat lebih ketara, penjanaan bijih lebih elok dan pokok telah ditambahbaik. Namun ini versi pembangunan.
+</p>
+<div style="clear:both"></div>
+<h3><span id="Version_2_dev4_(Versi_2_dev4)"></span><span class="mw-headline" id="Version_2_dev4_.28Versi_2_dev4.29">Version 2 dev4 (Versi 2 dev4)</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:652px;"><a href="/File:Mapgenv2_4.jpeg" class="image"><img alt="" src="/images/thumb/6/6a/Mapgenv2_4.jpeg/650px-Mapgenv2_4.jpeg" decoding="async" width="650" height="488" class="thumbimage" srcset="/images/6/6a/Mapgenv2_4.jpeg 1.5x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mapgenv2_4.jpeg" class="internal" title="Enlarge"></a></div>Janapeta v2 dev4</div></div></div>
+<p>Semua benda telah ditalakan lebih baik.
+</p>
+<div style="clear:both"></div>
+<h3><span id="Version_2_(Versi_2)"></span><span class="mw-headline" id="Version_2_.28Versi_2.29">Version 2 (Versi 2)</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:652px;"><a href="/File:Scenery2.jpeg" class="image"><img alt="" src="/images/thumb/8/85/Scenery2.jpeg/650px-Scenery2.jpeg" decoding="async" width="650" height="383" class="thumbimage" srcset="/images/thumb/8/85/Scenery2.jpeg/975px-Scenery2.jpeg 1.5x, /images/8/85/Scenery2.jpeg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Scenery2.jpeg" class="internal" title="Enlarge"></a></div>Janapeta v2</div></div></div>
+<p><a href="/Sand/ms" title="Sand/ms">Pasir</a> telah ditambah dan membentuk pantai berpasir. Algoritma aliran lumpur ringkas melembutkan pencampuran bukit tanah dan tanah berumput. Penjanaan gua mengalami penambahbaikan yang ketara dan <a href="/Iron_Ore/ms" title="Iron Ore/ms">bijih besi</a> telah ditambah juga.
+</p>
+<div style="clear:both"></div>
+<h3><span id="Version_3_&quot;3d_noise&quot;_(Versi_3_&quot;hingar_3d&quot;)"></span><span class="mw-headline" id="Version_3_.223d_noise.22_.28Versi_3_.22hingar_3d.22.29">Version 3 "3d noise" (Versi 3 "hingar 3d")</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:652px;"><a href="/File:Turbulence_cliff_test.jpeg" class="image"><img alt="" src="/images/thumb/a/a2/Turbulence_cliff_test.jpeg/650px-Turbulence_cliff_test.jpeg" decoding="async" width="650" height="488" class="thumbimage" srcset="/images/a/a2/Turbulence_cliff_test.jpeg 1.5x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Turbulence_cliff_test.jpeg" class="internal" title="Enlarge"></a></div>Cenuram gergasi</div></div></div>
+<p>Hingar Perlin 3D digunakan untuk menjana rupa bumi ini.
+</p>
+<div style="clear:both"></div>
+<h3><span id="Version_4_(Versi_4)"></span><span class="mw-headline" id="Version_4_.28Versi_4.29">Version 4 (Versi 4)</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:652px;"><a href="/File:Mapgenv3_4.jpeg" class="image"><img alt="" src="/images/thumb/1/15/Mapgenv3_4.jpeg/650px-Mapgenv3_4.jpeg" decoding="async" width="650" height="488" class="thumbimage" srcset="/images/1/15/Mapgenv3_4.jpeg 1.5x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mapgenv3_4.jpeg" class="internal" title="Enlarge"></a></div>Biom janapeta v4</div></div></div>
+<p>Lebih banyak pelarasan.
+</p>
+<div style="clear:both"></div>
+<h3><span id="Version_5_(Versi_5)"></span><span class="mw-headline" id="Version_5_.28Versi_5.29">Version 5 (Versi 5)</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:652px;"><a href="/File:Minetest_mapgen5_funky.jpeg" class="image"><img alt="" src="/images/thumb/a/a2/Minetest_mapgen5_funky.jpeg/650px-Minetest_mapgen5_funky.jpeg" decoding="async" width="650" height="460" class="thumbimage" srcset="/images/thumb/a/a2/Minetest_mapgen5_funky.jpeg/975px-Minetest_mapgen5_funky.jpeg 1.5x, /images/a/a2/Minetest_mapgen5_funky.jpeg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Minetest_mapgen5_funky.jpeg" class="internal" title="Enlarge"></a></div>Janapeta bersejarah versi 5 dalam Minetest-c55 0.3.0</div></div></div>
+<p>Penjanaan peta rasmi untuk Minetest versi 0.3.1. Ia masih menggunakan hingar Perlin 3D seperti versi-versi sebelumnya dan ianya ikonik kerana rupa buminya yang melampau dan terlalu “bertompok”. Dalam Minetest versi 0.3, penjana peta ini mempunyai biom pratakrif seperti penjana peta v6 zaman sekarang. Dalam Minetest-c55  versi 0.4, janapeta ini telah dibuang, namun kemudiannya ditambah semula (lihat →<a href="#v5">#v5</a>).
+</p><p>Penjana peta versi ini juga digunakan dalam <a href="/index.php?title=Overview_of_Minetest_forks/ms&amp;action=edit&amp;redlink=1" class="new" title="Overview of Minetest forks/ms (page does not exist)">Voxelands</a>, sebuah cabang Minetest-c55.
+</p>
+<div style="clear:both"></div>
+<h3><span id="Version_6_(Versi_6)"></span><span class="mw-headline" id="Version_6_.28Versi_6.29">Version 6 (Versi 6)</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:652px;"><a href="/File:Screenshot_2438759180_mapgenv6.jpeg" class="image"><img alt="" src="/images/thumb/c/c7/Screenshot_2438759180_mapgenv6.jpeg/650px-Screenshot_2438759180_mapgenv6.jpeg" decoding="async" width="650" height="488" class="thumbimage" srcset="/images/thumb/c/c7/Screenshot_2438759180_mapgenv6.jpeg/975px-Screenshot_2438759180_mapgenv6.jpeg 1.5x, /images/c/c7/Screenshot_2438759180_mapgenv6.jpeg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Screenshot_2438759180_mapgenv6.jpeg" class="internal" title="Enlarge"></a></div>Janapeta versi 6 dalam versi terawal Minetest-c55 0.4</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:652px;"><a href="/File:Plains.png" class="image"><img alt="" src="/images/thumb/5/52/Plains.png/650px-Plains.png" decoding="async" width="650" height="483" class="thumbimage" srcset="/images/thumb/5/52/Plains.png/975px-Plains.png 1.5x, /images/5/52/Plains.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Plains.png" class="internal" title="Enlarge"></a></div>Biom kawasan rumput dalam janapeta versi 6 (sebelum Minetest-c55 0.4.3) dengan “garis rupa bumi” yang jelas kelihatan yang kemudiannya dibaiki</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:652px;"><a href="/File:Mountain.png" class="image"><img alt="" src="/images/thumb/3/39/Mountain.png/650px-Mountain.png" decoding="async" width="650" height="483" class="thumbimage" srcset="/images/thumb/3/39/Mountain.png/975px-Mountain.png 1.5x, /images/3/39/Mountain.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mountain.png" class="internal" title="Enlarge"></a></div>Gunung dalam janapeta versi 6, sebelum Minetest 0.4.7</div></div></div>
+<p>Versi 6 penjana peta diperkenalkan dalam Minetest-c55 0.4.0 untuk menggantikan penjana peta versi 5. Versi ini menggunakan hingar Perlin 2D semula dan rupa bumi kini lebih lembut dan realistik berbanding versi sebelumnya. Penjanaan peta juga telah menjadi lebih cepat. 
+</p><p>Versi ini memperkenalkan rimba, gurun dan padang kelikir yang jarang.
+</p><p>Versi 6 ialah versi terakhir untuk penjana peta tunggal sebelum sokongan penjana peta jamak ditambah. Janapeta ini kemudiannya diteruskan di bawah nama “<a href="#v6">v6</a>”.
+</p>
+<div style="clear:both"></div>
+<h2><span class="mw-headline" id="Pembangunan_penjana_peta_jamak">Pembangunan penjana peta jamak</span></h2>
+<p>Sejak Minetest 0.4.6, pemain boleh pilih salah satu daripada pelbagai penjana peta yang ada, dengan penjana peta v6 menjadi pilihan lalai asalnya. Sejak itu, lebih banyak penjana peta telah ditambah dan penjana-penjana peta sedia ada telah ditambahbaik dari semasa ke semasa. Sehaj itu juga, sudah tiada “versi” tunggal untuk penjana peta dan konsep “versi” penjana peta tidak terpakai. Setiap penjana peta kini dibangunkan secara berasingan. Ianya penting untuk melihat setiap versi kini merupakan janapeta yang berbeza, oleh itu janapeta v5 dan v6 tidak patut dilihat sebagai lebih teruk berbanding janapeta v7. “v5”, “v6” dan “v7” kini hanyalah nama, bukan nombor versi. Semua janapeta yang ada dalam Minetest kini semuanya menerima pembaikan pepijat dan ciri-ciri baru secara berkala.
+</p><p>Dalam Minetest 0.4.15, v7 menjadi pilihan lalai yang baru.
+</p>
+<h3><span class="mw-headline" id="v6">v6</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:652px;"><a href="/File:Mapgen_v6.jpg" class="image"><img alt="" src="/images/thumb/1/15/Mapgen_v6.jpg/650px-Mapgen_v6.jpg" decoding="async" width="650" height="416" class="thumbimage" srcset="/images/1/15/Mapgen_v6.jpg 1.5x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mapgen_v6.jpg" class="internal" title="Enlarge"></a></div>Janapeta v6 dalam Minetest 0.4.13-dev</div></div></div>
+<p>Janapeta “v6” (juga dikenali sebagai “mgv6”) ialah penerusan secara terus daripada <a href="#Version_6_.28Versi_6.29">versi 6</a> (sebelum sokongan janapeta jamak ditambah) dan mempunyai ciri-ciri yang hampir sama. Dalam Minetest 0.4.13, sokongan untuk biom salji dan kepingan ais telah diperkenalkan kepada v6. Janapeta ini masih disokong secara rasminya dalam Minetest, ia tidak akan dibuang dalam masa terdekat dan penambahbaikan serta pembaikan pepijat masih dibuat dari semasa ke semasa.
+</p>
+<div style="clear:both"></div>
+<h3><span id="singlenode_(nod_tunggal)"></span><span class="mw-headline" id="singlenode_.28nod_tunggal.29">singlenode (nod tunggal)</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:652px;"><a href="/File:Mapgen_singlenode.jpg" class="image"><img alt="" src="/images/thumb/d/d9/Mapgen_singlenode.jpg/650px-Mapgen_singlenode.jpg" decoding="async" width="650" height="414" class="thumbimage" srcset="/images/d/d9/Mapgen_singlenode.jpg 1.5x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mapgen_singlenode.jpg" class="internal" title="Enlarge"></a></div>Janapeta singlenode dalam Minetest 0.4.13</div></div></div>
+<p>Janapeta ini diperkenalkan dalam Minetest 0.4.6 oleh <a href="/Celeron55/ms" title="Celeron55/ms">celeron55</a>. Ia mencipta dunia dengan <a href="/Air/ms" title="Air/ms">Udara</a> semata-mata (ia boleh ditukar melalui penetapan) dan ia hanya dicipta bertujuan untuk digunakan oleh <a href="/Mods/ms" title="Mods/ms">mods</a> dan <a href="/Games/ms" title="Games/ms">permainan</a> untuk membuat penjanaan peta tempahan khas, supaya mereka boleh memulakan semuanya daripada awal. Namanya “singlenode” bermaksud “nod tunggal” di mana ia hanya ada <i>satu</i> jenis <i>nod</i> di kesemua tempat, asalnya tetapan lalai ialah <a href="/Air/ms" title="Air/ms">Udara</a>.
+</p><p>Penjana peta ini telah disembunyikan daripada skrin pilihan penjana peta untuk beberapa versi sehingga 0.4.16, yang mana ia telah dibolehkan semula.
+</p>
+<div style="clear:both"></div>
+<h3><span id="indev_(dalam_pembangunan)"></span><span class="mw-headline" id="indev_.28dalam_pembangunan.29">indev (dalam pembangunan)</span></h3>
+<p>Janapeta ini diperkenalkan dalam Minetest 0.4.6 oleh proller dan mengandungi pelbagai ciri-ciri ujikaji. Ianya berdasarkan janapeta v6. Ciri-ciri baru utama termasuklah pulau-pulau terapung pada ketinggian di atas Y=500, gua gergasi jarang, dan rupa bumi yang lebih ekstrim berhampiran <a href="/index.php?title=World_boundaries/ms&amp;action=edit&amp;redlink=1" class="new" title="World boundaries/ms (page does not exist)">sempadan dunia</a> dengan adanya biom lebih luas, gunung lebih tinggi dan laut lebih dalam. Ia telah dibuang dalam versi 0.4.10 kerana ia dianggap berkualiti rendah.
+</p>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 435px"><div style="width: 435px">
+			<div class="thumb" style="width: 430px;"><div style="margin:15px auto;"><a href="/File:Mapgen_indev_spawn.jpg" class="image"><img alt="" src="/images/thumb/1/17/Mapgen_indev_spawn.jpg/400px-Mapgen_indev_spawn.jpg" decoding="async" width="400" height="256" srcset="/images/thumb/1/17/Mapgen_indev_spawn.jpg/600px-Mapgen_indev_spawn.jpg 1.5x, /images/1/17/Mapgen_indev_spawn.jpg 2x" /></a></div></div>
+			<div class="gallerytext">
+<p>Kebanyakan permukaan janapeta indev hampir serupa dengan janapeta v6 (Minetest 0.4.9)
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 435px"><div style="width: 435px">
+			<div class="thumb" style="width: 430px;"><div style="margin:15px auto;"><a href="/File:Mapgen_indev_floating_islands.jpg" class="image"><img alt="" src="/images/thumb/9/9f/Mapgen_indev_floating_islands.jpg/400px-Mapgen_indev_floating_islands.jpg" decoding="async" width="400" height="256" srcset="/images/thumb/9/9f/Mapgen_indev_floating_islands.jpg/600px-Mapgen_indev_floating_islands.jpg 1.5x, /images/9/9f/Mapgen_indev_floating_islands.jpg 2x" /></a></div></div>
+			<div class="gallerytext">
+<p>Pulau terapung dalam janapeta indev, Minetest 0.4.9
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 435px"><div style="width: 435px">
+			<div class="thumb" style="width: 430px;"><div style="margin:36.5px auto;"><a href="/File:Mapgen_indev_edge.jpg" class="image"><img alt="" src="/images/thumb/0/02/Mapgen_indev_edge.jpg/400px-Mapgen_indev_edge.jpg" decoding="async" width="400" height="213" srcset="/images/thumb/0/02/Mapgen_indev_edge.jpg/600px-Mapgen_indev_edge.jpg 1.5x, /images/thumb/0/02/Mapgen_indev_edge.jpg/800px-Mapgen_indev_edge.jpg 2x" /></a></div></div>
+			<div class="gallerytext">
+<p>Rupa bumi ekstrim dan sempadan dunia dalam janapeta indev, Minetest 0.4.9
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 435px"><div style="width: 435px">
+			<div class="thumb" style="width: 430px;"><div style="margin:15px auto;"><a href="/File:Mapgen_indev_edge_mountains.jpg" class="image"><img alt="" src="/images/thumb/2/20/Mapgen_indev_edge_mountains.jpg/400px-Mapgen_indev_edge_mountains.jpg" decoding="async" width="400" height="256" srcset="/images/thumb/2/20/Mapgen_indev_edge_mountains.jpg/600px-Mapgen_indev_edge_mountains.jpg 1.5x, /images/2/20/Mapgen_indev_edge_mountains.jpg 2x" /></a></div></div>
+			<div class="gallerytext">
+<p>Gunung tinggi berdekatan sempadan dunia dalam janapeta indev, Minetest 0.4.9
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 435px"><div style="width: 435px">
+			<div class="thumb" style="width: 430px;"><div style="margin:15px auto;"><a href="/File:Mapgen_indev_huge_cave.jpg" class="image"><img alt="" src="/images/thumb/0/0b/Mapgen_indev_huge_cave.jpg/400px-Mapgen_indev_huge_cave.jpg" decoding="async" width="400" height="256" srcset="/images/thumb/0/0b/Mapgen_indev_huge_cave.jpg/600px-Mapgen_indev_huge_cave.jpg 1.5x, /images/0/0b/Mapgen_indev_huge_cave.jpg 2x" /></a></div></div>
+			<div class="gallerytext">
+<p>Gua besar (dan penuh pepijat) dalam janapeta indev, Minetest 0.4.9
+</p>
+			</div>
+		</div></li>
+</ul>
+<div style="clear:both"></div>
+<h3><span class="mw-headline" id="v7">v7</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:652px;"><a href="/File:Mapgen_v7_0_4_9.jpg" class="image"><img alt="" src="/images/thumb/c/ca/Mapgen_v7_0_4_9.jpg/650px-Mapgen_v7_0_4_9.jpg" decoding="async" width="650" height="416" class="thumbimage" srcset="/images/c/ca/Mapgen_v7_0_4_9.jpg 1.5x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mapgen_v7_0_4_9.jpg" class="internal" title="Enlarge"></a></div>Janapeta v7 dalam Minetest 0.4.9 tanpa biom</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:652px;"><a href="/File:Mapgen_v7.jpg" class="image"><img alt="" src="/images/thumb/b/b3/Mapgen_v7.jpg/650px-Mapgen_v7.jpg" decoding="async" width="650" height="416" class="thumbimage" srcset="/images/b/b3/Mapgen_v7.jpg 1.5x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mapgen_v7.jpg" class="internal" title="Enlarge"></a></div>Janapeta v7 dalam Minetest 0.4.13-dev dengan biom</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:652px;"><a href="/File:Mapgen_v7_floatlands.jpg" class="image"><img alt="" src="/images/thumb/c/c8/Mapgen_v7_floatlands.jpg/650px-Mapgen_v7_floatlands.jpg" decoding="async" width="650" height="488" class="thumbimage" srcset="/images/c/c8/Mapgen_v7_floatlands.jpg 1.5x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mapgen_v7_floatlands.jpg" class="internal" title="Enlarge"></a></div>Tanah terapung dalam janapeta v7 dalam Minetest 0.4.15</div></div></div>
+<p>Juga dipanggil “mgv7”, ia diperkenalkan dalam Minetest 0.4.7 oleh kwolekr, di mana ketika itu penjana peta ini masih tidak dapat digunakan. Penjana peta ini menggunakan gabungan hingar Perlin 2D dan 3D. Ianya dikenali dengan cirinya yang mencipta sungai besar pada paras laut. Gua dalam janapeta v7 juga sangat berbeza daripada janapeta v6, kebanyakannya lebih besar.
+</p><p>Janapeta ini mempunyai sejarah pembangunan yang panjang dan menyaksikan pelbagai penambahbaikan melalui peningkatan versi Minetest.
+</p>
+<ul><li>Asalnya, ia hanya mencipta dunia yang diperbuat daripada batu sahaja. Biom untuk janapeta v7 kemudiannya ditambah ke dalam Minetest Game secara berperingkat</li>
+<li>Dalam Minetest 0.4.13, banyak penambahbaikan besar dibuat kepada penjanaan rupa bumi dan parameter hingar telah diadakan; batu pasir dan kurungan bawah tanah batu gurun pun telah ditambah</li>
+<li>Dalam Minetest 0.4.14, API Biom telah diperkenalkan untuk janapeta v7 dan ia membuatkan janapeta v7 sebagai penjana peta pertama yang menyokong fungsi API Biom, spt. biom yang ditakrifkan oleh mods. Zaman dunia batu telah berakhir. Gua juga telah ditambahbaik</li>
+<li>Dalam Minetest 0.4.15, janapeta v7 menjadi janapeta yang dipilih secara lalai. Sokongan tambahan dan ujikaji untuk pulau terapung gergasi di atas ketinggian Y=1280 juga ditambah, tetapi tetapan ini ditutup secara lalainya. Aliran sungai juga boleh memotong melalui gunung</li></ul>
+<div style="clear:both"></div>
+<h3><span id="math_(matematik)"></span><span class="mw-headline" id="math_.28matematik.29">math (matematik)</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:652px;"><a href="/File:Mapgen_math_mandelbox.jpg" class="image"><img alt="" src="/images/thumb/d/d1/Mapgen_math_mandelbox.jpg/650px-Mapgen_math_mandelbox.jpg" decoding="async" width="650" height="366" class="thumbimage" srcset="/images/d/d1/Mapgen_math_mandelbox.jpg 1.5x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mapgen_math_mandelbox.jpg" class="internal" title="Enlarge"></a></div>Mod “mandelbox” untuk janapeta math dalam Minetest 0.4.9</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:652px;"><a href="/File:Mapgen_math_mengersponge.jpg" class="image"><img alt="" src="/images/thumb/a/a9/Mapgen_math_mengersponge.jpg/650px-Mapgen_math_mengersponge.jpg" decoding="async" width="650" height="416" class="thumbimage" srcset="/images/a/a9/Mapgen_math_mengersponge.jpg 1.5x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mapgen_math_mengersponge.jpg" class="internal" title="Enlarge"></a></div>Mod “mengersponge” untuk janapeta math dalam Minetest 0.4.9 dengan pepijat pencahayaan</div></div></div>
+<p>Janapeta “math” diperkenalkan dalam Minetest 0.4.8 oleh proller. Ini sebenarnya pengumpulan 3 penjana peta berbeza berdasarkan pengiraan matematik ringkas. Ia mampu mencipta span Menger (mengersponge), kotak Mandel (mandelbox) dan sfera. Mods boleh menambah biom dengan API biom Minetest, namun ia tidak pernah digunakan dalam Minetest Game, jadi ia hanya mencipta dunia batu secara lalainya.
+</p><p>Penjana peta ini telah dibuang dalam Minetest 0.4.10 apabila proller meninggalkan projek kerana ia dianggap berkualiti sangat rendah dan sangat jelas mempunyai banyak masalah pencahayaan (<a rel="nofollow" class="external autonumber" href="https://forum.minetest.net/viewtopic.php?f=3&amp;t=7256#p148920">[1]</a> (bahasa Inggeris)).
+</p><p>Janapeta math disambung oembangunan dalam <a href="/index.php?title=Overview_of_Minetest_forks/ms&amp;action=edit&amp;redlink=1" class="new" title="Overview of Minetest forks/ms (page does not exist)">Freeminer</a>, sebuah cabang Minetest.
+</p>
+<div style="clear:both"></div>
+<h3><span class="mw-headline" id="v5">v5</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:652px;"><a href="/File:Mapgen_v5.jpg" class="image"><img alt="" src="/images/thumb/a/af/Mapgen_v5.jpg/650px-Mapgen_v5.jpg" decoding="async" width="650" height="416" class="thumbimage" srcset="/images/a/af/Mapgen_v5.jpg 1.5x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mapgen_v5.jpg" class="internal" title="Enlarge"></a></div>Janapeta v5 yang dimodenkan dalam Minetest 0.4.13-dev</div></div></div>
+<p>Juga dipanggil “mgv5”. Janapeta ini dibangkitkan semula daripada <a href="#Version_5_.28Versi_5.29">penjana peta bersejarah versi 5</a> daripada Minetest-c55 0.3. Dalam Minetest 0.4.11, penjana peta bersejarah ini dibangkitkan semula oleh paramat kerana bentuk rupa buminya yang ikonik.
+</p><p>Namun janapeta ini tidak serupa dengan janapeta bersejarah versi 5. Bentuk rupa buminya hampir sama tetapi penjana peta v5 dimodenkan mempunyai sokongan biom yang boleh ditakrifkan oleh mods (seperti v7) dan bukannya biom pratakrif seperti dahulu. Ia juga berkongsi pelbagai ciri-ciri lain v7 yang tidak berkait dengan rupa bumi, contohnya gurun dan kurungan bawah tanah batu pasir. Sesetengah ciri yang ditambah kepada v7 juga ditambah kepada v5.
+</p>
+<div style="clear:both"></div>
+<h3><span id="fractal_(fraktal)"></span><span class="mw-headline" id="fractal_.28fraktal.29">fractal (fraktal)</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:652px;"><a href="/File:Mapgen_fractals_fractal_1.jpg" class="image"><img alt="" src="/images/thumb/0/00/Mapgen_fractals_fractal_1.jpg/650px-Mapgen_fractals_fractal_1.jpg" decoding="async" width="650" height="416" class="thumbimage" srcset="/images/0/00/Mapgen_fractals_fractal_1.jpg 1.5x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mapgen_fractals_fractal_1.jpg" class="internal" title="Enlarge"></a></div>Salah satu rupa bumi yang boleh dijana dengan janapeta fractal dalam Minetest 0.4.13-dev</div></div></div>
+<p>Diperkenalkan dalam Minetest 0.4.13 oleh paramat. Ia mencipta dunia berdasarkan fraktal, terutamanya yang berasaskan set Mandelbrot dan Julia 3D dan 4D, termasuk mandelbulb. Setakat versi 0.4.15, terdapat 18 variasi yang disokong janapeta ini. Janapeta ini mempunyai tujuan yang sama dengan janapeta math yang lama, tetapi ia mempunyai set ciri yang berbeza dengan janapeta math.
+</p>
+<div style="clear:both"></div>
+<h3><span id="flat_(rata)"></span><span class="mw-headline" id="flat_.28rata.29">flat (rata)</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:652px;"><a href="/File:Mapgen_flat.jpg" class="image"><img alt="" src="/images/thumb/1/1a/Mapgen_flat.jpg/650px-Mapgen_flat.jpg" decoding="async" width="650" height="416" class="thumbimage" srcset="/images/1/1a/Mapgen_flat.jpg 1.5x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mapgen_flat.jpg" class="internal" title="Enlarge"></a></div>janapeta flat</div></div></div>
+<p>Penjana peta flat diperkenalkan dalam Minetest 0.4.14 oleh paramat. Ia boleh digunakan bersama atau tanpa biom, perhiasan, gua, kurungan bawah tanah, dll.
+</p><p>Secara teknikalnya, Minetest mampu menjana peta rata sejak versi 0.4.5 dengan menggunakan tetapan bendera janapeta (<code>mg_flags</code>). Kemudiannya, bendera ini dibuang daripada <code>mg_flags</code> dan menjadi tetapan janapeta untuk v6 (<code>mgv6_spflags</code>) untuk menjana peta rata dengan gaya v6.
+</p>
+<div style="clear:both"></div>
+<h3><span id="valleys_(lembah)"></span><span class="mw-headline" id="valleys_.28lembah.29">valleys (lembah)</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:652px;"><a href="/File:Mapgen_valleys.jpg" class="image"><img alt="" src="/images/thumb/1/1b/Mapgen_valleys.jpg/650px-Mapgen_valleys.jpg" decoding="async" width="650" height="416" class="thumbimage" srcset="/images/1/1b/Mapgen_valleys.jpg 1.5x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mapgen_valleys.jpg" class="internal" title="Enlarge"></a></div>janapeta valleys dalam Minetest 0.4.13-dev</div></div></div>
+<p>Diperkenalkan dalam Minetest 0.4.14 oleh Duane Robertson. Ianya terkenal dengan bentuknya berupa “lembah” dan sungai yang mengalir. Sungai-sungai ini berbeza dengan v7: Mereka mengalir turun bukit bukannya berada rata di paras laut.
+</p><p>Dalam Minetest Game, kesemua sungai ini diperbuat daripada <a href="/River_Water/ms" title="River Water/ms">Air Sungai</a>, cecair yang diperkenalkan dalam versi yang sama untuk sungai-sungai ini. Ia diperkenalkan kerana cecair dengan jarak aliran yang kurang diperlukan, <a href="/Water/ms" title="Water/ms">air</a> yang biasa akan mudah banjir.
+</p>
+<div style="clear:both"></div>
+<h3><span class="mw-headline" id="carpathian">carpathian</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:652px;"><a href="/File:Mapgen_carpathian.jpg" class="image"><img alt="" src="/images/thumb/f/fa/Mapgen_carpathian.jpg/650px-Mapgen_carpathian.jpg" decoding="async" width="650" height="416" class="thumbimage" srcset="/images/f/fa/Mapgen_carpathian.jpg 1.5x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mapgen_carpathian.jpg" class="internal" title="Enlarge"></a></div>janapeta carpathian dalam Minetest 0.5.0-dev-8221d3bc</div></div></div>
+<p>Diperkenalkan pada 6 Julai 2017 oleh vlapsley. Setakat versi 0.4.16, janapeta ini masih belum diterbitkan secara rasmi lagi, namun ia telah ada dalam versi pembangunan. Ia telah kali pertama ditunjukkan <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=17174">di dalam forum</a> (bahasa Inggeris). Janapeta ini terkenal dengan gunungnya yang rumit (ada banyak variasi: berteres, bertangga, sangat besar, beralun) dan berbukit. Kebanyakan rupa buminya tanah lapang rata, gunung-ganang dan lautan luas. Fiord juga boleh dijana, tetapi jarang dijumpai.
+</p>
+<div style="clear:both"></div>
+<h2><span class="mw-headline" id="Lihat_juga">Lihat juga</span></h2>
+<ul><li><a href="/Map_generator/ms" title="Map generator/ms">Penjana Peta</a></li>
+<li><a href="/Biomes/ms" title="Biomes/ms">Biom</a></li></ul>
+<!-- 
+NewPP limit report
+Cached time: 20230709181959
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.493 seconds
+Real time usage: 0.748 seconds
+Preprocessor visited node count: 293/1000000
+Post‐expand include size: 1957/2097152 bytes
+Template argument size: 226/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 13/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 3224/5000000 bytes
+Lua time usage: 0.130/7 seconds
+Lua virtual size: 5.57 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  380.816      1 -total
+ 78.66%  299.553      1 Template:Languages
+  6.12%   23.290     22 Template:-
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:3806-0!canonical and timestamp 20230709181959 and revision id 25469
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Map_Generator_Evolution/ms&amp;oldid=25469">http://wiki.minetest.net/index.php?title=Map_Generator_Evolution/ms&amp;oldid=25469</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/Category:Malay" title="Category:Malay">Malay</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Map+Generator+Evolution%2Fms" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Map_Generator_Evolution/ms" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Map_Generator_Evolution/ms&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Map_Generator_Evolution/ms">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Map_Generator_Evolution/ms&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Map_Generator_Evolution/ms&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Map_Generator_Evolution/ms" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Map_Generator_Evolution/ms" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Map_Generator_Evolution/ms&amp;oldid=25469" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Map_Generator_Evolution/ms&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 9 April 2021, at 20:38.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.493","walltime":"0.748","ppvisitednodes":{"value":293,"limit":1000000},"postexpandincludesize":{"value":1957,"limit":2097152},"templateargumentsize":{"value":226,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":13,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":3224,"limit":5000000},"timingprofile":["100.00%  380.816      1 -total"," 78.66%  299.553      1 Template:Languages","  6.12%   23.290     22 Template:-"]},"scribunto":{"limitreport-timeusage":{"value":"0.130","limit":"7"},"limitreport-virtmemusage":{"value":5836800,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709181959","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":1087});});</script></body></html>

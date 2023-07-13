@@ -1,0 +1,392 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>FAQ/es - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"4952fc90d211e10409021fcf","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"FAQ/es","wgTitle":"FAQ/es","wgCurRevisionId":27729,"wgRevisionId":27729,"wgArticleId":754,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Incomplete translated pages","Spanish","Languages pages"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"FAQ/es","wgRelevantArticleId":754,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":
+"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-FAQ_es rootpage-FAQ skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">FAQ/es</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/FAQ" title="FAQ">FAQ</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> Idioma:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><a href="/FAQ" title="FAQ">English</a><b>&#160;• <bdi lang="es"><a class="mw-selflink selflink">español</a></bdi></b>&#160;• <bdi lang="fr"><a href="/FAQ/fr" title="FAQ/fr">français</a></bdi>&#160;• <bdi lang="id"><a href="/FAQ/id" title="FAQ/id">Bahasa Indonesia</a></bdi>&#160;• <bdi lang="ja"><a href="/FAQ/ja" title="FAQ/ja">日本語</a></bdi>&#160;• <bdi lang="ms"><a href="/FAQ/ms" title="FAQ/ms">Bahasa Melayu</a></bdi>&#160;• <bdi lang="uk"><a href="/FAQ/uk" title="FAQ/uk">українська</a></bdi>&#160;• <bdi lang="zh-hans"><a href="/FAQ/zh-hans" title="FAQ/zh-hans">中文（简体）‎</a></bdi></td>
+</tr></tbody></table>
+<table style="margin: 0 auto 1em; text-align: justify; border-collapse: collapse; border-width: 1px; border-style: dashed; width: 100%; clear: both; border-color:#f4c430; background:#ffe;">
+<tbody><tr>
+<td style="border: none; padding: 2px 0 2px 0.9em; text-align: center;">
+ <img alt="Mbox style.png" src="/images/thumb/b/be/Mbox_style.png/25px-Mbox_style.png" decoding="async" width="25" height="25" srcset="/images/thumb/b/be/Mbox_style.png/38px-Mbox_style.png 1.5x, /images/b/be/Mbox_style.png 2x" /></td>
+<td style="border: none; padding: 0.25em 0.9em; width: 100%;"><b>This translation is incomplete.</b><br />
+Please help finish the translation if you can.</td>
+
+</tr></tbody></table>
+<p>Ésta es una lista de <b>preguntas más frecuentes</b> acerca de Minetest. Por problemas técnicos, diríjase a <a href="/index.php?title=Help:Troubleshooting/es&amp;action=edit&amp;redlink=1" class="new" title="Help:Troubleshooting/es (page does not exist)">Solución de problemas</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#General"><span class="tocnumber">1</span> <span class="toctext">General</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#.C2.BFD.C3.B3nde_puedo_hacer_preguntas.3F"><span class="tocnumber">1.1</span> <span class="toctext">¿Dónde puedo hacer preguntas?</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#.C2.BFC.C3.B3mo_instalo_juegos.2C_mods.2C_mapas_y_paquetes_de_texturas.3F"><span class="tocnumber">1.2</span> <span class="toctext">¿Cómo instalo juegos, mods, mapas y paquetes de texturas?</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#.C2.BFCu.C3.A1les_son_los_diferentes_modos_de_juego_y_c.C3.B3mo_los_instalo.3F"><span class="tocnumber">1.3</span> <span class="toctext">¿Cuáles son los diferentes modos de juego y cómo los instalo?</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#.C2.BFC.C3.B3mo_actualizo_Minetest.3F"><span class="tocnumber">1.4</span> <span class="toctext">¿Cómo actualizo Minetest?</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#.C2.BFC.C3.B3mo_obtengo_una_cuenta_multijugador.3F"><span class="tocnumber">1.5</span> <span class="toctext">¿Cómo obtengo una cuenta multijugador?</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Servidores"><span class="tocnumber">2</span> <span class="toctext">Servidores</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#.C2.BFC.C3.B3mo_uso_el_comando_XYZ.3F"><span class="tocnumber">2.1</span> <span class="toctext">¿Cómo uso el comando XYZ?</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Juego"><span class="tocnumber">3</span> <span class="toctext">Juego</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#General_2"><span class="tocnumber">3.1</span> <span class="toctext">General</span></a>
+<ul>
+<li class="toclevel-3 tocsection-11"><a href="#.C2.BFQu.C3.A9_tan_grande_es_el_mapa.3F"><span class="tocnumber">3.1.1</span> <span class="toctext">¿Qué tan grande es el mapa?</span></a></li>
+<li class="toclevel-3 tocsection-12"><a href="#.C2.BFC.C3.B3mo_encuentro_mi_casa_luego_de_perderme_o_morir.3F"><span class="tocnumber">3.1.2</span> <span class="toctext">¿Cómo encuentro mi casa luego de perderme o morir?</span></a></li>
+<li class="toclevel-3 tocsection-13"><a href="#How_do_I_increase_the_brightness.3F"><span class="tocnumber">3.1.3</span> <span class="toctext">How do I increase the brightness?</span></a></li>
+<li class="toclevel-3 tocsection-14"><a href="#Why_is_there_only_stone_in_my_world.3F"><span class="tocnumber">3.1.4</span> <span class="toctext">Why is there only stone in my world?</span></a></li>
+<li class="toclevel-3 tocsection-15"><a href="#How_do_I_fly.3F"><span class="tocnumber">3.1.5</span> <span class="toctext">How do I fly?</span></a></li>
+<li class="toclevel-3 tocsection-16"><a href="#What_is_minetest_game_.3F"><span class="tocnumber">3.1.6</span> <span class="toctext">What is minetest_game&#160;?</span></a></li>
+<li class="toclevel-3 tocsection-17"><a href="#Why_can.E2.80.99t_I_find_default_or_wool_or_fire.3F"><span class="tocnumber">3.1.7</span> <span class="toctext">Why can’t I find default or wool or fire?</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-18"><a href="#Juego_Base_de_Minetest"><span class="tocnumber">3.2</span> <span class="toctext">Juego Base de Minetest</span></a>
+<ul>
+<li class="toclevel-3 tocsection-19"><a href="#.C2.BFC.C3.B3mo_elaborar_XYZ.3F"><span class="tocnumber">3.2.1</span> <span class="toctext">¿Cómo elaborar XYZ?</span></a></li>
+<li class="toclevel-3 tocsection-20"><a href="#.C2.BFExiste_alg.C3.BAn_monstruo.3F"><span class="tocnumber">3.2.2</span> <span class="toctext">¿Existe algún monstruo?</span></a></li>
+<li class="toclevel-3 tocsection-21"><a href="#.C2.BFPor_qu.C3.A9_no_puedo_encontrar_junglas.2Fmazmorras.3F"><span class="tocnumber">3.2.3</span> <span class="toctext">¿Por qué no puedo encontrar junglas/mazmorras?</span></a></li>
+<li class="toclevel-3 tocsection-22"><a href="#.C2.BFC.C3.B3mo_abro_o_cierro_puertas.3F"><span class="tocnumber">3.2.4</span> <span class="toctext">¿Cómo abro o cierro puertas?</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-23"><a href="#Para_Jugadores_de_Minecraft"><span class="tocnumber">3.3</span> <span class="toctext">Para Jugadores de Minecraft</span></a>
+<ul>
+<li class="toclevel-3 tocsection-24"><a href="#.C2.BFHay_una_mesa_de_elaboraci.C3.B3n.3F"><span class="tocnumber">3.3.1</span> <span class="toctext">¿Hay una mesa de elaboración?</span></a></li>
+<li class="toclevel-3 tocsection-25"><a href="#.C2.BFC.C3.B3mo_puedo_hacer_que_Minetest_se_vea_y_act.C3.BAe_como_Minecraft.3F"><span class="tocnumber">3.3.2</span> <span class="toctext">¿Cómo puedo hacer que Minetest se vea y actúe como Minecraft?</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-26"><a href="#Modding_FAQ"><span class="tocnumber">4</span> <span class="toctext">Modding FAQ</span></a></li>
+<li class="toclevel-1 tocsection-27"><a href="#Problemas_T.C3.A9cnicos"><span class="tocnumber">5</span> <span class="toctext">Problemas Técnicos</span></a>
+<ul>
+<li class="toclevel-2 tocsection-28"><a href="#Tengo_un_problema_t.C3.A9cnico._.C2.BFC.C3.B3mo_lo_soluciono.3F"><span class="tocnumber">5.1</span> <span class="toctext">Tengo un problema técnico. ¿Cómo lo soluciono?</span></a></li>
+<li class="toclevel-2 tocsection-29"><a href="#Obtengo_un_mensaje_de_error_o_una_advertencia._.C2.BFQu.C3.A9_significa.3F"><span class="tocnumber">5.2</span> <span class="toctext">Obtengo un mensaje de error o una advertencia. ¿Qué significa?</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="General">General</span></h2>
+<h3><span id="¿Dónde_puedo_hacer_preguntas?"></span><span class="mw-headline" id=".C2.BFD.C3.B3nde_puedo_hacer_preguntas.3F">¿Dónde puedo hacer preguntas?</span></h3>
+<p>En el <a rel="nofollow" class="external text" href="http://minetest.net/irc">IRC</a> (<a rel="nofollow" class="external text" href="https://webchat.freenode.net/?channels=##minetest-es">canal en español</a>) y en el <a rel="nofollow" class="external text" href="https://forum.minetest.net/">foro</a> (<a rel="nofollow" class="external text" href="https://forum.minetest.net/viewforum.php?f=22">subforo en español</a>). Es recomendable que busque en los archivos, la mayoría de las preguntas probablemente ya han sido contestadas anteriormente.
+</p>
+<h3><span id="¿Cómo_instalo_juegos,_mods,_mapas_y_paquetes_de_texturas?"></span><span class="mw-headline" id=".C2.BFC.C3.B3mo_instalo_juegos.2C_mods.2C_mapas_y_paquetes_de_texturas.3F">¿Cómo instalo juegos, mods, mapas y paquetes de texturas?</span></h3>
+<p>Véase <a href="/index.php?title=Subgames&amp;action=edit&amp;redlink=1" class="new" title="Subgames (page does not exist)">Instalando juegos</a>, <a href="/Help:Installing_Mods" class="mw-redirect" title="Help:Installing Mods">Instalando Mods</a>, <a href="/Maps#Installation" class="mw-redirect" title="Maps">Instalando Mapas</a>, y <a href="/Texture_Packs" title="Texture Packs">Paquetes de texturas</a>.
+</p>
+<h3><span id="¿Cuáles_son_los_diferentes_modos_de_juego_y_cómo_los_instalo?"></span><span class="mw-headline" id=".C2.BFCu.C3.A1les_son_los_diferentes_modos_de_juego_y_c.C3.B3mo_los_instalo.3F">¿Cuáles son los diferentes modos de juego y cómo los instalo?</span></h3>
+<p>En una nueva instalación deberías tener “Minetest [minetest_game]” el cual es el juego principal, si no lo tienes, descárgalo desde <a rel="nofollow" class="external text" href="https://github.com/minetest/minetest_game">GitHub</a>. “Minimal development test” (“Prueba Mínima de Desarrollo”) es para desarrolladores y no está destinado a ser jugable. Puedes encontrar otros diversos modos de juego en los foros. Para instalar, extrae el archivo y renombra la carpeta al nombre del juego (por ej. “minetest_game-master” se renombra a “minetest_game”), luego copia la carpeta a la carpeta “games”.
+</p>
+<h3><span id="¿Cómo_actualizo_Minetest?"></span><span class="mw-headline" id=".C2.BFC.C3.B3mo_actualizo_Minetest.3F">¿Cómo actualizo Minetest?</span></h3>
+<p>La forma más fácil es simplemente descargar la versión más reciente y mover las carpetas de mundos (“worlds”), juegos (“games”), y “mods” a la carpeta de la nueva versión. Dependiendo de tu sistema operativo, pueden existir otras formas de actualizar el juego. Si utilizas la versión de desarrollo, puedes clonar el repositorio y descargar (“pull”) y compilar cada vez que desees actualizar.
+</p>
+<h3><span id="¿Cómo_obtengo_una_cuenta_multijugador?"></span><span class="mw-headline" id=".C2.BFC.C3.B3mo_obtengo_una_cuenta_multijugador.3F">¿Cómo obtengo una cuenta multijugador?</span></h3>
+<p>No hay cuentas globales en Minetest. Cada servidor lleva el control de sus propios usuarios, y puedes utilizar diferentes nombres de usuario en diferentes servidores. La “cuenta” se crea la primera vez que juegas en un servidor, y si usas una contraseña (recomendado), solo tú puedes acceder a tu personaje y su inventario en ése servidor. El modo de un jugador no requiere ingresar nombre ni contraseña.
+</p>
+<h2><span class="mw-headline" id="Servidores">Servidores</span></h2>
+<h3><span id="¿Cómo_uso_el_comando_XYZ?"></span><span class="mw-headline" id=".C2.BFC.C3.B3mo_uso_el_comando_XYZ.3F">¿Cómo uso el comando XYZ?</span></h3>
+<p><i>Vé <a href="/index.php?title=Server_commands/es&amp;action=edit&amp;redlink=1" class="new" title="Server commands/es (page does not exist)">Comandos del servidor</a>.</i>
+</p>
+<h2><span class="mw-headline" id="Juego">Juego</span></h2>
+<h3><span class="mw-headline" id="General_2">General</span></h3>
+<h4><span id="¿Qué_tan_grande_es_el_mapa?"></span><span class="mw-headline" id=".C2.BFQu.C3.A9_tan_grande_es_el_mapa.3F">¿Qué tan grande es el <a href="/index.php?title=Map/es&amp;action=edit&amp;redlink=1" class="new" title="Map/es (page does not exist)">mapa</a>?</span></h4>
+<p>El mapa es un cubo de 61840 <a href="/index.php?title=Nodes/es&amp;action=edit&amp;redlink=1" class="new" title="Nodes/es (page does not exist)">nodos</a> de largo. Ello quiere decir que el mapa tiene un volúmen igual a 61840<sup>3</sup> nodos, o 236.487.637.504.000 nodos.
+Las coordenadas van desde −30912 a 30927 en todas dimensiones.
+</p><p><i>Véase también <a href="/index.php?title=Coordinates/es&amp;action=edit&amp;redlink=1" class="new" title="Coordinates/es (page does not exist)">Coordenadas</a>.</i>
+</p>
+<h4><span id="¿Cómo_encuentro_mi_casa_luego_de_perderme_o_morir?"></span><span class="mw-headline" id=".C2.BFC.C3.B3mo_encuentro_mi_casa_luego_de_perderme_o_morir.3F">¿Cómo encuentro mi casa luego de perderme o morir?</span></h4>
+<p>Minetest automáticamente genera un archivo llamado “debug.txt” en la carpeta “minetest/bin” donde puedes ver el registro de actividades. Desplázate al final del texto y busca algo así como
+</p>
+<pre>singleplayer digs node * […]
+</pre>
+<p>Trata de teletransportarte a la posición que ves en esas líneas hasta encontrar tu hogar:
+</p>
+<pre>/teleport x,y,z
+</pre>
+<p><i>Vé <a href="/index.php?title=Server_commands/es&amp;action=edit&amp;redlink=1" class="new" title="Server commands/es (page does not exist)">Acciones del jugador</a>.</i>
+</p><p><br />
+</p>
+<h4><span id="How_do_I_increase_the_brightness?"></span><span class="mw-headline" id="How_do_I_increase_the_brightness.3F">How do I increase the brightness?</span></h4>
+<p>See <a href="/Help:Troubleshooting#The_screen_is_too_dark" class="mw-redirect" title="Help:Troubleshooting">Help:Troubleshooting#The_screen_is_too_dark</a>.
+</p>
+<h4><span id="Why_is_there_only_stone_in_my_world?"></span><span class="mw-headline" id="Why_is_there_only_stone_in_my_world.3F">Why is there only stone in my world?</span></h4>
+<p>You probably have chosen the map generator v7 which is currently in development. It has the feature to allow mods and subgames to add their own biomes. Without any mods that take advantage of that feature it is just stone. You can use map generator v6 instead.
+</p>
+<h4><span id="How_do_I_fly?"></span><span class="mw-headline" id="How_do_I_fly.3F">How do I fly?</span></h4>
+<p>To fly you first need the “fly” <a href="/Privileges" title="Privileges">privilege</a>. In singleplayer mode you can give it to yourself using the command:
+</p>
+<pre>/grant singleplayer fly
+</pre>
+<p>Then enable fly mode by pressing <kbd>K</kbd>, press <kbd>K</kbd> again to disable it. You ascent with the jump key (default: <kbd>space bar</kbd>) and descent with the sneak key (default: <kbd>shift</kbd>).
+</p>
+<h4><span id="What_is_minetest_game_?"></span><span class="mw-headline" id="What_is_minetest_game_.3F">What is <code>minetest_game</code>&#160;?</span></h4>
+<p>Minetest is an engine and allows different <a href="/index.php?title=Subgames&amp;action=edit&amp;redlink=1" class="new" title="Subgames (page does not exist)">subgames</a> to run on it. <a href="/Games/Minetest_Game" title="Games/Minetest Game">Minetest Game</a> is the default one and will appear just as "Minetest" in your main menu.
+</p>
+<h4><span id="Why_can’t_I_find_default_or_wool_or_fire?"></span><span class="mw-headline" id="Why_can.E2.80.99t_I_find_default_or_wool_or_fire.3F">Why can’t I find <code>default</code> or <code>wool</code> or <code>fire</code>?</span></h4>
+<p>Some mods might depend on those mods. As <code>minetest_game</code> already includes them you don't need to install those.
+</p>
+<h3><span class="mw-headline" id="Juego_Base_de_Minetest"><a href="/index.php?title=Subgames/Minetest_Game/es&amp;action=edit&amp;redlink=1" class="new" title="Subgames/Minetest Game/es (page does not exist)">Juego Base de Minetest</a></span></h3>
+<h4><span id="¿Cómo_elaborar_XYZ?"></span><span class="mw-headline" id=".C2.BFC.C3.B3mo_elaborar_XYZ.3F">¿Cómo elaborar XYZ?</span></h4>
+<p>Vé <a href="/index.php?title=Blocks/es&amp;action=edit&amp;redlink=1" class="new" title="Blocks/es (page does not exist)">bloques</a> u <a href="/index.php?title=Items/es&amp;action=edit&amp;redlink=1" class="new" title="Items/es (page does not exist)">Objetos</a> y sigue el vínculo al bloque u objeto que deseas elaborar; las páginas correspondientes contienen instrucciones para elaborar el objeto.
+</p><p>Tambien puedes instalar una <a href="/index.php?title=Crafting_guide/es&amp;action=edit&amp;redlink=1" class="new" title="Crafting guide/es (page does not exist)">guía de elaboración</a> para ver recetas de elaboración en Minetest.
+</p><p>Por favor nota que no todo puede ser elaborado.
+</p>
+<h4><span id="¿Existe_algún_monstruo?"></span><span class="mw-headline" id=".C2.BFExiste_alg.C3.BAn_monstruo.3F">¿Existe algún monstruo?</span></h4>
+<p>No y <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?id=6161">no se espera</a> que se añadan en poco tiempo. Pero hay <a href="/index.php?title=Mods/es&amp;action=edit&amp;redlink=1" class="new" title="Mods/es (page does not exist)">mods</a> para añadir <a href="/index.php?title=Mobs/es&amp;action=edit&amp;redlink=1" class="new" title="Mobs/es (page does not exist)">monstruos</a> (“mobs”).
+</p>
+<h4><span id="¿Por_qué_no_puedo_encontrar_junglas/mazmorras?"></span><span class="mw-headline" id=".C2.BFPor_qu.C3.A9_no_puedo_encontrar_junglas.2Fmazmorras.3F">¿Por qué no puedo encontrar junglas/mazmorras?</span></h4>
+<p>Están deshabilitadas por defecto. Puedes habilitarlas añadiendo “v6_jungles, dungeons” a la variable “mg_flags” en tu archivo <a href="/index.php?title=Minetest.conf/es&amp;action=edit&amp;redlink=1" class="new" title="Minetest.conf/es (page does not exist)">minetest.conf</a>. Ello habilitará tanto junglas como mazmorras (“dungeons”) en mundos creados <b>despues</b> de que la configuración ha sido cambiada. Intenta excavar hacia abajo y buscar grandes agujeros en el suelo.
+</p>
+<h4><span id="¿Cómo_abro_o_cierro_puertas?"></span><span class="mw-headline" id=".C2.BFC.C3.B3mo_abro_o_cierro_puertas.3F">¿Cómo abro o cierro <a href="/index.php?title=Door/es&amp;action=edit&amp;redlink=1" class="new" title="Door/es (page does not exist)">puertas</a>?</span></h4>
+<p>Necesitas hacer <b>clic derecho</b> en vez de clic izquierdo para abrir puertas a partir de la versión 0.4.5.
+</p>
+<h3><span class="mw-headline" id="Para_Jugadores_de_Minecraft">Para Jugadores de Minecraft</span></h3>
+<h4><span id="¿Hay_una_mesa_de_elaboración?"></span><span class="mw-headline" id=".C2.BFHay_una_mesa_de_elaboraci.C3.B3n.3F">¿Hay una mesa de elaboración?</span></h4>
+<p>En el juego base: <b>No.</b> No necesitas una. Ya tienes un cuadro de elaboración de 3 × 3 en tu <a href="/index.php?title=Inventory_menu/es&amp;action=edit&amp;redlink=1" class="new" title="Inventory menu/es (page does not exist)">menú de inventario</a> (→ <a href="/Crafting/es#Cuadro_de_Elaboraci.C3.B3n_y_Ranura_de_Salida" title="Crafting/es">Cuadro de Elaboración y Ranura de Salida</a>).
+</p>
+<h4><span id="¿Cómo_puedo_hacer_que_Minetest_se_vea_y_actúe_como_Minecraft?"></span><span class="mw-headline" id=".C2.BFC.C3.B3mo_puedo_hacer_que_Minetest_se_vea_y_act.C3.BAe_como_Minecraft.3F">¿Cómo puedo hacer que Minetest se vea y actúe como Minecraft?</span></h4>
+<p>Puedes usar el <a href="/index.php?title=Subgames/es&amp;action=edit&amp;redlink=1" class="new" title="Subgames/es (page does not exist)">juego</a> <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?id=2589">Minitest</a>.
+</p>
+<h2><span class="mw-headline" id="Modding_FAQ">Modding FAQ</span></h2>
+<p>See <a rel="nofollow" class="external text" href="http://dev.minetest.net/Modding_FAQ">Modding FAQ</a>.
+</p>
+<h2><span id="Problemas_Técnicos"></span><span class="mw-headline" id="Problemas_T.C3.A9cnicos">Problemas Técnicos</span></h2>
+<h3><span id="Tengo_un_problema_técnico._¿Cómo_lo_soluciono?"></span><span class="mw-headline" id="Tengo_un_problema_t.C3.A9cnico._.C2.BFC.C3.B3mo_lo_soluciono.3F">Tengo un problema técnico. ¿Cómo lo soluciono?</span></h3>
+<p>Vé <a href="/index.php?title=Help:Troubleshooting/es&amp;action=edit&amp;redlink=1" class="new" title="Help:Troubleshooting/es (page does not exist)">Solución de Problemas</a>.
+</p>
+<h3><span id="Obtengo_un_mensaje_de_error_o_una_advertencia._¿Qué_significa?"></span><span class="mw-headline" id="Obtengo_un_mensaje_de_error_o_una_advertencia._.C2.BFQu.C3.A9_significa.3F">Obtengo un mensaje de error o una advertencia. ¿Qué significa?</span></h3>
+<p>Vé <a href="/index.php?title=Help:Troubleshooting/es&amp;action=edit&amp;redlink=1" class="new" title="Help:Troubleshooting/es (page does not exist)">Mensajes de error sin cerrado</a>.
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20230708175944
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.267 seconds
+Real time usage: 0.479 seconds
+Preprocessor visited node count: 223/1000000
+Post‐expand include size: 3475/2097152 bytes
+Template argument size: 636/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 13/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.120/7 seconds
+Lua virtual size: 5.54 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  339.792      1 -total
+ 92.84%  315.479      1 Template:Languages
+  7.06%   23.983      1 Template:Incomplete_translation
+  3.95%   13.422      1 Template:Mbox
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:754-0!canonical and timestamp 20230708175943 and revision id 27729
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=FAQ/es&amp;oldid=27729">http://wiki.minetest.net/index.php?title=FAQ/es&amp;oldid=27729</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Incomplete_translated_pages" title="Category:Incomplete translated pages">Incomplete translated pages</a></li><li><a href="/Category:Spanish" title="Category:Spanish">Spanish</a></li><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=FAQ%2Fes" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/FAQ/es" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:FAQ/es&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/FAQ/es">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=FAQ/es&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=FAQ/es&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/FAQ/es" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/FAQ/es" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=FAQ/es&amp;oldid=27729" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=FAQ/es&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 6 May 2023, at 09:33.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.267","walltime":"0.479","ppvisitednodes":{"value":223,"limit":1000000},"postexpandincludesize":{"value":3475,"limit":2097152},"templateargumentsize":{"value":636,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":13,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  339.792      1 -total"," 92.84%  315.479      1 Template:Languages","  7.06%   23.983      1 Template:Incomplete_translation","  3.95%   13.422      1 Template:Mbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.120","limit":"7"},"limitreport-virtmemusage":{"value":5808128,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230708175944","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":282});});</script></body></html>

@@ -1,0 +1,967 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Games/Lord of the Test/Plants - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"c0d57fbbfe72c7f8cc994f63","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Games/Lord_of_the_Test/Plants","wgTitle":"Games/Lord of the Test/Plants","wgCurRevisionId":21324,"wgRevisionId":21324,"wgArticleId":1333,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages","Lord of the Test"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Games/Lord_of_the_Test/Plants","wgRelevantArticleId":1333,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],
+"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","jquery.tablesorter.styles":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=jquery.tablesorter.styles%7Cmediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Games_Lord_of_the_Test_Plants rootpage-Games skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Games/Lord of the Test/Plants</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/Games" title="Games">Games</a>&lrm; | <a href="/Games/Lord_of_the_Test" title="Games/Lord of the Test">Lord of the Test</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> Language:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><b><a class="mw-selflink selflink">English</a></b>&#160;• <bdi lang="de"><a href="/Games/Lord_of_the_Test/Plants/de" title="Games/Lord of the Test/Plants/de">Deutsch</a></bdi></td>
+</tr></tbody></table>
+<p>There are many unique plants in the <a href="/Games/Lord_of_the_Test" title="Games/Lord of the Test">Lord of the Test</a> game. This page covers most plants that can be found in the game. For the places where the plants can be found, check the <a href="/Games/Lord_of_the_Test/Biomes" title="Games/Lord of the Test/Biomes">Biomes</a> page.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Barley"><span class="tocnumber">1</span> <span class="toctext">Barley</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Berries"><span class="tocnumber">2</span> <span class="toctext">Berries</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Cabbage"><span class="tocnumber">3</span> <span class="toctext">Cabbage</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#As_a_crafting_ingredient"><span class="tocnumber">3.1</span> <span class="toctext">As a crafting ingredient</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Corn"><span class="tocnumber">4</span> <span class="toctext">Corn</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Elanor"><span class="tocnumber">5</span> <span class="toctext">Elanor</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#As_a_crafting_ingredient_2"><span class="tocnumber">5.1</span> <span class="toctext">As a crafting ingredient</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Lissuin"><span class="tocnumber">6</span> <span class="toctext">Lissuin</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#As_a_crafting_ingredient_3"><span class="tocnumber">6.1</span> <span class="toctext">As a crafting ingredient</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Melons"><span class="tocnumber">7</span> <span class="toctext">Melons</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Mushrooms"><span class="tocnumber">8</span> <span class="toctext">Mushrooms</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Niphredil"><span class="tocnumber">9</span> <span class="toctext">Niphredil</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#As_a_crafting_ingredient_4"><span class="tocnumber">9.1</span> <span class="toctext">As a crafting ingredient</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#Pipeweed"><span class="tocnumber">10</span> <span class="toctext">Pipeweed</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Potatoes"><span class="tocnumber">11</span> <span class="toctext">Potatoes</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#Seregon"><span class="tocnumber">12</span> <span class="toctext">Seregon</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Barley">Barley</span></h2>
+<table class="wikitable" style="float: right; margin: 0 0 0.5em 1.5em" width="220px">
+<tbody><tr>
+<th align="center" colspan="2"><a href="/File:Barley.png" class="image"><img alt="Barley.png" src="/images/thumb/d/df/Barley.png/75px-Barley.png" decoding="async" width="75" height="75" srcset="/images/thumb/d/df/Barley.png/113px-Barley.png 1.5x, /images/d/df/Barley.png 2x" /></a>
+</th></tr>
+<tr>
+<th colspan="2">Barley
+</th></tr>
+<tr>
+<td><b>Type</b></td>
+<td>plant
+</td></tr>
+<tr>
+<td><b>Drops</b></td>
+<td><i>itself</i><br /> and Seeds
+</td></tr>
+<tr>
+<td><b>Stackable</b></td>
+<td>Yes (99)
+</td></tr>
+<tr>
+<td><b>Itemstring</b></td>
+<td>lottfarming:barley_1
+</td></tr></tbody></table>
+<p>Barley is a major cereal grain. It is mainly used for <a href="/Farming" title="Farming">farming</a>. The plant grows in three stages. Only harvesting the final stage results in drops. Barley is the main (and only) ingredient for <b>Cooked Barley</b>.
+<i>The itemstring noted gives you the <b>plant</b> in stage 1. The itemstring for Barley is lottfarming:barley</i>
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th scope="row" width="140px">Input
+</th>
+<th scope="col"><a href="/Furnace" title="Furnace">Furnace</a>
+</th>
+<th scope="row" width="180px">Output
+</th>
+<th>Description
+</th></tr>
+<tr>
+<td><a href="/File:Barley.png" class="image"><img alt="Barley.png" src="/images/thumb/d/df/Barley.png/32px-Barley.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/df/Barley.png/48px-Barley.png 1.5x, /images/thumb/d/df/Barley.png/64px-Barley.png 2x" /></a> <b>Barley</b>
+</td>
+<td><a href="/File:Arrow.png" class="image"><img alt="Arrow.png" src="/images/4/41/Arrow.png" decoding="async" width="32" height="26" /></a> <a href="/File:Furnace.png" class="image"><img alt="Furnace.png" src="/images/thumb/0/0f/Furnace.png/32px-Furnace.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/0f/Furnace.png/48px-Furnace.png 1.5x, /images/thumb/0/0f/Furnace.png/64px-Furnace.png 2x" /></a> <a href="/File:Arrow.png" class="image"><img alt="Arrow.png" src="/images/4/41/Arrow.png" decoding="async" width="32" height="26" /></a>
+</td>
+<td><a href="/File:Cooked_Barley.png" class="image"><img alt="Cooked Barley.png" src="/images/thumb/e/e6/Cooked_Barley.png/32px-Cooked_Barley.png" decoding="async" width="32" height="32" srcset="/images/thumb/e/e6/Cooked_Barley.png/48px-Cooked_Barley.png 1.5x, /images/thumb/e/e6/Cooked_Barley.png/64px-Cooked_Barley.png 2x" /></a> <b>Cooked Barley</b>
+</td>
+<td><i>Cooked Barley'</i> heals you for <a href="/File:Heart.png" class="image"><img alt="Heart.png" src="/images/thumb/d/d9/Heart.png/16px-Heart.png" decoding="async" width="16" height="16" srcset="/images/thumb/d/d9/Heart.png/24px-Heart.png 1.5x, /images/thumb/d/d9/Heart.png/32px-Heart.png 2x" /></a> when eaten.
+</td></tr></tbody></table>
+<div style="clear:both"></div>
+<h2><span class="mw-headline" id="Berries">Berries</span></h2>
+<table class="wikitable" style="float: right; margin: 0 0 0.5em 1.5em" width="220px">
+<tbody><tr>
+<th align="center" colspan="2"><a href="/File:Berries_Plant.png" class="image"><img alt="Berries Plant.png" src="/images/thumb/3/37/Berries_Plant.png/75px-Berries_Plant.png" decoding="async" width="75" height="75" srcset="/images/thumb/3/37/Berries_Plant.png/113px-Berries_Plant.png 1.5x, /images/3/37/Berries_Plant.png 2x" /></a>
+</th></tr>
+<tr>
+<th colspan="2">Berries Plant
+</th></tr>
+<tr>
+<td><b>Type</b></td>
+<td>plant
+</td></tr>
+<tr>
+<td><b>Drops</b></td>
+<td><b>Berries</b><br /> and Seeds
+</td></tr>
+<tr>
+<td><b>Stackable</b></td>
+<td>Yes (99)
+</td></tr>
+<tr>
+<td><b>Itemstring</b></td>
+<td>lottfarming:berries_1
+</td></tr></tbody></table>
+<p>Berries grow on the famous Berries Plant. This plant grows in four stages, where the final stage carries both seeds for new bushes and delicious red Berries. You can eat these berries on the spot (giving <a href="/File:Half_heart.png" class="image"><img alt="Half heart.png" src="/images/thumb/9/92/Half_heart.png/16px-Half_heart.png" decoding="async" width="16" height="16" srcset="/images/thumb/9/92/Half_heart.png/24px-Half_heart.png 1.5x, /images/thumb/9/92/Half_heart.png/32px-Half_heart.png 2x" /></a>), or use them to brew <a href="/index.php?title=Games/Lord_of_the_Test/Potions&amp;action=edit&amp;redlink=1" class="new" title="Games/Lord of the Test/Potions (page does not exist)">Potions</a>. The Berries Plant can be found in domestic and wild variants. It is a good plant for <a href="/Farming" title="Farming">farming</a>. The <a href="/Games/Lord_of_the_Test/Trees#Rowan" title="Games/Lord of the Test/Trees">Rowan tree</a> carries the same berries. 
+<i>The itemstring noted gives you the <b>plant</b> in stage 1. The itemstring for Berries is lottfarming:berries</i>
+</p>
+<div style="clear:both"></div>
+<h2><span class="mw-headline" id="Cabbage">Cabbage</span></h2>
+<table class="wikitable" style="float: right; margin: 0 0 0.5em 1.5em" width="220px">
+<tbody><tr>
+<th align="center" colspan="2"><a href="/File:Cabbage.png" class="image"><img alt="Cabbage.png" src="/images/thumb/c/cc/Cabbage.png/75px-Cabbage.png" decoding="async" width="75" height="75" srcset="/images/thumb/c/cc/Cabbage.png/113px-Cabbage.png 1.5x, /images/c/cc/Cabbage.png 2x" /></a>
+</th></tr>
+<tr>
+<th colspan="2">Cabbage
+</th></tr>
+<tr>
+<td><b>Type</b></td>
+<td>plant
+</td></tr>
+<tr>
+<td><b>Drops</b></td>
+<td><i>itself</i><br /> and Seeds
+</td></tr>
+<tr>
+<td><b>Stackable</b></td>
+<td>Yes (99)
+</td></tr>
+<tr>
+<td><b>Itemstring</b></td>
+<td>lottfarming:cabbage
+</td></tr></tbody></table>
+<p>Oh delicious Cabbage! This block type plant grows in three stages, where the final stage carries both Cabbage and seeds for new Cabbages.
+It's an ingredient for delicious food and you can even build houses out of them! Luckily this game does not support odor.
+<b>Cabbage</b> belongs to the <i>group:salad</i>, together with <b>Corn</b> and <b>Tomato</b>; which can craft a nice healthy salad.
+</p>
+<h3><span class="mw-headline" id="As_a_crafting_ingredient">As a crafting ingredient</span></h3>
+<table class="wikitable sortable collapsible">
+
+<tbody><tr>
+<th scope="row" width="50px">Name
+</th>
+<th scope="col" width="140px">Ingredients
+</th>
+<th class="unsortable" scope="col">Input &#8594; Output
+</th>
+<th>Heals
+</th></tr>
+
+<tr>
+<th scope="row">Salad
+</th>
+<td align="center"><b>group:salad</b><br /> and a <a href="/Games/Lord_of_the_Test/Wooden_Planks#Bowl" title="Games/Lord of the Test/Wooden Planks">Bowl</a>
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Cabbage" title="Cabbage"><img alt="Cabbage.png" src="/images/thumb/c/cc/Cabbage.png/32px-Cabbage.png" decoding="async" width="32" height="32" srcset="/images/thumb/c/cc/Cabbage.png/48px-Cabbage.png 1.5x, /images/thumb/c/cc/Cabbage.png/64px-Cabbage.png 2x" /></a></div><div class="image"><a href="/Tomato" title="Tomato"><img alt="Tomato.png" src="/images/thumb/9/9d/Tomato.png/32px-Tomato.png" decoding="async" width="32" height="32" srcset="/images/thumb/9/9d/Tomato.png/48px-Tomato.png 1.5x, /images/thumb/9/9d/Tomato.png/64px-Tomato.png 2x" /></a></div><div class="image"><a href="/Corn" title="Corn"><img alt="Corn.png" src="/images/thumb/f/f8/Corn.png/32px-Corn.png" decoding="async" width="32" height="32" srcset="/images/thumb/f/f8/Corn.png/48px-Corn.png 1.5x, /images/thumb/f/f8/Corn.png/64px-Corn.png 2x" /></a></div><div class="image"><a href="/Cabbage" title="Cabbage"><img alt="Cabbage.png" src="/images/thumb/c/cc/Cabbage.png/32px-Cabbage.png" decoding="async" width="32" height="32" srcset="/images/thumb/c/cc/Cabbage.png/48px-Cabbage.png 1.5x, /images/thumb/c/cc/Cabbage.png/64px-Cabbage.png 2x" /></a></div><div class="image"><a href="/Tomato" title="Tomato"><img alt="Tomato.png" src="/images/thumb/9/9d/Tomato.png/32px-Tomato.png" decoding="async" width="32" height="32" srcset="/images/thumb/9/9d/Tomato.png/48px-Tomato.png 1.5x, /images/thumb/9/9d/Tomato.png/64px-Tomato.png 2x" /></a></div><div class="image"><a href="/Corn" title="Corn"><img alt="Corn.png" src="/images/thumb/f/f8/Corn.png/32px-Corn.png" decoding="async" width="32" height="32" srcset="/images/thumb/f/f8/Corn.png/48px-Corn.png 1.5x, /images/thumb/f/f8/Corn.png/64px-Corn.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Tomato" title="Tomato"><img alt="Tomato.png" src="/images/thumb/9/9d/Tomato.png/32px-Tomato.png" decoding="async" width="32" height="32" srcset="/images/thumb/9/9d/Tomato.png/48px-Tomato.png 1.5x, /images/thumb/9/9d/Tomato.png/64px-Tomato.png 2x" /></a></div><div class="image"><a href="/Corn" title="Corn"><img alt="Corn.png" src="/images/thumb/f/f8/Corn.png/32px-Corn.png" decoding="async" width="32" height="32" srcset="/images/thumb/f/f8/Corn.png/48px-Corn.png 1.5x, /images/thumb/f/f8/Corn.png/64px-Corn.png 2x" /></a></div><div class="image"><a href="/Cabbage" title="Cabbage"><img alt="Cabbage.png" src="/images/thumb/c/cc/Cabbage.png/32px-Cabbage.png" decoding="async" width="32" height="32" srcset="/images/thumb/c/cc/Cabbage.png/48px-Cabbage.png 1.5x, /images/thumb/c/cc/Cabbage.png/64px-Cabbage.png 2x" /></a></div><div class="image"><a href="/Tomato" title="Tomato"><img alt="Tomato.png" src="/images/thumb/9/9d/Tomato.png/32px-Tomato.png" decoding="async" width="32" height="32" srcset="/images/thumb/9/9d/Tomato.png/48px-Tomato.png 1.5x, /images/thumb/9/9d/Tomato.png/64px-Tomato.png 2x" /></a></div><div class="image"><a href="/Cabbage" title="Cabbage"><img alt="Cabbage.png" src="/images/thumb/c/cc/Cabbage.png/32px-Cabbage.png" decoding="async" width="32" height="32" srcset="/images/thumb/c/cc/Cabbage.png/48px-Cabbage.png 1.5x, /images/thumb/c/cc/Cabbage.png/64px-Cabbage.png 2x" /></a></div><div class="image"><a href="/Corn" title="Corn"><img alt="Corn.png" src="/images/thumb/f/f8/Corn.png/32px-Corn.png" decoding="async" width="32" height="32" srcset="/images/thumb/f/f8/Corn.png/48px-Corn.png 1.5x, /images/thumb/f/f8/Corn.png/64px-Corn.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Corn" title="Corn"><img alt="Corn.png" src="/images/thumb/f/f8/Corn.png/32px-Corn.png" decoding="async" width="32" height="32" srcset="/images/thumb/f/f8/Corn.png/48px-Corn.png 1.5x, /images/thumb/f/f8/Corn.png/64px-Corn.png 2x" /></a></div><div class="image"><a href="/Tomato" title="Tomato"><img alt="Tomato.png" src="/images/thumb/9/9d/Tomato.png/32px-Tomato.png" decoding="async" width="32" height="32" srcset="/images/thumb/9/9d/Tomato.png/48px-Tomato.png 1.5x, /images/thumb/9/9d/Tomato.png/64px-Tomato.png 2x" /></a></div><div class="image"><a href="/Cabbage" title="Cabbage"><img alt="Cabbage.png" src="/images/thumb/c/cc/Cabbage.png/32px-Cabbage.png" decoding="async" width="32" height="32" srcset="/images/thumb/c/cc/Cabbage.png/48px-Cabbage.png 1.5x, /images/thumb/c/cc/Cabbage.png/64px-Cabbage.png 2x" /></a></div><div class="image"><a href="/Corn" title="Corn"><img alt="Corn.png" src="/images/thumb/f/f8/Corn.png/32px-Corn.png" decoding="async" width="32" height="32" srcset="/images/thumb/f/f8/Corn.png/48px-Corn.png 1.5x, /images/thumb/f/f8/Corn.png/64px-Corn.png 2x" /></a></div><div class="image"><a href="/Tomato" title="Tomato"><img alt="Tomato.png" src="/images/thumb/9/9d/Tomato.png/32px-Tomato.png" decoding="async" width="32" height="32" srcset="/images/thumb/9/9d/Tomato.png/48px-Tomato.png 1.5x, /images/thumb/9/9d/Tomato.png/64px-Tomato.png 2x" /></a></div><div class="image"><a href="/Cabbage" title="Cabbage"><img alt="Cabbage.png" src="/images/thumb/c/cc/Cabbage.png/32px-Cabbage.png" decoding="async" width="32" height="32" srcset="/images/thumb/c/cc/Cabbage.png/48px-Cabbage.png 1.5x, /images/thumb/c/cc/Cabbage.png/64px-Cabbage.png 2x" /></a></div></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Bowl" title="Bowl"><img alt="Bowl.png" src="/images/thumb/9/9c/Bowl.png/32px-Bowl.png" decoding="async" width="32" height="32" srcset="/images/thumb/9/9c/Bowl.png/48px-Bowl.png 1.5x, /images/thumb/9/9c/Bowl.png/64px-Bowl.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/Salad" title="Salad"><img alt="Salad.png" src="/images/thumb/7/7e/Salad.png/32px-Salad.png" decoding="async" width="32" height="32" srcset="/images/thumb/7/7e/Salad.png/48px-Salad.png 1.5x, /images/thumb/7/7e/Salad.png/64px-Salad.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black"></span></div></div>
+</td></tr></tbody></table>
+</td>
+<td><a href="/File:Heart.png" class="image"><img alt="Heart.png" src="/images/thumb/d/d9/Heart.png/16px-Heart.png" decoding="async" width="16" height="16" srcset="/images/thumb/d/d9/Heart.png/24px-Heart.png 1.5x, /images/thumb/d/d9/Heart.png/32px-Heart.png 2x" /></a><a href="/File:Heart.png" class="image"><img alt="Heart.png" src="/images/thumb/d/d9/Heart.png/16px-Heart.png" decoding="async" width="16" height="16" srcset="/images/thumb/d/d9/Heart.png/24px-Heart.png 1.5x, /images/thumb/d/d9/Heart.png/32px-Heart.png 2x" /></a><a href="/File:Heart.png" class="image"><img alt="Heart.png" src="/images/thumb/d/d9/Heart.png/16px-Heart.png" decoding="async" width="16" height="16" srcset="/images/thumb/d/d9/Heart.png/24px-Heart.png 1.5x, /images/thumb/d/d9/Heart.png/32px-Heart.png 2x" /></a><a href="/File:Heart.png" class="image"><img alt="Heart.png" src="/images/thumb/d/d9/Heart.png/16px-Heart.png" decoding="async" width="16" height="16" srcset="/images/thumb/d/d9/Heart.png/24px-Heart.png 1.5x, /images/thumb/d/d9/Heart.png/32px-Heart.png 2x" /></a><a href="/File:Heart.png" class="image"><img alt="Heart.png" src="/images/thumb/d/d9/Heart.png/16px-Heart.png" decoding="async" width="16" height="16" srcset="/images/thumb/d/d9/Heart.png/24px-Heart.png 1.5x, /images/thumb/d/d9/Heart.png/32px-Heart.png 2x" /></a>
+</td></tr>
+</tbody></table>
+<div style="clear:both"></div>
+<h2><span class="mw-headline" id="Corn">Corn</span></h2>
+<table class="wikitable" style="float: right; margin: 0 0 0.5em 1.5em" width="220px">
+<tbody><tr>
+<th align="center" colspan="2"><a href="/File:Corn_Plant.png" class="image"><img alt="Corn Plant.png" src="/images/thumb/0/0d/Corn_Plant.png/75px-Corn_Plant.png" decoding="async" width="75" height="75" srcset="/images/thumb/0/0d/Corn_Plant.png/113px-Corn_Plant.png 1.5x, /images/0/0d/Corn_Plant.png 2x" /></a>
+</th></tr>
+<tr>
+<th colspan="2">Corn Plant
+</th></tr>
+<tr>
+<td><b>Type</b></td>
+<td>plant
+</td></tr>
+<tr>
+<td><b>Drops</b></td>
+<td><b>Corn</b><br /> and Seeds
+</td></tr>
+<tr>
+<td><b>Stackable</b></td>
+<td>Yes (99)
+</td></tr>
+<tr>
+<td><b>Itemstring</b></td>
+<td>lottfarming:corn_1
+</td></tr></tbody></table>
+<p>The Corn plant grows... Corn. Corn grows two or three blocks high, in 7 or 10 stages. Corn is very nutritious, (giving <a href="/File:Heart.png" class="image"><img alt="Heart.png" src="/images/thumb/d/d9/Heart.png/16px-Heart.png" decoding="async" width="16" height="16" srcset="/images/thumb/d/d9/Heart.png/24px-Heart.png 1.5x, /images/thumb/d/d9/Heart.png/32px-Heart.png 2x" /></a><a href="/File:Heart.png" class="image"><img alt="Heart.png" src="/images/thumb/d/d9/Heart.png/16px-Heart.png" decoding="async" width="16" height="16" srcset="/images/thumb/d/d9/Heart.png/24px-Heart.png 1.5x, /images/thumb/d/d9/Heart.png/32px-Heart.png 2x" /></a>) when eaten, therefore being among the best food available in the game. <i>The itemstring noted gives you the <b>plant</b> in stage 1. The itemstring for Corn is lottfarming:corn</i>
+</p>
+<div style="clear:both"></div>
+<h2><span class="mw-headline" id="Elanor">Elanor</span></h2>
+<table class="wikitable" style="float: right; margin: 0 0 0.5em 1.5em" width="220px">
+<tbody><tr>
+<th align="center" colspan="2"><a href="/File:Elanor.png" class="image"><img alt="Elanor.png" src="/images/thumb/a/a9/Elanor.png/75px-Elanor.png" decoding="async" width="75" height="75" srcset="/images/thumb/a/a9/Elanor.png/113px-Elanor.png 1.5x, /images/a/a9/Elanor.png 2x" /></a>
+</th></tr>
+<tr>
+<th colspan="2">Elanor
+</th></tr>
+<tr>
+<td><b>Type</b></td>
+<td>plant
+</td></tr>
+<tr>
+<td><b>Drops</b></td>
+<td><i>itself</i><br /> or Honey
+</td></tr>
+<tr>
+<td><b>Stackable</b></td>
+<td>Yes (99)
+</td></tr>
+<tr>
+<td><b>Itemstring</b></td>
+<td>lottplants:elanor
+</td></tr></tbody></table>
+<p>Elanor is a small star shaped yellow flower that sometimes drops <a href="/index.php?title=Games/Lord_of_the_Test/Honey&amp;action=edit&amp;redlink=1" class="new" title="Games/Lord of the Test/Honey (page does not exist)">Honey</a>. It was one of the flowers brought by the Elves from Tol Eressëa to Númenor.
+Please note that when an elanor drops <i>itself</i> it drops a fake variant, not capable of dropping anything. Terefore this plant can not be used for <a href="/Farming" title="Farming">farming</a>.
+The fake variant can not be stacked together with the normal variant, what might result in having two stacks of elanor in your inventory.
+</p>
+<h3><span class="mw-headline" id="As_a_crafting_ingredient_2">As a crafting ingredient</span></h3>
+<table class="wikitable sortable collapsible">
+
+<tbody><tr>
+<th scope="row" width="50px">Name
+</th>
+<th scope="col" width="140px">Ingredients
+</th>
+<th class="unsortable" scope="col">Input &#8594; Output
+</th></tr>
+
+<tr>
+<th scope="row">Yellow <a href="/Dye" title="Dye">Dye</a>
+</th>
+<td align="center"><b>Elanor</b>
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Elanor" title="Elanor"><img alt="Elanor.png" src="/images/thumb/a/a9/Elanor.png/32px-Elanor.png" decoding="async" width="32" height="32" srcset="/images/thumb/a/a9/Elanor.png/48px-Elanor.png 1.5x, /images/thumb/a/a9/Elanor.png/64px-Elanor.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/Yellow_dye" title="Yellow dye"><img alt="Yellow dye.png" src="/images/thumb/c/c0/Yellow_dye.png/32px-Yellow_dye.png" decoding="async" width="32" height="32" srcset="/images/thumb/c/c0/Yellow_dye.png/48px-Yellow_dye.png 1.5x, /images/thumb/c/c0/Yellow_dye.png/64px-Yellow_dye.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black">4</span></div></div>
+</td></tr></tbody></table>
+</td></tr>
+</tbody></table>
+<div style="clear:both"></div>
+<h2><span class="mw-headline" id="Lissuin">Lissuin</span></h2>
+<table class="wikitable" style="float: right; margin: 0 0 0.5em 1.5em" width="220px">
+<tbody><tr>
+<th align="center" colspan="2"><a href="/File:Lissuin.png" class="image"><img alt="Lissuin.png" src="/images/thumb/f/f1/Lissuin.png/75px-Lissuin.png" decoding="async" width="75" height="75" srcset="/images/thumb/f/f1/Lissuin.png/113px-Lissuin.png 1.5x, /images/f/f1/Lissuin.png 2x" /></a>
+</th></tr>
+<tr>
+<th colspan="2">Lissuin
+</th></tr>
+<tr>
+<td><b>Type</b></td>
+<td>plant
+</td></tr>
+<tr>
+<td><b>Drops</b></td>
+<td><i>itself</i><br /> or Honey
+</td></tr>
+<tr>
+<td><b>Stackable</b></td>
+<td>Yes (99)
+</td></tr>
+<tr>
+<td><b>Itemstring</b></td>
+<td>lottplants:lissuin
+</td></tr></tbody></table>
+<p>Lissuin is a fragrant flower that sometimes drops <a href="/index.php?title=Games/Lord_of_the_Test/Honey&amp;action=edit&amp;redlink=1" class="new" title="Games/Lord of the Test/Honey (page does not exist)">Honey</a>. It was brought along with elanor by the Elves from Tol Eressëa to Númenor. Its fragrance is said to bring your heart at ease.
+Please note that when an lissuin drops <i>itself</i> it drops a fake variant, not capable of dropping anything. Terefore this plant can not be used for <a href="/Farming" title="Farming">farming</a>.
+The fake variant can not be stacked together with the normal variant, what might result in having two stacks of lissuin in your inventory.
+</p>
+<h3><span class="mw-headline" id="As_a_crafting_ingredient_3">As a crafting ingredient</span></h3>
+<table class="wikitable sortable collapsible">
+
+<tbody><tr>
+<th scope="row" width="50px">Name
+</th>
+<th scope="col" width="140px">Ingredients
+</th>
+<th class="unsortable" scope="col">Input &#8594; Output
+</th></tr>
+
+<tr>
+<th scope="row">Pink <a href="/Dye" title="Dye">Dye</a>
+</th>
+<td align="center"><b>Lissuin</b>
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Lissuin" title="Lissuin"><img alt="Lissuin.png" src="/images/thumb/f/f1/Lissuin.png/32px-Lissuin.png" decoding="async" width="32" height="32" srcset="/images/thumb/f/f1/Lissuin.png/48px-Lissuin.png 1.5x, /images/thumb/f/f1/Lissuin.png/64px-Lissuin.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/Pink_dye" title="Pink dye"><img alt="Pink dye.png" src="/images/thumb/8/85/Pink_dye.png/32px-Pink_dye.png" decoding="async" width="32" height="32" srcset="/images/thumb/8/85/Pink_dye.png/48px-Pink_dye.png 1.5x, /images/thumb/8/85/Pink_dye.png/64px-Pink_dye.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black">4</span></div></div>
+</td></tr></tbody></table>
+</td></tr>
+</tbody></table>
+<div style="clear:both"></div>
+<h2><span class="mw-headline" id="Melons">Melons</span></h2>
+<table class="wikitable" style="float: right; margin: 0 0 0.5em 1.5em" width="220px">
+<tbody><tr>
+<th align="center" colspan="2"><a href="/File:Melon.png" class="image"><img alt="Melon.png" src="/images/thumb/1/19/Melon.png/75px-Melon.png" decoding="async" width="75" height="75" srcset="/images/thumb/1/19/Melon.png/113px-Melon.png 1.5x, /images/1/19/Melon.png 2x" /></a>
+</th></tr>
+<tr>
+<th colspan="2">Melon
+</th></tr>
+<tr>
+<td><b>Type</b></td>
+<td>plant
+</td></tr>
+<tr>
+<td><b>Drops</b></td>
+<td><i>itself</i><br /> and Seeds
+</td></tr>
+<tr>
+<td><b>Stackable</b></td>
+<td>Yes (99)
+</td></tr>
+<tr>
+<td><b>Itemstring</b></td>
+<td>lottfarming:melon_1
+</td></tr></tbody></table>
+<p>"What beautiful Melons have you got there" is an often used term farmers use pointing on female colleagues and their wares. For this block shaped fruit is indeed beautiful. And healthy too. A melon part heals you <a href="/File:Heart.png" class="image"><img alt="Heart.png" src="/images/thumb/d/d9/Heart.png/16px-Heart.png" decoding="async" width="16" height="16" srcset="/images/thumb/d/d9/Heart.png/24px-Heart.png 1.5x, /images/thumb/d/d9/Heart.png/32px-Heart.png 2x" /></a> when eaten. The Melon grows in 3 stages. A full grown melon drops 8 melon parts, good for a whopping <a href="/File:Heart.png" class="image"><img alt="Heart.png" src="/images/thumb/d/d9/Heart.png/16px-Heart.png" decoding="async" width="16" height="16" srcset="/images/thumb/d/d9/Heart.png/24px-Heart.png 1.5x, /images/thumb/d/d9/Heart.png/32px-Heart.png 2x" /></a><a href="/File:Heart.png" class="image"><img alt="Heart.png" src="/images/thumb/d/d9/Heart.png/16px-Heart.png" decoding="async" width="16" height="16" srcset="/images/thumb/d/d9/Heart.png/24px-Heart.png 1.5x, /images/thumb/d/d9/Heart.png/32px-Heart.png 2x" /></a><a href="/File:Heart.png" class="image"><img alt="Heart.png" src="/images/thumb/d/d9/Heart.png/16px-Heart.png" decoding="async" width="16" height="16" srcset="/images/thumb/d/d9/Heart.png/24px-Heart.png 1.5x, /images/thumb/d/d9/Heart.png/32px-Heart.png 2x" /></a><a href="/File:Heart.png" class="image"><img alt="Heart.png" src="/images/thumb/d/d9/Heart.png/16px-Heart.png" decoding="async" width="16" height="16" srcset="/images/thumb/d/d9/Heart.png/24px-Heart.png 1.5x, /images/thumb/d/d9/Heart.png/32px-Heart.png 2x" /></a><a href="/File:Heart.png" class="image"><img alt="Heart.png" src="/images/thumb/d/d9/Heart.png/16px-Heart.png" decoding="async" width="16" height="16" srcset="/images/thumb/d/d9/Heart.png/24px-Heart.png 1.5x, /images/thumb/d/d9/Heart.png/32px-Heart.png 2x" /></a><a href="/File:Heart.png" class="image"><img alt="Heart.png" src="/images/thumb/d/d9/Heart.png/16px-Heart.png" decoding="async" width="16" height="16" srcset="/images/thumb/d/d9/Heart.png/24px-Heart.png 1.5x, /images/thumb/d/d9/Heart.png/32px-Heart.png 2x" /></a><a href="/File:Heart.png" class="image"><img alt="Heart.png" src="/images/thumb/d/d9/Heart.png/16px-Heart.png" decoding="async" width="16" height="16" srcset="/images/thumb/d/d9/Heart.png/24px-Heart.png 1.5x, /images/thumb/d/d9/Heart.png/32px-Heart.png 2x" /></a><a href="/File:Heart.png" class="image"><img alt="Heart.png" src="/images/thumb/d/d9/Heart.png/16px-Heart.png" decoding="async" width="16" height="16" srcset="/images/thumb/d/d9/Heart.png/24px-Heart.png 1.5x, /images/thumb/d/d9/Heart.png/32px-Heart.png 2x" /></a>. Ideal for farming.
+<i>The itemstring noted gives you the <b>plant</b> in stage 1. The itemstring for a Melon part is lottfarming:melon.</i>
+</p>
+<div style="clear:both"></div>
+<h2><span class="mw-headline" id="Mushrooms">Mushrooms</span></h2>
+<table class="wikitable" style="float: right; margin: 0 0 0.5em 1.5em" width="220px">
+<tbody><tr>
+<th align="center" colspan="2"><a href="/File:Mushroom_Wild.png" class="image"><img alt="Mushroom Wild.png" src="/images/thumb/7/7f/Mushroom_Wild.png/75px-Mushroom_Wild.png" decoding="async" width="75" height="75" srcset="/images/thumb/7/7f/Mushroom_Wild.png/113px-Mushroom_Wild.png 1.5x, /images/7/7f/Mushroom_Wild.png 2x" /></a>
+</th></tr>
+<tr>
+<th colspan="2">Mushrooms Wild
+</th></tr>
+<tr>
+<td><b>Type</b></td>
+<td>plant
+</td></tr>
+<tr>
+<td><b>Drops</b></td>
+<td><b>Brown Mushroom</b><br /> and Spore
+</td></tr>
+<tr>
+<td><b>Stackable</b></td>
+<td>Yes (99)
+</td></tr>
+<tr>
+<td><b>Itemstring</b></td>
+<td>lottplants:mushroom_wild
+</td></tr></tbody></table>
+<p>The mother of all mushrooms is the wild one. It looks a lot like the brown one, except it is wild! There are five kinds of mushrooms: brown, blue, green, red and the wild one.
+The wild mushroom drops brown mushroom on harvest, together with brown mushroom spores. It also has a chance to drop additional spores for blue, green or red mushrooms. 
+</p>
+<table class="wikitable sortable collapsible">
+
+<tbody><tr>
+<th scope="row" width="50px">Name
+</th>
+<th scope="col" width="140px">Ingredients
+</th>
+<th class="unsortable" scope="col">Input &#8594; Output
+</th>
+<th class="unsortable" scope="col">Description
+</th></tr>
+<tr>
+<th scope="row"><a href="/Dye" title="Dye">Dye</a>
+</th>
+<td align="center"><b>Mushroom</b>
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Brown_Mushroom_(Lord_of_the_Test)" title="Brown Mushroom (Lord of the Test)"><img alt="Brown Mushroom (Lord of the Test).png" src="/images/thumb/f/f3/Brown_Mushroom_%28Lord_of_the_Test%29.png/32px-Brown_Mushroom_%28Lord_of_the_Test%29.png" decoding="async" width="32" height="32" srcset="/images/thumb/f/f3/Brown_Mushroom_%28Lord_of_the_Test%29.png/48px-Brown_Mushroom_%28Lord_of_the_Test%29.png 1.5x, /images/thumb/f/f3/Brown_Mushroom_%28Lord_of_the_Test%29.png/64px-Brown_Mushroom_%28Lord_of_the_Test%29.png 2x" /></a></div><div class="image"><a href="/Blue_Mushroom" title="Blue Mushroom"><img alt="Blue Mushroom.png" src="/images/thumb/5/56/Blue_Mushroom.png/32px-Blue_Mushroom.png" decoding="async" width="32" height="32" srcset="/images/thumb/5/56/Blue_Mushroom.png/48px-Blue_Mushroom.png 1.5x, /images/thumb/5/56/Blue_Mushroom.png/64px-Blue_Mushroom.png 2x" /></a></div><div class="image"><a href="/Green_Mushroom" title="Green Mushroom"><img alt="Green Mushroom.png" src="/images/thumb/d/d0/Green_Mushroom.png/32px-Green_Mushroom.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/d0/Green_Mushroom.png/48px-Green_Mushroom.png 1.5x, /images/thumb/d/d0/Green_Mushroom.png/64px-Green_Mushroom.png 2x" /></a></div><div class="image"><a href="/Red_Mushroom_(Lord_of_the_Test)" title="Red Mushroom (Lord of the Test)"><img alt="Red Mushroom (Lord of the Test).png" src="/images/thumb/5/5a/Red_Mushroom_%28Lord_of_the_Test%29.png/32px-Red_Mushroom_%28Lord_of_the_Test%29.png" decoding="async" width="32" height="32" srcset="/images/thumb/5/5a/Red_Mushroom_%28Lord_of_the_Test%29.png/48px-Red_Mushroom_%28Lord_of_the_Test%29.png 1.5x, /images/thumb/5/5a/Red_Mushroom_%28Lord_of_the_Test%29.png/64px-Red_Mushroom_%28Lord_of_the_Test%29.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/Brown_dye" title="Brown dye"><img alt="Brown dye.png" src="/images/thumb/f/f2/Brown_dye.png/32px-Brown_dye.png" decoding="async" width="32" height="32" srcset="/images/thumb/f/f2/Brown_dye.png/48px-Brown_dye.png 1.5x, /images/thumb/f/f2/Brown_dye.png/64px-Brown_dye.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black">4</span></div><div class="image"><a href="/Blue_dye" title="Blue dye"><img alt="Blue dye.png" src="/images/thumb/6/66/Blue_dye.png/32px-Blue_dye.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/66/Blue_dye.png/48px-Blue_dye.png 1.5x, /images/thumb/6/66/Blue_dye.png/64px-Blue_dye.png 2x" /></a></div><div class="image"><a href="/Green_dye" title="Green dye"><img alt="Green dye.png" src="/images/thumb/4/48/Green_dye.png/32px-Green_dye.png" decoding="async" width="32" height="32" srcset="/images/thumb/4/48/Green_dye.png/48px-Green_dye.png 1.5x, /images/thumb/4/48/Green_dye.png/64px-Green_dye.png 2x" /></a></div><div class="image"><a href="/Red_dye" title="Red dye"><img alt="Red dye.png" src="/images/thumb/3/3c/Red_dye.png/32px-Red_dye.png" decoding="async" width="32" height="32" srcset="/images/thumb/3/3c/Red_dye.png/48px-Red_dye.png 1.5x, /images/thumb/3/3c/Red_dye.png/64px-Red_dye.png 2x" /></a></div></div>
+</td></tr></tbody></table>
+</td>
+<td>
+</td></tr>
+<tr>
+<th scope="row">Mushroom Soup
+</th>
+<td align="center"><b>group:mushroom</b><br /> and a <a href="/Games/Lord_of_the_Test/Wooden_Planks#Bowl" title="Games/Lord of the Test/Wooden Planks">Bowl</a>
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Brown_Mushroom_(Lord_of_the_Test)" title="Brown Mushroom (Lord of the Test)"><img alt="Brown Mushroom (Lord of the Test).png" src="/images/thumb/f/f3/Brown_Mushroom_%28Lord_of_the_Test%29.png/32px-Brown_Mushroom_%28Lord_of_the_Test%29.png" decoding="async" width="32" height="32" srcset="/images/thumb/f/f3/Brown_Mushroom_%28Lord_of_the_Test%29.png/48px-Brown_Mushroom_%28Lord_of_the_Test%29.png 1.5x, /images/thumb/f/f3/Brown_Mushroom_%28Lord_of_the_Test%29.png/64px-Brown_Mushroom_%28Lord_of_the_Test%29.png 2x" /></a></div><div class="image"><a href="/Blue_Mushroom" title="Blue Mushroom"><img alt="Blue Mushroom.png" src="/images/thumb/5/56/Blue_Mushroom.png/32px-Blue_Mushroom.png" decoding="async" width="32" height="32" srcset="/images/thumb/5/56/Blue_Mushroom.png/48px-Blue_Mushroom.png 1.5x, /images/thumb/5/56/Blue_Mushroom.png/64px-Blue_Mushroom.png 2x" /></a></div><div class="image"><a href="/Green_Mushroom" title="Green Mushroom"><img alt="Green Mushroom.png" src="/images/thumb/d/d0/Green_Mushroom.png/32px-Green_Mushroom.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/d0/Green_Mushroom.png/48px-Green_Mushroom.png 1.5x, /images/thumb/d/d0/Green_Mushroom.png/64px-Green_Mushroom.png 2x" /></a></div><div class="image"><a href="/Red_Mushroom_(Lord_of_the_Test)" title="Red Mushroom (Lord of the Test)"><img alt="Red Mushroom (Lord of the Test).png" src="/images/thumb/5/5a/Red_Mushroom_%28Lord_of_the_Test%29.png/32px-Red_Mushroom_%28Lord_of_the_Test%29.png" decoding="async" width="32" height="32" srcset="/images/thumb/5/5a/Red_Mushroom_%28Lord_of_the_Test%29.png/48px-Red_Mushroom_%28Lord_of_the_Test%29.png 1.5x, /images/thumb/5/5a/Red_Mushroom_%28Lord_of_the_Test%29.png/64px-Red_Mushroom_%28Lord_of_the_Test%29.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Red_Mushroom_(Lord_of_the_Test)" title="Red Mushroom (Lord of the Test)"><img alt="Red Mushroom (Lord of the Test).png" src="/images/thumb/5/5a/Red_Mushroom_%28Lord_of_the_Test%29.png/32px-Red_Mushroom_%28Lord_of_the_Test%29.png" decoding="async" width="32" height="32" srcset="/images/thumb/5/5a/Red_Mushroom_%28Lord_of_the_Test%29.png/48px-Red_Mushroom_%28Lord_of_the_Test%29.png 1.5x, /images/thumb/5/5a/Red_Mushroom_%28Lord_of_the_Test%29.png/64px-Red_Mushroom_%28Lord_of_the_Test%29.png 2x" /></a></div><div class="image"><a href="/Brown_Mushroom_(Lord_of_the_Test)" title="Brown Mushroom (Lord of the Test)"><img alt="Brown Mushroom (Lord of the Test).png" src="/images/thumb/f/f3/Brown_Mushroom_%28Lord_of_the_Test%29.png/32px-Brown_Mushroom_%28Lord_of_the_Test%29.png" decoding="async" width="32" height="32" srcset="/images/thumb/f/f3/Brown_Mushroom_%28Lord_of_the_Test%29.png/48px-Brown_Mushroom_%28Lord_of_the_Test%29.png 1.5x, /images/thumb/f/f3/Brown_Mushroom_%28Lord_of_the_Test%29.png/64px-Brown_Mushroom_%28Lord_of_the_Test%29.png 2x" /></a></div><div class="image"><a href="/Blue_Mushroom" title="Blue Mushroom"><img alt="Blue Mushroom.png" src="/images/thumb/5/56/Blue_Mushroom.png/32px-Blue_Mushroom.png" decoding="async" width="32" height="32" srcset="/images/thumb/5/56/Blue_Mushroom.png/48px-Blue_Mushroom.png 1.5x, /images/thumb/5/56/Blue_Mushroom.png/64px-Blue_Mushroom.png 2x" /></a></div><div class="image"><a href="/Green_Mushroom" title="Green Mushroom"><img alt="Green Mushroom.png" src="/images/thumb/d/d0/Green_Mushroom.png/32px-Green_Mushroom.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/d0/Green_Mushroom.png/48px-Green_Mushroom.png 1.5x, /images/thumb/d/d0/Green_Mushroom.png/64px-Green_Mushroom.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Red_Mushroom_(Lord_of_the_Test)" title="Red Mushroom (Lord of the Test)"><img alt="Red Mushroom (Lord of the Test).png" src="/images/thumb/5/5a/Red_Mushroom_%28Lord_of_the_Test%29.png/32px-Red_Mushroom_%28Lord_of_the_Test%29.png" decoding="async" width="32" height="32" srcset="/images/thumb/5/5a/Red_Mushroom_%28Lord_of_the_Test%29.png/48px-Red_Mushroom_%28Lord_of_the_Test%29.png 1.5x, /images/thumb/5/5a/Red_Mushroom_%28Lord_of_the_Test%29.png/64px-Red_Mushroom_%28Lord_of_the_Test%29.png 2x" /></a></div><div class="image"><a href="/Blue_Mushroom" title="Blue Mushroom"><img alt="Blue Mushroom.png" src="/images/thumb/5/56/Blue_Mushroom.png/32px-Blue_Mushroom.png" decoding="async" width="32" height="32" srcset="/images/thumb/5/56/Blue_Mushroom.png/48px-Blue_Mushroom.png 1.5x, /images/thumb/5/56/Blue_Mushroom.png/64px-Blue_Mushroom.png 2x" /></a></div><div class="image"><a href="/Green_Mushroom" title="Green Mushroom"><img alt="Green Mushroom.png" src="/images/thumb/d/d0/Green_Mushroom.png/32px-Green_Mushroom.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/d0/Green_Mushroom.png/48px-Green_Mushroom.png 1.5x, /images/thumb/d/d0/Green_Mushroom.png/64px-Green_Mushroom.png 2x" /></a></div><div class="image"><a href="/Brown_Mushroom_(Lord_of_the_Test)" title="Brown Mushroom (Lord of the Test)"><img alt="Brown Mushroom (Lord of the Test).png" src="/images/thumb/f/f3/Brown_Mushroom_%28Lord_of_the_Test%29.png/32px-Brown_Mushroom_%28Lord_of_the_Test%29.png" decoding="async" width="32" height="32" srcset="/images/thumb/f/f3/Brown_Mushroom_%28Lord_of_the_Test%29.png/48px-Brown_Mushroom_%28Lord_of_the_Test%29.png 1.5x, /images/thumb/f/f3/Brown_Mushroom_%28Lord_of_the_Test%29.png/64px-Brown_Mushroom_%28Lord_of_the_Test%29.png 2x" /></a></div></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Bowl" title="Bowl"><img alt="Bowl.png" src="/images/thumb/9/9c/Bowl.png/32px-Bowl.png" decoding="async" width="32" height="32" srcset="/images/thumb/9/9c/Bowl.png/48px-Bowl.png 1.5x, /images/thumb/9/9c/Bowl.png/64px-Bowl.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/Mushroom_Soup" title="Mushroom Soup"><img alt="Mushroom Soup.png" src="/images/thumb/d/d7/Mushroom_Soup.png/32px-Mushroom_Soup.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/d7/Mushroom_Soup.png/48px-Mushroom_Soup.png 1.5x, /images/thumb/d/d7/Mushroom_Soup.png/64px-Mushroom_Soup.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black"></span></div></div>
+</td></tr></tbody></table>
+</td>
+<td>Heals for <a href="/File:Heart.png" class="image"><img alt="Heart.png" src="/images/thumb/d/d9/Heart.png/16px-Heart.png" decoding="async" width="16" height="16" srcset="/images/thumb/d/d9/Heart.png/24px-Heart.png 1.5x, /images/thumb/d/d9/Heart.png/32px-Heart.png 2x" /></a><a href="/File:Heart.png" class="image"><img alt="Heart.png" src="/images/thumb/d/d9/Heart.png/16px-Heart.png" decoding="async" width="16" height="16" srcset="/images/thumb/d/d9/Heart.png/24px-Heart.png 1.5x, /images/thumb/d/d9/Heart.png/32px-Heart.png 2x" /></a><a href="/File:Heart.png" class="image"><img alt="Heart.png" src="/images/thumb/d/d9/Heart.png/16px-Heart.png" decoding="async" width="16" height="16" srcset="/images/thumb/d/d9/Heart.png/24px-Heart.png 1.5x, /images/thumb/d/d9/Heart.png/32px-Heart.png 2x" /></a>
+</td></tr>
+</tbody></table>
+<div style="clear:both"></div>
+<h2><span class="mw-headline" id="Niphredil">Niphredil</span></h2>
+<table class="wikitable" style="float: right; margin: 0 0 0.5em 1.5em" width="220px">
+<tbody><tr>
+<th align="center" colspan="2"><a href="/File:Niphredil.png" class="image"><img alt="Niphredil.png" src="/images/thumb/d/dd/Niphredil.png/75px-Niphredil.png" decoding="async" width="75" height="75" srcset="/images/thumb/d/dd/Niphredil.png/113px-Niphredil.png 1.5x, /images/d/dd/Niphredil.png 2x" /></a>
+</th></tr>
+<tr>
+<th colspan="2">Niphredil
+</th></tr>
+<tr>
+<td><b>Type</b></td>
+<td>plant
+</td></tr>
+<tr>
+<td><b>Drops</b></td>
+<td><i>itself</i><br /> or Honey
+</td></tr>
+<tr>
+<td><b>Stackable</b></td>
+<td>Yes (99)
+</td></tr>
+<tr>
+<td><b>Itemstring</b></td>
+<td>lottplants:niphredil
+</td></tr></tbody></table>
+<p>Niphredil, also called "snowdrop" is a small white flower that sometimes drops <a href="/index.php?title=Games/Lord_of_the_Test/Honey&amp;action=edit&amp;redlink=1" class="new" title="Games/Lord of the Test/Honey (page does not exist)">Honey</a>. It first bloomed in the forest of Neldoreth in Doriath to greet fair Lúthien when she was born. This flower is so sensible that -when picked- it immediately dies, resulting in brown dye. Please note that when an niphredil drops <i>itself</i> it drops a fake variant, not capable of dropping anything. Terefore this plant can not be used for <a href="/Farming" title="Farming">farming</a>. The fake variant can not be stacked together with the normal variant, what might result in having two stacks of niphredil in your inventory.
+</p>
+<h3><span class="mw-headline" id="As_a_crafting_ingredient_4">As a crafting ingredient</span></h3>
+<table class="wikitable sortable collapsible">
+
+<tbody><tr>
+<th scope="row" width="50px">Name
+</th>
+<th scope="col" width="140px">Ingredients
+</th>
+<th class="unsortable" scope="col">Input &#8594; Output
+</th></tr>
+<tr>
+<th scope="row">Brown <a href="/Dye" title="Dye">Dye</a>
+</th>
+<td align="center"><b>Niphredil</b>
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Niphredil" title="Niphredil"><img alt="Niphredil.png" src="/images/thumb/d/dd/Niphredil.png/32px-Niphredil.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/dd/Niphredil.png/48px-Niphredil.png 1.5x, /images/thumb/d/dd/Niphredil.png/64px-Niphredil.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/Brown_dye" title="Brown dye"><img alt="Brown dye.png" src="/images/thumb/f/f2/Brown_dye.png/32px-Brown_dye.png" decoding="async" width="32" height="32" srcset="/images/thumb/f/f2/Brown_dye.png/48px-Brown_dye.png 1.5x, /images/thumb/f/f2/Brown_dye.png/64px-Brown_dye.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black">4</span></div></div>
+</td></tr></tbody></table>
+</td></tr>
+</tbody></table>
+<div style="clear:both"></div>
+<h2><span class="mw-headline" id="Pipeweed">Pipeweed</span></h2>
+<table class="wikitable" style="float: right; margin: 0 0 0.5em 1.5em" width="220px">
+<tbody><tr>
+<th align="center" colspan="2"><a href="/File:Pipeweed.png" class="image"><img alt="Pipeweed.png" src="/images/thumb/f/f1/Pipeweed.png/75px-Pipeweed.png" decoding="async" width="75" height="75" srcset="/images/thumb/f/f1/Pipeweed.png/113px-Pipeweed.png 1.5x, /images/f/f1/Pipeweed.png 2x" /></a>
+</th></tr>
+<tr>
+<th colspan="2">Pipeweed
+</th></tr>
+<tr>
+<td><b>Type</b></td>
+<td>plant
+</td></tr>
+<tr>
+<td><b>Drops</b></td>
+<td><i>itself</i><br /> and Seeds
+</td></tr>
+<tr>
+<td><b>Stackable</b></td>
+<td>Yes (99)
+</td></tr>
+<tr>
+<td><b>Itemstring</b></td>
+<td>lottfarming:pipeweed_1
+</td></tr></tbody></table>
+<p>Pipeweed is used a lot by Hobbits and Wizards who love to smoke a good pipe. Pipeweed can be <a href="/Farming" title="Farming">farmed</a> very well. The plant grows in four stages. Only harvesting the final stage results in drops. Pipeweed has to be dried before smoking, resulting in <b>Cooked Pipeweed</b>. To smoke <b>Cooked Pipeweed</b> you need a pipe (see <a href="/Games/Lord_of_the_Test/Wooden_Planks" title="Games/Lord of the Test/Wooden Planks">Wooden Planks</a>).
+<i>The itemstring noted gives you the <b>plant</b> in stage 1. The itemstring for Pipeweed is lottfarming:pipeweed</i>
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th scope="row" width="140px">Input
+</th>
+<th scope="col"><a href="/Furnace" title="Furnace">Furnace</a>
+</th>
+<th scope="row" width="180px">Output
+</th>
+<th>Description
+</th></tr>
+<tr>
+<td><a href="/File:Pipeweed.png" class="image"><img alt="Pipeweed.png" src="/images/thumb/f/f1/Pipeweed.png/32px-Pipeweed.png" decoding="async" width="32" height="32" srcset="/images/thumb/f/f1/Pipeweed.png/48px-Pipeweed.png 1.5x, /images/thumb/f/f1/Pipeweed.png/64px-Pipeweed.png 2x" /></a> <b>Pipeweed</b>
+</td>
+<td><a href="/File:Arrow.png" class="image"><img alt="Arrow.png" src="/images/4/41/Arrow.png" decoding="async" width="32" height="26" /></a> <a href="/File:Furnace.png" class="image"><img alt="Furnace.png" src="/images/thumb/0/0f/Furnace.png/32px-Furnace.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/0f/Furnace.png/48px-Furnace.png 1.5x, /images/thumb/0/0f/Furnace.png/64px-Furnace.png 2x" /></a> <a href="/File:Arrow.png" class="image"><img alt="Arrow.png" src="/images/4/41/Arrow.png" decoding="async" width="32" height="26" /></a>
+</td>
+<td><a href="/File:Cooked_Pipeweed.png" class="image"><img alt="Cooked Pipeweed.png" src="/images/thumb/f/fd/Cooked_Pipeweed.png/32px-Cooked_Pipeweed.png" decoding="async" width="32" height="32" srcset="/images/thumb/f/fd/Cooked_Pipeweed.png/48px-Cooked_Pipeweed.png 1.5x, /images/thumb/f/fd/Cooked_Pipeweed.png/64px-Cooked_Pipeweed.png 2x" /></a> <b>Cooked Pipeweed</b>
+</td>
+<td><i>Cooked Pipeweed'</i> heals you for <a href="/File:Heart.png" class="image"><img alt="Heart.png" src="/images/thumb/d/d9/Heart.png/16px-Heart.png" decoding="async" width="16" height="16" srcset="/images/thumb/d/d9/Heart.png/24px-Heart.png 1.5x, /images/thumb/d/d9/Heart.png/32px-Heart.png 2x" /></a> when smoked (<i>please note: this is a game. In real life smoking isn't that healthy</i>).
+</td></tr></tbody></table>
+<div style="clear:both"></div>
+<h2><span class="mw-headline" id="Potatoes">Potatoes</span></h2>
+<table class="wikitable" style="float: right; margin: 0 0 0.5em 1.5em" width="220px">
+<tbody><tr>
+<th align="center" colspan="2"><a href="/File:Potato.png" class="image"><img alt="Potato.png" src="/images/thumb/c/c2/Potato.png/75px-Potato.png" decoding="async" width="75" height="75" srcset="/images/thumb/c/c2/Potato.png/113px-Potato.png 1.5x, /images/c/c2/Potato.png 2x" /></a>
+</th></tr>
+<tr>
+<th colspan="2">Potato
+</th></tr>
+<tr>
+<td><b>Type</b></td>
+<td>plant
+</td></tr>
+<tr>
+<td><b>Drops</b></td>
+<td><i>itself</i><br /> and Seeds
+</td></tr>
+<tr>
+<td><b>Stackable</b></td>
+<td>Yes (99)
+</td></tr>
+<tr>
+<td><b>Itemstring</b></td>
+<td>lottfarming:potato_1
+</td></tr></tbody></table>
+<p>This plant is mainly used for <a href="/Farming" title="Farming">farming</a>. Oh the food it brings! Potatoes grow in three stages. Only harvesting the final stage results in drops. Cooking potatoes results in <b>Cooked Potato</b>, healthy honest food. 
+<i>The itemstring noted gives you the <b>plant</b> in stage 1. The itemstring for Potato is lottfarming:potato</i>
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th scope="row" width="140px">Input
+</th>
+<th scope="col"><a href="/Furnace" title="Furnace">Furnace</a>
+</th>
+<th scope="row" width="180px">Output
+</th>
+<th>Description
+</th></tr>
+<tr>
+<td><a href="/File:Potato.png" class="image"><img alt="Potato.png" src="/images/thumb/c/c2/Potato.png/32px-Potato.png" decoding="async" width="32" height="32" srcset="/images/thumb/c/c2/Potato.png/48px-Potato.png 1.5x, /images/thumb/c/c2/Potato.png/64px-Potato.png 2x" /></a> <b>Potato</b>
+</td>
+<td><a href="/File:Arrow.png" class="image"><img alt="Arrow.png" src="/images/4/41/Arrow.png" decoding="async" width="32" height="26" /></a> <a href="/File:Furnace.png" class="image"><img alt="Furnace.png" src="/images/thumb/0/0f/Furnace.png/32px-Furnace.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/0f/Furnace.png/48px-Furnace.png 1.5x, /images/thumb/0/0f/Furnace.png/64px-Furnace.png 2x" /></a> <a href="/File:Arrow.png" class="image"><img alt="Arrow.png" src="/images/4/41/Arrow.png" decoding="async" width="32" height="26" /></a>
+</td>
+<td><a href="/File:Cooked_Potato.png" class="image"><img alt="Cooked Potato.png" src="/images/thumb/c/c2/Cooked_Potato.png/32px-Cooked_Potato.png" decoding="async" width="32" height="32" srcset="/images/thumb/c/c2/Cooked_Potato.png/48px-Cooked_Potato.png 1.5x, /images/thumb/c/c2/Cooked_Potato.png/64px-Cooked_Potato.png 2x" /></a> <b>Cooked Potato</b>
+</td>
+<td><i>Cooked Potato'</i> heals you for <a href="/File:Heart.png" class="image"><img alt="Heart.png" src="/images/thumb/d/d9/Heart.png/16px-Heart.png" decoding="async" width="16" height="16" srcset="/images/thumb/d/d9/Heart.png/24px-Heart.png 1.5x, /images/thumb/d/d9/Heart.png/32px-Heart.png 2x" /></a> when eaten.
+</td></tr></tbody></table>
+<div style="clear:both"></div>
+<h2><span class="mw-headline" id="Seregon">Seregon</span></h2>
+<table class="wikitable" style="float: right; margin: 0 0 0.5em 1.5em" width="220px">
+<tbody><tr>
+<th align="center" colspan="2"><a href="/File:Seregon.png" class="image"><img alt="Seregon.png" src="/images/thumb/4/4b/Seregon.png/75px-Seregon.png" decoding="async" width="75" height="75" srcset="/images/thumb/4/4b/Seregon.png/113px-Seregon.png 1.5x, /images/4/4b/Seregon.png 2x" /></a>
+</th></tr>
+<tr>
+<th colspan="2">Seregon
+</th></tr>
+<tr>
+<td><b>Type</b></td>
+<td>plant
+</td></tr>
+<tr>
+<td><b>Drops</b></td>
+<td><i>itself</i><br /> or Honey
+</td></tr>
+<tr>
+<td><b>Stackable</b></td>
+<td>Yes (99)
+</td></tr>
+<tr>
+<td><b>Itemstring</b></td>
+<td>lottplants:seregon
+</td></tr></tbody></table>
+<p>The seregon is a small red flower that sometimes drops <a href="/index.php?title=Games/Lord_of_the_Test/Honey&amp;action=edit&amp;redlink=1" class="new" title="Games/Lord of the Test/Honey (page does not exist)">Honey</a>. The dwarves also call it "blood on the hill-top".
+Please note that when a seregon drops <i>itself</i> it drops a fake variant, not capable of dropping anything. Terefore this plant can not be used for <a href="/Farming" title="Farming">farming</a>.
+The fake variant can not be stacked together with the normal variant, what might result in having two stacks of seregon in your inventory.
+</p>
+<table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> Language:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><b><a class="mw-selflink selflink">English</a></b>&#160;• <bdi lang="de"><a href="/Games/Lord_of_the_Test/Plants/de" title="Games/Lord of the Test/Plants/de">Deutsch</a></bdi></td>
+</tr></tbody></table>
+<!-- 
+NewPP limit report
+Cached time: 20230709052852
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.973 seconds
+Real time usage: 1.655 seconds
+Preprocessor visited node count: 1259/1000000
+Post‐expand include size: 49018/2097152 bytes
+Template argument size: 2487/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 14/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.520/7 seconds
+Lua virtual size: 6.44 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  991.285      1 -total
+ 51.05%  506.045      6 Template:Grid/Craft
+ 46.60%  461.988     60 Template:Grid
+ 30.51%  302.465      2 Template:Languages
+ 10.93%  108.388      9 Template:Heart
+  2.20%   21.788     11 Template:-
+  2.07%   20.516     12 Games/Lord_of_the_Test/Plants/Block_Data
+  1.78%   17.655     10 Template:Gamelink
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:1333-0!canonical and timestamp 20230709052851 and revision id 21324
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Games/Lord_of_the_Test/Plants&amp;oldid=21324">http://wiki.minetest.net/index.php?title=Games/Lord_of_the_Test/Plants&amp;oldid=21324</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li><li><a href="/Category:Lord_of_the_Test" title="Category:Lord of the Test">Lord of the Test</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Games%2FLord+of+the+Test%2FPlants" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Games/Lord_of_the_Test/Plants" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Games/Lord_of_the_Test/Plants&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Games/Lord_of_the_Test/Plants">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Games/Lord_of_the_Test/Plants&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Games/Lord_of_the_Test/Plants&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Games/Lord_of_the_Test/Plants" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Games/Lord_of_the_Test/Plants" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Games/Lord_of_the_Test/Plants&amp;oldid=21324" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Games/Lord_of_the_Test/Plants&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 6 June 2018, at 13:13.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.973","walltime":"1.655","ppvisitednodes":{"value":1259,"limit":1000000},"postexpandincludesize":{"value":49018,"limit":2097152},"templateargumentsize":{"value":2487,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":14,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  991.285      1 -total"," 51.05%  506.045      6 Template:Grid/Craft"," 46.60%  461.988     60 Template:Grid"," 30.51%  302.465      2 Template:Languages"," 10.93%  108.388      9 Template:Heart","  2.20%   21.788     11 Template:-","  2.07%   20.516     12 Games/Lord_of_the_Test/Plants/Block_Data","  1.78%   17.655     10 Template:Gamelink"]},"scribunto":{"limitreport-timeusage":{"value":"0.520","limit":"7"},"limitreport-virtmemusage":{"value":6750208,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709052852","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":257});});</script></body></html>

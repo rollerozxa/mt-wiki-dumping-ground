@@ -1,0 +1,561 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Creating texture packs - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"7e22ffc72cdc92aeaf6e9e6e","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Creating_texture_packs","wgTitle":"Creating texture packs","wgCurRevisionId":27433,"wgRevisionId":27433,"wgArticleId":384,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages","Languages pages without translations","Tutorials","Textures"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Creating_texture_packs","wgRelevantArticleId":384,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[
+],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Creating_texture_packs rootpage-Creating_texture_packs skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Creating texture packs</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> Language:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><b><a class="mw-selflink selflink">English</a></b></td>
+</tr></tbody></table>
+<p><a href="/Texture_Packs" title="Texture Packs">Texture packs</a> are a simple folder containing image files named after the default ones. Minetest the engine has very few requirements for using a texture pack and texture packs are normally used by <a href="/Games" title="Games">games</a> for example <a href="/index.php?title=Minetest_Game&amp;action=edit&amp;redlink=1" class="new" title="Minetest Game (page does not exist)">Minetest Game</a>. 
+</p><p><br />
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Image_Structure"><span class="tocnumber">1</span> <span class="toctext">Image Structure</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Minetest_Engine"><span class="tocnumber">1.1</span> <span class="toctext">Minetest Engine</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Game_Specific_Textures"><span class="tocnumber">1.2</span> <span class="toctext">Game Specific Textures</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Engine_and_Game_Texture_Pack"><span class="tocnumber">1.3</span> <span class="toctext">Engine and Game Texture Pack</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Setting_up_Custom_Texture_Pack_Folder"><span class="tocnumber">2</span> <span class="toctext">Setting up Custom Texture Pack Folder</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Create_Texture_Pack_Folder"><span class="tocnumber">2.1</span> <span class="toctext">Create Texture Pack Folder</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Copy_Textures_Over"><span class="tocnumber">2.2</span> <span class="toctext">Copy Textures Over</span></a>
+<ul>
+<li class="toclevel-3 tocsection-8"><a href="#Easiest"><span class="tocnumber">2.2.1</span> <span class="toctext">Easiest</span></a>
+<ul>
+<li class="toclevel-4 tocsection-9"><a href="#Windows"><span class="tocnumber">2.2.1.1</span> <span class="toctext">Windows</span></a></li>
+<li class="toclevel-4 tocsection-10"><a href="#Linux"><span class="tocnumber">2.2.1.2</span> <span class="toctext">Linux</span></a></li>
+</ul>
+</li>
+<li class="toclevel-3 tocsection-11"><a href="#More_Complex"><span class="tocnumber">2.2.2</span> <span class="toctext">More Complex</span></a>
+<ul>
+<li class="toclevel-4 tocsection-12"><a href="#Windows_2"><span class="tocnumber">2.2.2.1</span> <span class="toctext">Windows</span></a></li>
+<li class="toclevel-4 tocsection-13"><a href="#Linux_2"><span class="tocnumber">2.2.2.2</span> <span class="toctext">Linux</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-14"><a href="#Special_Textures"><span class="tocnumber">2.3</span> <span class="toctext">Special Textures</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#Editing_or_Creating_Textures"><span class="tocnumber">3</span> <span class="toctext">Editing or Creating Textures</span></a>
+<ul>
+<li class="toclevel-2 tocsection-16"><a href="#Copyright"><span class="tocnumber">3.1</span> <span class="toctext">Copyright</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Image_Editing_Software"><span class="tocnumber">3.2</span> <span class="toctext">Image Editing Software</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Creating_Textures"><span class="tocnumber">3.3</span> <span class="toctext">Creating Textures</span></a>
+<ul>
+<li class="toclevel-3 tocsection-19"><a href="#Where_to_Start"><span class="tocnumber">3.3.1</span> <span class="toctext">Where to Start</span></a>
+<ul>
+<li class="toclevel-4 tocsection-20"><a href="#Create_an_Alternate_Texture_Pack"><span class="tocnumber">3.3.1.1</span> <span class="toctext">Create an Alternate Texture Pack</span></a></li>
+<li class="toclevel-4 tocsection-21"><a href="#Focus_on_default"><span class="tocnumber">3.3.1.2</span> <span class="toctext">Focus on default</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-22"><a href="#How_to_Share"><span class="tocnumber">4</span> <span class="toctext">How to Share</span></a>
+<ul>
+<li class="toclevel-2 tocsection-23"><a href="#Git_repository"><span class="tocnumber">4.1</span> <span class="toctext">Git repository</span></a></li>
+<li class="toclevel-2 tocsection-24"><a href="#ContentDB"><span class="tocnumber">4.2</span> <span class="toctext">ContentDB</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-25"><a href="#Notes_and_References"><span class="tocnumber">5</span> <span class="toctext">Notes and References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Image_Structure">Image Structure</span></h2>
+<p>Below is a brief overview of the texture structure of Minetest as of version 5.1
+</p>
+<h3><span class="mw-headline" id="Minetest_Engine">Minetest Engine</span></h3>
+<p>The Minetest game engine has very few base textures; these can be found under ~/your/path/to/minetest/textures/base/pack and there are 56 texture files as of ver 5.1. This includes textures for things such as; server icons, minimap overlays, logos and headers.
+</p>
+<h3><span class="mw-headline" id="Game_Specific_Textures">Game Specific Textures</span></h3>
+<p>Each <a href="/Games" title="Games">game</a> that you install to Minetest will have different texture requirements due to the mods that games creator will have used to create the game. For example the base <a href="/index.php?title=Minetest_Game&amp;action=edit&amp;redlink=1" class="new" title="Minetest Game (page does not exist)">Minetest Game</a> which comes bundled with the the Minetest Engine includes 31 mods as of ver 5.1, some of these mods will have texture requirements and some will not. 
+<br />For example <br />
+~/your/path/to/minetest/games/minetest_game/mods/default/textures has an extensive array of textures to support this mod, were as ~/your/path/to/minetest/games/minetest_game/mods/spawn has no textures to support the mod.
+</p><p>Full Minetest Game mod list as of version 5.1
+</p>
+<blockquote>
+<p>~/your/path/to/minetest/games/minetest_game/mods/beds <br />
+~/your/path/to/minetest/games/minetest_game/mods/binoculars <br />
+~/your/path/to/minetest/games/minetest_game/mods/boats <br />
+~/your/path/to/minetest/games/minetest_game/mods/bones <br />
+~/your/path/to/minetest/games/minetest_game/mods/bucket <br />
+~/your/path/to/minetest/games/minetest_game/mods/butterflies <br />
+~/your/path/to/minetest/games/minetest_game/mods/carts <br />
+~/your/path/to/minetest/games/minetest_game/mods/creative <br />
+~/your/path/to/minetest/games/minetest_game/mods/default <br />
+~/your/path/to/minetest/games/minetest_game/mods/doors <br />
+~/your/path/to/minetest/games/minetest_game/mods/dungeon_loot <br />
+~/your/path/to/minetest/games/minetest_game/mods/dye <br />
+~/your/path/to/minetest/games/minetest_game/mods/env_sounds <br />
+~/your/path/to/minetest/games/minetest_game/mods/farming <br />
+~/your/path/to/minetest/games/minetest_game/mods/fire <br />
+~/your/path/to/minetest/games/minetest_game/mods/fireflies <br />
+~/your/path/to/minetest/games/minetest_game/mods/flowers <br />
+~/your/path/to/minetest/games/minetest_game/mods/game_commands <br />
+~/your/path/to/minetest/games/minetest_game/mods/give_initial_stuff <br />
+~/your/path/to/minetest/games/minetest_game/mods/map <br />
+~/your/path/to/minetest/games/minetest_game/mods/player_api <br />
+~/your/path/to/minetest/games/minetest_game/mods/screwdriver <br />
+~/your/path/to/minetest/games/minetest_game/mods/sethome <br />
+~/your/path/to/minetest/games/minetest_game/mods/sfinv <br />
+~/your/path/to/minetest/games/minetest_game/mods/spawn <br />
+~/your/path/to/minetest/games/minetest_game/mods/stairs <br />
+~/your/path/to/minetest/games/minetest_game/mods/tnt <br />
+~/your/path/to/minetest/games/minetest_game/mods/vessels <br />
+~/your/path/to/minetest/games/minetest_game/mods/walls <br />
+~/your/path/to/minetest/games/minetest_game/mods/wool <br />
+~/your/path/to/minetest/games/minetest_game/mods/xpanes <br />
+</p>
+</blockquote>
+<h3><span class="mw-headline" id="Engine_and_Game_Texture_Pack">Engine and Game Texture Pack</span></h3>
+<p>As a very short summary in order to create a fully custom texture pack for the Minetest_game you would need to copy all the textures that are under ~/base/pack to a new folder and then copy all the textures from each individual ~/minetest_game/mods/modname/textures to the same folder this would give you a full list of the required image files that would be needed to create a custom texture pack for that specific game, further detail below on how to do this.
+</p>
+<h2><span class="mw-headline" id="Setting_up_Custom_Texture_Pack_Folder">Setting up Custom Texture Pack Folder</span></h2>
+<p>The Minetest engine supports sub-folders under the custom texture pack folder. Although these sub-folders can be named anything it is sometimes easiest to keep the subfolders the same name as the mod the textures are for. This can also help with identifying what textures might be missing if you wish to support multiple different games with your custom texture pack for example <a href="/index.php?title=Minetest_Game&amp;action=edit&amp;redlink=1" class="new" title="Minetest Game (page does not exist)">Minetest Game</a> and <a href="/Lord_of_the_Test" class="mw-redirect" title="Lord of the Test">Lord of the Test</a>.
+</p>
+<h3><span class="mw-headline" id="Create_Texture_Pack_Folder">Create Texture Pack Folder</span></h3>
+<div class="floatright"><a href="/File:Tutorial_texture_pack_location_.PNG" class="image"><img alt="Tutorial texture pack location .PNG" src="/images/thumb/d/d3/Tutorial_texture_pack_location_.PNG/200px-Tutorial_texture_pack_location_.PNG" decoding="async" width="200" height="98" srcset="/images/thumb/d/d3/Tutorial_texture_pack_location_.PNG/300px-Tutorial_texture_pack_location_.PNG 1.5x, /images/d/d3/Tutorial_texture_pack_location_.PNG 2x" /></a></div><p>Under ~/your/path/to/minetest/textures create a new folder that matches the name for your new texture pack for example: <i><b>"Your_Texture_Pack_Name"</b></i>
+</p><p>You will know if your in the correct folder as there is a small txt file named "texture_packs_here.txt" in the correct location.<br /><br /><br /><br />
+</p>
+<h3><span class="mw-headline" id="Copy_Textures_Over">Copy Textures Over</span></h3>
+<h4><span class="mw-headline" id="Easiest">Easiest</span></h4>
+<h5><span class="mw-headline" id="Windows">Windows</span></h5>
+<ul><li>Browse to your Minetest folder,</li>
+<li>Enter the games/minetest_game folder,</li>
+<li>Then hit <kbd>Ctrl</kbd>+<kbd>F</kbd> to invoke the search function,</li>
+<li>In the search box, enter “*.png” to find all the image files (or directly use the “Images” option in the search page),</li>
+<li>Next Select All <kbd>Ctrl</kbd>+<kbd>A</kbd>,</li>
+<li>Copy <kbd>Ctrl</kbd>+<kbd>C</kbd> and</li>
+<li>Paste to your texture pack folder <kbd>Ctrl</kbd>+<kbd>V</kbd></li></ul>
+<p><br />
+<i><b>If you would also like to replace some of the base engine textures then follow the below:</b></i>
+</p>
+<ul><li>Browse to your Minetest folder,</li>
+<li>Enter the textures\base\pack folder,</li>
+<li>Select the files you wish to copy <kbd>Ctrl</kbd> + mouse click you might like to change:
+<ul><li>logo.png - changes the ICON on the lower part of the main screen for your game</li>
+<li>minimap_*.png - changes the appearance of the minimap in game</li>
+<li>unknown_*.png - changes the appearance of unknown game objects</li>
+<li>server_*.png - change all the server icons</li>
+<li>progress_*.png - changes the load bar when a game loads</li></ul></li>
+<li>Copy <kbd>Ctrl</kbd>+<kbd>C</kbd> and</li>
+<li>Paste to your texture pack folder <kbd>Ctrl</kbd>+<kbd>V</kbd></li></ul>
+<h5><span class="mw-headline" id="Linux">Linux</span></h5>
+<p>It’s better to use the terminal. These commands should do the job:
+</p>
+<pre>$ TP_NAME=your-pack-name
+$ cd ~/your/path/to/minetest
+$ mkdir textures/$TP_NAME
+$ find games/minetest_game/ -name '*.png' -exec cp '{}' "textures/$TP_NAME" ';'
+</pre>
+<p><i><b>If you would also like to replace some of the base engine textures then follow the below - assumes GUI:</b></i>
+</p>
+<ul><li>Browse to your Minetest folder,</li>
+<li>Enter the textures\base\pack folder,</li>
+<li>Select the files you wish to copy - you might like to change:
+<ul><li>logo.png - changes the ICON on the lower part of the main screen for your game</li>
+<li>minimap_*.png - changes the appearance of the minimap in game</li>
+<li>unknown_*.png - changes the appearance of unknown game objects</li>
+<li>server_*.png - change all the server icons</li>
+<li>progress_*.png - changes the load bar when a game loads</li></ul></li>
+<li>Copy and Paste to your texture pack folder</li></ul>
+<p><br />
+Both of the above methods will result in all textures appearing in single big list of textures/image files under the base custom texture pack folder. Not always user friendly when trying to keep track of what textures you may or may not have already updated/edited.
+<br />
+<br />
+</p>
+<h4><span class="mw-headline" id="More_Complex">More Complex</span></h4>
+<p>The below methods will mean you end up with each texture under a folder named the same as the mod it is required for. 
+</p>
+<h5><span class="mw-headline" id="Windows_2">Windows</span></h5>
+<p>To copy over using Windows it's easiest to make use of ROBOCOPY at the windows CMD prompt as this can easily copy over just *.png files while retaining the mod folder structure.
+</p>
+<ul><li>Make a note of the source location for the files and the destination location eg
+<ul><li><b>Source:</b> ~\your\path\to\minetest\games\minetest_game\mods</li>
+<li><b>Destination:</b> ~\your\path\to\minetest\textures\Your_Texture_Pack_Name</li></ul></li>
+<li>Open the windows CMD prompt, search for cmd under start menu/search or [<a rel="nofollow" class="external text" href="https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10/">for more help click here</a>]<br /></li>
+<li>Type in:</li></ul>
+<pre>  ROBOCOPY "C:\your\path\to\minetest\games\minetest_game\mods" "C:\your\path\to\minetest\textures\Your_Texture_Pack_Name" *.png /s
+</pre>
+<ul><li><i>Only If you would also like to copy over the default engine graphics using robocopy then type in</i>:</li></ul>
+<pre>  ROBOCOPY "C:\your\path\to\minetest\textures\base" "C:\your\path\to\minetest\textures\Your_Texture_Pack_Name" *.png /s
+</pre>
+<p>Under you texture pack folder you should end up with a structure resembling:<br />
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th style="color:#000000;">C:\your\path\to\minetest\textures\Your_Texture_Pack_Name\
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th></tr>
+<tr>
+<td>
+</td>
+<td>default\
+</td>
+<td>textures\
+</td>
+<td>*.png files
+</td></tr>
+<tr>
+<td>
+</td>
+<td>doors\
+</td>
+<td>textures\
+</td>
+<td>*.png files
+</td></tr>
+<tr>
+<td>
+</td>
+<td>....
+</td>
+<td>....
+</td>
+<td>....
+</td></tr></tbody></table>
+<p>The above method is slightly irritating in that the texture folder is buried one extra level deep you can manually go through and simply use Windows file explorer to move the files up one level or give the bat file below a try.
+</p><p>This method requires the creation of a .bat file and that this file is placed and run from your new texture pack folder.
+</p>
+<ul><li>Copy the below into a new text document:</li></ul>
+<pre>       @echo off
+        set thisdir=%cd%
+           for /f "delims="&#160;%%B in ('dir /b /ad') do (
+                echo Level 2 Directory:&#160;%%~dpnB
+                cd /d "%%~dpnB"
+                for /f "delims="&#160;%%C in ('dir /b /ad') do (
+                	echo Level 3 Directory:&#160;%%~dpnC
+                	cd /d "%%~dpnC"
+                	move *.png ..\
+                	cd..
+                	rd "%%~dpnC"
+                )
+            cd..
+           )
+        cd /d "%thisdir%
+</pre>
+<ul><li>Save this file as "something.bat" at the location ~\your\path\to\minetest\textures\Your_texture_Pack_Name</li>
+<li>Double click the bat file to run it, cmd window will flick up and disappear</li>
+<li>Your file structure should now appear as:</li></ul>
+<table class="wikitable">
+<tbody><tr>
+<th style="color:#000000;">C:\your\path\to\minetest\textures\Your_Texture_Pack_Name\
+</th>
+<th>
+</th>
+<th>
+</th></tr>
+<tr>
+<td>
+</td>
+<td>default\
+</td>
+<td>*.png files
+</td></tr>
+<tr>
+<td>
+</td>
+<td>doors\
+</td>
+<td>*.png files
+</td></tr>
+<tr>
+<td>
+</td>
+<td>....
+</td>
+<td>....
+</td></tr></tbody></table>
+<h5><span class="mw-headline" id="Linux_2">Linux</span></h5>
+<p>Hopefully if your using Linux you'll know how to do something similar, or someone who's better with Linux than me can update this section  
+</p>
+<h3><span class="mw-headline" id="Special_Textures">Special Textures</span></h3>
+<p>Minetest has some "special" textures which can be provided by texture packs to retexture engine-provided or special textures. See <a rel="nofollow" class="external text" href="https://github.com/minetest/minetest/blob/master/doc/texture_packs.txt">texture_packs.txt</a> in the Minetest source tree contains a list of all these special textures
+</p>
+<h2><span class="mw-headline" id="Editing_or_Creating_Textures">Editing or Creating Textures</span></h2>
+<h3><span class="mw-headline" id="Copyright">Copyright</span></h3>
+<p>Copyright is a tricky issue especially when it comes to images and graphics, most countries in the world consider the creator of the art piece to have the copyright on that piece of work for there lifetime + 70/100 years after death (there are exceptions to this in some countries). Additionally there is a significant amount of mis-information available on the web in regards to copyright and fair use. It's important to have an awareness of copyright as if your not careful it may preclude you from being able to share your texture pack with the Minetest community. For a start see <a rel="nofollow" class="external text" href="https://en.wikipedia.org/wiki/Copyright">Wikipedia Copyright</a>.
+</p><p>Most importantly for some, taking copyrighted textures from other voxel games is strictly not allowed, and uploading this to ContentDB will result in immediate rejection. If you use textures from somewhere else, <b>make sure</b> that they are freely licensed (usually under some Creative Commons license) and follow the licensing terms (giving attribution is also common courtesy even if licensed under CC-0, it helps to find the source of textures you have used).
+</p>
+<h3><span class="mw-headline" id="Image_Editing_Software">Image Editing Software</span></h3>
+<p>In order to edit textures, you'll need some kind of image editing software. Any image editor that supports transparency should be more than enough, but if you want software recommendations these are the image editors most commonly used by the Minetest community.
+</p>
+<ul><li><a rel="nofollow" class="external text" href="https://www.gimp.org/">GIMP</a> - Fully featured FOSS image editor tool. Might be overwhelming for a new user, however is very powerful if learned.</li>
+<li><a rel="nofollow" class="external text" href="https://libresprite.github.io/">Libresprite</a> - FOSS fork of Aseprite, specially designed for pixel art.</li>
+<li><a rel="nofollow" class="external text" href="https://www.getpaint.net/download.html">Paint.NET</a> - Windows-only image editor, like MS Paint but slightly more featured (supports e.g. transparency).</li>
+<li><a rel="nofollow" class="external text" href="http://lospec.com/pixel-art-software-list">Lospec's pixel software list with more options for the peckish</a></li></ul>
+<h3><span class="mw-headline" id="Creating_Textures">Creating Textures</span></h3>
+<p>Textures for minetest maybe any size, but square images whose size is a power of 2 work best. For example 16×16, 32×32, 64×64, 128×128, 256x256 and 512x512 are preferred. You could go larger than 512 if you like but you'll be placing additional processing burden onto computing hardware for limited value in regards to graphics clarity. Some excellent highly detailed texture packs run in the range 128 to 256.
+</p><p>Generally Minetest games and mods use the <code>.png</code> image format, but <code>.jpg</code>, <code>.bmp</code> <code>.tga</code> are also supported and may exist in some mods.
+</p><p>Also check out the [<a rel="nofollow" class="external text" href="http://github.com/minetest/minetest/blob/master/doc/texture_packs.txt">texture_packs.txt</a>] documentation in the Minetest source tree.
+</p>
+<h4><span class="mw-headline" id="Where_to_Start">Where to Start</span></h4>
+<p>Creating a texture pack is no small task with 100's of different mods out there. To provide an idea [<a rel="nofollow" class="external text" href="https://gitlab.com/VanessaE/hdx-128/tree/master">HDX</a>] by Vanessa which is the most complete texture pack available and covers nearly all mods has 2553 unique texture files. However not all games use all mods so you can get excellent coverage of mods with a much smaller number of textures.
+</p><p>The biggest factor in completing a texture pack is that you set yourself a reasonable goal work on it slowly and enjoy what your doing, following are some quick ideas of how/were to start.
+</p>
+<h5><span class="mw-headline" id="Create_an_Alternate_Texture_Pack">Create an Alternate Texture Pack</span></h5>
+<p>To get your feet wet and see if you even enjoy creating textures, it's often easiest to create an alternate texture pack for one of the smaller mods. Maybe a new graphic for an existing mod that you feel fits in better with the basic minetest texture pack. There are examples of Alt texture packs <a href="/Other_texture_packs" title="Other texture packs">here</a>. This can give you an idea or of what's needed and how long creating a texture pack will take. You can also wrap up the pack fairly quickly and get it out there for people to use.  
+</p>
+<h5><span class="mw-headline" id="Focus_on_default">Focus on default</span></h5>
+<p>The mod "default" is the most common mod used across most games as it includes all the basic textures to even generate a voxel map. That's not to say some games don't use it, just that many do. So if you can cover default your going to make some serious impact on the look and feel of a game. There are about 250 unique files inside default, the toughest textures to create are the animated ones eg torch and water. the easier tend to be wood planks and trees as often these can be a simple color shift in the first instance to differentiate tree and wood type.
+</p>
+<h2><span class="mw-headline" id="How_to_Share">How to Share</span></h2>
+<p>Now you are all done and ready to share your texture pack. There's a few things to check before you do <i>(these points are required for ContentDB)</i>:
+</p>
+<ul><li>Make sure to include a license.txt file and any relevant copyright and attribution notices in there.</li>
+<li>Make a good screenshot of your textures in use in game, as players will usually want to see the texture pack in action before installing.</li>
+<li>Make a <code>texture_pack.conf</code> file, which contains metadata about the texture pack. An example texture_pack.conf looks something like this:</li></ul>
+<pre> name = very_cool_texpack
+ title = Very Cool Texture Pack
+ description = This is a description for the Very Cool Texture pack.
+</pre>
+<h3><span class="mw-headline" id="Git_repository">Git repository</span></h3>
+<p>There are numerous places that run and use Git (or equivalent software) as a place for uploading your files. The beauty of Git is it gives you version control and allows other users of Minetest to download and potentially add to your work in the future. Git is probably the best option for sharing texture packs however it can be a bit challenging to set up initially. Popular providers include:
+</p>
+<ul><li><a rel="nofollow" class="external text" href="http://github.com/">Github</a> - owned by Microsoft now</li>
+<li><a rel="nofollow" class="external text" href="http://notabug.org/">notabug</a> - run by Peers (essentially open community)</li>
+<li><a rel="nofollow" class="external text" href="http://about.gitlab.com/">Gitlab</a> - Somewhere between Github and notabug</li>
+<li><a rel="nofollow" class="external text" href="http://en.wikipedia.org/wiki/Comparison_of_source-code-hosting_facilities">and many more...</a></li></ul>
+<h3><span class="mw-headline" id="ContentDB">ContentDB</span></h3>
+<p>Nowadays, ContentDB is where all Minetest content is hosted and distributed. It can be easily accessed and installed from the Minetest main menu.
+</p><p>Go onto the <a rel="nofollow" class="external text" href="https://content.minetest.net/packages/new/">ContentDB create package</a> page (ContentDB account required), if your texture pack is hosted on a Git repository you can input it to automatically import metadata and whatnot.
+</p>
+<h2><span class="mw-headline" id="Notes_and_References">Notes and References</span></h2>
+
+<!-- 
+NewPP limit report
+Cached time: 20230709090540
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.247 seconds
+Real time usage: 0.835 seconds
+Preprocessor visited node count: 182/1000000
+Post‐expand include size: 1227/2097152 bytes
+Template argument size: 153/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 14/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.120/7 seconds
+Lua virtual size: 5.55 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  519.815      1 Template:Languages
+100.00%  519.815      1 -total
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:384-0!canonical and timestamp 20230709090539 and revision id 27433
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Creating_texture_packs&amp;oldid=27433">http://wiki.minetest.net/index.php?title=Creating_texture_packs&amp;oldid=27433</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li><li><a href="/Category:Languages_pages_without_translations" title="Category:Languages pages without translations">Languages pages without translations</a></li><li><a href="/Category:Tutorials" title="Category:Tutorials">Tutorials</a></li><li><a href="/Category:Textures" title="Category:Textures">Textures</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Creating+texture+packs" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Creating_texture_packs" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk"><a href="/Talk:Creating_texture_packs" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Creating_texture_packs">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Creating_texture_packs&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Creating_texture_packs&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Creating_texture_packs" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Creating_texture_packs" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Creating_texture_packs&amp;oldid=27433" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Creating_texture_packs&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 18 January 2023, at 20:22.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.247","walltime":"0.835","ppvisitednodes":{"value":182,"limit":1000000},"postexpandincludesize":{"value":1227,"limit":2097152},"templateargumentsize":{"value":153,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":14,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  519.815      1 Template:Languages","100.00%  519.815      1 -total"]},"scribunto":{"limitreport-timeusage":{"value":"0.120","limit":"7"},"limitreport-virtmemusage":{"value":5824512,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709090540","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":239});});</script></body></html>

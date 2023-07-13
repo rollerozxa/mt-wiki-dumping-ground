@@ -1,0 +1,816 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Mods/Not So Simple Mobs - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"60189687ec00ceac256e50f1","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Mods/Not_So_Simple_Mobs","wgTitle":"Mods/Not So Simple Mobs","wgCurRevisionId":27160,"wgRevisionId":27160,"wgArticleId":2367,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with broken file links","Mods"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Mods/Not_So_Simple_Mobs","wgRelevantArticleId":2367,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={
+"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","mediawiki.page.gallery.styles":"ready","skins.vector.styles.legacy":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.page.gallery.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Mods_Not_So_Simple_Mobs rootpage-Mods skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Mods/Not So Simple Mobs</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/Mods" title="Mods">Mods</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="wikitable" width="200px" style="float:right;text-align:left;margin:0 0 0.5em 1em;padding:5px;font-size:90%;position:relative;clear:right;overflow:auto;z-index:1">
+
+<tbody><tr>
+<th colspan="2" style="font-size:110%;text-align:center">Not So Simple Mobs
+</th></tr>
+<tr>
+<th colspan="2"><div class="center"><a href="/File:Blank.png" class="image"><img alt="Blank.png" src="/images/d/d2/Blank.png" decoding="async" width="150" height="150" /></a></div>
+</th></tr>
+<tr>
+<th colspan="2" align="center">A <a href="/Mods" title="Mods">mod</a>
+</th></tr>
+<tr>
+<td><b>Mod Type</b>
+</td>
+<td>Mobs
+</td></tr>
+<tr>
+<td><b>Author</b>
+</td>
+<td>NPX
+</td></tr>
+<tr>
+<td><b>Latest version</b>
+</td>
+<td><i>?</i>
+</td></tr>
+<tr>
+<td><b>Forum topic</b>
+</td>
+<td><a rel="nofollow" class="external text" href="http://minetest.net/forum/viewtopic.php?id=11813">11813</a>
+</td></tr>
+<tr>
+<td><b>Source code</b>
+</td>
+<td><a rel="nofollow" class="external text" href="https://notabug.org/TenPlus1/nssm">GitHub</a>
+</td></tr>
+<tr>
+<td><b>ContentDB</b>
+</td>
+<td><i>N/A</i>
+</td></tr>
+<tr>
+<td><b>Technical name</b>
+</td>
+<td>nssm
+</td></tr></tbody></table>
+<p><b>Not So Simple Mobs</b> (NSSM) is a Minetest <a href="/Mods" title="Mods">mod</a> created by <a rel="nofollow" class="external text" href="https://github.com/NPXCoot/nssm">the NPX team</a> to introduce more complex <a href="/Mobs" title="Mobs">mobs</a> into the game, for the purpose of increasing the difficulty of playing.
+</p>
+<blockquote><p>In October 2017, the NPX Team ceased to be active. A fork was made into <a rel="nofollow" class="external text" href="https://notabug.org/TenPlus1/nssm">TenPlus1</a>'s space.</p></blockquote>
+<p>The 3.0 version of the mod features more than 50 different mobs. They are divided in groups, each one who lives in a different biome.
+</p><p>The mod also gives you many new objects, tools and special powerful weapons to defend yourself from the monsters.
+</p>
+<hr />
+<p>List of mobs divided by belonging biome:
+</p>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:34.5px auto;"><a href="/File:Anthill.png" class="image"><img alt="" src="/images/thumb/7/7c/Anthill.png/120px-Anthill.png" decoding="async" width="120" height="81" srcset="/images/thumb/7/7c/Anthill.png/180px-Anthill.png 1.5x, /images/thumb/7/7c/Anthill.png/240px-Anthill.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/Mods/Not_So_Simple_Mobs/Biomes/Anthill" title="Mods/Not So Simple Mobs/Biomes/Anthill">Anthill</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:41px auto;"><a href="/File:Savannah.jpg" class="image"><img alt="" src="/images/thumb/2/2c/Savannah.jpg/120px-Savannah.jpg" decoding="async" width="120" height="68" srcset="/images/thumb/2/2c/Savannah.jpg/180px-Savannah.jpg 1.5x, /images/thumb/2/2c/Savannah.jpg/240px-Savannah.jpg 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/Mods/Not_So_Simple_Mobs/Biomes/Savannah" title="Mods/Not So Simple Mobs/Biomes/Savannah">Savannah</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:41px auto;"><a href="/File:Snow_biome.jpg" class="image"><img alt="" src="/images/thumb/6/65/Snow_biome.jpg/120px-Snow_biome.jpg" decoding="async" width="120" height="68" srcset="/images/thumb/6/65/Snow_biome.jpg/180px-Snow_biome.jpg 1.5x, /images/thumb/6/65/Snow_biome.jpg/240px-Snow_biome.jpg 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/Mods/Not_So_Simple_Mobs/Biomes/Ice" title="Mods/Not So Simple Mobs/Biomes/Ice">Ice</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:41px auto;"><a href="/File:Large_plains.png" class="image"><img alt="" src="/images/thumb/7/7e/Large_plains.png/120px-Large_plains.png" decoding="async" width="120" height="68" srcset="/images/thumb/7/7e/Large_plains.png/180px-Large_plains.png 1.5x, /images/thumb/7/7e/Large_plains.png/240px-Large_plains.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/Mods/Not_So_Simple_Mobs/Biomes/Plains" title="Mods/Not So Simple Mobs/Biomes/Plains">Plains</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:30px auto;"><a href="/File:Ocean.png" class="image"><img alt="" src="/images/thumb/8/89/Ocean.png/120px-Ocean.png" decoding="async" width="120" height="90" srcset="/images/thumb/8/89/Ocean.png/180px-Ocean.png 1.5x, /images/thumb/8/89/Ocean.png/240px-Ocean.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/Mods/Not_So_Simple_Mobs/Biomes/Ocean" title="Mods/Not So Simple Mobs/Biomes/Ocean">Ocean</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:29.5px auto;"><a href="/File:Decid.png" class="image"><img alt="" src="/images/thumb/0/0c/Decid.png/120px-Decid.png" decoding="async" width="120" height="91" srcset="/images/thumb/0/0c/Decid.png/180px-Decid.png 1.5x, /images/thumb/0/0c/Decid.png/240px-Decid.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/Mods/Not_So_Simple_Mobs/Biomes/Deciduous_forest" title="Mods/Not So Simple Mobs/Biomes/Deciduous forest">Deciduous forest</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:44px auto;"><a href="/File:Conif.png" class="image"><img alt="" src="/images/thumb/0/0a/Conif.png/120px-Conif.png" decoding="async" width="120" height="62" srcset="/images/thumb/0/0a/Conif.png/180px-Conif.png 1.5x, /images/thumb/0/0a/Conif.png/240px-Conif.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/Mods/Not_So_Simple_Mobs/Biomes/Coniferous_forest" title="Mods/Not So Simple Mobs/Biomes/Coniferous forest">Coniferous forest</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:38.5px auto;"><a href="/File:Lava_lake_0.4.7.jpg" class="image"><img alt="" src="/images/thumb/b/be/Lava_lake_0.4.7.jpg/120px-Lava_lake_0.4.7.jpg" decoding="async" width="120" height="73" srcset="/images/thumb/b/be/Lava_lake_0.4.7.jpg/180px-Lava_lake_0.4.7.jpg 1.5x, /images/thumb/b/be/Lava_lake_0.4.7.jpg/240px-Lava_lake_0.4.7.jpg 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/Mods/Not_So_Simple_Mobs/Biomes/Underground" title="Mods/Not So Simple Mobs/Biomes/Underground">Underground</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:30px auto;"><a href="/File:Sky.png" class="image"><img alt="" src="/images/thumb/0/08/Sky.png/120px-Sky.png" decoding="async" width="120" height="90" srcset="/images/thumb/0/08/Sky.png/180px-Sky.png 1.5x, /images/thumb/0/08/Sky.png/240px-Sky.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/Mods/Not_So_Simple_Mobs/Biomes/Sky" title="Mods/Not So Simple Mobs/Biomes/Sky">Sky</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:44px auto;"><a href="/File:Moun.png" class="image"><img alt="" src="/images/thumb/5/50/Moun.png/120px-Moun.png" decoding="async" width="120" height="62" srcset="/images/thumb/5/50/Moun.png/180px-Moun.png 1.5x, /images/thumb/5/50/Moun.png/240px-Moun.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/Mods/Not_So_Simple_Mobs/Biomes/Mountains" title="Mods/Not So Simple Mobs/Biomes/Mountains">Mountains</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:30px auto;"><a href="/File:Desert.png" class="image"><img alt="" src="/images/thumb/6/6d/Desert.png/120px-Desert.png" decoding="async" width="120" height="90" srcset="/images/thumb/6/6d/Desert.png/180px-Desert.png 1.5x, /images/thumb/6/6d/Desert.png/240px-Desert.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/Mods/Not_So_Simple_Mobs/Biomes/Desert" title="Mods/Not So Simple Mobs/Biomes/Desert">Desert</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:30px auto;"><a href="/File:Jungle.png" class="image"><img alt="" src="/images/thumb/a/ae/Jungle.png/120px-Jungle.png" decoding="async" width="120" height="90" srcset="/images/thumb/a/ae/Jungle.png/180px-Jungle.png 1.5x, /images/thumb/a/ae/Jungle.png/240px-Jungle.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/Mods/Not_So_Simple_Mobs/Biomes/Jungle" title="Mods/Not So Simple Mobs/Biomes/Jungle">Jungle</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:36.5px auto;"><a href="/File:Mapgen_valleys.jpg" class="image"><img alt="" src="/images/thumb/1/1b/Mapgen_valleys.jpg/120px-Mapgen_valleys.jpg" decoding="async" width="120" height="77" srcset="/images/thumb/1/1b/Mapgen_valleys.jpg/180px-Mapgen_valleys.jpg 1.5x, /images/thumb/1/1b/Mapgen_valleys.jpg/240px-Mapgen_valleys.jpg 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/index.php?title=Mods/Not_So_Simple_Mobs/Biomes/Rivers&amp;action=edit&amp;redlink=1" class="new" title="Mods/Not So Simple Mobs/Biomes/Rivers (page does not exist)">Rivers</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:44px auto;"><a href="/File:Morlendor.png" class="image"><img alt="" src="/images/thumb/c/c3/Morlendor.png/120px-Morlendor.png" decoding="async" width="120" height="62" srcset="/images/thumb/c/c3/Morlendor.png/180px-Morlendor.png 1.5x, /images/thumb/c/c3/Morlendor.png/240px-Morlendor.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/index.php?title=Mods/Not_So_Simple_Mobs/Biomes/Morlendor&amp;action=edit&amp;redlink=1" class="new" title="Mods/Not So Simple Mobs/Biomes/Morlendor (page does not exist)">Morlendor</a>
+</p>
+			</div>
+		</div></li>
+</ul>
+<p>Note that <b>Morlendor</b> is a special biome available only if you use <a href="/index.php?title=Mods/Not_So_Simple_Buildings&amp;action=edit&amp;redlink=1" class="new" title="Mods/Not So Simple Buildings (page does not exist)">NSSB</a> (Not So Simple Buildings)
+<br />
+<br />
+<b>Important:</b> this mod can make the game really difficult! But fortunately for you it is possible to customize its difficulty. You only need to go in the "Advanced settings" of Minetest, under Mods-&gt;nssm there are 3 parameters you can modify:
+</p>
+<ul><li>spawnrate of the mobs ("Multimobs")</li>
+<li>mobs difficulty</li>
+<li>mapgen: if you don't use mapgenv7 you should modify this so that the spawn parameters can adapt automatically</li></ul>
+<p>List of materials divided by categories:
+</p>
+<ul><li><a href="/index.php?title=Mods/Not_So_Simple_Mobs/Materials/Tools&amp;action=edit&amp;redlink=1" class="new" title="Mods/Not So Simple Mobs/Materials/Tools (page does not exist)">Tools</a></li>
+<li><a href="/index.php?title=Mods/Not_So_Simple_Mobs/Materials/Armors&amp;action=edit&amp;redlink=1" class="new" title="Mods/Not So Simple Mobs/Materials/Armors (page does not exist)">Armors</a></li>
+<li><a href="/Mods/Not_So_Simple_Mobs/Materials/Weapons" title="Mods/Not So Simple Mobs/Materials/Weapons">Weapons</a></li>
+<li><a href="/index.php?title=Mods/Not_So_Simple_Mobs/Materials/Bombs&amp;action=edit&amp;redlink=1" class="new" title="Mods/Not So Simple Mobs/Materials/Bombs (page does not exist)">Bombs (trowitems)</a></li>
+<li><a href="/index.php?title=Mods/Not_So_Simple_Mobs/Materials/Eggs&amp;action=edit&amp;redlink=1" class="new" title="Mods/Not So Simple Mobs/Materials/Eggs (page does not exist)">Eggs</a></li>
+<li><a href="/index.php?title=Mods/Not_So_Simple_Mobs/Materials/Others&amp;action=edit&amp;redlink=1" class="new" title="Mods/Not So Simple Mobs/Materials/Others (page does not exist)">Others</a></li></ul>
+<h1><span class="mw-headline" id="Types_of_mobs">Types of mobs</span></h1>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15.5px auto;"><a href="/File:Nssm_black_widow.png" class="image"><img alt="" src="/images/thumb/b/bd/Nssm_black_widow.png/120px-Nssm_black_widow.png" decoding="async" width="120" height="119" srcset="/images/thumb/b/bd/Nssm_black_widow.png/180px-Nssm_black_widow.png 1.5x, /images/thumb/b/bd/Nssm_black_widow.png/240px-Nssm_black_widow.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/Mods/Not_So_Simple_Mobs/Black_Widow" title="Mods/Not So Simple Mobs/Black Widow">Black Widow</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15.5px auto;"><a href="/File:Nssm_Stone_bloco.png" class="image"><img alt="" src="/images/thumb/b/b7/Nssm_Stone_bloco.png/120px-Nssm_Stone_bloco.png" decoding="async" width="120" height="119" srcset="/images/thumb/b/b7/Nssm_Stone_bloco.png/180px-Nssm_Stone_bloco.png 1.5x, /images/thumb/b/b7/Nssm_Stone_bloco.png/240px-Nssm_Stone_bloco.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/Mods/Not_So_Simple_Mobs/Bloco" title="Mods/Not So Simple Mobs/Bloco">Stone Bloco</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:33px auto;"><a href="/File:Nssm_crab.png" class="image"><img alt="" src="/images/thumb/9/91/Nssm_crab.png/120px-Nssm_crab.png" decoding="async" width="120" height="84" srcset="/images/thumb/9/91/Nssm_crab.png/180px-Nssm_crab.png 1.5x, /images/thumb/9/91/Nssm_crab.png/240px-Nssm_crab.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/Mods/Not_So_Simple_Mobs/Crab" title="Mods/Not So Simple Mobs/Crab">Crab</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/File:Nssm_crocodile.png" class="image"><img alt="" src="/images/thumb/3/3f/Nssm_crocodile.png/108px-Nssm_crocodile.png" decoding="async" width="108" height="120" srcset="/images/thumb/3/3f/Nssm_crocodile.png/162px-Nssm_crocodile.png 1.5x, /images/thumb/3/3f/Nssm_crocodile.png/216px-Nssm_crocodile.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/Mods/Not_So_Simple_Mobs/Crocodile" title="Mods/Not So Simple Mobs/Crocodile">Crocodile</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:27px auto;"><a href="/File:Nssm_daddy_long_legs.png" class="image"><img alt="" src="/images/thumb/6/66/Nssm_daddy_long_legs.png/120px-Nssm_daddy_long_legs.png" decoding="async" width="120" height="96" srcset="/images/thumb/6/66/Nssm_daddy_long_legs.png/180px-Nssm_daddy_long_legs.png 1.5x, /images/thumb/6/66/Nssm_daddy_long_legs.png/240px-Nssm_daddy_long_legs.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/Mods/Not_So_Simple_Mobs/Daddy_Long_Legs" title="Mods/Not So Simple Mobs/Daddy Long Legs">Daddy Long Legs</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/File:Nssm_dolidrosaurus.png" class="image"><img alt="" src="/images/thumb/2/2e/Nssm_dolidrosaurus.png/98px-Nssm_dolidrosaurus.png" decoding="async" width="98" height="120" srcset="/images/thumb/2/2e/Nssm_dolidrosaurus.png/147px-Nssm_dolidrosaurus.png 1.5x, /images/thumb/2/2e/Nssm_dolidrosaurus.png/196px-Nssm_dolidrosaurus.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/Mods/Not_So_Simple_Mobs/Dolidrosaurus" title="Mods/Not So Simple Mobs/Dolidrosaurus">Dolidrosaurus</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/File:Nssm_duck.png" class="image"><img alt="" src="/images/thumb/7/71/Nssm_duck.png/61px-Nssm_duck.png" decoding="async" width="61" height="120" srcset="/images/thumb/7/71/Nssm_duck.png/92px-Nssm_duck.png 1.5x, /images/thumb/7/71/Nssm_duck.png/122px-Nssm_duck.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/Mods/Not_So_Simple_Mobs/Duck" title="Mods/Not So Simple Mobs/Duck">Duck</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/File:Nssm_echidna.png" class="image"><img alt="" src="/images/thumb/7/7c/Nssm_echidna.png/68px-Nssm_echidna.png" decoding="async" width="68" height="120" srcset="/images/thumb/7/7c/Nssm_echidna.png/102px-Nssm_echidna.png 1.5x, /images/thumb/7/7c/Nssm_echidna.png/136px-Nssm_echidna.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/Mods/Not_So_Simple_Mobs/Echidna" title="Mods/Not So Simple Mobs/Echidna">Echidna</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/File:Nssm_enderduck.png" class="image"><img alt="" src="/images/thumb/0/07/Nssm_enderduck.png/69px-Nssm_enderduck.png" decoding="async" width="69" height="120" srcset="/images/thumb/0/07/Nssm_enderduck.png/104px-Nssm_enderduck.png 1.5x, /images/thumb/0/07/Nssm_enderduck.png/138px-Nssm_enderduck.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/Mods/Not_So_Simple_Mobs/Enderduck" title="Mods/Not So Simple Mobs/Enderduck">Enderduck</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/File:Felucco_(nssm).png" class="image"><img alt="" src="/images/thumb/f/f7/Felucco_%28nssm%29.png/120px-Felucco_%28nssm%29.png" decoding="async" width="120" height="120" srcset="/images/thumb/f/f7/Felucco_%28nssm%29.png/180px-Felucco_%28nssm%29.png 1.5x, /images/thumb/f/f7/Felucco_%28nssm%29.png/240px-Felucco_%28nssm%29.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/Mods/Not_So_Simple_Mobs/Felucco" title="Mods/Not So Simple Mobs/Felucco">Felucco</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/File:Nssm_Giant_sandworm.png" class="image"><img alt="" src="/images/thumb/5/5d/Nssm_Giant_sandworm.png/74px-Nssm_Giant_sandworm.png" decoding="async" width="74" height="120" srcset="/images/thumb/5/5d/Nssm_Giant_sandworm.png/110px-Nssm_Giant_sandworm.png 1.5x, /images/thumb/5/5d/Nssm_Giant_sandworm.png/147px-Nssm_Giant_sandworm.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/Mods/Not_So_Simple_Mobs/Giant_Sandworm" title="Mods/Not So Simple Mobs/Giant Sandworm">Giant Sandworm</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:30.5px auto;"><a href="/File:Nssm_icelamander.png" class="image"><img alt="" src="/images/thumb/e/e6/Nssm_icelamander.png/120px-Nssm_icelamander.png" decoding="async" width="120" height="89" srcset="/images/thumb/e/e6/Nssm_icelamander.png/180px-Nssm_icelamander.png 1.5x, /images/thumb/e/e6/Nssm_icelamander.png/240px-Nssm_icelamander.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/Mods/Not_So_Simple_Mobs/Icelamander" title="Mods/Not So Simple Mobs/Icelamander">Icelamander</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/File:Nssm_icesnake.png" class="image"><img alt="" src="/images/thumb/a/a8/Nssm_icesnake.png/111px-Nssm_icesnake.png" decoding="async" width="111" height="120" srcset="/images/thumb/a/a8/Nssm_icesnake.png/166px-Nssm_icesnake.png 1.5x, /images/a/a8/Nssm_icesnake.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/Mods/Not_So_Simple_Mobs/Icesnake" title="Mods/Not So Simple Mobs/Icesnake">Icesnake</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/File:Nssm_kraken.png" class="image"><img alt="" src="/images/thumb/5/5b/Nssm_kraken.png/65px-Nssm_kraken.png" decoding="async" width="65" height="120" srcset="/images/thumb/5/5b/Nssm_kraken.png/97px-Nssm_kraken.png 1.5x, /images/thumb/5/5b/Nssm_kraken.png/129px-Nssm_kraken.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/Mods/Not_So_Simple_Mobs/Kraken" title="Mods/Not So Simple Mobs/Kraken">Kraken</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/File:Nssm_larva.png" class="image"><img alt="" src="/images/thumb/a/a5/Nssm_larva.png/108px-Nssm_larva.png" decoding="async" width="108" height="120" srcset="/images/thumb/a/a5/Nssm_larva.png/162px-Nssm_larva.png 1.5x, /images/thumb/a/a5/Nssm_larva.png/216px-Nssm_larva.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/Mods/Not_So_Simple_Mobs/Larva" title="Mods/Not So Simple Mobs/Larva">Larva</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/File:Nssm_lava_titan.png" class="image"><img alt="" src="/images/thumb/0/09/Nssm_lava_titan.png/90px-Nssm_lava_titan.png" decoding="async" width="90" height="120" srcset="/images/thumb/0/09/Nssm_lava_titan.png/135px-Nssm_lava_titan.png 1.5x, /images/thumb/0/09/Nssm_lava_titan.png/180px-Nssm_lava_titan.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/Mods/Not_So_Simple_Mobs/Lava_Titan" title="Mods/Not So Simple Mobs/Lava Titan">Lava Titan</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/File:Nssm_manticore.png" class="image"><img alt="" src="/images/thumb/a/ae/Nssm_manticore.png/84px-Nssm_manticore.png" decoding="async" width="84" height="120" srcset="/images/thumb/a/ae/Nssm_manticore.png/126px-Nssm_manticore.png 1.5x, /images/thumb/a/ae/Nssm_manticore.png/169px-Nssm_manticore.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/Mods/Not_So_Simple_Mobs/Manticore" title="Mods/Not So Simple Mobs/Manticore">Manticore</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/File:Nssm_mantis.png" class="image"><img alt="" src="/images/thumb/f/f9/Nssm_mantis.png/80px-Nssm_mantis.png" decoding="async" width="80" height="120" srcset="/images/thumb/f/f9/Nssm_mantis.png/120px-Nssm_mantis.png 1.5x, /images/thumb/f/f9/Nssm_mantis.png/159px-Nssm_mantis.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/Mods/Not_So_Simple_Mobs/Mantis" title="Mods/Not So Simple Mobs/Mantis">Mantis</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:23px auto;"><a href="/File:Nssm_mantis_beast.png" class="image"><img alt="" src="/images/thumb/8/88/Nssm_mantis_beast.png/120px-Nssm_mantis_beast.png" decoding="async" width="120" height="104" srcset="/images/thumb/8/88/Nssm_mantis_beast.png/180px-Nssm_mantis_beast.png 1.5x, /images/thumb/8/88/Nssm_mantis_beast.png/240px-Nssm_mantis_beast.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/Mods/Not_So_Simple_Mobs/Mantis_Beast" title="Mods/Not So Simple Mobs/Mantis Beast">Mantis Beast</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:34.5px auto;"><a href="/File:Nssm_masticone.png" class="image"><img alt="" src="/images/thumb/3/33/Nssm_masticone.png/120px-Nssm_masticone.png" decoding="async" width="120" height="81" srcset="/images/thumb/3/33/Nssm_masticone.png/180px-Nssm_masticone.png 1.5x, /images/3/33/Nssm_masticone.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/Mods/Not_So_Simple_Mobs/Masticone" title="Mods/Not So Simple Mobs/Masticone">Masticone</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/File:Nssm_messe_dragon.png" class="image"><img alt="" src="/images/thumb/d/d8/Nssm_messe_dragon.png/95px-Nssm_messe_dragon.png" decoding="async" width="95" height="120" srcset="/images/thumb/d/d8/Nssm_messe_dragon.png/143px-Nssm_messe_dragon.png 1.5x, /images/thumb/d/d8/Nssm_messe_dragon.png/190px-Nssm_messe_dragon.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/Mods/Not_So_Simple_Mobs/Mese_Dragon" title="Mods/Not So Simple Mobs/Mese Dragon">Mese Dragon</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:49.5px auto;"><a href="/File:Nssm_moonherontrio.png" class="image"><img alt="" src="/images/thumb/2/22/Nssm_moonherontrio.png/120px-Nssm_moonherontrio.png" decoding="async" width="120" height="51" srcset="/images/thumb/2/22/Nssm_moonherontrio.png/180px-Nssm_moonherontrio.png 1.5x, /images/thumb/2/22/Nssm_moonherontrio.png/240px-Nssm_moonherontrio.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/Mods/Not_So_Simple_Mobs/Night_Master" title="Mods/Not So Simple Mobs/Night Master">Night Master</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/File:Nssm_octopus.png" class="image"><img alt="" src="/images/thumb/9/94/Nssm_octopus.png/106px-Nssm_octopus.png" decoding="async" width="106" height="120" srcset="/images/thumb/9/94/Nssm_octopus.png/159px-Nssm_octopus.png 1.5x, /images/thumb/9/94/Nssm_octopus.png/212px-Nssm_octopus.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/Mods/Not_So_Simple_Mobs/Octopus" title="Mods/Not So Simple Mobs/Octopus">Octopus</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:51px auto;"><a href="/File:Nssm_phoenix.png" class="image"><img alt="" src="/images/thumb/8/8c/Nssm_phoenix.png/120px-Nssm_phoenix.png" decoding="async" width="120" height="48" srcset="/images/thumb/8/8c/Nssm_phoenix.png/180px-Nssm_phoenix.png 1.5x, /images/thumb/8/8c/Nssm_phoenix.png/240px-Nssm_phoenix.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/Mods/Not_So_Simple_Mobs/Phoenix" title="Mods/Not So Simple Mobs/Phoenix">Phoenix</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/File:Nssm_pumpking.png" class="image"><img alt="" src="/images/thumb/7/75/Nssm_pumpking.png/98px-Nssm_pumpking.png" decoding="async" width="98" height="120" srcset="/images/thumb/7/75/Nssm_pumpking.png/147px-Nssm_pumpking.png 1.5x, /images/thumb/7/75/Nssm_pumpking.png/195px-Nssm_pumpking.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/Mods/Not_So_Simple_Mobs/Pumpking" title="Mods/Not So Simple Mobs/Pumpking">Pumpking</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/File:Scrausics_(nssm).png" class="image"><img alt="" src="/images/thumb/d/d8/Scrausics_%28nssm%29.png/120px-Scrausics_%28nssm%29.png" decoding="async" width="120" height="120" srcset="/images/thumb/d/d8/Scrausics_%28nssm%29.png/180px-Scrausics_%28nssm%29.png 1.5x, /images/thumb/d/d8/Scrausics_%28nssm%29.png/240px-Scrausics_%28nssm%29.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/Mods/Not_So_Simple_Mobs/Scrausics" title="Mods/Not So Simple Mobs/Scrausics">Scrausics</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/File:Snowbiter_(nssm).png" class="image"><img alt="" src="/images/thumb/f/ff/Snowbiter_%28nssm%29.png/120px-Snowbiter_%28nssm%29.png" decoding="async" width="120" height="120" srcset="/images/thumb/f/ff/Snowbiter_%28nssm%29.png/180px-Snowbiter_%28nssm%29.png 1.5x, /images/thumb/f/ff/Snowbiter_%28nssm%29.png/240px-Snowbiter_%28nssm%29.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/Mods/Not_So_Simple_Mobs/Snowbiter" title="Mods/Not So Simple Mobs/Snowbiter">Snowbiter</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/File:Spiderduck_(nssm).png" class="image"><img alt="" src="/images/thumb/7/76/Spiderduck_%28nssm%29.png/120px-Spiderduck_%28nssm%29.png" decoding="async" width="120" height="120" srcset="/images/thumb/7/76/Spiderduck_%28nssm%29.png/180px-Spiderduck_%28nssm%29.png 1.5x, /images/thumb/7/76/Spiderduck_%28nssm%29.png/240px-Spiderduck_%28nssm%29.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/Mods/Not_So_Simple_Mobs/Spiderduck" title="Mods/Not So Simple Mobs/Spiderduck">Spiderduck</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/File:Stone_Eater_(nssm).png" class="image"><img alt="" src="/images/thumb/d/d6/Stone_Eater_%28nssm%29.png/120px-Stone_Eater_%28nssm%29.png" decoding="async" width="120" height="120" srcset="/images/thumb/d/d6/Stone_Eater_%28nssm%29.png/180px-Stone_Eater_%28nssm%29.png 1.5x, /images/thumb/d/d6/Stone_Eater_%28nssm%29.png/240px-Stone_Eater_%28nssm%29.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/Mods/Not_So_Simple_Mobs/Stone_Eater" title="Mods/Not So Simple Mobs/Stone Eater">Stone Eater</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/File:Swiming_Duck_(nssm).png" class="image"><img alt="" src="/images/thumb/3/36/Swiming_Duck_%28nssm%29.png/120px-Swiming_Duck_%28nssm%29.png" decoding="async" width="120" height="120" srcset="/images/thumb/3/36/Swiming_Duck_%28nssm%29.png/180px-Swiming_Duck_%28nssm%29.png 1.5x, /images/thumb/3/36/Swiming_Duck_%28nssm%29.png/240px-Swiming_Duck_%28nssm%29.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/Mods/Not_So_Simple_Mobs/Swimming_Duck" title="Mods/Not So Simple Mobs/Swimming Duck">Swimming Duck</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/File:Tarantula_(nssm).png" class="image"><img alt="" src="/images/thumb/c/cc/Tarantula_%28nssm%29.png/120px-Tarantula_%28nssm%29.png" decoding="async" width="120" height="120" srcset="/images/thumb/c/cc/Tarantula_%28nssm%29.png/180px-Tarantula_%28nssm%29.png 1.5x, /images/thumb/c/cc/Tarantula_%28nssm%29.png/240px-Tarantula_%28nssm%29.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/Mods/Not_So_Simple_Mobs/Tarantula" title="Mods/Not So Simple Mobs/Tarantula">Tarantula</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/File:Mordain_(nssm).png" class="image"><img alt="" src="/images/thumb/b/b1/Mordain_%28nssm%29.png/120px-Mordain_%28nssm%29.png" decoding="async" width="120" height="120" srcset="/images/thumb/b/b1/Mordain_%28nssm%29.png/180px-Mordain_%28nssm%29.png 1.5x, /images/thumb/b/b1/Mordain_%28nssm%29.png/240px-Mordain_%28nssm%29.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/Mods/Not_So_Simple_Mobs/Mordain" title="Mods/Not So Simple Mobs/Mordain">Mordain</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/File:Morde_(nssm).png" class="image"><img alt="" src="/images/thumb/4/43/Morde_%28nssm%29.png/120px-Morde_%28nssm%29.png" decoding="async" width="120" height="120" srcset="/images/thumb/4/43/Morde_%28nssm%29.png/180px-Morde_%28nssm%29.png 1.5x, /images/thumb/4/43/Morde_%28nssm%29.png/240px-Morde_%28nssm%29.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/Mods/Not_So_Simple_Mobs/Morde" title="Mods/Not So Simple Mobs/Morde">Morde</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/File:Morgre_(nssm).png" class="image"><img alt="" src="/images/thumb/0/03/Morgre_%28nssm%29.png/120px-Morgre_%28nssm%29.png" decoding="async" width="120" height="120" srcset="/images/thumb/0/03/Morgre_%28nssm%29.png/180px-Morgre_%28nssm%29.png 1.5x, /images/thumb/0/03/Morgre_%28nssm%29.png/240px-Morgre_%28nssm%29.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/Mods/Not_So_Simple_Mobs/Morgre" title="Mods/Not So Simple Mobs/Morgre">Morgre</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/File:Morgut_(nssm).png" class="image"><img alt="" src="/images/thumb/4/45/Morgut_%28nssm%29.png/120px-Morgut_%28nssm%29.png" decoding="async" width="120" height="120" srcset="/images/thumb/4/45/Morgut_%28nssm%29.png/180px-Morgut_%28nssm%29.png 1.5x, /images/thumb/4/45/Morgut_%28nssm%29.png/240px-Morgut_%28nssm%29.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/Mods/Not_So_Simple_Mobs/Morgut" title="Mods/Not So Simple Mobs/Morgut">Morgut</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/File:Morlu_(nssm).png" class="image"><img alt="" src="/images/thumb/4/4c/Morlu_%28nssm%29.png/120px-Morlu_%28nssm%29.png" decoding="async" width="120" height="120" srcset="/images/thumb/4/4c/Morlu_%28nssm%29.png/180px-Morlu_%28nssm%29.png 1.5x, /images/thumb/4/4c/Morlu_%28nssm%29.png/240px-Morlu_%28nssm%29.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/Mods/Not_So_Simple_Mobs/Morlu" title="Mods/Not So Simple Mobs/Morlu">Morlu</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/File:Morvy_(nssm).png" class="image"><img alt="" src="/images/thumb/6/6c/Morvy_%28nssm%29.png/120px-Morvy_%28nssm%29.png" decoding="async" width="120" height="120" srcset="/images/thumb/6/6c/Morvy_%28nssm%29.png/180px-Morvy_%28nssm%29.png 1.5x, /images/thumb/6/6c/Morvy_%28nssm%29.png/240px-Morvy_%28nssm%29.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/Mods/Not_So_Simple_Mobs/Morvy" title="Mods/Not So Simple Mobs/Morvy">Morvy</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/File:Morwa_(nssm).png" class="image"><img alt="" src="/images/thumb/1/1d/Morwa_%28nssm%29.png/120px-Morwa_%28nssm%29.png" decoding="async" width="120" height="120" srcset="/images/thumb/1/1d/Morwa_%28nssm%29.png/180px-Morwa_%28nssm%29.png 1.5x, /images/thumb/1/1d/Morwa_%28nssm%29.png/240px-Morwa_%28nssm%29.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/Mods/Not_So_Simple_Mobs/Morwa" title="Mods/Not So Simple Mobs/Morwa">Morwa</a>
+</p>
+			</div>
+		</div></li>
+</ul>
+<h1><span class="mw-headline" id="Removed_Mobs">Removed Mobs</span></h1>
+<p>These mobs don`t exist in the mod. They existed before, but they were deleted in new  versions for some reasons.
+</p>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="height: 150px;">Bacteriophage (nssm).png</div>
+			<div class="gallerytext">
+<p><a href="/index.php?title=Mods/Not_So_Simple_Mobs/Bacteriophage&amp;action=edit&amp;redlink=1" class="new" title="Mods/Not So Simple Mobs/Bacteriophage (page does not exist)">Bacteriophage</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="height: 150px;">Chinese Dragon (nssm).png</div>
+			<div class="gallerytext">
+<p><a href="/index.php?title=Mods/Not_So_Simple_Mobs/Chinese_Dragon&amp;action=edit&amp;redlink=1" class="new" title="Mods/Not So Simple Mobs/Chinese Dragon (page does not exist)">Chinese Dragon</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="height: 150px;">Dahaka (nssm).png</div>
+			<div class="gallerytext">
+<p><a href="/index.php?title=Mods/Not_So_Simple_Mobs/Dahaka&amp;action=edit&amp;redlink=1" class="new" title="Mods/Not So Simple Mobs/Dahaka (page does not exist)">Dahaka</a>
+</p>
+			</div>
+		</div></li>
+</ul>
+<h1><span class="mw-headline" id="Planned_Mobs">Planned Mobs</span></h1>
+<blockquote><p>NOTE: these were plans made by NPX Team before they ceased activity.</p></blockquote>
+<p>These mobs are planned. They can be released only in future versions.
+</p><p><b>4.0</b>
+At the moment all the mobs are planned for future update 4.0
+</p>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="height: 150px;">Ahuizotl (nssm).png</div>
+			<div class="gallerytext">
+<p><a href="/index.php?title=Mods/Not_So_Simple_Mobs/Ahuizotl&amp;action=edit&amp;redlink=1" class="new" title="Mods/Not So Simple Mobs/Ahuizotl (page does not exist)">Ahuizotl</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="height: 150px;">Albino Spider (nssm).png</div>
+			<div class="gallerytext">
+<p><a href="/index.php?title=Mods/Not_So_Simple_Mobs/Albino_Spider&amp;action=edit&amp;redlink=1" class="new" title="Mods/Not So Simple Mobs/Albino Spider (page does not exist)">Albino Spider|</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="height: 150px;">Aquatic Horror (nssm).png</div>
+			<div class="gallerytext">
+<p><a href="/index.php?title=Mods/Not_So_Simple_Mobs/Aquatic_Horror&amp;action=edit&amp;redlink=1" class="new" title="Mods/Not So Simple Mobs/Aquatic Horror (page does not exist)">Aquatic Horror|</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="height: 150px;">Berinog (nssm).png</div>
+			<div class="gallerytext">
+<p><a href="/index.php?title=Mods/Not_So_Simple_Mobs/Berinog&amp;action=edit&amp;redlink=1" class="new" title="Mods/Not So Simple Mobs/Berinog (page does not exist)">Berinog|</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="height: 150px;">Crystal Slug (nssm).png</div>
+			<div class="gallerytext">
+<p><a href="/index.php?title=Mods/Not_So_Simple_Mobs/Crystal_Slug&amp;action=edit&amp;redlink=1" class="new" title="Mods/Not So Simple Mobs/Crystal Slug (page does not exist)">Crystal Slug|</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="height: 150px;">Flust (nssm).png</div>
+			<div class="gallerytext">
+<p><a href="/index.php?title=Mods/Not_So_Simple_Mobs/Flust&amp;action=edit&amp;redlink=1" class="new" title="Mods/Not So Simple Mobs/Flust (page does not exist)">Flust|</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="height: 150px;">Ice Lizard (nssm).png</div>
+			<div class="gallerytext">
+<p><a href="/index.php?title=Mods/Not_So_Simple_Mobs/Ice_Lizard&amp;action=edit&amp;redlink=1" class="new" title="Mods/Not So Simple Mobs/Ice Lizard (page does not exist)">Ice Lizard|</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="height: 150px;">Kele (nssm).png</div>
+			<div class="gallerytext">
+<p><a href="/index.php?title=Mods/Not_So_Simple_Mobs/Kele&amp;action=edit&amp;redlink=1" class="new" title="Mods/Not So Simple Mobs/Kele (page does not exist)">Kele|</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="height: 150px;">Pumpkid (nssm).png</div>
+			<div class="gallerytext">
+<p><a href="/index.php?title=Mods/Not_So_Simple_Mobs/Pumpkid&amp;action=edit&amp;redlink=1" class="new" title="Mods/Not So Simple Mobs/Pumpkid (page does not exist)">Pumpkid|</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="height: 150px;">Rinobear (nssm).png</div>
+			<div class="gallerytext">
+<p><a href="/index.php?title=Mods/Not_So_Simple_Mobs/Rinobear&amp;action=edit&amp;redlink=1" class="new" title="Mods/Not So Simple Mobs/Rinobear (page does not exist)">Rinobear|</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="height: 150px;">River Lord (nssm).png</div>
+			<div class="gallerytext">
+<p><a href="/index.php?title=Mods/Not_So_Simple_Mobs/River_Lord&amp;action=edit&amp;redlink=1" class="new" title="Mods/Not So Simple Mobs/River Lord (page does not exist)">River Lord|</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="height: 150px;">Salamander (nssm).png</div>
+			<div class="gallerytext">
+<p><a href="/index.php?title=Mods/Not_So_Simple_Mobs/Salamander&amp;action=edit&amp;redlink=1" class="new" title="Mods/Not So Simple Mobs/Salamander (page does not exist)">Salamander|</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="height: 150px;">Sandonisc (nssm).png</div>
+			<div class="gallerytext">
+<p><a href="/index.php?title=Mods/Not_So_Simple_Mobs/Sandonisc&amp;action=edit&amp;redlink=1" class="new" title="Mods/Not So Simple Mobs/Sandonisc (page does not exist)">Sandonisc|</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="height: 150px;">Scorpion (nssm).png</div>
+			<div class="gallerytext">
+<p><a href="/index.php?title=Mods/Not_So_Simple_Mobs/Scorpion&amp;action=edit&amp;redlink=1" class="new" title="Mods/Not So Simple Mobs/Scorpion (page does not exist)">Scorpion|</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="height: 150px;">Silversand Dragon (nssm) png</div>
+			<div class="gallerytext">
+<p><a href="/index.php?title=Mods/Not_So_Simple_Mobs/Silversand_Dragon&amp;action=edit&amp;redlink=1" class="new" title="Mods/Not So Simple Mobs/Silversand Dragon (page does not exist)">Silversand Dragon|</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="height: 150px;">Tartacacia (nssm).png</div>
+			<div class="gallerytext">
+<p><a href="/index.php?title=Mods/Not_So_Simple_Mobs/Tartacacia&amp;action=edit&amp;redlink=1" class="new" title="Mods/Not So Simple Mobs/Tartacacia (page does not exist)">Tartacacia|</a>
+</p>
+			</div>
+		</div></li>
+</ul>
+<!-- 
+NewPP limit report
+Cached time: 20230709182731
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.680 seconds
+Real time usage: 1.023 seconds
+Preprocessor visited node count: 155/1000000
+Post‐expand include size: 1336/2097152 bytes
+Template argument size: 127/2097152 bytes
+Highest expansion depth: 4/40
+Expensive parser function count: 1/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 32907/5000000 bytes
+Lua time usage: 0.110/7 seconds
+Lua virtual size: 5.68 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  299.695      1 Template:Mod_Data
+100.00%  299.695      1 -total
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:2367-0!canonical and timestamp 20230709182730 and revision id 27160
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Mods/Not_So_Simple_Mobs&amp;oldid=27160">http://wiki.minetest.net/index.php?title=Mods/Not_So_Simple_Mobs&amp;oldid=27160</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Pages_with_broken_file_links" title="Category:Pages with broken file links">Pages with broken file links</a></li><li><a href="/Category:Mods" title="Category:Mods">Mods</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Mods%2FNot+So+Simple+Mobs" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Mods/Not_So_Simple_Mobs" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Mods/Not_So_Simple_Mobs&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Mods/Not_So_Simple_Mobs">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Mods/Not_So_Simple_Mobs&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Mods/Not_So_Simple_Mobs&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Mods/Not_So_Simple_Mobs" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Mods/Not_So_Simple_Mobs" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Mods/Not_So_Simple_Mobs&amp;oldid=27160" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Mods/Not_So_Simple_Mobs&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 23 December 2022, at 21:29.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.680","walltime":"1.023","ppvisitednodes":{"value":155,"limit":1000000},"postexpandincludesize":{"value":1336,"limit":2097152},"templateargumentsize":{"value":127,"limit":2097152},"expansiondepth":{"value":4,"limit":40},"expensivefunctioncount":{"value":1,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":32907,"limit":5000000},"timingprofile":["100.00%  299.695      1 Template:Mod_Data","100.00%  299.695      1 -total"]},"scribunto":{"limitreport-timeusage":{"value":"0.110","limit":"7"},"limitreport-virtmemusage":{"value":5951488,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709182731","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":1383});});</script></body></html>

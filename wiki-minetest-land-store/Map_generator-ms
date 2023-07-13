@@ -1,0 +1,392 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Map generator/ms - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"b86485096f7c80cb6cf130f8","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Map_generator/ms","wgTitle":"Map generator/ms","wgCurRevisionId":27646,"wgRevisionId":27646,"wgArticleId":3262,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Malay"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Map_generator/ms","wgRelevantArticleId":3262,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready",
+"user.styles":"ready","user":"ready","user.options":"loading","mediawiki.page.gallery.styles":"ready","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.page.gallery.styles%7Cmediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Map_generator_ms rootpage-Map_generator skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Map generator/ms</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/Map_generator" title="Map generator">Map generator</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> Bahasa:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><a href="/Map_generator" title="Map generator">English</a>&#160;• <bdi lang="de"><a href="/Map_generator/de" class="mw-redirect" title="Map generator/de">Deutsch</a></bdi>&#160;• <bdi lang="fr"><a href="/Map_generator/fr" title="Map generator/fr">français</a></bdi>&#160;• <bdi lang="ja"><a href="/Map_generator/ja" title="Map generator/ja">日本語</a></bdi><b>&#160;• <bdi lang="ms"><a class="mw-selflink selflink">Bahasa Melayu</a></bdi></b></td>
+</tr></tbody></table>
+<p><b>Penjana peta</b> (<a href="/Help:Original_names/ms" title="Help:Original names/ms">BI</a>: <i>map generator</i>) atau dikenali dengan nama pendek “janapeta”  (<a href="/Help:Original_names/ms" title="Help:Original names/ms">BI</a>: “<i>mapgen</i>”) ialah salah satu komponen <a href="/Minetest/ms" title="Minetest/ms">Minetest</a> yang menjana <a href="/index.php?title=Maps/ms&amp;action=edit&amp;redlink=1" class="new" title="Maps/ms (page does not exist)">peta</a>. Halaman ini tertumpu kepada penjanaan rupa bumi. Untuk penjanaan biom (permukaan blok, tumbuh-tumbuhan dan yang berkaitan), sila lihat <a href="/Biomes/ms" title="Biomes/ms">biom</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Pengenalan"><span class="tocnumber">1</span> <span class="toctext">Pengenalan</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Penjana_peta"><span class="tocnumber">2</span> <span class="toctext">Penjana peta</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Gambaran_keseluruhan"><span class="tocnumber">2.1</span> <span class="toctext">Gambaran keseluruhan</span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="#Galeri"><span class="tocnumber">2.1.1</span> <span class="toctext">Galeri</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-5"><a href="#Keterangan"><span class="tocnumber">2.2</span> <span class="toctext">Keterangan</span></a>
+<ul>
+<li class="toclevel-3 tocsection-6"><a href="#v5"><span class="tocnumber">2.2.1</span> <span class="toctext">v5</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#v6"><span class="tocnumber">2.2.2</span> <span class="toctext">v6</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="#v7"><span class="tocnumber">2.2.3</span> <span class="toctext">v7</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="#carpathian"><span class="tocnumber">2.2.4</span> <span class="toctext">carpathian</span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="#valleys"><span class="tocnumber">2.2.5</span> <span class="toctext">valleys</span></a></li>
+<li class="toclevel-3 tocsection-11"><a href="#flat"><span class="tocnumber">2.2.6</span> <span class="toctext">flat</span></a></li>
+<li class="toclevel-3 tocsection-12"><a href="#fractal"><span class="tocnumber">2.2.7</span> <span class="toctext">fractal</span></a></li>
+<li class="toclevel-3 tocsection-13"><a href="#singlenode"><span class="tocnumber">2.2.8</span> <span class="toctext">singlenode</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#Lihat_juga"><span class="tocnumber">3</span> <span class="toctext">Lihat juga</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Pengenalan">Pengenalan</span></h2>
+<p>Atur cara yang kompleks ini diintegrasikan bersama permainan untuk menjana <a href="/index.php?title=Maps/ms&amp;action=edit&amp;redlink=1" class="new" title="Maps/ms (page does not exist)">peta</a> secara prosedural, peta inilah dunia yang pemain gunakan untuk bermain. Ianya berdasarkan hingar Perlin, fungsi yang membolehkan perhubungan kepada setiap titik menjadi nilai yang rambang tetapi konsisten.
+</p>
+<h2><span class="mw-headline" id="Penjana_peta">Penjana peta</span></h2>
+<p>Terdapat beberapa jenis penjana peta yang berbeza. Pemain boleh memilih penjana peta yang disukai ketika hendak mencipta <a href="/index.php?title=Maps/ms&amp;action=edit&amp;redlink=1" class="new" title="Maps/ms (page does not exist)">peta</a>. Sesetengah <a href="/Mods/ms" title="Mods/ms">mods</a> mungkin mengubah terus peta, malah kesemua penjana peta membolehkan banyak penetapan melalui menu tetapan lanjutan.
+</p><p>Kesemua penjana peta mempunyai biom. Dalam semua penjana peta kecuali v6, biom-biom ini boleh ditakrifkan oleh <a href="/Mods/ms" title="Mods/ms">mods</a> menggunakan API Biom. Penjana peta v6 istimewa kerana biomnya telah ditakrifkan terus dan tidak boleh diubah sesuka hati.
+</p><p><b>Penting</b>: <b>v5 dan v6 bukannya penjana peta lama.</b> “v5”, “v6” dan “v7” semuanya sekadar nama, bukan nombor versi. <i>Semua</i> janapeta dimasukkan dalam Minetest secara rasmi, disokong dan dikemaskini.
+</p>
+<h3><span class="mw-headline" id="Gambaran_keseluruhan">Gambaran keseluruhan</span></h3>
+<p>Janapeta yang disediakan dijelaskan sepintas lalu:
+</p>
+<ul><li><b>v5</b>: Rupa bumi tidak realistik tetapi menarik dengan banyak pulau terapung dan rupa bumi tergantung yang melampau, beserta lautan dalam. Kepelikan ini mempunyai daya tarikan tersendiri.</li>
+<li><b>v6</b>: Bukit, cenuram dan dataran yang ringkas, agak rata dan janapeta berskala kecil, tiada rupa bumi tergantung, biom telah ditakrifkan</li>
+<li><b>v7</b>: Rupa bumi sangat meluas, gunung tinggi dengan rupa bumi tergantung dan kawasan landai yang jauh. Banyak juga terowong air di paras laut</li>
+<li><b>carpathian</b>: Akan ditambah dalam terbitan akan datang. Gunung kompleks dan realistik dengan pelbagai variasi, kadang-kala mencecah ketinggian melampau, dipisahkan oleh lautan dan landaian pantai serta kebanyakannya kawasan landai</li>
+<li><b>valleys</b>: Banyak bukit, gunung dan lembah mengandungi <a href="/River_Water/ms" title="River Water/ms">air sungai</a> yang mengalir menuruni bukit</li>
+<li><b>flat</b>: Dunia yang rata sahaja, tetapi ada gua, biom dan perhiasan</li>
+<li><b>fractal</b>: Peta berdasarkan fraktal pilihan anda; sangat mudah diubah konfigurasi</li>
+<li><b>singlenode</b>: Dunia kosong</li></ul>
+<h4><span class="mw-headline" id="Galeri">Galeri</span></h4>
+<p>Di sini contoh landskap dijana menggunakan beberapa penjana peta yang berbeza (menggunakan <a href="/Games/Minetest_Game/ms" title="Games/Minetest Game/ms">Minetest Game</a>):
+</p>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 435px"><div style="width: 435px">
+			<div class="thumb" style="width: 430px;"><div style="margin:15px auto;"><a href="/File:Mapgen_v5.jpg" class="image"><img alt="" src="/images/thumb/a/af/Mapgen_v5.jpg/400px-Mapgen_v5.jpg" decoding="async" width="400" height="256" srcset="/images/thumb/a/af/Mapgen_v5.jpg/600px-Mapgen_v5.jpg 1.5x, /images/a/af/Mapgen_v5.jpg 2x" /></a></div></div>
+			<div class="gallerytext">
+<p>v5
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 435px"><div style="width: 435px">
+			<div class="thumb" style="width: 430px;"><div style="margin:15px auto;"><a href="/File:Mapgen_v6.jpg" class="image"><img alt="" src="/images/thumb/1/15/Mapgen_v6.jpg/400px-Mapgen_v6.jpg" decoding="async" width="400" height="256" srcset="/images/thumb/1/15/Mapgen_v6.jpg/600px-Mapgen_v6.jpg 1.5x, /images/1/15/Mapgen_v6.jpg 2x" /></a></div></div>
+			<div class="gallerytext">
+<p>v6
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 435px"><div style="width: 435px">
+			<div class="thumb" style="width: 430px;"><div style="margin:15px auto;"><a href="/File:Mapgen_v7.jpg" class="image"><img alt="" src="/images/thumb/b/b3/Mapgen_v7.jpg/400px-Mapgen_v7.jpg" decoding="async" width="400" height="256" srcset="/images/thumb/b/b3/Mapgen_v7.jpg/600px-Mapgen_v7.jpg 1.5x, /images/b/b3/Mapgen_v7.jpg 2x" /></a></div></div>
+			<div class="gallerytext">
+<p>v7
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 435px"><div style="width: 435px">
+			<div class="thumb" style="width: 430px;"><div style="margin:15px auto;"><a href="/File:Mapgen_carpathian.jpg" class="image"><img alt="" src="/images/thumb/f/fa/Mapgen_carpathian.jpg/400px-Mapgen_carpathian.jpg" decoding="async" width="400" height="256" srcset="/images/thumb/f/fa/Mapgen_carpathian.jpg/600px-Mapgen_carpathian.jpg 1.5x, /images/f/fa/Mapgen_carpathian.jpg 2x" /></a></div></div>
+			<div class="gallerytext">
+<p>carpathian
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 435px"><div style="width: 435px">
+			<div class="thumb" style="width: 430px;"><div style="margin:15px auto;"><a href="/File:Mapgen_valleys.jpg" class="image"><img alt="" src="/images/thumb/1/1b/Mapgen_valleys.jpg/400px-Mapgen_valleys.jpg" decoding="async" width="400" height="256" srcset="/images/thumb/1/1b/Mapgen_valleys.jpg/600px-Mapgen_valleys.jpg 1.5x, /images/1/1b/Mapgen_valleys.jpg 2x" /></a></div></div>
+			<div class="gallerytext">
+<p>valleys
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 435px"><div style="width: 435px">
+			<div class="thumb" style="width: 430px;"><div style="margin:15px auto;"><a href="/File:Mapgen_flat.jpg" class="image"><img alt="" src="/images/thumb/1/1a/Mapgen_flat.jpg/400px-Mapgen_flat.jpg" decoding="async" width="400" height="256" srcset="/images/thumb/1/1a/Mapgen_flat.jpg/600px-Mapgen_flat.jpg 1.5x, /images/1/1a/Mapgen_flat.jpg 2x" /></a></div></div>
+			<div class="gallerytext">
+<p>flat
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 435px"><div style="width: 435px">
+			<div class="thumb" style="width: 430px;"><div style="margin:15px auto;"><a href="/File:Mapgen_fractals_fractal_1.jpg" class="image"><img alt="" src="/images/thumb/0/00/Mapgen_fractals_fractal_1.jpg/400px-Mapgen_fractals_fractal_1.jpg" decoding="async" width="400" height="256" srcset="/images/thumb/0/00/Mapgen_fractals_fractal_1.jpg/600px-Mapgen_fractals_fractal_1.jpg 1.5x, /images/0/00/Mapgen_fractals_fractal_1.jpg 2x" /></a></div></div>
+			<div class="gallerytext">
+<p>fractal
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 435px"><div style="width: 435px">
+			<div class="thumb" style="width: 430px;"><div style="margin:15.5px auto;"><a href="/File:Mapgen_singlenode.jpg" class="image"><img alt="" src="/images/thumb/d/d9/Mapgen_singlenode.jpg/400px-Mapgen_singlenode.jpg" decoding="async" width="400" height="255" srcset="/images/thumb/d/d9/Mapgen_singlenode.jpg/600px-Mapgen_singlenode.jpg 1.5x, /images/d/d9/Mapgen_singlenode.jpg 2x" /></a></div></div>
+			<div class="gallerytext">
+<p>singlenode
+</p>
+			</div>
+		</div></li>
+</ul>
+<h3><span class="mw-headline" id="Keterangan">Keterangan</span></h3>
+<p>Semua penjana peta dijelaskan dengan lebih mendalam.
+</p><p>Untuk belajar tentang konfigurasi dengan lebih mendalam, sila lihat <a href="/index.php?title=Map_generator_features/ms&amp;action=edit&amp;redlink=1" class="new" title="Map generator features/ms (page does not exist)">Ciri-ciri penjana peta</a>. Untuk belajar tentang sejarah penjana peta, sila lihat <a href="/Map_Generator_Evolution/ms" title="Map Generator Evolution/ms">Evolusi Penjana Peta</a>.
+</p>
+<h4><span class="mw-headline" id="v5">v5</span></h4>
+<p>Dikenali dengan bentuk rupa buminya yang unik dan agak pelik beserta kepulauan terapung jarang-jarang atas langit yang selalunya kelihatan seperti tompok-tompok. Rupa bumi jerangkau bukanlah luar biasa dan kadang-kala nampak realistik, waktu lainnya nampak pelik dan mencabar. Lautannya kadang-kadang boleh mencecah kedalaman melampau juga. Walaupun landskapnya tidaklah betul-betul realistik, janapeta ini memang disengajakan disertakan dalam Minetest kerana keunikan dan kepelikannya mendatangkan keistimewaan kepada sesetengah orang.
+</p><p>Seperti kebanyakan penjana peta, janapeta v5 menjana banyak gua di bawah tanah. Guanya selalunya kecil tetapi kadang-kadang sangat besar. Guanya kadang-kadang sangat panjang, dalam dan susah untuk diterokai dan membentuk sistem terowong yang kompleks. Dalam di bawah tanah, ada peluang rendah untuk menjumpai gua gergasi. Seperti dalam kebanyakan janapeta lain, tasik <a href="/Lava/ms" title="Lava/ms">lava</a> dan <a href="/Water/ms" title="Water/ms">air</a> mungkin muncul sebagai tasik di bawah tanah, tapi lava mula menghilang apabila kedalaman ekstrim berada pada Y=-273 atau ke bawah.
+</p><p>Biomnya perlu ditakrifkan oleh <a href="/Mods/ms" title="Mods/ms">mods</a> dahulu, jika tidak ia akan menjadi landskap <a href="/Stone/ms" title="Stone/ms">batu</a> sahaja. Benda sama juga tergunapakai dalam semua janapeta lain kecuali v6.
+</p><p>Landskap berdasarkan hingar Perlin 3D.
+</p>
+<h4><span class="mw-headline" id="v6">v6</span></h4>
+<p>Dikenali dengan bukit dan cenuram mudah dan agak landai. Landskapnya agak ringkas, bukitnya tidak akan terbentuk melebihi ketinggian Y=47 dan tidak ada rupa bumi anjur semulajadi (mengabaikan gua). Kepelikan janapeta v5 telah dibuang ketika membuat janapeta v6.
+</p><p>Guanya agak ringkas, pendek, kecil, dan kurang kepelbagaian tetapi jumlahnya banyak. Gua yang lebih besar hanya dijana untuk tasik air dan lava bawah tanah. Tidak ada gua gergasi. Ini satu-satunya penjana peta di mana <a href="/Lava/ms" title="Lava/ms">lava</a> sudah pun dijana di bawah ketinggian Y=-32, lebih tinggi berbanding dalam janapeta yang lain.
+</p><p>Penjana peta inilah satu-satunya yang mempunyai biom pratakrif: Kawasan rumput/hutan, rimba, gurun, taiga, tundra. Empat spesis <a href="/index.php?title=Trees/ms&amp;action=edit&amp;redlink=1" class="new" title="Trees/ms (page does not exist)">pokok</a> dijana iaitu: Pokok biasa, pokok epal, pokok hutan dan pokok pain. Biom-biom tidak boleh diubah oleh mods. Memang sifat v6 yang biom-biom ini lebih ringkas berbanding biom yang digunakan dalam penjana peta lain, malah beberapa blok-blok yang boleh dijumpai dalam penjana peta lain tidak wujud dalam peta janaan v6 (contohnya: <a href="/Silver_Sand/ms" title="Silver Sand/ms">Pasir Perak</a>, <a href="/Acacia_Tree/ms" title="Acacia Tree/ms">Kayu Akasia</a>, <a href="/Coral/ms" title="Coral/ms">Batu Karang Jingga</a>).
+</p><p>Ciri-ciri unik yang lain termasuklah: Banyak tampung tanah dan pasir di bawah tanah, padang kelikir yang jarang dijumpai di permukaan dan tetapan untuk menjana peta rata dalam gaya v6.
+</p><p>Dijana sepenuhnya menggunakan hingar Perlin 2D.
+</p>
+<h4><span class="mw-headline" id="v7">v7</span></h4>
+<p>Menjana persekitaran yang berskala sangat besar dengan biom yang pelbagai dan kawasan daratan luas. Salah satu ciri unik dalam penjana peta ini ialah terusan air yang luas dan dalam (dipanggil “rabung” atau bahasa Inggerisnya “ridges”) pada aras laut, tetapi sungai ini boleh dilumpuhkan. Seperti v5, biom perlu ditakrifkan oleh mods terlebih dahulu. Janapeta ini juga mempunyai ciri unik untuk menyokong pulau terapung yang tinggi di langit (→<a href="/index.php?title=Map_generator_features/ms&amp;action=edit&amp;redlink=1" class="new" title="Map generator features/ms (page does not exist)">Ciri-ciri penjana peta</a>), tetapi pulau ini dilumpuhkan secara lalainya.
+</p><p>Gua yang dijana sangat luas, selalunya mempunyai banyak ruang dan selalunya sangat panjang, rumit dan suka bercabang-cabang. Nod jatuh seperti kelikir tiba-tiba jatuh dari atas bukan perkara luar biasa. Jauh di bawah tanah, gua gergasi mungkin terbentuk (seperti dalam janapeta v5).
+</p><p>Menggunakan hingar Perlin 2D dan 3D. Ia menjana peta untuk penciptaan dunia lalai sejak Minetest 0.4.15.
+</p>
+<h4><span class="mw-headline" id="carpathian">carpathian</span></h4>
+<p>Nama janapeta ini bermaksud "banjaran Karthapos". Janapeta ini belum ada dalam 0.4.16 tetapi ia akan ada dalam terbitan akan datang. Kawasan daratan yang banyak dan purata, bukit-bukau yang beralun dan kompleks, banjaran gunung realistik mendominasi landskap. Gunung datang dalam pelbagai jenis dan saiz berbeza. Di kawasan banjaran gunung, rabung dan gunung berteres boleh terbentuk. Jarang-jarang ada gunung yang terlampau besar dan juga wujudnya fiord.
+</p>
+<h4><span class="mw-headline" id="valleys">valleys</span></h4>
+<p>Nama janapeta ini bermaksud "lembah". Ia menjana landskap mencirikan banyak bukit, gunung dan lembah. Lembah-lembah selalunya mempunyai sungai dengan <a href="/River_Water/ms" title="River Water/ms">air sungai</a>. Sungainya sangat berbeza daripada v7, kerana mereka tidak semestinya berada di paras laut dan sebenarnya mengalir turun daripada bukit. Sebuah lagi ciri unik janapeta ini ialah kesejukan ketinggian. Suhu biom jatuh apabila ketinggian menaik, ini bermakna biom sejuk lebih banyak terjadi di kawasan yang lebih tinggi.
+</p><p>Guanya serupa seperti dalam janapeta v7, tapi puratanya mereka lebih besar.
+</p>
+<h4><span class="mw-headline" id="flat">flat</span></h4>
+<p>Nama janapeta ini bermaksud "rata". Ia menjana dunia yang rata sepenuhnya (mengabaikan struktur dan gua) dengan beberapa biom.. Penjana peta boleh ditetapkan untuk menambah beberapa bukit dan tasik.
+</p><p>Gua yang dijana amalinya sama dengan yang dijana oleh janapeta v7.
+</p>
+<h4><span class="mw-headline" id="fractal">fractal</span></h4>
+<p>Nama janapeta ini bermaksud "fraktal". Ia menjana peta berdasarkan fraktal. Ia mencipta rupa bumi yang paling pelik setakat ini, tetapi hasil akhirnya selalunya boleh diagak.
+</p><p>Secara lalainya, peta berdasarkan set Mandelbrot akan dijana. Anda boleh memilih fraktal yang manakah yang ingin digunakan berdasarkan set Mandelbrot dan Julia, melalui menu tetapan lanjutan (nama tetapan teknikal “<code>mgfractal_fractal</code>”). Mengubah tetapan ini akan mendatangkan hasil yang sangat berbeza; jika anda mahukan yang terbaik daripada janapeta ini, pastikan anda bermain dengan tetapan lanjutan lebih sedikit.
+</p><p>Gua yang dijana amalinya sama dengan yang dijana oleh janapeta v7.
+</p>
+<h4><span class="mw-headline" id="singlenode">singlenode</span></h4>
+<p>Nama janapeta ini bermaksud "nod tunggal". Ia menjana dunia kosong.
+</p><p>Untuk lebih terperinci: Secara lalainya, penjana ini mencipta dunia dengan <a href="/Air/ms" title="Air/ms">udara</a> sahaja di kesemua tempat. Untuk subpermainan, udara boleh digantikan dengan blok yang berbeza.
+</p><p>Ianya dibuat untuk digunapakai oleh <a href="/index.php?title=Mods:Mapgen/ms&amp;action=edit&amp;redlink=1" class="new" title="Mods:Mapgen/ms (page does not exist)">mods janapeta</a> yang akan mentakrifkan penjanaan peta mereka sendiri daripada kosong. Janapeta ini tidak berguna jika ia dibiarkan tanpa pengubahsuaian kerana ianya mustahil untuk meletakkan blok di tengah-tengah udara tanpa penggunaan mods.
+</p>
+<h2><span class="mw-headline" id="Lihat_juga">Lihat juga</span></h2>
+<ul><li><a href="/index.php?title=Map_generator_features/ms&amp;action=edit&amp;redlink=1" class="new" title="Map generator features/ms (page does not exist)">Ciri-ciri penjana peta</a></li>
+<li><a href="/Biomes/ms" title="Biomes/ms">Biom</a></li>
+<li><a href="/Map_Generator_Evolution/ms" title="Map Generator Evolution/ms">Perkembangan Penjana Peta</a></li></ul>
+<!-- 
+NewPP limit report
+Cached time: 20230709182430
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.279 seconds
+Real time usage: 0.926 seconds
+Preprocessor visited node count: 142/1000000
+Post‐expand include size: 1799/2097152 bytes
+Template argument size: 390/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 13/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 4137/5000000 bytes
+Lua time usage: 0.130/7 seconds
+Lua virtual size: 5.55 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  488.202      1 Template:Languages
+100.00%  488.202      1 -total
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:3262-0!canonical and timestamp 20230709182429 and revision id 27646
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Map_generator/ms&amp;oldid=27646">http://wiki.minetest.net/index.php?title=Map_generator/ms&amp;oldid=27646</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/Category:Malay" title="Category:Malay">Malay</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Map+generator%2Fms" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Map_generator/ms" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Map_generator/ms&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Map_generator/ms">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Map_generator/ms&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Map_generator/ms&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Map_generator/ms" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Map_generator/ms" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Map_generator/ms&amp;oldid=27646" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Map_generator/ms&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 29 January 2023, at 14:16.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.279","walltime":"0.926","ppvisitednodes":{"value":142,"limit":1000000},"postexpandincludesize":{"value":1799,"limit":2097152},"templateargumentsize":{"value":390,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":13,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":4137,"limit":5000000},"timingprofile":["100.00%  488.202      1 Template:Languages","100.00%  488.202      1 -total"]},"scribunto":{"limitreport-timeusage":{"value":"0.130","limit":"7"},"limitreport-virtmemusage":{"value":5820416,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709182430","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":1341});});</script></body></html>

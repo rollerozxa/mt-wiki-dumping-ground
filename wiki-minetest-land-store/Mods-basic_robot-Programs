@@ -1,0 +1,985 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Mods/basic robot/Programs - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"f81512db5aa9d295533ec180","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Mods/basic_robot/Programs","wgTitle":"Mods/basic robot/Programs","wgCurRevisionId":26282,"wgRevisionId":26282,"wgArticleId":3774,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with ignored display titles","Pages using deprecated source tags","Pages with syntax highlighting errors"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Mods/basic_robot/Programs","wgRelevantArticleId":3774,"wgIsProbablyEditable":!1,
+"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","ext.pygments":"ready","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=ext.pygments%7Cmediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Mods_basic_robot_Programs rootpage-Mods skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Mods/basic robot/Programs</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/Mods" title="Mods">Mods</a>&lrm; | <a href="/Mods/basic_robot" title="Mods/basic robot">basic robot</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p><br />
+Programs for support/maintainance/admins. <br />
+They might need admin- or puzzle-privileges.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Administration"><span class="tocnumber">1</span> <span class="toctext">Administration</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Mailbox"><span class="tocnumber">1.1</span> <span class="toctext">Mailbox</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Poll.2FVote"><span class="tocnumber">1.2</span> <span class="toctext">Poll/Vote</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Spawn-Quiz"><span class="tocnumber">1.3</span> <span class="toctext">Spawn-Quiz</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Education"><span class="tocnumber">2</span> <span class="toctext">Education</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Math-Quiz"><span class="tocnumber">2.1</span> <span class="toctext">Math-Quiz</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#General-Quiz"><span class="tocnumber">2.2</span> <span class="toctext">General-Quiz</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Service"><span class="tocnumber">3</span> <span class="toctext">Service</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Char-table"><span class="tocnumber">3.1</span> <span class="toctext">Char-table</span></a>
+<ul>
+<li class="toclevel-3 tocsection-10"><a href="#Char-table2"><span class="tocnumber">3.1.1</span> <span class="toctext">Char-table2</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-11"><a href="#Door-Opener"><span class="tocnumber">3.2</span> <span class="toctext">Door-Opener</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Teleporter"><span class="tocnumber">3.3</span> <span class="toctext">Teleporter</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Shop"><span class="tocnumber">3.4</span> <span class="toctext">Shop</span></a>
+<ul>
+<li class="toclevel-3 tocsection-14"><a href="#Shop2"><span class="tocnumber">3.4.1</span> <span class="toctext">Shop2</span></a></li>
+<li class="toclevel-3 tocsection-15"><a href="#Admin-Shop"><span class="tocnumber">3.4.2</span> <span class="toctext">Admin-Shop</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-16"><a href="#Replicator"><span class="tocnumber">3.5</span> <span class="toctext">Replicator</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Outfitter"><span class="tocnumber">3.6</span> <span class="toctext">Outfitter</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Administration">Administration</span></h2>
+<h3><span class="mw-headline" id="Mailbox">Mailbox</span></h3>
+<p>Shows a form with a field for textinput and a "SEND"-button to the player,<br />
+stores the text in a book.<br />
+For mailing feedback to the admin.<br />
+</p>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre>-- feedback-form, based on rnd's mailrobot
+if not pn then pn="Mailbox"  -- hajo 2017-03-07
+  s=0
+  daynr=os.date("%w")  -- %w&#160;: weekday [0-6 = Sunday-Saturday]
+  booknr=tonumber(daynr);  -- say(daynr.."/"..booknr)
+  msgsize = 2500;
+  _,text = book.read(booknr); text = text or "";
+  
+	write_msg = function(sender,msg)
+		local newsize = string.len(text)+string.len(msg);
+		if newsize&gt;msgsize then return "messages space exceeded" end
+		text = text .. "\n"..os.date("%Y-%m-%d %H:%M") .. " " .. sender .. ": " .. msg; 
+		book.write(booknr,"messages #"..booknr, text)
+	end
+
+end
+
+--textarea[X,Y;W,H;name;label;default]
+--button[X,Y;W,H;name;label]
+if s == 0 then
+	players = find_player(4);
+	if players and players[1] then
+		s=1
+		local form = "size[8,4.5]" ..
+		"textarea[0,0;9,4.5;msg;YOUR FEEDBACK-MESSAGE;]"..
+		"button_exit[-0.5,4.15;2,1;send;send]"
+		self.show_form(players[1],form)
+	end
+elseif s==1 then
+	sender,fields = self.read_form();
+	if sender then
+		if fields.send then
+			msg = fields.msg;
+			if msg and msg~="" then
+				write_msg(sender,msg); -- activate.up(1)
+				--_G.minetest.chat_send_player(sender,"#mailbot: your message has been stored")
+				say("#mailbot: your message has been stored")
+			end
+		end
+		self.remove()
+	end
+end
+--</pre></div>
+<p>This variant uses separate books for each day of the week.<br />
+Without access to _G, the program can also be used by regular users 
+as their mailbox.
+</p><p>To read the messages, open the books in the robot's library.
+</p>
+<h3><span id="Poll/Vote"></span><span class="mw-headline" id="Poll.2FVote">Poll/Vote</span></h3>
+<p>Shows a form with text and several buttons to choose from to the player,<br />
+stores which button was choosen in a book.<br />
+This is much like the mailbox above, with buttons instead of a field for text-input.
+</p>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre>--todo</pre></div>
+<h3><span class="mw-headline" id="Spawn-Quiz">Spawn-Quiz</span></h3>
+<p>This is the spawn-quiz from the old robots-server.
+</p><p>On the old robot-server, the spawn-building was like a cage,<br />
+and to get out, players had to solve this quiz.
+</p><p>The program shows a dialog with a math-quiz, like "2 * 3 + 4 =&#160;?",<br />
+with 5 multiple-choice-buttons in a formspec.
+</p><p>When solved, the player is teleported out of the spawn-building.
+</p>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre>    -- rnd - Spawn-Quiz @ -7 -3 5, with dialog/formspec.
+    -- When solved, gives apple, and teleports the player out of the spawn-building.
+ 
+    if not s then
+       s=0
+       t=0
+       option = {"A","B","C","D","E"}
+       generate_question = function()
+          local a = math.random(10)+0;
+          local b = math.random(10)+0;
+          local c = math.random(20)-10;
+          local d = a*b+c;
+          msg = "To get out solve the math problem\n\n";
+          msg = msg .. a.."*"..b.."+"..c .. " =&#160;?\n\n"
+          problem = a.."*"..b.."+"..c .. " =&#160;?";
+          correct = math.random(5);
+          local frm = "";
+ 
+          for i =1,5 do
+             local offset = 0;
+             if i~=correct then offset = math.random(10)-5; if offset == 0 then offset = -1 end end
+             frm = frm .. "button_exit[".. -0.25+(i-1)*1.25 ..",1.75;1.25,1;" .. i .. ";".. d + offset .. "]"
+          end
+       
+          local form = "size[6,2.25]" .. "textarea[0.05,-0.3;6.5,2.25;message;;".. msg.."]"..frm;
+          return form, correct
+       end
+ 
+       selection = 1;
+       question  = "";
+       problem   = "";
+    end
+ 
+    if t%10 == 0 then  -- new quiz every 10s
+       t = 0; form,selection = generate_question();
+       local players = find_player(4);
+       if players then
+          for _,pname in ipairs(players) do
+             self.show_form(pname,form)
+          end
+       end
+    end
+    t=t+1;
+ 
+    sender,fields = self.read_form()
+    if sender then
+       player = _G.minetest.get_player_by_name(sender);
+       if player then
+          
+          answer = 0;
+          for i = 1,5 do if fields[_G.tostring(i)] then answer = i end end
+          
+          if answer == correct then
+             player:setpos({x=-4,y=2,z=0})
+             inv = player:get_inventory(); inv:add_item("main", "default:apple")
+             _G.minetest.chat_send_player(sender,"&lt;MATH ROBOT&gt; congratulations, here is an apple.")
+          elseif answer ~= 0 then
+             player:setpos({x=0,y=-6,z=-1})
+             say(sender .. " failed to solve the problem " .. problem)
+          end
+       end
+    end</pre></div>
+<p>Commands like player:setpos(), player:get_inventory() and access to _G
+require admin-privileges.
+</p>
+<h2><span class="mw-headline" id="Education">Education</span></h2>
+<h3><span class="mw-headline" id="Math-Quiz">Math-Quiz</span></h3>
+<p>See <a href="/index.php?title=Basic_robot/Tutorial&amp;action=edit&amp;redlink=1" class="new" title="Basic robot/Tutorial (page does not exist)">Math_quiz1</a>
+and <a href="/index.php?title=Basic_robot/Tutorial&amp;action=edit&amp;redlink=1" class="new" title="Basic robot/Tutorial (page does not exist)">Math_quiz2</a>.
+</p><p>They give rewards for solving questions like "WHAT IS 12*13&#160;?", via chat.
+</p>
+<h3><span class="mw-headline" id="General-Quiz">General-Quiz</span></h3>
+<p>From the <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=15850&amp;p=304075#p303543">forum</a>, by rnd.<br />
+Show a quiz with text-questions, and buttons with multiple-choice answers.<br />
+The order of the answer-buttons is randomized on each run.
+</p>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre>if not quiz then
+-- QUIZ QUESTIONS:
+-- FORMAT:  question,   answer1, answer2,...,   index of correct answer
+ quiz = {
+   {
+      "QUESTION 1: what is the correct answer&#160;?",
+      "correct is a.",
+      "correct is b.",
+      "correct is c.",
+      3 -- correct is 3rd answer - c.
+   },
+
+   {
+      "QUESTION 2: what is the correct answer&#160;?",
+      "correct is a.",
+      "correct is b.",
+      "correct is c.",
+      1 -- correct is a.
+   },
+
+   {
+      "QUESTION 3: what is the correct answer&#160;?",
+      "correct is a.",
+      "correct is b.",
+      "correct is c.",
+      2
+   }
+
+ }
+ 
+ local permute = function(n,seed) -- return permuted array {1,..,n}
+   _G.math.randomseed(seed);
+   local permute = {}
+   for i = 1, n do permute[i] = i end --input:sub(i, i)
+   for i = n,2,-1 do
+      local j = math.random(i-1);
+      local tmp = permute[j];
+      permute[j] = permute[i]; permute[i] = tmp;
+   end
+   return permute
+ end
+
+ get_form = function(k)
+   
+   local n = #quiz[k]-2;
+   if n &lt; 1 then error("quiz: error in question " .. k) end
+   
+   local frm = "label[0,0;" .. quiz[k][1] .. "] "
+   order = permute(n,os.time())
+   
+   for i = 1,n do
+      frm = frm .. "button_exit[0,".. (i)*1 ..";8,1;" .. order[i] .. ";".. quiz[k][1+order[i]].. "] "
+   end
+   
+   local form = "size[8," .. (n+1) .. "]" .. frm;
+   return form, quiz[k][#quiz[k]]
+ end
+ 
+ points   = 0; -- how many correct answers so far
+ question = 1; -- current question
+ correct  = 1; -- current correct answer
+ state    = 1; -- 1: display question, 2: wait for answer
+
+ local players = find_player(4);
+ if not players then say("quiz: no players") self.remove() end
+ pname = players[1];
+
+end
+ 
+if state == 1 then
+   if question&gt;#quiz then
+      say("Congratulations! You answered all question. Your result: " .. points .. "/" .. #quiz)
+      self.remove();
+   else
+      local form;
+      form, correct = get_form(question)
+      self.show_form(pname,form)
+      state = 2 -- wait for answer
+   end
+elseif state == 2 then
+   
+   sender,fields = self.read_form()
+   if sender then -- form event
+      local pl = _G.minetest.get_player_by_name(pname);
+      if pl then
+         if fields.quit then -- button was pressed
+            local selected = 0;
+            -- what is the answer?
+            for k,_ in pairs(fields) do  if k~="quit" then selected = tonumber(k) break end  end
+            if selected&gt;0 then
+               if selected == correct then
+                  say("correct!")
+                  points=points+1
+                  --correct: do something with player
+               else
+                  say("incorrect!")
+                  -- incorrect: do something else with player
+               end
+               state = 1
+               question = question + 1
+            else
+               say("quiz aborted")
+               self.remove()
+               -- no question was selected in form?
+            end
+         end
+      end
+   end
+
+end</pre></div>
+<h2><span class="mw-headline" id="Service">Service</span></h2>
+<h3><span class="mw-headline" id="Char-table">Char-table</span></h3>
+<p>Make a table of all the keyboard-blocks, above the robot.
+</p>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre>-- Char-table, by Kurik
+local pos = self.pos()
+pos.y = pos.y + 5
+local p = {x=0,y=pos.y,z=0}
+local i = 1
+
+for z = -8,8 --[[ do ]] do
+  for x = -8,7 --[[ do ]] do
+    p.x = pos.x + x
+    p.z = pos.z + z
+    --local n = puzzle.get_node(p)
+    --if n.name == 'air' then puzzle.set_node(p,node) end
+  --i=0  -- air, for removing the table
+    keyboard.set(p,i)
+    i = i + 1
+  end
+end
+
+self.remove()</pre></div>
+<h4><span class="mw-headline" id="Char-table2">Char-table2</span></h4>
+<p>A variant of the above, can limit the output to selected ranges, 
+and set markers.
+</p>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre>-- Char-table - 2017-10-14+
+
+local pos = self.pos()
+pos.y = pos.y + 5
+local p = {x=0,y=pos.y,z=0}
+local i = 1
+
+for z = -8,8 --[[ do ]] do
+  for x = -8,7 --[[ do ]] do
+    p.x = pos.x + x
+    p.z = pos.z + z
+    keyboard.set(p,0) -- air
+
+    r=0
+    if i&lt;=  6            then r=1 end -- colors 
+    if i&gt;=  7 and i&lt;= 16 then r=2 end -- white numbers
+    if i&gt;= 65 and i&lt;= 74 then r=3 end -- black numbers
+    if i&gt;= 82 and i&lt;=107 then r=4 end -- uppercase chars
+    if i&gt;=114 and i&lt;=139 then r=5 end -- lowercase chars
+
+    if i==  17 then r=-1 end  -- set marker
+    if i== 272 then r=-2 end 
+
+    if r&gt;0 then keyboard.set(p,i) end  --&#160;!! adjust condition here&#160;!!
+    if r==-1 then keyboard.set(p,4) end  -- green
+    if r==-2 then keyboard.set(p,3) end  -- red marker
+
+    i = i + 1
+  end
+  --say(i)
+end
+
+self.remove()</pre></div>
+<p>For example, change "if r&gt;0" to "if r==1" to only show the colored keyboard-blocks.
+</p>
+<h3><span class="mw-headline" id="Door-Opener">Door-Opener</span></h3>
+<p>Place robot (with a keypad above it) next to a door,
+</p><p>Opens the locked doors inside a building owned by another player for guests,<br />
+eg. 'Hotels'.
+</p>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre>-- simple door-opener - 2017-11
+-- activated by keypad with password
+ 
+if not i then i=0 end
+ 
+i=i+1
+n=read_node.forward();  --say(i..n)
+n=string.sub(n,1,4)
+if n=="door" then activate.forward(1); i=9 end
+ 
+if i&gt;=4 then self.remove() end 
+turn.left()
+--turn.right()</pre></div>
+<p>The robot turns around until it finds a door,
+then activates it = opens/closes it.
+</p>
+<h3><span class="mw-headline" id="Teleporter">Teleporter</span></h3>
+<p>Move player to new location.<br />
+</p>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre>-- teleporter, by Kurik
+puzzle.get_player('hajo'):move_to({x=100,y=9,z=100})
+self.remove()</pre></div>
+<p>See also the mover from the mod basic_machines.
+</p>
+<h3><span class="mw-headline" id="Shop">Shop</span></h3>
+<p>For selling stuff - see <a href="/Mods/basic_robot#Simple_Shop" title="Mods/basic robot">Simple_Shop</a>.<br />
+It checks a chest above the robot for payment,<br />
+then exchanges the item(s) from the chest <br />
+for one (or more) item(s) from the robot's inventory. 
+</p><p>As this uses item-names, it cannot sell unique stuff,
+eg. keys or books-with-text.
+</p>
+<h4><span class="mw-headline" id="Shop2">Shop2</span></h4>
+<p>A variant of the above shop.<br />
+This shop offers to sell several different items, with their own prices,<br />
+selected by pressing the different keypads/buttons that are placed near the robot.
+</p>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre>if not pn then pn="Mike's Snack-Shop v0.6c";  -- 2017-03-29
+self.spam(1)
+pickup(3) --collect empty cups
+t=""
+steel1="default:steel_ingot"
+gold1 ="default:gold_ingot"; gold2 ="default:gold_ingot 2"
+
+n=read_node.down(); -- say(n)
+if n=="basic_robot:spawner" then
+  t=read_text.down()   -- text can be set with keypad 
+end
+
+slot=0
+-- row 1,2,3,4 --&gt; slot 1,9,17,25
+if t=="snack1"  then slot= 1;  price=gold1 end -- donut
+if t=="snack2"  then slot= 9;  price=gold2 end -- apple-donut
+if t=="drink1"  then slot=17;  price=gold1 end -- cold coffee
+if t=="drink2"  then slot=25;  price=gold2 end -- hot coffee
+if slot&lt;1 then say("config error:"..t) self.remove(); end
+
+item = check_inventory.self("","main",slot)
+if item=="" then 
+  say(pn.."\n".."out of stock: slot"..slot); self.remove(); 
+end
+--say(slot.."-&gt;"..item.."!")
+
+if not item then say("?") 
+else 
+  --say("&lt;"..item.."&gt;") 
+  cItem=1
+  p=string.find(item," ")  
+  if p then -- say("pos="..p)
+    cItem = string.sub(item,p+1)  --!! tools also have a wear-count
+  --say(p..":"..cItem)
+    item1 = string.sub(item,1,p-1) 
+ end
+
+ say(item.."--&gt; "..item1.." itemCount:"..cItem) --
+  msg=pn.."\n".."selling "..item1.." for "..price
+-- remove "default" and "farming"
+  msg = string.gsub(msg, "default:", "") 
+  msg = string.gsub(msg, "farming:", "")
+  say(msg)
+end
+
+m=check_inventory.up(price,inv)
+if m=="" then msg=msg.."\n no payment in chest&#160;!"
+  say(msg); self.remove(); 
+end
+
+  ok2 = check_inventory.up( price,"main") -- look at chest above robot
+  if not ok2 then
+    price = string.gsub(price, "default:", "") 
+    say("No payment in chest ("..price..")"); self.remove(); 
+ end
+
+--say("Selling "..m1.." for "..m2) 
+  take.up(price)
+  insert.up(item1)
+  say("Thanks for your purchase&#160;!");
+  take.up("farming:coffee_cup")  -- take back empty cups
+  self.remove()
+end
+--</pre></div>
+<p>This shop sells snacks: cold and hot coffee, and two kinds of food.<br />
+Each row of the robot's inventory is used to store one of the different kinds of goods.<br />
+( but 1-2 spots somewhere need to be empty for the payments&#160;:)
+</p><p>By specifying the goods to sell by slotnumber, this robot can also sell unique items,<br />
+such as keys set to open specific doors, or books with different texts.
+</p><p><b>Setup:</b>
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<td>Keypad1</td>
+<td>_</td>
+<td>Keypad3
+</td></tr>
+<tr>
+<td>Keypad2</td>
+<td>Chest</td>
+<td>Keypad4
+</td></tr>
+<tr>
+<td>Sign</td>
+<td>_</td>
+<td>Sign with prices
+</td></tr>
+<tr>
+<td>(Floor)</td>
+<td>Spawner</td>
+<td>(Floor)
+</td></tr></tbody></table>
+<p>Each keypad has to be set to point at the spawner, and write a unique text onto it, eg. "snack1".<br />
+The robot reads that text to determine which good to sell.
+</p>
+<h4><span class="mw-headline" id="Admin-Shop">Admin-Shop</span></h4>
+<p>Remote-shop by rnd, from the server ROBOTS-SKYBLOCK.
+</p><p>It supplements the regular admin-shop of about 50 shops at spawn. <br />
+If the shop-bot is running, it can be contacted via chat-command "#shop".<br />
+It shows a list of items and prices, and directly accesses the players inventory<br />
+for payment and delivery.
+</p>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre>if not s then
+	s=0;item = 1; price =""; buyer = ""
+	_G.minetest.forceload_block(self.pos(),true)
+	_G.basic_robot.data[self.name()].obj:set_properties({nametag = ""})
+	self.listen(1);self.spam(1)
+	shoplist = {};
+	--scan shops:
+	pos = self.pos(); pos.y=pos.y-5; pos.x=pos.x-6
+	pos1 = {x=pos.x-8,y=pos.y-2,z=pos.z-8};pos2 = {x=pos.x+8,y=pos.y+2,z=pos.z+8};
+	local shoppos = _G.minetest.find_nodes_in_area(pos1, pos2, "shop:shop");
+	--say("scanning... i found " .. #shoppos .. " shops ");
+	count = 0
+	for _,p in pairs(shoppos) do
+		local inv = _G.minetest.get_meta(p):get_inventory()
+		local s = inv:get_list("sell");local b = inv:get_list("buy")
+		local k = s[1]:to_string();
+		local v = b[1]:to_string();
+		if (k and k~="") and (v and v~="") then count = count +1 shoplist[count] = {k,v}  end
+	end
+	
+	local f_sort = function(a,b) return a[1]&lt;b[1] end; 
+	table.sort(shoplist,f_sort)
+ 
+	itemlist = ""; count = 0;
+	shopinventory = {};
+	for k,v in pairs(shoplist) do
+		if v[1] then
+			count = count +1
+			itemlist = itemlist .. string.format("%-5s%-40s%-32s",k,v[1],v[2]) .. ","
+		end
+	end
+	t = 0; ct = 0;	ci = 0
+	say("scanning shops ... completed. Added " .. count .. " items for sale ");
+	
+	player1="";player2 ="";
+end
+ 
+ct=ct+1
+if ct%5 == 0 then
+	ct=0
+	ctext = "say #shop to buy";
+	if ci&gt;0 and ci&lt;=count then
+		if shoplist[ci] then
+			iname = shoplist[ci][1];local p=string.find(iname,":");	if p then iname = string.sub(iname,p+1) end
+			sname = shoplist[ci][2];p=string.find(sname,":");	if p then sname = string.sub(sname,p+1) end
+			ctext = "#SHOP ".. ci .."\n" ..iname .. "\nPRICE\n" .. sname
+		end
+		ci=ci+1
+	elseif ci == count+1 then ci=0
+	elseif ci == 0 then ci=1
+	end
+	
+	text = "SHOP ROBOT"..os.date("%x") .."  " .. os.date("%H:%M:%S").. "\n\n"..ctext
+	self.display_text(text,10,3);
+end
+ 
+speaker,msg = self.listen_msg()
+if msg then
+	if s == 0 then
+		if string.sub(msg,1,5)=="#shop" then
+			if msg == "#shop" then
+				--say("say #shop command, where command is list OR armor OR item number. Example: #shop list or #shop 1")
+				
+				local list = "1,2,3";
+				local form = "size[8,8.5]" ..
+				"label[0.,0.5;ID]"..
+				"label[0.4,0.5;BUY]"..
+				"label[3.,0.5;SELL]" ..
+				"field[7.2,0.25;1.,1;count;count;".. 1 .."]"..
+				"button[5.,-0.05;2.,1;ARMOR;ARMOR]"..
+				"textlist[0,1;7.75,7.5;list;" .. itemlist .. "]";
+				self.show_form(speaker,form)
+			end
+		elseif string.sub(msg,1,3) == "#tp" then
+			local tname = string.sub(msg,5);
+			player1 = speaker; player2 = tname; s = 1
+			_G.minetest.chat_send_player(player2,"#SHOP: say tp to allow teleport of " .. player1)
+		end
+	elseif s == 1 then -- tp
+		s=0; 
+		if string.sub(msg,1,2)=="tp" and speaker == player2 then 
+			local player = _G.minetest.get_player_by_name(player1);
+			local tplayer = _G.minetest.get_player_by_name(player2);
+			if player and tplayer then
+				local p1 = player:getpos(); local p2 = tplayer:getpos();
+				local price = math.floor(math.sqrt((p1.x-p2.x)^2+(p1.y-p2.y)^2+(p1.z-p2.z)^2)/100)+1;
+				local inv = player:get_inventory(); 
+				local stack = _G.ItemStack("default:gold_ingot " .. price);
+				if price&gt;0 and inv:contains_item("main",stack) then
+					player:setpos(tplayer:getpos()); inv:remove_item("main",stack)
+				elseif price&gt;0 then
+					_G.minetest.chat_send_player(player1,"You need " .. price .. " gold to teleport ")
+				end
+			end
+		else 
+			say("tp aborted.")
+		end
+		
+	end
+end
+ 
+sender,fields = self.read_form()
+if sender then
+	local sel = fields.list; --"CHG:3"
+	--say( string.gsub(_G.dump(fields),"\n",""))
+	if sel and string.sub(sel,1,3) == "DCL" then
+		local quantity = tonumber(fields.count) or 1;
+		local select = tonumber(string.sub(sel,5) or "") or 1;
+		local item, price
+		
+		if shoplist[select] then
+			item,price = shoplist[select][1],shoplist[select][2];
+		end
+		
+		local player = _G.minetest.get_player_by_name(sender);
+		if player and item and price then
+			
+			local inv = player:get_inventory();
+			if quantity &gt; 99 then quantity = 99 end
+			if quantity &gt; 1 then
+				local k = 1;
+				local i = string.find(price," ");
+				if i then 
+					k = tonumber(string.sub(price,i+1)) or 1 
+					price = string.sub(price,1,i-1).. " " .. k*quantity
+				else 
+					price = price.. " " .. quantity
+				end
+				
+				k=1;i = string.find(item," ");
+				if i then 
+					k = tonumber(string.sub(item,i+1)) or 1 
+					item = string.sub(item,1,i-1).. " " .. k*quantity
+				else
+					item = item .. " " .. quantity
+				end
+			end
+			
+			if inv:contains_item("main", price ) then 
+				inv:remove_item("main",price)
+				inv:add_item("main",item)
+				_G.minetest.chat_send_player(sender,"#SHOP ROBOT: " .. item .. " sold to " .. sender .. " for " .. price)
+			else 
+				_G.minetest.chat_send_player(sender,"#SHOP ROBOT: you dont have " .. price .. " in inventory ")
+			end
+		end
+	elseif fields.ARMOR then
+		local player = _G.minetest.get_player_by_name(sender);
+		if player then
+			local inv = player:get_inventory();
+			if inv:contains_item("main",_G.ItemStack("default:diamond 30")) then
+				player:set_armor_groups({fleshy = 50})
+				_G.minetest.chat_send_player(sender,"#SHOP ROBOT: you bought 50% damage reduction.")
+			else
+				_G.minetest.chat_send_player(sender,"#SHOP ROBOT: you need 30 diamonds to get armor effect")
+			end
+		end
+	end
+end</pre></div>
+<p>The robot sits under the roof above the admin-shop, <br />
+and scans the shops below to get the list of goods and prices.
+</p><p>The armor-item is special, the server has no mod for armor / 3d-armor.<br />
+But if a player has 30 diamonds, the shop can give him a 50% damage-reduction.
+</p><p><br />
+</p>
+<h3><span class="mw-headline" id="Replicator">Replicator</span></h3>
+<p>Make copies of a block from the chest above the robot.<br />
+</p>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre>-- Replicator -  single, solid, placeable blocks only&#160;!     
+-- No stone, desert-stone, basalt, slate, gneis, ORS. or cobble&#160;!
+
+-- Also, no doors, or protectors ...
+-- but trapdoors work
+
+if not pn then pn="Replicator v1b";  --say(pn)  --hajo, 2017-11-11
+  m="default:glass"
+  i=0
+  max=4
+  it=check_inventory.up("","main",1); --  say(it)
+  if it=="" then
+    say(pn.." running on robot version="..robot_version() )
+    self.remove()
+  end
+  if it=="default:stone" then
+    say("Cannot process stone&#160;!" )
+    take.up(it)
+    self.remove()
+  end
+
+  m=it
+--
+  p=string.find(m," ")
+  if p then 
+    say("Need single item as master&#160;!" )
+    self.remove()
+--  m=string.sub(m,1,p-1)
+  end
+  
+  say(pn.." working on "..m.."...")
+
+  turn.right()
+  move.forward()
+  p0=self.pos()
+  self.reset()
+  turn.right()
+end
+
+  ok=puzzle.set_node(p0,{name = m})  -- needs puzzle-priv&#160;!
+--todo (there is no returncode yet):
+--if ok==nil then  say("+")  else  say("Error&#160;!"); self.remove()  end
+
+  dig.forward()
+  craft("default:clay")  -- when dug, they crumble to lumps
+  craft("darkage:silt") 
+  i=i+1
+  self.label(i)
+  insert.up(m)
+
+  if i&gt;=max then
+    say(pn .. " done.")
+    self.remove()
+  end
+--</pre></div>
+<p>To keep the game balanced, it only makes 4 copies on each activation.<br />
+It uses digging, so only placeable blocks can be copied (eg. gold-blocks, but no ingots). 
+</p><p>That means, players still have to do some work 
+before they can benefit from this machine.
+</p>
+<h3><span class="mw-headline" id="Outfitter">Outfitter</span></h3>
+<p>Give several items, much like give-initial-stuff.<br />
+</p>
+<div class="mw-highlight mw-highlight-lang-lua mw-content-ltr" dir="ltr"><pre>-- 2017-11-11+
+if not pn then pn="Outfittery"; --  say(pn)
+  i=0
+  n="hajo"; --  i=31
+  p = find_player(2); --say(serialize(p))
+  if p then n=p[1] end
+
+  inv = puzzle.get_player_inv(n)  --  say(serialize(inv))
+  if inv then say("Hello "..n)
+  else         say("Error"); self.remove() end 
+  if n=="hajo" then i=31 end
+end
+
+i=i+1
+--
+  m=check_inventory.self("","main",i);
+  say(i.." ="..m)
+  local itm = puzzle.ItemStack(m)
+  ok = inv:add_item('main', itm)
+--say(i.." ="..m.." &gt; "..serialize(ok))  -- userdata
+--
+if i&gt;=9 then say("YW!"); self.remove() end</pre></div>
+<p>This outfits a player:<br />
+the first 9 items from the robot's inventory are copied to the player's inventory.
+</p><p>Special handling for player 'hajo'; he gets the item from slot 32 instead.
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20230709183004
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.134 seconds
+Real time usage: 0.280 seconds
+Preprocessor visited node count: 145/1000000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 18352/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    0.000      1 -total
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:3774-0!canonical and timestamp 20230709183003 and revision id 26282
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Mods/basic_robot/Programs&amp;oldid=26282">http://wiki.minetest.net/index.php?title=Mods/basic_robot/Programs&amp;oldid=26282</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/index.php?title=Category:Pages_with_ignored_display_titles&amp;action=edit&amp;redlink=1" class="new" title="Category:Pages with ignored display titles (page does not exist)">Pages with ignored display titles</a></li><li><a href="/index.php?title=Category:Pages_using_deprecated_source_tags&amp;action=edit&amp;redlink=1" class="new" title="Category:Pages using deprecated source tags (page does not exist)">Pages using deprecated source tags</a></li><li><a href="/index.php?title=Category:Pages_with_syntax_highlighting_errors&amp;action=edit&amp;redlink=1" class="new" title="Category:Pages with syntax highlighting errors (page does not exist)">Pages with syntax highlighting errors</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Mods%2Fbasic+robot%2FPrograms" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Mods/basic_robot/Programs" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Mods/basic_robot/Programs&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Mods/basic_robot/Programs">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Mods/basic_robot/Programs&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Mods/basic_robot/Programs&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Mods/basic_robot/Programs" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Mods/basic_robot/Programs" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Mods/basic_robot/Programs&amp;oldid=26282" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Mods/basic_robot/Programs&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 18 April 2021, at 05:27.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.134","walltime":"0.280","ppvisitednodes":{"value":145,"limit":1000000},"postexpandincludesize":{"value":0,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":18352,"limit":5000000},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20230709183004","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":616});});</script></body></html>

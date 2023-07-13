@@ -1,0 +1,1184 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Games/Minetest Game/Nodes/de - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"860c8ea9405e2392fa76d8b1","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Games/Minetest_Game/Nodes/de","wgTitle":"Games/Minetest Game/Nodes/de","wgCurRevisionId":25924,"wgRevisionId":25924,"wgArticleId":1455,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Deutsch"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Games/Minetest_Game/Nodes/de","wgRelevantArticleId":1455,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":
+"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Games_Minetest_Game_Nodes_de rootpage-Games skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Games/Minetest Game/Nodes/de</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/Games" title="Games">Games</a>&lrm; | <a href="/Games/Minetest_Game" title="Games/Minetest Game">Minetest Game</a>&lrm; | <a href="/Games/Minetest_Game/Nodes" title="Games/Minetest Game/Nodes">Nodes</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> Sprache:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><a href="/Games/Minetest_Game/Nodes" title="Games/Minetest Game/Nodes">English</a><b>&#160;• <bdi lang="de"><a class="mw-selflink selflink">Deutsch</a></bdi></b>&#160;• <bdi lang="fr"><a href="/Games/Minetest_Game/Nodes/fr" class="mw-redirect" title="Games/Minetest Game/Nodes/fr">français</a></bdi>&#160;• <bdi lang="ja"><a href="/Games/Minetest_Game/Nodes/ja" title="Games/Minetest Game/Nodes/ja">日本語</a></bdi>&#160;• <bdi lang="ms"><a href="/Games/Minetest_Game/Nodes/ms" title="Games/Minetest Game/Nodes/ms">Bahasa Melayu</a></bdi></td>
+</tr></tbody></table>
+<h1><span id="Blöcke"></span><span class="mw-headline" id="Bl.C3.B6cke"><b>Blöcke</b></span></h1>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Bl.C3.B6cke"><span class="tocnumber">1</span> <span class="toctext"><b>Blöcke</b></span></a>
+<ul>
+<li class="toclevel-2"><a href="#Nat.C3.BCrliche_Bl.C3.B6cke"><span class="tocnumber">1.1</span> <span class="toctext">Natürliche Blöcke</span></a>
+<ul>
+<li class="toclevel-3"><a href="#Gase"><span class="tocnumber">1.1.1</span> <span class="toctext">Gase</span></a></li>
+<li class="toclevel-3"><a href="#Fl.C3.BCssigkeiten"><span class="tocnumber">1.1.2</span> <span class="toctext">Flüssigkeiten</span></a></li>
+<li class="toclevel-3"><a href="#Erde.2C_etc."><span class="tocnumber">1.1.3</span> <span class="toctext">Erde, etc.</span></a></li>
+<li class="toclevel-3"><a href="#Stein"><span class="tocnumber">1.1.4</span> <span class="toctext">Stein</span></a></li>
+<li class="toclevel-3"><a href="#Erze_und_Mineralien"><span class="tocnumber">1.1.5</span> <span class="toctext">Erze und Mineralien</span></a></li>
+<li class="toclevel-3"><a href="#Kerker"><span class="tocnumber">1.1.6</span> <span class="toctext">Kerker</span></a></li>
+<li class="toclevel-3"><a href="#Pflanzen_und_Pilze"><span class="tocnumber">1.1.7</span> <span class="toctext">Pflanzen und Pilze</span></a></li>
+<li class="toclevel-3"><a href="#B.C3.A4ume"><span class="tocnumber">1.1.8</span> <span class="toctext">Bäume</span></a></li>
+<li class="toclevel-3"><a href="#Hintergrundfarbschl.C3.BCssel"><span class="tocnumber">1.1.9</span> <span class="toctext">Hintergrundfarbschlüssel</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2"><a href="#Hergestellte_Bl.C3.B6cke"><span class="tocnumber">1.2</span> <span class="toctext">Hergestellte Blöcke</span></a>
+<ul>
+<li class="toclevel-3"><a href="#Grundbl.C3.B6cke"><span class="tocnumber">1.2.1</span> <span class="toctext">Grundblöcke</span></a></li>
+<li class="toclevel-3"><a href="#Absperrungen"><span class="tocnumber">1.2.2</span> <span class="toctext">Absperrungen</span></a></li>
+<li class="toclevel-3"><a href="#Licht"><span class="tocnumber">1.2.3</span> <span class="toctext">Licht</span></a></li>
+<li class="toclevel-3"><a href="#Transport"><span class="tocnumber">1.2.4</span> <span class="toctext">Transport</span></a></li>
+<li class="toclevel-3"><a href="#Beh.C3.A4lter"><span class="tocnumber">1.2.5</span> <span class="toctext">Behälter</span></a></li>
+<li class="toclevel-3"><a href="#Gebrauchsgegenst.C3.A4nde"><span class="tocnumber">1.2.6</span> <span class="toctext">Gebrauchsgegenstände</span></a></li>
+<li class="toclevel-3"><a href="#Dekoration"><span class="tocnumber">1.2.7</span> <span class="toctext">Dekoration</span></a></li>
+<li class="toclevel-3"><a href="#Platten_und_Treppen"><span class="tocnumber">1.2.8</span> <span class="toctext">Platten und Treppen</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2"><a href="#Gewachsene_Bl.C3.B6cke"><span class="tocnumber">1.3</span> <span class="toctext">Gewachsene Blöcke</span></a></li>
+<li class="toclevel-2 tocsection-2"><a href="#Bl.C3.B6cke_aus_Spezialevents"><span class="tocnumber">1.4</span> <span class="toctext">Blöcke aus Spezialevents</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Nicht_verwendete_Bl.C3.B6cke"><span class="tocnumber">1.5</span> <span class="toctext">Nicht verwendete Blöcke</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Intern_benutzte_Bl.C3.B6cke"><span class="tocnumber">1.6</span> <span class="toctext">Intern benutzte Blöcke</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Bl.C3.B6cke_in_zuk.C3.BCnftigen_Versionen"><span class="tocnumber">1.7</span> <span class="toctext">Blöcke in zukünftigen Versionen</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Entfernte_Bl.C3.B6cke"><span class="tocnumber">1.8</span> <span class="toctext">Entfernte Blöcke</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Siehe_auch"><span class="tocnumber">1.9</span> <span class="toctext">Siehe auch</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<p><b>Blöcke</b> sind die grundlegenden Bausteine von <a href="/Minetest" title="Minetest">Minetest</a>. Sie bestehen aus Texturen von 16x16 Pixeln und repräsentieren einen Kubikmeter aus Sicht des Spielers. Blöcke werden auch <i>Nodes</i> genannt (wird relevant beim  <a href="/Mods" title="Mods">Modifizieren</a>).
+</p>
+<h2><span id="Natürliche_Blöcke"></span><span class="mw-headline" id="Nat.C3.BCrliche_Bl.C3.B6cke">Natürliche Blöcke</span></h2>
+<p>Dies sind die Grundblöcke, welche auf "natürlichem" Wege in einer generierten Welt vorkommen. <i>Treppen</i> sind davon ausgenommen, generierte Treppen finden Sie <a href="/Stair/de" title="Stair/de">hier</a>.
+</p><p><br />
+</p>
+<h3><span class="mw-headline" id="Gase">Gase</span></h3>
+<table class="wikitable">
+<tbody><tr>
+<td bgcolor="#FFFFEC"><a href="/File:Air.png" class="image"><img alt="Air.png" src="/images/thumb/5/5f/Air.png/32px-Air.png" decoding="async" width="32" height="32" srcset="/images/thumb/5/5f/Air.png/48px-Air.png 1.5x, /images/thumb/5/5f/Air.png/64px-Air.png 2x" /></a></td>
+<td bgcolor="#FFFFEC" width="150px"><a href="/Air/de" title="Air/de">Luft</a>
+</td></tr></tbody></table>
+<h3><span id="Flüssigkeiten"></span><span class="mw-headline" id="Fl.C3.BCssigkeiten">Flüssigkeiten</span></h3>
+<table class="wikitable">
+<tbody><tr>
+<td><a href="/File:Water.png" class="image"><img alt="Water.png" src="/images/thumb/9/9d/Water.png/32px-Water.png" decoding="async" width="32" height="32" srcset="/images/thumb/9/9d/Water.png/48px-Water.png 1.5x, /images/thumb/9/9d/Water.png/64px-Water.png 2x" /></a></td>
+<td width="150px"><a href="/Water/de" title="Water/de">Wasser</a>
+</td>
+<td bgcolor="#ECECFF"><a href="/File:River_Water.png" class="image"><img alt="River Water.png" src="/images/thumb/b/b2/River_Water.png/32px-River_Water.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/b2/River_Water.png/48px-River_Water.png 1.5x, /images/thumb/b/b2/River_Water.png/64px-River_Water.png 2x" /></a></td>
+<td width="150px" bgcolor="#ECECFF"><a href="/River_Water/de" title="River Water/de">Flusswasser</a>
+</td>
+<td><a href="/File:Lava.png" class="image"><img alt="Lava.png" src="/images/thumb/2/27/Lava.png/32px-Lava.png" decoding="async" width="32" height="32" srcset="/images/thumb/2/27/Lava.png/48px-Lava.png 1.5x, /images/thumb/2/27/Lava.png/64px-Lava.png 2x" /></a></td>
+<td><a href="/Lava/de" title="Lava/de">Lava</a>
+</td></tr></tbody></table>
+<h3><span id="Erde,_etc."></span><span class="mw-headline" id="Erde.2C_etc.">Erde, etc.</span></h3>
+<table class="wikitable">
+<tbody><tr>
+<td><a href="/File:Dirt.png" class="image"><img alt="Dirt.png" src="/images/thumb/2/2f/Dirt.png/32px-Dirt.png" decoding="async" width="32" height="32" srcset="/images/thumb/2/2f/Dirt.png/48px-Dirt.png 1.5x, /images/thumb/2/2f/Dirt.png/64px-Dirt.png 2x" /></a></td>
+<td><a href="/Dirt/de" title="Dirt/de">Erde</a>
+</td>
+<td><a href="/File:Dirt_with_Grass.png" class="image"><img alt="Dirt with Grass.png" src="/images/thumb/a/a1/Dirt_with_Grass.png/32px-Dirt_with_Grass.png" decoding="async" width="32" height="32" srcset="/images/thumb/a/a1/Dirt_with_Grass.png/48px-Dirt_with_Grass.png 1.5x, /images/thumb/a/a1/Dirt_with_Grass.png/64px-Dirt_with_Grass.png 2x" /></a></td>
+<td width="150px"><a href="/Dirt_with_Grass/de" title="Dirt with Grass/de">Erde mit Gras</a>
+</td>
+<td><a href="/File:Dirt_with_Snow.png" class="image"><img alt="Dirt with Snow.png" src="/images/thumb/9/9f/Dirt_with_Snow.png/32px-Dirt_with_Snow.png" decoding="async" width="32" height="32" srcset="/images/thumb/9/9f/Dirt_with_Snow.png/48px-Dirt_with_Snow.png 1.5x, /images/thumb/9/9f/Dirt_with_Snow.png/64px-Dirt_with_Snow.png 2x" /></a></td>
+<td width="150px"><a href="/Dirt_with_Snow/de" title="Dirt with Snow/de">Erde mit Schnee</a>
+</td>
+<td bgcolor="#ECECEC"><a href="/File:Dirt_with_Dry_Grass.png" class="image"><img alt="Dirt with Dry Grass.png" src="/images/thumb/c/c5/Dirt_with_Dry_Grass.png/32px-Dirt_with_Dry_Grass.png" decoding="async" width="32" height="32" srcset="/images/thumb/c/c5/Dirt_with_Dry_Grass.png/48px-Dirt_with_Dry_Grass.png 1.5x, /images/thumb/c/c5/Dirt_with_Dry_Grass.png/64px-Dirt_with_Dry_Grass.png 2x" /></a></td>
+<td bgcolor="#ECECEC" width="150px"><a href="/Dirt_with_Dry_Grass/de" class="mw-redirect" title="Dirt with Dry Grass/de">Erde mit vertrocknetem Gras</a>
+</td>
+<td bgcolor="#ECECEC"><a href="/File:Dirt_with_Rainforest_Litter.png" class="image"><img alt="Dirt with Rainforest Litter.png" src="/images/thumb/5/54/Dirt_with_Rainforest_Litter.png/32px-Dirt_with_Rainforest_Litter.png" decoding="async" width="32" height="32" srcset="/images/thumb/5/54/Dirt_with_Rainforest_Litter.png/48px-Dirt_with_Rainforest_Litter.png 1.5x, /images/thumb/5/54/Dirt_with_Rainforest_Litter.png/64px-Dirt_with_Rainforest_Litter.png 2x" /></a></td>
+<td bgcolor="#ECECEC" width="150px"><a href="/Dirt_with_Rainforest_Litter/de" title="Dirt with Rainforest Litter/de">Erde mit Tropenlaub</a>
+</td></tr>
+<tr>
+<td><a href="/File:Clay.png" class="image"><img alt="Clay.png" src="/images/thumb/a/a2/Clay.png/32px-Clay.png" decoding="async" width="32" height="32" srcset="/images/thumb/a/a2/Clay.png/48px-Clay.png 1.5x, /images/thumb/a/a2/Clay.png/64px-Clay.png 2x" /></a></td>
+<td width="150px"><a href="/Clay/de" title="Clay/de">Lehm</a>
+</td></tr>
+<tr>
+<td><a href="/File:Sand.png" class="image"><img alt="Sand.png" src="/images/thumb/a/a7/Sand.png/32px-Sand.png" decoding="async" width="32" height="32" srcset="/images/thumb/a/a7/Sand.png/48px-Sand.png 1.5x, /images/thumb/a/a7/Sand.png/64px-Sand.png 2x" /></a></td>
+<td width="150px"><a href="/Sand/de" title="Sand/de">Sand</a>
+</td>
+<td><a href="/File:Desert_Sand.png" class="image"><img alt="Desert Sand.png" src="/images/thumb/f/f5/Desert_Sand.png/32px-Desert_Sand.png" decoding="async" width="32" height="32" srcset="/images/thumb/f/f5/Desert_Sand.png/48px-Desert_Sand.png 1.5x, /images/thumb/f/f5/Desert_Sand.png/64px-Desert_Sand.png 2x" /></a></td>
+<td width="150px"><a href="/Desert_Sand/de" title="Desert Sand/de">Wüstensand</a>
+</td>
+<td><a href="/File:Silver_Sand.png" class="image"><img alt="Silver Sand.png" src="/images/thumb/6/68/Silver_Sand.png/32px-Silver_Sand.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/68/Silver_Sand.png/48px-Silver_Sand.png 1.5x, /images/thumb/6/68/Silver_Sand.png/64px-Silver_Sand.png 2x" /></a></td>
+<td width="150px"><a href="/Silver_Sand/de" title="Silver Sand/de">Silbersand</a>
+</td>
+<td><a href="/File:Gravel.png" class="image"><img alt="Gravel.png" src="/images/thumb/9/9a/Gravel.png/32px-Gravel.png" decoding="async" width="32" height="32" srcset="/images/thumb/9/9a/Gravel.png/48px-Gravel.png 1.5x, /images/thumb/9/9a/Gravel.png/64px-Gravel.png 2x" /></a></td>
+<td><a href="/Gravel/de" title="Gravel/de">Kies</a>
+</td></tr>
+<tr>
+<td><a href="/File:Snow.png" class="image"><img alt="Snow.png" src="/images/thumb/4/4e/Snow.png/32px-Snow.png" decoding="async" width="32" height="32" srcset="/images/thumb/4/4e/Snow.png/48px-Snow.png 1.5x, /images/thumb/4/4e/Snow.png/64px-Snow.png 2x" /></a></td>
+<td width="150px"><a href="/Snow/de" title="Snow/de">Schnee</a>
+</td>
+<td><a href="/File:Snow_Block.png" class="image"><img alt="Snow Block.png" src="/images/thumb/f/fa/Snow_Block.png/32px-Snow_Block.png" decoding="async" width="32" height="32" srcset="/images/thumb/f/fa/Snow_Block.png/48px-Snow_Block.png 1.5x, /images/thumb/f/fa/Snow_Block.png/64px-Snow_Block.png 2x" /></a></td>
+<td width="150px"><a href="/Snow_Block/de" title="Snow Block/de">Schneeblock</a>
+</td>
+<td><a href="/File:Ice.png" class="image"><img alt="Ice.png" src="/images/thumb/7/77/Ice.png/32px-Ice.png" decoding="async" width="32" height="32" srcset="/images/thumb/7/77/Ice.png/48px-Ice.png 1.5x, /images/thumb/7/77/Ice.png/64px-Ice.png 2x" /></a></td>
+<td width="150px"><a href="/Ice/de" title="Ice/de">Eis</a>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Stein">Stein</span></h3>
+<table class="wikitable">
+<tbody><tr>
+<td><a href="/File:Stone.png" class="image"><img alt="Stone.png" src="/images/thumb/d/d4/Stone.png/32px-Stone.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/d4/Stone.png/48px-Stone.png 1.5x, /images/thumb/d/d4/Stone.png/64px-Stone.png 2x" /></a></td>
+<td width="150px"><a href="/Stone/de" title="Stone/de">Stein</a>
+</td>
+<td><a href="/File:Desert_Stone.png" class="image"><img alt="Desert Stone.png" src="/images/thumb/d/da/Desert_Stone.png/32px-Desert_Stone.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/da/Desert_Stone.png/48px-Desert_Stone.png 1.5x, /images/thumb/d/da/Desert_Stone.png/64px-Desert_Stone.png 2x" /></a></td>
+<td><a href="/Desert_Stone/de" title="Desert Stone/de">Wüstenstein</a>
+</td>
+<td bgcolor="#ECECEC"><a href="/File:Sandstone.png" class="image"><img alt="Sandstone.png" src="/images/thumb/d/d6/Sandstone.png/32px-Sandstone.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/d6/Sandstone.png/48px-Sandstone.png 1.5x, /images/thumb/d/d6/Sandstone.png/64px-Sandstone.png 2x" /></a></td>
+<td bgcolor="#ECECEC"><a href="/Sandstone/de" title="Sandstone/de">Sandstein</a>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Erze_und_Mineralien">Erze und Mineralien</span></h3>
+<table class="wikitable">
+<tbody><tr>
+<td><a href="/File:Coal_Ore.png" class="image"><img alt="Coal Ore.png" src="/images/thumb/f/fe/Coal_Ore.png/32px-Coal_Ore.png" decoding="async" width="32" height="32" srcset="/images/thumb/f/fe/Coal_Ore.png/48px-Coal_Ore.png 1.5x, /images/thumb/f/fe/Coal_Ore.png/64px-Coal_Ore.png 2x" /></a></td>
+<td width="150px"><a href="/Coal_Ore/de" title="Coal Ore/de">Kohleflöz</a>
+</td>
+<td><a href="/File:Iron_Ore.png" class="image"><img alt="Iron Ore.png" src="/images/thumb/8/87/Iron_Ore.png/32px-Iron_Ore.png" decoding="async" width="32" height="32" srcset="/images/thumb/8/87/Iron_Ore.png/48px-Iron_Ore.png 1.5x, /images/thumb/8/87/Iron_Ore.png/64px-Iron_Ore.png 2x" /></a></td>
+<td><a href="/Iron_Ore/de" title="Iron Ore/de">Eisenerz</a>
+</td>
+<td><a href="/File:Copper_Ore.png" class="image"><img alt="Copper Ore.png" src="/images/thumb/7/78/Copper_Ore.png/32px-Copper_Ore.png" decoding="async" width="32" height="32" srcset="/images/thumb/7/78/Copper_Ore.png/48px-Copper_Ore.png 1.5x, /images/thumb/7/78/Copper_Ore.png/64px-Copper_Ore.png 2x" /></a></td>
+<td width="150px"><a href="/Copper_Ore/de" title="Copper Ore/de">Kupfererz</a>
+</td>
+<td><a href="/File:Tin_Ore.png" class="image"><img alt="Tin Ore.png" src="/images/thumb/c/c4/Tin_Ore.png/32px-Tin_Ore.png" decoding="async" width="32" height="32" srcset="/images/thumb/c/c4/Tin_Ore.png/48px-Tin_Ore.png 1.5x, /images/thumb/c/c4/Tin_Ore.png/64px-Tin_Ore.png 2x" /></a></td>
+<td width="150px"><a href="/Tin_Ore/de" title="Tin Ore/de">Zinnerz</a>
+</td>
+<td><a href="/File:Gold_Ore.png" class="image"><img alt="Gold Ore.png" src="/images/thumb/f/f7/Gold_Ore.png/32px-Gold_Ore.png" decoding="async" width="32" height="32" srcset="/images/thumb/f/f7/Gold_Ore.png/48px-Gold_Ore.png 1.5x, /images/thumb/f/f7/Gold_Ore.png/64px-Gold_Ore.png 2x" /></a></td>
+<td><a href="/Gold_Ore/de" title="Gold Ore/de">Golderz</a>
+</td></tr>
+<tr>
+<td><a href="/File:Mese_Ore.png" class="image"><img alt="Mese Ore.png" src="/images/thumb/9/90/Mese_Ore.png/32px-Mese_Ore.png" decoding="async" width="32" height="32" srcset="/images/thumb/9/90/Mese_Ore.png/48px-Mese_Ore.png 1.5x, /images/thumb/9/90/Mese_Ore.png/64px-Mese_Ore.png 2x" /></a></td>
+<td><a href="/Mese_Ore/de" title="Mese Ore/de">Mese-Erz</a>
+</td>
+<td><a href="/File:Diamond_Ore.png" class="image"><img alt="Diamond Ore.png" src="/images/thumb/9/97/Diamond_Ore.png/32px-Diamond_Ore.png" decoding="async" width="32" height="32" srcset="/images/thumb/9/97/Diamond_Ore.png/48px-Diamond_Ore.png 1.5x, /images/thumb/9/97/Diamond_Ore.png/64px-Diamond_Ore.png 2x" /></a></td>
+<td><a href="/index.php?title=Diamond_Ore/de&amp;action=edit&amp;redlink=1" class="new" title="Diamond Ore/de (page does not exist)">Stein mit Rohdiamanten</a>
+</td>
+<td><a href="/File:Mese_Block.png" class="image"><img alt="Mese Block.png" src="/images/thumb/8/88/Mese_Block.png/32px-Mese_Block.png" decoding="async" width="32" height="32" srcset="/images/thumb/8/88/Mese_Block.png/48px-Mese_Block.png 1.5x, /images/thumb/8/88/Mese_Block.png/64px-Mese_Block.png 2x" /></a></td>
+<td><a href="/Mese_Block/de" title="Mese Block/de">Mese-Block</a>
+</td></tr></tbody></table>
+<p>Siehe auch: <a href="/Ores/de" title="Ores/de">Erze</a>
+</p>
+<h3><span class="mw-headline" id="Kerker">Kerker</span></h3>
+<table class="wikitable">
+<tbody><tr>
+<td><a href="/File:Cobblestone.png" class="image"><img alt="Cobblestone.png" src="/images/thumb/6/67/Cobblestone.png/32px-Cobblestone.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/67/Cobblestone.png/48px-Cobblestone.png 1.5x, /images/thumb/6/67/Cobblestone.png/64px-Cobblestone.png 2x" /></a></td>
+<td width="150px"><a href="/Cobblestone/de" title="Cobblestone/de">Pflasterstein</a>
+</td>
+<td><a href="/File:Mossy_Cobblestone.png" class="image"><img alt="Mossy Cobblestone.png" src="/images/thumb/a/af/Mossy_Cobblestone.png/32px-Mossy_Cobblestone.png" decoding="async" width="32" height="32" srcset="/images/thumb/a/af/Mossy_Cobblestone.png/48px-Mossy_Cobblestone.png 1.5x, /images/thumb/a/af/Mossy_Cobblestone.png/64px-Mossy_Cobblestone.png 2x" /></a></td>
+<td><a href="/Mossy_Cobblestone/de" title="Mossy Cobblestone/de">Moosbewachsener Pflasterstein</a>
+</td>
+<td bgcolor="#ECECEC"><a href="/File:Sandstone_Brick.png" class="image"><img alt="Sandstone Brick.png" src="/images/thumb/f/f6/Sandstone_Brick.png/32px-Sandstone_Brick.png" decoding="async" width="32" height="32" srcset="/images/thumb/f/f6/Sandstone_Brick.png/48px-Sandstone_Brick.png 1.5x, /images/thumb/f/f6/Sandstone_Brick.png/64px-Sandstone_Brick.png 2x" /></a></td>
+<td bgcolor="#ECECEC"><a href="/Sandstone_Brick/de" title="Sandstone Brick/de">Sandsteinziegel</a>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Pflanzen_und_Pilze">Pflanzen und Pilze</span></h3>
+<table class="wikitable">
+<tbody><tr>
+<td><a href="/File:Blue_Geranium.png" class="image"><img alt="Blue Geranium.png" src="/images/thumb/c/c8/Blue_Geranium.png/32px-Blue_Geranium.png" decoding="async" width="32" height="32" srcset="/images/thumb/c/c8/Blue_Geranium.png/48px-Blue_Geranium.png 1.5x, /images/thumb/c/c8/Blue_Geranium.png/64px-Blue_Geranium.png 2x" /></a></td>
+<td width="150px"><a href="/Flower/de" title="Flower/de">Blaue Geranie</a>
+</td>
+<td><a href="/File:Rose.png" class="image"><img alt="Rose.png" src="/images/thumb/4/4f/Rose.png/32px-Rose.png" decoding="async" width="32" height="32" srcset="/images/thumb/4/4f/Rose.png/48px-Rose.png 1.5x, /images/thumb/4/4f/Rose.png/64px-Rose.png 2x" /></a></td>
+<td width="150px"><a href="/Flower/de" title="Flower/de">Rose</a>
+</td>
+<td><a href="/File:Orange_Tulip.png" class="image"><img alt="Orange Tulip.png" src="/images/thumb/3/35/Orange_Tulip.png/32px-Orange_Tulip.png" decoding="async" width="32" height="32" srcset="/images/thumb/3/35/Orange_Tulip.png/48px-Orange_Tulip.png 1.5x, /images/thumb/3/35/Orange_Tulip.png/64px-Orange_Tulip.png 2x" /></a></td>
+<td><a href="/Flower/de" title="Flower/de">Orange Tulpe</a>
+</td>
+<td><a href="/File:Viola.png" class="image"><img alt="Viola.png" src="/images/thumb/4/48/Viola.png/32px-Viola.png" decoding="async" width="32" height="32" srcset="/images/thumb/4/48/Viola.png/48px-Viola.png 1.5x, /images/thumb/4/48/Viola.png/64px-Viola.png 2x" /></a></td>
+<td width="150px"><a href="/Flower/de" title="Flower/de">Veilchen</a>
+</td>
+<td><a href="/File:White_Dandelion.png" class="image"><img alt="White Dandelion.png" src="/images/thumb/8/84/White_Dandelion.png/32px-White_Dandelion.png" decoding="async" width="32" height="32" srcset="/images/thumb/8/84/White_Dandelion.png/48px-White_Dandelion.png 1.5x, /images/thumb/8/84/White_Dandelion.png/64px-White_Dandelion.png 2x" /></a></td>
+<td width="150px"><a href="/Flower/de" title="Flower/de">Weißer Löwenzahn</a>
+</td></tr>
+<tr>
+<td><a href="/File:Yellow_Dandelion.png" class="image"><img alt="Yellow Dandelion.png" src="/images/thumb/e/ed/Yellow_Dandelion.png/32px-Yellow_Dandelion.png" decoding="async" width="32" height="32" srcset="/images/thumb/e/ed/Yellow_Dandelion.png/48px-Yellow_Dandelion.png 1.5x, /images/thumb/e/ed/Yellow_Dandelion.png/64px-Yellow_Dandelion.png 2x" /></a></td>
+<td width="150px"><a href="/Flower/de" title="Flower/de">Gelber Löwenzahn</a>
+</td></tr>
+<tr>
+<td><a href="/File:Grass_3.png" class="image"><img alt="Grass 3.png" src="/images/thumb/e/ed/Grass_3.png/32px-Grass_3.png" decoding="async" width="32" height="32" srcset="/images/thumb/e/ed/Grass_3.png/48px-Grass_3.png 1.5x, /images/thumb/e/ed/Grass_3.png/64px-Grass_3.png 2x" /></a></td>
+<td><a href="/Grass/de" title="Grass/de">Gras</a>
+</td>
+<td><a href="/File:Jungle_Grass.png" class="image"><img alt="Jungle Grass.png" src="/images/thumb/5/54/Jungle_Grass.png/32px-Jungle_Grass.png" decoding="async" width="32" height="32" srcset="/images/thumb/5/54/Jungle_Grass.png/48px-Jungle_Grass.png 1.5x, /images/thumb/5/54/Jungle_Grass.png/64px-Jungle_Grass.png 2x" /></a></td>
+<td><a href="/Jungle_Grass/de" title="Jungle Grass/de">Tropengras</a>
+</td>
+<td bgcolor="#ECECEC"><a href="/File:Dry_Grass_3.png" class="image"><img alt="Dry Grass 3.png" src="/images/thumb/1/1c/Dry_Grass_3.png/32px-Dry_Grass_3.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/1c/Dry_Grass_3.png/48px-Dry_Grass_3.png 1.5x, /images/thumb/1/1c/Dry_Grass_3.png/64px-Dry_Grass_3.png 2x" /></a></td>
+<td bgcolor="#ECECEC" width="150px"><a href="/Dry_Grass/de" class="mw-redirect" title="Dry Grass/de">Trockenes Gras</a>
+</td>
+<td><a href="/File:Dry_Shrub.png" class="image"><img alt="Dry Shrub.png" src="/images/thumb/f/fe/Dry_Shrub.png/32px-Dry_Shrub.png" decoding="async" width="32" height="32" srcset="/images/thumb/f/fe/Dry_Shrub.png/48px-Dry_Shrub.png 1.5x, /images/thumb/f/fe/Dry_Shrub.png/64px-Dry_Shrub.png 2x" /></a></td>
+<td><a href="/Dry_Shrub/de" title="Dry Shrub/de">Trockener Strauch</a>
+</td></tr>
+<tr>
+<td><a href="/File:Waterlily.png" class="image"><img alt="Waterlily.png" src="/images/thumb/5/55/Waterlily.png/32px-Waterlily.png" decoding="async" width="32" height="32" srcset="/images/thumb/5/55/Waterlily.png/48px-Waterlily.png 1.5x, /images/thumb/5/55/Waterlily.png/64px-Waterlily.png 2x" /></a></td>
+<td width="150px"><a href="/Waterlily/de" title="Waterlily/de">Wasserlilie</a>
+</td></tr>
+<tr>
+<td><a href="/File:Brown_Mushroom.png" class="image"><img alt="Brown Mushroom.png" src="/images/thumb/7/73/Brown_Mushroom.png/32px-Brown_Mushroom.png" decoding="async" width="32" height="32" srcset="/images/thumb/7/73/Brown_Mushroom.png/48px-Brown_Mushroom.png 1.5x, /images/thumb/7/73/Brown_Mushroom.png/64px-Brown_Mushroom.png 2x" /></a></td>
+<td width="150px"><a href="/Brown_Mushroom/de" title="Brown Mushroom/de">Brauner Pilz</a>
+</td>
+<td><a href="/File:Red_Mushroom.png" class="image"><img alt="Red Mushroom.png" src="/images/thumb/e/e1/Red_Mushroom.png/32px-Red_Mushroom.png" decoding="async" width="32" height="32" srcset="/images/thumb/e/e1/Red_Mushroom.png/48px-Red_Mushroom.png 1.5x, /images/thumb/e/e1/Red_Mushroom.png/64px-Red_Mushroom.png 2x" /></a></td>
+<td width="150px"><a href="/Red_Mushroom/de" title="Red Mushroom/de">Fliegenpilz</a>
+</td></tr>
+<tr>
+<td><a href="/File:Cactus.png" class="image"><img alt="Cactus.png" src="/images/thumb/a/a6/Cactus.png/32px-Cactus.png" decoding="async" width="32" height="32" srcset="/images/thumb/a/a6/Cactus.png/48px-Cactus.png 1.5x, /images/thumb/a/a6/Cactus.png/64px-Cactus.png 2x" /></a></td>
+<td width="150px"><a href="/Cactus/de" title="Cactus/de">Kaktus</a>
+</td>
+<td><a href="/File:Papyrus.png" class="image"><img alt="Papyrus.png" src="/images/thumb/1/12/Papyrus.png/32px-Papyrus.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/12/Papyrus.png/48px-Papyrus.png 1.5x, /images/thumb/1/12/Papyrus.png/64px-Papyrus.png 2x" /></a></td>
+<td><a href="/Papyrus/de" title="Papyrus/de">Papyrus</a>
+</td></tr>
+<tr>
+<td bgcolor="#ECECEC"><a href="/File:Bush_Leaves.png" class="image"><img alt="Bush Leaves.png" src="/images/thumb/b/ba/Bush_Leaves.png/32px-Bush_Leaves.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/ba/Bush_Leaves.png/48px-Bush_Leaves.png 1.5x, /images/thumb/b/ba/Bush_Leaves.png/64px-Bush_Leaves.png 2x" /></a></td>
+<td bgcolor="#ECECEC"><a href="/Bush_Leaves/de" title="Bush Leaves/de">Strauchblätter</a>
+</td>
+<td bgcolor="#ECECEC"><a href="/File:Bush_Stem.png" class="image"><img alt="Bush Stem.png" src="/images/thumb/1/10/Bush_Stem.png/32px-Bush_Stem.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/10/Bush_Stem.png/48px-Bush_Stem.png 1.5x, /images/thumb/1/10/Bush_Stem.png/64px-Bush_Stem.png 2x" /></a></td>
+<td bgcolor="#ECECEC"><a href="/Bush_Stem/de" title="Bush Stem/de">Strauchstamm</a>
+</td>
+<td bgcolor="#ECECEC"><a href="/File:Acacia_Bush_Leaves.png" class="image"><img alt="Acacia Bush Leaves.png" src="/images/thumb/4/46/Acacia_Bush_Leaves.png/32px-Acacia_Bush_Leaves.png" decoding="async" width="32" height="32" srcset="/images/thumb/4/46/Acacia_Bush_Leaves.png/48px-Acacia_Bush_Leaves.png 1.5x, /images/thumb/4/46/Acacia_Bush_Leaves.png/64px-Acacia_Bush_Leaves.png 2x" /></a></td>
+<td bgcolor="#ECECEC"><a href="/Bush_Leaves/de" title="Bush Leaves/de">Akazienstrauchblätter</a>
+</td>
+<td bgcolor="#ECECEC"><a href="/File:Acacia_Bush_Stem.png" class="image"><img alt="Acacia Bush Stem.png" src="/images/thumb/d/d9/Acacia_Bush_Stem.png/32px-Acacia_Bush_Stem.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/d9/Acacia_Bush_Stem.png/48px-Acacia_Bush_Stem.png 1.5x, /images/thumb/d/d9/Acacia_Bush_Stem.png/64px-Acacia_Bush_Stem.png 2x" /></a></td>
+<td bgcolor="#ECECEC"><a href="/Acacia_Bush_Stem/de" title="Acacia Bush Stem/de">Akazienstrauchstamm</a>
+</td></tr>
+<tr>
+<td bgcolor="#ECECEC"><a href="/File:Brown_Coral.png" class="image"><img alt="Brown Coral.png" src="/images/thumb/5/5a/Brown_Coral.png/32px-Brown_Coral.png" decoding="async" width="32" height="32" srcset="/images/thumb/5/5a/Brown_Coral.png/48px-Brown_Coral.png 1.5x, /images/thumb/5/5a/Brown_Coral.png/64px-Brown_Coral.png 2x" /></a></td>
+<td bgcolor="#ECECEC" width="150px"><a href="/Coral/de" title="Coral/de">Braune Koralle</a>
+</td>
+<td bgcolor="#ECECEC"><a href="/File:Orange_Coral.png" class="image"><img alt="Orange Coral.png" src="/images/thumb/9/93/Orange_Coral.png/32px-Orange_Coral.png" decoding="async" width="32" height="32" srcset="/images/thumb/9/93/Orange_Coral.png/48px-Orange_Coral.png 1.5x, /images/thumb/9/93/Orange_Coral.png/64px-Orange_Coral.png 2x" /></a></td>
+<td bgcolor="#ECECEC" width="150px"><a href="/Coral/de" title="Coral/de">Orange Koralle</a>
+</td>
+<td bgcolor="#ECECEC"><a href="/File:Coral_Skeleton.png" class="image"><img alt="Coral Skeleton.png" src="/images/thumb/b/b0/Coral_Skeleton.png/32px-Coral_Skeleton.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/b0/Coral_Skeleton.png/48px-Coral_Skeleton.png 1.5x, /images/thumb/b/b0/Coral_Skeleton.png/64px-Coral_Skeleton.png 2x" /></a></td>
+<td bgcolor="#ECECEC" width="150px"><a href="/Coral_Skeleton/de" title="Coral Skeleton/de">Korallenskelett</a>
+</td></tr></tbody></table>
+<h3><span id="Bäume"></span><span class="mw-headline" id="B.C3.A4ume">Bäume</span></h3>
+<table class="wikitable">
+<tbody><tr>
+<td><a href="/File:Tree.png" class="image"><img alt="Tree.png" src="/images/thumb/a/ac/Tree.png/32px-Tree.png" decoding="async" width="32" height="32" srcset="/images/thumb/a/ac/Tree.png/48px-Tree.png 1.5x, /images/thumb/a/ac/Tree.png/64px-Tree.png 2x" /></a></td>
+<td width="150px"><a href="/Tree/de" title="Tree/de">Baum</a>
+</td>
+<td><a href="/File:Jungle_Tree.png" class="image"><img alt="Jungle Tree.png" src="/images/thumb/1/16/Jungle_Tree.png/32px-Jungle_Tree.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/16/Jungle_Tree.png/48px-Jungle_Tree.png 1.5x, /images/thumb/1/16/Jungle_Tree.png/64px-Jungle_Tree.png 2x" /></a></td>
+<td><a href="/Jungle_Tree/de" title="Jungle Tree/de">Tropenbaum</a>
+</td>
+<td><a href="/File:Pine_Tree.png" class="image"><img alt="Pine Tree.png" src="/images/thumb/d/d4/Pine_Tree.png/32px-Pine_Tree.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/d4/Pine_Tree.png/48px-Pine_Tree.png 1.5x, /images/thumb/d/d4/Pine_Tree.png/64px-Pine_Tree.png 2x" /></a></td>
+<td width="150px"><a href="/Pine_Tree/de" title="Pine Tree/de">Kiefer</a>
+</td>
+<td bgcolor="#ECECEC"><a href="/File:Aspen_Tree.png" class="image"><img alt="Aspen Tree.png" src="/images/thumb/2/26/Aspen_Tree.png/32px-Aspen_Tree.png" decoding="async" width="32" height="32" srcset="/images/thumb/2/26/Aspen_Tree.png/48px-Aspen_Tree.png 1.5x, /images/thumb/2/26/Aspen_Tree.png/64px-Aspen_Tree.png 2x" /></a></td>
+<td bgcolor="#ECECEC" width="150px"><a href="/Aspen_Tree/de" title="Aspen Tree/de">Espe</a>
+</td>
+<td bgcolor="#ECECEC"><a href="/File:Acacia_Tree.png" class="image"><img alt="Acacia Tree.png" src="/images/thumb/8/8f/Acacia_Tree.png/32px-Acacia_Tree.png" decoding="async" width="32" height="32" srcset="/images/thumb/8/8f/Acacia_Tree.png/48px-Acacia_Tree.png 1.5x, /images/thumb/8/8f/Acacia_Tree.png/64px-Acacia_Tree.png 2x" /></a></td>
+<td bgcolor="#ECECEC"><a href="/Acacia_Tree/de" title="Acacia Tree/de">Akazie</a>
+</td></tr>
+<tr>
+<td><a href="/File:Leaves.png" class="image"><img alt="Leaves.png" src="/images/thumb/f/f1/Leaves.png/32px-Leaves.png" decoding="async" width="32" height="32" srcset="/images/thumb/f/f1/Leaves.png/48px-Leaves.png 1.5x, /images/thumb/f/f1/Leaves.png/64px-Leaves.png 2x" /></a></td>
+<td><a href="/Leaves/de" title="Leaves/de">Blätter</a>
+</td>
+<td><a href="/File:Jungle_Leaves.png" class="image"><img alt="Jungle Leaves.png" src="/images/thumb/c/c5/Jungle_Leaves.png/32px-Jungle_Leaves.png" decoding="async" width="32" height="32" srcset="/images/thumb/c/c5/Jungle_Leaves.png/48px-Jungle_Leaves.png 1.5x, /images/thumb/c/c5/Jungle_Leaves.png/64px-Jungle_Leaves.png 2x" /></a></td>
+<td><a href="/Leaves/de" title="Leaves/de">Tropenbaumblätter</a>
+</td>
+<td><a href="/File:Pine_Needles.png" class="image"><img alt="Pine Needles.png" src="/images/thumb/2/2c/Pine_Needles.png/32px-Pine_Needles.png" decoding="async" width="32" height="32" srcset="/images/thumb/2/2c/Pine_Needles.png/48px-Pine_Needles.png 1.5x, /images/thumb/2/2c/Pine_Needles.png/64px-Pine_Needles.png 2x" /></a></td>
+<td width="150px"><a href="/Leaves/de" title="Leaves/de">Kiefernnadeln</a>
+</td>
+<td bgcolor="#ECECEC"><a href="/File:Aspen_Leaves.png" class="image"><img alt="Aspen Leaves.png" src="/images/thumb/d/d3/Aspen_Leaves.png/32px-Aspen_Leaves.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/d3/Aspen_Leaves.png/48px-Aspen_Leaves.png 1.5x, /images/thumb/d/d3/Aspen_Leaves.png/64px-Aspen_Leaves.png 2x" /></a></td>
+<td bgcolor="#ECECEC" width="150px"><a href="/Leaves/de" title="Leaves/de">Espenblätter</a>
+</td>
+<td bgcolor="#ECECEC"><a href="/File:Acacia_Leaves.png" class="image"><img alt="Acacia Leaves.png" src="/images/thumb/2/27/Acacia_Leaves.png/32px-Acacia_Leaves.png" decoding="async" width="32" height="32" srcset="/images/thumb/2/27/Acacia_Leaves.png/48px-Acacia_Leaves.png 1.5x, /images/thumb/2/27/Acacia_Leaves.png/64px-Acacia_Leaves.png 2x" /></a></td>
+<td bgcolor="#ECECEC"><a href="/Leaves" title="Leaves">Akazienblätter</a>
+</td></tr>
+<tr>
+<td><a href="/File:Apple.png" class="image"><img alt="Apple.png" src="/images/thumb/7/7d/Apple.png/32px-Apple.png" decoding="async" width="32" height="32" srcset="/images/thumb/7/7d/Apple.png/48px-Apple.png 1.5x, /images/thumb/7/7d/Apple.png/64px-Apple.png 2x" /></a></td>
+<td width="150px"><a href="/Apple/de" title="Apple/de">Apfel</a>
+</td></tr></tbody></table>
+<h3><span id="Hintergrundfarbschlüssel"></span><span class="mw-headline" id="Hintergrundfarbschl.C3.BCssel">Hintergrundfarbschlüssel</span></h3>
+<p>Der Hintergrundfarbschlüssel kennzeichnet die Verfügbarkeit von Blöcken. Er teilt Ihnen mit, in welchen <a href="/Map_generator/de" class="mw-redirect" title="Map generator/de">Kartengeneratoren</a> diese Blöcke generiert werden.
+</p>
+<ul><li><span style="background:#FFFFEC">Gelb: in allen Kartengeneratoren generiert</span></li>
+<li><span style="background:#F9F9F9">Weiß: in allen Kartengeneratoren außer <i>singlenode</i> generiert</span></li>
+<li><span style="background:#ECECEC">Grau: in allen Kartengeneratoren außer <i>v6</i> und <i>singlenode</i> generiert</span></li>
+<li><span style="background:#ECECFF">Hellblau: nur in <i>valleys</i> generiert</span></li></ul>
+<p><br />
+</p>
+<h2><span id="Hergestellte_Blöcke"></span><span class="mw-headline" id="Hergestellte_Bl.C3.B6cke">Hergestellte Blöcke</span></h2>
+<p>Die nachfolgenden Blöcke entstehen nicht natürlich, sondern werden vom <a href="/Player/de" title="Player/de">Spieler</a> <a href="/Crafting" title="Crafting">hergestellt</a>.
+</p>
+<h3><span id="Grundblöcke"></span><span class="mw-headline" id="Grundbl.C3.B6cke">Grundblöcke</span></h3>
+<table class="wikitable">
+<tbody><tr>
+<td><a href="/File:Acacia_Wood_Planks.png" class="image"><img alt="Acacia Wood Planks.png" src="/images/thumb/f/f6/Acacia_Wood_Planks.png/32px-Acacia_Wood_Planks.png" decoding="async" width="32" height="32" srcset="/images/thumb/f/f6/Acacia_Wood_Planks.png/48px-Acacia_Wood_Planks.png 1.5x, /images/thumb/f/f6/Acacia_Wood_Planks.png/64px-Acacia_Wood_Planks.png 2x" /></a></td>
+<td width="150px"><a href="/Wood/de" title="Wood/de">Akazienholzbretter</a>
+</td>
+<td><a href="/File:Aspen_Wood_Planks.png" class="image"><img alt="Aspen Wood Planks.png" src="/images/thumb/a/ae/Aspen_Wood_Planks.png/32px-Aspen_Wood_Planks.png" decoding="async" width="32" height="32" srcset="/images/thumb/a/ae/Aspen_Wood_Planks.png/48px-Aspen_Wood_Planks.png 1.5x, /images/thumb/a/ae/Aspen_Wood_Planks.png/64px-Aspen_Wood_Planks.png 2x" /></a></td>
+<td width="150px"><a href="/Wood/de" title="Wood/de">Espenholzbretter</a>
+</td>
+<td><a href="/File:Brick.png" class="image"><img alt="Brick.png" src="/images/thumb/5/58/Brick.png/32px-Brick.png" decoding="async" width="32" height="32" srcset="/images/thumb/5/58/Brick.png/48px-Brick.png 1.5x, /images/thumb/5/58/Brick.png/64px-Brick.png 2x" /></a></td>
+<td width="150px"><a href="/Brick_Block/de" title="Brick Block/de">Ziegelblock</a>
+</td>
+<td><a href="/File:Bronze_Block.png" class="image"><img alt="Bronze Block.png" src="/images/thumb/4/47/Bronze_Block.png/32px-Bronze_Block.png" decoding="async" width="32" height="32" srcset="/images/thumb/4/47/Bronze_Block.png/48px-Bronze_Block.png 1.5x, /images/thumb/4/47/Bronze_Block.png/64px-Bronze_Block.png 2x" /></a></td>
+<td width="150px"><a href="/Bronze_Block/de" title="Bronze Block/de">Bronzeblock</a>
+</td>
+<td><a href="/File:Coal_Block.png" class="image"><img alt="Coal Block.png" src="/images/thumb/9/95/Coal_Block.png/32px-Coal_Block.png" decoding="async" width="32" height="32" srcset="/images/thumb/9/95/Coal_Block.png/48px-Coal_Block.png 1.5x, /images/thumb/9/95/Coal_Block.png/64px-Coal_Block.png 2x" /></a></td>
+<td width="150px"><a href="/Coal_Block/de" title="Coal Block/de">Kohleblock</a>
+</td></tr>
+<tr>
+<td><a href="/File:Copper_Block.png" class="image"><img alt="Copper Block.png" src="/images/thumb/a/a3/Copper_Block.png/32px-Copper_Block.png" decoding="async" width="32" height="32" srcset="/images/thumb/a/a3/Copper_Block.png/48px-Copper_Block.png 1.5x, /images/thumb/a/a3/Copper_Block.png/64px-Copper_Block.png 2x" /></a></td>
+<td><a href="/Copper_Block/de" title="Copper Block/de">Kupferblock</a>
+</td>
+<td><a href="/File:Desert_Cobblestone.png" class="image"><img alt="Desert Cobblestone.png" src="/images/thumb/2/2d/Desert_Cobblestone.png/32px-Desert_Cobblestone.png" decoding="async" width="32" height="32" srcset="/images/thumb/2/2d/Desert_Cobblestone.png/48px-Desert_Cobblestone.png 1.5x, /images/thumb/2/2d/Desert_Cobblestone.png/64px-Desert_Cobblestone.png 2x" /></a></td>
+<td><a href="/Desert_Cobblestone/de" title="Desert Cobblestone/de">Wüstenpflasterstein</a>
+</td>
+<td><a href="/File:Desert_Stone_Block.png" class="image"><img alt="Desert Stone Block.png" src="/images/thumb/f/f4/Desert_Stone_Block.png/32px-Desert_Stone_Block.png" decoding="async" width="32" height="32" srcset="/images/thumb/f/f4/Desert_Stone_Block.png/48px-Desert_Stone_Block.png 1.5x, /images/thumb/f/f4/Desert_Stone_Block.png/64px-Desert_Stone_Block.png 2x" /></a></td>
+<td width="150px"><a href="/Desert_Stone_Block/de" title="Desert Stone Block/de">Wüstensteinblock</a>
+</td>
+<td><a href="/File:Desert_Stone_Brick.png" class="image"><img alt="Desert Stone Brick.png" src="/images/thumb/2/2c/Desert_Stone_Brick.png/32px-Desert_Stone_Brick.png" decoding="async" width="32" height="32" srcset="/images/thumb/2/2c/Desert_Stone_Brick.png/48px-Desert_Stone_Brick.png 1.5x, /images/thumb/2/2c/Desert_Stone_Brick.png/64px-Desert_Stone_Brick.png 2x" /></a></td>
+<td><a href="/Desert_Stone_Brick/de" class="mw-redirect" title="Desert Stone Brick/de">Wüstensteinziegel</a>
+</td>
+<td><a href="/File:Desert_Sandstone.png" class="image"><img alt="Desert Sandstone.png" src="/images/thumb/1/11/Desert_Sandstone.png/32px-Desert_Sandstone.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/11/Desert_Sandstone.png/48px-Desert_Sandstone.png 1.5x, /images/thumb/1/11/Desert_Sandstone.png/64px-Desert_Sandstone.png 2x" /></a></td>
+<td><a href="/Desert_Sandstone/de" title="Desert Sandstone/de">Wüstensandstein</a>
+</td></tr>
+<tr>
+<td><a href="/File:Desert_Sandstone_Block.png" class="image"><img alt="Desert Sandstone Block.png" src="/images/thumb/e/ef/Desert_Sandstone_Block.png/32px-Desert_Sandstone_Block.png" decoding="async" width="32" height="32" srcset="/images/thumb/e/ef/Desert_Sandstone_Block.png/48px-Desert_Sandstone_Block.png 1.5x, /images/thumb/e/ef/Desert_Sandstone_Block.png/64px-Desert_Sandstone_Block.png 2x" /></a></td>
+<td width="150px"><a href="/Desert_Sandstone_Block/de" title="Desert Sandstone Block/de">Wüstensandsteinblock</a>
+</td>
+<td><a href="/File:Desert_Sandstone_Brick.png" class="image"><img alt="Desert Sandstone Brick.png" src="/images/thumb/c/c1/Desert_Sandstone_Brick.png/32px-Desert_Sandstone_Brick.png" decoding="async" width="32" height="32" srcset="/images/thumb/c/c1/Desert_Sandstone_Brick.png/48px-Desert_Sandstone_Brick.png 1.5x, /images/thumb/c/c1/Desert_Sandstone_Brick.png/64px-Desert_Sandstone_Brick.png 2x" /></a></td>
+<td><a href="/Desert_Sandstone_Brick/de" title="Desert Sandstone Brick/de">Wüstensandsteinziegel</a>
+</td>
+<td><a href="/File:Diamond_Block.png" class="image"><img alt="Diamond Block.png" src="/images/thumb/6/66/Diamond_Block.png/32px-Diamond_Block.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/66/Diamond_Block.png/48px-Diamond_Block.png 1.5x, /images/thumb/6/66/Diamond_Block.png/64px-Diamond_Block.png 2x" /></a></td>
+<td><a href="/Diamond_Block/de" title="Diamond Block/de">Diamantenblock</a>
+</td>
+<td><a href="/File:Glass.png" class="image"><img alt="Glass.png" src="/images/thumb/1/15/Glass.png/32px-Glass.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/15/Glass.png/48px-Glass.png 1.5x, /images/thumb/1/15/Glass.png/64px-Glass.png 2x" /></a></td>
+<td><a href="/Glass/de" class="mw-redirect" title="Glass/de">Glas</a>
+</td>
+<td><a href="/File:Gold_Block.png" class="image"><img alt="Gold Block.png" src="/images/thumb/6/6c/Gold_Block.png/32px-Gold_Block.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/6c/Gold_Block.png/48px-Gold_Block.png 1.5x, /images/thumb/6/6c/Gold_Block.png/64px-Gold_Block.png 2x" /></a></td>
+<td><a href="/Gold_Block/de" title="Gold Block/de">Goldblock</a>
+</td></tr>
+<tr>
+<td><a href="/File:Junglewood_Planks.png" class="image"><img alt="Junglewood Planks.png" src="/images/thumb/2/25/Junglewood_Planks.png/32px-Junglewood_Planks.png" decoding="async" width="32" height="32" srcset="/images/thumb/2/25/Junglewood_Planks.png/48px-Junglewood_Planks.png 1.5x, /images/thumb/2/25/Junglewood_Planks.png/64px-Junglewood_Planks.png 2x" /></a></td>
+<td><a href="/Wood/de" title="Wood/de">Tropenholzbretter</a>
+</td>
+<td><a href="/File:Obsidian_Block.png" class="image"><img alt="Obsidian Block.png" src="/images/thumb/1/16/Obsidian_Block.png/32px-Obsidian_Block.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/16/Obsidian_Block.png/48px-Obsidian_Block.png 1.5x, /images/thumb/1/16/Obsidian_Block.png/64px-Obsidian_Block.png 2x" /></a></td>
+<td width="150px"><a href="/Obsidian_Block/de" title="Obsidian Block/de">Obsidianblock</a>
+</td>
+<td><a href="/File:Obsidian_Brick.png" class="image"><img alt="Obsidian Brick.png" src="/images/thumb/9/9d/Obsidian_Brick.png/32px-Obsidian_Brick.png" decoding="async" width="32" height="32" srcset="/images/thumb/9/9d/Obsidian_Brick.png/48px-Obsidian_Brick.png 1.5x, /images/thumb/9/9d/Obsidian_Brick.png/64px-Obsidian_Brick.png 2x" /></a></td>
+<td><a href="/Obsidian_Brick/de" title="Obsidian Brick/de">Obsidianziegel</a>
+</td>
+<td><a href="/File:Obsidian_Glass.png" class="image"><img alt="Obsidian Glass.png" src="/images/thumb/d/d3/Obsidian_Glass.png/32px-Obsidian_Glass.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/d3/Obsidian_Glass.png/48px-Obsidian_Glass.png 1.5x, /images/thumb/d/d3/Obsidian_Glass.png/64px-Obsidian_Glass.png 2x" /></a></td>
+<td><a href="/Obsidian_Glass/de" title="Obsidian Glass/de">Obsidianglas</a>
+</td>
+<td><a href="/File:Pine_Wood_Planks.png" class="image"><img alt="Pine Wood Planks.png" src="/images/thumb/3/39/Pine_Wood_Planks.png/32px-Pine_Wood_Planks.png" decoding="async" width="32" height="32" srcset="/images/thumb/3/39/Pine_Wood_Planks.png/48px-Pine_Wood_Planks.png 1.5x, /images/thumb/3/39/Pine_Wood_Planks.png/64px-Pine_Wood_Planks.png 2x" /></a></td>
+<td><a href="/Wood/de" title="Wood/de">Kiefernholzbretter</a>
+</td></tr>
+<tr>
+<td><a href="/File:Sandstone_Block.png" class="image"><img alt="Sandstone Block.png" src="/images/thumb/1/1b/Sandstone_Block.png/32px-Sandstone_Block.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/1b/Sandstone_Block.png/48px-Sandstone_Block.png 1.5x, /images/thumb/1/1b/Sandstone_Block.png/64px-Sandstone_Block.png 2x" /></a></td>
+<td width="150px"><a href="/Sandstone_Block/de" title="Sandstone Block/de">Sandsteinblock</a>
+</td>
+<td><a href="/File:Silver_Sandstone.png" class="image"><img alt="Silver Sandstone.png" src="/images/thumb/7/7e/Silver_Sandstone.png/32px-Silver_Sandstone.png" decoding="async" width="32" height="32" srcset="/images/thumb/7/7e/Silver_Sandstone.png/48px-Silver_Sandstone.png 1.5x, /images/thumb/7/7e/Silver_Sandstone.png/64px-Silver_Sandstone.png 2x" /></a></td>
+<td><a href="/Silver_Sandstone/de" title="Silver Sandstone/de">Silbersandstein</a>
+</td>
+<td><a href="/File:Silver_Sandstone_Block.png" class="image"><img alt="Silver Sandstone Block.png" src="/images/thumb/a/a9/Silver_Sandstone_Block.png/32px-Silver_Sandstone_Block.png" decoding="async" width="32" height="32" srcset="/images/thumb/a/a9/Silver_Sandstone_Block.png/48px-Silver_Sandstone_Block.png 1.5x, /images/thumb/a/a9/Silver_Sandstone_Block.png/64px-Silver_Sandstone_Block.png 2x" /></a></td>
+<td width="150px"><a href="/Silver_Sandstone_Block/de" title="Silver Sandstone Block/de">Silbersandsteinblock</a>
+</td>
+<td><a href="/File:Silver_Sandstone_Brick.png" class="image"><img alt="Silver Sandstone Brick.png" src="/images/thumb/1/19/Silver_Sandstone_Brick.png/32px-Silver_Sandstone_Brick.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/19/Silver_Sandstone_Brick.png/48px-Silver_Sandstone_Brick.png 1.5x, /images/thumb/1/19/Silver_Sandstone_Brick.png/64px-Silver_Sandstone_Brick.png 2x" /></a></td>
+<td><a href="/Silver_Sandstone_Brick/de" title="Silver Sandstone Brick/de">Silbersandsteinziegel</a>
+</td>
+<td><a href="/File:Stone_Block.png" class="image"><img alt="Stone Block.png" src="/images/thumb/3/37/Stone_Block.png/32px-Stone_Block.png" decoding="async" width="32" height="32" srcset="/images/thumb/3/37/Stone_Block.png/48px-Stone_Block.png 1.5x, /images/thumb/3/37/Stone_Block.png/64px-Stone_Block.png 2x" /></a></td>
+<td width="150px"><a href="/Stone_Block/de" title="Stone Block/de">Steinblock</a>
+</td></tr>
+<tr>
+<td><a href="/File:Stone_Brick.png" class="image"><img alt="Stone Brick.png" src="/images/thumb/6/6d/Stone_Brick.png/32px-Stone_Brick.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/6d/Stone_Brick.png/48px-Stone_Brick.png 1.5x, /images/thumb/6/6d/Stone_Brick.png/64px-Stone_Brick.png 2x" /></a></td>
+<td><a href="/Stone_Brick/de" class="mw-redirect" title="Stone Brick/de">Steinziegel</a>
+</td>
+<td><a href="/File:Straw.png" class="image"><img alt="Straw.png" src="/images/thumb/5/55/Straw.png/32px-Straw.png" decoding="async" width="32" height="32" srcset="/images/thumb/5/55/Straw.png/48px-Straw.png 1.5x, /images/thumb/5/55/Straw.png/64px-Straw.png 2x" /></a></td>
+<td><a href="/Straw/de" title="Straw/de">Stroh</a>
+</td>
+<td><a href="/File:Steel_Block.png" class="image"><img alt="Steel Block.png" src="/images/thumb/8/84/Steel_Block.png/32px-Steel_Block.png" decoding="async" width="32" height="32" srcset="/images/thumb/8/84/Steel_Block.png/48px-Steel_Block.png 1.5x, /images/thumb/8/84/Steel_Block.png/64px-Steel_Block.png 2x" /></a></td>
+<td><a href="/Steel_Block/de" title="Steel Block/de">Eisenblock</a>
+</td>
+<td><a href="/File:Tin_Block.png" class="image"><img alt="Tin Block.png" src="/images/thumb/5/54/Tin_Block.png/32px-Tin_Block.png" decoding="async" width="32" height="32" srcset="/images/thumb/5/54/Tin_Block.png/48px-Tin_Block.png 1.5x, /images/thumb/5/54/Tin_Block.png/64px-Tin_Block.png 2x" /></a></td>
+<td><a href="/Tin_Block/de" title="Tin Block/de">Zinnblock</a>
+</td>
+<td><a href="/File:Wooden_Planks.png" class="image"><img alt="Wooden Planks.png" src="/images/thumb/e/e6/Wooden_Planks.png/32px-Wooden_Planks.png" decoding="async" width="32" height="32" srcset="/images/thumb/e/e6/Wooden_Planks.png/48px-Wooden_Planks.png 1.5x, /images/thumb/e/e6/Wooden_Planks.png/64px-Wooden_Planks.png 2x" /></a></td>
+<td><a href="/Wood/de" title="Wood/de">Holzbretter</a>
+</td></tr>
+<tr>
+<td><a href="/File:White_Wool.png" class="image"><img alt="White Wool.png" src="/images/thumb/0/07/White_Wool.png/32px-White_Wool.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/07/White_Wool.png/48px-White_Wool.png 1.5x, /images/thumb/0/07/White_Wool.png/64px-White_Wool.png 2x" /></a></td>
+<td><a href="/Wool/de" title="Wool/de">Wolle</a>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Absperrungen">Absperrungen</span></h3>
+<table class="wikitable">
+<tbody><tr>
+<td><a href="/File:Wooden_Fence.png" class="image"><img alt="Wooden Fence.png" src="/images/thumb/6/6f/Wooden_Fence.png/32px-Wooden_Fence.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/6f/Wooden_Fence.png/48px-Wooden_Fence.png 1.5x, /images/thumb/6/6f/Wooden_Fence.png/64px-Wooden_Fence.png 2x" /></a></td>
+<td width="150px"><a href="/Fence/de" title="Fence/de">Holzzaun</a>
+</td>
+<td><a href="/File:Acacia_Fence.png" class="image"><img alt="Acacia Fence.png" src="/images/thumb/e/e8/Acacia_Fence.png/32px-Acacia_Fence.png" decoding="async" width="32" height="32" srcset="/images/thumb/e/e8/Acacia_Fence.png/48px-Acacia_Fence.png 1.5x, /images/thumb/e/e8/Acacia_Fence.png/64px-Acacia_Fence.png 2x" /></a></td>
+<td width="150px"><a href="/Fence/de" title="Fence/de">Akazienholzzaun</a>
+</td>
+<td><a href="/File:Aspen_Fence.png" class="image"><img alt="Aspen Fence.png" src="/images/thumb/4/46/Aspen_Fence.png/32px-Aspen_Fence.png" decoding="async" width="32" height="32" srcset="/images/thumb/4/46/Aspen_Fence.png/48px-Aspen_Fence.png 1.5x, /images/thumb/4/46/Aspen_Fence.png/64px-Aspen_Fence.png 2x" /></a></td>
+<td width="150px"><a href="/Fence/de" title="Fence/de">Espenholzzaun</a>
+</td>
+<td><a href="/File:Junglewood_Fence.png" class="image"><img alt="Junglewood Fence.png" src="/images/thumb/2/2b/Junglewood_Fence.png/32px-Junglewood_Fence.png" decoding="async" width="32" height="32" srcset="/images/thumb/2/2b/Junglewood_Fence.png/48px-Junglewood_Fence.png 1.5x, /images/thumb/2/2b/Junglewood_Fence.png/64px-Junglewood_Fence.png 2x" /></a></td>
+<td width="150px"><a href="/Fence/de" title="Fence/de">Tropenholzzaun</a>
+</td>
+<td><a href="/File:Pine_Fence.png" class="image"><img alt="Pine Fence.png" src="/images/thumb/0/0f/Pine_Fence.png/32px-Pine_Fence.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/0f/Pine_Fence.png/48px-Pine_Fence.png 1.5x, /images/thumb/0/0f/Pine_Fence.png/64px-Pine_Fence.png 2x" /></a></td>
+<td width="150px"><a href="/Fence/de" title="Fence/de">Kiefernholzzaun</a>
+</td></tr>
+<tr>
+<td><a href="/File:Wooden_Fence_Gate.png" class="image"><img alt="Wooden Fence Gate.png" src="/images/thumb/c/c2/Wooden_Fence_Gate.png/32px-Wooden_Fence_Gate.png" decoding="async" width="32" height="32" srcset="/images/thumb/c/c2/Wooden_Fence_Gate.png/48px-Wooden_Fence_Gate.png 1.5x, /images/thumb/c/c2/Wooden_Fence_Gate.png/64px-Wooden_Fence_Gate.png 2x" /></a></td>
+<td width="150px"><a href="/Fence_Gate/de" title="Fence Gate/de">Holzgartentor</a>
+</td>
+<td><a href="/File:Acacia_Fence_Gate.png" class="image"><img alt="Acacia Fence Gate.png" src="/images/thumb/b/be/Acacia_Fence_Gate.png/32px-Acacia_Fence_Gate.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/be/Acacia_Fence_Gate.png/48px-Acacia_Fence_Gate.png 1.5x, /images/thumb/b/be/Acacia_Fence_Gate.png/64px-Acacia_Fence_Gate.png 2x" /></a></td>
+<td width="150px"><a href="/Fence_Gate/de" title="Fence Gate/de">Akazienholzgartentor</a>
+</td>
+<td><a href="/File:Aspen_Fence_Gate.png" class="image"><img alt="Aspen Fence Gate.png" src="/images/thumb/e/eb/Aspen_Fence_Gate.png/32px-Aspen_Fence_Gate.png" decoding="async" width="32" height="32" srcset="/images/thumb/e/eb/Aspen_Fence_Gate.png/48px-Aspen_Fence_Gate.png 1.5x, /images/thumb/e/eb/Aspen_Fence_Gate.png/64px-Aspen_Fence_Gate.png 2x" /></a></td>
+<td width="150px"><a href="/Fence_Gate/de" title="Fence Gate/de">Espenholzgartentor</a>
+</td>
+<td><a href="/File:Junglewood_Fence_Gate.png" class="image"><img alt="Junglewood Fence Gate.png" src="/images/thumb/6/6a/Junglewood_Fence_Gate.png/32px-Junglewood_Fence_Gate.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/6a/Junglewood_Fence_Gate.png/48px-Junglewood_Fence_Gate.png 1.5x, /images/thumb/6/6a/Junglewood_Fence_Gate.png/64px-Junglewood_Fence_Gate.png 2x" /></a></td>
+<td width="150px"><a href="/Fence_Gate/de" title="Fence Gate/de">Tropenholzgartentor</a>
+</td>
+<td><a href="/File:Pine_Fence_Gate.png" class="image"><img alt="Pine Fence Gate.png" src="/images/thumb/1/18/Pine_Fence_Gate.png/32px-Pine_Fence_Gate.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/18/Pine_Fence_Gate.png/48px-Pine_Fence_Gate.png 1.5x, /images/thumb/1/18/Pine_Fence_Gate.png/64px-Pine_Fence_Gate.png 2x" /></a></td>
+<td width="150px"><a href="/Fence_Gate/de" title="Fence Gate/de">Kiefernholzgartentor</a>
+</td></tr>
+<tr>
+<td><a href="/File:Cobblestone_Wall.png" class="image"><img alt="Cobblestone Wall.png" src="/images/thumb/b/b7/Cobblestone_Wall.png/32px-Cobblestone_Wall.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/b7/Cobblestone_Wall.png/48px-Cobblestone_Wall.png 1.5x, /images/thumb/b/b7/Cobblestone_Wall.png/64px-Cobblestone_Wall.png 2x" /></a></td>
+<td width="150px"><a href="/Wall/de" title="Wall/de">Pflastersteinmauer</a>
+</td>
+<td><a href="/File:Mossy_Cobblestone_Wall.png" class="image"><img alt="Mossy Cobblestone Wall.png" src="/images/thumb/7/79/Mossy_Cobblestone_Wall.png/32px-Mossy_Cobblestone_Wall.png" decoding="async" width="32" height="32" srcset="/images/thumb/7/79/Mossy_Cobblestone_Wall.png/48px-Mossy_Cobblestone_Wall.png 1.5x, /images/thumb/7/79/Mossy_Cobblestone_Wall.png/64px-Mossy_Cobblestone_Wall.png 2x" /></a></td>
+<td width="150px"><a href="/Wall/de" title="Wall/de">Moosbewachsene Pflastersteinmauer</a>
+</td>
+<td><a href="/File:Desert_Cobblestone_Wall.png" class="image"><img alt="Desert Cobblestone Wall.png" src="/images/thumb/c/cd/Desert_Cobblestone_Wall.png/32px-Desert_Cobblestone_Wall.png" decoding="async" width="32" height="32" srcset="/images/thumb/c/cd/Desert_Cobblestone_Wall.png/48px-Desert_Cobblestone_Wall.png 1.5x, /images/thumb/c/cd/Desert_Cobblestone_Wall.png/64px-Desert_Cobblestone_Wall.png 2x" /></a></td>
+<td width="150px"><a href="/Wall/de" title="Wall/de">Wüstenpflastersteinmauer</a>
+</td></tr>
+<tr>
+<td><a href="/File:Glass_Pane.png" class="image"><img alt="Glass Pane.png" src="/images/thumb/f/fc/Glass_Pane.png/32px-Glass_Pane.png" decoding="async" width="32" height="32" srcset="/images/thumb/f/fc/Glass_Pane.png/48px-Glass_Pane.png 1.5x, /images/thumb/f/fc/Glass_Pane.png/64px-Glass_Pane.png 2x" /></a></td>
+<td><a href="/Glass_Pane/de" title="Glass Pane/de">Glasscheibe</a>
+</td>
+<td><a href="/File:Iron_bar.png" class="image"><img alt="Iron bar.png" src="/images/thumb/1/14/Iron_bar.png/32px-Iron_bar.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/14/Iron_bar.png/48px-Iron_bar.png 1.5x, /images/thumb/1/14/Iron_bar.png/64px-Iron_bar.png 2x" /></a></td>
+<td><a href="/Iron_bar/de" title="Iron bar/de">Eisenstange</a>
+</td></tr>
+<tr>
+<td><a href="/File:Trapdoor.png" class="image"><img alt="Trapdoor.png" src="/images/thumb/9/94/Trapdoor.png/32px-Trapdoor.png" decoding="async" width="32" height="32" srcset="/images/thumb/9/94/Trapdoor.png/48px-Trapdoor.png 1.5x, /images/thumb/9/94/Trapdoor.png/64px-Trapdoor.png 2x" /></a></td>
+<td><a href="/Trapdoor/de" title="Trapdoor/de">Falltür</a>
+</td>
+<td><a href="/File:Steel_Trapdoor.png" class="image"><img alt="Steel Trapdoor.png" src="/images/thumb/c/c5/Steel_Trapdoor.png/32px-Steel_Trapdoor.png" decoding="async" width="32" height="32" srcset="/images/thumb/c/c5/Steel_Trapdoor.png/48px-Steel_Trapdoor.png 1.5x, /images/thumb/c/c5/Steel_Trapdoor.png/64px-Steel_Trapdoor.png 2x" /></a></td>
+<td width="150px"><a href="/Steel_Trapdoor/de" title="Steel Trapdoor/de">Eisenfalltür</a>
+</td></tr>
+<tr>
+<td><a href="/File:Wooden_Door.png" class="image"><img alt="Wooden Door.png" src="/images/thumb/2/2c/Wooden_Door.png/32px-Wooden_Door.png" decoding="async" width="32" height="32" srcset="/images/thumb/2/2c/Wooden_Door.png/48px-Wooden_Door.png 1.5x, /images/thumb/2/2c/Wooden_Door.png/64px-Wooden_Door.png 2x" /></a></td>
+<td width="150px"><a href="/Wooden_Door/de" title="Wooden Door/de">Holztür</a>
+</td>
+<td><a href="/File:Steel_Door.png" class="image"><img alt="Steel Door.png" src="/images/thumb/6/61/Steel_Door.png/32px-Steel_Door.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/61/Steel_Door.png/48px-Steel_Door.png 1.5x, /images/thumb/6/61/Steel_Door.png/64px-Steel_Door.png 2x" /></a></td>
+<td width="150px"><a href="/Steel_Door/de" title="Steel Door/de">Eisentür</a>
+</td>
+<td><a href="/File:Glass_Door.png" class="image"><img alt="Glass Door.png" src="/images/thumb/0/06/Glass_Door.png/32px-Glass_Door.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/06/Glass_Door.png/48px-Glass_Door.png 1.5x, /images/thumb/0/06/Glass_Door.png/64px-Glass_Door.png 2x" /></a></td>
+<td width="150px"><a href="/Glass_Door/de" title="Glass Door/de">Glastür</a>
+</td>
+<td><a href="/File:Obsidian_Glass_Door.png" class="image"><img alt="Obsidian Glass Door.png" src="/images/thumb/2/23/Obsidian_Glass_Door.png/32px-Obsidian_Glass_Door.png" decoding="async" width="32" height="32" srcset="/images/thumb/2/23/Obsidian_Glass_Door.png/48px-Obsidian_Glass_Door.png 1.5x, /images/thumb/2/23/Obsidian_Glass_Door.png/64px-Obsidian_Glass_Door.png 2x" /></a></td>
+<td width="150px"><a href="/Obsidian_Glass_Door/de" title="Obsidian Glass Door/de">Obsidianglastür</a>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Licht">Licht</span></h3>
+<table class="wikitable">
+<tbody><tr>
+<td><a href="/File:Mese_Lamp.png" class="image"><img alt="Mese Lamp.png" src="/images/thumb/5/59/Mese_Lamp.png/32px-Mese_Lamp.png" decoding="async" width="32" height="32" srcset="/images/thumb/5/59/Mese_Lamp.png/48px-Mese_Lamp.png 1.5x, /images/thumb/5/59/Mese_Lamp.png/64px-Mese_Lamp.png 2x" /></a></td>
+<td width="150px"><a href="/index.php?title=Mese_Lamp/de&amp;action=edit&amp;redlink=1" class="new" title="Mese Lamp/de (page does not exist)">Mese-Lampe</a>
+</td>
+<td><a href="/File:Mese_Post_Light.png" class="image"><img alt="Mese Post Light.png" src="/images/thumb/a/a7/Mese_Post_Light.png/32px-Mese_Post_Light.png" decoding="async" width="32" height="32" srcset="/images/thumb/a/a7/Mese_Post_Light.png/48px-Mese_Post_Light.png 1.5x, /images/thumb/a/a7/Mese_Post_Light.png/64px-Mese_Post_Light.png 2x" /></a></td>
+<td width="150px"><a href="/Mese_Post_Light/de" title="Mese Post Light/de">Mese-Straßenlaterne</a>
+</td>
+<td><a href="/File:Torch.png" class="image"><img alt="Torch.png" src="/images/thumb/b/b2/Torch.png/32px-Torch.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/b2/Torch.png/48px-Torch.png 1.5x, /images/thumb/b/b2/Torch.png/64px-Torch.png 2x" /></a></td>
+<td><a href="/Torch/de" title="Torch/de">Fackel</a>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Transport">Transport</span></h3>
+<table class="wikitable">
+<tbody><tr>
+<td><a href="/File:Rail.png" class="image"><img alt="Rail.png" src="/images/thumb/1/1e/Rail.png/32px-Rail.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/1e/Rail.png/48px-Rail.png 1.5x, /images/thumb/1/1e/Rail.png/64px-Rail.png 2x" /></a></td>
+<td><a href="/Rail/de" title="Rail/de">Schiene</a>
+</td>
+<td><a href="/File:Brake_rail.png" class="image"><img alt="Brake rail.png" src="/images/thumb/e/ed/Brake_rail.png/32px-Brake_rail.png" decoding="async" width="32" height="32" srcset="/images/thumb/e/ed/Brake_rail.png/48px-Brake_rail.png 1.5x, /images/thumb/e/ed/Brake_rail.png/64px-Brake_rail.png 2x" /></a></td>
+<td width="150px"><a href="/Rail/de" title="Rail/de">Schienebremse</a>
+</td>
+<td><a href="/File:Powered_rail.png" class="image"><img alt="Powered rail.png" src="/images/thumb/b/b1/Powered_rail.png/32px-Powered_rail.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/b1/Powered_rail.png/48px-Powered_rail.png 1.5x, /images/thumb/b/b1/Powered_rail.png/64px-Powered_rail.png 2x" /></a></td>
+<td width="150px"><a href="/Rail/de" title="Rail/de">Antriebsschiene</a>
+</td></tr>
+<tr>
+<td><a href="/File:Ladder.png" class="image"><img alt="Ladder.png" src="/images/thumb/6/63/Ladder.png/32px-Ladder.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/63/Ladder.png/48px-Ladder.png 1.5x, /images/thumb/6/63/Ladder.png/64px-Ladder.png 2x" /></a></td>
+<td><a href="/Wooden_Ladder/de" title="Wooden Ladder/de">Holzleiter</a>
+</td>
+<td><a href="/File:Steel_Ladder.png" class="image"><img alt="Steel Ladder.png" src="/images/thumb/0/02/Steel_Ladder.png/32px-Steel_Ladder.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/02/Steel_Ladder.png/48px-Steel_Ladder.png 1.5x, /images/thumb/0/02/Steel_Ladder.png/64px-Steel_Ladder.png 2x" /></a></td>
+<td width="150px"><a href="/Steel_Ladder/de" title="Steel Ladder/de">Eisenleiter</a>
+</td></tr></tbody></table>
+<h3><span id="Behälter"></span><span class="mw-headline" id="Beh.C3.A4lter">Behälter</span></h3>
+<table class="wikitable">
+<tbody><tr>
+<td><a href="/File:Chest.png" class="image"><img alt="Chest.png" src="/images/thumb/b/b3/Chest.png/32px-Chest.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/b3/Chest.png/48px-Chest.png 1.5x, /images/thumb/b/b3/Chest.png/64px-Chest.png 2x" /></a></td>
+<td width="150px"><a href="/Chest/de" title="Chest/de">Truhe</a>
+</td>
+<td><a href="/File:Locked_Chest.png" class="image"><img alt="Locked Chest.png" src="/images/thumb/d/d4/Locked_Chest.png/32px-Locked_Chest.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/d4/Locked_Chest.png/48px-Locked_Chest.png 1.5x, /images/thumb/d/d4/Locked_Chest.png/64px-Locked_Chest.png 2x" /></a></td>
+<td><a href="/index.php?title=Locked_Chest/de&amp;action=edit&amp;redlink=1" class="new" title="Locked Chest/de (page does not exist)">Verschlossene Truhe</a>
+</td>
+<td><a href="/File:Vessels_Shelf.png" class="image"><img alt="Vessels Shelf.png" src="/images/thumb/3/33/Vessels_Shelf.png/32px-Vessels_Shelf.png" decoding="async" width="32" height="32" srcset="/images/thumb/3/33/Vessels_Shelf.png/48px-Vessels_Shelf.png 1.5x, /images/thumb/3/33/Vessels_Shelf.png/64px-Vessels_Shelf.png 2x" /></a></td>
+<td width="150px"><a href="/Vessels_Shelf/de" title="Vessels Shelf/de">Geschirrregal</a>
+</td>
+<td><a href="/File:Bookshelf.png" class="image"><img alt="Bookshelf.png" src="/images/thumb/f/f7/Bookshelf.png/32px-Bookshelf.png" decoding="async" width="32" height="32" srcset="/images/thumb/f/f7/Bookshelf.png/48px-Bookshelf.png 1.5x, /images/thumb/f/f7/Bookshelf.png/64px-Bookshelf.png 2x" /></a></td>
+<td width="150px"><a href="/Bookshelf/de" class="mw-redirect" title="Bookshelf/de">Bücherregal</a>
+</td></tr></tbody></table>
+<h3><span id="Gebrauchsgegenstände"></span><span class="mw-headline" id="Gebrauchsgegenst.C3.A4nde">Gebrauchsgegenstände</span></h3>
+<table class="wikitable">
+<tbody><tr>
+<td><a href="/File:Furnace.png" class="image"><img alt="Furnace.png" src="/images/thumb/0/0f/Furnace.png/32px-Furnace.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/0f/Furnace.png/48px-Furnace.png 1.5x, /images/thumb/0/0f/Furnace.png/64px-Furnace.png 2x" /></a></td>
+<td><a href="/Furnace/de" title="Furnace/de">Ofen</a>
+</td></tr>
+<tr>
+<td><a href="/File:Gun_Powder.png" class="image"><img alt="Gun Powder.png" src="/images/thumb/d/dd/Gun_Powder.png/32px-Gun_Powder.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/dd/Gun_Powder.png/48px-Gun_Powder.png 1.5x, /images/thumb/d/dd/Gun_Powder.png/64px-Gun_Powder.png 2x" /></a></td>
+<td><a href="/Gun_Powder/de" title="Gun Powder/de">Schießpulver</a>
+</td>
+<td><a href="/File:TNT.png" class="image"><img alt="TNT.png" src="/images/thumb/1/1e/TNT.png/32px-TNT.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/1e/TNT.png/48px-TNT.png 1.5x, /images/thumb/1/1e/TNT.png/64px-TNT.png 2x" /></a></td>
+<td><a href="/TNT/de" title="TNT/de">Sprengstoff</a>
+</td></tr>
+<tr>
+<td><a href="/File:Sign.png" class="image"><img alt="Sign.png" src="/images/thumb/5/5d/Sign.png/32px-Sign.png" decoding="async" width="32" height="32" srcset="/images/thumb/5/5d/Sign.png/48px-Sign.png 1.5x, /images/thumb/5/5d/Sign.png/64px-Sign.png 2x" /></a></td>
+<td><a href="/Wooden_Sign/de" title="Wooden Sign/de">Holzschild</a>
+</td>
+<td><a href="/File:Steel_Sign.png" class="image"><img alt="Steel Sign.png" src="/images/thumb/0/06/Steel_Sign.png/32px-Steel_Sign.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/06/Steel_Sign.png/48px-Steel_Sign.png 1.5x, /images/thumb/0/06/Steel_Sign.png/64px-Steel_Sign.png 2x" /></a></td>
+<td width="150px"><a href="/Steel_Sign/de" title="Steel Sign/de">Eisenschild</a>
+</td></tr>
+<tr>
+<td><a href="/File:Simple_Bed.png" class="image"><img alt="Simple Bed.png" src="/images/thumb/b/b1/Simple_Bed.png/32px-Simple_Bed.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/b1/Simple_Bed.png/48px-Simple_Bed.png 1.5x, /images/thumb/b/b1/Simple_Bed.png/64px-Simple_Bed.png 2x" /></a></td>
+<td width="150px"><a href="/Simple_Bed/de" title="Simple Bed/de">Einfaches Bett</a>
+</td>
+<td><a href="/File:Fancy_Bed.png" class="image"><img alt="Fancy Bed.png" src="/images/thumb/6/68/Fancy_Bed.png/32px-Fancy_Bed.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/68/Fancy_Bed.png/48px-Fancy_Bed.png 1.5x, /images/thumb/6/68/Fancy_Bed.png/64px-Fancy_Bed.png 2x" /></a></td>
+<td width="150px"><a href="/Fancy_Bed/de" title="Fancy Bed/de">Schickes Bett</a>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Dekoration">Dekoration</span></h3>
+<table class="wikitable">
+<tbody><tr>
+<td><a href="/File:Drinking_glass.png" class="image"><img alt="Drinking glass.png" src="/images/thumb/e/e9/Drinking_glass.png/32px-Drinking_glass.png" decoding="async" width="32" height="32" srcset="/images/thumb/e/e9/Drinking_glass.png/48px-Drinking_glass.png 1.5x, /images/thumb/e/e9/Drinking_glass.png/64px-Drinking_glass.png 2x" /></a></td>
+<td><a href="/Drinking_Glass/de" title="Drinking Glass/de">Trinkglas</a>
+</td>
+<td><a href="/File:Glass_bottle.png" class="image"><img alt="Glass bottle.png" src="/images/thumb/3/3e/Glass_bottle.png/32px-Glass_bottle.png" decoding="async" width="32" height="32" srcset="/images/thumb/3/3e/Glass_bottle.png/48px-Glass_bottle.png 1.5x, /images/thumb/3/3e/Glass_bottle.png/64px-Glass_bottle.png 2x" /></a></td>
+<td><a href="/Glass_Bottle/de" title="Glass Bottle/de">Glasflasche</a>
+</td>
+<td><a href="/File:Heavy_Steel_Bottle.png" class="image"><img alt="Heavy Steel Bottle.png" src="/images/thumb/6/6c/Heavy_Steel_Bottle.png/32px-Heavy_Steel_Bottle.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/6c/Heavy_Steel_Bottle.png/48px-Heavy_Steel_Bottle.png 1.5x, /images/thumb/6/6c/Heavy_Steel_Bottle.png/64px-Heavy_Steel_Bottle.png 2x" /></a></td>
+<td><a href="/Heavy_Steel_Bottle/de" title="Heavy Steel Bottle/de">Schwere Eisenflasche</a>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Platten_und_Treppen">Platten und Treppen</span></h3>
+<table class="wikitable">
+<tbody><tr>
+<td><a href="/File:Acacia_Wood_Slab.png" class="image"><img alt="Acacia Wood Slab.png" src="/images/thumb/b/b5/Acacia_Wood_Slab.png/32px-Acacia_Wood_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/b5/Acacia_Wood_Slab.png/48px-Acacia_Wood_Slab.png 1.5x, /images/thumb/b/b5/Acacia_Wood_Slab.png/64px-Acacia_Wood_Slab.png 2x" /></a></td>
+<td width="150px"><a href="/Slab/de" title="Slab/de">Akazienholzplatte</a>
+</td>
+<td><a href="/File:Acacia_Wood_Stair.png" class="image"><img alt="Acacia Wood Stair.png" src="/images/thumb/0/05/Acacia_Wood_Stair.png/32px-Acacia_Wood_Stair.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/05/Acacia_Wood_Stair.png/48px-Acacia_Wood_Stair.png 1.5x, /images/thumb/0/05/Acacia_Wood_Stair.png/64px-Acacia_Wood_Stair.png 2x" /></a></td>
+<td width="150px"><a href="/Stair/de" title="Stair/de">Akazienholztreppe</a>
+</td>
+<td><a href="/File:Aspen_Wood_Slab.png" class="image"><img alt="Aspen Wood Slab.png" src="/images/thumb/6/6b/Aspen_Wood_Slab.png/32px-Aspen_Wood_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/6b/Aspen_Wood_Slab.png/48px-Aspen_Wood_Slab.png 1.5x, /images/thumb/6/6b/Aspen_Wood_Slab.png/64px-Aspen_Wood_Slab.png 2x" /></a></td>
+<td width="150px"><a href="/Slab/de" title="Slab/de">Espenholzplatte</a>
+</td>
+<td><a href="/File:Aspen_Wood_Stair.png" class="image"><img alt="Aspen Wood Stair.png" src="/images/thumb/5/55/Aspen_Wood_Stair.png/32px-Aspen_Wood_Stair.png" decoding="async" width="32" height="32" srcset="/images/thumb/5/55/Aspen_Wood_Stair.png/48px-Aspen_Wood_Stair.png 1.5x, /images/thumb/5/55/Aspen_Wood_Stair.png/64px-Aspen_Wood_Stair.png 2x" /></a></td>
+<td width="150px"><a href="/Stair/de" title="Stair/de">Espenholztreppe</a>
+</td></tr>
+<tr>
+<td><a href="/File:Brick_Slab.png" class="image"><img alt="Brick Slab.png" src="/images/thumb/5/58/Brick_Slab.png/32px-Brick_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/5/58/Brick_Slab.png/48px-Brick_Slab.png 1.5x, /images/thumb/5/58/Brick_Slab.png/64px-Brick_Slab.png 2x" /></a></td>
+<td width="150px"><a href="/Slab/de" title="Slab/de">Ziegelplatte</a>
+</td>
+<td><a href="/File:Brick_Stair.png" class="image"><img alt="Brick Stair.png" src="/images/thumb/b/b7/Brick_Stair.png/32px-Brick_Stair.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/b7/Brick_Stair.png/48px-Brick_Stair.png 1.5x, /images/thumb/b/b7/Brick_Stair.png/64px-Brick_Stair.png 2x" /></a></td>
+<td width="150px"><a href="/Stair/de" title="Stair/de">Ziegeltreppe</a>
+</td>
+<td><a href="/File:Bronze_Block_Slab.png" class="image"><img alt="Bronze Block Slab.png" src="/images/thumb/3/3e/Bronze_Block_Slab.png/32px-Bronze_Block_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/3/3e/Bronze_Block_Slab.png/48px-Bronze_Block_Slab.png 1.5x, /images/thumb/3/3e/Bronze_Block_Slab.png/64px-Bronze_Block_Slab.png 2x" /></a></td>
+<td width="150px"><a href="/Slab/de" title="Slab/de">Bronzeplatte</a>
+</td>
+<td><a href="/File:Bronze_Block_Stair.png" class="image"><img alt="Bronze Block Stair.png" src="/images/thumb/4/46/Bronze_Block_Stair.png/32px-Bronze_Block_Stair.png" decoding="async" width="32" height="32" srcset="/images/thumb/4/46/Bronze_Block_Stair.png/48px-Bronze_Block_Stair.png 1.5x, /images/thumb/4/46/Bronze_Block_Stair.png/64px-Bronze_Block_Stair.png 2x" /></a></td>
+<td><a href="/Stair/de" title="Stair/de">Bronzetreppe</a>
+</td></tr>
+<tr>
+<td><a href="/File:Cobblestone_Slab.png" class="image"><img alt="Cobblestone Slab.png" src="/images/thumb/3/31/Cobblestone_Slab.png/32px-Cobblestone_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/3/31/Cobblestone_Slab.png/48px-Cobblestone_Slab.png 1.5x, /images/thumb/3/31/Cobblestone_Slab.png/64px-Cobblestone_Slab.png 2x" /></a></td>
+<td><a href="/Slab/de" title="Slab/de">Pflastersteinplatte</a>
+</td>
+<td><a href="/File:Cobblestone_Stair.png" class="image"><img alt="Cobblestone Stair.png" src="/images/thumb/1/10/Cobblestone_Stair.png/32px-Cobblestone_Stair.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/10/Cobblestone_Stair.png/48px-Cobblestone_Stair.png 1.5x, /images/thumb/1/10/Cobblestone_Stair.png/64px-Cobblestone_Stair.png 2x" /></a></td>
+<td><a href="/Stair/de" title="Stair/de">Pflastersteintreppe</a>
+</td>
+<td><a href="/File:Copper_Block_Slab.png" class="image"><img alt="Copper Block Slab.png" src="/images/thumb/a/ac/Copper_Block_Slab.png/32px-Copper_Block_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/a/ac/Copper_Block_Slab.png/48px-Copper_Block_Slab.png 1.5x, /images/thumb/a/ac/Copper_Block_Slab.png/64px-Copper_Block_Slab.png 2x" /></a></td>
+<td><a href="/Slab/de" title="Slab/de">Kupferplatte</a>
+</td>
+<td><a href="/File:Copper_Block_Stair.png" class="image"><img alt="Copper Block Stair.png" src="/images/thumb/d/d5/Copper_Block_Stair.png/32px-Copper_Block_Stair.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/d5/Copper_Block_Stair.png/48px-Copper_Block_Stair.png 1.5x, /images/thumb/d/d5/Copper_Block_Stair.png/64px-Copper_Block_Stair.png 2x" /></a></td>
+<td><a href="/Stair/de" title="Stair/de">Kupfertreppe</a>
+</td></tr>
+<tr>
+<td><a href="/File:Desert_Cobblestone_Slab.png" class="image"><img alt="Desert Cobblestone Slab.png" src="/images/thumb/b/b4/Desert_Cobblestone_Slab.png/32px-Desert_Cobblestone_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/b4/Desert_Cobblestone_Slab.png/48px-Desert_Cobblestone_Slab.png 1.5x, /images/thumb/b/b4/Desert_Cobblestone_Slab.png/64px-Desert_Cobblestone_Slab.png 2x" /></a></td>
+<td><a href="/Slab/de" title="Slab/de">Wüstenpflastersteinplatte</a>
+</td>
+<td><a href="/File:Desert_Cobblestone_Stair.png" class="image"><img alt="Desert Cobblestone Stair.png" src="/images/thumb/4/4b/Desert_Cobblestone_Stair.png/32px-Desert_Cobblestone_Stair.png" decoding="async" width="32" height="32" srcset="/images/thumb/4/4b/Desert_Cobblestone_Stair.png/48px-Desert_Cobblestone_Stair.png 1.5x, /images/thumb/4/4b/Desert_Cobblestone_Stair.png/64px-Desert_Cobblestone_Stair.png 2x" /></a></td>
+<td><a href="/Stair/de" title="Stair/de">Wüstenpflastersteintreppe</a>
+</td>
+<td><a href="/File:Desert_Sandstone_Slab.png" class="image"><img alt="Desert Sandstone Slab.png" src="/images/thumb/6/6c/Desert_Sandstone_Slab.png/32px-Desert_Sandstone_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/6c/Desert_Sandstone_Slab.png/48px-Desert_Sandstone_Slab.png 1.5x, /images/thumb/6/6c/Desert_Sandstone_Slab.png/64px-Desert_Sandstone_Slab.png 2x" /></a></td>
+<td><a href="/Stair/de" title="Stair/de">Wüstensandsteinplatte</a>
+</td>
+<td><a href="/File:Desert_Sandstone_Stair.png" class="image"><img alt="Desert Sandstone Stair.png" src="/images/thumb/f/f6/Desert_Sandstone_Stair.png/32px-Desert_Sandstone_Stair.png" decoding="async" width="32" height="32" srcset="/images/thumb/f/f6/Desert_Sandstone_Stair.png/48px-Desert_Sandstone_Stair.png 1.5x, /images/thumb/f/f6/Desert_Sandstone_Stair.png/64px-Desert_Sandstone_Stair.png 2x" /></a></td>
+<td><a href="/Stair/de" title="Stair/de">Wüstensandsteintreppe</a>
+</td></tr>
+<tr>
+<td><a href="/File:Desert_Sandstone_Block_Slab.png" class="image"><img alt="Desert Sandstone Block Slab.png" src="/images/thumb/7/74/Desert_Sandstone_Block_Slab.png/32px-Desert_Sandstone_Block_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/7/74/Desert_Sandstone_Block_Slab.png/48px-Desert_Sandstone_Block_Slab.png 1.5x, /images/thumb/7/74/Desert_Sandstone_Block_Slab.png/64px-Desert_Sandstone_Block_Slab.png 2x" /></a></td>
+<td width="150px"><a href="/Slab/de" title="Slab/de">Wüstensandsteinblockplatte</a>
+</td>
+<td><a href="/File:Desert_Sandstone_Block_Stair.png" class="image"><img alt="Desert Sandstone Block Stair.png" src="/images/thumb/0/00/Desert_Sandstone_Block_Stair.png/32px-Desert_Sandstone_Block_Stair.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/00/Desert_Sandstone_Block_Stair.png/48px-Desert_Sandstone_Block_Stair.png 1.5x, /images/thumb/0/00/Desert_Sandstone_Block_Stair.png/64px-Desert_Sandstone_Block_Stair.png 2x" /></a></td>
+<td width="150px"><a href="/Stair/de" title="Stair/de">Wüstensandsteinblocktreppe</a>
+</td>
+<td><a href="/File:Desert_Sandstone_Brick_Slab.png" class="image"><img alt="Desert Sandstone Brick Slab.png" src="/images/thumb/3/3e/Desert_Sandstone_Brick_Slab.png/32px-Desert_Sandstone_Brick_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/3/3e/Desert_Sandstone_Brick_Slab.png/48px-Desert_Sandstone_Brick_Slab.png 1.5x, /images/thumb/3/3e/Desert_Sandstone_Brick_Slab.png/64px-Desert_Sandstone_Brick_Slab.png 2x" /></a></td>
+<td><a href="/Slab/de" title="Slab/de">Wüstensandsteinziegelplatte</a>
+</td>
+<td><a href="/File:Desert_Sandstone_Brick_Stair.png" class="image"><img alt="Desert Sandstone Brick Stair.png" src="/images/thumb/b/bb/Desert_Sandstone_Brick_Stair.png/32px-Desert_Sandstone_Brick_Stair.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/bb/Desert_Sandstone_Brick_Stair.png/48px-Desert_Sandstone_Brick_Stair.png 1.5x, /images/thumb/b/bb/Desert_Sandstone_Brick_Stair.png/64px-Desert_Sandstone_Brick_Stair.png 2x" /></a></td>
+<td><a href="/Stair/de" title="Stair/de">Wüstensandsteinziegeltreppe</a>
+</td></tr>
+<tr>
+<td><a href="/File:Desert_Stone_Slab.png" class="image"><img alt="Desert Stone Slab.png" src="/images/thumb/e/e0/Desert_Stone_Slab.png/32px-Desert_Stone_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/e/e0/Desert_Stone_Slab.png/48px-Desert_Stone_Slab.png 1.5x, /images/thumb/e/e0/Desert_Stone_Slab.png/64px-Desert_Stone_Slab.png 2x" /></a></td>
+<td><a href="/Slab/de" title="Slab/de">Wüstensteinplatte</a>
+</td>
+<td><a href="/File:Desert_Stone_Stair.png" class="image"><img alt="Desert Stone Stair.png" src="/images/thumb/f/f1/Desert_Stone_Stair.png/32px-Desert_Stone_Stair.png" decoding="async" width="32" height="32" srcset="/images/thumb/f/f1/Desert_Stone_Stair.png/48px-Desert_Stone_Stair.png 1.5x, /images/thumb/f/f1/Desert_Stone_Stair.png/64px-Desert_Stone_Stair.png 2x" /></a></td>
+<td><a href="/Stair/de" title="Stair/de">Wüstensteintreppe</a>
+</td>
+<td><a href="/File:Desert_Stone_Block_Slab.png" class="image"><img alt="Desert Stone Block Slab.png" src="/images/thumb/9/91/Desert_Stone_Block_Slab.png/32px-Desert_Stone_Block_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/9/91/Desert_Stone_Block_Slab.png/48px-Desert_Stone_Block_Slab.png 1.5x, /images/thumb/9/91/Desert_Stone_Block_Slab.png/64px-Desert_Stone_Block_Slab.png 2x" /></a></td>
+<td width="150px"><a href="/Slab/de" title="Slab/de">Wüstensteinblockplatte</a>
+</td>
+<td><a href="/File:Desert_Stone_Block_Stair.png" class="image"><img alt="Desert Stone Block Stair.png" src="/images/thumb/8/86/Desert_Stone_Block_Stair.png/32px-Desert_Stone_Block_Stair.png" decoding="async" width="32" height="32" srcset="/images/thumb/8/86/Desert_Stone_Block_Stair.png/48px-Desert_Stone_Block_Stair.png 1.5x, /images/thumb/8/86/Desert_Stone_Block_Stair.png/64px-Desert_Stone_Block_Stair.png 2x" /></a></td>
+<td width="150px"><a href="/Stair/de" title="Stair/de">Wüstensteinblocktreppe</a>
+</td></tr>
+<tr>
+<td><a href="/File:Desert_Stone_Brick_Slab.png" class="image"><img alt="Desert Stone Brick Slab.png" src="/images/thumb/6/6b/Desert_Stone_Brick_Slab.png/32px-Desert_Stone_Brick_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/6b/Desert_Stone_Brick_Slab.png/48px-Desert_Stone_Brick_Slab.png 1.5x, /images/thumb/6/6b/Desert_Stone_Brick_Slab.png/64px-Desert_Stone_Brick_Slab.png 2x" /></a></td>
+<td><a href="/Slab/de" title="Slab/de">Wüstensteinziegelplatte</a>
+</td>
+<td><a href="/File:Desert_Stone_Brick_Stair.png" class="image"><img alt="Desert Stone Brick Stair.png" src="/images/thumb/d/dd/Desert_Stone_Brick_Stair.png/32px-Desert_Stone_Brick_Stair.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/dd/Desert_Stone_Brick_Stair.png/48px-Desert_Stone_Brick_Stair.png 1.5x, /images/thumb/d/dd/Desert_Stone_Brick_Stair.png/64px-Desert_Stone_Brick_Stair.png 2x" /></a></td>
+<td><a href="/Stair/de" title="Stair/de">Wüstensteinziegeltreppe</a>
+</td>
+<td><a href="/File:Gold_Block_Slab.png" class="image"><img alt="Gold Block Slab.png" src="/images/thumb/0/05/Gold_Block_Slab.png/32px-Gold_Block_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/05/Gold_Block_Slab.png/48px-Gold_Block_Slab.png 1.5x, /images/thumb/0/05/Gold_Block_Slab.png/64px-Gold_Block_Slab.png 2x" /></a></td>
+<td><a href="/Slab/de" title="Slab/de">Goldblockplatte</a>
+</td>
+<td><a href="/File:Gold_Block_Stair.png" class="image"><img alt="Gold Block Stair.png" src="/images/thumb/2/21/Gold_Block_Stair.png/32px-Gold_Block_Stair.png" decoding="async" width="32" height="32" srcset="/images/thumb/2/21/Gold_Block_Stair.png/48px-Gold_Block_Stair.png 1.5x, /images/thumb/2/21/Gold_Block_Stair.png/64px-Gold_Block_Stair.png 2x" /></a></td>
+<td><a href="/Stair/de" title="Stair/de">Goldblocktreppe</a>
+</td></tr>
+<tr>
+<td><a href="/File:Ice_Slab.png" class="image"><img alt="Ice Slab.png" src="/images/thumb/f/f3/Ice_Slab.png/32px-Ice_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/f/f3/Ice_Slab.png/48px-Ice_Slab.png 1.5x, /images/thumb/f/f3/Ice_Slab.png/64px-Ice_Slab.png 2x" /></a></td>
+<td><a href="/Slab/de" title="Slab/de">Eisplatte</a>
+</td>
+<td><a href="/File:Ice_Stair.png" class="image"><img alt="Ice Stair.png" src="/images/thumb/0/03/Ice_Stair.png/32px-Ice_Stair.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/03/Ice_Stair.png/48px-Ice_Stair.png 1.5x, /images/thumb/0/03/Ice_Stair.png/64px-Ice_Stair.png 2x" /></a></td>
+<td><a href="/Stair/de" title="Stair/de">Eistreppe</a>
+</td>
+<td><a href="/File:Jungle_Wood_Slab.png" class="image"><img alt="Jungle Wood Slab.png" src="/images/thumb/d/d9/Jungle_Wood_Slab.png/32px-Jungle_Wood_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/d9/Jungle_Wood_Slab.png/48px-Jungle_Wood_Slab.png 1.5x, /images/thumb/d/d9/Jungle_Wood_Slab.png/64px-Jungle_Wood_Slab.png 2x" /></a></td>
+<td><a href="/Slab/de" title="Slab/de">Tropenholzplatte</a>
+</td>
+<td><a href="/File:Jungle_Wood_Stair.png" class="image"><img alt="Jungle Wood Stair.png" src="/images/thumb/e/ed/Jungle_Wood_Stair.png/32px-Jungle_Wood_Stair.png" decoding="async" width="32" height="32" srcset="/images/thumb/e/ed/Jungle_Wood_Stair.png/48px-Jungle_Wood_Stair.png 1.5x, /images/thumb/e/ed/Jungle_Wood_Stair.png/64px-Jungle_Wood_Stair.png 2x" /></a></td>
+<td><a href="/Stair/de" title="Stair/de">Tropenholztreppe</a>
+</td></tr>
+<tr>
+<td><a href="/File:Obsidian_Slab.png" class="image"><img alt="Obsidian Slab.png" src="/images/thumb/4/49/Obsidian_Slab.png/32px-Obsidian_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/4/49/Obsidian_Slab.png/48px-Obsidian_Slab.png 1.5x, /images/thumb/4/49/Obsidian_Slab.png/64px-Obsidian_Slab.png 2x" /></a></td>
+<td><a href="/Slab/de" title="Slab/de">Obsidianplatte</a>
+</td>
+<td><a href="/File:Obsidian_Stair.png" class="image"><img alt="Obsidian Stair.png" src="/images/thumb/d/d7/Obsidian_Stair.png/32px-Obsidian_Stair.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/d7/Obsidian_Stair.png/48px-Obsidian_Stair.png 1.5x, /images/thumb/d/d7/Obsidian_Stair.png/64px-Obsidian_Stair.png 2x" /></a></td>
+<td><a href="/Stair/de" title="Stair/de">Obsidiantreppe</a>
+</td>
+<td><a href="/File:Obsidian_Block_Slab.png" class="image"><img alt="Obsidian Block Slab.png" src="/images/thumb/0/0a/Obsidian_Block_Slab.png/32px-Obsidian_Block_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/0a/Obsidian_Block_Slab.png/48px-Obsidian_Block_Slab.png 1.5x, /images/thumb/0/0a/Obsidian_Block_Slab.png/64px-Obsidian_Block_Slab.png 2x" /></a></td>
+<td width="150px"><a href="/Slab/de" title="Slab/de">Obsidianblockplatte</a>
+</td>
+<td><a href="/File:Obsidian_Block_Stair.png" class="image"><img alt="Obsidian Block Stair.png" src="/images/thumb/8/8f/Obsidian_Block_Stair.png/32px-Obsidian_Block_Stair.png" decoding="async" width="32" height="32" srcset="/images/thumb/8/8f/Obsidian_Block_Stair.png/48px-Obsidian_Block_Stair.png 1.5x, /images/thumb/8/8f/Obsidian_Block_Stair.png/64px-Obsidian_Block_Stair.png 2x" /></a></td>
+<td width="150px"><a href="/Stair/de" title="Stair/de">Obsidianblocktreppe</a>
+</td></tr>
+<tr>
+<td><a href="/File:Obsidian_Brick_Slab.png" class="image"><img alt="Obsidian Brick Slab.png" src="/images/thumb/b/bd/Obsidian_Brick_Slab.png/32px-Obsidian_Brick_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/bd/Obsidian_Brick_Slab.png/48px-Obsidian_Brick_Slab.png 1.5x, /images/thumb/b/bd/Obsidian_Brick_Slab.png/64px-Obsidian_Brick_Slab.png 2x" /></a></td>
+<td><a href="/Slab/de" title="Slab/de">Obsidianziegelplatte</a>
+</td>
+<td><a href="/File:Obsidian_Brick_Stair.png" class="image"><img alt="Obsidian Brick Stair.png" src="/images/thumb/6/6b/Obsidian_Brick_Stair.png/32px-Obsidian_Brick_Stair.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/6b/Obsidian_Brick_Stair.png/48px-Obsidian_Brick_Stair.png 1.5x, /images/thumb/6/6b/Obsidian_Brick_Stair.png/64px-Obsidian_Brick_Stair.png 2x" /></a></td>
+<td><a href="/Stair/de" title="Stair/de">Obsidianziegeltreppe</a>
+</td>
+<td><a href="/File:Pine_Wood_Slab.png" class="image"><img alt="Pine Wood Slab.png" src="/images/thumb/c/c5/Pine_Wood_Slab.png/32px-Pine_Wood_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/c/c5/Pine_Wood_Slab.png/48px-Pine_Wood_Slab.png 1.5x, /images/thumb/c/c5/Pine_Wood_Slab.png/64px-Pine_Wood_Slab.png 2x" /></a></td>
+<td><a href="/Slab/de" title="Slab/de">Kiefernholzplatte</a>
+</td>
+<td><a href="/File:Pine_Wood_Stair.png" class="image"><img alt="Pine Wood Stair.png" src="/images/thumb/1/1e/Pine_Wood_Stair.png/32px-Pine_Wood_Stair.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/1e/Pine_Wood_Stair.png/48px-Pine_Wood_Stair.png 1.5x, /images/thumb/1/1e/Pine_Wood_Stair.png/64px-Pine_Wood_Stair.png 2x" /></a></td>
+<td><a href="/Stair/de" title="Stair/de">Kiefernholztreppe</a>
+</td></tr>
+<tr>
+<td><a href="/File:Sandstone_Slab.png" class="image"><img alt="Sandstone Slab.png" src="/images/thumb/b/bc/Sandstone_Slab.png/32px-Sandstone_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/bc/Sandstone_Slab.png/48px-Sandstone_Slab.png 1.5x, /images/thumb/b/bc/Sandstone_Slab.png/64px-Sandstone_Slab.png 2x" /></a></td>
+<td><a href="/Slab/de" title="Slab/de">Sandsteinplatte</a>
+</td>
+<td><a href="/File:Sandstone_Stair.png" class="image"><img alt="Sandstone Stair.png" src="/images/thumb/2/25/Sandstone_Stair.png/32px-Sandstone_Stair.png" decoding="async" width="32" height="32" srcset="/images/thumb/2/25/Sandstone_Stair.png/48px-Sandstone_Stair.png 1.5x, /images/thumb/2/25/Sandstone_Stair.png/64px-Sandstone_Stair.png 2x" /></a></td>
+<td><a href="/Stair/de" title="Stair/de">Sandsteintreppe</a>
+</td>
+<td><a href="/File:Sandstone_Block_Slab.png" class="image"><img alt="Sandstone Block Slab.png" src="/images/thumb/0/05/Sandstone_Block_Slab.png/32px-Sandstone_Block_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/05/Sandstone_Block_Slab.png/48px-Sandstone_Block_Slab.png 1.5x, /images/thumb/0/05/Sandstone_Block_Slab.png/64px-Sandstone_Block_Slab.png 2x" /></a></td>
+<td width="150px"><a href="/Slab/de" title="Slab/de">Sandsteinblockplatte</a>
+</td>
+<td><a href="/File:Sandstone_Block_Stair.png" class="image"><img alt="Sandstone Block Stair.png" src="/images/thumb/0/00/Sandstone_Block_Stair.png/32px-Sandstone_Block_Stair.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/00/Sandstone_Block_Stair.png/48px-Sandstone_Block_Stair.png 1.5x, /images/thumb/0/00/Sandstone_Block_Stair.png/64px-Sandstone_Block_Stair.png 2x" /></a></td>
+<td width="150px"><a href="/Stair/de" title="Stair/de">Sandsteinblocktreppe</a>
+</td></tr>
+<tr>
+<td><a href="/File:Sandstone_Brick_Slab.png" class="image"><img alt="Sandstone Brick Slab.png" src="/images/thumb/9/9a/Sandstone_Brick_Slab.png/32px-Sandstone_Brick_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/9/9a/Sandstone_Brick_Slab.png/48px-Sandstone_Brick_Slab.png 1.5x, /images/thumb/9/9a/Sandstone_Brick_Slab.png/64px-Sandstone_Brick_Slab.png 2x" /></a></td>
+<td><a href="/Slab/de" title="Slab/de">Sandsteinziegelplatte</a>
+</td>
+<td><a href="/File:Sandstone_Brick_Stair.png" class="image"><img alt="Sandstone Brick Stair.png" src="/images/thumb/a/a5/Sandstone_Brick_Stair.png/32px-Sandstone_Brick_Stair.png" decoding="async" width="32" height="32" srcset="/images/thumb/a/a5/Sandstone_Brick_Stair.png/48px-Sandstone_Brick_Stair.png 1.5x, /images/thumb/a/a5/Sandstone_Brick_Stair.png/64px-Sandstone_Brick_Stair.png 2x" /></a></td>
+<td><a href="/Stair/de" title="Stair/de">Sandsteinziegeltreppe</a>
+</td>
+<td><a href="/File:Silver_Sandstone_Stair.png" class="image"><img alt="Silver Sandstone Stair.png" src="/images/thumb/b/b8/Silver_Sandstone_Stair.png/32px-Silver_Sandstone_Stair.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/b8/Silver_Sandstone_Stair.png/48px-Silver_Sandstone_Stair.png 1.5x, /images/thumb/b/b8/Silver_Sandstone_Stair.png/64px-Silver_Sandstone_Stair.png 2x" /></a></td>
+<td><a href="/Stair/de" title="Stair/de">Silbersandsteintreppe</a>
+</td>
+<td><a href="/File:Silver_Sandstone_Slab.png" class="image"><img alt="Silver Sandstone Slab.png" src="/images/thumb/e/e7/Silver_Sandstone_Slab.png/32px-Silver_Sandstone_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/e/e7/Silver_Sandstone_Slab.png/48px-Silver_Sandstone_Slab.png 1.5x, /images/thumb/e/e7/Silver_Sandstone_Slab.png/64px-Silver_Sandstone_Slab.png 2x" /></a></td>
+<td><a href="/Stair/de" title="Stair/de">Silbersandsteinplatte</a>
+</td></tr>
+<tr>
+<td><a href="/File:Silver_Sandstone_Block_Slab.png" class="image"><img alt="Silver Sandstone Block Slab.png" src="/images/thumb/5/54/Silver_Sandstone_Block_Slab.png/32px-Silver_Sandstone_Block_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/5/54/Silver_Sandstone_Block_Slab.png/48px-Silver_Sandstone_Block_Slab.png 1.5x, /images/thumb/5/54/Silver_Sandstone_Block_Slab.png/64px-Silver_Sandstone_Block_Slab.png 2x" /></a></td>
+<td width="150px"><a href="/Slab/de" title="Slab/de">Silbersandsteinblockplatte</a>
+</td>
+<td><a href="/File:Silver_Sandstone_Block_Stair.png" class="image"><img alt="Silver Sandstone Block Stair.png" src="/images/thumb/d/df/Silver_Sandstone_Block_Stair.png/32px-Silver_Sandstone_Block_Stair.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/df/Silver_Sandstone_Block_Stair.png/48px-Silver_Sandstone_Block_Stair.png 1.5x, /images/thumb/d/df/Silver_Sandstone_Block_Stair.png/64px-Silver_Sandstone_Block_Stair.png 2x" /></a></td>
+<td width="150px"><a href="/Stair/de" title="Stair/de">Silbersandsteinblocktreppe</a>
+</td>
+<td><a href="/File:Silver_Sandstone_Brick_Slab.png" class="image"><img alt="Silver Sandstone Brick Slab.png" src="/images/thumb/b/bb/Silver_Sandstone_Brick_Slab.png/32px-Silver_Sandstone_Brick_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/bb/Silver_Sandstone_Brick_Slab.png/48px-Silver_Sandstone_Brick_Slab.png 1.5x, /images/thumb/b/bb/Silver_Sandstone_Brick_Slab.png/64px-Silver_Sandstone_Brick_Slab.png 2x" /></a></td>
+<td><a href="/Slab/de" title="Slab/de">Silbersandsteinziegelplatte</a>
+</td>
+<td><a href="/File:Silver_Sandstone_Brick_Stair.png" class="image"><img alt="Silver Sandstone Brick Stair.png" src="/images/thumb/f/f6/Silver_Sandstone_Brick_Stair.png/32px-Silver_Sandstone_Brick_Stair.png" decoding="async" width="32" height="32" srcset="/images/thumb/f/f6/Silver_Sandstone_Brick_Stair.png/48px-Silver_Sandstone_Brick_Stair.png 1.5x, /images/thumb/f/f6/Silver_Sandstone_Brick_Stair.png/64px-Silver_Sandstone_Brick_Stair.png 2x" /></a></td>
+<td><a href="/Stair/de" title="Stair/de">Silbersandsteinziegeltreppe</a>
+</td></tr>
+<tr>
+<td><a href="/File:Snow_Block_Slab.png" class="image"><img alt="Snow Block Slab.png" src="/images/thumb/4/4b/Snow_Block_Slab.png/32px-Snow_Block_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/4/4b/Snow_Block_Slab.png/48px-Snow_Block_Slab.png 1.5x, /images/thumb/4/4b/Snow_Block_Slab.png/64px-Snow_Block_Slab.png 2x" /></a></td>
+<td><a href="/Slab/de" title="Slab/de">Schneeblockplatte</a>
+</td>
+<td><a href="/File:Snow_Block_Stair.png" class="image"><img alt="Snow Block Stair.png" src="/images/thumb/d/da/Snow_Block_Stair.png/32px-Snow_Block_Stair.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/da/Snow_Block_Stair.png/48px-Snow_Block_Stair.png 1.5x, /images/thumb/d/da/Snow_Block_Stair.png/64px-Snow_Block_Stair.png 2x" /></a></td>
+<td><a href="/Stair/de" title="Stair/de">Schneeblocktreppe</a>
+</td>
+<td><a href="/File:Steel_Block_Slab.png" class="image"><img alt="Steel Block Slab.png" src="/images/thumb/6/67/Steel_Block_Slab.png/32px-Steel_Block_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/67/Steel_Block_Slab.png/48px-Steel_Block_Slab.png 1.5x, /images/thumb/6/67/Steel_Block_Slab.png/64px-Steel_Block_Slab.png 2x" /></a></td>
+<td><a href="/Slab/de" title="Slab/de">Eisenblockplatte</a>
+</td>
+<td><a href="/File:Steel_Block_Stair.png" class="image"><img alt="Steel Block Stair.png" src="/images/thumb/7/7d/Steel_Block_Stair.png/32px-Steel_Block_Stair.png" decoding="async" width="32" height="32" srcset="/images/thumb/7/7d/Steel_Block_Stair.png/48px-Steel_Block_Stair.png 1.5x, /images/thumb/7/7d/Steel_Block_Stair.png/64px-Steel_Block_Stair.png 2x" /></a></td>
+<td><a href="/Stair/de" title="Stair/de">Eisenblocktreppe</a>
+</td></tr>
+<tr>
+<td><a href="/File:Stone_Slab.png" class="image"><img alt="Stone Slab.png" src="/images/thumb/0/0e/Stone_Slab.png/32px-Stone_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/0e/Stone_Slab.png/48px-Stone_Slab.png 1.5x, /images/thumb/0/0e/Stone_Slab.png/64px-Stone_Slab.png 2x" /></a></td>
+<td><a href="/Slab/de" title="Slab/de">Steinplatte</a>
+</td>
+<td><a href="/File:Stone_Stair.png" class="image"><img alt="Stone Stair.png" src="/images/thumb/a/a3/Stone_Stair.png/32px-Stone_Stair.png" decoding="async" width="32" height="32" srcset="/images/thumb/a/a3/Stone_Stair.png/48px-Stone_Stair.png 1.5x, /images/thumb/a/a3/Stone_Stair.png/64px-Stone_Stair.png 2x" /></a></td>
+<td><a href="/Stair/de" title="Stair/de">Steintreppe</a>
+</td>
+<td><a href="/File:Stone_Block_Slab.png" class="image"><img alt="Stone Block Slab.png" src="/images/thumb/5/55/Stone_Block_Slab.png/32px-Stone_Block_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/5/55/Stone_Block_Slab.png/48px-Stone_Block_Slab.png 1.5x, /images/thumb/5/55/Stone_Block_Slab.png/64px-Stone_Block_Slab.png 2x" /></a></td>
+<td width="150px"><a href="/Slab/de" title="Slab/de">Steinblockplatte</a>
+</td>
+<td><a href="/File:Stone_Block_Stair.png" class="image"><img alt="Stone Block Stair.png" src="/images/thumb/0/00/Stone_Block_Stair.png/32px-Stone_Block_Stair.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/00/Stone_Block_Stair.png/48px-Stone_Block_Stair.png 1.5x, /images/thumb/0/00/Stone_Block_Stair.png/64px-Stone_Block_Stair.png 2x" /></a></td>
+<td><a href="/Stair/de" title="Stair/de">Steinblocktreppe</a>
+</td></tr>
+<tr>
+<td><a href="/File:Stone_Brick_Slab.png" class="image"><img alt="Stone Brick Slab.png" src="/images/thumb/2/21/Stone_Brick_Slab.png/32px-Stone_Brick_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/2/21/Stone_Brick_Slab.png/48px-Stone_Brick_Slab.png 1.5x, /images/thumb/2/21/Stone_Brick_Slab.png/64px-Stone_Brick_Slab.png 2x" /></a></td>
+<td><a href="/Slab/de" title="Slab/de">Steinziegelplatte</a>
+</td>
+<td><a href="/File:Stone_Brick_Stair.png" class="image"><img alt="Stone Brick Stair.png" src="/images/thumb/1/12/Stone_Brick_Stair.png/32px-Stone_Brick_Stair.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/12/Stone_Brick_Stair.png/48px-Stone_Brick_Stair.png 1.5x, /images/thumb/1/12/Stone_Brick_Stair.png/64px-Stone_Brick_Stair.png 2x" /></a></td>
+<td><a href="/Stair/de" title="Stair/de">Steinziegeltreppe</a>
+</td>
+<td><a href="/File:Straw_Slab.png" class="image"><img alt="Straw Slab.png" src="/images/thumb/8/85/Straw_Slab.png/32px-Straw_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/8/85/Straw_Slab.png/48px-Straw_Slab.png 1.5x, /images/thumb/8/85/Straw_Slab.png/64px-Straw_Slab.png 2x" /></a></td>
+<td><a href="/Slab/de" title="Slab/de">Strohplatte</a>
+</td>
+<td><a href="/File:Straw_Stair.png" class="image"><img alt="Straw Stair.png" src="/images/thumb/5/5d/Straw_Stair.png/32px-Straw_Stair.png" decoding="async" width="32" height="32" srcset="/images/thumb/5/5d/Straw_Stair.png/48px-Straw_Stair.png 1.5x, /images/thumb/5/5d/Straw_Stair.png/64px-Straw_Stair.png 2x" /></a></td>
+<td><a href="/Slab/de" title="Slab/de">Strohtreppe</a>
+</td></tr>
+<tr>
+<td><a href="/File:Wooden_Slab.png" class="image"><img alt="Wooden Slab.png" src="/images/thumb/6/61/Wooden_Slab.png/32px-Wooden_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/61/Wooden_Slab.png/48px-Wooden_Slab.png 1.5x, /images/thumb/6/61/Wooden_Slab.png/64px-Wooden_Slab.png 2x" /></a></td>
+<td><a href="/Slab/de" title="Slab/de">Holzplatte</a>
+</td>
+<td><a href="/File:Wooden_Stair.png" class="image"><img alt="Wooden Stair.png" src="/images/thumb/7/72/Wooden_Stair.png/32px-Wooden_Stair.png" decoding="async" width="32" height="32" srcset="/images/thumb/7/72/Wooden_Stair.png/48px-Wooden_Stair.png 1.5x, /images/thumb/7/72/Wooden_Stair.png/64px-Wooden_Stair.png 2x" /></a></td>
+<td><a href="/Stair/de" title="Stair/de">Holztreppe</a>
+</td></tr></tbody></table>
+<p><br />
+</p>
+<h2><span id="Gewachsene_Blöcke"></span><span class="mw-headline" id="Gewachsene_Bl.C3.B6cke">Gewachsene Blöcke</span></h2>
+<p>Diese Blocke kommen nicht natürlich vor, sie werden vom Spieler gepflanzt und geerntet.
+</p>
+<table class="wikitable">
+<tbody><tr>
+<td><a href="/File:Sapling.png" class="image"><img alt="Sapling.png" src="/images/thumb/5/51/Sapling.png/32px-Sapling.png" decoding="async" width="32" height="32" srcset="/images/thumb/5/51/Sapling.png/48px-Sapling.png 1.5x, /images/thumb/5/51/Sapling.png/64px-Sapling.png 2x" /></a></td>
+<td width="150px"><a href="/index.php?title=Saplings/de&amp;action=edit&amp;redlink=1" class="new" title="Saplings/de (page does not exist)">Setzling</a>
+</td>
+<td><a href="/File:Acacia_Tree_Sapling.png" class="image"><img alt="Acacia Tree Sapling.png" src="/images/thumb/0/0e/Acacia_Tree_Sapling.png/32px-Acacia_Tree_Sapling.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/0e/Acacia_Tree_Sapling.png/48px-Acacia_Tree_Sapling.png 1.5x, /images/thumb/0/0e/Acacia_Tree_Sapling.png/64px-Acacia_Tree_Sapling.png 2x" /></a></td>
+<td width="150px"><a href="/index.php?title=Saplings/de&amp;action=edit&amp;redlink=1" class="new" title="Saplings/de (page does not exist)">Akaziensetzling</a>
+</td>
+<td><a href="/File:Aspen_Tree_Sapling.png" class="image"><img alt="Aspen Tree Sapling.png" src="/images/thumb/5/52/Aspen_Tree_Sapling.png/32px-Aspen_Tree_Sapling.png" decoding="async" width="32" height="32" srcset="/images/thumb/5/52/Aspen_Tree_Sapling.png/48px-Aspen_Tree_Sapling.png 1.5x, /images/thumb/5/52/Aspen_Tree_Sapling.png/64px-Aspen_Tree_Sapling.png 2x" /></a></td>
+<td width="150px"><a href="/index.php?title=Saplings/de&amp;action=edit&amp;redlink=1" class="new" title="Saplings/de (page does not exist)">Espensetzling</a>
+</td>
+<td><a href="/File:Jungle_Sapling.png" class="image"><img alt="Jungle Sapling.png" src="/images/thumb/8/8d/Jungle_Sapling.png/32px-Jungle_Sapling.png" decoding="async" width="32" height="32" srcset="/images/thumb/8/8d/Jungle_Sapling.png/48px-Jungle_Sapling.png 1.5x, /images/thumb/8/8d/Jungle_Sapling.png/64px-Jungle_Sapling.png 2x" /></a></td>
+<td width="150px"><a href="/index.php?title=Saplings/de&amp;action=edit&amp;redlink=1" class="new" title="Saplings/de (page does not exist)">Tropenbaumsetzling</a>
+</td>
+<td><a href="/File:Pine_Sapling.png" class="image"><img alt="Pine Sapling.png" src="/images/thumb/1/18/Pine_Sapling.png/32px-Pine_Sapling.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/18/Pine_Sapling.png/48px-Pine_Sapling.png 1.5x, /images/thumb/1/18/Pine_Sapling.png/64px-Pine_Sapling.png 2x" /></a></td>
+<td width="150px"><a href="/index.php?title=Saplings/de&amp;action=edit&amp;redlink=1" class="new" title="Saplings/de (page does not exist)">Kiefernsetzling</a>
+</td></tr>
+<tr>
+<td><a href="/File:Bush_Sapling.png" class="image"><img alt="Bush Sapling.png" src="/images/thumb/2/21/Bush_Sapling.png/32px-Bush_Sapling.png" decoding="async" width="32" height="32" srcset="/images/thumb/2/21/Bush_Sapling.png/48px-Bush_Sapling.png 1.5x, /images/thumb/2/21/Bush_Sapling.png/64px-Bush_Sapling.png 2x" /></a></td>
+<td width="150px"><a href="/Bush_Saplings/de" title="Bush Saplings/de">Strauchsetzling</a>
+</td>
+<td><a href="/File:Acacia_Bush_Sapling.png" class="image"><img alt="Acacia Bush Sapling.png" src="/images/thumb/0/01/Acacia_Bush_Sapling.png/32px-Acacia_Bush_Sapling.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/01/Acacia_Bush_Sapling.png/48px-Acacia_Bush_Sapling.png 1.5x, /images/thumb/0/01/Acacia_Bush_Sapling.png/64px-Acacia_Bush_Sapling.png 2x" /></a></td>
+<td width="150px"><a href="/Bush_Saplings/de" title="Bush Saplings/de">Akazienstrauchsetzling</a>
+</td></tr>
+<tr>
+<td><a href="/File:Cotton_Seed.png" class="image"><img alt="Cotton Seed.png" src="/images/thumb/9/97/Cotton_Seed.png/32px-Cotton_Seed.png" decoding="async" width="32" height="32" srcset="/images/thumb/9/97/Cotton_Seed.png/48px-Cotton_Seed.png 1.5x, /images/thumb/9/97/Cotton_Seed.png/64px-Cotton_Seed.png 2x" /></a></td>
+<td width="150px"><a href="/Cotton_Seed/de" title="Cotton Seed/de">Baumwollsaat</a>
+</td>
+<td><a href="/File:Wheat_Seed.png" class="image"><img alt="Wheat Seed.png" src="/images/thumb/7/73/Wheat_Seed.png/32px-Wheat_Seed.png" decoding="async" width="32" height="32" srcset="/images/thumb/7/73/Wheat_Seed.png/48px-Wheat_Seed.png 1.5x, /images/thumb/7/73/Wheat_Seed.png/64px-Wheat_Seed.png 2x" /></a></td>
+<td width="150px"><a href="/Wheat_Seed/de" title="Wheat Seed/de">Weizensaat</a>
+</td></tr>
+<tr>
+<td><a href="/File:Cotton_8.png" class="image"><img alt="Cotton 8.png" src="/images/thumb/0/0c/Cotton_8.png/32px-Cotton_8.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/0c/Cotton_8.png/48px-Cotton_8.png 1.5x, /images/thumb/0/0c/Cotton_8.png/64px-Cotton_8.png 2x" /></a></td>
+<td width="150px"><a href="/Cotton_Plant/de" title="Cotton Plant/de">Baumwollpflanze</a>
+</td>
+<td><a href="/File:Wheat_8.png" class="image"><img alt="Wheat 8.png" src="/images/thumb/3/38/Wheat_8.png/32px-Wheat_8.png" decoding="async" width="32" height="32" srcset="/images/thumb/3/38/Wheat_8.png/48px-Wheat_8.png 1.5x, /images/thumb/3/38/Wheat_8.png/64px-Wheat_8.png 2x" /></a></td>
+<td width="150px"><a href="/Wheat_Plant/de" title="Wheat Plant/de">Weizenpflanze</a>
+</td></tr></tbody></table>
+<p><br />
+</p>
+<h2><span id="Blöcke_aus_Spezialevents"></span><span class="mw-headline" id="Bl.C3.B6cke_aus_Spezialevents">Blöcke aus Spezialevents</span></h2>
+<table class="wikitable">
+<tbody><tr>
+<td><a href="/File:Obsidian.png" class="image"><img alt="Obsidian.png" src="/images/thumb/2/23/Obsidian.png/32px-Obsidian.png" decoding="async" width="32" height="32" srcset="/images/thumb/2/23/Obsidian.png/48px-Obsidian.png 1.5x, /images/thumb/2/23/Obsidian.png/64px-Obsidian.png 2x" /></a></td>
+<td width="150px"><a href="/Obsidian/de" title="Obsidian/de">Obsidian</a>
+</td>
+<td><a href="/File:Mossy_Cobblestone_Slab.png" class="image"><img alt="Mossy Cobblestone Slab.png" src="/images/thumb/9/9b/Mossy_Cobblestone_Slab.png/32px-Mossy_Cobblestone_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/9/9b/Mossy_Cobblestone_Slab.png/48px-Mossy_Cobblestone_Slab.png 1.5x, /images/thumb/9/9b/Mossy_Cobblestone_Slab.png/64px-Mossy_Cobblestone_Slab.png 2x" /></a></td>
+<td><a href="/Slab/de" title="Slab/de">Moosbewachsene Pflastersteinplatte</a>
+</td>
+<td><a href="/File:Mossy_Cobblestone_Stair.png" class="image"><img alt="Mossy Cobblestone Stair.png" src="/images/thumb/b/bf/Mossy_Cobblestone_Stair.png/32px-Mossy_Cobblestone_Stair.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/bf/Mossy_Cobblestone_Stair.png/48px-Mossy_Cobblestone_Stair.png 1.5x, /images/thumb/b/bf/Mossy_Cobblestone_Stair.png/64px-Mossy_Cobblestone_Stair.png 2x" /></a></td>
+<td><a href="/Stair/de" title="Stair/de">Moosbewachsene Pflastersteintreppe</a>
+</td>
+<td><a href="/File:Fire.png" class="image"><img alt="Fire.png" src="/images/thumb/3/30/Fire.png/32px-Fire.png" decoding="async" width="32" height="32" srcset="/images/thumb/3/30/Fire.png/48px-Fire.png 1.5x, /images/thumb/3/30/Fire.png/64px-Fire.png 2x" /></a></td>
+<td width="150px"><a href="/Fire/de" title="Fire/de">Feuer</a>
+</td>
+<td><a href="/File:Fire.png" class="image"><img alt="Fire.png" src="/images/thumb/3/30/Fire.png/32px-Fire.png" decoding="async" width="32" height="32" srcset="/images/thumb/3/30/Fire.png/48px-Fire.png 1.5x, /images/thumb/3/30/Fire.png/64px-Fire.png 2x" /></a></td>
+<td width="150px"><a href="/Permanent_Flame/de" class="mw-redirect" title="Permanent Flame/de">Dauerhaft brennende Flamme</a>
+</td></tr>
+<tr>
+<td><a href="/File:Bones.png" class="image"><img alt="Bones.png" src="/images/thumb/5/5e/Bones.png/32px-Bones.png" decoding="async" width="32" height="32" srcset="/images/thumb/5/5e/Bones.png/48px-Bones.png 1.5x, /images/thumb/5/5e/Bones.png/64px-Bones.png 2x" /></a></td>
+<td width="150px"><a href="/Bones/de" title="Bones/de">Knochen</a>
+</td>
+<td><a href="/File:Soil.png" class="image"><img alt="Soil.png" src="/images/thumb/4/42/Soil.png/32px-Soil.png" decoding="async" width="32" height="32" srcset="/images/thumb/4/42/Soil.png/48px-Soil.png 1.5x, /images/thumb/4/42/Soil.png/64px-Soil.png 2x" /></a></td>
+<td width="150px"><a href="/Soil/de" title="Soil/de">Ackerboden</a>
+</td>
+<td><a href="/File:Wet_Soil.png" class="image"><img alt="Wet Soil.png" src="/images/thumb/9/90/Wet_Soil.png/32px-Wet_Soil.png" decoding="async" width="32" height="32" srcset="/images/thumb/9/90/Wet_Soil.png/48px-Wet_Soil.png 1.5x, /images/thumb/9/90/Wet_Soil.png/64px-Wet_Soil.png 2x" /></a></td>
+<td width="150px"><a href="/Wet_Soil/de" title="Wet Soil/de">Feuchter Ackerboden</a>
+</td>
+<td><a href="/File:Desert_Sand_Soil.png" class="image"><img alt="Desert Sand Soil.png" src="/images/thumb/1/10/Desert_Sand_Soil.png/32px-Desert_Sand_Soil.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/10/Desert_Sand_Soil.png/48px-Desert_Sand_Soil.png 1.5x, /images/thumb/1/10/Desert_Sand_Soil.png/64px-Desert_Sand_Soil.png 2x" /></a></td>
+<td width="150px"><a href="/Desert_Sand_Soil/de" title="Desert Sand Soil/de">Wüstenackerboden</a>
+</td>
+<td><a href="/File:Wet_Desert_Sand_Soil.png" class="image"><img alt="Wet Desert Sand Soil.png" src="/images/thumb/4/46/Wet_Desert_Sand_Soil.png/32px-Wet_Desert_Sand_Soil.png" decoding="async" width="32" height="32" srcset="/images/thumb/4/46/Wet_Desert_Sand_Soil.png/48px-Wet_Desert_Sand_Soil.png 1.5x, /images/thumb/4/46/Wet_Desert_Sand_Soil.png/64px-Wet_Desert_Sand_Soil.png 2x" /></a></td>
+<td width="150px"><a href="/Wet_Desert_Sand_Soil/de" title="Wet Desert Sand Soil/de">Feuchter Wüstenackerboden</a>
+</td></tr>
+<tr>
+<td><a href="/File:Air.png" class="image"><img alt="Air.png" src="/images/thumb/5/5f/Air.png/32px-Air.png" decoding="async" width="32" height="32" srcset="/images/thumb/5/5f/Air.png/48px-Air.png 1.5x, /images/thumb/5/5f/Air.png/64px-Air.png 2x" /></a></td>
+<td width="150px"><a href="/index.php?title=TNT_Explosion_Light/de&amp;action=edit&amp;redlink=1" class="new" title="TNT Explosion Light/de (page does not exist)">Sprengsoffexplosionslicht</a>
+</td></tr></tbody></table>
+<h2><span id="Nicht_verwendete_Blöcke"></span><span class="mw-headline" id="Nicht_verwendete_Bl.C3.B6cke">Nicht verwendete Blöcke</span></h2>
+<p>Diese Blöcke existieren ebenfalls im Minetest-Spiel, erscheinen aber weder im normalen Spiel noch im <a href="/index.php?title=Creative_mode/de&amp;action=edit&amp;redlink=1" class="new" title="Creative mode/de (page does not exist)">kreativen Modus</a>. Sie können nur auf unübliche Weise, z.B. mit dem <a href="/Server_commands/de#Player_actions" title="Server commands/de">Serverbefehl</a>
+“<code>/giveme</code>” erlangt werden.
+</p>
+<table class="wikitable">
+<tbody><tr>
+<td><a href="/File:Cloud.png" class="image"><img alt="Cloud.png" src="/images/thumb/d/d2/Cloud.png/32px-Cloud.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/d2/Cloud.png/48px-Cloud.png 1.5x, /images/thumb/d/d2/Cloud.png/64px-Cloud.png 2x" /></a></td>
+<td width="150px"><a href="/Cloud/de" title="Cloud/de">Wolke</a>
+</td>
+<td><a href="/File:Dirt_with_Grass_and_Footsteps.png" class="image"><img alt="Dirt with Grass and Footsteps.png" src="/images/thumb/4/43/Dirt_with_Grass_and_Footsteps.png/32px-Dirt_with_Grass_and_Footsteps.png" decoding="async" width="32" height="32" srcset="/images/thumb/4/43/Dirt_with_Grass_and_Footsteps.png/48px-Dirt_with_Grass_and_Footsteps.png 1.5x, /images/thumb/4/43/Dirt_with_Grass_and_Footsteps.png/64px-Dirt_with_Grass_and_Footsteps.png 2x" /></a></td>
+<td width="150px"><a href="/Dirt_with_Grass_and_Footsteps/de" title="Dirt with Grass and Footsteps/de">Erde mit Gras und Fußabdrücken</a>
+</td></tr></tbody></table>
+<h2><span id="Intern_benutzte_Blöcke"></span><span class="mw-headline" id="Intern_benutzte_Bl.C3.B6cke">Intern benutzte Blöcke</span></h2>
+<p>Intern benutzte Blöcke sind in Minetest Blöcke, die nur zu technischen Zwecken benutzt werden. Sie haben keine Bedeutung im Spiel und der Spieler kann nichts damit anfangen.
+</p>
+<table class="wikitable">
+<tbody><tr>
+<td><a href="/File:Air.png" class="image"><img alt="Air.png" src="/images/thumb/5/5f/Air.png/32px-Air.png" decoding="async" width="32" height="32" srcset="/images/thumb/5/5f/Air.png/48px-Air.png 1.5x, /images/thumb/5/5f/Air.png/64px-Air.png 2x" /></a></td>
+<td width="150px"><a href="/Ignore/de" title="Ignore/de">Ignoriert</a>
+</td>
+<td><a href="/File:Unknown_Node.png" class="image"><img alt="Unknown Node.png" src="/images/thumb/6/67/Unknown_Node.png/32px-Unknown_Node.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/67/Unknown_Node.png/48px-Unknown_Node.png 1.5x, /images/thumb/6/67/Unknown_Node.png/64px-Unknown_Node.png 2x" /></a></td>
+<td width="150px"><a href="/Unknown_Node/de" title="Unknown Node/de">Unbekannter Block</a>
+</td></tr></tbody></table>
+<h2><span id="Blöcke_in_zukünftigen_Versionen"></span><span class="mw-headline" id="Bl.C3.B6cke_in_zuk.C3.BCnftigen_Versionen">Blöcke in zukünftigen Versionen</span></h2>
+<p>Letzte Aktualisierung: 24. Oktober 2018
+</p>
+<table class="wikitable">
+<tbody><tr>
+<td><a href="/File:Tin_Block_Slab.png" class="image"><img alt="Tin Block Slab.png" src="/images/thumb/8/8b/Tin_Block_Slab.png/32px-Tin_Block_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/8/8b/Tin_Block_Slab.png/48px-Tin_Block_Slab.png 1.5x, /images/thumb/8/8b/Tin_Block_Slab.png/64px-Tin_Block_Slab.png 2x" /></a></td>
+<td width="150px"><a href="/Slab/de" title="Slab/de">Zinnblockplatte</a>
+</td>
+<td><a href="/File:Tin_Block_Stair.png" class="image"><img alt="Tin Block Stair.png" src="/images/thumb/a/aa/Tin_Block_Stair.png/32px-Tin_Block_Stair.png" decoding="async" width="32" height="32" srcset="/images/thumb/a/aa/Tin_Block_Stair.png/48px-Tin_Block_Stair.png 1.5x, /images/thumb/a/aa/Tin_Block_Stair.png/64px-Tin_Block_Stair.png 2x" /></a></td>
+<td width="150px"><a href="/Stair" title="Stair">Zinnblocktreppe</a>
+</td></tr>
+<tr>
+<td>???</td>
+<td width="150px"><a href="/Stair/de" title="Stair/de">Innere Treppe</a>
+</td>
+<td>???</td>
+<td width="150px"><a href="/Stair/de" title="Stair/de">Äußere Treppe</a>
+</td></tr>
+<tr>
+<td><a href="/File:Obsidian_Glass_Pane.png" class="image"><img alt="Obsidian Glass Pane.png" src="/images/thumb/8/82/Obsidian_Glass_Pane.png/32px-Obsidian_Glass_Pane.png" decoding="async" width="32" height="32" srcset="/images/thumb/8/82/Obsidian_Glass_Pane.png/48px-Obsidian_Glass_Pane.png 1.5x, /images/thumb/8/82/Obsidian_Glass_Pane.png/64px-Obsidian_Glass_Pane.png 2x" /></a></td>
+<td width="150px"><a href="/Obsidian_Glass_Pane/de" title="Obsidian Glass Pane/de">Obsidianglasscheibe</a>
+</td></tr>
+<tr>
+<td><a href="/File:Black_Tulip.png" class="image"><img alt="Black Tulip.png" src="/images/thumb/d/d4/Black_Tulip.png/32px-Black_Tulip.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/d4/Black_Tulip.png/48px-Black_Tulip.png 1.5x, /images/thumb/d/d4/Black_Tulip.png/64px-Black_Tulip.png 2x" /></a></td>
+<td width="150px"><a href="/Flower/de" title="Flower/de">Schwarze Tulpe</a>
+</td>
+<td><a href="/File:Green_Chrysanthemum.png" class="image"><img alt="Green Chrysanthemum.png" src="/images/thumb/9/9c/Green_Chrysanthemum.png/32px-Green_Chrysanthemum.png" decoding="async" width="32" height="32" srcset="/images/thumb/9/9c/Green_Chrysanthemum.png/48px-Green_Chrysanthemum.png 1.5x, /images/thumb/9/9c/Green_Chrysanthemum.png/64px-Green_Chrysanthemum.png 2x" /></a></td>
+<td width="150px"><a href="/Flower/de" title="Flower/de">Grüne Chrysantheme</a>
+</td>
+<td><a href="/File:Fern.png" class="image"><img alt="Fern.png" src="/images/thumb/5/5f/Fern.png/32px-Fern.png" decoding="async" width="32" height="32" srcset="/images/thumb/5/5f/Fern.png/48px-Fern.png 1.5x, /images/thumb/5/5f/Fern.png/64px-Fern.png 2x" /></a></td>
+<td width="150px"><a href="/Fern/de" title="Fern/de">Farn</a>
+</td>
+<td><a href="/File:Marram_Grass.png" class="image"><img alt="Marram Grass.png" src="/images/thumb/7/72/Marram_Grass.png/32px-Marram_Grass.png" decoding="async" width="32" height="32" srcset="/images/thumb/7/72/Marram_Grass.png/48px-Marram_Grass.png 1.5x, /images/thumb/7/72/Marram_Grass.png/64px-Marram_Grass.png 2x" /></a></td>
+<td width="150px"><a href="/Marram_Grass/de" title="Marram Grass/de">Dünengras</a>
+</td>
+<td><a href="/File:Kelp.png" class="image"><img alt="Kelp.png" src="/images/thumb/1/12/Kelp.png/32px-Kelp.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/12/Kelp.png/48px-Kelp.png 1.5x, /images/thumb/1/12/Kelp.png/64px-Kelp.png 2x" /></a></td>
+<td width="150px"><a href="/Kelp/de" title="Kelp/de">Seetang</a>
+</td></tr>
+<tr>
+<td><a href="/File:Dirt_with_Coniferous_Litter.png" class="image"><img alt="Dirt with Coniferous Litter.png" src="/images/thumb/e/e5/Dirt_with_Coniferous_Litter.png/32px-Dirt_with_Coniferous_Litter.png" decoding="async" width="32" height="32" srcset="/images/thumb/e/e5/Dirt_with_Coniferous_Litter.png/48px-Dirt_with_Coniferous_Litter.png 1.5x, /images/thumb/e/e5/Dirt_with_Coniferous_Litter.png/64px-Dirt_with_Coniferous_Litter.png 2x" /></a></td>
+<td width="150px"><a href="/Dirt_with_Coniferous_Litter/de" title="Dirt with Coniferous Litter/de">Erde mit Nadelbaumnadeln</a>
+</td>
+<td><a href="/File:Cave_Ice.png" class="image"><img alt="Cave Ice.png" src="/images/thumb/9/90/Cave_Ice.png/32px-Cave_Ice.png" decoding="async" width="32" height="32" srcset="/images/thumb/9/90/Cave_Ice.png/48px-Cave_Ice.png 1.5x, /images/thumb/9/90/Cave_Ice.png/64px-Cave_Ice.png 2x" /></a></td>
+<td width="150px"><a href="/index.php?title=Cave_Ice/de&amp;action=edit&amp;redlink=1" class="new" title="Cave Ice/de (page does not exist)">Höhleneis</a>
+</td>
+<td><a href="/File:Emergent_Jungle_Tree_Sapling.png" class="image"><img alt="Emergent Jungle Tree Sapling.png" src="/images/thumb/0/09/Emergent_Jungle_Tree_Sapling.png/32px-Emergent_Jungle_Tree_Sapling.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/09/Emergent_Jungle_Tree_Sapling.png/48px-Emergent_Jungle_Tree_Sapling.png 1.5x, /images/thumb/0/09/Emergent_Jungle_Tree_Sapling.png/64px-Emergent_Jungle_Tree_Sapling.png 2x" /></a></td>
+<td width="150px"><a href="/index.php?title=Saplings/de&amp;action=edit&amp;redlink=1" class="new" title="Saplings/de (page does not exist)">Junger Tropenbaumsetzling</a>
+</td></tr>
+<tr>
+<td><a href="/File:Firefly.png" class="image"><img alt="Firefly.png" src="/images/thumb/d/d7/Firefly.png/32px-Firefly.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/d7/Firefly.png/48px-Firefly.png 1.5x, /images/thumb/d/d7/Firefly.png/64px-Firefly.png 2x" /></a></td>
+<td width="150px"><a href="/index.php?title=Firefly/de&amp;action=edit&amp;redlink=1" class="new" title="Firefly/de (page does not exist)">Glühwürmchen</a>
+</td>
+<td><a href="/File:Firefly_in_a_Bottle.png" class="image"><img alt="Firefly in a Bottle.png" src="/images/thumb/2/2c/Firefly_in_a_Bottle.png/32px-Firefly_in_a_Bottle.png" decoding="async" width="32" height="32" srcset="/images/thumb/2/2c/Firefly_in_a_Bottle.png/48px-Firefly_in_a_Bottle.png 1.5x, /images/thumb/2/2c/Firefly_in_a_Bottle.png/64px-Firefly_in_a_Bottle.png 2x" /></a></td>
+<td width="150px"><a href="/index.php?title=Firefly_in_a_Bottle/de&amp;action=edit&amp;redlink=1" class="new" title="Firefly in a Bottle/de (page does not exist)">Glühwürmchen in einer Flasche</a>
+</td></tr></tbody></table>
+<h2><span id="Entfernte_Blöcke"></span><span class="mw-headline" id="Entfernte_Bl.C3.B6cke">Entfernte Blöcke</span></h2>
+<table class="wikitable">
+<tbody><tr>
+<td><a href="/File:Brown_Mushroom_Spores.png" class="image"><img alt="Brown Mushroom Spores.png" src="/images/thumb/c/c8/Brown_Mushroom_Spores.png/32px-Brown_Mushroom_Spores.png" decoding="async" width="32" height="32" srcset="/images/thumb/c/c8/Brown_Mushroom_Spores.png/48px-Brown_Mushroom_Spores.png 1.5x, /images/thumb/c/c8/Brown_Mushroom_Spores.png/64px-Brown_Mushroom_Spores.png 2x" /></a></td>
+<td><a href="/Brown_Mushroom_Spores/de" title="Brown Mushroom Spores/de">Braune Pilzsporen</a>
+</td>
+<td><a href="/File:Red_Mushroom_Spores.png" class="image"><img alt="Red Mushroom Spores.png" src="/images/thumb/a/af/Red_Mushroom_Spores.png/32px-Red_Mushroom_Spores.png" decoding="async" width="32" height="32" srcset="/images/thumb/a/af/Red_Mushroom_Spores.png/48px-Red_Mushroom_Spores.png 1.5x, /images/thumb/a/af/Red_Mushroom_Spores.png/64px-Red_Mushroom_Spores.png 2x" /></a></td>
+<td><a href="/Red_Mushroom_Spores/de" title="Red Mushroom Spores/de">Fliegenpilzsporen</a>
+</td></tr>
+<tr>
+<td><a href="/File:Nyan_Cat.png" class="image"><img alt="Nyan Cat.png" src="/images/thumb/7/71/Nyan_Cat.png/32px-Nyan_Cat.png" decoding="async" width="32" height="32" srcset="/images/thumb/7/71/Nyan_Cat.png/48px-Nyan_Cat.png 1.5x, /images/thumb/7/71/Nyan_Cat.png/64px-Nyan_Cat.png 2x" /></a></td>
+<td><a href="/Nyan_Cat/de" title="Nyan Cat/de">Nyankatze</a>
+</td>
+<td><a href="/File:Nyan_Cat_Rainbow.png" class="image"><img alt="Nyan Cat Rainbow.png" src="/images/thumb/6/67/Nyan_Cat_Rainbow.png/32px-Nyan_Cat_Rainbow.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/67/Nyan_Cat_Rainbow.png/48px-Nyan_Cat_Rainbow.png 1.5x, /images/thumb/6/67/Nyan_Cat_Rainbow.png/64px-Nyan_Cat_Rainbow.png 2x" /></a></td>
+<td><a href="/index.php?title=Nyan_Cat_Rainbow/de&amp;action=edit&amp;redlink=1" class="new" title="Nyan Cat Rainbow/de (page does not exist)">Nyankatzenregenbogen</a>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Siehe_auch">Siehe auch</span></h2>
+<ul><li><a href="/Items/de" class="mw-redirect" title="Items/de">Gegenstände</a></li>
+<li><a href="/index.php?title=Category:Blocks&amp;action=edit&amp;redlink=1" class="new" title="Category:Blocks (page does not exist)">Kategorie Blöcke</a></li></ul>
+<!-- 
+NewPP limit report
+Cached time: 20230709092847
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 2.032 seconds
+Real time usage: 2.864 seconds
+Preprocessor visited node count: 188/1000000
+Post‐expand include size: 21876/2097152 bytes
+Template argument size: 452/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 13/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.120/7 seconds
+Lua virtual size: 5.54 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  416.444      1 -total
+ 76.71%  319.443      1 Template:Languages
+  9.31%   38.753      1 Template:Manufactured_blocks/de
+  7.14%   29.720      1 Template:Grown_blocks/de
+  6.56%   27.306      1 Template:Naturally_generated_blocks/de
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:1455-0!canonical and timestamp 20230709092844 and revision id 25924
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Games/Minetest_Game/Nodes/de&amp;oldid=25924">http://wiki.minetest.net/index.php?title=Games/Minetest_Game/Nodes/de&amp;oldid=25924</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/Category:Deutsch" title="Category:Deutsch">Deutsch</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Games%2FMinetest+Game%2FNodes%2Fde" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Games/Minetest_Game/Nodes/de" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Games/Minetest_Game/Nodes/de&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Games/Minetest_Game/Nodes/de">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Games/Minetest_Game/Nodes/de&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Games/Minetest_Game/Nodes/de&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Games/Minetest_Game/Nodes/de" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Games/Minetest_Game/Nodes/de" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Games/Minetest_Game/Nodes/de&amp;oldid=25924" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Games/Minetest_Game/Nodes/de&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 16 April 2021, at 23:21.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"2.032","walltime":"2.864","ppvisitednodes":{"value":188,"limit":1000000},"postexpandincludesize":{"value":21876,"limit":2097152},"templateargumentsize":{"value":452,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":13,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  416.444      1 -total"," 76.71%  319.443      1 Template:Languages","  9.31%   38.753      1 Template:Manufactured_blocks/de","  7.14%   29.720      1 Template:Grown_blocks/de","  6.56%   27.306      1 Template:Naturally_generated_blocks/de"]},"scribunto":{"limitreport-timeusage":{"value":"0.120","limit":"7"},"limitreport-virtmemusage":{"value":5808128,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709092847","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":259});});</script></body></html>

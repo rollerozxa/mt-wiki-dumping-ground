@@ -1,0 +1,338 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Differences from Minecraft - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"9c4f9b5a93b59ec1e81c757a","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Differences_from_Minecraft","wgTitle":"Differences from Minecraft","wgCurRevisionId":27879,"wgRevisionId":27879,"wgArticleId":2990,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages","Gameplay"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Differences_from_Minecraft","wgRelevantArticleId":2990,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={
+"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Differences_from_Minecraft rootpage-Differences_from_Minecraft skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Differences from Minecraft</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> Language:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><b><a class="mw-selflink selflink">English</a></b>&#160;• <bdi lang="de"><a href="/Differences_from_Minecraft/de" title="Differences from Minecraft/de">Deutsch</a></bdi>&#160;• <bdi lang="ja"><a href="/Differences_from_Minecraft/ja" title="Differences from Minecraft/ja">日本語</a></bdi>&#160;• <bdi lang="ru"><a href="/Differences_from_Minecraft/ru" title="Differences from Minecraft/ru">русский</a></bdi></td>
+</tr></tbody></table>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Minetest"><span class="tocnumber">1</span> <span class="toctext">Minetest</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Gotchas"><span class="tocnumber">1.1</span> <span class="toctext">Gotchas</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Minetest_Game"><span class="tocnumber">2</span> <span class="toctext">Minetest Game</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Major_gameplay_concepts"><span class="tocnumber">2.1</span> <span class="toctext">Major gameplay concepts</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Gotchas_2"><span class="tocnumber">2.2</span> <span class="toctext">Gotchas</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Crafting_and_smelting"><span class="tocnumber">2.3</span> <span class="toctext">Crafting and smelting</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Blocks"><span class="tocnumber">2.4</span> <span class="toctext">Blocks</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Inventory"><span class="tocnumber">2.5</span> <span class="toctext">Inventory</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Mods_which_add_Minecraft-like_behaviour"><span class="tocnumber">2.6</span> <span class="toctext">Mods which add Minecraft-like behaviour</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Minetest"><a href="/Minetest" title="Minetest">Minetest</a></span></h2>
+<p>The main difference are the goals. While Minecraft is a proprietary sandbox/survival game, Minetest is a free software <b>game engine</b> which supports various voxel games in the likes of Minecraft, InfiniMiner, etc. See <a href="/Games" title="Games">Games</a> for more about this. It also allows <b><a href="/Mods" title="Mods">modding</a></b> at its core.
+</p><p>Other differences of Minetest compared to Minecraft:
+</p>
+<ul><li>Designed for low-end hardware</li>
+<li>Native <a href="/Mods" title="Mods">modding</a> support with the Lua programming language</li>
+<li>Mods work server-side, you can join any random server and it will work out of the box, no matter what amount of crazy mods the server is using</li>
+<li>Supports protection systems (to protect your buildings from griefers)</li>
+<li>World size is ca. 60000 blocks in all 3 dimensions</li>
+<li>More <a href="/Map_generator" title="Map generator">map generators</a></li>
+<li><a href="/Crafting" title="Crafting">Crafting</a> recipes are not automatically mirrored</li>
+<li><a href="/Smelting" class="mw-redirect" title="Smelting">Smelting</a> time of items may differ on a per-item basis</li>
+<li>No dual wielding</li>
+<li>A rather small base set of <a href="/Server_commands" title="Server commands">server commands</a></li>
+<li>A sophisticated system of <a href="/Privileges" title="Privileges">privileges</a></li>
+<li>Simpler <a href="/Liquid" title="Liquid">liquid</a> physics</li>
+<li>Built-in <a href="/index.php?title=Minimap&amp;action=edit&amp;redlink=1" class="new" title="Minimap (page does not exist)">minimap</a> and radar (press <kbd>F9</kbd> to view, <kbd>Shift + F9</kbd> to cycle between a square and round shape)</li></ul>
+<p>See also <a href="/Minetest" title="Minetest">Minetest</a>.
+</p>
+<h3><span class="mw-headline" id="Gotchas">Gotchas</span></h3>
+<ul><li>No game modes. Everything is configured with settings</li>
+<li><a href="/Creative_Mode" class="mw-redirect" title="Creative Mode">Creative Mode</a> does not disable damage. Creative Mode and damage are two different settings, so damage must be disabled separately</li>
+<li>Creative Mode does not enable flying. To fly, you must have the “fly” privilege and press the “fly” key (see also: <a href="/Controls#Movement_modes" title="Controls">Controls#Movement modes</a>)</li>
+<li>Liquids in general do not protect you from fall damage if you still hit the floor</li></ul>
+<h2><span class="mw-headline" id="Minetest_Game"><a href="/Games/Minetest_Game" title="Games/Minetest Game">Minetest Game</a></span></h2>
+<p>Note: Minetest Game does <i>not</i> want to be an exact clone of Minecraft, but it is still influenced by it. Minetest Game is more meant as a “modding base”, and intentionally doesn't have much gameplay. If you expect a faithful Minecraft clone, you will be very disappointed by Minetest Game - but remember that Minetest Game is only one of many games for Minetest.
+</p><p>If you're looking for a more faithful Minecraft clone, try <a href="/Games/MineClone_2" title="Games/MineClone 2">MineClone 2</a>.
+</p>
+<h3><span class="mw-headline" id="Major_gameplay_concepts">Major gameplay concepts</span></h3>
+<ul><li>Different <a href="/Blocks" class="mw-redirect" title="Blocks">blocks</a>, <a href="/Items" title="Items">items</a>, trees, biomes, etc. (obviously)</li>
+<li>No <a href="/Mobs" title="Mobs">mobs</a></li>
+<li>No redstone or redstone-like mechanisms (but there's <a rel="nofollow" class="external text" href="http://mesecons.net/">Mesecons</a>)</li>
+<li>No enchanting, experience, hunger, status effects, potions, armor or brewing</li>
+<li>Eating food heals instantly</li>
+<li>No “dimensions” or portals</li>
+<li>Maximum build height of ca. 30000</li>
+<li>Can dig as low as ca. 30000 blocks</li></ul>
+<h3><span class="mw-headline" id="Gotchas_2">Gotchas</span></h3>
+<ul><li>When a player dies, <a href="/Bones" title="Bones">Bones</a> are created and all items are stored inside</li>
+<li><a href="/Torch" title="Torch">Torches</a> <i>can</i> be attached to the ceiling</li>
+<li>The top row, not the bottom row in your inventory represents the <a href="/Hotbar" title="Hotbar">hotbar</a></li>
+<li>Dropped <a href="/Item_stack" title="Item stack">item stacks</a> must be <a href="/Punching" title="Punching">punched</a> to be collected, the player is not a magnet&#160;;-)</li>
+<li>When <a href="/Mining" title="Mining">mining</a>, items directly go into the player's inventory, unless the inventory is full</li>
+<li><a href="/Hoe" title="Hoe">Hoes</a> can be used on <a href="/Desert_Sand" title="Desert Sand">Desert Sand</a></li>
+<li><a href="/Wheat_(plant)" class="mw-redirect" title="Wheat (plant)">Wheat</a> and <a href="/Cotton_(plant)" class="mw-redirect" title="Cotton (plant)">Cotton</a> don't grow at all when the soil is dry (→<a href="/Soil" title="Soil">Soil</a>, <a href="/Desert_Sand_Soil" title="Desert Sand Soil">Desert Sand Soil</a>)</li>
+<li>Some tools or items are used on left click instead of right click (for example: <a href="/Bread" title="Bread">Bread</a>)</li></ul>
+<h3><span class="mw-headline" id="Crafting_and_smelting">Crafting and smelting</span></h3>
+<ul><li>The <b>crafting grid acts like an inventory</b>; the items don't drop when you close your inventory</li>
+<li><b>No crafting table</b></li>
+<li>Players have a <b>3×3 crafting grid</b> in their inventory at all times</li>
+<li>The furnace has 4 output slots instead of 1</li>
+<li>Very different burning and smelting times, see <a href="/Smelting" class="mw-redirect" title="Smelting">Smelting</a></li></ul>
+<h3><span class="mw-headline" id="Blocks">Blocks</span></h3>
+<ul><li><a href="/Water" title="Water">Water</a> and <a href="/Lava" title="Lava">Lava</a> have a flowing distance of 8 blocks</li>
+<li>Some blocks can be owned by players: <a href="/Locked_Chest" title="Locked Chest">Locked Chest</a>, <a href="/Steel_Door" class="mw-redirect" title="Steel Door">Steel Door</a>, <a href="/Steel_Trapdoor" class="mw-redirect" title="Steel Trapdoor">Steel Trapdoor</a>; with <a href="/Skeleton_Key" title="Skeleton Key">Skeleton Keys</a> player can share access.</li>
+<li><a href="/Rail" title="Rail">Rails</a> can have T-junctions and crossings</li></ul>
+<h3><span class="mw-headline" id="Inventory">Inventory</span></h3>
+<ul><li>Players have 32 inventory slots</li>
+<li><a href="/Chest" title="Chest">Chests</a> have 32 inventory slots</li>
+<li>The item stack size is 99 for most items and 1 for tools</li></ul>
+<h3><span class="mw-headline" id="Mods_which_add_Minecraft-like_behaviour">Mods which add Minecraft-like behaviour</span></h3>
+<p>This is a list of mods that add Minecraft-like functionality to <i><a href="/Games/Minetest_Game" title="Games/Minetest Game">Minetest Game</a></i>. 
+If you want to play Minecraft like game, you should install <a rel="nofollow" class="external text" href="https://content.minetest.net/packages/Wuzzy/mineclone2/">MineClone 2</a>(or <a rel="nofollow" class="external text" href="https://content.minetest.net/packages/kay27/mineclone5/">MineClone 5</a>).
+</p>
+<ul><li>Drop an items: <a rel="nofollow" class="external text" href="https://content.minetest.net/packages/texmex/item_drop/">Item Drop</a></li>
+<li>Hunger system: <a rel="nofollow" class="external text" href="https://content.minetest.net/packages/Linuxdirk/hunger_ng/">Hunger NG</a>, <a rel="nofollow" class="external text" href="https://content.minetest.net/packages/TenPlus1/stamina/">Stamina(Folk)</a>, <a rel="nofollow" class="external text" href="https://content.minetest.net/packages/sofar/stamina/">Stamina</a></li>
+<li>Add terrain effects: <a rel="nofollow" class="external text" href="https://content.minetest.net/packages/TenPlus1/playerplus/">Player Plus</a></li>
+<li>The Nether: <a rel="nofollow" class="external text" href="https://content.minetest.net/packages/PilzAdam/nether/">Nether</a> and <a rel="nofollow" class="external text" href="https://content.minetest.net/packages/rael5/nether_mobs/">Nether Mobs</a></li>
+<li>Rail corridors: <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?t=10339">tsm_railcorridors</a></li>
+<li>Minecraft mobs(Monsters and Animals): <a rel="nofollow" class="external text" href="https://github.com/maikerumine/mobs_mc">mobs_mc</a></li>
+<li>Craft table(Limit craft grid): <a rel="nofollow" class="external text" href="https://content.minetest.net/packages/BrunoMine/craft_table/">Craft Table</a></li>
+<li>Hopper: <a rel="nofollow" class="external text" href="https://content.minetest.net/packages/FaceDeer/hopper/">Hopper</a>, <a rel="nofollow" class="external text" href="https://content.minetest.net/packages/TenPlus1/hopper/">Hopper</a></li>
+<li>Charcoal: <a rel="nofollow" class="external text" href="https://content.minetest.net/packages/X17/charcoal/">Charcoal</a></li>
+<li>Double size chest: <a rel="nofollow" class="external text" href="https://content.minetest.net/packages/Hybrid%20Dog/connected_chests/">Connected Chests</a></li>
+<li>Redstone mechanisms: <a rel="nofollow" class="external text" href="http://mesecons.net/">Mesecons</a>  (<a href="/Mese_Crystal" title="Mese Crystal">Mese</a> is considered to be the redstone equivalent)</li>
+<li>Bow and Arrow: <a rel="nofollow" class="external text" href="https://content.minetest.net/packages/Palige/throwing/">Throwing Redo</a></li>
+<li>TNT behaviour: <a rel="nofollow" class="external text" href="https://content.minetest.net/packages/Coder12/tnt_revamped/">TNT revamped</a></li>
+<li>Dropped items behaviour(pushed by water): <a rel="nofollow" class="external text" href="https://content.minetest.net/packages/TenPlus1/builtin_item/">Builtin Item</a></li>
+<li>Corner stairs behaviour: <a rel="nofollow" class="external text" href="https://github.com/pithydon/mcstair">mcstair</a></li>
+<li>Show the item to other players: <a rel="nofollow" class="external text" href="https://content.minetest.net/packages/stu/wield3d/">Wield 3D</a></li>
+<li>Show a list of all online players: <a rel="nofollow" class="external text" href="https://content.minetest.net/packages/Fleckenstein/playerlist/">Playerlist</a></li></ul>
+<p>See <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?t=16408">forum topic</a>.
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20230708222506
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.212 seconds
+Real time usage: 0.416 seconds
+Preprocessor visited node count: 123/1000000
+Post‐expand include size: 1821/2097152 bytes
+Template argument size: 385/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 14/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.120/7 seconds
+Lua virtual size: 5.52 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  305.780      1 Template:Languages
+100.00%  305.780      1 -total
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:2990-0!canonical and timestamp 20230708222506 and revision id 27879
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Differences_from_Minecraft&amp;oldid=27879">http://wiki.minetest.net/index.php?title=Differences_from_Minecraft&amp;oldid=27879</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li><li><a href="/Category:Gameplay" title="Category:Gameplay">Gameplay</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Differences+from+Minecraft" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Differences_from_Minecraft" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Differences_from_Minecraft&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Differences_from_Minecraft">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Differences_from_Minecraft&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Differences_from_Minecraft&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Differences_from_Minecraft" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Differences_from_Minecraft" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Differences_from_Minecraft&amp;oldid=27879" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Differences_from_Minecraft&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 15 June 2023, at 14:01.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.212","walltime":"0.416","ppvisitednodes":{"value":123,"limit":1000000},"postexpandincludesize":{"value":1821,"limit":2097152},"templateargumentsize":{"value":385,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":14,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  305.780      1 Template:Languages","100.00%  305.780      1 -total"]},"scribunto":{"limitreport-timeusage":{"value":"0.120","limit":"7"},"limitreport-virtmemusage":{"value":5791744,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230708222506","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":250});});</script></body></html>

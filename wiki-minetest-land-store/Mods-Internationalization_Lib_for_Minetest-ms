@@ -1,0 +1,353 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Mods/Internationalization Lib for Minetest/ms - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"ff235f4b833b53dd9ef4dc69","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Mods/Internationalization_Lib_for_Minetest/ms","wgTitle":"Mods/Internationalization Lib for Minetest/ms","wgCurRevisionId":24856,"wgRevisionId":24856,"wgArticleId":3630,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages","Malay"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Mods/Internationalization_Lib_for_Minetest/ms","wgRelevantArticleId":3630,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,
+"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=skins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Mods_Internationalization_Lib_for_Minetest_ms rootpage-Mods skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Mods/Internationalization Lib for Minetest/ms</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/Mods" title="Mods">Mods</a>&lrm; | <a href="/Mods/Internationalization_Lib_for_Minetest" title="Mods/Internationalization Lib for Minetest">Internationalization Lib for Minetest</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> Bahasa:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><a href="/Mods/Internationalization_Lib_for_Minetest" title="Mods/Internationalization Lib for Minetest">English</a><b>&#160;• <bdi lang="ms"><a class="mw-selflink selflink">Bahasa Melayu</a></bdi></b></td>
+</tr></tbody></table>
+<table class="wikitable" width="200px" style="float:right;text-align:left;margin:0 0 0.5em 1em;padding:5px;font-size:90%;position:relative;clear:right;overflow:auto;z-index:1">
+
+<tbody><tr>
+<th colspan="2" style="font-size:110%;text-align:center">Internationalization Lib for Minetest
+</th></tr>
+<tr>
+<th colspan="2"><div class="center"><a href="/File:Blank.png" class="image"><img alt="Blank.png" src="/images/d/d2/Blank.png" decoding="async" width="150" height="150" /></a></div>
+</th></tr>
+<tr>
+<th colspan="2" align="center">Sebuah <a href="/Mods/ms" title="Mods/ms">mods</a>
+</th></tr>
+<tr>
+<td><b>Jenis</b>
+</td>
+<td><a href="/index.php?title=Category:Misc_mods&amp;action=edit&amp;redlink=1" class="new" title="Category:Misc mods (page does not exist)">Pelbagai</a>
+</td></tr>
+<tr>
+<td><b>Pemilik</b>
+</td>
+<td>Diego Martínez (kaeza)
+</td></tr>
+<tr>
+<td><b>Topik Forum</b>
+</td>
+<td><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?id=4929">4929</a>
+</td></tr>
+<tr>
+<td><b>Kod Sumber</b>
+</td>
+<td><a rel="nofollow" class="external text" href="https://github.com/minetest-mods/intllib">GitHub</a>
+</td></tr>
+<tr>
+<td><b>Nama Teknikal</b>
+</td>
+<td>intllib
+</td></tr></tbody></table>
+<p><b>Pustaka Pengantarabangsaan untuk Minetest</b> (<a href="/Help:Original_names/ms" title="Help:Original names/ms">BI</a>: <i><b>Internationalization Lib for Minetest</b></i>) atau juga dikenali sebagai <b>Internationalization Library</b> ialah sebuah <a href="/Mods/ms" title="Mods/ms">mods</a> yang dicipta oleh Diego Martínez (kaeza) dan diterbitkan di bawah <a rel="nofollow" class="external text" href="http://unlicense.org">Unlicense</a> (bahasa Inggeris). Mods ini ialah suatu usaha untuk menyediakan sokongan pengantarabangsaan kepada mods. Sebarang komen atau cadangan dialu-alukan dekat <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?id=4929">topik forum</a> dalam bahasa Inggeris. Pepijat boleh dilaporkan menggunakan <a rel="nofollow" class="external text" href="https://github.com/minetest-mods/intllib/issues">penjejak pepijat</a> Github.
+</p>
+<h2><span class="mw-headline" id="Menggunakan_pustaka_sebagai_pemain_biasa">Menggunakan pustaka sebagai pemain biasa</span></h2>
+<p>Jika anda pemain biasa yang mencari teks terjemahan, hanya pasangkan mods ini seperti mods lain, kemudian bolehkannya melalui GUI.
+</p><p>Mods ini cuba untuk mengesan bahasa anda, tetapi oleh kerana tiada cara mudah alih untuk melakukannya, ia cuba beberapa cara yang lain:
+</p>
+<ul><li>Tetapan <code>language</code> di dalam fail <a href="/index.php?title=Minetest.conf/ms&amp;action=edit&amp;redlink=1" class="new" title="Minetest.conf/ms (page does not exist)">minetest.conf</a>.</li>
+<li>Pembolehubah sekitaran <code>LANGUAGE</code>.</li>
+<li>Pembolehubah sekitaran <code>LANG</code>.</li>
+<li>Jika semua di atas gagal, ia gunakan <code>en</code>.</li></ul>
+<p>Dalam apa jua keadaan, hasil akhirnya sepatutnya menjadi <a rel="nofollow" class="external text" href="https://ms.wikipedia.org/wiki/Senarai_kod_ISO_639-1">Kod Bahasa ISO 639-1</a> untuk bahasa yang dikehendaki.
+</p>
+<h2><span class="mw-headline" id="Menggunakan_pustaka_sebagai_penterjemah">Menggunakan pustaka sebagai penterjemah</span></h2>
+<p>Jika anda seorang penterjemah, anda perlu menentukan jenis antaramuka mods yang menyokong intllib tersebut, dan ikut langkah untuk antaramuka yang berkenaan.
+</p><p>Untuk menentukan antaramuka yang manakah mods tersebut gunakan, carilah subdirektori <code>locale</code> mods tersebut. Jika anda jumpa fail berbentuk fail teks kosong dalam format <code>.txt</code>, maka ianya menggunakan antaramuka yang lama. Kalau tidak, kemungkinan besar ianya menggunakan antaramuka baru, terutamanya jika failnya berupa fail gettext dalam format <code>.po</code>.
+</p>
+<h3><span class="mw-headline" id="Antaramuka_baru">Antaramuka baru</span></h3>
+<p>Antaramuka baru menggunakan fail <code>.po</code> dari <a rel="nofollow" class="external text" href="https://www.gnu.org/software/gettext">gettext</a> (bahasa Inggeris). Lihat <a rel="nofollow" class="external text" href="https://www.gnu.org/software/gettext/manual/html_node/PO-Files.html">Format Fail PO</a> (bahasa Inggeris) untuk maklumat lanjut.
+</p><p>Oleh itu, jika anda menterjemah mods yang menggunakan antaramuka baru ke dalam bahasa anda, gunakan alatan kegemaran anda untuk menyunting fail <code>.po</code> tersebut. Fail tersebut juga boleh disunting dengan penyunting teks kosong.
+</p>
+<h3><span class="mw-headline" id="Antaramuka_lama">Antaramuka lama</span></h3>
+<p>Untuk menterjemah mods ke dalam bahasa anda, salin fail <code>locale/template.txt</code> kepada <code>locale/BAHASA.txt</code> (di mana <code>BAHASA</code> ialah <a rel="nofollow" class="external text" href="https://ms.wikipedia.org/wiki/Senarai_kod_ISO_639-1">Kod Bahasa ISO 639-1</a> untuk bahasa anda).
+</p><p>Buka fail baru tersebut dalam penyunting kegemaran anda, dan terjemahkan setiap barus dengan meletakkan teks terjemahan selepas tanda sama dengan.
+</p><p>Di sini contoh untuk fail terjemahan bahasa Melayu (<code>ms.txt</code>):
+</p>
+<pre> # A comment.
+ # Another comment.
+ This line is ignored since it has no equals sign.
+ Hello, World! = Hello, Dunia!
+ String with\nnewlines = Rentetan dengan\nbaris baru
+ String with an \= equals sign = Rentetan dengan \= tanda sama dengan
+</pre>
+<p>Fail terjemahan (atau penempatan) ialah fail teks biasa yang mempunyai baris-baris dalam bentuk <code>teks asal = teks terjemahan</code>. Fail tersebut mestilah berada di dalam subdirektori <code>locale</code> di dalam direktori mods, dan mesti dinamakan sebagai <a rel="nofollow" class="external text" href="https://ms.wikipedia.org/wiki/Senarai_kod_ISO_639-1">Kod Bahasa ISO 639-1</a> dua huruf untuk bahasa yang anda ingin terjemahkan.
+</p><p>Fail terjemahan mestilah menggunakan pengekodan UTF-8.
+</p><p>Baris yang bermula dengan tanda nombor/tanda pagar (#) ialah komen dan diabaikan oleh pemprosesan pembaca terjemahan. Ambil perhatian bahawa komen hanyalah sah sehingga penghujung baris; tidak ada sokongan untuk komen pelbagai baris. Baris-baris tanpa tanda sama dengan juga akan diabaikan.
+</p><p>Aksara yang dianggap "istimewa" boleh "dilepaskan" supaya ianya diambil bulat-bulat. Terdapat beberapa jujukan lepasan (<i>escape sequence</i>) yang boleh digunakan:
+</p>
+<ul><li>Mana-mana tanda nombor/tanda pagar (<code>#</code>), tanda sama dengan (<code>=</code>) boleh dilepaskan untuk diambil bulat-bulat. Jujukan <code>\#</code> sangat berguna sekiranya teks asal bermula dengan tanda nombor/tanda pagar (<code>#</code>).</li>
+<li>Jujukan lepasan biasa <code>\n</code> dan <code>\t</code> setiap satunya membawa maksud baris baru dan tab mendatar.</li>
+<li>Jujukan lepasan istimewa <code>\s</code> melambangkan aksara ruang (selang). Ianya berguna untuk memasukkan ruang hadapan atau ruang belakang ke dalam teks sumber atau terjemahan, kerana ruang-ruang ini akan dibuang jika tidak berbuat sedemikian. Contohnya, jika teks tersebut ialah perenggan dan perlu bermula dengan beberapa ruang, perlulah menggunakan jujukan lepasan ini.</li></ul>
+<h2><span class="mw-headline" id="Menggunakan_pustaka_sebagai_pembangun">Menggunakan pustaka sebagai pembangun</span></h2>
+<p>Sekiranya anda pembangun mods yang ingin menambah sokongan pengantarabangsaan kepada mods anda, anda perlu melalukan perkara berikut.
+</p>
+<h3><span class="mw-headline" id="Membolehkan_pengantarabangsaan">Membolehkan pengantarabangsaan</span></h3>
+<p>Untuk membolehkan pengantarabangsaan untuk mods anda, anda perlu salin fail <code>lib/intllib.lua</code> ke dalam direktori akar mods anda, kemudian masukkan kod plat dandang (boilerplate) ini ke dalam fail yang memerlukan pengantarabangsaan:
+</p>
+<pre> -- Load support for intllib.
+ local MP = minetest.get_modpath(minetest.get_current_modname())
+ local S, NS = dofile(MP.."/intllib.lua")
+</pre>
+<p>Anda juga perlu bergantung secara pilihan kepada intllib, untuk menambah kebergantungan pilihan, masukkan <code>intllib?</code> ke dalam baris kosong di dalam fail <code>depends.txt</code> mods anda. Ambil perhatian bahawa jika intllib tidak dipasang, fungsi pengambil telah ditakrifkan untuk memulangkan rentetan tanpa perubahan. Perkara ini dibuat supaya anda tidak perlu merenjiskan beratus-ratus penyemak <code>if</code> (atau pembina lain yang serupa) untuk memeriksa sama ada pustaka tersebut memang telah dipasang.
+</p><p>Apabila kod tersebut telah dimasukkan, anda perlu menanda rentetan yang memerlukan terjemahan. Untuk setiap rentetan boleh terjemah dalam teks sumber anda, gunakan fungsi <code>S</code> (lihat atas) untuk memulangkan rentetan yang telah diterjemah. Contohnya:
+</p>
+<pre> minetest.register_node("mymod:mynode", {
+     -- Rentetan biasa:
+     description = S("My Fabulous Node"),
+     -- Rentetan dengan penyisipan:
+     description = S("@1 Car", "Blue"),
+     -- ...
+ })
+</pre>
+<p>Fungsi <code>NS</code> pula serupa dengan <code>ngettext</code>. Ia patut digunakan apabila rentetan untuk diterjemah mempunyai bentuk mufrad dan bentuk jamak. Contohnya:
+</p>
+<pre> -- `count` pertama untuk `ngettext` menentukan bentuk mana untuk digunakan.
+ -- `count` kedua pula penggantian sebenar.
+ print(NS("You have one item.", "You have @1 items.", count, count))
+</pre>
+<h3><span class="mw-headline" id="Menjana_dan_mengemaskini_katalog">Menjana dan mengemaskini katalog</span></h3>
+<p>Ini alir kerja asas untuk bekerja dengan <a rel="nofollow" class="external text" href="https://www.gnu.org/software/gettext/">gettext</a>
+</p><p>Setiap kali anda mempunyai rentetan baru untuk diterjemah, anda patut buat seperti berikut:
+</p>
+<pre> cd /laluan/kepada/mods
+ /laluan/kepada/mods/intllib/tools/xgettext.sh file1.lua file2.lua ...
+</pre>
+<p>Skrip tersebut akan mencipta direktori bernama <code>locale</code> jika ia belum wujud, dan ia akan menjana fail <code>template.pot</code> (sebuah templat dengan semua rentetan boleh terjemah). Jika anda sudah ada terjemahan, skrip tersebut akan mengemaskini kesemuanya dengan rentetan yang baru.
+</p><p>Skrip tersebut menghantar beberapa pilihan kepada <code>xgettext</code> sebenar yang sepatutnya cukup untuk kebanyakan waktunya. Anda boleh meletakkan pilihan lain jika mahu:
+</p>
+<pre> xgettext.sh -o file.pot --keyword=blargh:4,5 a.lua b.lua ...
+</pre>
+<p>Ambil perhatian bahawa terdapat juga fail kelompok Windows <code>xgettext.bat</code> untuk pengguna Windows, tetapi anda perlu memasang alatan baris perintah secara berasingan. Lihat pengepala fail untuk konfigurasi.
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20230709154959
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.236 seconds
+Real time usage: 0.502 seconds
+Preprocessor visited node count: 124/1000000
+Post‐expand include size: 2816/2097152 bytes
+Template argument size: 467/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 14/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.160/7 seconds
+Lua virtual size: 5.93 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  422.130      1 -total
+ 71.80%  303.082      1 Template:Languages
+ 28.12%  118.685      1 Template:Mod_Data/ms
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:3630-0!canonical and timestamp 20230709154958 and revision id 24856
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Mods/Internationalization_Lib_for_Minetest/ms&amp;oldid=24856">http://wiki.minetest.net/index.php?title=Mods/Internationalization_Lib_for_Minetest/ms&amp;oldid=24856</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li><li><a href="/Category:Malay" title="Category:Malay">Malay</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Mods%2FInternationalization+Lib+for+Minetest%2Fms" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Mods/Internationalization_Lib_for_Minetest/ms" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Mods/Internationalization_Lib_for_Minetest/ms&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Mods/Internationalization_Lib_for_Minetest/ms">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Mods/Internationalization_Lib_for_Minetest/ms&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Mods/Internationalization_Lib_for_Minetest/ms&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Mods/Internationalization_Lib_for_Minetest/ms" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Mods/Internationalization_Lib_for_Minetest/ms" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Mods/Internationalization_Lib_for_Minetest/ms&amp;oldid=24856" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Mods/Internationalization_Lib_for_Minetest/ms&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 8 April 2021, at 20:09.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.236","walltime":"0.502","ppvisitednodes":{"value":124,"limit":1000000},"postexpandincludesize":{"value":2816,"limit":2097152},"templateargumentsize":{"value":467,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":14,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  422.130      1 -total"," 71.80%  303.082      1 Template:Languages"," 28.12%  118.685      1 Template:Mod_Data/ms"]},"scribunto":{"limitreport-timeusage":{"value":"0.160","limit":"7"},"limitreport-virtmemusage":{"value":6217728,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709154959","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":386});});</script></body></html>

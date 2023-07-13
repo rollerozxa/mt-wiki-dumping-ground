@@ -1,0 +1,875 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>ROBOTS-server - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"5b38fe1a70c7851a93c30a60","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"ROBOTS-server","wgTitle":"ROBOTS-server","wgCurRevisionId":16541,"wgRevisionId":16541,"wgArticleId":2941,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Server"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"ROBOTS-server","wgRelevantArticleId":2941,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":
+"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-ROBOTS-server rootpage-ROBOTS-server skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">ROBOTS-server</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/File:Map_ROBOTS-server.png" class="image"><img alt="" src="/images/thumb/f/f4/Map_ROBOTS-server.png/300px-Map_ROBOTS-server.png" decoding="async" width="300" height="379" class="thumbimage" srcset="/images/thumb/f/f4/Map_ROBOTS-server.png/450px-Map_ROBOTS-server.png 1.5x, /images/f/f4/Map_ROBOTS-server.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Map_ROBOTS-server.png" class="internal" title="Enlarge"></a></div>ROBOTS-server, map of central area, 2017-02</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/File:Map_ROBOTS-server_2017-03.png" class="image"><img alt="" src="/images/thumb/4/4a/Map_ROBOTS-server_2017-03.png/300px-Map_ROBOTS-server_2017-03.png" decoding="async" width="300" height="428" class="thumbimage" srcset="/images/thumb/4/4a/Map_ROBOTS-server_2017-03.png/450px-Map_ROBOTS-server_2017-03.png 1.5x, /images/4/4a/Map_ROBOTS-server_2017-03.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Map_ROBOTS-server_2017-03.png" class="internal" title="Enlarge"></a></div>map 2017-03</div></div></div>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Intro"><span class="tocnumber">1</span> <span class="toctext">Intro</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#General_Server-info"><span class="tocnumber">2</span> <span class="toctext">General Server-info</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Mods"><span class="tocnumber">3</span> <span class="toctext">Mods</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Map"><span class="tocnumber">4</span> <span class="toctext">Map</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Town-Center"><span class="tocnumber">4.1</span> <span class="toctext">Town-Center</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Games"><span class="tocnumber">4.2</span> <span class="toctext">Games</span></a>
+<ul>
+<li class="toclevel-3 tocsection-7"><a href="#Singleplayer-games_.2F_Puzzles"><span class="tocnumber">4.2.1</span> <span class="toctext">Singleplayer-games / Puzzles</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="#Games_for_2_players"><span class="tocnumber">4.2.2</span> <span class="toctext">Games for 2 players</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="#Multiplayer-games"><span class="tocnumber">4.2.3</span> <span class="toctext">Multiplayer-games</span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="#New_games"><span class="tocnumber">4.2.4</span> <span class="toctext">New games</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-11"><a href="#Automata"><span class="tocnumber">4.3</span> <span class="toctext">Automata</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Misc"><span class="tocnumber">4.4</span> <span class="toctext">Misc</span></a>
+<ul>
+<li class="toclevel-3 tocsection-13"><a href="#Roads"><span class="tocnumber">4.4.1</span> <span class="toctext">Roads</span></a></li>
+<li class="toclevel-3 tocsection-14"><a href="#PoIs_.2F_Nice_buildings"><span class="tocnumber">4.4.2</span> <span class="toctext">PoIs / Nice buildings</span></a></li>
+<li class="toclevel-3 tocsection-15"><a href="#Rails"><span class="tocnumber">4.4.3</span> <span class="toctext">Rails</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#Shops"><span class="tocnumber">5</span> <span class="toctext">Shops</span></a>
+<ul>
+<li class="toclevel-2 tocsection-17"><a href="#Shop"><span class="tocnumber">5.1</span> <span class="toctext">Shop</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Bed-shop_.22Camas.22"><span class="tocnumber">5.2</span> <span class="toctext">Bed-shop "Camas"</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Shop-B"><span class="tocnumber">5.3</span> <span class="toctext">Shop-B</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#Shop-D"><span class="tocnumber">5.4</span> <span class="toctext">Shop-D</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#Shop-E"><span class="tocnumber">5.5</span> <span class="toctext">Shop-E</span></a></li>
+<li class="toclevel-2 tocsection-22"><a href="#Shop-F"><span class="tocnumber">5.6</span> <span class="toctext">Shop-F</span></a></li>
+<li class="toclevel-2 tocsection-23"><a href="#Shop-S"><span class="tocnumber">5.7</span> <span class="toctext">Shop-S</span></a></li>
+<li class="toclevel-2 tocsection-24"><a href="#Apples_.26_Vegetables_shop"><span class="tocnumber">5.8</span> <span class="toctext">Apples &amp; Vegetables shop</span></a></li>
+<li class="toclevel-2 tocsection-25"><a href="#Eovalz.27s_Shop"><span class="tocnumber">5.9</span> <span class="toctext">Eovalz's Shop</span></a></li>
+<li class="toclevel-2 tocsection-26"><a href="#Firza_Vegetables"><span class="tocnumber">5.10</span> <span class="toctext">Firza Vegetables</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-27"><a href="#Tips"><span class="tocnumber">6</span> <span class="toctext">Tips</span></a>
+<ul>
+<li class="toclevel-2 tocsection-28"><a href="#Starter"><span class="tocnumber">6.1</span> <span class="toctext">Starter</span></a></li>
+<li class="toclevel-2 tocsection-29"><a href="#Items_of_interest"><span class="tocnumber">6.2</span> <span class="toctext">Items of interest</span></a></li>
+<li class="toclevel-2 tocsection-30"><a href="#Dealing_with_acid"><span class="tocnumber">6.3</span> <span class="toctext">Dealing with acid</span></a></li>
+<li class="toclevel-2 tocsection-31"><a href="#Mobs"><span class="tocnumber">6.4</span> <span class="toctext">Mobs</span></a></li>
+<li class="toclevel-2 tocsection-32"><a href="#Food"><span class="tocnumber">6.5</span> <span class="toctext">Food</span></a></li>
+<li class="toclevel-2 tocsection-33"><a href="#Chat-Commands"><span class="tocnumber">6.6</span> <span class="toctext">Chat-Commands</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Intro">Intro</span></h2>
+<p>This is a description about the ROBOTS-server, which runs a game with the mods 
+</p>
+<ul><li><a href="/Mods/basic_robot" title="Mods/basic robot">basic_robot</a>       (<a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=15850">Forum</a>, <a rel="nofollow" class="external text" href="https://github.com/ac-minetest/basic_robot/">github</a>) - robots</li>
+<li><a href="/Mods/basic_machines" title="Mods/basic machines">basic_machines</a> (<a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=12033">Forum</a> <a rel="nofollow" class="external text" href="https://github.com/ac-minetest/basic_machines/">github</a>, <a rel="nofollow" class="external text" href="https://github.com/ac-minetest/basic_machines/wiki">Wiki at github</a> - automation</li></ul>
+<p>by rnd.
+</p><p>The server with this game and map was online from 2016-0x until 2017-07.<br />
+See also <a href="/ROBOTS_SKYBLOCK" class="mw-redirect" title="ROBOTS SKYBLOCK">ROBOTS_SKYBLOCK</a>.
+</p><p>There is a 'live' <a href="/index.php?title=Basic_robot/Tutorial&amp;action=edit&amp;redlink=1" class="new" title="Basic robot/Tutorial (page does not exist)">tutorial-parcour</a> about robots-programs, 
+which can be reached via a teleporter near the spawn.
+</p>
+<h2><span class="mw-headline" id="General_Server-info">General Server-info</span></h2>
+<ul><li>Admin: rnd</li>
+<li>IP: 46.150.38.198:30000</li>
+<li>Max users: 15</li>
+<li>Operating hours: 09:00 - 01:00 UTC (+/- an hour) - shuts down over night</li>
+<li>Mapgen v7, seed 5 (but modified with worldedit)</li>
+<li>PvP, Mobs enabled</li>
+<li>/sethome and /teleport disabled</li></ul>
+<p><b>See also:</b> 
+List of servers: 
+</p>
+<ul><li><a rel="nofollow" class="external text" href="http://minetest.net/servers">Minetest Server List</a> and <a rel="nofollow" class="external text" href="http://servers.minetest.net/">List2</a></li>
+<li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewforum.php?f=10">Minetest Forum servers section</a></li></ul>
+<h2><span class="mw-headline" id="Mods">Mods</span></h2>
+<p>Notable mods:
+</p>
+<ul><li><a rel="nofollow" class="external text" href="https://github.com/ac-minetest/basic_robot">basic_robots</a>   - robots, and remote-controllers</li>
+<li><a rel="nofollow" class="external text" href="https://github.com/ac-minetest/basic_machines">basic_machines</a> - keypads, detectors, movers, and more...</li>
+<li><a rel="nofollow" class="external text" href="https://github.com/ac-minetest/basic_protect">basic_protect</a>  - Protectors can be crafted that protect a 20x20 area</li></ul>
+<ul><li>sfinv - "Simple, fast inventory", with buttons for:
+<ul><li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=11&amp;t=9100">simple_skins</a> - 30+ skins to choose from</li>
+<li>XP - get experience for digging, thieving, kills etc.</li>
+<li>Bounties - list of rewards for killers</li></ul></li></ul>
+<ul><li><a href="/Farming" title="Farming">farming</a> - blueberries, carrots, cocoa, corn, melons, potatoes, pumpkins, tomatoes ...</li></ul>
+<dl><dd>and new foods: apple-pie, coffee, donuts, pumpkin-bread, sugar ...</dd></dl>
+<ul><li>fertilizer - a "trivial", home-grown mod, to make the game "more challenging":</li></ul>
+<dl><dd>Crops and fruits use up 1 point of nutrition from the soil with each growth-step,</dd>
+<dd>and farming-soil starts with no nutrition. Without fertilizer, crops turn into weeds.</dd></dl>
+<ul><li>flowers, dye</li>
+<li>wool, beds</li>
+<li><a rel="nofollow" class="external text" href="https://github.com/pithydon/furniture">furniture</a> - tables, chairs</li></ul>
+<ul><li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=11&amp;t=549">moreores</a> - tin, silver, mitril ...</li>
+<li><a href="/index.php?title=Darkage&amp;action=edit&amp;redlink=1" class="new" title="Darkage (page does not exist)">darkage</a> - more blocks: darkage_bricks, darkage_lamps, darkage_shale, serpentine, ...</li></ul>
+<dl><dd>See the <a rel="nofollow" class="external text" href="http://darkage.wikia.com/wiki/About">DarkAge-Wiki</a> for infos and recipes.</dd></dl>
+<ul><li>worldedit, mapfix</li>
+<li>craft_guide - look up crafting recipes</li></ul>
+<ul><li>letters - cut letters, to put on common blocks (e.g. for big shop-signs)</li></ul>
+<dl><dd>A public lettercutter is located at the back of the shop at spawn.</dd></dl>
+<ul><li>acid - flows like water, looks like grass, hurts like lava</li>
+<li>mobs, mobs_monsters - dirtmonster, treemonster, stonemonster ...</li></ul>
+<dl><dd>The monsters are fairly weak, but watch out at night&#160;!</dd></dl>
+<ul><li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=15424">anticheat</a>, <a rel="nofollow" class="external text" href="https://github.com/ac-minetest/antigrief">antigrief</a>, boneworld, bounty, <a rel="nofollow" class="external text" href="https://github.com/ac-minetest/basic_vote">basic_vote</a> - detects &amp; announces cheaters, vote to ban them, etc.</li>
+<li><a rel="nofollow" class="external text" href="https://github.com/ac-minetest/oldplayer">oldplayer</a>: users need some items in inventory at logoff, otherwise account gets deleted
+<ul><li>also afk-check - logs out inactive players.  Note: you need to move - just chatting or crafting is considered 'inactive'.</li></ul></li>
+<li>give_initial_stuff: wood, torches</li></ul>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Beware
+</th></tr>
+<tr>
+<td>There might be even more "trivial", home-grown mods active,
+<p>or changed settings, that make the game "more challenging"&#160;!
+</p>
+</td></tr></tbody></table>
+<p>...
+</p>
+<h2><span class="mw-headline" id="Map">Map</span></h2>
+<p>Notable locations:
+</p>
+<h3><span class="mw-headline" id="Town-Center">Town-Center</span></h3>
+<ul><li>Spawn-Building     0,2,0 - this is where new players appear in the game.</li></ul>
+<dl><dd>The exit of the cactus-maze leads here</dd>
+<dd>Computer-room and stone-factory in the basement</dd>
+<dd>Library; -1,6,-1</dd></dl>
+<ul><li>Admin's Shop     -20,2,-5 (see below)</li>
+<li>Smelting station -20,2,-10 - automatically smelts your ores.</li>
+<li>Teleporter#1       0,2,10 to access the <a href="/index.php?title=Basic_robot/Tutorial&amp;action=edit&amp;redlink=1" class="new" title="Basic robot/Tutorial (page does not exist)">Robots-Tutorial</a> &amp; testing area (located at -28,8,394) - easy to see: it has two oranges on top.</li>
+<li>Teleporter-Room downstairs from 7,2,-1:
+<ul><li>17,-4,1 Teleporter#2 to the Counterstrike-Area (at 300,30,135)</li>
+<li>Teleporters to some private houses (ask the admin)</li></ul></li>
+<li>Public mine        0,2,13 - easy access to the depths for mining.
+<ul><li>Caution: Acid&#160;!</li>
+<li>The area around the stairs is protected. Digable areas start some distance behind doors.</li>
+<li>Entry to the deep mine at depth 200, location 0,-202,227 - needs dig-XP to enter.</li></ul></li>
+<li>Elevator to mines -6,2,9 - needs 1 power_cell to activate, and using it costs 1 gold.</li>
+<li>Exhibition     -9,2,0 - shows basic_robots and all the <a href="/Mods/basic_machines" title="Mods/basic machines">Basic-machines</a>.</li>
+<li>Demo-farm      -7,2,-20 - automated farm for corn and fertilizer (made from papyrus).
+<ul><li>see also rnd's private automatic farm (trees, corn, papyrus) - just ask for a tour.</li></ul></li>
+<li>Casino        -18,2,18 - recycle your gold&#160;:-)</li>
+<li>Deep Hole     -16,2,16 - the moats of acid drain here</li>
+<li>Diving-pool   -23,2,12 - under water, you can breathe at the torches</li></ul>
+<dl><dd></dd></dl>
+<ul><li>Pumpkin-Hotel -31,2,30 - no actual service, but the roof has a nice panorama.</li></ul>
+<h3><span class="mw-headline" id="Games">Games</span></h3>
+<ul><li>Eliza - just talk (Try: "how to make cart")</li>
+<li>Math-quiz #1 - inside spawn-building:<br /> The quiz (e.g. "what is 5*8+2") is shown to the player as a multiple-choice dialog.<br />When the button with the correct solution is pressed, the player is teleported out of the spawn-building.</li>
+<li>Math-quiz #2 - (at robot-tutorial, -34,7,407 ) get a reward for the correct solution</li></ul>
+<h4><span id="Singleplayer-games_/_Puzzles"></span><span class="mw-headline" id="Singleplayer-games_.2F_Puzzles">Singleplayer-games / Puzzles</span></h4>
+<ul><li>Brickstone-Maze   5,2,-300 - really big maze (400x400)</li>
+<li>Cactus-Maze      46,-4,-7 - (40x40) underground, under the acid-lake: find the exit</li>
+<li>Casino	  -18,2,18 - win 5 gold.</li>
+<li>Minesweeper     -10,2,32 - find all the mines, win a free flight</li>
+<li><a rel="nofollow" class="external text" href="https://en.wikipedia.org/wiki/Nonogram">Nonogram</a>   10,2,33 - Puzzle
+<ul><li>big nonogram     1,2,-204</li></ul></li>
+<li>Sokoban         -46,2,-50 - push the boxes</li></ul>
+<h4><span class="mw-headline" id="Games_for_2_players">Games for 2 players</span></h4>
+<ul><li>Checkerboard  10,2,33 - checkers</li>
+<li>Spleef-arena  10,2,3 - knock out the floor-tiles, to make your opponent fall down</li>
+<li>Tank-robot       -9,2,-9 and -9,2,-46 - artillery-duel for 2 players</li></ul>
+<h4><span class="mw-headline" id="Multiplayer-games">Multiplayer-games</span></h4>
+<ul><li>Counterstrike - Terrorists vs. Counter-Terrorists: hide / disarm bomb</li></ul>
+<dl><dd>Access via Teleporter#2 at 17,-4,1</dd></dl>
+<ul><li>Hide-and-seek  - around the spawn-area</li></ul>
+<h4><span class="mw-headline" id="New_games">New games</span></h4>
+<p>(under development)
+</p>
+<ul><li>-7,2,-26  x</li>
+<li>-43,2,10 xxx</li>
+<li>-10,2,-15 yyy</li>
+<li>2,2,-20 zzz</li></ul>
+<p>...
+</p>
+<h3><span class="mw-headline" id="Automata">Automata</span></h3>
+<p>Machines that are not games:
+</p>
+<ul><li>Shop-Robot -14,5,0 - display at the top of the shop, showing infos  (date, time, prices)</li></ul>
+<dl><dd>Listens to chat, players can remotely buy&amp;sell: try "#shop"</dd></dl>
+<ul><li>Fly-Shop   -26,2,0 - sells 'fly-tickets': temporary ablity to 'fly'</li></ul>
+<dl><dd>this uses 'environment-control' for reduced gravity - player can make large jumps</dd></dl>
+<ul><li>Admin-Mailbox -7,2,0 - players can write messages to the admin</li>
+<li>Inventory-Lister -14,2,11 - shows contents of chest in a formspec</li></ul>
+<ul><li>Bridge to the public mine 0,2,13</li>
+<li>Automatic door at the entrance to the public mine</li>
+<li>Automatic door inside the public mine                  0,-32,52</li>
+<li>Automatic door at the entrance to the robot-tutorial  -37,8,395</li>
+<li>Elevator to mines -6,2,9</li></ul>
+<ul><li>Puzzle door  -124,2,0 - a door on the road</li>
+<li>Puzzle door  -230,2,0 - to open the door, place a block of dirt into the chest</li></ul>
+<dl><dd>(demo, has been moved elsewhere)</dd></dl>
+<ul><li>Automated furnace -34,8,409 - done with basic_robots</li>
+<li>Smelting station  -20,2,-10 - done with basic_machines</li></ul>
+<ul><li>Binary Counter 0,2,-5 - a big 10-bit-counter done with basic_machines</li>
+<li>RNDOS         -4,-3,-1 - computer and OS, built with basic_robots and keypads from basic_machines</li></ul>
+<dl><dd>some implemented functions: IP-Lister, Kick, Teleport, Give fly, Kill</dd></dl>
+<ul><li>Light-tree  38,2,12 (at GlassStreet) - press the button to turn on the lights</li></ul>
+<dl><dd>(button is currently removed)</dd></dl>
+<ul><li>Boxhouse-builder -27,2,-45 - builds a house out of keyboard-blocks</li></ul>
+<dl><dd>(code currently only works for admin)</dd></dl>
+<p>...
+</p>
+<h3><span class="mw-headline" id="Misc">Misc</span></h3>
+<h4><span class="mw-headline" id="Roads">Roads</span></h4>
+<ul><li>"SerpentineStreet"  0,2,48 - leading north,</li></ul>
+<dl><dd>leads to a tunnel thru HoleHill at 0,2,300,</dd>
+<dd>ends at 0,2,390 near the tutorial-area</dd></dl>
+<ul><li>"AppleStreet"      -50,2,5 - leading west</li></ul>
+<dl><dd>leads to a tunnel at -220,2,0</dd>
+<dd>that ends at snow-covered mountains at -565,6,6 and coast at 580,2,0</dd></dl>
+<ul><li>"WaterStreet"       2,2,-48 - leading south,</li></ul>
+<dl><dd>to one end of the rail-track at 1,2,-175,</dd>
+<dd>and further to the brickmaze at 12,2,-305</dd></dl>
+<ul><li>"GlassStreet"       48,2,4  - leading east,</li></ul>
+<dl><dd>to river and jungle at 250,2,0</dd>
+<dd>...</dd></dl>
+<ul><li>RingStreet - forms an outer ring around the town-area</li></ul>
+<dl><dd>paved with adobe, as opposed to serpentine as used on the main streets</dd></dl>
+<h4><span id="PoIs_/_Nice_buildings"></span><span class="mw-headline" id="PoIs_.2F_Nice_buildings">PoIs / Nice buildings</span></h4>
+<ul><li>Mail-Tower   50,2,50 .. 30,2,60  rnd's factory tower, with mailboxes</li></ul>
+<dl><dd>Note: built with gold-, diamond- and mese-blocks</dd></dl>
+<ul><li>Jenga-Tower  95,2,75</li>
+<li>Statue of the alliance of free minetest  66,2,60</li>
+<li>Viking-Ship          10,2,132</li>
+<li>Wooden pyramid      133,12,-135</li></ul>
+<dl><dd>with bed-shop near the entrance</dd></dl>
+<ul><li>'Cathedral'  007's tower at -2,55,184, over the north tunnel</li>
+<li>'Piano'       130,5,140 - plays some sounds</li>
+<li>Big keyboard  80,2,-147 -&#160;??</li></ul>
+<p>...
+</p>
+<h4><span class="mw-headline" id="Rails">Rails</span></h4>
+<p>The tracks make one loop around the spawn-area (and over the maze),<br />
+and one loop around the south-east quarter of town.
+</p><p>Craft your own cart to use them
+</p>
+<ul><li>2,2,-133 - Startpoint at south (WaterStreet)</li>
+<li>0,2,-31  - Trackswitch - press keypad to change the direction of the rail</li>
+<li>-30,2,-27 - Tunnel below sokoban-area</li>
+<li>New: south starting point now at the big maze</li></ul>
+<h2><span class="mw-headline" id="Shops">Shops</span></h2>
+<p>The infos about user-driven shops might be out of date,
+e.g. when user decided to change business, or out-of-stock.
+</p>
+<h3><span class="mw-headline" id="Shop">Shop</span></h3>
+<p><b>Rnd's shop</b> - Location: -20,2,-4 at spawn
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/File:Robot-shop_list.png" class="image"><img alt="" src="/images/thumb/2/2c/Robot-shop_list.png/300px-Robot-shop_list.png" decoding="async" width="300" height="303" class="thumbimage" srcset="/images/2/2c/Robot-shop_list.png 1.5x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Robot-shop_list.png" class="internal" title="Enlarge"></a></div>#shop list</div></div></div>
+<p><big>Sells:</big>
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Selling</th>
+<th>Buying
+</th></tr>
+<tr>
+<td>1 robot-spawner</td>
+<td>2 gold
+</td></tr>
+<tr>
+<td>1 robot-remote</td>
+<td>1 gold
+</td></tr>
+<tr>
+<td>3 steel-ingots</td>
+<td>1 gold
+</td></tr>
+<tr>
+<td>3 copper-ingots</td>
+<td>1 gold
+</td></tr>
+<tr>
+<td>1 mese-crystal</td>
+<td>5 gold
+</td></tr>
+<tr>
+<td>1 diamond</td>
+<td>10 gold
+</td></tr>
+<tr>
+<td>1 corn</td>
+<td>5 gold
+</td></tr>
+<tr>
+<td>1 papyrus</td>
+<td>5 gold
+</td></tr>
+<tr>
+<td>1 red flower</td>
+<td>5 gold
+</td></tr></tbody></table>
+<p><big>Buys:</big>
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Selling</th>
+<th>Buying
+</th></tr>
+<tr>
+<td>1 gold</td>
+<td>3 apples
+</td></tr>
+<tr>
+<td>1 gold</td>
+<td>16 trees
+</td></tr>
+<tr>
+<td>1 gold</td>
+<td>25 pine-trees, jungle-trees, <br />aspen-trees, acacia-trees ...
+</td></tr>
+<tr>
+<td>2 gold</td>
+<td>49 fruit: potatoes, rhubarb
+</td></tr>
+<tr>
+<td>4 gold</td>
+<td>49 fruit: cotton, wheat,<br />carots, corn, tomatoes, ...
+</td></tr>
+<tr>
+<td>1 gold</td>
+<td>3 tin-ingot
+</td></tr>
+<tr>
+<td>5 gold</td>
+<td>1 mese-crystal
+</td></tr>
+<tr>
+<td>10 gold</td>
+<td>1 diamond
+</td></tr></tbody></table>
+<p><big>Shop-robot</big>
+</p><p>The shop-robot can be contacted via chat:
+</p>
+<ul><li>say "#shop" to get a dialog with the list of shops (= the list of items)</li>
+<li>set the amount at the top of the dialog to sell more items with each click</li>
+<li>click on a line to buy/sell items</li>
+<li>press ESC to exit</li></ul>
+<h3><span id="Bed-shop_&quot;Camas&quot;"></span><span class="mw-headline" id="Bed-shop_.22Camas.22">Bed-shop "Camas"</span></h3>
+<p>at: 113,2,-149 at pyramid <br />
+Sells: bed for "25 de piedra" / "99 madera" / "troncos 25"
+</p>
+<dl><dd>no shop-boxes or robots here / signs in spanish, but no infos on how to buy&#160;?</dd></dl>
+<h3><span class="mw-headline" id="Shop-B">Shop-B</span></h3>
+<p><b>Best's shop</b>
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Location:</th>
+<th>66,2,11
+</th></tr>
+<tr>
+<td>Selling</td>
+<td>Buying
+</td></tr>
+<tr>
+<td>5  steel_ingot</td>
+<td>14  coal_lump
+</td></tr>
+<tr>
+<td>20 bread</td>
+<td>3 gold
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Shop-D">Shop-D</span></h3>
+<p><b>Diego's shop</b> "Shoe Tienda"
+at: -27,2,-54 <br />
+sells: light for 1 steel, steel for 60 wood,
+steel-sword for 99 wood, ball-spawner for 1 diamond
+<br /><br />
+(out of stock)
+</p>
+<h3><span class="mw-headline" id="Shop-E">Shop-E</span></h3>
+<p><b>Evandro010's shop</b>
+at: 24,2,-50<br />
+sells: ball-spawner, steel-doors, power-cells<br />
+(out of stock)
+</p>
+<h3><span class="mw-headline" id="Shop-F">Shop-F</span></h3>
+<p><b>Fedon's machine-shop</b>
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Location:</th>
+<th>50,2,92
+</th></tr>
+<tr>
+<td>Selling</td>
+<td>Buying
+</td></tr>
+<tr>
+<td>1 ball-spawner</td>
+<td>1 steel-ingot (&#160;? out-of-stock)
+</td></tr>
+<tr>
+<td>1 keypad</td>
+<td>1 steel-ingot
+</td></tr>
+<tr>
+<td>5 Pumpkin-Bread</td>
+<td>1 steel-ingot
+</td></tr></tbody></table>
+<p>(out of stock)
+</p>
+<h3><span class="mw-headline" id="Shop-S">Shop-S</span></h3>
+<p><b>Superman's shop</b> "coin+1"
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Location:</th>
+<th>54,2,-145
+</th></tr>
+<tr>
+<td>Selling</td>
+<td>Buying
+</td></tr>
+<tr>
+<td>5  potato</td>
+<td>1 gold
+</td></tr>
+<tr>
+<td>99 pumpkin-slice</td>
+<td>5 gold
+</td></tr></tbody></table>
+<h3><span id="Apples_&amp;_Vegetables_shop"></span><span class="mw-headline" id="Apples_.26_Vegetables_shop">Apples &amp; Vegetables shop</span></h3>
+<p>at -9,2,72 <br />
+Sells: 4 tree for 20 pumpkin-slices
+</p>
+<h3><span id="Eovalz's_Shop"></span><span class="mw-headline" id="Eovalz.27s_Shop">Eovalz's Shop</span></h3>
+<p>at: -130,2,-14 <br />
+Sells: 1 mese_fragement for 16 darkage:mud_lump
+</p>
+<h3><span class="mw-headline" id="Firza_Vegetables">Firza Vegetables</span></h3>
+<p>at: -60,2,-10 - Tomatoes, robots
+</p><p>...
+</p>
+<h2><span class="mw-headline" id="Tips">Tips</span></h2>
+<h3><span class="mw-headline" id="Starter">Starter</span></h3>
+<ul><li>To become a regular user, you need to have certain items in inventory at logoff.</li></ul>
+<dl><dd>Read the messagebox "Olduser" at login for details&#160;!</dd></dl>
+<ul><li>Beware: the server can shutdown on very short notice&#160;!</li></ul>
+<dl><dd>So, unless you only want to look around, get that stuff quickly&#160;!</dd></dl>
+<ul><li>With the given initial stuff, you can craft wooden tools.</li></ul>
+<dl><dd>Note: you need a shovel for digging dirt,</dd>
+<dd>and a pickaxe to pickup a robot.</dd>
+<dd>But you can still cut trees without an axe.</dd></dl>
+<ul><li>With the torches you can go mining in the public mine.</li>
+<li>The public smelting station doesn't require fuel.</li></ul>
+<ul><li>Look around, read signs.</li>
+<li>Don't poke around areas claimed by other people.
+<ul><li>The protectors can be set to teleport you to some location,</li>
+<li>some might be set up as traps, and land you in dangerous places, or prisons.</li></ul></li>
+<li>To fend off mobs, get a steel-sword (or better).</li></ul>
+<dl><dd>With wood- and stone-swords, it takes too long to kill monsters.</dd></dl>
+<p>If you know what you're doing 
+(and lost no time to exploring, games, fending off other players, etc.)<br />
+you could set up a profitable automated farm within a day.
+</p>
+<dl><dd>See the demofarm how it can be done.</dd></dl>
+<p>Also, the first part of the public mine (up to depth 200) is quite easy.
+</p>
+<h3><span class="mw-headline" id="Items_of_interest">Items of interest</span></h3>
+<ul><li>Crafting-Guide - lookup crafting recipes (several of those guides are mounted at public places)</li>
+<li>Protector    - to claim and protect an area of size 20x20.</li></ul>
+<dl><dd>When placed, it snaps to grid. In hills outside town, you might have to dig to get at it.</dd>
+<dd>When punched, it shows a 'grid' around the claimed area.</dd>
+<dd>When carried, it can show the owner of the local area.</dd></dl>
+<ul><li>Normal chest - for storing stuff, and as a component of a shop</li>
+<li>Locked chest - to keep valuable stuff / only owner can open</li>
+<li>Locked door  - to keep strangers out</li>
+<li>Skeleton key - allows friends to open your locked doors/chests</li>
+<li>Signs        - to label houses, shops, etc.</li>
+<li>Letters      - for big labels - use stone or wood as raw material</li>
+<li>Robots       - for doing all kinds of work</li>
+<li>Remotecontrol for robots (get 2 or 3 of them)</li>
+<li>Keypads - to activate robots, and basic_machines. Can be set with a password.</li>
+<li>Bed     - to set your spawnpoint (??)</li>
+<li>Food    - to heal damage (see below)</li>
+<li>minecart - to use the rails</li>
+<li>..</li>
+<li>thieves-glove - might gain you loot, but also might make you unpopular</li>
+<li>kicking-boot  - for melee-fighting other players: kicks back &amp; slows down</li>
+<li>...</li></ul>
+<ul><li>Some nice stuff (search for keywords in crafting-guide)
+<ul><li>darkage-lamp</li>
+<li>boxes, shelves</li></ul></li></ul>
+<h3><span class="mw-headline" id="Dealing_with_acid">Dealing with acid</span></h3>
+<ul><li>Have some food ready, for healing damage</li>
+<li>Stay high, dig below</li>
+<li>Keep your distance, know the way to the exit</li>
+<li>Use torches for blocking (acid hurts, but it doesn't burn wooden items)</li>
+<li>Drop gravel or sand into the acid to quench the flow</li></ul>
+<dl><dd>'Drop' means 'place on a free space <b>above</b> the acid'</dd></dl>
+<h3><span class="mw-headline" id="Mobs">Mobs</span></h3>
+<ul><li>SandMonster  - 20 HP, drops a block of sand.</li></ul>
+<dl><dd>they appear near deserts, survive in daylight, but die in water&#160;!</dd></dl>
+<ul><li>DirtMonster  - 27 HP, drops a block of dirt</li>
+<li>TreeMonster  - 35 HP, drops 1-2 saplings / apples</li>
+<li>StoneMonster - 35 HP, drops a torch / lump of coal</li>
+<li>"Headless"   - ..</li>
+<li>Oerkie   - ..</li></ul>
+<p>...
+</p>
+<dl><dd>Most monsters can swim, jump, climb, and are hurt by sunlight,</dd></dl>
+<p>TreeMonsters have come as far as to the spawn at center of town&#160;!
+</p><p>Look up the 'armor'-button at the top of the "#shop"-dialog.
+</p>
+<h3><span class="mw-headline" id="Food">Food</span></h3>
+<p>Food is useful for healing damage, 
+caused by falling, drowning, acid, fighting, etc.
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Heals</th>
+<th>Item</th>
+<th>Remarks
+</th></tr>
+<tr>
+<td>1 HP</td>
+<td>Brown mushroom</td>
+<td>grows in the dark
+</td></tr>
+<tr>
+<td>2 HP</td>
+<td>Apple</td>
+<td>Note: 1 heart = 2 HP
+</td></tr>
+<tr>
+<td>2 HP</td>
+<td>Cookie</td>
+<td>2 Wheat + 1 cocoa beans
+</td></tr>
+<tr>
+<td>4 HP</td>
+<td>Bread</td>
+<td>4 Wheat/Barley --&gt; 1 Flour --&gt; 1 Bread
+</td></tr>
+<tr>
+<td>xx</td>
+<td>Bar of dark chocolate</td>
+<td>3 cocoa-beans --&gt; 1 chocolate bar
+</td></tr>
+<tr>
+<td>4 HP</td>
+<td>Donut</td>
+<td>4 Wheat --&gt; 3 Donut
+</td></tr>
+<tr>
+<td>5 HP</td>
+<td>Corn on the cob</td>
+<td>cook corn in furnace
+</td></tr>
+<tr>
+<td>6 HP</td>
+<td>Apple-Donut</td>
+<td>1 Donut + 1 Apple
+</td></tr>
+<tr>
+<td>6 HP</td>
+<td>Baked Potatoe</td>
+<td>cook potatoe in furnace
+</td></tr>
+<tr>
+<td>x HP</td>
+<td>Blueberries</td>
+<td>..
+</td></tr>
+<tr>
+<td>x HP</td>
+<td>Blueberry muffin</td>
+<td>1 Bread + 2 Blueberries
+</td></tr>
+<tr>
+<td>x HP</td>
+<td>Chocolate-Donut</td>
+<td>1 Donut + 1 chocolate
+</td></tr>
+<tr>
+<td>xx</td>
+<td>Pumpkin-dough</td>
+<td>1 Flour + 2 pumpkin-slice
+</td></tr>
+<tr>
+<td>x HP</td>
+<td>Pumpkin-Bread</td>
+<td>cook pumpkin-dough in furnace
+</td></tr>
+<tr>
+<td>x HP</td>
+<td>Raspberries</td>
+<td>..
+</td></tr>
+<tr>
+<td>x HP</td>
+<td>Rhubarb-Pie</td>
+<td>3 Rhubarb + 1 sugar + 3 wheat
+</td></tr>
+<tr>
+<td>xx</td>
+<td>Grapes</td>
+<td>..
+</td></tr>
+<tr>
+<td><b>Drinks:</b>
+</td></tr>
+<tr>
+<td>2 HP</td>
+<td>Raspberry-Smoothie</td>
+<td>drinking glass + raspberry + snow
+</td></tr>
+<tr>
+<td>2 HP</td>
+<td>Cold cup of coffee</td>
+<td>Coffee beans + cup + bucket of water
+</td></tr>
+<tr>
+<td>3 HP</td>
+<td>Hot  cup of coffee</td>
+<td>heat cold coffee in furnace
+</td></tr>
+</tbody></table>
+<p>See also <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=11&amp;t=9019#p151004">Farming_redo</a>, <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=10187">Farming_plusplus</a>
+</p>
+<h3><span class="mw-headline" id="Chat-Commands">Chat-Commands</span></h3>
+<ul><li>/status - shows users online (among other infos)</li>
+<li>/time - in-game time. Sunrise after 4:30, night begins after 20:00</li>
+<li>/privs - shows your priviledges</li>
+<li>/xp - shows xp (your own, or other user)</li>
+<li>/skin - shows dialog to change your skin</li>
+<li>/mods  - installed mods</li>
+<li>/help and /help all</li>
+<li>/help vote</li>
+<li>/vote types</li>
+<li>/spawn - transports you to spawn (but also kills you)</li>
+<li>/unprotect - gets back your protector of the current location</li></ul>
+<ul><li>#shop - shows shop-dialog</li></ul>
+<p>Disabled for normal users:
+</p>
+<ul><li>/sethome and /home</li>
+<li>/teleport</li></ul>
+<!-- 
+NewPP limit report
+Cached time: 20230709184407
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.196 seconds
+Real time usage: 0.212 seconds
+Preprocessor visited node count: 125/1000000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    0.000      1 -total
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:2941-0!canonical and timestamp 20230709184407 and revision id 16541
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=ROBOTS-server&amp;oldid=16541">http://wiki.minetest.net/index.php?title=ROBOTS-server&amp;oldid=16541</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/Category:Server" title="Category:Server">Server</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=ROBOTS-server" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/ROBOTS-server" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:ROBOTS-server&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/ROBOTS-server">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=ROBOTS-server&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=ROBOTS-server&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/ROBOTS-server" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/ROBOTS-server" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=ROBOTS-server&amp;oldid=16541" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=ROBOTS-server&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 16 July 2017, at 03:08.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.196","walltime":"0.212","ppvisitednodes":{"value":125,"limit":1000000},"postexpandincludesize":{"value":0,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20230709184407","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":521});});</script></body></html>

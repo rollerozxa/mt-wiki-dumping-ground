@@ -1,0 +1,612 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>How to build your first house - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"3fea3c34465f32534077a4f0","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"How_to_build_your_first_house","wgTitle":"How to build your first house","wgCurRevisionId":20683,"wgRevisionId":20683,"wgArticleId":287,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages","Tutorials"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"How_to_build_your_first_house","wgRelevantArticleId":287,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[],
+"wgRedirectedFrom":"Help:How_to_build_your_first_house","wgInternalRedirectTargetUrl":"/How_to_build_your_first_house"};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","jquery.tablesorter.styles":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=jquery.tablesorter.styles%7Cmediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<link rel="canonical" href="http://wiki.minetest.net/How_to_build_your_first_house"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-How_to_build_your_first_house rootpage-How_to_build_your_first_house skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">How to build your first house</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="mw-redirectedfrom">(Redirected from <a href="/index.php?title=Help:How_to_build_your_first_house&amp;redirect=no" class="mw-redirect" title="Help:How to build your first house">Help:How to build your first house</a>)</span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> Language:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><b><a class="mw-selflink selflink">English</a></b>&#160;• <bdi lang="de"><a href="/How_to_build_your_first_house/de" title="How to build your first house/de">Deutsch</a></bdi>&#160;• <bdi lang="fr"><a href="/How_to_build_your_first_house/fr" title="How to build your first house/fr">français</a></bdi>&#160;• <bdi lang="ja"><a href="/How_to_build_your_first_house/ja" title="How to build your first house/ja">日本語</a></bdi>&#160;• <bdi lang="ms"><a href="/How_to_build_your_first_house/ms" title="How to build your first house/ms">Bahasa Melayu</a></bdi></td>
+</tr></tbody></table>
+<p><b>This article will tell you how to make a new world, build a house, and light it up in <a href="/Games/Minetest_Game" title="Games/Minetest Game">Minetest Game</a></b>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Starting_a_new_world"><span class="tocnumber">1</span> <span class="toctext">Starting a new world</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#First_resources"><span class="tocnumber">2</span> <span class="toctext">First resources</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Finding_trees_or_bushes"><span class="tocnumber">2.1</span> <span class="toctext">Finding trees or bushes</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Chopping_down_a_tree"><span class="tocnumber">2.2</span> <span class="toctext">Chopping down a tree</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Chopping_down_a_bush"><span class="tocnumber">2.3</span> <span class="toctext">Chopping down a bush</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Using_your_inventory"><span class="tocnumber">3</span> <span class="toctext">Using your inventory</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Crafting_the_first_tool"><span class="tocnumber">4</span> <span class="toctext">Crafting the first tool</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Some_serious_mining_and_crafting"><span class="tocnumber">5</span> <span class="toctext">Some serious mining and crafting</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Building_a_house"><span class="tocnumber">6</span> <span class="toctext">Building a house</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Further_reading"><span class="tocnumber">7</span> <span class="toctext">Further reading</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Starting_a_new_world">Starting a new world</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/File:Tree_pic.png" class="image"><img alt="" src="/images/thumb/4/4f/Tree_pic.png/300px-Tree_pic.png" decoding="async" width="300" height="294" class="thumbimage" srcset="/images/4/4f/Tree_pic.png 1.5x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Tree_pic.png" class="internal" title="Enlarge"></a></div>A regular tree in Minetest Game</div></div></div>
+<p>First of all, with <a href="/Minetest" title="Minetest">Minetest</a> open, you must create a new <a href="/Worlds" title="Worlds">world</a>. To do this click “New” on the startup screen. All you need to do is type in the name for your new world. Then click on “Create”.
+</p><p>Now that you have made your world, you will need to play on it. Select it by clicking on its name on the list then click “play”. You will get a progress bar showing the game loading the world.
+</p><p>Voila! You should appear in a new world. However, there is no point just standing there. By default, the <kbd>W</kbd> key moves you forward, the <kbd>D</kbd> moves you right, the <kbd>A</kbd> moves you left, and the <kbd>S</kbd> moves you backwards. Jump with <kbd>space bar</kbd>. To turn, and look up and down, simply move the mouse. (See also: <a href="/Controls" title="Controls">Controls</a>.)
+</p>
+<h2><span class="mw-headline" id="First_resources">First resources</span></h2>
+<p>Now that you know how to move, you will need to obtain some <a href="/Wood" title="Wood">wooden planks</a>. This is one of the first and most important tasks to get started in Minetest Game.
+</p>
+<h3><span class="mw-headline" id="Finding_trees_or_bushes">Finding trees or bushes</span></h3>
+<p>First, you need to find a <a href="/Trees" title="Trees">tree</a> or <a href="/Bushes" title="Bushes">bush</a>. There are several species of trees and bushes. Trees are better than bushes as they yield more wood.
+</p><p>If you don't see a tree or bush immediately, just walk around until you see one.
+</p>
+<ul><li>Tip: If you started in the middle of nowhere, first walk around until you see grassy plains, then head there. You may find bushes in plains, and forests are usually not far away. If the grass has a yellowy color, it's <a href="/Dry_Grass" class="mw-redirect" title="Dry Grass">dry grass</a> and you've found a savannah, the home of <a href="/Acacia_Tree" title="Acacia Tree">acacia trees</a></li>
+<li>Tip: If you started in the middle of the ocean, you need to swim to land. Just hold down the <kbd>space bar</kbd> when in <a href="/Water" title="Water">Water</a> to stay afloat and don't drown!</li></ul>
+<h3><span class="mw-headline" id="Chopping_down_a_tree">Chopping down a tree</span></h3>
+<p>If you found a tree, move towards a <a href="/Tree" class="mw-redirect" title="Tree">tree trunk</a> (any species will do), and look at it. When you are close enough, you should see a black outline around the section of trunk you are looking at. Next you need to hold down the left mouse button. You should see cracks appearing on the tree. After a few seconds, the bit of trunk you were looking at will disappear. You will probably now be holding it in your hand. What you just did is called “<a href="/Mining" title="Mining">mining</a>”. If you can see a small picture of a tree section in one of the boxes at the bottom of your screen, it means it is an <a href="/Items" title="Items">item</a> in your <a href="/Inventory" title="Inventory">inventory</a>. Those boxes are your <a href="/Hotbar" title="Hotbar">hotbar</a>. To select different items from the hotbar, use the mouse wheel, or the number keys <kbd>1</kbd>-<kbd>8</kbd>.
+</p>
+<h3><span class="mw-headline" id="Chopping_down_a_bush">Chopping down a bush</span></h3>
+<p>Bushes are an alternative source of wooden planks, but they yield less wood. To chop one down, do the same as you would with trees, except you walk towards a <a href="/Bushes" title="Bushes">bush</a> (any species will do), then first mine the <a href="/Bush_Leaves" title="Bush Leaves">bush leaves</a> (in order to reach the bush stem), then the <a href="/Bush_Stem" title="Bush Stem">bush stem</a>.
+</p>
+<h2><span class="mw-headline" id="Using_your_inventory">Using your inventory</span></h2>
+<p>After you got your tree trunks or bush stems, open your inventory.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/File:Inventory_menu_illustrated.png" class="image"><img alt="" src="/images/thumb/3/35/Inventory_menu_illustrated.png/300px-Inventory_menu_illustrated.png" decoding="async" width="300" height="268" class="thumbimage" srcset="/images/3/35/Inventory_menu_illustrated.png 1.5x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Inventory_menu_illustrated.png" class="internal" title="Enlarge"></a></div>The default inventory menu</div></div></div>
+<p>To open your <a href="/Inventory_menu" title="Inventory menu">inventory menu</a>, press the <kbd>I</kbd> key on your keyboard. The screen should now have several rows of grey boxes on it. These are the various slots of your inventory. To move items around, left click on them with the mouse, then click where you want to put them (an empty box).
+</p><p>Now, break some more bits of tree or bush stem. You should now see a small number next to the item picture in your inventory. This indicates how many pieces of this item you have. 
+</p><p>When you open your inventory, you will see a 3×3 box of squares at the top. This is the <a href="/Crafting#Crafting_grid_and_output_slot" title="Crafting">crafting grid</a>. It is where you <a href="/Crafting" title="Crafting">craft</a> the various items.
+</p><p>You will now need to craft <a href="/Wooden_Planks" class="mw-redirect" title="Wooden Planks">wooden planks</a>. To do this, click on the tree or bush stem items to select them. Next, place them anywhere in the crafting grid. In your inventory menu it now should like this:
+</p>
+<table class="wikitable collapsible">
+
+<tbody><tr>
+<th scope="row" width="50px">Name
+</th>
+<th scope="col" width="140px">Ingredients
+</th>
+<th class="unsortable" scope="col">Input &#8594; Output
+</th></tr>
+<tr>
+<th scope="row"><a href="/Wood" title="Wood">Wooden Planks</a>
+</th>
+<td align="center"><a href="/Tree" class="mw-redirect" title="Tree">Tree</a>
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Tree" title="Tree"><img alt="Tree.png" src="/images/thumb/a/ac/Tree.png/32px-Tree.png" decoding="async" width="32" height="32" srcset="/images/thumb/a/ac/Tree.png/48px-Tree.png 1.5x, /images/thumb/a/ac/Tree.png/64px-Tree.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/Wooden_Planks" title="Wooden Planks"><img alt="Wooden Planks.png" src="/images/thumb/e/e6/Wooden_Planks.png/32px-Wooden_Planks.png" decoding="async" width="32" height="32" srcset="/images/thumb/e/e6/Wooden_Planks.png/48px-Wooden_Planks.png 1.5x, /images/thumb/e/e6/Wooden_Planks.png/64px-Wooden_Planks.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black">4</span></div></div>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p>Or like this:
+</p>
+<table class="wikitable collapsible">
+
+<tbody><tr>
+<th scope="row" width="50px">Name
+</th>
+<th scope="col" width="140px">Ingredients
+</th>
+<th class="unsortable" scope="col">Input &#8594; Output
+</th></tr>
+<tr>
+<th scope="row"><a href="/Wood" title="Wood">Wooden Planks</a>
+</th>
+<td align="center"><a href="/Bush_Stem" title="Bush Stem">Bush Stem</a>
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Bush_Stem" title="Bush Stem"><img alt="Bush Stem.png" src="/images/thumb/1/10/Bush_Stem.png/32px-Bush_Stem.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/10/Bush_Stem.png/48px-Bush_Stem.png 1.5x, /images/thumb/1/10/Bush_Stem.png/64px-Bush_Stem.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/Wooden_Planks" title="Wooden Planks"><img alt="Wooden Planks.png" src="/images/thumb/e/e6/Wooden_Planks.png/32px-Wooden_Planks.png" decoding="async" width="32" height="32" srcset="/images/thumb/e/e6/Wooden_Planks.png/48px-Wooden_Planks.png 1.5x, /images/thumb/e/e6/Wooden_Planks.png/64px-Wooden_Planks.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black"></span></div></div>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p>If you chopped a different tree or bush species (e.g. <a href="/Acacia_Tree" title="Acacia Tree">acacia tree</a>), it will give you a different kind of wood, but will otherwise behave identically.
+</p><p>In the box just to the right of the grid, you will see an image of wooden planks (or similar). Click on this, and you will pick up wooden planks. You should also see a log disappear from the stack of logs in the crafting grid. Congratulations! You have crafted your first item! You can <a href="/Building" title="Building">place</a> (almost) any block in your world by walking up to another node, and right-clicking on a face to put the node you are holding there.
+</p>
+<h2><span class="mw-headline" id="Crafting_the_first_tool">Crafting the first tool</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:162px;"><a href="/File:Wooden_Pickaxe.png" class="image"><img alt="" src="/images/b/b3/Wooden_Pickaxe.png" decoding="async" width="160" height="160" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Wooden_Pickaxe.png" class="internal" title="Enlarge"></a></div>A wooden pickaxe</div></div></div>
+<p>Before you make your house, though, there is another 2 crafts you will have to do.
+The first one is making <a href="/Stick" title="Stick">sticks</a>. Select the wooden planks in your inventory. Then, right-click any one of the slots in the crafting grid. This will only place one wooden plank in there, instead of the whole stack. Then left click somewhere else in your inventory to place the remaining wooden planks there. The crafting output box should now show sticks. Click on the stick item to receive the four sticks.
+</p>
+<table class="wikitable collapsible">
+
+<tbody><tr>
+<th scope="row" width="50px">Name
+</th>
+<th scope="col" width="140px">Ingredients
+</th>
+<th class="unsortable" scope="col">Input &#8594; Output
+</th></tr>
+<tr>
+<th scope="row"><a href="/Stick" title="Stick">Stick</a>
+</th>
+<td align="center"><a href="/Wood" title="Wood">Wooden Planks</a>
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Wooden_Planks" title="Wooden Planks"><img alt="Wooden Planks.png" src="/images/thumb/e/e6/Wooden_Planks.png/32px-Wooden_Planks.png" decoding="async" width="32" height="32" srcset="/images/thumb/e/e6/Wooden_Planks.png/48px-Wooden_Planks.png 1.5x, /images/thumb/e/e6/Wooden_Planks.png/64px-Wooden_Planks.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/Stick" title="Stick"><img alt="Stick.png" src="/images/thumb/a/aa/Stick.png/32px-Stick.png" decoding="async" width="32" height="32" srcset="/images/thumb/a/aa/Stick.png/48px-Stick.png 1.5x, /images/thumb/a/aa/Stick.png/64px-Stick.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black">4</span></div></div>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p>Now, for your first tool! It is a <a href="/Pickaxe" title="Pickaxe">wooden pickaxe</a>. It is used to mine <a href="/Stone" title="Stone">stone</a>, <a href="/Ores" title="Ores">ores</a> and some other blocks.
+To make the wooden pickaxe, using right click, place 1 wooden plank (any species) in each of the 3 boxes at the top of the crafting grid. Next, place sticks in the center of the middle and bottom rows. The output will show a pickaxe.
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th scope="row" width="50px">Name
+</th>
+<th scope="col" width="140px">Ingredients
+</th>
+<th class="unsortable" scope="col">Input &#8594; Output
+</th></tr>
+<tr>
+<th scope="row"><a href="/Pickaxe" title="Pickaxe">Wooden Pickaxe</a>
+</th>
+<td align="center"><a href="/Wood" title="Wood">Wooden Planks</a> + <a href="/Stick" title="Stick">Sticks</a>
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Wooden_Planks" title="Wooden Planks"><img alt="Wooden Planks.png" src="/images/thumb/e/e6/Wooden_Planks.png/32px-Wooden_Planks.png" decoding="async" width="32" height="32" srcset="/images/thumb/e/e6/Wooden_Planks.png/48px-Wooden_Planks.png 1.5x, /images/thumb/e/e6/Wooden_Planks.png/64px-Wooden_Planks.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Wooden_Planks" title="Wooden Planks"><img alt="Wooden Planks.png" src="/images/thumb/e/e6/Wooden_Planks.png/32px-Wooden_Planks.png" decoding="async" width="32" height="32" srcset="/images/thumb/e/e6/Wooden_Planks.png/48px-Wooden_Planks.png 1.5x, /images/thumb/e/e6/Wooden_Planks.png/64px-Wooden_Planks.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Wooden_Planks" title="Wooden Planks"><img alt="Wooden Planks.png" src="/images/thumb/e/e6/Wooden_Planks.png/32px-Wooden_Planks.png" decoding="async" width="32" height="32" srcset="/images/thumb/e/e6/Wooden_Planks.png/48px-Wooden_Planks.png 1.5x, /images/thumb/e/e6/Wooden_Planks.png/64px-Wooden_Planks.png 2x" /></a></div></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Stick" title="Stick"><img alt="Stick.png" src="/images/thumb/a/aa/Stick.png/32px-Stick.png" decoding="async" width="32" height="32" srcset="/images/thumb/a/aa/Stick.png/48px-Stick.png 1.5x, /images/thumb/a/aa/Stick.png/64px-Stick.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Stick" title="Stick"><img alt="Stick.png" src="/images/thumb/a/aa/Stick.png/32px-Stick.png" decoding="async" width="32" height="32" srcset="/images/thumb/a/aa/Stick.png/48px-Stick.png 1.5x, /images/thumb/a/aa/Stick.png/64px-Stick.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/Woodpick" title="Woodpick"><img alt="Wooden Pickaxe.png" src="/images/thumb/b/b3/Wooden_Pickaxe.png/32px-Wooden_Pickaxe.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/b3/Wooden_Pickaxe.png/48px-Wooden_Pickaxe.png 1.5x, /images/thumb/b/b3/Wooden_Pickaxe.png/64px-Wooden_Pickaxe.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black"></span></div></div>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p>Take the pickaxe, and put it at the top of your inventory. Exit the inventory, then scroll to select it. You should now appear to be holding it.
+</p>
+<h2><span class="mw-headline" id="Some_serious_mining_and_crafting">Some serious mining and crafting</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:152px;"><a href="/File:Stone.png" class="image"><img alt="" src="/images/d/d4/Stone.png" decoding="async" width="150" height="150" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Stone.png" class="internal" title="Enlarge"></a></div>Stone</div></div></div>
+<p>Now, for <a href="/Stone" title="Stone">stone</a>. Walk around until you see grey blocks. These can often be seen in cliffs whilst above ground. 
+Go up to them, and using the pickaxe, break about 12 of them like you did with the tree. 
+You will find they turned into a material called “<a href="/Cobblestone" title="Cobblestone">cobblestone</a>” in your inventory. 
+</p><p>By now, it will probably be getting dark. You will need to make <a href="/Torch" title="Torch">torches</a> for <a href="/Light" title="Light">light</a>.
+</p><p>To make torches, walk around until you see what looks like stone, with black spots on it. <br />
+This is <a href="/Coal_Ore" title="Coal Ore">coal ore</a>. 
+Break the whole cluster of coal with your pickaxe, it won’t take long.
+</p><p>Next, make some more sticks. At the bottom of the crafting grid put a stick in one of the boxes, then put a <a href="/Coal_Lump" title="Coal Lump">coal lump</a> (this is what you get when you mine coal) above it. You will get four torches.
+</p>
+<table class="wikitable collapsible">
+
+<tbody><tr>
+<th scope="row" width="50px">Name
+</th>
+<th scope="col" width="140px">Ingredients
+</th>
+<th class="unsortable" scope="col">Input &#8594; Output
+</th></tr>
+<tr>
+<th scope="row"><a href="/Torch" title="Torch">Torch</a>
+</th>
+<td align="center"><a href="/Stick" title="Stick">Stick</a> <br /> + <a href="/Coal_Lump" title="Coal Lump">Coal Lump</a>
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Coal" title="Coal"><img alt="Coal.png" src="/images/thumb/a/a7/Coal.png/32px-Coal.png" decoding="async" width="32" height="32" srcset="/images/thumb/a/a7/Coal.png/48px-Coal.png 1.5x, /images/thumb/a/a7/Coal.png/64px-Coal.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Stick" title="Stick"><img alt="Stick.png" src="/images/thumb/a/aa/Stick.png/32px-Stick.png" decoding="async" width="32" height="32" srcset="/images/thumb/a/aa/Stick.png/48px-Stick.png 1.5x, /images/thumb/a/aa/Stick.png/64px-Stick.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/Torch" title="Torch"><img alt="Torch.png" src="/images/thumb/b/b2/Torch.png/32px-Torch.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/b2/Torch.png/48px-Torch.png 1.5x, /images/thumb/b/b2/Torch.png/64px-Torch.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black">4</span></div></div>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p>Place these like regular blocks, and they will emit light. The torches don't burn out, so you can leave them burning all day.
+</p>
+<h2><span class="mw-headline" id="Building_a_house">Building a house</span></h2>
+<p>Now to make a house. You can use this as your base. <br />
+Build it how you like, for now just use wooden planks (break more trees to make them). <br />
+Use torches to light up your house.
+</p><p>See also <a href="/Building_a_home" title="Building a home">Building a home</a>.
+</p><p>Next you will want to make a <a href="/Furnace" title="Furnace">furnace</a>. <br />
+To craft it, fill the crafting grid with cobblestone, leaving the very centre box empty:
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th scope="row" width="50px">Name
+</th>
+<th scope="col" width="140px">Ingredients
+</th>
+<th class="unsortable" scope="col">Input &#8594; Output
+</th></tr>
+<tr>
+<th scope="row"><a href="/Furnace" title="Furnace">Furnace</a>
+</th>
+<td align="center"><a href="/Cobblestone" title="Cobblestone">Cobblestone</a>
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Cobblestone" title="Cobblestone"><img alt="Cobblestone.png" src="/images/thumb/6/67/Cobblestone.png/32px-Cobblestone.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/67/Cobblestone.png/48px-Cobblestone.png 1.5x, /images/thumb/6/67/Cobblestone.png/64px-Cobblestone.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Cobblestone" title="Cobblestone"><img alt="Cobblestone.png" src="/images/thumb/6/67/Cobblestone.png/32px-Cobblestone.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/67/Cobblestone.png/48px-Cobblestone.png 1.5x, /images/thumb/6/67/Cobblestone.png/64px-Cobblestone.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Cobblestone" title="Cobblestone"><img alt="Cobblestone.png" src="/images/thumb/6/67/Cobblestone.png/32px-Cobblestone.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/67/Cobblestone.png/48px-Cobblestone.png 1.5x, /images/thumb/6/67/Cobblestone.png/64px-Cobblestone.png 2x" /></a></div></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Cobblestone" title="Cobblestone"><img alt="Cobblestone.png" src="/images/thumb/6/67/Cobblestone.png/32px-Cobblestone.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/67/Cobblestone.png/48px-Cobblestone.png 1.5x, /images/thumb/6/67/Cobblestone.png/64px-Cobblestone.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Cobblestone" title="Cobblestone"><img alt="Cobblestone.png" src="/images/thumb/6/67/Cobblestone.png/32px-Cobblestone.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/67/Cobblestone.png/48px-Cobblestone.png 1.5x, /images/thumb/6/67/Cobblestone.png/64px-Cobblestone.png 2x" /></a></div></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Cobblestone" title="Cobblestone"><img alt="Cobblestone.png" src="/images/thumb/6/67/Cobblestone.png/32px-Cobblestone.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/67/Cobblestone.png/48px-Cobblestone.png 1.5x, /images/thumb/6/67/Cobblestone.png/64px-Cobblestone.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Cobblestone" title="Cobblestone"><img alt="Cobblestone.png" src="/images/thumb/6/67/Cobblestone.png/32px-Cobblestone.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/67/Cobblestone.png/48px-Cobblestone.png 1.5x, /images/thumb/6/67/Cobblestone.png/64px-Cobblestone.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Cobblestone" title="Cobblestone"><img alt="Cobblestone.png" src="/images/thumb/6/67/Cobblestone.png/32px-Cobblestone.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/67/Cobblestone.png/48px-Cobblestone.png 1.5x, /images/thumb/6/67/Cobblestone.png/64px-Cobblestone.png 2x" /></a></div></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/Furnace" title="Furnace"><img alt="Furnace.png" src="/images/thumb/0/0f/Furnace.png/32px-Furnace.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/0f/Furnace.png/48px-Furnace.png 1.5x, /images/thumb/0/0f/Furnace.png/64px-Furnace.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black"></span></div></div>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p>Take the furnace from the <a href="/Crafting#Crafting_grid_and_output_slot" title="Crafting">output slot</a>. 
+Place your furnace somewhere in your house. <br />
+You will use the furnace to <a href="/Smelting" class="mw-redirect" title="Smelting">smelt</a> ores, once you mine them. 
+But don’t worry about that yet. 
+Because you just completed your first awesome house, I hope you like your new home!&#160;:-)
+</p>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span></h2>
+<ul><li><a href="/Help:Getting_Started#Gameplay" class="mw-redirect" title="Help:Getting Started">Help:Getting Started#Gameplay</a>.</li>
+<li><a href="/Blocks" class="mw-redirect" title="Blocks">Blocks</a></li>
+<li><a href="/Items" title="Items">Items</a></li></ul>
+<p>You probably have noticed that some of the crafting recipes you just use have variants. E.g. the wooden pickaxe could also be crafted with acacia wooden planks instead of regular wooden planks. Read <a href="/Crafting" title="Crafting">Crafting</a> and the respective item pages to learn more about this.
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20230711185823
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.609 seconds
+Real time usage: 1.214 seconds
+Preprocessor visited node count: 741/1000000
+Post‐expand include size: 35966/2097152 bytes
+Template argument size: 926/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 14/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.500/7 seconds
+Lua virtual size: 6.32 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  867.160      1 -total
+ 64.72%  561.260      6 Template:Grid/Craft
+ 59.24%  513.711     60 Template:Grid
+ 34.96%  303.123      1 Template:Languages
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:287-0!canonical and timestamp 20230711185821 and revision id 20683
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=How_to_build_your_first_house&amp;oldid=20683">http://wiki.minetest.net/index.php?title=How_to_build_your_first_house&amp;oldid=20683</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li><li><a href="/Category:Tutorials" title="Category:Tutorials">Tutorials</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=How+to+build+your+first+house" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/How_to_build_your_first_house" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:How_to_build_your_first_house&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/How_to_build_your_first_house">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=How_to_build_your_first_house&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=How_to_build_your_first_house&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/How_to_build_your_first_house" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/How_to_build_your_first_house" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=How_to_build_your_first_house&amp;oldid=20683" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=How_to_build_your_first_house&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 16 May 2018, at 09:33.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.609","walltime":"1.214","ppvisitednodes":{"value":741,"limit":1000000},"postexpandincludesize":{"value":35966,"limit":2097152},"templateargumentsize":{"value":926,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":14,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  867.160      1 -total"," 64.72%  561.260      6 Template:Grid/Craft"," 59.24%  513.711     60 Template:Grid"," 34.96%  303.123      1 Template:Languages"]},"scribunto":{"limitreport-timeusage":{"value":"0.500","limit":"7"},"limitreport-virtmemusage":{"value":6631424,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230711185823","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":304});});</script></body></html>

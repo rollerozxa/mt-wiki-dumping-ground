@@ -1,0 +1,540 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Games/Minetest Game/fr - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"195c734a77dd3d17329e3b7a","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Games/Minetest_Game/fr","wgTitle":"Games/Minetest Game/fr","wgCurRevisionId":27865,"wgRevisionId":27865,"wgArticleId":2782,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages","French"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Games/Minetest_Game/fr","wgRelevantArticleId":2782,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":
+"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","mediawiki.page.gallery.styles":"ready","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=ext.cite.styles%7Cmediawiki.page.gallery.styles%7Cmediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Games_Minetest_Game_fr rootpage-Games skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Games/Minetest Game/fr</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/Games" title="Games">Games</a>&lrm; | <a href="/Games/Minetest_Game" title="Games/Minetest Game">Minetest Game</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> Langue&#160;:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><a href="/Games/Minetest_Game" title="Games/Minetest Game">English</a>&#160;• <bdi lang="de"><a href="/Games/Minetest_Game/de" title="Games/Minetest Game/de">Deutsch</a></bdi><b>&#160;• <bdi lang="fr"><a class="mw-selflink selflink">français</a></bdi></b>&#160;• <bdi lang="ja"><a href="/Games/Minetest_Game/ja" title="Games/Minetest Game/ja">日本語</a></bdi>&#160;• <bdi lang="ms"><a href="/Games/Minetest_Game/ms" title="Games/Minetest Game/ms">Bahasa Melayu</a></bdi>&#160;• <bdi lang="uk"><a href="/Games/Minetest_Game/uk" title="Games/Minetest Game/uk">українська</a></bdi></td>
+</tr></tbody></table>
+<table class="wikitable" width="200px" style="float:right;text-align:left;margin:0 0 0.5em 1em;padding:5px;font-size:90%;position:relative;clear:right;overflow:auto;z-index:1">
+
+<tbody><tr>
+<th colspan="2" style="font-size:110%;text-align:center">Jeu Minetest
+</th></tr>
+<tr>
+<th colspan="2"><div class="center"><a href="/File:Minetest_logo.png" class="image"><img alt="Minetest logo.png" src="/images/thumb/c/cf/Minetest_logo.png/150px-Minetest_logo.png" decoding="async" width="150" height="150" srcset="/images/c/cf/Minetest_logo.png 1.5x" /></a></div>
+</th></tr>
+<tr>
+<th colspan="2" align="center">A <a href="/Games" title="Games">game</a>
+</th></tr>
+<tr>
+<td><b>Game Type</b>
+</td>
+<td>Default
+</td></tr>
+<tr>
+<td><b>Author</b>
+</td>
+<td>Concepteurs Minetest
+</td></tr>
+<tr>
+<td><b>Latest version</b>
+</td>
+<td>5.7.0
+</td></tr>
+<tr>
+<td><b>Forum topic</b>
+</td>
+<td><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?t=9724">9724</a>
+</td></tr>
+<tr>
+<td><b>Source code</b>
+</td>
+<td><a rel="nofollow" class="external text" href="https://github.com/minetest/minetest_game">GitHub</a>
+</td></tr></tbody></table>
+<p><br />
+Le jeu Minetest (<b>Minetest Game</b>) en anglais, (anciennement appelé “<code>minetest_game</code>”) est habituellement le <a href="/Games/fr" title="Games/fr">jeu</a> <a href="/Minetest/fr" title="Minetest/fr">Minetest</a> par défaut. Mais c'est plus un bac à sable qu'un jeu. Aller voir <a href="/How_to_build_your_first_house/fr" title="How to build your first house/fr">cette page pour un guide de démarrage rapide</a>
+</p><p><br />
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Vue_d.27ensemble_du_jeu"><span class="tocnumber">1</span> <span class="toctext">Vue d'ensemble du jeu</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Captures_d.27Ecran"><span class="tocnumber">2</span> <span class="toctext">Captures d'Ecran</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Fonctionnalit.C3.A9s"><span class="tocnumber">3</span> <span class="toctext">Fonctionnalités</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Vue_d.27ensemble"><span class="tocnumber">3.1</span> <span class="toctext">Vue d'ensemble</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Le_Monde"><span class="tocnumber">3.2</span> <span class="toctext">Le Monde</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Outils_disponibles"><span class="tocnumber">3.3</span> <span class="toctext">Outils disponibles</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Autres_aspects_du_Jeu"><span class="tocnumber">3.4</span> <span class="toctext">Autres aspects du Jeu</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Fonctions"><span class="tocnumber">4</span> <span class="toctext">Fonctions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#En_tant_que_jeu_par_d.C3.A9faut"><span class="tocnumber">4.1</span> <span class="toctext">En tant que jeu par défaut</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#En_tant_que_bases_pour_un_nouveau_jeu"><span class="tocnumber">4.2</span> <span class="toctext">En tant que bases pour un nouveau jeu</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#En_tant_que_collection_d.27exemples_de_modding"><span class="tocnumber">4.3</span> <span class="toctext">En tant que collection d'exemples de modding</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Contenu"><span class="tocnumber">5</span> <span class="toctext">Contenu</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#Choses_int.C3.A9ressantes_non_incluses"><span class="tocnumber">5.1</span> <span class="toctext">Choses intéressantes non incluses</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#Historique_et_Avenir"><span class="tocnumber">6</span> <span class="toctext">Historique et Avenir</span></a>
+<ul>
+<li class="toclevel-2 tocsection-15"><a href="#0.4.9_branch"><span class="tocnumber">6.1</span> <span class="toctext">0.4.9 branch</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#0.4.10_branch"><span class="tocnumber">6.2</span> <span class="toctext">0.4.10 branch</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#D.C3.A9veloppement_Futur"><span class="tocnumber">6.3</span> <span class="toctext">Développement Futur</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-18"><a href="#Aspects_juridiques"><span class="tocnumber">7</span> <span class="toctext">Aspects juridiques</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#Notes_and_References"><span class="tocnumber">8</span> <span class="toctext">Notes and References</span></a></li>
+</ul>
+</div>
+
+<h2><span id="Vue_d'ensemble_du_jeu"></span><span class="mw-headline" id="Vue_d.27ensemble_du_jeu">Vue d'ensemble du jeu</span></h2>
+<p>Minetest est un jeu "bac à sable" simple et tranquille, cela signifie qu'il n'y a ni d'objectif ni intégration d'<a href="/Mobs/fr" title="Mobs/fr">ennemis informatiques</a>.
+Le <a href="/Player/fr" title="Player/fr">joueur</a> est immergé dans un monde fait de <a href="/index.php?title=Blocks/fr&amp;action=edit&amp;redlink=1" class="new" title="Blocks/fr (page does not exist)">cubes</a> et il peut explorer la surface et voyager en toute liberté à travers des <a href="/Biomes/fr" title="Biomes/fr">écosystèmes</a> tels que les plaines, les forêts, les déserts, les jungles et les régions arctiques ou enneigées. 
+Il a aussi la possibilité d'explorer les océans avec un <a href="/Boat/fr" title="Boat/fr">bâteau</a> ou nager et plonger, collecter différents matériaux et se <a href="/Crafting/fr" title="Crafting/fr">fabriquer</a> des <a href="/Tool/fr" title="Tool/fr">outils</a>. 
+En utilisant une <a href="/Pickaxe/fr" title="Pickaxe/fr">pioche</a>, le joueur peut <a href="/Mining/fr" title="Mining/fr">creuser</a> en profondeur et collecter des <a href="/index.php?title=Ores/fr&amp;action=edit&amp;redlink=1" class="new" title="Ores/fr (page does not exist)">minerais</a> précieux, mais attention, un joueur imprudent peut aussi se brûler avec la <a href="/Lava/fr" title="Lava/fr">lave</a>. 
+Le joueur peut devenir un <a href="/Farming/fr" title="Farming/fr">agriculteur</a> ou un forestier et planter des <a href="/index.php?title=Sapling/fr&amp;action=edit&amp;redlink=1" class="new" title="Sapling/fr (page does not exist)">arbres</a> ou des <a href="/Wheat_(plant)/fr" title="Wheat (plant)/fr">cultures</a>. 
+Pratiquement tous les blocs peuvent être éliminés avec un outil approprié et les blocs ainsi collectés offrent des possibilités de construction quasi illimitées où la seule barrière reste l'imagination. 
+Le jeu Minetest suscite la créativité et la curiosité plutôt que le défi, en <a href="/Building/fr" title="Building/fr">construisant</a> et en explorant librement les différents mondes, ce qui en fait tout naturellement un jeu de type "bac-à-sable".
+</p><p><br />
+</p>
+<h2><span id="Captures_d'Ecran"></span><span class="mw-headline" id="Captures_d.27Ecran">Captures d'Ecran</span></h2>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 435px"><div style="width: 435px">
+			<div class="thumb" style="width: 430px;"><div style="margin:21.5px auto;"><a href="/File:Desert_at_sunset_0.4.7.png" class="image"><img alt="" src="/images/thumb/6/69/Desert_at_sunset_0.4.7.png/400px-Desert_at_sunset_0.4.7.png" decoding="async" width="400" height="243" srcset="/images/thumb/6/69/Desert_at_sunset_0.4.7.png/600px-Desert_at_sunset_0.4.7.png 1.5x, /images/thumb/6/69/Desert_at_sunset_0.4.7.png/800px-Desert_at_sunset_0.4.7.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p>Désert
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 435px"><div style="width: 435px">
+			<div class="thumb" style="width: 430px;"><div style="margin:30.5px auto;"><a href="/File:Savannah.jpg" class="image"><img alt="" src="/images/thumb/2/2c/Savannah.jpg/400px-Savannah.jpg" decoding="async" width="400" height="225" srcset="/images/thumb/2/2c/Savannah.jpg/600px-Savannah.jpg 1.5x, /images/thumb/2/2c/Savannah.jpg/800px-Savannah.jpg 2x" /></a></div></div>
+			<div class="gallerytext">
+<p>Savane
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 435px"><div style="width: 435px">
+			<div class="thumb" style="width: 430px;"><div style="margin:21.5px auto;"><a href="/File:Jungle_0.4.7.jpg" class="image"><img alt="" src="/images/thumb/1/16/Jungle_0.4.7.jpg/400px-Jungle_0.4.7.jpg" decoding="async" width="400" height="243" srcset="/images/thumb/1/16/Jungle_0.4.7.jpg/600px-Jungle_0.4.7.jpg 1.5x, /images/thumb/1/16/Jungle_0.4.7.jpg/800px-Jungle_0.4.7.jpg 2x" /></a></div></div>
+			<div class="gallerytext">
+<p>Jungle
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 435px"><div style="width: 435px">
+			<div class="thumb" style="width: 430px;"><div style="margin:36.5px auto;"><a href="/File:Minetest_Game_forest.jpg" class="image"><img alt="" src="/images/thumb/9/9e/Minetest_Game_forest.jpg/400px-Minetest_Game_forest.jpg" decoding="async" width="400" height="213" srcset="/images/thumb/9/9e/Minetest_Game_forest.jpg/600px-Minetest_Game_forest.jpg 1.5x, /images/thumb/9/9e/Minetest_Game_forest.jpg/800px-Minetest_Game_forest.jpg 2x" /></a></div></div>
+			<div class="gallerytext">
+<p>Forêt de feuillus
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 435px"><div style="width: 435px">
+			<div class="thumb" style="width: 430px;"><div style="margin:15px auto;"><a href="/File:Mapgen_valleys.jpg" class="image"><img alt="" src="/images/thumb/1/1b/Mapgen_valleys.jpg/400px-Mapgen_valleys.jpg" decoding="async" width="400" height="256" srcset="/images/thumb/1/1b/Mapgen_valleys.jpg/600px-Mapgen_valleys.jpg 1.5x, /images/1/1b/Mapgen_valleys.jpg 2x" /></a></div></div>
+			<div class="gallerytext">
+<p>Forêt de Conifères dans une vallée
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 435px"><div style="width: 435px">
+			<div class="thumb" style="width: 430px;"><div style="margin:21.5px auto;"><a href="/File:Glacier.jpg" class="image"><img alt="" src="/images/thumb/8/8c/Glacier.jpg/400px-Glacier.jpg" decoding="async" width="400" height="243" srcset="/images/thumb/8/8c/Glacier.jpg/600px-Glacier.jpg 1.5x, /images/thumb/8/8c/Glacier.jpg/800px-Glacier.jpg 2x" /></a></div></div>
+			<div class="gallerytext">
+<p>Glacier
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 435px"><div style="width: 435px">
+			<div class="thumb" style="width: 430px;"><div style="margin:30.5px auto;"><a href="/File:Minetest_Game_underground.jpg" class="image"><img alt="" src="/images/thumb/7/75/Minetest_Game_underground.jpg/400px-Minetest_Game_underground.jpg" decoding="async" width="400" height="225" srcset="/images/thumb/7/75/Minetest_Game_underground.jpg/600px-Minetest_Game_underground.jpg 1.5x, /images/thumb/7/75/Minetest_Game_underground.jpg/800px-Minetest_Game_underground.jpg 2x" /></a></div></div>
+			<div class="gallerytext">
+<p>Souterrain
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 435px"><div style="width: 435px">
+			<div class="thumb" style="width: 430px;"><div style="margin:21.5px auto;"><a href="/File:Lava_lake_0.4.7.jpg" class="image"><img alt="" src="/images/thumb/b/be/Lava_lake_0.4.7.jpg/400px-Lava_lake_0.4.7.jpg" decoding="async" width="400" height="243" srcset="/images/thumb/b/be/Lava_lake_0.4.7.jpg/600px-Lava_lake_0.4.7.jpg 1.5x, /images/thumb/b/be/Lava_lake_0.4.7.jpg/800px-Lava_lake_0.4.7.jpg 2x" /></a></div></div>
+			<div class="gallerytext">
+<p>Lac de lave
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 435px"><div style="width: 435px">
+			<div class="thumb" style="width: 430px;"><div style="margin:21.5px auto;"><a href="/File:Dungeon_0.4.7.jpg" class="image"><img alt="" src="/images/thumb/d/d6/Dungeon_0.4.7.jpg/400px-Dungeon_0.4.7.jpg" decoding="async" width="400" height="243" srcset="/images/thumb/d/d6/Dungeon_0.4.7.jpg/600px-Dungeon_0.4.7.jpg 1.5x, /images/thumb/d/d6/Dungeon_0.4.7.jpg/800px-Dungeon_0.4.7.jpg 2x" /></a></div></div>
+			<div class="gallerytext">
+<p>Dongeons
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 435px"><div style="width: 435px">
+			<div class="thumb" style="width: 430px;"><div style="margin:30px auto;"><a href="/File:Riding_a_boat.jpg" class="image"><img alt="" src="/images/thumb/a/a7/Riding_a_boat.jpg/400px-Riding_a_boat.jpg" decoding="async" width="400" height="226" srcset="/images/thumb/a/a7/Riding_a_boat.jpg/600px-Riding_a_boat.jpg 1.5x, /images/thumb/a/a7/Riding_a_boat.jpg/800px-Riding_a_boat.jpg 2x" /></a></div></div>
+			<div class="gallerytext">
+<p>Promenage en <a href="/Boat/fr" title="Boat/fr">bâteau</a> sur une rivière
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 435px"><div style="width: 435px">
+			<div class="thumb" style="width: 430px;"><div style="margin:30px auto;"><a href="/File:Farming.jpg" class="image"><img alt="" src="/images/thumb/9/90/Farming.jpg/400px-Farming.jpg" decoding="async" width="400" height="226" srcset="/images/thumb/9/90/Farming.jpg/600px-Farming.jpg 1.5x, /images/thumb/9/90/Farming.jpg/800px-Farming.jpg 2x" /></a></div></div>
+			<div class="gallerytext">
+<p>Ferme construite par un joueur
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 435px"><div style="width: 435px">
+			<div class="thumb" style="width: 430px;"><div style="margin:15px auto;"><a href="/File:Minetest_Game_tower.jpg" class="image"><img alt="" src="/images/thumb/1/19/Minetest_Game_tower.jpg/390px-Minetest_Game_tower.jpg" decoding="async" width="390" height="256" srcset="/images/thumb/1/19/Minetest_Game_tower.jpg/585px-Minetest_Game_tower.jpg 1.5x, /images/thumb/1/19/Minetest_Game_tower.jpg/780px-Minetest_Game_tower.jpg 2x" /></a></div></div>
+			<div class="gallerytext">
+<p>Tour construite par un joueur
+</p>
+			</div>
+		</div></li>
+</ul>
+<p><br />
+</p>
+<h2><span id="Fonctionnalités"></span><span class="mw-headline" id="Fonctionnalit.C3.A9s">Fonctionnalités</span></h2>
+<h3><span id="Vue_d'ensemble"></span><span class="mw-headline" id="Vue_d.27ensemble">Vue d'ensemble</span></h3>
+<ul><li>Environ 185 types de bloc pour miner et construire (Voir les <a href="/index.php?title=Blocks/fr&amp;action=edit&amp;redlink=1" class="new" title="Blocks/fr (page does not exist)">bloc</a> pour un aperçu).</li>
+<li>Grand souterrain avec 7 minerais differents et de la lave.</li>
+<li>6 <a href="/Tool/fr" title="Tool/fr">outils</a> de force croissante allant du <a href="/Wood/fr" title="Wood/fr">bois</a> au <a href="/Diamond/fr" title="Diamond/fr">diamant</a> (plus faible -&gt; plus fort).</li>
+<li><a href="/index.php?title=Creative_mode/fr&amp;action=edit&amp;redlink=1" class="new" title="Creative mode/fr (page does not exist)">Mode Créatif</a> dans lequel presque tous les articles sont immédiatement utilisables.</li></ul>
+<p><br />
+</p>
+<h3><span class="mw-headline" id="Le_Monde">Le Monde</span></h3>
+<ul><li>Plusieurs <a href="/Biomes/fr" title="Biomes/fr">écosystèmes</a> à découvrir: les plaines, le désert, la jungle, l'océan, la savane, les forêts de feuillus, les forêt de conifères, la neige, le glacier.</li>
+<li>Cachots souterrains.</li>
+<li>Petites et grandes grottes souterraines.</li>
+<li>Poches de <a href="/Lava/fr" title="Lava/fr">lave</a> souterraine.</li>
+<li>6 <a href="/index.php?title=Ores/fr&amp;action=edit&amp;redlink=1" class="new" title="Ores/fr (page does not exist)">minerais</a>&#160;: <a href="/Coal_Ore/fr" title="Coal Ore/fr">charbon</a>, <a href="/Iron_Ore/fr" title="Iron Ore/fr">fer</a>, <a href="/Copper_Ore/fr" title="Copper Ore/fr">cuivre</a>, <a href="/Gold_Ore/fr" title="Gold Ore/fr">or</a>, <a href="/Mese_Ore/fr" title="Mese Ore/fr">mese</a>, <a href="/Diamond_Ore/fr" title="Diamond Ore/fr">diamant</a>, utilisés pour fabriquer des outils et différentes choses.</li>
+<li>De rare <a href="/Mese_Block/fr" title="Mese Block/fr">bloc de mese</a> à un niveau inférieur à Y=-1024 (équivalent à 9 <a href="/Mese_Crystal/fr" title="Mese Crystal/fr">cristaux de mese</a>).</li>
+<li>6 types d'<a href="/index.php?title=Trees/fr&amp;action=edit&amp;redlink=1" class="new" title="Trees/fr (page does not exist)">arbre</a>&#160;: arbre “classique”, pommier, arbre de la jungle, arbre d'acacia, peuplier, pin y compris les jeunes pousses d'arbres qui grandiront à leur tour pour devenir de nouveaux arbres.</li>
+<li>6 <a href="/Flower/fr" title="Flower/fr">fleurs</a> (utilisées notamment pour créer des couleurs), <a href="/Waterlily/fr" title="Waterlily/fr">nénuphar</a>, champignons et plusieurs autres petites plantes.</li></ul>
+<p><br />
+</p>
+<h3><span class="mw-headline" id="Outils_disponibles">Outils disponibles</span></h3>
+<ul><li>Outils pour détruire les blocs: <a href="/Pickaxe/fr" title="Pickaxe/fr">pioche</a> (pour la pierre), <a href="/Shovel/fr" title="Shovel/fr">pelle</a> (pour la terre et le sable), <a href="/Axe/fr" title="Axe/fr">hâche</a> (pour le bois et les arbres), <a href="/Sword/fr" title="Sword/fr">épée</a> (pour les feuilles et les petites plantes).</li>
+<li>Plusieurs outils peuvent aussi être utilisés dans les combats rapprochés (corps-à-corps).</li>
+<li><a href="/Screwdriver/fr" title="Screwdriver/fr">Tournevis</a> (utiliser pour tourner des choses).</li>
+<li><a href="/Bucket/fr" title="Bucket/fr">Seau</a> pour collecter des liquides tel que <a href="/Water/fr" title="Water/fr">eau</a>.</li>
+<li>Voir les <a href="/Items/fr" class="mw-redirect" title="Items/fr">articles</a> pour plus de détails.</li></ul>
+<p><br />
+</p>
+<h3><span class="mw-headline" id="Autres_aspects_du_Jeu">Autres aspects du Jeu</span></h3>
+<ul><li>Se déplacer sur l'océan avec des <a href="/Boat/fr" title="Boat/fr">bâteaux</a>.</li>
+<li>Utiliser le <a href="/Furnace/fr" title="Furnace/fr">four</a> pour faire <a href="/Smelting/fr" class="mw-redirect" title="Smelting/fr">fondre</a> les minerais et les lingots, utiliser les lingots pour fabriquer de nouvelles choses.</li>
+<li>Agriculture basique&#160;: Travailler le <a href="/Soil/fr" title="Soil/fr">labour</a> avec une <a href="/Hoe/fr" title="Hoe/fr">houe</a>, planter du <a href="/Wheat_Seed/fr" title="Wheat Seed/fr">blé</a> et du <a href="/Cotton_Seed" title="Cotton Seed">coton</a>, placer de <a href="/Water/fr" title="Water/fr">eau</a> à proximité et regarder grandir les cultures.</li>
+<li>Lorsqu'un joueur meurt, un bloc d'<a href="/Bones/fr" title="Bones/fr">ossements</a> est généré dans lequel sont placés automatiquement tous les articles qui lui ont appartenu.</li>
+<li><a href="/Fire/fr" title="Fire/fr">Feu</a>&#160;!</li>
+<li><a href="/TNT/fr" title="TNT/fr">TNT</a> et <a href="/Gun_Powder/fr" title="Gun Powder/fr">poudre à canon</a>.</li></ul>
+<p><br />
+</p>
+<h2><span class="mw-headline" id="Fonctions">Fonctions</span></h2>
+<h3><span id="En_tant_que_jeu_par_défaut"></span><span class="mw-headline" id="En_tant_que_jeu_par_d.C3.A9faut">En tant que jeu par défaut</span></h3>
+<p>Le jeu Minetest comprend par défaut des fonctions comme le mode <a href="/Help:Getting_Started#Playing.2Ffr" class="mw-redirect" title="Help:Getting Started">solo</a> (joueur unique) qui est immédiatement disponible dans la version téléchargeable à partir de la page d'accueil. Suivre le lien ci-contre&#160;: <a rel="nofollow" class="external text" href="http://minetest.net/download.php">section téléchargement</a>. 
+</p><p>Il inclus aussi quelques mods de base qui ajoutent suffisamment de contenu pour permettent une utilisation rapide et agréable en toute simplicité. 
+</p><p>Des <a href="/Controls/fr" title="Controls/fr">Touches de Contrôle</a> et des activités comme par exemple <a href="/Help:How_to_build_your_first_house/fr" class="mw-redirect" title="Help:How to build your first house/fr">Comment construire sa première maison</a> ont été intégrés de façon identique aux <a rel="nofollow" class="external text" href="http://en.wikipedia.org/wiki/Voxel#Uses">jeux du même genre</a> pour faciliter le prise en mains.  
+</p><p>En mode joueur unique (solo), le jeu Minetest est autonome. Il ne fait pas appel à des serveurs externes (serveurs distants) car il dispose de son propre serveur interne encore appelé serveur local.
+</p><p>En mode multi-joueurs, il est en revanche nécessaire de disposer d'un serveur partagé distant ou éventuellement de son propre serveur. Les joueurs devront se connecter au serveur partagé pour pouvoir utiliser les différents mods qui s'y trouvent hébergés.
+</p><p><br />
+</p>
+<h3><span class="mw-headline" id="En_tant_que_bases_pour_un_nouveau_jeu">En tant que bases pour un nouveau jeu</span></h3>
+<p>Le jeu peut être considérablement modifié par des scripts Lua<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> organisés en mods. 
+Comme beaucoup de mods offerts par la communauté, la version par défaut du jeu Minetest a été pensée pour mettre à disposition des concepteurs un contenu basic sur lequel ils pourront construire leurs propres jeux. 
+Par conséquent, si la compatibilité avec la plupart des mods est l'objectif recherché d'un nouveau jeu, il reste cependant conseillé de démarrer la construction d'un jeu en ajoutant le nouveau contenu à une copie du jeu Minetest de base.
+</p><p><br />
+</p>
+<h3><span id="En_tant_que_collection_d'exemples_de_modding"></span><span class="mw-headline" id="En_tant_que_collection_d.27exemples_de_modding">En tant que collection d'exemples de modding</span></h3>
+<p>Bien que cela puisse paraître banal, cette fonction offerte par Minetest ne doit pas être écartée car elle donne souvent un premier exemple sur le façon de coder les choses pour mieux modder.
+</p><p><br />
+</p>
+<h2><span class="mw-headline" id="Contenu">Contenu</span></h2>
+<p>Il contient les <a href="/Mods/fr" title="Mods/fr">mods</a> suivant&#160;:
+</p>
+<ul><li>Mods en relation avec le jeu&#160;:
+<ul><li>défaut: C'est le mod le plus courant et le plus important dans le jeu Minetest. Il ajoute la plupart des <a href="/index.php?title=Blocks/fr&amp;action=edit&amp;redlink=1" class="new" title="Blocks/fr (page does not exist)">blocs</a> qui apparaissent naturellement ainsi que d'autres qui sont plus artificiels, <a href="/index.php?title=Ores/fr&amp;action=edit&amp;redlink=1" class="new" title="Ores/fr (page does not exist)">minerai</a>, beaucoup de <a href="/Crafting/fr" title="Crafting/fr">fabrication</a> basiques, des combustibles pour le<a href="/Smelting/fr" class="mw-redirect" title="Smelting/fr">four</a>, des <a href="/Tool/fr" title="Tool/fr">outils</a>, des <a href="/Items/fr" class="mw-redirect" title="Items/fr">articles</a> et toutes les choses qui ne sont pas comprises dans les autres mods de ce jeu.</li>
+<li>lits: ajoute des <a href="/Bed/fr" title="Bed/fr">lits</a> de plusieurs sortes.</li>
+<li>bâteaux: ajoute des <a href="/Boat/fr" title="Boat/fr">bâteaux</a></li>
+<li>ossements: ajoute des <a href="/Bones/fr" title="Bones/fr">ossements</a></li>
+<li>seau: ajoute des <a href="/Bucket/fr" title="Bucket/fr">seaus</a></li>
+<li>portes: ajoute des <a href="/Door/fr" title="Door/fr">portes</a>, des trappes (tel que des <a href="/Trapdoor/fr" title="Trapdoor/fr">trappes en bois</a>) et des <a href="/Fence_Gate/fr" title="Fence Gate/fr">portes de clôture</a></li>
+<li>teinture: ajoute des <a href="/Dye/fr" title="Dye/fr">teintures</a></li>
+<li>agriculture: choses en relation avec l'agriculture: <a href="/Cotton_(plant)/fr" title="Cotton (plant)/fr">Plant de Coton</a>, <a href="/Wheat_(plant)/fr" title="Wheat (plant)/fr">blé</a>, <a href="/Cotton_Seed/fr" title="Cotton Seed/fr">graine de coton</a>, <a href="/Wheat_Seed/fr" title="Wheat Seed/fr">graine de blé</a>, <a href="/Cotton_(item)/fr" title="Cotton (item)/fr">Fil de cotons</a>, <a href="/Flour/fr" title="Flour/fr">farine</a>, <a href="/Bread/fr" title="Bread/fr">pain</a>, <a href="/Hoe/fr" title="Hoe/fr">houes</a> et <a href="/Soil/fr" title="Soil/fr">sol</a></li>
+<li>feu: ajoute le <a href="/Fire/fr" title="Fire/fr">feu</a>, la <a href="/Permanent_Flame/fr" class="mw-redirect" title="Permanent Flame/fr">flame permanente</a> et <a href="/Flint_and_Steel/fr" title="Flint and Steel/fr">du silex et de l'acier</a></li>
+<li>fleurs: ajoute les <a href="/Flower/fr" title="Flower/fr">fleurs</a>, les champignons et les <a href="/Waterlily/fr" title="Waterlily/fr">nénuphars</a></li>
+<li>tournevis: ajoute le <a href="/Screwdriver/fr" title="Screwdriver/fr">tournevis</a></li>
+<li>escaliers: ajoute les <a href="/Stair/fr" title="Stair/fr">escaliers</a> et les <a href="/Slab/fr" title="Slab/fr">dalles</a></li>
+<li>tnt: ajoute la <a href="/TNT/fr" title="TNT/fr">TNT</a> et la <a href="/Gun_Powder/fr" title="Gun Powder/fr">poudre à canon</a></li>
+<li>vaisselle: ajoute le <a href="/Drinking_Glass/fr" title="Drinking Glass/fr">verre à boire</a>, la <a href="/Heavy_Steel_Bottle/fr" title="Heavy Steel Bottle/fr">bouteille d'acier</a>, la <a href="/Glass_Bottle/fr" title="Glass Bottle/fr">bouteille de verre</a>, les <a href="/Pile_of_Glass_Fragments/fr" title="Pile of Glass Fragments/fr">fragments de verre</a> et l'<a href="/Vessels_Shelf/fr" title="Vessels Shelf/fr">étagère à vaisselle</a></li>
+<li>murs: ajoute les <a href="/Wall/fr" title="Wall/fr">murs</a></li>
+<li>laine: ajoute la <a href="/Wool/fr" title="Wool/fr">laine</a> dans 15 coloris</li>
+<li>xpanes: ajoute les <a href="/Glass_Pane/fr" title="Glass Pane/fr">vitres</a> et les <a href="/Iron_bar/fr" title="Iron bar/fr">barres de fer</a></li></ul></li>
+<li>Mods en relation avec le paramétrage
+<ul><li>créatif: En <a href="/index.php?title=Creative_mode/fr&amp;action=edit&amp;redlink=1" class="new" title="Creative mode/fr (page does not exist)">mode créatif</a>, ce mode permet, en plus d'autres choses, l'<a href="/Creative_Inventory/fr" class="mw-redirect" title="Creative Inventory/fr">inventaire des créations</a></li>
+<li>give_initial_stuff: Lorsque le paramètre <code>give_initial_stuff</code> est positionné à "true" (true = vrai ou 1), alors ce mode attribue aux nouveaux joueurs une <a href="/Pickaxe/fr" title="Pickaxe/fr">pioche d'acier</a>, une <a href="/Axe/fr" title="Axe/fr">hache d'acier</a>, une <a href="/Shovel/fr" title="Shovel/fr">pelle d'acier</a>, 99 <a href="/Torch/fr" title="Torch/fr">torches</a> et 99 <a href="/Cobblestone/fr" title="Cobblestone/fr">pavés</a></li></ul></li>
+<li>Commandes Serveur
+<ul><li>sethome: ajoute les commandes serveur “sethome” et “home”. (Voir <a href="/Server_commands/fr#Liste_des_commandes_par_d.C3.A9faut" title="Server commands/fr">ici</a>)</li></ul></li></ul>
+<p><br />
+</p>
+<h3><span id="Choses_intéressantes_non_incluses"></span><span class="mw-headline" id="Choses_int.C3.A9ressantes_non_incluses">Choses intéressantes non incluses</span></h3>
+<p>Comme le jeu Minetest a été inclus dans l'archive de téléchargement, il a vocation à ne pas être trop volumineux pour limiter la durée de ce dernier. Il a donc souvent agacé les nouveaux joueurs car beaucoup de choses présentes dans des jeux similaires ne sont pas intégrés par défaut. 
+C'est la cas notamment pour les <a href="/Rail/fr" title="Rail/fr">rails</a> qui sont présents mais il n'y a pas de chariots pour la mine, de bâteaux ou d'autre véhicules du même type.
+</p><p>Il n'y a ni mobs<sup id="cite_ref-rats_2-0" class="reference"><a href="#cite_note-rats-2">&#91;2&#93;</a></sup>, ni NPCs et aucune API n'a été réalisée pour cela.
+</p><p><br />
+</p>
+<h2><span class="mw-headline" id="Historique_et_Avenir">Historique et Avenir</span></h2>
+<h3><span class="mw-headline" id="0.4.9_branch">0.4.9 branch</span></h3>
+<p>Depuis le début de 2014, le jeu Minetest (alors appelé "minetest_game") était semi-officiellement sous le <a rel="nofollow" class="external text" href="http://en.wikipedia.org/wiki/Freeze_%28software_engineering%29">gel des fonctionnalités</a>.
+Il n'a pas été abandonné pour autan. Les opérations de maintenance se poursuivent en mode de base pour tous les <a href="/Mods" title="Mods">mods</a> qui dépendait de "défaut".
+Le consensus des développeurs Minetest a opté pour limiter les changements au strict minimum <sup id="cite_ref-consens_3-0" class="reference"><a href="#cite_note-consens-3">&#91;3&#93;</a></sup>.
+Ainsi Minetest conserve le maximum de compatibilité avec les anciens mods et laisse aux concepteurs la majeure partie du contenu du jeu pour de nouveaux développements.
+</p><p><br />
+</p>
+<h3><span class="mw-headline" id="0.4.10_branch">0.4.10 branch</span></h3>
+<p>Avec la sortie de Version 0.4.10, le jeu Minetest <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=15&amp;t=9066">Minetest-NeXt</a> a été fusionné <sup id="cite_ref-nextmerge_4-0" class="reference"><a href="#cite_note-nextmerge-4">&#91;4&#93;</a></sup> avec Minetest jeu.
+</p><p><br />
+</p>
+<h3><span id="Développement_Futur"></span><span class="mw-headline" id="D.C3.A9veloppement_Futur">Développement Futur</span></h3>
+<p>Pour donner plus d'exemples sur les possibilités du moteur Minetest il avait été évoqué d'inclure d'avantage de jeux d'exemple dans l'archive de téléchargement.
+Le seul autre jeu qui a été inclus dans la version 0.4.9 de Minetest était <a href="/index.php?title=Subgames/fr&amp;action=edit&amp;redlink=1" class="new" title="Subgames/fr (page does not exist)">minimal</a> et de ce fait, il reste uniquement recommandé à des fins de test.
+Des Jeux proposés comme par exemple des jeux <sup id="cite_ref-gamessuggestedonirc1_5-0" class="reference"><a href="#cite_note-gamessuggestedonirc1-5">&#91;5&#93;</a></sup> ont été <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?id=3003">Dwarves</a>, <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?id=3119">PilzTest</a>, <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?id=6977">Nostalgia</a>, <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?id=7573">Realtest</a>, <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?id=7027">Eden</a> ou un jeu basé sur le <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?id=7656">Ethereal mod</a>. Plus récemment <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?id=9036">BFD</a>, <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?id=9066">Minetest NeXt</a> et <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?id=9033">Carbone</a> ont entre autres été examinés.
+L'idée est de mettre en valeur une variété de différents concepts de gameplay, d'environnement et d'atmosphère.
+</p><p><br />
+</p>
+<h2><span class="mw-headline" id="Aspects_juridiques">Aspects juridiques</span></h2>
+<p>Le jeu Minetest est un <a rel="nofollow" class="external text" href="https://en.wikipedia.org/wiki/Free_software">logiciel libre</a>, gratuit et sans publicité. 
+Il est sous licence <a rel="nofollow" class="external text" href="https://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html">LGPL v2.1</a> (ou plus) pour le code source et <a rel="nofollow" class="external text" href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> pour les fichiers multimédia.
+</p><p><br />
+</p>
+<h2><span class="mw-headline" id="Notes_and_References">Notes and References</span></h2>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">langage de script libre, réflexif et impératif - Source Wikipédia</span>
+</li>
+<li id="cite_note-rats-2"><span class="mw-cite-backlink"><a href="#cite_ref-rats_2-0">↑</a></span> <span class="reference-text">Bien que des rats pourraient néanmoins être en mesure de se faufiler si vous n'êtes pas prudent&#160;;-).</span>
+</li>
+<li id="cite_note-consens-3"><span class="mw-cite-backlink"><a href="#cite_ref-consens_3-0">↑</a></span> <span class="reference-text"> <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?pid=137837">"Le jeu Minetest ne sera plus développé"</a> </span>
+</li>
+<li id="cite_note-nextmerge-4"><span class="mw-cite-backlink"><a href="#cite_ref-nextmerge_4-0">↑</a></span> <span class="reference-text"> <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=18&amp;t=9683">"(0.4.10) NeXt merged / Updated minetest_game"</a> </span>
+</li>
+<li id="cite_note-gamessuggestedonirc1-5"><span class="mw-cite-backlink"><a href="#cite_ref-gamessuggestedonirc1_5-0">↑</a></span> <span class="reference-text">as discussed on IRC at <a rel="nofollow" class="external text" href="http://irc.minetest.ru/minetest-dev/2013-10-17#i_3378469">2013-10-17</a></span>
+</li>
+</ol></div>
+<p><br /><br />
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20230709180646
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.467 seconds
+Real time usage: 0.913 seconds
+Preprocessor visited node count: 354/1000000
+Post‐expand include size: 3459/2097152 bytes
+Template argument size: 649/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 15/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 8692/5000000 bytes
+Lua time usage: 0.160/7 seconds
+Lua virtual size: 5.94 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  563.175      1 -total
+ 72.60%  408.843      1 Template:Languages
+ 27.33%  153.923      1 Template:Game_Data
+  1.92%   10.834      1 Template:Version
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:2782-0!canonical and timestamp 20230709180645 and revision id 27865
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Games/Minetest_Game/fr&amp;oldid=27865">http://wiki.minetest.net/index.php?title=Games/Minetest_Game/fr&amp;oldid=27865</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li><li><a href="/Category:French" title="Category:French">French</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Games%2FMinetest+Game%2Ffr" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Games/Minetest_Game/fr" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Games/Minetest_Game/fr&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Games/Minetest_Game/fr">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Games/Minetest_Game/fr&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Games/Minetest_Game/fr&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Games/Minetest_Game/fr" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Games/Minetest_Game/fr" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Games/Minetest_Game/fr&amp;oldid=27865" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Games/Minetest_Game/fr&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 27 May 2023, at 12:44.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.467","walltime":"0.913","ppvisitednodes":{"value":354,"limit":1000000},"postexpandincludesize":{"value":3459,"limit":2097152},"templateargumentsize":{"value":649,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":15,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":8692,"limit":5000000},"timingprofile":["100.00%  563.175      1 -total"," 72.60%  408.843      1 Template:Languages"," 27.33%  153.923      1 Template:Game_Data","  1.92%   10.834      1 Template:Version"]},"scribunto":{"limitreport-timeusage":{"value":"0.160","limit":"7"},"limitreport-virtmemusage":{"value":6225920,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709180646","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":1404});});</script></body></html>

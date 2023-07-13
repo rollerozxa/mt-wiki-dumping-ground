@@ -1,0 +1,588 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Door - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"d937341b003f65a2ddb1625a","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Door","wgTitle":"Door","wgCurRevisionId":23266,"wgRevisionId":23266,"wgArticleId":227,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages","Placeable","Usable blocks","Manufactured blocks","Furniture","Flammable","Ownable blocks","Explosion-proof"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Door","wgRelevantArticleId":227,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],
+"wgRestrictionMove":[],"wgRedirectedFrom":"Steel_Door","wgInternalRedirectTargetUrl":"/Door"};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","jquery.tablesorter.styles":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=jquery.tablesorter.styles%7Cmediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<link rel="canonical" href="http://wiki.minetest.net/Door"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Door rootpage-Door skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Door</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="mw-redirectedfrom">(Redirected from <a href="/index.php?title=Steel_Door&amp;redirect=no" class="mw-redirect" title="Steel Door">Steel Door</a>)</span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> Language:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><b><a class="mw-selflink selflink">English</a></b>&#160;• <bdi lang="de"><a href="/Door/de" title="Door/de">Deutsch</a></bdi>&#160;• <bdi lang="fr"><a href="/Door/fr" title="Door/fr">français</a></bdi>&#160;• <bdi lang="ru"><a href="/Door/ru" title="Door/ru">русский</a></bdi></td>
+</tr></tbody></table>
+<table class="wikitable" width="200px" style="float:right;text-align:left;margin:0 0 0.5em 1em;padding:5px;font-size:90%;position:relative;clear:right;overflow:auto;z-index:1">
+
+<tbody><tr>
+<th colspan="2" style="font-size:110%;text-align:center">Wooden Door, Glass Door, Obsidian Glass Door, Steel Door
+</th></tr>
+<tr>
+<th colspan="2"><div class="center"><div class="animated" style="width:150px;height:150px"><div class="image"><a href="/File:Wooden_Door.png" title="File:Wooden Door.png"><img alt="Wooden Door.png" src="/images/thumb/2/2c/Wooden_Door.png/150px-Wooden_Door.png" decoding="async" width="150" height="150" srcset="/images/2/2c/Wooden_Door.png 1.5x" /></a></div><div class="image"><a href="/File:Glass_Door.png" title="File:Glass Door.png"><img alt="Glass Door.png" src="/images/thumb/0/06/Glass_Door.png/150px-Glass_Door.png" decoding="async" width="150" height="150" srcset="/images/0/06/Glass_Door.png 1.5x" /></a></div><div class="image"><a href="/File:Obsidian_Glass_Door.png" title="File:Obsidian Glass Door.png"><img alt="Obsidian Glass Door.png" src="/images/thumb/2/23/Obsidian_Glass_Door.png/150px-Obsidian_Glass_Door.png" decoding="async" width="150" height="150" srcset="/images/2/23/Obsidian_Glass_Door.png 1.5x" /></a></div><div class="image"><a href="/File:Steel_Door.png" title="File:Steel Door.png"><img alt="Steel Door.png" src="/images/thumb/6/61/Steel_Door.png/150px-Steel_Door.png" decoding="async" width="150" height="150" srcset="/images/6/61/Steel_Door.png 1.5x" /></a></div></div></div>
+</th></tr>
+<tr>
+<th colspan="2" align="center">A <a href="/Blocks" class="mw-redirect" title="Blocks">block</a> in <a href="/Games/Minetest_Game" title="Games/Minetest Game">Minetest Game</a>
+</th></tr>
+<tr>
+<td><b>Block Type</b>
+</td>
+<td>Solid block
+</td></tr>
+<tr>
+<td><b><a href="/Mining#Drops" title="Mining">Drops</a></b>
+</td>
+<td><i>Itself</i>
+</td></tr>
+<tr>
+<td><b><a href="/Category:Falling" title="Category:Falling">Physics</a></b>
+</td>
+<td>No
+</td></tr>
+<tr>
+<td><b><a href="/Category:Luminous" title="Category:Luminous">Luminance</a></b>
+</td>
+<td>No
+</td></tr>
+<tr>
+<td><b><a href="/Category:Flammable" title="Category:Flammable">Flammable</a></b>
+</td>
+<td>Wooden: Yes<br /> Others: No
+</td></tr>
+<tr>
+<td><b><a href="/Category:Generated_blocks" title="Category:Generated blocks">Generated</a></b>
+</td>
+<td>No
+</td></tr>
+<tr>
+<td><b><a href="/Category:Renewable" title="Category:Renewable">Renewable</a></b>
+</td>
+<td>Wooden: Yes<br /> Others: No
+</td></tr>
+<tr>
+<td><b><a href="/Item_stack" title="Item stack">Stackable</a></b>
+</td>
+<td>Yes (99)
+</td></tr>
+<tr>
+<td><b><a href="/Itemstrings" title="Itemstrings">Itemstring</a></b>
+</td>
+<td><i>See table</i>
+</td></tr></tbody></table>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Usage"><span class="tocnumber">2</span> <span class="toctext">Usage</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Properties"><span class="tocnumber">2.1</span> <span class="toctext">Properties</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Door_Types"><span class="tocnumber">3</span> <span class="toctext">Door Types</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Crafting"><span class="tocnumber">4</span> <span class="toctext">Crafting</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Description">Description</span></h2>
+<p><b>Doors</b> occupy two blocks in the world. They act as barriers that can be <a href="/Crafting" title="Crafting">crafted</a>, <a href="/Building" title="Building">placed</a>, opened and closed by the player.
+</p>
+<h2><span class="mw-headline" id="Usage">Usage</span></h2>
+<p><a href="/Using" title="Using">Use</a> to open the door, and use again to close it. For all interactions, the “interact” <a href="/Privileges" title="Privileges">privilege</a> (a default privilege) is required for this. Doors made from <a href="/Steel_Ingot" title="Steel Ingot">steel</a> are owned.
+</p><p>If there is not enough space to place a door (1x2), the door can't be placed.
+</p><p>Normally, every door you place has its hinge on the left side. If you place two doors next to each other, the first one left, the second one right, they will create a double door, with both doors having the hinge outwards.
+</p>
+<h3><span class="mw-headline" id="Properties">Properties</span></h3>
+<p>Depending on the door type, doors have differnt properties:
+</p>
+<ul><li>Owned: This door is owned by its placer. It can only be opened or closed by its owner or someone who has a matching <a href="/Key" title="Key">key</a>. Owned doors are also immune to explosions</li>
+<li>Flammable: Burned by <a href="/Fire" title="Fire">Fire</a></li></ul>
+<h2><span class="mw-headline" id="Door_Types">Door Types</span></h2>
+<table class="wikitable">
+
+<tbody><tr>
+<th>
+</th>
+<th>Name
+</th>
+<th>Owned
+</th>
+<th>Flammable
+</th>
+<th><a href="/Itemstring" class="mw-redirect" title="Itemstring">Itemstring</a>
+</th></tr>
+<tr>
+<td><a href="/File:Wooden_Door.png" class="image"><img alt="Wooden Door.png" src="/images/thumb/2/2c/Wooden_Door.png/32px-Wooden_Door.png" decoding="async" width="32" height="32" srcset="/images/thumb/2/2c/Wooden_Door.png/48px-Wooden_Door.png 1.5x, /images/thumb/2/2c/Wooden_Door.png/64px-Wooden_Door.png 2x" /></a>
+</td>
+<td><b>Wooden Door</b>
+</td>
+<td>No
+</td>
+<td>Yes
+</td>
+<td>doors:door_wood
+</td></tr>
+<tr>
+<td><a href="/File:Glass_Door.png" class="image"><img alt="Glass Door.png" src="/images/thumb/0/06/Glass_Door.png/32px-Glass_Door.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/06/Glass_Door.png/48px-Glass_Door.png 1.5x, /images/thumb/0/06/Glass_Door.png/64px-Glass_Door.png 2x" /></a>
+</td>
+<td><b>Glass Door</b>
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>doors:door_glass
+</td></tr>
+<tr>
+<td><a href="/File:Obsidian_Glass_Door.png" class="image"><img alt="Obsidian Glass Door.png" src="/images/thumb/2/23/Obsidian_Glass_Door.png/32px-Obsidian_Glass_Door.png" decoding="async" width="32" height="32" srcset="/images/thumb/2/23/Obsidian_Glass_Door.png/48px-Obsidian_Glass_Door.png 1.5x, /images/thumb/2/23/Obsidian_Glass_Door.png/64px-Obsidian_Glass_Door.png 2x" /></a>
+</td>
+<td><b>Obsidian Glass Door</b>
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>doors:door_obsidian_glass
+</td></tr>
+<tr>
+<td><a href="/File:Steel_Door.png" class="image"><img alt="Steel Door.png" src="/images/thumb/6/61/Steel_Door.png/32px-Steel_Door.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/61/Steel_Door.png/48px-Steel_Door.png 1.5x, /images/thumb/6/61/Steel_Door.png/64px-Steel_Door.png 2x" /></a>
+</td>
+<td><b>Steel Door</b>
+</td>
+<td>Yes
+</td>
+<td>No
+</td>
+<td>doors:door_steel
+</td></tr>
+<tr>
+<td><a href="/File:Steel_Bar_Door.png" class="image"><img alt="Steel Bar Door.png" src="/images/thumb/0/06/Steel_Bar_Door.png/32px-Steel_Bar_Door.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/06/Steel_Bar_Door.png/48px-Steel_Bar_Door.png 1.5x, /images/thumb/0/06/Steel_Bar_Door.png/64px-Steel_Bar_Door.png 2x" /></a>
+</td>
+<td><b>Steel Bar Door</b>
+</td>
+<td>Yes
+</td>
+<td>No
+</td>
+<td>xpanes:door_steel_bar
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Crafting">Crafting</span></h2>
+<table class="wikitable">
+
+<tbody><tr>
+<th scope="row" width="50px">Name
+</th>
+<th scope="col" width="140px">Ingredients
+</th>
+<th class="unsortable" scope="col">Input &#8594; Output
+</th></tr>
+<tr>
+<th scope="row"><a class="mw-selflink selflink">Wooden Door</a>
+</th>
+<td align="center"><a href="/Category:Wood" title="Category:Wood">Any kind of wood</a>
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Group_wood" title="Group wood"><img alt="Group wood.png" src="/images/thumb/7/76/Group_wood.png/32px-Group_wood.png" decoding="async" width="32" height="32" srcset="/images/thumb/7/76/Group_wood.png/48px-Group_wood.png 1.5x, /images/thumb/7/76/Group_wood.png/64px-Group_wood.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Group_wood" title="Group wood"><img alt="Group wood.png" src="/images/thumb/7/76/Group_wood.png/32px-Group_wood.png" decoding="async" width="32" height="32" srcset="/images/thumb/7/76/Group_wood.png/48px-Group_wood.png 1.5x, /images/thumb/7/76/Group_wood.png/64px-Group_wood.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Group_wood" title="Group wood"><img alt="Group wood.png" src="/images/thumb/7/76/Group_wood.png/32px-Group_wood.png" decoding="async" width="32" height="32" srcset="/images/thumb/7/76/Group_wood.png/48px-Group_wood.png 1.5x, /images/thumb/7/76/Group_wood.png/64px-Group_wood.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Group_wood" title="Group wood"><img alt="Group wood.png" src="/images/thumb/7/76/Group_wood.png/32px-Group_wood.png" decoding="async" width="32" height="32" srcset="/images/thumb/7/76/Group_wood.png/48px-Group_wood.png 1.5x, /images/thumb/7/76/Group_wood.png/64px-Group_wood.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Group_wood" title="Group wood"><img alt="Group wood.png" src="/images/thumb/7/76/Group_wood.png/32px-Group_wood.png" decoding="async" width="32" height="32" srcset="/images/thumb/7/76/Group_wood.png/48px-Group_wood.png 1.5x, /images/thumb/7/76/Group_wood.png/64px-Group_wood.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Group_wood" title="Group wood"><img alt="Group wood.png" src="/images/thumb/7/76/Group_wood.png/32px-Group_wood.png" decoding="async" width="32" height="32" srcset="/images/thumb/7/76/Group_wood.png/48px-Group_wood.png 1.5x, /images/thumb/7/76/Group_wood.png/64px-Group_wood.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/Wooden_Door" title="Wooden Door"><img alt="Wooden Door.png" src="/images/thumb/2/2c/Wooden_Door.png/32px-Wooden_Door.png" decoding="async" width="32" height="32" srcset="/images/thumb/2/2c/Wooden_Door.png/48px-Wooden_Door.png 1.5x, /images/thumb/2/2c/Wooden_Door.png/64px-Wooden_Door.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black"></span></div></div>
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<th scope="row"><a class="mw-selflink selflink">Glass Door</a>
+</th>
+<td align="center"><a href="/Glass" title="Glass">Glass</a>
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Glass" title="Glass"><img alt="Glass.png" src="/images/thumb/1/15/Glass.png/32px-Glass.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/15/Glass.png/48px-Glass.png 1.5x, /images/thumb/1/15/Glass.png/64px-Glass.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Glass" title="Glass"><img alt="Glass.png" src="/images/thumb/1/15/Glass.png/32px-Glass.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/15/Glass.png/48px-Glass.png 1.5x, /images/thumb/1/15/Glass.png/64px-Glass.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Glass" title="Glass"><img alt="Glass.png" src="/images/thumb/1/15/Glass.png/32px-Glass.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/15/Glass.png/48px-Glass.png 1.5x, /images/thumb/1/15/Glass.png/64px-Glass.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Glass" title="Glass"><img alt="Glass.png" src="/images/thumb/1/15/Glass.png/32px-Glass.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/15/Glass.png/48px-Glass.png 1.5x, /images/thumb/1/15/Glass.png/64px-Glass.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Glass" title="Glass"><img alt="Glass.png" src="/images/thumb/1/15/Glass.png/32px-Glass.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/15/Glass.png/48px-Glass.png 1.5x, /images/thumb/1/15/Glass.png/64px-Glass.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Glass" title="Glass"><img alt="Glass.png" src="/images/thumb/1/15/Glass.png/32px-Glass.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/15/Glass.png/48px-Glass.png 1.5x, /images/thumb/1/15/Glass.png/64px-Glass.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/Glass_Door" title="Glass Door"><img alt="Glass Door.png" src="/images/thumb/0/06/Glass_Door.png/32px-Glass_Door.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/06/Glass_Door.png/48px-Glass_Door.png 1.5x, /images/thumb/0/06/Glass_Door.png/64px-Glass_Door.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black"></span></div></div>
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<th scope="row"><a class="mw-selflink selflink">Obsidian Glass Door</a>
+</th>
+<td align="center"><a href="/Obsidian_Glass" title="Obsidian Glass">Obsidian Glass</a>
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Obsidian_glass" title="Obsidian glass"><img alt="Obsidian Glass.png" src="/images/thumb/d/d3/Obsidian_Glass.png/32px-Obsidian_Glass.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/d3/Obsidian_Glass.png/48px-Obsidian_Glass.png 1.5x, /images/thumb/d/d3/Obsidian_Glass.png/64px-Obsidian_Glass.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Obsidian_glass" title="Obsidian glass"><img alt="Obsidian Glass.png" src="/images/thumb/d/d3/Obsidian_Glass.png/32px-Obsidian_Glass.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/d3/Obsidian_Glass.png/48px-Obsidian_Glass.png 1.5x, /images/thumb/d/d3/Obsidian_Glass.png/64px-Obsidian_Glass.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Obsidian_glass" title="Obsidian glass"><img alt="Obsidian Glass.png" src="/images/thumb/d/d3/Obsidian_Glass.png/32px-Obsidian_Glass.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/d3/Obsidian_Glass.png/48px-Obsidian_Glass.png 1.5x, /images/thumb/d/d3/Obsidian_Glass.png/64px-Obsidian_Glass.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Obsidian_glass" title="Obsidian glass"><img alt="Obsidian Glass.png" src="/images/thumb/d/d3/Obsidian_Glass.png/32px-Obsidian_Glass.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/d3/Obsidian_Glass.png/48px-Obsidian_Glass.png 1.5x, /images/thumb/d/d3/Obsidian_Glass.png/64px-Obsidian_Glass.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Obsidian_glass" title="Obsidian glass"><img alt="Obsidian Glass.png" src="/images/thumb/d/d3/Obsidian_Glass.png/32px-Obsidian_Glass.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/d3/Obsidian_Glass.png/48px-Obsidian_Glass.png 1.5x, /images/thumb/d/d3/Obsidian_Glass.png/64px-Obsidian_Glass.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Obsidian_glass" title="Obsidian glass"><img alt="Obsidian Glass.png" src="/images/thumb/d/d3/Obsidian_Glass.png/32px-Obsidian_Glass.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/d3/Obsidian_Glass.png/48px-Obsidian_Glass.png 1.5x, /images/thumb/d/d3/Obsidian_Glass.png/64px-Obsidian_Glass.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/Obsidian_Glass_Door" title="Obsidian Glass Door"><img alt="Obsidian Glass Door.png" src="/images/thumb/2/23/Obsidian_Glass_Door.png/32px-Obsidian_Glass_Door.png" decoding="async" width="32" height="32" srcset="/images/thumb/2/23/Obsidian_Glass_Door.png/48px-Obsidian_Glass_Door.png 1.5x, /images/thumb/2/23/Obsidian_Glass_Door.png/64px-Obsidian_Glass_Door.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black"></span></div></div>
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<th scope="row"><a class="mw-selflink selflink">Steel Door</a>
+</th>
+<td align="center"><a href="/Steel_Ingot" title="Steel Ingot">Steel Ingot</a>
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Steel_Ingot" title="Steel Ingot"><img alt="Steel Ingot.png" src="/images/thumb/b/bd/Steel_Ingot.png/32px-Steel_Ingot.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/bd/Steel_Ingot.png/48px-Steel_Ingot.png 1.5x, /images/thumb/b/bd/Steel_Ingot.png/64px-Steel_Ingot.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Steel_Ingot" title="Steel Ingot"><img alt="Steel Ingot.png" src="/images/thumb/b/bd/Steel_Ingot.png/32px-Steel_Ingot.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/bd/Steel_Ingot.png/48px-Steel_Ingot.png 1.5x, /images/thumb/b/bd/Steel_Ingot.png/64px-Steel_Ingot.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Steel_Ingot" title="Steel Ingot"><img alt="Steel Ingot.png" src="/images/thumb/b/bd/Steel_Ingot.png/32px-Steel_Ingot.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/bd/Steel_Ingot.png/48px-Steel_Ingot.png 1.5x, /images/thumb/b/bd/Steel_Ingot.png/64px-Steel_Ingot.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Steel_Ingot" title="Steel Ingot"><img alt="Steel Ingot.png" src="/images/thumb/b/bd/Steel_Ingot.png/32px-Steel_Ingot.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/bd/Steel_Ingot.png/48px-Steel_Ingot.png 1.5x, /images/thumb/b/bd/Steel_Ingot.png/64px-Steel_Ingot.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Steel_Ingot" title="Steel Ingot"><img alt="Steel Ingot.png" src="/images/thumb/b/bd/Steel_Ingot.png/32px-Steel_Ingot.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/bd/Steel_Ingot.png/48px-Steel_Ingot.png 1.5x, /images/thumb/b/bd/Steel_Ingot.png/64px-Steel_Ingot.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Steel_Ingot" title="Steel Ingot"><img alt="Steel Ingot.png" src="/images/thumb/b/bd/Steel_Ingot.png/32px-Steel_Ingot.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/bd/Steel_Ingot.png/48px-Steel_Ingot.png 1.5x, /images/thumb/b/bd/Steel_Ingot.png/64px-Steel_Ingot.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/Steel_Door" title="Steel Door"><img alt="Steel Door.png" src="/images/thumb/6/61/Steel_Door.png/32px-Steel_Door.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/61/Steel_Door.png/48px-Steel_Door.png 1.5x, /images/thumb/6/61/Steel_Door.png/64px-Steel_Door.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black"></span></div></div>
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<th scope="row"><a class="mw-selflink selflink">Steel Bar Door</a>
+</th>
+<td align="center"><a href="/Steel_Bars" title="Steel Bars">Steel Bars</a>
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Iron_bar" title="Iron bar"><img alt="Iron bar.png" src="/images/thumb/1/14/Iron_bar.png/32px-Iron_bar.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/14/Iron_bar.png/48px-Iron_bar.png 1.5x, /images/thumb/1/14/Iron_bar.png/64px-Iron_bar.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Iron_bar" title="Iron bar"><img alt="Iron bar.png" src="/images/thumb/1/14/Iron_bar.png/32px-Iron_bar.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/14/Iron_bar.png/48px-Iron_bar.png 1.5x, /images/thumb/1/14/Iron_bar.png/64px-Iron_bar.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Iron_bar" title="Iron bar"><img alt="Iron bar.png" src="/images/thumb/1/14/Iron_bar.png/32px-Iron_bar.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/14/Iron_bar.png/48px-Iron_bar.png 1.5x, /images/thumb/1/14/Iron_bar.png/64px-Iron_bar.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Iron_bar" title="Iron bar"><img alt="Iron bar.png" src="/images/thumb/1/14/Iron_bar.png/32px-Iron_bar.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/14/Iron_bar.png/48px-Iron_bar.png 1.5x, /images/thumb/1/14/Iron_bar.png/64px-Iron_bar.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Iron_bar" title="Iron bar"><img alt="Iron bar.png" src="/images/thumb/1/14/Iron_bar.png/32px-Iron_bar.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/14/Iron_bar.png/48px-Iron_bar.png 1.5x, /images/thumb/1/14/Iron_bar.png/64px-Iron_bar.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Iron_bar" title="Iron bar"><img alt="Iron bar.png" src="/images/thumb/1/14/Iron_bar.png/32px-Iron_bar.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/14/Iron_bar.png/48px-Iron_bar.png 1.5x, /images/thumb/1/14/Iron_bar.png/64px-Iron_bar.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/Steel_Bar_Door" title="Steel Bar Door"><img alt="Steel Bar Door.png" src="/images/thumb/0/06/Steel_Bar_Door.png/32px-Steel_Bar_Door.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/06/Steel_Bar_Door.png/48px-Steel_Bar_Door.png 1.5x, /images/thumb/0/06/Steel_Bar_Door.png/64px-Steel_Bar_Door.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black"></span></div></div>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<ul><li><a href="/Trapdoor" title="Trapdoor">Trapdoor</a></li></ul>
+<!-- 
+NewPP limit report
+Cached time: 20230711073500
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.670 seconds
+Real time usage: 1.525 seconds
+Preprocessor visited node count: 768/1000000
+Post‐expand include size: 38241/2097152 bytes
+Template argument size: 1130/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 15/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.680/7 seconds
+Lua virtual size: 6.59 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1183.438      1 -total
+ 59.01%  698.296      5 Template:Grid/Craft
+ 55.22%  653.462     50 Template:Grid
+ 27.06%  320.221      1 Template:Languages
+ 13.73%  162.501      1 Template:Block_Data
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:227-0!canonical and timestamp 20230711073458 and revision id 23266
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Door&amp;oldid=23266">http://wiki.minetest.net/index.php?title=Door&amp;oldid=23266</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li><li><a href="/Category:Placeable" title="Category:Placeable">Placeable</a></li><li><a href="/Category:Usable_blocks" title="Category:Usable blocks">Usable blocks</a></li><li><a href="/Category:Manufactured_blocks" title="Category:Manufactured blocks">Manufactured blocks</a></li><li><a href="/Category:Furniture" title="Category:Furniture">Furniture</a></li><li><a href="/Category:Flammable" title="Category:Flammable">Flammable</a></li><li><a href="/Category:Ownable_blocks" title="Category:Ownable blocks">Ownable blocks</a></li><li><a href="/Category:Explosion-proof" title="Category:Explosion-proof">Explosion-proof</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Door" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Door" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Door&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Door">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Door&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Door&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Door" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Door" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Door&amp;oldid=23266" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Door&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 13 October 2019, at 09:57.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.670","walltime":"1.525","ppvisitednodes":{"value":768,"limit":1000000},"postexpandincludesize":{"value":38241,"limit":2097152},"templateargumentsize":{"value":1130,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":15,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00% 1183.438      1 -total"," 59.01%  698.296      5 Template:Grid/Craft"," 55.22%  653.462     50 Template:Grid"," 27.06%  320.221      1 Template:Languages"," 13.73%  162.501      1 Template:Block_Data"]},"scribunto":{"limitreport-timeusage":{"value":"0.680","limit":"7"},"limitreport-virtmemusage":{"value":6914048,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230711073500","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":283});});</script></body></html>

@@ -1,0 +1,821 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Biomes/ja - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"d40575df36b25ad07746db01","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Biomes/ja","wgTitle":"Biomes/ja","wgCurRevisionId":26648,"wgRevisionId":26648,"wgArticleId":5090,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages","Incomplete translated pages","Map","Japanese"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Biomes/ja","wgRelevantArticleId":5090,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":
+"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=ext.cite.styles%7Cmediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Biomes_ja rootpage-Biomes skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Biomes/ja</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/Biomes" title="Biomes">Biomes</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> 言語:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><a href="/Biomes" title="Biomes">English</a>&#160;• <bdi lang="de"><a href="/Biomes/de" title="Biomes/de">Deutsch</a></bdi>&#160;• <bdi lang="fr"><a href="/Biomes/fr" title="Biomes/fr">français</a></bdi>&#160;• <bdi lang="id"><a href="/Biomes/id" title="Biomes/id">Bahasa Indonesia</a></bdi><b>&#160;• <bdi lang="ja"><a class="mw-selflink selflink">日本語</a></bdi></b>&#160;• <bdi lang="ms"><a href="/Biomes/ms" title="Biomes/ms">Bahasa Melayu</a></bdi></td>
+</tr></tbody></table>
+<table style="margin: 0 auto 1em; text-align: justify; border-collapse: collapse; border-width: 1px; border-style: dashed; width: 100%; clear: both; border-color:#f4c430; background:#ffe;">
+<tbody><tr>
+<td style="border: none; padding: 2px 0 2px 0.9em; text-align: center;">
+ <img alt="Mbox style.png" src="/images/thumb/b/be/Mbox_style.png/25px-Mbox_style.png" decoding="async" width="25" height="25" srcset="/images/thumb/b/be/Mbox_style.png/38px-Mbox_style.png 1.5x, /images/b/be/Mbox_style.png 2x" /></td>
+<td style="border: none; padding: 0.25em 0.9em; width: 100%;"><b>これは不完全な翻訳です。</b><br />
+お時間があるときに翻訳を完了させてください。</td>
+
+</tr></tbody></table>
+<p>Minetestのバイオームは<a href="/Map_generator/ja" title="Map generator/ja">マップジェネレーター</a>の一部です。バイオームとは、同じような地表や地下、植生を持つ領域のことです。
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#.E3.83.90.E3.82.A4.E3.82.AA.E3.83.BC.E3.83.A0.E3.81.AE.E7.A8.AE.E9.A1.9E"><span class="tocnumber">1</span> <span class="toctext">バイオームの種類</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#v5.2C_v7.2C_valleys.28.E6.B8.93.E8.B0.B7.29.2C_carpathian.28.E3.82.AB.E3.83.AB.E3.83.91.E3.83.81.E3.82.A2.29.2C_flat.28.E3.83.95.E3.83.A9.E3.83.83.E3.83.88.29.2C_fractal.28.E3.83.95.E3.83.A9.E3.82.AF.E3.82.BF.E3.83.AB.29.E3.81.AB.E3.81.A4.E3.81.84.E3.81.A6"><span class="tocnumber">1.1</span> <span class="toctext">v5, v7, valleys(渓谷), carpathian(カルパチア), flat(フラット), fractal(フラクタル)について</span></a>
+<ul>
+<li class="toclevel-3 tocsection-3"><a href="#.E9.99.B8.E4.B8.8A.E3.83.90.E3.82.A4.E3.82.AA.E3.83.BC.E3.83.A0"><span class="tocnumber">1.1.1</span> <span class="toctext">陸上バイオーム</span></a></li>
+<li class="toclevel-3 tocsection-4"><a href="#.E7.A0.82.E6.B5.9C.E3.80.81.E6.B5.B7.E5.B2.B8.E3.80.81.E7.A0.82.E4.B8.98.E3.83.90.E3.82.A4.E3.82.AA.E3.83.BC.E3.83.A0"><span class="tocnumber">1.1.2</span> <span class="toctext">砂浜、海岸、砂丘バイオーム</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#.E6.B5.B7.E6.B4.8B.E3.83.90.E3.82.A4.E3.82.AA.E3.83.BC.E3.83.A0"><span class="tocnumber">1.1.3</span> <span class="toctext">海洋バイオーム</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#.E5.9C.B0.E4.B8.8B.E3.83.90.E3.82.A4.E3.82.AA.E3.83.BC.E3.83.A0"><span class="tocnumber">1.1.4</span> <span class="toctext">地下バイオーム</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-7"><a href="#v6"><span class="tocnumber">1.2</span> <span class="toctext">v6</span></a>
+<ul>
+<li class="toclevel-3 tocsection-8"><a href="#.E3.83.90.E3.82.A4.E3.82.AA.E3.83.BC.E3.83.A0"><span class="tocnumber">1.2.1</span> <span class="toctext">バイオーム</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="#.E6.99.AF.E8.A6.B3.E3.81.AE.E7.89.B9.E5.BE.B4"><span class="tocnumber">1.2.2</span> <span class="toctext">景観の特徴</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-10"><a href="#v7"><span class="tocnumber">1.3</span> <span class="toctext">v7</span></a>
+<ul>
+<li class="toclevel-3 tocsection-11"><a href="#.E6.B5.AE.E9.81.8A.E5.A4.A7.E9.99.B8.E3.83.90.E3.82.A4.E3.82.AA.E3.83.BC.E3.83.A0.28.E5.AE.9F.E9.A8.93.E7.9A.84.29"><span class="tocnumber">1.3.1</span> <span class="toctext">浮遊大陸バイオーム(実験的)</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#.E6.AD.B4.E5.8F.B2"><span class="tocnumber">2</span> <span class="toctext">歴史</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#Minetest.E3.81.AE.E9.96.8B.E7.99.BA"><span class="tocnumber">2.1</span> <span class="toctext">Minetestの開発</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Minetest_Game.E3.81.AE.E3.83.90.E3.82.A4.E3.82.AA.E3.83.BC.E3.83.A0"><span class="tocnumber">2.2</span> <span class="toctext">Minetest Gameのバイオーム</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#.E9.96.A2.E9.80.A3.E9.A0.85.E7.9B.AE"><span class="tocnumber">2.3</span> <span class="toctext">関連項目</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span id="バイオームの種類"></span><span class="mw-headline" id=".E3.83.90.E3.82.A4.E3.82.AA.E3.83.BC.E3.83.A0.E3.81.AE.E7.A8.AE.E9.A1.9E">バイオームの種類</span></h2>
+<p>バイオームは、使用するマップジェネレーターに依存します。ほとんどのマップジェネレーターは同じバイオームを持っていますが、v6だけ異なります。
+</p><p><b>注意</b>: 「ブロック」の列に太字で書かれているブロックは、そのバイオームの地表で使われているブロックです。
+</p>
+<h3><span id="v5,_v7,_valleys(渓谷),_carpathian(カルパチア),_flat(フラット),_fractal(フラクタル)について"></span><span class="mw-headline" id="v5.2C_v7.2C_valleys.28.E6.B8.93.E8.B0.B7.29.2C_carpathian.28.E3.82.AB.E3.83.AB.E3.83.91.E3.83.81.E3.82.A2.29.2C_flat.28.E3.83.95.E3.83.A9.E3.83.83.E3.83.88.29.2C_fractal.28.E3.83.95.E3.83.A9.E3.82.AF.E3.82.BF.E3.83.AB.29.E3.81.AB.E3.81.A4.E3.81.84.E3.81.A6">v5, v7, valleys(渓谷), carpathian(カルパチア), flat(フラット), fractal(フラクタル)について</span></h3>
+<p>マップジェネレーターの違いなどについては<a href="/Map_generator/ja#.E6.A6.82.E8.A6.81" title="Map generator/ja">マップジェネレーターの概要</a>をご覧ください。
+</p><p>これらのマップジェネレーターのバイオームはmodにより定義されています。定義されていない場合は、<a href="/Stone" title="Stone">石</a>の世界しか生成しません。そして、マップジェネレーターのバイオームは地形と紐づいていません。つまり、平原を含むどんなバイオームも平坦な場所や高度な山岳地帯にも生成される可能性があることを意味しています。
+</p><p>このセクションでは<a href="/Games/Minetest_Game/ja" title="Games/Minetest Game/ja">Minetest Game</a>で使われているバイオームを紹介します。
+</p>
+<h4><span id="陸上バイオーム"></span><span class="mw-headline" id=".E9.99.B8.E4.B8.8A.E3.83.90.E3.82.A4.E3.82.AA.E3.83.BC.E3.83.A0">陸上バイオーム</span></h4>
+<table class="wikitable">
+<tbody><tr>
+<th>名前
+</th>
+<th width="15%">ブロック
+</th>
+<th>説明
+</th>
+<th width="355px">画像
+</th></tr>
+<tr>
+<td><b>平原</b>
+</td>
+<td><b><a href="/Dirt_with_Grass" title="Dirt with Grass">草のついた土</a></b>, <a href="/Dirt" title="Dirt">土</a>, <a href="/Stone" title="Stone">石</a>,<br /><br /><a href="/Grass" title="Grass">草</a>, <a href="/Flower" title="Flower">花</a>, <a href="/Bush_Leaves" title="Bush Leaves">低木の葉</a>, <a href="/Bush_Stem" title="Bush Stem">低木の幹</a>, <a href="/Bush_Leaves" title="Bush Leaves">ブルーベリーの低木の葉</a>, <a href="/Bush_Leaves" title="Bush Leaves">ブルーベリーの低木の葉と実</a>
+</td>
+<td>Grassland has large amounts of <a href="/Dirt" title="Dirt">Dirt</a> nodes and <a href="/Dirt_with_Grass" title="Dirt with Grass">Dirt with Grass</a> blocks, on which <a href="/Flower" title="Flower">flowers</a>, <a href="/Grass" title="Grass">Grass</a> and bushes (including blueberry bushes) may appear naturally in this area. The underground is made of <a href="/Stone" title="Stone">stone</a>.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Minetest_Game_plains_v7.jpg" class="image"><img alt="" src="/images/thumb/8/8c/Minetest_Game_plains_v7.jpg/350px-Minetest_Game_plains_v7.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/8/8c/Minetest_Game_plains_v7.jpg/525px-Minetest_Game_plains_v7.jpg 1.5x, /images/thumb/8/8c/Minetest_Game_plains_v7.jpg/700px-Minetest_Game_plains_v7.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Minetest_Game_plains_v7.jpg" class="internal" title="Enlarge"></a></div>Grassland biome, as of 0.4.15</div></div></div>
+</td></tr>
+<tr>
+<td><b>針葉樹林</b>
+</td>
+<td><b><a href="/Dirt_with_Coniferous_Litter" title="Dirt with Coniferous Litter">針葉樹林のよごれた土</a></b>,  <a href="/Dirt" title="Dirt">土</a>, <a href="/Stone" title="Stone">石</a>,<br /><br /><a href="/Pine_Tree" title="Pine Tree">マツの木</a>, <a href="/Leaves" title="Leaves">マツの木の葉</a>, <a href="/Fern" title="Fern">Fern</a>, <a href="/Red_Mushroom" title="Red Mushroom">赤色のキノコ</a>, <a href="/Brown_Mushroom" title="Brown Mushroom">茶色のキノコ</a>
+</td>
+<td>Coniferous forests grow in colder areas and are notable for their unique floor. They are filled with a dense vegetation of ferns and pine trees, which come in two different shapes: One with “square” canopies and a “pointy” one. Between the dense fern, occasional mushrooms can be found. Fallen pine tree logs (on which you can sometimes find a red mushroom) can be found as well. A similar biome is the <i>taiga</i> (see below).
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Pine_forest.jpg" class="image"><img alt="" src="/images/thumb/d/da/Pine_forest.jpg/350px-Pine_forest.jpg" decoding="async" width="350" height="213" class="thumbimage" srcset="/images/thumb/d/da/Pine_forest.jpg/525px-Pine_forest.jpg 1.5x, /images/thumb/d/da/Pine_forest.jpg/700px-Pine_forest.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Pine_forest.jpg" class="internal" title="Enlarge"></a></div>The “pointy” pine trees in a Pine tree forest in 5.0.0.</div></div></div>
+</td></tr>
+<tr>
+<td><b>落葉樹林</b>
+</td>
+<td><b><a href="/Dirt_with_Grass" title="Dirt with Grass">草のついた土</a></b>, <a href="/Dirt" title="Dirt">土</a>, <a href="/Stone" title="Stone">石</a>,<br /><br /><a href="/Apple_Tree" title="Apple Tree">リンゴの木</a>, <a href="/Leaves" title="Leaves">リンゴの木の葉</a>, <a href="/Aspen_Tree" title="Aspen Tree">ポプラの木</a>, <a href="/Leaves" title="Leaves">ポプラの木の葉</a>, <a href="/Apple" title="Apple">リンゴ</a>, <a href="/Flower" title="Flower">花</a>, <a href="/Red_Mushroom" title="Red Mushroom">赤色のキノコ</a>, <a href="/Brown_Mushroom" title="Brown Mushroom">茶色のキノコ</a>, <a href="/Bush_Leaves" title="Bush Leaves">低木の葉</a>, <a href="/Bush_Stem" title="Bush Stem">低木の幹</a>
+</td>
+<td>Deciduous forests form in temperate zones and are home to apple trees and aspen trees. Like in other forests, logs of fallen trees can be found here. Deciduous forests are frequently bordering surrounding grasslands.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Deciduous_forest_v7.jpg" class="image"><img alt="" src="/images/thumb/8/84/Deciduous_forest_v7.jpg/350px-Deciduous_forest_v7.jpg" decoding="async" width="350" height="213" class="thumbimage" srcset="/images/thumb/8/84/Deciduous_forest_v7.jpg/525px-Deciduous_forest_v7.jpg 1.5x, /images/thumb/8/84/Deciduous_forest_v7.jpg/700px-Deciduous_forest_v7.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Deciduous_forest_v7.jpg" class="internal" title="Enlarge"></a></div>Forest with apple and aspen trees in 0.4.15</div></div></div>
+</td></tr>
+<tr>
+<td><b>熱帯雨林</b>
+</td>
+<td><b><a href="/Dirt_with_Rainforest_Litter" title="Dirt with Rainforest Litter">熱帯雨林のよごれた土</a></b>, <a href="/Dirt" title="Dirt">土</a>, <a href="/Stone" title="Stone">石</a>,<br /><br /><a href="/Jungle_Grass" title="Jungle Grass">ジャングルの草</a>, <a href="/Jungle_Tree" title="Jungle Tree">ジャングルの木</a>, <a href="/Jungle_Leaves" class="mw-redirect" title="Jungle Leaves">ジャングルの木の葉</a>, <a href="/Brown_Mushroom" title="Brown Mushroom">茶色のキノコ</a>, <a href="/Waterlily" title="Waterlily">スイレン</a>
+</td>
+<td>Rainforests (or jungles) are made of large jungle trees which grow thickly packed together. <a href="/Jungle_Grass" title="Jungle Grass">Jungle Grass</a> and <a href="/Jungle_Tree" title="Jungle Tree">Jungle Trees</a> bearing <a href="/Leaves" title="Leaves">Jungle Leaves</a> spawn here naturally. On fallen jungle tree logs, brown mushrooms may appear rarely.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Minetest_Game_jungle_v7.jpg" class="image"><img alt="" src="/images/thumb/4/4a/Minetest_Game_jungle_v7.jpg/350px-Minetest_Game_jungle_v7.jpg" decoding="async" width="350" height="212" class="thumbimage" srcset="/images/thumb/4/4a/Minetest_Game_jungle_v7.jpg/525px-Minetest_Game_jungle_v7.jpg 1.5x, /images/thumb/4/4a/Minetest_Game_jungle_v7.jpg/700px-Minetest_Game_jungle_v7.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Minetest_Game_jungle_v7.jpg" class="internal" title="Enlarge"></a></div>Rainforest biome in v7 as of 0.4.16</div></div></div>
+</td></tr>
+<tr>
+<td><b>サバンナ</b>
+</td>
+<td><b><a href="/Savanna_Dirt_with_Savanna_Grass" title="Savanna Dirt with Savanna Grass">サバンナの草のついたサバンナの土</a></b>, <a href="/Savanna_Dirt" title="Savanna Dirt">サバンナの土</a>, <a href="/Stone" title="Stone">石</a>,<br /><br /><a href="/Savanna_Grass" title="Savanna Grass">サバンナの草</a>, <a href="/Wild_Cotton" title="Wild Cotton">野生の綿花</a>, <a href="/Acacia_Tree" title="Acacia Tree">アカシアの木</a>, <a href="/Leaves" title="Leaves">アカシアの木の葉</a>, <a href="/Bush_Leaves" title="Bush Leaves">アカシアの低木の葉</a>, <a href="/Acacia_Bush_Stem" title="Acacia Bush Stem">アカシアの低木の幹</a>
+</td>
+<td>The savanna is a dry land which is not a desert. It is populated with plenty of savanna grass and occasional acacia trees, acacia bushes and wild cotton. There are also a few fallen logs of acacia trees.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Savannah.jpg" class="image"><img alt="" src="/images/thumb/2/2c/Savannah.jpg/350px-Savannah.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/2/2c/Savannah.jpg/525px-Savannah.jpg 1.5x, /images/thumb/2/2c/Savannah.jpg/700px-Savannah.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Savannah.jpg" class="internal" title="Enlarge"></a></div>Savanna in 0.4.16</div></div></div>
+</td></tr>
+<tr>
+<td><b>砂漠</b>
+</td>
+<td><b><a href="/Desert_Sand" title="Desert Sand">砂漠の砂</a></b>, <a href="/Desert_Stone" title="Desert Stone">砂漠の石</a>, <a href="/Sandstone" title="Sandstone">砂岩</a>, <a href="/Desert_Sandstone" title="Desert Sandstone">砂漠の砂岩</a>, <a href="/Sand" title="Sand">砂</a><br /><br /><a href="/Cactus" title="Cactus">サボテン</a>, <a href="/Dry_Shrub" title="Dry Shrub">枯れた低木</a>
+</td>
+<td>Deserts contain large amounts of <a href="/Desert_Sand" title="Desert Sand">desert sand</a> and <a href="/Desert_Stone" title="Desert Stone">desert stone</a>. In the desert stone, there are continuous strata of sandstone and desert sandstone that extend throughout the world. Small blobs of sand might be found in the desert stone as well. <a href="/Cactus" title="Cactus">Cacti</a> and <a href="/Dry_Shrub" title="Dry Shrub">dry shrubs</a> also grow here naturally on desert sand. Cacti can form in two different shapes.
+<p>Deserts form in hot and dry areas.
+</p>
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Minetest_Game_desert.jpg" class="image"><img alt="" src="/images/thumb/d/d6/Minetest_Game_desert.jpg/350px-Minetest_Game_desert.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/d/d6/Minetest_Game_desert.jpg/525px-Minetest_Game_desert.jpg 1.5x, /images/thumb/d/d6/Minetest_Game_desert.jpg/700px-Minetest_Game_desert.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Minetest_Game_desert.jpg" class="internal" title="Enlarge"></a></div>Desert biome in v7, as of 0.4.15</div></div></div>
+</td></tr>
+<tr>
+<td><b>砂岩の砂漠</b>
+</td>
+<td><b><a href="/Sand" title="Sand">砂</a></b>, <a href="/Sandstone" title="Sandstone">砂岩</a>,<br /><br /><a href="/Dry_Shrub" title="Dry Shrub">枯れた低木</a>
+</td>
+<td>Sandstone deserts are large barren areas covered by <a href="/Sand" title="Sand">sand</a> with <a href="/Sandstone" title="Sandstone">sandstone</a> below. They form in temperate and dry climates.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Minetest_Game_sandstone_desert.jpg" class="image"><img alt="" src="/images/thumb/5/53/Minetest_Game_sandstone_desert.jpg/350px-Minetest_Game_sandstone_desert.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/5/53/Minetest_Game_sandstone_desert.jpg/525px-Minetest_Game_sandstone_desert.jpg 1.5x, /images/thumb/5/53/Minetest_Game_sandstone_desert.jpg/700px-Minetest_Game_sandstone_desert.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Minetest_Game_sandstone_desert.jpg" class="internal" title="Enlarge"></a></div>Sandstone desert, as of 0.4.15</div></div></div>
+</td></tr>
+<tr>
+<td><b>寒地荒原</b>
+</td>
+<td><b><a href="/Silver_Sand" title="Silver Sand">銀の砂</a></b>, <a href="/Stone" title="Stone">石</a>, <a href="/Silver_Sandstone" title="Silver Sandstone">銀の砂岩</a><br /><br /><a href="/Dry_Shrub" title="Dry Shrub">枯れた低木</a>
+</td>
+<td>Cold deserts are large barren areas covered by large amounts of <a href="/Silver_Sand" title="Silver Sand">silver sand</a> on top of <a href="/Stone" title="Stone">stone</a>. In the stone, there's a continuous stratum of silver sandstone that extends throughout the world.
+<p>This biome forms in cold and dry areas.
+</p>
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Minetest_Game_cold_desert.jpg" class="image"><img alt="" src="/images/thumb/f/fd/Minetest_Game_cold_desert.jpg/350px-Minetest_Game_cold_desert.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/f/fd/Minetest_Game_cold_desert.jpg/525px-Minetest_Game_cold_desert.jpg 1.5x, /images/thumb/f/fd/Minetest_Game_cold_desert.jpg/700px-Minetest_Game_cold_desert.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Minetest_Game_cold_desert.jpg" class="internal" title="Enlarge"></a></div>A cold desert, as of 0.4.15</div></div></div>
+</td></tr>
+<tr>
+<td><b>雪原</b>
+</td>
+<td><b><a href="/Snow" title="Snow">雪</a></b>, <a href="/Dirt_with_Snow" title="Dirt with Snow">雪のついた土</a>, <a href="/Dirt" title="Dirt">土</a>, <a href="/Stone" title="Stone">石</a>,<br /><br /><a href="/Bush_Leaves" title="Bush Leaves">低木の葉</a>, <a href="/Bush_Stem" title="Bush Stem">低木の幹</a>
+</td>
+<td>The snowy grassland biome usually borders grasslands and is completely covered by a thin layer <a href="/Snow" title="Snow">snow</a> on top of <a href="/Dirt_with_Snow" title="Dirt with Snow">dirt with snow</a>. A few snow-covered bushes can be found here.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Snow_biome.jpg" class="image"><img alt="" src="/images/thumb/6/65/Snow_biome.jpg/350px-Snow_biome.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/6/65/Snow_biome.jpg/525px-Snow_biome.jpg 1.5x, /images/thumb/6/65/Snow_biome.jpg/700px-Snow_biome.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Snow_biome.jpg" class="internal" title="Enlarge"></a></div>Snowy grassland, as of 0.4.15</div></div></div>
+</td></tr>
+<tr>
+<td><b>タイガ</b>
+</td>
+<td><b><a href="/Snow" title="Snow">雪</a></b>, <b><a href="/Dirt_with_Snow" title="Dirt with Snow">雪のついた土</a></b>, <a href="/Dirt" title="Dirt">土</a>, <a href="/Stone" title="Stone">石</a>,<br /><br /><a href="/Pine_Tree" title="Pine Tree">マツの木</a>, <a href="/Leaves" title="Leaves">マツの木の葉</a>, <a href="/Pine_Bush_Stem" title="Pine Bush Stem">マツの低木</a>, <a href="/Bush_Leaves" title="Bush Leaves">マツの低木の葉</a>, <a href="/Dry_Shrub" title="Dry Shrub">枯れた低木</a>, <a href="/Red_Mushroom" title="Red Mushroom">赤色のキノコ</a>
+</td>
+<td>Taigas are cold snow-covered biomes with rich vegetation with <a href="/Snow" title="Snow">snow</a> and <a href="/Dirt_with_Snow" title="Dirt with Snow">dirt with snow</a> as surface. They are populated with snow-covered pine trees and pine bushes. Like in the coniferous forest, the pine trees grow in two different shapes. On fallen pine tree logs, red mushrooms can sometimes be found.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Minetest_Game_taiga.jpg" class="image"><img alt="" src="/images/thumb/c/cf/Minetest_Game_taiga.jpg/350px-Minetest_Game_taiga.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/c/cf/Minetest_Game_taiga.jpg/525px-Minetest_Game_taiga.jpg 1.5x, /images/thumb/c/cf/Minetest_Game_taiga.jpg/700px-Minetest_Game_taiga.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Minetest_Game_taiga.jpg" class="internal" title="Enlarge"></a></div>“Pointy” pine trees in a taiga, as of 5.0.0</div></div></div>
+</td></tr>
+<tr>
+<td><b>ツンドラ</b>
+</td>
+<td><b><a href="/Snow_Block" title="Snow Block">雪ブロック</a></b>, <a href="/Stone" title="Stone">石</a>,<br /><i><a href="/Ice" title="Ice">氷</a></i><sup id="cite_ref-valleys_only_1-0" class="reference"><a href="#cite_note-valleys_only-1">&#91;1&#93;</a></sup>, <i><a href="/Gravel" title="Gravel">砂利</a></i><sup id="cite_ref-valleys_only_1-1" class="reference"><a href="#cite_note-valleys_only-1">&#91;1&#93;</a></sup>
+</td>
+<td>Tundras are barren biomes in very cold climates with no vegetation and a single layer of <a href="/Snow_Block" title="Snow Block">snow blocks</a> on top of <a href="/Stone" title="Stone">stone</a>. They are usually found between taigas, snowy grasslands and glaciers. This is one of the few biomes where snow blocks (rather than just snow) naturally occur.
+<p>In the valleys mapgen, the rivers are frozen and made out of <a href="/Ice" title="Ice">ice</a> but they may be tricky to find because they are often buried below the snow blocks. Below the ice you can find a riverbed of <a href="/Gravel" title="Gravel">gravel</a>.
+</p>
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Minetest_Game_tundra.jpg" class="image"><img alt="" src="/images/thumb/c/ca/Minetest_Game_tundra.jpg/350px-Minetest_Game_tundra.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/c/ca/Minetest_Game_tundra.jpg/525px-Minetest_Game_tundra.jpg 1.5x, /images/thumb/c/ca/Minetest_Game_tundra.jpg/700px-Minetest_Game_tundra.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Minetest_Game_tundra.jpg" class="internal" title="Enlarge"></a></div>Tundra in 5.0.0</div></div></div>
+</td></tr>
+<tr>
+<td><b>Ice Sheet</b>
+</td>
+<td><b><a href="/Snow_Block" title="Snow Block">雪ブロック</a></b>, <a href="/Ice" title="Ice">氷</a>,<br /><i><a href="/Gravel" title="Gravel">砂利</a></i><sup id="cite_ref-valleys_only_1-2" class="reference"><a href="#cite_note-valleys_only-1">&#91;1&#93;</a></sup>
+</td>
+<td>The ice sheet biome forms only in the coldest regions and is made of large amounts of ice, covered by a thick layer of snow blocks without any vegetation. Ice sheet biomes can be either mountain-like, forming large glaciers as in the screenshot or very flat, creating large empty snow fields.
+<p>In the valleys mapgen, ice sheet biomes have frozen rivers like in tundras.
+</p>
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Glacier.jpg" class="image"><img alt="" src="/images/thumb/8/8c/Glacier.jpg/350px-Glacier.jpg" decoding="async" width="350" height="213" class="thumbimage" srcset="/images/thumb/8/8c/Glacier.jpg/525px-Glacier.jpg 1.5x, /images/thumb/8/8c/Glacier.jpg/700px-Glacier.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Glacier.jpg" class="internal" title="Enlarge"></a></div>A large glacier formation, bordered by a taiga, as of 0.4.13</div></div></div>
+</td></tr></tbody></table>
+<h4><span id="砂浜、海岸、砂丘バイオーム"></span><span class="mw-headline" id=".E7.A0.82.E6.B5.9C.E3.80.81.E6.B5.B7.E5.B2.B8.E3.80.81.E7.A0.82.E4.B8.98.E3.83.90.E3.82.A4.E3.82.AA.E3.83.BC.E3.83.A0">砂浜、海岸、砂丘バイオーム</span></h4>
+<p>これらのバイオームは、陸上バイオームと海洋バイオームの間に生成されます。
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>名前
+</th>
+<th width="15%">ブロック
+</th>
+<th>説明
+</th>
+<th width="355px">画像
+</th></tr>
+<tr>
+<td><b>Grassland dunes</b>, <b>Coniferous forest dunes</b>
+</td>
+<td><b><a href="/Sand" title="Sand">砂</a></b>,<br /><br /><a href="/Marram_Grass" title="Marram Grass">マラムの草</a>
+</td>
+<td>Dunes are made of sand on which occasional marram grass grows. They form at 3-4 blocks above sea level and border grasslands and coniferous forests.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Minetest_Game_grassland_dunes.jpg" class="image"><img alt="" src="/images/thumb/d/d3/Minetest_Game_grassland_dunes.jpg/350px-Minetest_Game_grassland_dunes.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/d/d3/Minetest_Game_grassland_dunes.jpg/525px-Minetest_Game_grassland_dunes.jpg 1.5x, /images/thumb/d/d3/Minetest_Game_grassland_dunes.jpg/700px-Minetest_Game_grassland_dunes.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Minetest_Game_grassland_dunes.jpg" class="internal" title="Enlarge"></a></div>Grassland dunes in 5.0.0</div></div></div>
+</td></tr>
+<tr>
+<td><b>Deciduous forest shore</b>
+</td>
+<td><a href="/Water" title="Water">水</a>, <b><a href="/Dirt" title="Dirt">土</a></b>,<br /><br /><a href="/Waterlily" title="Waterlily">スイレン</a>
+</td>
+<td>A deciduous forest shore is the area exactly at sea level bordering deciduous forest biomes and has dirt as its floor (instead of sand). In the shallow water there is a chance to find waterlilies.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Minetest_Game_forest_shore.jpg" class="image"><img alt="" src="/images/thumb/1/1b/Minetest_Game_forest_shore.jpg/350px-Minetest_Game_forest_shore.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/1/1b/Minetest_Game_forest_shore.jpg/525px-Minetest_Game_forest_shore.jpg 1.5x, /images/thumb/1/1b/Minetest_Game_forest_shore.jpg/700px-Minetest_Game_forest_shore.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Minetest_Game_forest_shore.jpg" class="internal" title="Enlarge"></a></div>Deciduous forest shore in 5.0.0</div></div></div>
+</td></tr>
+<tr>
+<td><b>Rainforest swamp</b>
+</td>
+<td><a href="/Water" title="Water">水</a>, <b><a href="/Dirt" title="Dirt">土</a></b>,<br /><br /><a href="/Jungle_Tree" title="Jungle Tree">ジャングルの木</a>, <a href="/Jungle_Leaves" class="mw-redirect" title="Jungle Leaves">ジャングルの木の葉</a>, <a href="/Waterlily" title="Waterlily">スイレン</a>
+</td>
+<td>A rainforest swamp is a small biome which only forms at sea level next to a rainforest. Rainforest swamps have jungle trees like the rainforest, but their roots are flooded with water. <a href="/Waterlily" title="Waterlily">Waterlilies</a> may occur here on shallow water.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Minetest_Game_jungle_swamp.jpg" class="image"><img alt="" src="/images/thumb/c/cc/Minetest_Game_jungle_swamp.jpg/350px-Minetest_Game_jungle_swamp.jpg" decoding="async" width="350" height="212" class="thumbimage" srcset="/images/thumb/c/cc/Minetest_Game_jungle_swamp.jpg/525px-Minetest_Game_jungle_swamp.jpg 1.5x, /images/thumb/c/cc/Minetest_Game_jungle_swamp.jpg/700px-Minetest_Game_jungle_swamp.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Minetest_Game_jungle_swamp.jpg" class="internal" title="Enlarge"></a></div>Rainforest swamp biome as of 0.4.15</div></div></div>
+</td></tr>
+<tr>
+<td><b>Savanna shore</b>
+</td>
+<td><a href="/Water" title="Water">水</a>, <b><a href="/Dirt" title="Dirt">土</a></b>,<br /><br /><a href="/Papyrus" title="Papyrus">パピルス</a>, <a href="/Waterlily" title="Waterlily">スイレン</a>
+</td>
+<td>Savanna shores are usually small areas of shallow water with a dirt floor. They occur when a savanna reaches the sea level. There are plenty of <a href="/Papyrus" title="Papyrus">papyri</a> growing on single dirt blocks, but it is the only place in which papyri occur naturally. A couple of <a href="/Waterlily" title="Waterlily">waterlilies</a> may be found on the shallow water as well.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Minetest_Game_savanna_shore_v7.jpg" class="image"><img alt="" src="/images/thumb/7/76/Minetest_Game_savanna_shore_v7.jpg/350px-Minetest_Game_savanna_shore_v7.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/7/76/Minetest_Game_savanna_shore_v7.jpg/525px-Minetest_Game_savanna_shore_v7.jpg 1.5x, /images/thumb/7/76/Minetest_Game_savanna_shore_v7.jpg/700px-Minetest_Game_savanna_shore_v7.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Minetest_Game_savanna_shore_v7.jpg" class="internal" title="Enlarge"></a></div>Savanna shore in 5.0.0</div></div></div>
+</td></tr>
+<tr>
+<td><b>Taiga beach</b>
+</td>
+<td><a href="/Water" title="Water">水</a>, <b><a href="/Snow" title="Snow">雪</a></b>, <a href="/Sand" title="Sand">砂</a>
+</td>
+<td>When a taiga meets the ocean, it creates sand beaches that are covered with sand.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Minetest_Game_taiga_beach.jpg" class="image"><img alt="" src="/images/thumb/8/87/Minetest_Game_taiga_beach.jpg/350px-Minetest_Game_taiga_beach.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/8/87/Minetest_Game_taiga_beach.jpg/525px-Minetest_Game_taiga_beach.jpg 1.5x, /images/thumb/8/87/Minetest_Game_taiga_beach.jpg/700px-Minetest_Game_taiga_beach.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Minetest_Game_taiga_beach.jpg" class="internal" title="Enlarge"></a></div>Taiga beach in 5.0.0</div></div></div>
+</td></tr>
+<tr>
+<td><b>Tundra beach</b>
+</td>
+<td><a href="/Water" title="Water">水</a>, <a href="/Snow" title="Snow">雪</a>, <b><a href="/Gravel" title="Gravel">砂利</a></b>
+</td>
+<td>A tundra beach consists of lots of gravel with occasional snow and may form when a tundra meets the ocean.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Minetest_Game_tundra_beach.jpg" class="image"><img alt="" src="/images/thumb/5/52/Minetest_Game_tundra_beach.jpg/350px-Minetest_Game_tundra_beach.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/5/52/Minetest_Game_tundra_beach.jpg/525px-Minetest_Game_tundra_beach.jpg 1.5x, /images/thumb/5/52/Minetest_Game_tundra_beach.jpg/700px-Minetest_Game_tundra_beach.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Minetest_Game_tundra_beach.jpg" class="internal" title="Enlarge"></a></div>Tundra beach in 5.0.0</div></div></div>
+</td></tr></tbody></table>
+<h4><span id="海洋バイオーム"></span><span class="mw-headline" id=".E6.B5.B7.E6.B4.8B.E3.83.90.E3.82.A4.E3.82.AA.E3.83.BC.E3.83.A0">海洋バイオーム</span></h4>
+<p>Oceans are large bodies of water and have <a href="/Sand" title="Sand">sand</a> as the sea floor with occasional patches of <a href="/Clay" title="Clay">clay</a>. There are several ocean biomes in Minetest Game, one for each land biome. Each ocean biome has the same temperature and humidity requirements as its land counterpart.
+</p><p>The defining feature of the ocean biomes are, of course, the oceans, but they actually extend way below the ocean floor of most oceans, down to the Underground biome (see below). So ocean biomes also affect the appearance of the underground.
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>名前
+</th>
+<th width="15%">ブロック
+</th>
+<th>説明
+</th>
+<th width="355px">画像
+</th></tr>
+<tr>
+<td><b>Tundra ocean</b>
+</td>
+<td><a href="/Water" title="Water">水</a>, <b><a href="/Sand" title="Sand">砂</a></b>, <a href="/Clay" title="Clay">粘土</a>, <a href="/Stone" title="Stone">石</a>, <a href="/Ores" title="Ores">鉱石</a>
+</td>
+<td>The tundra ocean is the ocean biome that corresponds to the tundra. It could be seen as the “stereotypical” ocean biome, as the other ocean biomes share have most of the properties as this one. It has sand as the ocean floor, on top of stone. Like in all ocean biomes, blobs of clay are common inside the sand and occur between levels Y=0 and Y=-15. Ores generate in the stone.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Ocean.jpg" class="image"><img alt="" src="/images/thumb/3/33/Ocean.jpg/350px-Ocean.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/3/33/Ocean.jpg/525px-Ocean.jpg 1.5x, /images/thumb/3/33/Ocean.jpg/700px-Ocean.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Ocean.jpg" class="internal" title="Enlarge"></a></div>A typical ocean in 5.0.0</div></div></div>
+</td></tr>
+<tr>
+<td><b>Taiga ocean</b>, <b>snowy grassland ocean</b>, <b>grassland ocean</b>, <b>coniferous forest ocean</b>, <b>deciduous forest ocean</b>, <b>cold desert ocean</b>
+</td>
+<td><a href="/Water" title="Water">水</a>, <b><a href="/Sand" title="Sand">砂</a></b>, <a href="/Clay" title="Clay">粘土</a>, <a href="/Stone" title="Stone">石</a>, <a href="/Ores" title="Ores">鉱石</a><br /><br /><a href="/Kelp" title="Kelp">コンブ</a>
+</td>
+<td>Like the tundra ocean, but on the sand there grow occasional kelp.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Minetest_Game_ocean_with_kelp.jpg" class="image"><img alt="" src="/images/thumb/4/4c/Minetest_Game_ocean_with_kelp.jpg/350px-Minetest_Game_ocean_with_kelp.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/4/4c/Minetest_Game_ocean_with_kelp.jpg/525px-Minetest_Game_ocean_with_kelp.jpg 1.5x, /images/thumb/4/4c/Minetest_Game_ocean_with_kelp.jpg/700px-Minetest_Game_ocean_with_kelp.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Minetest_Game_ocean_with_kelp.jpg" class="internal" title="Enlarge"></a></div>Ocean with kelp in 5.0.0</div></div></div>
+</td></tr>
+<tr>
+<td><b>Sandstone desert ocean</b>
+</td>
+<td><a href="/Water" title="Water">水</a>, <b><a href="/Sand" title="Sand">砂</a></b>, <a href="/Clay" title="Clay">粘土</a>, <a href="/Sandstone" title="Sandstone">砂岩</a><br /><br /><a href="/Kelp" title="Kelp">コンブ</a>
+</td>
+<td>Ocean pendant of the sandstone desert. Like above, but it has sandstone instead of stone as underground material. Kelp grows here in the same manner.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Minetest_Game_sandstone_desert_ocean.jpg" class="image"><img alt="" src="/images/thumb/c/c4/Minetest_Game_sandstone_desert_ocean.jpg/350px-Minetest_Game_sandstone_desert_ocean.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/c/c4/Minetest_Game_sandstone_desert_ocean.jpg/525px-Minetest_Game_sandstone_desert_ocean.jpg 1.5x, /images/thumb/c/c4/Minetest_Game_sandstone_desert_ocean.jpg/700px-Minetest_Game_sandstone_desert_ocean.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Minetest_Game_sandstone_desert_ocean.jpg" class="internal" title="Enlarge"></a></div>Sandstone desert ocean in 5.0.0</div></div></div>
+</td></tr>
+<tr>
+<td><b>Savanna ocean</b>, <b>Rainforest ocean</b>
+</td>
+<td><a href="/Water" title="Water">水</a>, <b><a href="/Sand" title="Sand">砂</a></b>, <a href="/Clay" title="Clay">粘土</a>, <a href="/Stone" title="Stone">石</a>, <a href="/Ores" title="Ores">鉱石</a><br /><br /><a href="/Coral_(block)" title="Coral (block)">Coral (block)</a>, <a href="/Coral_(rooted)" title="Coral (rooted)">Coral (rooted)</a>, <a href="/Coral_Skeleton" title="Coral Skeleton">サンゴのしがい</a>
+</td>
+<td>Savanna and rainforest oceans are the oceans bordering savannas and rainforests, respectively. Colorful <a href="/Coral" class="mw-redirect" title="Coral">coral</a> reefs can form in the water close to the surface with all species of coral packed closely together.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Minetest_Game_rainforest_savannah_ocean.jpg" class="image"><img alt="" src="/images/thumb/9/91/Minetest_Game_rainforest_savannah_ocean.jpg/350px-Minetest_Game_rainforest_savannah_ocean.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/9/91/Minetest_Game_rainforest_savannah_ocean.jpg/525px-Minetest_Game_rainforest_savannah_ocean.jpg 1.5x, /images/thumb/9/91/Minetest_Game_rainforest_savannah_ocean.jpg/700px-Minetest_Game_rainforest_savannah_ocean.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Minetest_Game_rainforest_savannah_ocean.jpg" class="internal" title="Enlarge"></a></div>A coral reef in 5.0.0</div></div></div>
+</td></tr>
+<tr>
+<td><b>Desert ocean</b>
+</td>
+<td><a href="/Water" title="Water">水</a>, <b><a href="/Sand" title="Sand">砂</a></b>, <a href="/Clay" title="Clay">粘土</a>, <a href="/Desert_Stone" title="Desert Stone">砂漠の石</a>,<br /><br /><a href="/Coral" class="mw-redirect" title="Coral">サンゴ</a>, <a href="/Coral_Skeleton" title="Coral Skeleton">サンゴのしがい</a>
+</td>
+<td>Ocean variant of the desert. The underground material is desert stone. <a href="/Coral" class="mw-redirect" title="Coral">サンゴ</a> reefs can form in the water close to the surface, in the same way as in savanna and rainforest oceans.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Minetest_Game_desert_ocean.jpg" class="image"><img alt="" src="/images/thumb/a/a8/Minetest_Game_desert_ocean.jpg/350px-Minetest_Game_desert_ocean.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/a/a8/Minetest_Game_desert_ocean.jpg/525px-Minetest_Game_desert_ocean.jpg 1.5x, /images/thumb/a/a8/Minetest_Game_desert_ocean.jpg/700px-Minetest_Game_desert_ocean.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Minetest_Game_desert_ocean.jpg" class="internal" title="Enlarge"></a></div>Desert ocean in 5.0.0</div></div></div>.
+</td></tr>
+<tr>
+<td><b>Ice sheet ocean</b>
+</td>
+<td><a href="/Snow_Block" title="Snow Block">雪ブロック</a>, <a href="/Ice" title="Ice">氷</a>, <a href="/Water" title="Water">水</a>, <b><a href="/Sand" title="Sand">砂</a></b>, <a href="/Clay" title="Clay">粘土</a>
+</td>
+<td>Ice sheet ocean is the ocean pendant to the ice sheet biome (at land) and thus forms only in the coldest regions of oceans. This biome is named after the tall ice sheet that covers the ocean. The ice sheets are quite tall and consist of a single layer of snow blocks with up to 10 layers of ice beneath, “floating” above water in deep oceans. Shallow oceans and lakes might even be completely frozen. The underground below is either made out of ice or stone, creating interesting ice caves sometimes.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Minetest_Game_ice_sheet.jpg" class="image"><img alt="" src="/images/thumb/2/2b/Minetest_Game_ice_sheet.jpg/350px-Minetest_Game_ice_sheet.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/2/2b/Minetest_Game_ice_sheet.jpg/525px-Minetest_Game_ice_sheet.jpg 1.5x, /images/thumb/2/2b/Minetest_Game_ice_sheet.jpg/700px-Minetest_Game_ice_sheet.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Minetest_Game_ice_sheet.jpg" class="internal" title="Enlarge"></a></div>Ice sheet in 0.4.15</div></div></div> <div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Minetest_Game_icesheet_cave.jpg" class="image"><img alt="" src="/images/thumb/e/ed/Minetest_Game_icesheet_cave.jpg/350px-Minetest_Game_icesheet_cave.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/e/ed/Minetest_Game_icesheet_cave.jpg/525px-Minetest_Game_icesheet_cave.jpg 1.5x, /images/thumb/e/ed/Minetest_Game_icesheet_cave.jpg/700px-Minetest_Game_icesheet_cave.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Minetest_Game_icesheet_cave.jpg" class="internal" title="Enlarge"></a></div>Caves in this biome might have these odd ice cubes at the walls (5.0.0)</div></div></div>
+</td></tr>
+</tbody></table>
+<h4><span id="地下バイオーム"></span><span class="mw-headline" id=".E5.9C.B0.E4.B8.8B.E3.83.90.E3.82.A4.E3.82.AA.E3.83.BC.E3.83.A0">地下バイオーム</span></h4>
+<p>This refers to the part of the world that is at or below Y <a href="/Coordinates" title="Coordinates">coordinate</a> -255 (directly below the ocean biomes) and it extends all the way to the <a href="/World_boundaries" title="World boundaries">bottom of the world</a>, although most players would consider “the Underground” to be everything below sea level. Note the ocean biomes go very deep into the underground as well.
+</p><p>And indeed, most features of the underground biome, like ores, can be found in higher places as well.
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>名前
+</th>
+<th width="15%">ブロック
+</th>
+<th>説明
+</th>
+<th width="355px">画像
+</th></tr>
+<tr>
+<td>地下
+</td>
+<td><b>石</b>, <a href="/Air" title="Air">空気</a>, <a href="/Silver_Sand" title="Silver Sand">銀の砂</a>, <a href="/Dirt" title="Dirt">土</a>, <a href="/Gravel" title="Gravel">砂利</a>, <a href="/Water" title="Water">水</a>, <a href="/Lava" title="Lava">溶岩</a>, <a href="/Ores" title="Ores">鉱石</a>
+</td>
+<td>This is a technical biome in Minetest Game and the only underground biome. It is almost exclusively made of <a href="/Stone" title="Stone">stone</a>, with occasional caves. There are occasional underground lakes of <a href="/Water" title="Water">water</a> and <a href="/Lava" title="Lava">lava</a>, making underground exploration slightly dangerous. Smaller blobs of silver sand (but <i>not</i> ordinary sand!), dirt and gravel can be found all around the underground, but these are common everywhere where stone can be found.
+<p>Since the underground is made out of stone, all the <a href="/Ores" title="Ores">ores</a> can be found here (although the ores are not restricted to this biome, in fact, they happily generate wherever stone can be found). The deeper you go, the more precious they become.
+</p><p>Most of the time, the caves in the underground biome are indistinguishable from most caves in the ocean biomes, because of all the stone. This is not true for all ocean biomes. A transition from “ocean biome” to underground becomes obvious when you you started digging in a biome that doesn't have the (normal) stone, like the desert or sandstone desert biomes. In that case, the transition from the ocean biomes to the underground biomes is very visible, as can be seen in the screenshot to the right. Another sure sign that you're in an ocean biome, not the underground biome (yet) are clusters of (normal) sand, which don't exist in the underground biome. This is an oddity of the map generator which placed the ocean floor material inside a cave somehow.
+</p>
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Minetest_Game_underground.jpg" class="image"><img alt="" src="/images/thumb/7/75/Minetest_Game_underground.jpg/350px-Minetest_Game_underground.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/7/75/Minetest_Game_underground.jpg/525px-Minetest_Game_underground.jpg 1.5x, /images/thumb/7/75/Minetest_Game_underground.jpg/700px-Minetest_Game_underground.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Minetest_Game_underground.jpg" class="internal" title="Enlarge"></a></div>Inside an underground cave with some iron ore, tin ore and a blob of gravel</div></div></div> <div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Minetest_Game_desert_ocean_underground_transition.jpg" class="image"><img alt="" src="/images/thumb/b/bf/Minetest_Game_desert_ocean_underground_transition.jpg/350px-Minetest_Game_desert_ocean_underground_transition.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/b/bf/Minetest_Game_desert_ocean_underground_transition.jpg/525px-Minetest_Game_desert_ocean_underground_transition.jpg 1.5x, /images/thumb/b/bf/Minetest_Game_desert_ocean_underground_transition.jpg/700px-Minetest_Game_desert_ocean_underground_transition.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Minetest_Game_desert_ocean_underground_transition.jpg" class="internal" title="Enlarge"></a></div>Transition from the biome “desert ocean” (with desert stone) to the biome “underground” (with normal stone)</div></div></div>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="v6">v6</span></h3>
+<p>Biomes in v6 are rather simple, but there are some unique features not found in other mapgens. This mapgen has a few biomes and 3 <a href="/Trees" title="Trees">tree</a> species. In, v6, the biomes <b>do</b> determine the terrain shape to some extent. 
+</p><p>In Minetest Game, some <a href="/Blocks" class="mw-redirect" title="Blocks">blocks</a> are not generated at all, but nothing essential. For example, there are are no <a href="/Aspen_Tree" title="Aspen Tree">aspen trees</a>, <a href="/Acacia_Tree" title="Acacia Tree">acacia tree</a> and <a href="/Coral" class="mw-redirect" title="Coral">corals</a>.
+</p><p>Technically, the v6 map generator has a predefined set of biomes which can't be changed by mods directly. The outcome in different games will generally be very similar. Games usually only <i>add</i> to the v6 mapgen by creating so-called decorations, for example <a href="/Flower" title="Flower">flowers</a> and <a href="/Grass" title="Grass">grass</a>.
+</p><p>The distribution of v6 biomes can be seen here: <a href="/File:Biomes_v6.png" title="File:Biomes v6.png">File:Biomes_v6.png</a>.
+</p>
+<h4><span id="バイオーム"></span><span class="mw-headline" id=".E3.83.90.E3.82.A4.E3.82.AA.E3.83.BC.E3.83.A0">バイオーム</span></h4>
+<table class="wikitable">
+<tbody><tr>
+<th>名前
+</th>
+<th>Main Blocks<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</th>
+<th>Decorations<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</th>
+<th>説明
+</th>
+<th width="355px">画像
+</th></tr>
+<tr>
+<td><b>テンプレート</b>
+</td>
+<td><b><a href="/Dirt_with_Grass" title="Dirt with Grass">草のついた土</a></b>, <a href="/Dirt" title="Dirt">土</a>,  <a href="/Stone" title="Stone">石</a>,<br /><br /><a href="/Apple_Tree" title="Apple Tree">リンゴの木</a>, <a href="/Leaves" title="Leaves">リンゴの木の葉</a>, <a href="/Apple" title="Apple">リンゴ</a>
+</td>
+<td><a href="/Grass" title="Grass">草</a>, <a href="/Flower" title="Flower">花</a>, <a href="/Brown_Mushroom" title="Brown Mushroom">茶色のキノコ</a>, <a href="/Red_Mushroom" title="Red Mushroom">赤色のキノコ</a>, <a href="/Butterfly" title="Butterfly">蝶</a>, <a href="/Firefly" title="Firefly">ホタル</a>
+</td>
+<td>The Temperate biome (internally known as “Normal”) is the most common biome in v6 and forms in areas of medium heat. It includes grassy plains and apple tree forests. This biome is rather flat and covered by Dirt with Grass. The plains are large expanses of land.
+<p>In Minetest Game, Grass and flowers are spread over the entire biome; mushrooms may grow next to the apple tree trunks.
+</p>
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Large_plains.png" class="image"><img alt="" src="/images/thumb/7/7e/Large_plains.png/350px-Large_plains.png" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/7/7e/Large_plains.png/525px-Large_plains.png 1.5x, /images/thumb/7/7e/Large_plains.png/700px-Large_plains.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Large_plains.png" class="internal" title="Enlarge"></a></div>Plains, as of 5.0.0</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Mapgen_v6_forest.png" class="image"><img alt="" src="/images/thumb/3/3d/Mapgen_v6_forest.png/350px-Mapgen_v6_forest.png" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/3/3d/Mapgen_v6_forest.png/525px-Mapgen_v6_forest.png 1.5x, /images/thumb/3/3d/Mapgen_v6_forest.png/700px-Mapgen_v6_forest.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mapgen_v6_forest.png" class="internal" title="Enlarge"></a></div>A forest of apple trees in 5.0.0</div></div></div>
+</td></tr>
+<tr>
+<td><b>砂漠</b>
+</td>
+<td><b><a href="/Desert_Sand" title="Desert Sand">砂漠の砂</a></b>, <b><a href="/Desert_Stone" title="Desert Stone">砂漠の石</a></b>
+</td>
+<td><a href="/Cactus" title="Cactus">サボテン</a>, <a href="/Dry_Shrub" title="Dry Shrub">枯れた低木</a>
+</td>
+<td>Deserts hot and dry. They contain large amounts of <a href="/Desert_Sand" title="Desert Sand">desert sand</a> and <a href="/Desert_Stone" title="Desert Stone">desert stone</a> and often form large cliffs or canyons. Deserts are normally covered in desert sand, but at a few cliffs, the bare desert stone may be exposed without desert sand on top. Deserts spawn underground rivers and lakes which can be over 200 blocks deep.
+<p>In Minetest Game, <a href="/Cactus" title="Cactus">Cacti</a> and <a href="/Dry_Shrub" title="Dry Shrub">dry shrubs</a> also occur here naturally in clusters on desert sand. The cacti form in a “column” shape of up to 4 blocks high.
+</p>
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Desert_at_sunset_0.4.7.png" class="image"><img alt="" src="/images/thumb/6/69/Desert_at_sunset_0.4.7.png/350px-Desert_at_sunset_0.4.7.png" decoding="async" width="350" height="213" class="thumbimage" srcset="/images/thumb/6/69/Desert_at_sunset_0.4.7.png/525px-Desert_at_sunset_0.4.7.png 1.5x, /images/thumb/6/69/Desert_at_sunset_0.4.7.png/700px-Desert_at_sunset_0.4.7.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Desert_at_sunset_0.4.7.png" class="internal" title="Enlarge"></a></div>Desert biome, as of 0.4.7</div></div></div>
+</td></tr>
+<tr>
+<td><b>ジャングル</b>
+</td>
+<td><b><a href="/Dirt_with_Grass" title="Dirt with Grass">草のついた土</a></b>, <a href="/Dirt" title="Dirt">土</a>, <a href="/Stone" title="Stone">石</a>,<br /><br /><a href="/Jungle_Tree" title="Jungle Tree">ジャングルの木</a>, <a href="/Jungle_Leaves" class="mw-redirect" title="Jungle Leaves">ジャングルの木の葉</a>, <a href="/Jungle_Grass" title="Jungle Grass">Jungle Grass</a>
+</td>
+<td><a href="/Flower" title="Flower">花</a>, <a href="/Grass" title="Grass">草</a>, <a href="/Butterfly" title="Butterfly">蝶</a>, <a href="/Firefly" title="Firefly">ホタル</a>
+</td>
+<td>Jungles hot and humid. They contain large jungle trees which grow thickly packed together. <a href="/Jungle_Grass" title="Jungle Grass">Jungle Grass</a> and <a href="/Jungle_Tree" title="Jungle Tree">Jungle Trees</a> bearing <a href="/Leaves" title="Leaves">Jungle Leaves</a> spawn here naturally.
+<p>In Minetest Game, flowers and Grass might appear here, but only rarely so, the jungle grass generally dominates in jungles.
+</p>
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Jungle_v6.jpg" class="image"><img alt="" src="/images/thumb/d/d7/Jungle_v6.jpg/350px-Jungle_v6.jpg" decoding="async" width="350" height="213" class="thumbimage" srcset="/images/thumb/d/d7/Jungle_v6.jpg/525px-Jungle_v6.jpg 1.5x, /images/thumb/d/d7/Jungle_v6.jpg/700px-Jungle_v6.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Jungle_v6.jpg" class="internal" title="Enlarge"></a></div>Jungle biome as of 0.4.16</div></div></div>
+</td></tr>
+<tr>
+<td><b>タイガ</b>
+</td>
+<td><b><a href="/Dirt_with_Snow" title="Dirt with Snow">雪のついた土</a></b>, <a href="/Stone" title="Stone">石</a>,<br /><br /><a href="/Snow" title="Snow">雪</a>, <a href="/Pine_Tree" title="Pine Tree">マツの木</a>, <a href="/Leaves" title="Leaves">マツの木の葉</a>
+</td>
+<td><a href="/Dry_Shrub" title="Dry Shrub">枯れた低木</a>
+</td>
+<td>Taigas are cold and humid. The surface is covered with <a href="/Dirt_with_Snow" title="Dirt with Snow">Dirt with Snow</a> on top of <a href="/Dirt" title="Dirt">土</a> or <a href="/Stone" title="Stone">石</a>. This biome includes snowed plains and <a href="/Snow" title="Snow">snow</a>-covered <a href="/Pine_Tree" title="Pine Tree">Pine Tree</a> forests. In Minetest Game, some <a href="/Dry_Shrub" title="Dry Shrub">Dry Shrubs</a> can be found here.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Mapgen_v6_taiga.jpg" class="image"><img alt="" src="/images/thumb/2/27/Mapgen_v6_taiga.jpg/350px-Mapgen_v6_taiga.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/2/27/Mapgen_v6_taiga.jpg/525px-Mapgen_v6_taiga.jpg 1.5x, /images/thumb/2/27/Mapgen_v6_taiga.jpg/700px-Mapgen_v6_taiga.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mapgen_v6_taiga.jpg" class="internal" title="Enlarge"></a></div>Both features of a taiga biome: To the left snowy plains with dry shrubs, to the right a pine tree forest (5.0.0)</div></div></div>
+</td></tr>
+<tr>
+<td><b>ツンドラ</b>
+</td>
+<td><b><a href="/Snow_Block" title="Snow Block">雪ブロック</a></b>, <a href="/Dirt_with_Snow" title="Dirt with Snow">雪のついた土</a>, <a href="/Stone" title="Stone">石</a>
+</td>
+<td>
+</td>
+<td>Tundras are cold and dry. They have large open fields with a surface of <a href="/Snow_Block" title="Snow Block">Snow Blocks</a> on top of <a href="/Dirt_with_Snow" title="Dirt with Snow">Dirt with Snow</a>. There isn't any vegetation. They are essentially cold deserts.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Mapgen_v6_tundra.jpg" class="image"><img alt="" src="/images/thumb/2/20/Mapgen_v6_tundra.jpg/350px-Mapgen_v6_tundra.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/2/20/Mapgen_v6_tundra.jpg/525px-Mapgen_v6_tundra.jpg 1.5x, /images/thumb/2/20/Mapgen_v6_tundra.jpg/700px-Mapgen_v6_tundra.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mapgen_v6_tundra.jpg" class="internal" title="Enlarge"></a></div>Tundra biome in 5.0.0</div></div></div>
+</td></tr></tbody></table>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-valleys_only-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-valleys_only_1-0">1.0</a></sup> <sup><a href="#cite_ref-valleys_only_1-1">1.1</a></sup> <sup><a href="#cite_ref-valleys_only_1-2">1.2</a></sup></span> <span class="reference-text">This block is only generated in the valleys mapgen</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Blocks generated by the core v6 mapgen</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Additional blocks added by Minetest Game, can be controlled with the map generator flag <code>decorations</code>. See also: <a href="/Map_generator_features#Shared_features" title="Map generator features">Map generator features#Shared features</a></span>
+</li>
+</ol></div>
+<h4><span id="景観の特徴"></span><span class="mw-headline" id=".E6.99.AF.E8.A6.B3.E3.81.AE.E7.89.B9.E5.BE.B4">景観の特徴</span></h4>
+<p>Landscape features form (more or less) separately from biomes.
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>名前
+</th>
+<th>ブロック
+</th>
+<th>説明
+</th>
+<th width="355px">画像
+</th></tr>
+<tr>
+<td><b>砂浜</b>
+</td>
+<td><a href="/Water" title="Water">水</a>, <b><a href="/Sand" title="Sand">砂</a></b>, <i><a href="/Clay" title="Clay">粘土</a></i>, <a href="/Stone" title="Stone">石</a>
+</td>
+<td>Sand beaches are made out of <a href="/Sand" title="Sand">sand</a> and form at at <a href="/Coordinates" title="Coordinates">height</a> of Y=2 and below, which is near the sea level by default. Sand beaches often extend deep into the ocean, which can easily turn a large part of the ocean floor into sand. The sand replaces the floor of other biomes. Depending on the terrain shape, sand beaches can be short or very long and wide (as seen in the screenshot). <a href="/Clay" title="Clay">粘土</a> can be found in the sand and forms in small to medium-sized “blobs” underwater (Technically, clay is generated like an <a href="/Ores" title="Ores">ore</a> by Minetest Game).
+<p>Sand beaches are generated based on height and Perlin noise; they technically form independent of the water of oceans. This effect can be noted if the water level (with the setting <code>water_level</code>) has been reduced.
+</p>
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Mapgen_v6_beach.jpg" class="image"><img alt="" src="/images/thumb/0/01/Mapgen_v6_beach.jpg/350px-Mapgen_v6_beach.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/0/01/Mapgen_v6_beach.jpg/525px-Mapgen_v6_beach.jpg 1.5x, /images/thumb/0/01/Mapgen_v6_beach.jpg/700px-Mapgen_v6_beach.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mapgen_v6_beach.jpg" class="internal" title="Enlarge"></a></div>A sand beach bordering a desert in 0.4.15</div></div></div>
+</td></tr>
+<tr>
+<td><b>海</b>
+</td>
+<td><a href="/Water" title="Water">水</a>, <a href="/Stone" title="Stone">石</a>, <b><a href="/Dirt" title="Dirt">土</a></b>, <b><a href="/Sand" title="Sand">砂</a></b>
+</td>
+<td>An ocean is just a large body of water that reach a depth of around 25 blocks with the water surface at Y=0 worldwide (by default). The natural ocean floor is <a href="/Dirt" title="Dirt">dirt</a> (which is different from the other mapgens), but <a href="/Sand" title="Sand">sand</a> is also common because of sand beaches. Oceans usually spread across 250-300 blocks, but this can vary greatly. Oceans are a landscape feature that seemed to be implemented around <a href="/index.php?title=Version_History&amp;action=edit&amp;redlink=1" class="new" title="Version History (page does not exist)">0.2.20110731_1 Pre-Alpha</a>.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Mapgen_v6_ocean.jpg" class="image"><img alt="" src="/images/thumb/b/bf/Mapgen_v6_ocean.jpg/350px-Mapgen_v6_ocean.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/b/bf/Mapgen_v6_ocean.jpg/525px-Mapgen_v6_ocean.jpg 1.5x, /images/thumb/b/bf/Mapgen_v6_ocean.jpg/700px-Mapgen_v6_ocean.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mapgen_v6_ocean.jpg" class="internal" title="Enlarge"></a></div>A large ocean in 0.4.15</div></div></div>
+</td></tr>
+<tr>
+<td><b>島</b>
+</td>
+<td><i>All blocks from the v6 biomes</i>, <a href="/Water" title="Water">水</a>
+</td>
+<td>Islands occur many times in oceans. Islands usually raise out of the ground 3-10 blocks, but can get as large as 40-80 blocks tall.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Island_0.4.7.jpg" class="image"><img alt="" src="/images/thumb/d/de/Island_0.4.7.jpg/350px-Island_0.4.7.jpg" decoding="async" width="350" height="213" class="thumbimage" srcset="/images/thumb/d/de/Island_0.4.7.jpg/525px-Island_0.4.7.jpg 1.5x, /images/thumb/d/de/Island_0.4.7.jpg/700px-Island_0.4.7.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Island_0.4.7.jpg" class="internal" title="Enlarge"></a></div>A small beach-style island, as of 0.4.7</div></div></div>
+</td></tr>
+<tr>
+<td><b>Ice sheet</b>
+</td>
+<td><a href="/Ice" title="Ice">氷</a>, <a href="/Water" title="Water">水</a>, <b><a href="/Dirt" title="Dirt">土</a></b>, <b><a href="/Sand" title="Sand">砂</a></b>
+</td>
+<td>Ice sheets are two layers of <a href="/Ice" title="Ice">ice</a> on top of ocean water. They generate when a tundra biome hits an ocean.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Ice_sheet_v6.jpg" class="image"><img alt="" src="/images/thumb/8/88/Ice_sheet_v6.jpg/350px-Ice_sheet_v6.jpg" decoding="async" width="350" height="213" class="thumbimage" srcset="/images/thumb/8/88/Ice_sheet_v6.jpg/525px-Ice_sheet_v6.jpg 1.5x, /images/thumb/8/88/Ice_sheet_v6.jpg/700px-Ice_sheet_v6.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Ice_sheet_v6.jpg" class="internal" title="Enlarge"></a></div>Ice sheet in 5.0.0</div></div></div>
+</td></tr>
+<tr>
+<td><b>山</b>
+</td>
+<td><i>Blocks are similar to those of forests and plains</i>
+</td>
+<td>Mountains are the most treacherous to scale. Trees grow here naturally. It is quite easy to be killed in a mountain landscape if you don't pay attention to where you are going.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Mountain.png" class="image"><img alt="" src="/images/thumb/3/39/Mountain.png/350px-Mountain.png" decoding="async" width="350" height="260" class="thumbimage" srcset="/images/thumb/3/39/Mountain.png/525px-Mountain.png 1.5x, /images/thumb/3/39/Mountain.png/700px-Mountain.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mountain.png" class="internal" title="Enlarge"></a></div>Mountains, before 0.4.7</div></div></div>
+</td></tr>
+<tr>
+<td><b>高原</b>
+</td>
+<td><i>Almost all blocks from the v6 biomes</i>
+</td>
+<td>A giant structure that seems to have appeared from version 0.4 on, plateaus are very common in deserts but also in mountainous terrain. Plateaus can even float above ground and generate miniature biomes on top of it.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Plateau_0.4.7_alternative.png" class="image"><img alt="" src="/images/thumb/3/3b/Plateau_0.4.7_alternative.png/350px-Plateau_0.4.7_alternative.png" decoding="async" width="350" height="213" class="thumbimage" srcset="/images/thumb/3/3b/Plateau_0.4.7_alternative.png/525px-Plateau_0.4.7_alternative.png 1.5x, /images/thumb/3/3b/Plateau_0.4.7_alternative.png/700px-Plateau_0.4.7_alternative.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Plateau_0.4.7_alternative.png" class="internal" title="Enlarge"></a></div>A plateau, as of 0.4.7</div></div></div>
+</td></tr>
+<tr>
+<td><b>Water cave</b>
+</td>
+<td><a href="/Water" title="Water">水</a>, <b><a href="/Stone" title="Stone">石</a></b>
+</td>
+<td>Water caves are caves that only occur at sea level, which turn into a huge underground river or lake. In extreme cases, these caves can lead thousands of blocks down and are extremely easily to get lost in.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Water_cave_0.4.7_alternative.png" class="image"><img alt="" src="/images/thumb/9/9a/Water_cave_0.4.7_alternative.png/350px-Water_cave_0.4.7_alternative.png" decoding="async" width="350" height="215" class="thumbimage" srcset="/images/thumb/9/9a/Water_cave_0.4.7_alternative.png/525px-Water_cave_0.4.7_alternative.png 1.5x, /images/thumb/9/9a/Water_cave_0.4.7_alternative.png/700px-Water_cave_0.4.7_alternative.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Water_cave_0.4.7_alternative.png" class="internal" title="Enlarge"></a></div>A water cave, as of 0.4.7</div></div></div>
+</td></tr>
+<tr>
+<td><b>Gravel field</b>
+</td>
+<td><b><a href="/Gravel" title="Gravel">砂利</a></b>
+</td>
+<td>Very rarely, unusually large <a href="/Gravel" title="Gravel">gravel</a> fields can appear on the surface. These areas consist of nothing but gravel. A gravel field can occour in any biome and simply replaced the surface material (e.g. dirt with grass) with gravel.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Mapgen_v6_gravel_biome.png" class="image"><img alt="" src="/images/thumb/0/0e/Mapgen_v6_gravel_biome.png/350px-Mapgen_v6_gravel_biome.png" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/0/0e/Mapgen_v6_gravel_biome.png/525px-Mapgen_v6_gravel_biome.png 1.5x, /images/thumb/0/0e/Mapgen_v6_gravel_biome.png/700px-Mapgen_v6_gravel_biome.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mapgen_v6_gravel_biome.png" class="internal" title="Enlarge"></a></div>A gravel field in 0.4.15</div></div></div>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="v7">v7</span></h3>
+<h4><span id="浮遊大陸バイオーム(実験的)"></span><span class="mw-headline" id=".E6.B5.AE.E9.81.8A.E5.A4.A7.E9.99.B8.E3.83.90.E3.82.A4.E3.82.AA.E3.83.BC.E3.83.A0.28.E5.AE.9F.E9.A8.93.E7.9A.84.29">浮遊大陸バイオーム(実験的)</span></h4>
+<p>Floatlands is an experimental <a href="/Map_generator_features" title="Map generator features">feature</a> of the v7 map generator. They are disabled by default. To use them, they have to be enabled with the setting <code>mgv7_spflags</code> first.
+</p><p>Floatlands are floating pieces of land that float way above the ground level (Y=1280 by default). Like on ground level, there are various terrain shapes, like flat lands and huge mountains.
+</p><p>In Minetest Game, the floatlands have 3 simple biomes, as of 5.0.0. This might change in future versions. Also, all ores can be found in the floatlands frequently, they are often exposed at the bare terrain. But it's quite a hassle to go all the way up to the floatlands to reach them.
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>名前
+</th>
+<th width="15%">ブロック
+</th>
+<th>説明
+</th>
+<th width="355px">画像
+</th></tr>
+<tr>
+<td>Floatland grasslands
+</td>
+<td>Same as grasslands, plus all <a href="/Ores" title="Ores">ores</a>
+</td>
+<td>Floatland version of grasslands. This is basically the same, with the same ground blocks and vegetation. Like all floatland biomes, all the ores can be found here frequently. At the border of the floatlands, there are little sand “beaches” that are a bit shorter than in the ground-level grasslands.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Minetest_Game_floatland_grasslands.jpg" class="image"><img alt="" src="/images/thumb/a/ad/Minetest_Game_floatland_grasslands.jpg/350px-Minetest_Game_floatland_grasslands.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/a/ad/Minetest_Game_floatland_grasslands.jpg/525px-Minetest_Game_floatland_grasslands.jpg 1.5x, /images/thumb/a/ad/Minetest_Game_floatland_grasslands.jpg/700px-Minetest_Game_floatland_grasslands.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Minetest_Game_floatland_grasslands.jpg" class="internal" title="Enlarge"></a></div>Floating grasslands (5.0.0)</div></div></div>
+</td></tr>
+<tr>
+<td>Floatland coniferous forest
+</td>
+<td>Same as coniferous forest, plus all <a href="/Ores" title="Ores">ores</a>
+</td>
+<td>Floatland version of coniferous forest.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Minetest_Game_floatland_coniferous_forest.jpg" class="image"><img alt="" src="/images/thumb/2/22/Minetest_Game_floatland_coniferous_forest.jpg/350px-Minetest_Game_floatland_coniferous_forest.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/2/22/Minetest_Game_floatland_coniferous_forest.jpg/525px-Minetest_Game_floatland_coniferous_forest.jpg 1.5x, /images/thumb/2/22/Minetest_Game_floatland_coniferous_forest.jpg/700px-Minetest_Game_floatland_coniferous_forest.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Minetest_Game_floatland_coniferous_forest.jpg" class="internal" title="Enlarge"></a></div>Floating coniferous forest (5.0.0)</div></div></div>
+</td></tr>
+<tr>
+<td>Floatland ocean
+</td>
+<td><a href="/Water" title="Water">水</a>, <b><a href="/Sand" title="Sand">砂</a></b>, <a href="/Clay" title="Clay">粘土</a>, <a href="/Stone" title="Stone">石</a>, <a href="/Ores" title="Ores">鉱石</a>
+</td>
+<td>Floatland ocean are bodies of water that are actually more like big lakes. They have the same materials as most of the ground-level oceans but due to the nature of floatlands, they are shaped in a very different manner. Floatland oceans are also generally much smaller than the “real” oceans. Usually these are surrounded by enough landmass so the water is safely locked inside the floating island. But imperfections in the cave generator might still punch some holes into the floor, creating enormous waterfalls that slowly extend all the way down to the ground level.
+</td>
+<td><div class="thumb tright"><div class="thumbinner" style="width:352px;"><a href="/File:Minetest_Game_floatland_ocean.jpg" class="image"><img alt="" src="/images/thumb/1/19/Minetest_Game_floatland_ocean.jpg/350px-Minetest_Game_floatland_ocean.jpg" decoding="async" width="350" height="197" class="thumbimage" srcset="/images/thumb/1/19/Minetest_Game_floatland_ocean.jpg/525px-Minetest_Game_floatland_ocean.jpg 1.5x, /images/thumb/1/19/Minetest_Game_floatland_ocean.jpg/700px-Minetest_Game_floatland_ocean.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Minetest_Game_floatland_ocean.jpg" class="internal" title="Enlarge"></a></div>Floatland ocean surrounded by floatland grasslands (5.0.0)</div></div></div>
+</td></tr></tbody></table>
+<h2><span id="歴史"></span><span class="mw-headline" id=".E6.AD.B4.E5.8F.B2">歴史</span></h2>
+<h3><span id="Minetestの開発"></span><span class="mw-headline" id="Minetest.E3.81.AE.E9.96.8B.E7.99.BA">Minetestの開発</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/File:Putkiksia.png" class="image"><img alt="" src="/images/thumb/9/9c/Putkiksia.png/300px-Putkiksia.png" decoding="async" width="300" height="225" class="thumbimage" srcset="/images/thumb/9/9c/Putkiksia.png/450px-Putkiksia.png 1.5x, /images/thumb/9/9c/Putkiksia.png/600px-Putkiksia.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Putkiksia.png" class="internal" title="Enlarge"></a></div>Early chaotic mapgen, no biomes at all</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/File:Mapgen_updated.png" class="image"><img alt="" src="/images/thumb/0/0c/Mapgen_updated.png/300px-Mapgen_updated.png" decoding="async" width="300" height="225" class="thumbimage" srcset="/images/thumb/0/0c/Mapgen_updated.png/450px-Mapgen_updated.png 1.5x, /images/thumb/0/0c/Mapgen_updated.png/600px-Mapgen_updated.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mapgen_updated.png" class="internal" title="Enlarge"></a></div>An undefinable biome (pre-0.0.1)</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/File:Screenshot_2438759180_mapgenv6.jpeg" class="image"><img alt="" src="/images/thumb/c/c7/Screenshot_2438759180_mapgenv6.jpeg/300px-Screenshot_2438759180_mapgenv6.jpeg" decoding="async" width="300" height="225" class="thumbimage" srcset="/images/thumb/c/c7/Screenshot_2438759180_mapgenv6.jpeg/450px-Screenshot_2438759180_mapgenv6.jpeg 1.5x, /images/thumb/c/c7/Screenshot_2438759180_mapgenv6.jpeg/600px-Screenshot_2438759180_mapgenv6.jpeg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Screenshot_2438759180_mapgenv6.jpeg" class="internal" title="Enlarge"></a></div>Early mapgen version 6 with forest and desert biomes (0.4.0)</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/File:Mapgen_v6.jpg" class="image"><img alt="" src="/images/thumb/1/15/Mapgen_v6.jpg/300px-Mapgen_v6.jpg" decoding="async" width="300" height="192" class="thumbimage" srcset="/images/thumb/1/15/Mapgen_v6.jpg/450px-Mapgen_v6.jpg 1.5x, /images/thumb/1/15/Mapgen_v6.jpg/600px-Mapgen_v6.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mapgen_v6.jpg" class="internal" title="Enlarge"></a></div>Snow biomes in mapgen v6 (0.4.13)</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/File:Mapgen_v7.jpg" class="image"><img alt="" src="/images/thumb/b/b3/Mapgen_v7.jpg/300px-Mapgen_v7.jpg" decoding="async" width="300" height="192" class="thumbimage" srcset="/images/thumb/b/b3/Mapgen_v7.jpg/450px-Mapgen_v7.jpg 1.5x, /images/thumb/b/b3/Mapgen_v7.jpg/600px-Mapgen_v7.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mapgen_v7.jpg" class="internal" title="Enlarge"></a></div>Mapgen v7 supporting the Biome API. Shows the now removed sandstone grasslands from Minetest Game (0.4.13)</div></div></div>
+<ul><li>Before Minetest had version numbers, biomes were undefinable and only consisted of 4 materials: grass, stone, light and “water” (as seen in the images).</li>
+<li>0.0.1: It brought actual biomes to the table, but before <a href="/index.php?title=Version_History&amp;action=edit&amp;redlink=1" class="new" title="Version History (page does not exist)">0.2.20110529 Pre-Alpha</a> map generation was a bit of a mess. Biomes would cross into each other, and were generally undefinable.</li>
+<li>0.3.0 and before: Biomes were very basic. There were only grasslands, forests, oceans and beaches.</li>
+<li>0.4.0: The map generator version 6 was introduced. This map generator had the same biomes as before in its early versions. Deserts and later jungles have been added later.</li>
+<li>0.4.13: Taigas and tundras have been added to the v6 mapgen. Around this time, work on the Biome API has begun, but it was not useful yet.</li>
+<li>0.4.14: The Biome API has been introduced for the v7 mapgen which allows mods to create their own biomes from scratch. This was a major milestone because the Biome API is much more flexible than the hardcoded v6 biomes; the biomes can be much richer now. All mapgens now support the Biome API, except v6, which continues to have its hardcoded biomes.</li>
+<li>5.0.0: Vertical biome blending was added which gives a more smooth transition between biomes that stack vertically. Biomes can also be limited by constant X/Y/Z coordinates. Biomes can replace the material of dungeons and the liquid in caves.</li></ul>
+<h3><span id="Minetest_Gameのバイオーム"></span><span class="mw-headline" id="Minetest_Game.E3.81.AE.E3.83.90.E3.82.A4.E3.82.AA.E3.83.BC.E3.83.A0">Minetest Gameのバイオーム</span></h3>
+<ul><li>Before 0.4.14: Minetest Game did not create any biomes; all biomes were created by Minetest instead. Minetest Game merely added some decorations to the v6 mapgen, like flowers, papyri, cacti, etc.</li>
+<li>0.4.14: Minetest Game started to use the new Biome API which made the v7 mapgen finally suitable for playing. Minetest Game used the Biome API to add glaciers, ice sheets, tundras, taigas, stone grasslands, sandstone grasslands, coniferous forests, deciduous forests, deserts, savannas, rainforests, swamps and beaches. The v6 biomes are unchanged.</li>
+<li>0.4.15: Snowy grasslands, cold deserts and sandstone deserts have been added. The sandstone grasslands have been removed.</li>
+<li>5.0.0: Tundra, taiga and coniferous forest have been completely overhauled. The tundra is covered with large fields of <a href="/Permafrost" title="Permafrost">permafrost</a> and snow. The taiga and coniferous forests feature new styles of pine tree and have a new dirt floor with lots of <a href="/Fern" title="Fern">ferns</a>. In the rainforests, there are sometimes emergent jungle trees that have a thicker trunk and grow much taller. Sandstone strata added to desert and sandstone desert. On the dunes there grows now <a href="/Marram_Grass" title="Marram Grass">marram grass</a> instead of <a href="/Grass" title="Grass">grass</a>. <a href="/Kelp" title="Kelp">Kelp</a> and <a href="/Coral_(rooted)" title="Coral (rooted)">rooted corals</a> were added in the oceans.</li></ul>
+<h3><span id="関連項目"></span><span class="mw-headline" id=".E9.96.A2.E9.80.A3.E9.A0.85.E7.9B.AE">関連項目</span></h3>
+<p>For more detail on the evolution of the map generator, see the <a href="/Map_Generator_Evolution" title="Map Generator Evolution">Map Generator Evolution</a> page.
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20230709172845
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.859 seconds
+Real time usage: 1.543 seconds
+Preprocessor visited node count: 534/1000000
+Post‐expand include size: 3218/2097152 bytes
+Template argument size: 541/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 13/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1346/5000000 bytes
+Lua time usage: 0.120/7 seconds
+Lua virtual size: 5.55 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  326.192      1 -total
+ 92.08%  300.369      1 Template:Languages
+  7.80%   25.459      1 Template:Incomplete_translation/ja
+  4.42%   14.418      1 Template:Mbox
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:5090-0!canonical and timestamp 20230709172843 and revision id 26648
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Biomes/ja&amp;oldid=26648">http://wiki.minetest.net/index.php?title=Biomes/ja&amp;oldid=26648</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li><li><a href="/Category:Incomplete_translated_pages" title="Category:Incomplete translated pages">Incomplete translated pages</a></li><li><a href="/Category:Map" title="Category:Map">Map</a></li><li><a href="/Category:Japanese" title="Category:Japanese">Japanese</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Biomes%2Fja" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Biomes/ja" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Biomes/ja&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Biomes/ja">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Biomes/ja&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Biomes/ja&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Biomes/ja" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Biomes/ja" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Biomes/ja&amp;oldid=26648" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Biomes/ja&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 2 January 2022, at 07:40.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.859","walltime":"1.543","ppvisitednodes":{"value":534,"limit":1000000},"postexpandincludesize":{"value":3218,"limit":2097152},"templateargumentsize":{"value":541,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":13,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1346,"limit":5000000},"timingprofile":["100.00%  326.192      1 -total"," 92.08%  300.369      1 Template:Languages","  7.80%   25.459      1 Template:Incomplete_translation/ja","  4.42%   14.418      1 Template:Mbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.120","limit":"7"},"limitreport-virtmemusage":{"value":5824512,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709172845","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":1978});});</script></body></html>

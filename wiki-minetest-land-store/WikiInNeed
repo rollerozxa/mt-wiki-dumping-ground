@@ -1,0 +1,320 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>WikiInNeed - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"790e36e6dc9e0bc3a1726e26","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"WikiInNeed","wgTitle":"WikiInNeed","wgCurRevisionId":26311,"wgRevisionId":26311,"wgArticleId":5046,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"WikiInNeed","wgRelevantArticleId":5046,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready",
+"user.options":"loading","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-WikiInNeed rootpage-WikiInNeed skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">WikiInNeed</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>How to make this wiki better
+</p><p><a href="/Special:PrefixIndex/User:Voxel/" title="Special:PrefixIndex/User:Voxel/">Voxels Workbench</a>
+</p><p><br />
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Wikimedia_compliance"><span class="tocnumber">1</span> <span class="toctext">Wikimedia compliance</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Sourcecode_structure_of_pages"><span class="tocnumber">2</span> <span class="toctext">Sourcecode structure of pages</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Order_of_the_content_elements_from_top_to_bottom"><span class="tocnumber">2.1</span> <span class="toctext">Order of the content elements from top to bottom</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Subpages"><span class="tocnumber">2.2</span> <span class="toctext">Subpages</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Categories"><span class="tocnumber">3</span> <span class="toctext">Categories</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Renamed_root_category"><span class="tocnumber">3.1</span> <span class="toctext">Renamed root category</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#No_game_or_mod_specific_categories"><span class="tocnumber">3.2</span> <span class="toctext">No game or mod specific categories</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Redundant_categories_and_such_with_unclear_names"><span class="tocnumber">3.3</span> <span class="toctext">Redundant categories and such with unclear names</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#A_page_for_the_url_wiki.minetest.net"><span class="tocnumber">4</span> <span class="toctext">A page for the url wiki.minetest.net</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Participate"><span class="tocnumber">5</span> <span class="toctext">Participate</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Further_Ideas"><span class="tocnumber">6</span> <span class="toctext">Further Ideas</span></a></li>
+</ul>
+</div>
+
+<h3><span class="mw-headline" id="Wikimedia_compliance">Wikimedia compliance</span></h3>
+<dl><dd>One of the benefit of that is, that you just learn one way to do things and you can edit every wikimedia based wiki.</dd>
+<dd>I geared on Wikipedia standards.</dd></dl>
+<h3><span class="mw-headline" id="Sourcecode_structure_of_pages">Sourcecode structure of pages</span></h3>
+<h4><span class="mw-headline" id="Order_of_the_content_elements_from_top_to_bottom">Order of the content elements from top to bottom</span></h4>
+<dl><dd>At the top there are templates, files and datasheets, make at least a linebreak between every single one to keep that thing readable.</dd>
+<dd>After that the table of content (__toc__), always on the left side.</dd>
+<dd>The main captions have always two = at both sites: == Main caption ==, every subcaption needs to have one more = at both sides. One empty line between two main caption sections. Text of a caption section is direct under the caption, no empty line between them.</dd>
+<dd>Medias are always at the right. No huge images, people can click on it to get a full view if they want to, do not force them to.</dd>
+<dd>Navboxes are the second least and categories are the very least.</dd>
+<dd>Categories are sorted from specific to generic.</dd>
+<dd>When the template {{Languages}} is used at the top of the page, then it must be look like this: {{Languages|nocat=1}}, else it places the <a rel="nofollow" class="external text" href="https://wiki.minetest.net/Category:Languages_pages">Languages pages</a> at the beginning of the category list. Further the [[Category:Languages_pages]] must be placed at the bottom manually.</dd>
+<dd>An example of a restructured article be me (nearly no new or modified content): <a rel="nofollow" class="external text" href="https://wiki.minetest.net/index.php?title=Mods&amp;action=historysubmit&amp;diff=25628&amp;oldid=24478">Article:Mods</a></dd></dl>
+<h4><span class="mw-headline" id="Subpages">Subpages</span></h4>
+<dl><dd>Structure here is Mainarticle -&gt; Subpage.</dd>
+<dd>That's it, no more subpages of subpages, that's an unclear mess.</dd>
+<dd>Pages where this is the case will be merged to the main article or to one of its subpages.</dd>
+<dd>Subpages must be linked in the main article.</dd>
+<dd>Main pages for games and mods are already subpages of <a href="/Games" title="Games">Games</a> or <a href="/Mods" title="Mods">Mods</a>, this will stay as it is.</dd>
+<dd>Structure for game pages is:
+<dl><dd><b>Games/NameOfTheGame</b> (presentation of the game, overview, summary, concept and so on)</dd>
+<dd><b>Games/NameOfTheGame/Recipes</b> (all recipes are here in, use <a rel="nofollow" class="external text" href="https://wiki.minetest.net/Template:Grid/Craft">Template:Grid/Craft</a> for this, also smelting, fuels and stuff like that is here too, just everything that has do do with crafting)</dd>
+<dd><b>Games/NameOfTheGame/Items</b> (all items are here, this includes entities like animals and monsters too)</dd>
+<dd><b>Games/NameOfTheGame/Nodes</b> (all nodes are here)</dd>
+<dd><b>Games/NameOfTheGame/Tools</b> (all tools are here)</dd></dl></dd>
+<dd>and optional:
+<dl><dd><b>Games/NameOfTheGame/Tutorial</b></dd></dl></dd>
+<dd>No further subpages, all content must be distributed at those pages!</dd>
+<dd>Same structure for mod pages (replace in the example above the word "Game" with the word "Mod").</dd>
+<dd>An example how that looks like for the page Simple Mobs:</dd>
+<dd>The old one was a subpage of the page <a href="/Mods" title="Mods">Mods</a>, with even more subpages for every (!) single mob in that mod: <a rel="nofollow" class="external text" href="https://wiki.minetest.net/index.php?title=Mods/Simple_Mobs&amp;oldid=18490">Mods/Simple Mobs(Old)</a></dd>
+<dd>Now it is stil a subpage of the page Mods, but I merged all the subpages for every single mob into the main article <a rel="nofollow" class="external text" href="https://wiki.minetest.net/index.php?title=Mods/Simple_Mobs&amp;direction=next&amp;oldid=24949">Mods/Simple Mobs(New)</a></dd>
+<dd>By the way it is not my fault, that this article isn't complete and up to date.</dd></dl>
+<h3><span class="mw-headline" id="Categories">Categories</span></h3>
+<h4><span class="mw-headline" id="Renamed_root_category">Renamed root category</span></h4>
+<dl><dd>The root category was renamed to <a rel="nofollow" class="external text" href="https://wiki.minetest.net/Category:Minetest_Wiki">Category:Minetest_Wiki</a></dd>
+<dd>Why this name?</dd>
+<dd>Because it is multilingual, when you visit a webpage called minetest.net you probably know what the word <i>minetest</i> means and it is called all the same in every language and even understandable if not written in the letters of other languages. That counts even more for the word <i>Wiki</i>.</dd>
+<dd>The old root category <a rel="nofollow" class="external text" href="https://wiki.minetest.net/Category:Minetest_(Root_Category)">Category:Minetest_(Root_Category)</a> does still exists, but only because I have not the permission to edit the main page at the moment.</dd>
+<dd>Every supported language will get its own version of the new root category and subcategories in the letters of the particular language.</dd>
+<dd>For example, the german version already exists and contains already some content: <a rel="nofollow" class="external text" href="https://wiki.minetest.net/Category:Minetest_Wiki_(Deutsch)">Category:Minetest_Wiki_(Deutsch)</a>
+<dl><dd><b>Issues</b>:</dd>
+<dd>1. Some categories needs a suffix, or they would have the same name as the original english category. This is mostly the case for languages that use the same or similar letters as other languages.</dd>
+<dd>German &lt;-&gt; english is such a case for example, so the category Engine is called Category:Engine_(Deutsch) in the german version.</dd>
+<dd>Also the root category for every language must contain the language in brakets.</dd>
+<dd>Solution: The word "Category" in other letters (for example in french: Catégorie) must get reconized by the wikimedia software, the same way as for the english version of the word.</dd></dl></dd></dl>
+<h4><span class="mw-headline" id="No_game_or_mod_specific_categories">No game or mod specific categories</span></h4>
+<dl><dd>Wiki categories exist, to help maintain a wiki and give a well structured register to overview the wiki content.</dd>
+<dd>All content that a game or a mod contains must be put in the main- and subpages for that game or mod.</dd>
+<dd>Anything else is just a huge mess and only insane people want to maintain categories filled with that stuff.</dd>
+<dd>All games are in <a rel="nofollow" class="external text" href="https://wiki.minetest.net/Category:Games">Category:Games</a> and all mods are in <a rel="nofollow" class="external text" href="https://wiki.minetest.net/Category:Mods">Category:Mods</a>, no further branching of these categories.</dd></dl>
+<h4><span class="mw-headline" id="Redundant_categories_and_such_with_unclear_names">Redundant categories and such with unclear names</span></h4>
+<dl><dd>I move the content of such categories to other categories, or rename them.</dd></dl>
+<h3><span class="mw-headline" id="A_page_for_the_url_wiki.minetest.net">A page for the url wiki.minetest.net</span></h3>
+<dl><dd>At the moment visitors will be redirected to the english main page.</dd>
+<dd>I suggest not to do that and have a simple page instead, that shows only "Minetest Wiki" and language buttons, that link to the main page in the choosen language.</dd>
+<dd>Heres an example: <a href="/User:Voxel/Test" title="User:Voxel/Test">wiki.minetest.net</a></dd>
+<dd>With this it is possible to have nearly a complete own wiki for each language and more important: language specific pagenames.</dd>
+<dd>So for example the actual german page for games
+<dl><dd>wiki.minetest.net/Games/de -&gt; will change to -&gt; wiki.minetest.net/Spiele (try to navigate there ;D)</dd></dl></dd></dl>
+<h3><span class="mw-headline" id="Participate">Participate</span></h3>
+<dl><dd>I would appreciate any help from other users, who would like to help me with these things, cause it is a lot of work!</dd>
+<dd>When most of the basic work is done, I will post in the different language subforums of forum.minetest.net and ask people to help with that stuff (I can not speak and read all these languages for example).</dd>
+<dd>Also I will create a main topic, to tell the community, that the wiki was renewed and that people should consider to partizipate and contribute in it.</dd></dl>
+<h3><span class="mw-headline" id="Further_Ideas">Further Ideas</span></h3>
+<ul><li>We could "hire" testers, and let them editing the mod and game articles for example, after they tested them.</li>
+<li>Or people who take photos of texture packs or scenes from games.</li>
+<li>Merge the developer wiki into this one, so all wiki stuff is at one place.</li></ul>
+<!-- 
+NewPP limit report
+Cached time: 20230709185744
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.055 seconds
+Real time usage: 0.064 seconds
+Preprocessor visited node count: 63/1000000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 87/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    0.000      1 -total
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:5046-0!canonical and timestamp 20230709185744 and revision id 26311
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=WikiInNeed&amp;oldid=26311">http://wiki.minetest.net/index.php?title=WikiInNeed&amp;oldid=26311</a>"</div>
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=WikiInNeed" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/WikiInNeed" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:WikiInNeed&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/WikiInNeed">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=WikiInNeed&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=WikiInNeed&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/WikiInNeed" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/WikiInNeed" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=WikiInNeed&amp;oldid=26311" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=WikiInNeed&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 23 April 2021, at 07:29.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.055","walltime":"0.064","ppvisitednodes":{"value":63,"limit":1000000},"postexpandincludesize":{"value":0,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":87,"limit":5000000},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20230709185744","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":368});});</script></body></html>

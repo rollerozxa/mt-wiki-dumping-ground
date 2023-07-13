@@ -1,0 +1,533 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Using Blender - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"e0beac8c7ca45a1ac110c3c6","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Using_Blender","wgTitle":"Using Blender","wgCurRevisionId":26996,"wgRevisionId":26996,"wgArticleId":739,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Tutorials","Related software"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Using_Blender","wgRelevantArticleId":739,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Help:Using_Blender",
+"wgInternalRedirectTargetUrl":"/Using_Blender"};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=ext.cite.styles%7Cmediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<link rel="canonical" href="http://wiki.minetest.net/Using_Blender"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Using_Blender rootpage-Using_Blender skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Using Blender</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="mw-redirectedfrom">(Redirected from <a href="/index.php?title=Help:Using_Blender&amp;redirect=no" class="mw-redirect" title="Help:Using Blender">Help:Using Blender</a>)</span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>3D models can be used to change the appearance of <a href="/Player" title="Player">players</a>, <a href="/Node" class="mw-redirect" title="Node">nodes</a>, <a href="/Mobs" title="Mobs">mobs</a> and other <a href="/index.php?title=Entity&amp;action=edit&amp;redlink=1" class="new" title="Entity (page does not exist)">entities</a>.
+</p><p>If you need to create models for your <a href="/Mod" class="mw-redirect" title="Mod">mod</a>, it is recommended that you use <a rel="nofollow" class="external text" href="http://www.blender.org/">Blender</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Engine_considerations"><span class="tocnumber">1</span> <span class="toctext">Engine considerations</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Coordinate_spaces"><span class="tocnumber">1.1</span> <span class="toctext">Coordinate spaces</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Coordinate_scale"><span class="tocnumber">1.2</span> <span class="toctext">Coordinate scale</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Vertex_format"><span class="tocnumber">1.3</span> <span class="toctext">Vertex format</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#File_format_support"><span class="tocnumber">1.4</span> <span class="toctext">File format support</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Picking_a_skinned_mesh_format"><span class="tocnumber">1.5</span> <span class="toctext">Picking a skinned mesh format</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Animation_support"><span class="tocnumber">1.6</span> <span class="toctext">Animation support</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Materials_and_textures"><span class="tocnumber">1.7</span> <span class="toctext">Materials and textures</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Optimizing_your_model_for_network_transfer"><span class="tocnumber">1.8</span> <span class="toctext">Optimizing your model for network transfer</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Working_with_Blender"><span class="tocnumber">2</span> <span class="toctext">Working with Blender</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#Best_practices"><span class="tocnumber">2.1</span> <span class="toctext">Best practices</span></a>
+<ul>
+<li class="toclevel-3 tocsection-12"><a href="#Setting_up_a_reference_scene"><span class="tocnumber">2.1.1</span> <span class="toctext">Setting up a reference scene</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-13"><a href="#Blender_2.80_and_later"><span class="tocnumber">2.2</span> <span class="toctext">Blender 2.80 and later</span></a>
+<ul>
+<li class="toclevel-3 tocsection-14"><a href="#Setting_up_the_3D_view_to_look_correctly"><span class="tocnumber">2.2.1</span> <span class="toctext">Setting up the 3D view to look correctly</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#Create_a_basic_mob_for_testing"><span class="tocnumber">3</span> <span class="toctext">Create a basic mob for testing</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#Making_a_mesh"><span class="tocnumber">4</span> <span class="toctext">Making a mesh</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#Saving_your_work"><span class="tocnumber">5</span> <span class="toctext">Saving your work</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#Texturing"><span class="tocnumber">6</span> <span class="toctext">Texturing</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#Skinning"><span class="tocnumber">7</span> <span class="toctext">Skinning</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#Animation"><span class="tocnumber">8</span> <span class="toctext">Animation</span></a>
+<ul>
+<li class="toclevel-2 tocsection-21"><a href="#Making_an_Action"><span class="tocnumber">8.1</span> <span class="toctext">Making an Action</span></a>
+<ul>
+<li class="toclevel-3 tocsection-22"><a href="#Looping_an_Action"><span class="tocnumber">8.1.1</span> <span class="toctext">Looping an Action</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-23"><a href="#Arranging_Actions_in_NLA_tracks"><span class="tocnumber">8.2</span> <span class="toctext">Arranging Actions in NLA tracks</span></a></li>
+<li class="toclevel-2 tocsection-24"><a href="#Setting_the_animation_range"><span class="tocnumber">8.3</span> <span class="toctext">Setting the animation range</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-25"><a href="#Exporting"><span class="tocnumber">9</span> <span class="toctext">Exporting</span></a>
+<ul>
+<li class="toclevel-2 tocsection-26"><a href="#Exporting_OBJ"><span class="tocnumber">9.1</span> <span class="toctext">Exporting OBJ</span></a></li>
+<li class="toclevel-2 tocsection-27"><a href="#Exporting_B3D"><span class="tocnumber">9.2</span> <span class="toctext">Exporting B3D</span></a>
+<ul>
+<li class="toclevel-3 tocsection-28"><a href="#Installing_the_exporter"><span class="tocnumber">9.2.1</span> <span class="toctext">Installing the exporter</span></a></li>
+<li class="toclevel-3 tocsection-29"><a href="#Importing"><span class="tocnumber">9.2.2</span> <span class="toctext">Importing</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-30"><a href="#Exporting_X"><span class="tocnumber">9.3</span> <span class="toctext">Exporting X</span></a>
+<ul>
+<li class="toclevel-3 tocsection-31"><a href="#Blender_2.79_and_earlier"><span class="tocnumber">9.3.1</span> <span class="toctext">Blender 2.79 and earlier</span></a></li>
+<li class="toclevel-3 tocsection-32"><a href="#Blender_2.80_to_3.0"><span class="tocnumber">9.3.2</span> <span class="toctext">Blender 2.80 to 3.0</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-33"><a href="#Create_or_copy_the_inventory_texture"><span class="tocnumber">10</span> <span class="toctext">Create or copy the inventory texture</span></a></li>
+<li class="toclevel-1 tocsection-34"><a href="#Rendering_the_model"><span class="tocnumber">11</span> <span class="toctext">Rendering the model</span></a></li>
+<li class="toclevel-1 tocsection-35"><a href="#Notes_and_references"><span class="tocnumber">12</span> <span class="toctext">Notes and references</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Engine_considerations">Engine considerations</span></h2>
+<p>Before you begin making artwork for use with Minetest, there are a few things you should know.
+</p>
+<h3><span class="mw-headline" id="Coordinate_spaces">Coordinate spaces</span></h3>
+<p>Minetest uses a Lefthanded Y-up coordinate space. In a space like this:
+</p>
+<ul><li>Z axis points "forward"</li>
+<li>Y axis points "up"</li>
+<li>X axis points "right"</li></ul>
+<p>Blender uses a Righthanded Z-up coordinate space, where forward is instead the positive Y axis.
+Make sure that your models are facing that direction. When in doubt, hit G, Y, 1 - if the model has moved forward, that means it's facing the right axis. Otherwise you'll have to rotate it.
+</p><p>Be sure to select Lefthanded Y-up in the exporter if it supports that, to avoid surprises.
+</p>
+<h3><span class="mw-headline" id="Coordinate_scale">Coordinate scale</span></h3>
+<p>Minetest currently requires a 10x scale applied to entity models.
+If you prefer making your models in a metric scale, you will have to set visual_size of entities to 10x. (Nodes do not require this.)
+Otherwise, model your entities in a scale where 10 units equals one node.
+</p>
+<h3><span class="mw-headline" id="Vertex_format">Vertex format</span></h3>
+<p>Minetest currently uses the following vertex attributes:
+</p>
+<ul><li>Vertex position</li>
+<li>Vertex normals</li>
+<li>One texture coordinate channel</li></ul>
+<h3><span class="mw-headline" id="File_format_support">File format support</span></h3>
+<p>Minetest currently supports the following formats for models:
+</p><p><b>Animated, skinned models:</b>
+</p>
+<ul><li>B3D files (<code>.b3d</code>)</li>
+<li>Microsoft DirectX (<code>.x</code>) (binary &amp; text, compression is not supported)</li></ul>
+<p><b>Static meshes:</b>
+</p>
+<ul><li>OBJ (<code>.obj</code>)
+<ul><li>The sometimes accompanying <code>.mtl</code> files are not supported and can safely be deleted.</li></ul></li></ul>
+<p>Do not use <code>.b3d</code> and <code>.x</code> files for static meshes at the moment, Minetest currently spawns animated mesh scene nodes for these, which may result in reduced performance.
+</p><p><b>Textures:</b>
+</p>
+<ul><li><code>.png</code></li>
+<li><code>.jpg</code></li>
+<li><code>.bmp</code></li>
+<li><code>.tga</code></li></ul>
+<p>Any formats not mentioned above but known to work in the past were removed in 5.5.0 and aren't supported anymore.
+</p>
+<h3><span class="mw-headline" id="Picking_a_skinned_mesh_format">Picking a skinned mesh format</span></h3>
+<p>You have two skinned mesh formats to choose from, and both have their advantages and disadvantages.
+</p>
+<ul><li>B3D
+<ul><li>[+] Binary format means a small size</li>
+<li>[-] Difficult to postprocess after exporting</li>
+<li>[-] Difficult to debug problems</li></ul></li></ul>
+<ul><li>X (text version)
+<ul><li>[+] Can be parsed easily with lua scripts</li>
+<li>[+] Can be easily generated by scripts</li>
+<li>[+] Easy to debug issues (you can just read it)</li>
+<li>[+] Can be optimized by quantizing some data</li>
+<li>[-] Blender exporter is kinda buggy and inefficient</li>
+<li>[-] Probably still bigger than an equivalent .b3d</li></ul></li></ul>
+<p><i>Avoid using the binary X format!</i> It's actually just a tokenized version of the ASCII representation,
+and may actually be less efficient than a sufficiently optimized text .x file!
+</p>
+<h3><span class="mw-headline" id="Animation_support">Animation support</span></h3>
+<p>Animation is currently only supported in the form of playing ranges on a single timeline. Do not attempt to export separate actions, instead use the Nonlinear Animation (NLA) editor to arrange your actions into a single strip for export.
+</p><p>Keyframes are always interpolated linearly in the game.
+</p>
+<h3><span class="mw-headline" id="Materials_and_textures">Materials and textures</span></h3>
+<p>Multiple materials are allowed on all mesh formats that we support. You can assign different textures to each material slot in the lua API, both on nodes and on entities.
+</p><p>Use only one UV coordinate set for your models.
+</p>
+<h3><span class="mw-headline" id="Optimizing_your_model_for_network_transfer">Optimizing your model for network transfer</span></h3>
+<p>Text formats like .obj and the text variant of .x may be optimized by removing unnecessary characters and truncating decimal digits. This will make your mod download much faster when hosted on a server or downloaded from the ContentDB.
+</p>
+<h2><span class="mw-headline" id="Working_with_Blender">Working with Blender</span></h2>
+<h3><span class="mw-headline" id="Best_practices">Best practices</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:266px;"><a href="/File:Blender_LockTransforms.png" class="image"><img alt="" src="/images/c/c2/Blender_LockTransforms.png" decoding="async" width="264" height="362" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Blender_LockTransforms.png" class="internal" title="Enlarge"></a></div>Locking your objects can prevent accidents from happening.</div></div></div>
+<ul><li>Keep your scene free from unnecessary clutter.</li>
+<li>Always give your objects, armature bones and other assets meaningful names.</li>
+<li>Lock the transformations of objects and bones that should not be moving, rotating or scaling.</li>
+<li>Apply all object transforms before exporting. Your armature and meshes should probably all have an identity transform, that is, zero position and rotation and 1.0 scale.</li>
+<li>Use only armature bones to animate the model.</li>
+<li>Keep your animations in Actions and use the NLA editor to arrange them in a strip for exporting.</li>
+<li>Keep your .blend files somewhere close to or inside the mod, but not in the ./models/ folder itself.</li>
+<li>Try to set up your materials and the viewport to resemble how things would look like in the game.</li>
+<li>Reference textures from the mod's ./textures/ folder directly instead of packing them or using different files. This will make it easier to keep your assets synced.</li></ul>
+<h4><span class="mw-headline" id="Setting_up_a_reference_scene">Setting up a reference scene</span></h4>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/File:Blender_LinkedFloor.png" class="image"><img alt="" src="/images/thumb/f/f3/Blender_LinkedFloor.png/300px-Blender_LinkedFloor.png" decoding="async" width="300" height="224" class="thumbimage" srcset="/images/thumb/f/f3/Blender_LinkedFloor.png/450px-Blender_LinkedFloor.png 1.5x, /images/thumb/f/f3/Blender_LinkedFloor.png/600px-Blender_LinkedFloor.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Blender_LinkedFloor.png" class="internal" title="Enlarge"></a></div>A reference environment can help you maintain a sense of scale when making your models.</div></div></div>
+<p>It's a good idea to set up your scene background to resemble a portion of the game world. You can make yourself a reference scene like this and re-use it.
+</p>
+<ol><li>Open a new .blend file for this purpose.</li>
+<li>Arrange some boxes to act as nodes, and map them with the textures of said nodes.
+<ol><li>Make sure that you have a floor where the floor should be to place the mob or character on.</li>
+<li><i>Join</i> meshes together to reduce clutter.</li></ol></li>
+<li>Mark all the objects as unselectable and lock their transforms.</li>
+<li>Save this .blend somewhere.</li>
+<li>Whenever you make a new model, use the <i>File -&gt; Link</i> feature to import this environment.</li>
+<li>The linked objects are still unselectable, so they should not interfere with your work.</li></ol>
+<h3><span class="mw-headline" id="Blender_2.80_and_later">Blender 2.80 and later</span></h3>
+<h4><span class="mw-headline" id="Setting_up_the_3D_view_to_look_correctly">Setting up the 3D view to look correctly</span></h4>
+<ul><li>Use exactly 1 viewport sample in the render properties to make the viewport look more or less how it would look in the game.</li>
+<li>Disable all postprocessing effects.</li>
+<li>In Color Management, use the Standard transform with 1.0 gamma, or a Raw view transform with 2.2 gamma. Do not use curves.</li>
+<li>Use an Emission shader node in the shader editor for unshaded preview.</li></ul>
+<h2><span class="mw-headline" id="Create_a_basic_mob_for_testing">Create a basic mob for testing</span></h2>
+<p>To create a basic mob, copy an animal from <a rel="nofollow" class="external text" href="https://github.com/sapier/animals_modpack">animals_modpack</a>-2.3.6.
+Then in the init.lua you only have to do a search and replace of the name of the animal, and delete any irrelevant code.
+You can edit speed, acceleration, etc as you wish.
+</p>
+<h2><span class="mw-headline" id="Making_a_mesh">Making a mesh</span></h2>
+<ol><li>In the 3D View, use the object mode (dropdown in 3D viewport)</li>
+<li>Add objects (eg 3D Menu → Add → Mesh → Cube)</li>
+<li>Move around by right-clicking to select and dragging arrows.<br /> <b>B</b> box/border select. <b>G</b> grab to move.<br /> Resize or rotate using the properties viewport (has a row of camera, cube, spanner, etc at top)</li>
+<li>Select the cube</li>
+<li>Use rotation and scale to transform objects<br /> [See the hundreds of Blender tutorials for more advanced editing techniques.]</li>
+<li>Create and transform cubes until you have the shape that you want</li>
+<li>Select all the cubes and <i>Join</i> them into one object</li>
+<li>Apply the resulting object's transform and lock it. Your model is now ready.</li></ol>
+<h2><span class="mw-headline" id="Saving_your_work">Saving your work</span></h2>
+<ol><li>Save as a Blender file (Ctrl-S or File → Save)</li>
+<li>Save with the name: yourname.blend (or similar)</li></ol>
+<h2><span class="mw-headline" id="Texturing">Texturing</span></h2>
+<p>When the basic model is completed, you'll need to create a texture.
+</p>
+<ol><li>Switch to Edit Mode
+<ol><li>Mesh/UV Unwrap/Smart UV Project [see one of the many UV Mapping tutorials if you want seams to match, etc]<br />[optional] Set island margin to 0.004 (this leaves a gap between faces, so there will be less risk of bleeding of colour across sharp edges. 0.002 is approx 1 pixel for a 512 pixel image)</li></ol></li>
+<li>Move mouse to the top of the 3D window to get and up/down arrow. Right click/split window and size to 50:50.
+<ol><li>On the R hand new window select the litle cube (3D viewport) icon and switch to UV Map viewport</li>
+<li>LowMenubar:New
+<ol><li>Set name - eg 'yourname UV Map'</li>
+<li>Click UV Test Grid (optional)</li>
+<li>OK (=Save)<br />[if you want to resize the image use a power of 2 (512/1024/etc) for x and y dimensions as it significantly speeds processing]</li></ol></li>
+<li>LowMenubar:Image → Pack as PNG → Accept warning (this ensures you will save a copy of the image within the .blend file (I think in 2.4 this may have to be updated manually, but the tickbox in 2.7 implies is should be saved with the rest of the file)</li>
+<li>Check UV map fits on image - adjust with: <b>G</b> - move, <b>R</b> - rotate, <b>S</b> - scale (menu:UV → Transform)<br />The UV vertices won't always align to pixel boundaries, which means if you don't use 'island margin' above, then painting on one face may also unavoidable paint onto another face. There is reference in the manual to a UV snap-to-pixel option (to align UV vertices to pixel edges) but I haven't figured how to access it yet (and it would only perfectly stop bleed for horizontal or vertically aligned vertices).</li></ol></li>
+<li>In 3D View window
+<ol><li>Switch to Texture Paint (from Edit Mode)</li>
+<li>in the Toolbar set:-
+<ol><li>Brush<br />Select white (should be selected by default)<br />Strength 1.0 (ie 100% replacement of the underlying colour)<br />Radi 500 (or whatever brush radius you want)</li>
+<li>Curve<br />select the square profile if you want a solid colour brush<br />select the 'normal distribution curve' if you want a fading brush<br />(or any other profile you like)</li></ol></li></ol></li>
+<li>UV Map window
+<ol><li>Switch to Paint (from View)</li>
+<li>Paint the entire object white (or some other basecoat). This is easiest to do in UV Map window</li></ol></li>
+<li>In 3D View window
+<ol><li>To paint only particular faces, click the face Menu/faceselect (the cube with grid pattern on the face), you will then be able to select an entire face/s with R click (or shift R-click for multiple faces).</li>
+<li>Change colour, strength, radius, curve… and paint the different parts as you wish – painting in either 3D or UV Mesh windows.<br />NB the colour picker has an eyedropper to copy the colour from within the 3D or UV Map windows – just click on the currently displayed colour (under the colour wheel) to bring it up.</li></ol></li></ol>
+<h2><span class="mw-headline" id="Skinning">Skinning</span></h2>
+<ol><li>Create an armature at the scene's origin.</li>
+<li>Enter <i>Edit Mode</i> and extrude, duplicate and transform the bones to set the skeleton up.</li>
+<li>Select the mesh, then the armature, and parent. Use empty groups, or automatic weights.
+<ol><li>If you used empty groups or need to correct the auto weights, select the mesh and switch to <i>Weight Paint</i> mode and bind vertices to bones by selecting a vertex group and painting the vertices in the 3D view.</li>
+<li>If you need to bind a portion of the mesh rigidly, enter <i>Edit Mode</i> with the mesh selected, and select the vertices that you want to bind. Select the appropriate vertex group in the Properties window. Then, click Remove and then Assign with the weight slider set to 1. Now the vertices will be bound rigidly to that bone only.</li>
+<li>Use <i>Linked Select</i> to quickly select a contiguous region of a mesh.</li></ol></li></ol>
+<h2><span class="mw-headline" id="Animation">Animation</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/File:Blender_AnimLayout.png" class="image"><img alt="" src="/images/thumb/9/96/Blender_AnimLayout.png/300px-Blender_AnimLayout.png" decoding="async" width="300" height="228" class="thumbimage" srcset="/images/thumb/9/96/Blender_AnimLayout.png/450px-Blender_AnimLayout.png 1.5x, /images/thumb/9/96/Blender_AnimLayout.png/600px-Blender_AnimLayout.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Blender_AnimLayout.png" class="internal" title="Enlarge"></a></div>An example window layout for working with animations.</div></div></div>
+<p>When animating, use the <i>Dope Sheet</i> in the <i>Action Editor</i> mode instead of the timeline. Also have a <i>Nonlinear Animation</i> (NLA) window open for arranging and mixing the actions later.
+</p>
+<h3><span class="mw-headline" id="Making_an_Action">Making an Action</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/File:Blender_FakeUser.png" class="image"><img alt="" src="/images/thumb/e/e2/Blender_FakeUser.png/300px-Blender_FakeUser.png" decoding="async" width="300" height="129" class="thumbimage" srcset="/images/e/e2/Blender_FakeUser.png 1.5x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Blender_FakeUser.png" class="internal" title="Enlarge"></a></div>Check this to avoid losing your work.</div></div></div>
+<ol><li>Select your armature and enter the <i>Pose Mode</i>.</li>
+<li>Create a new action by hitting the <i>New</i> button in the action editor.</li>
+<li>Rename your action to something like "Idle" or "Running".</li>
+<li>Click the <i>Fake User</i> icon to make sure this action is not lost when you save and reload the file.</li>
+<li>Scrub to the appropriate time code (frame number) in the dopesheet.</li>
+<li>Select and position a bone or several of them.</li>
+<li>Set a keyframe. The key should appear in the dopesheet window, and a channel will be made for the bone if it doesn't already exist.</li>
+<li>Animate the rest of the bones in this way until the action looks good.</li></ol>
+<p>Be sure to set one keyframe for all bones at the beginning and end frames of the action, otherwise motion may "bleed" between various actions.
+</p>
+<h4><span class="mw-headline" id="Looping_an_Action">Looping an Action</span></h4>
+<div class="thumb tleft"><div class="thumbinner" style="width:302px;"><a href="/File:Blender_CyclicFCurves.png" class="image"><img alt="" src="/images/thumb/7/7e/Blender_CyclicFCurves.png/300px-Blender_CyclicFCurves.png" decoding="async" width="300" height="171" class="thumbimage" srcset="/images/7/7e/Blender_CyclicFCurves.png 1.5x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Blender_CyclicFCurves.png" class="internal" title="Enlarge"></a></div>Apply this modifier to your channels to loop them.</div></div></div>
+<p>A naively created looping animation will visibly slow down and restart with every cycle, even if you use an identical pose for the beginning and end keys.
+</p><p>To make an action loop correctly, you need to add a looping F-curve modifier to all your animation curves (dopesheet channels).
+</p>
+<ol><li>Select all the <b>channels</b> in the dopesheet. Make sure you're selecting channels, not keyframes - hover your cursor over the channel names and hit 'A' once or twice until they all light up.</li>
+<li>Apply the <i>Make Cyclic</i> operator. (Use the search bar!) Your animation should now loop correctly.</li></ol>
+<h3><span class="mw-headline" id="Arranging_Actions_in_NLA_tracks">Arranging Actions in NLA tracks</span></h3>
+<div class="thumb tleft"><div class="thumbinner" style="width:302px;"><a href="/File:Blender_NLA.png" class="image"><img alt="" src="/images/thumb/2/29/Blender_NLA.png/300px-Blender_NLA.png" decoding="async" width="300" height="118" class="thumbimage" srcset="/images/thumb/2/29/Blender_NLA.png/450px-Blender_NLA.png 1.5x, /images/thumb/2/29/Blender_NLA.png/600px-Blender_NLA.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Blender_NLA.png" class="internal" title="Enlarge"></a></div>Mixing actions can save you a lot of time.</div></div></div>
+<p>In order to place an action in a track, you first need to push it down while it is selected.
+</p><p>It is possible to have many tracks and mix different animations by playing them simultaneously, which can save you a lot of work. For example, you can animate hand poses separately from the usual animations and only switch between them in another track. If you want to do this, you will probably want to utilize <i>Keying Sets</i> and <i>Armature Layers</i> to keep bone groups separate.
+</p>
+<h3><span class="mw-headline" id="Setting_the_animation_range">Setting the animation range</span></h3>
+<p>Before you export, you need to make sure that the scene's animation range encompasses all the actions that you wish to export.
+</p><p>You might want to set up some hotkeys so that you can easily do this without having to use the <i>Timeline</i> or <i>Properties</i> windows.
+</p>
+<h2><span class="mw-headline" id="Exporting">Exporting</span></h2>
+<ol><li>Save your scene
+<ol><li>Export as a .b3d or .x file if skinned, or .obj if static</li>
+<li>Save with the name: models/animal_yourname.b3d</li></ol></li>
+<li>Save the texture
+<ol><li>UV Window → Image → Save As Image</li>
+<li>Save with the name: textures/animal_yourname_yourname_mesh.png</li></ol></li></ol>
+<h3><span class="mw-headline" id="Exporting_OBJ">Exporting OBJ</span></h3>
+<p>OBJ file support is built into most known versions of Blender, so just use the provided built-in plugin.
+</p><p>There is no need to write the MTL file as Minetest will not parse it.
+</p>
+<h3><span class="mw-headline" id="Exporting_B3D">Exporting B3D</span></h3>
+<p>The recommended exporter for B3D models is available at <a rel="nofollow" class="external text" href="https://github.com/GreenXenith/io_scene_b3d">io_scene_b3d</a> by GreenXenith<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>. It works on Blender 2.93 and some older versions of 2.X, but most likely not 3.X.
+</p>
+<h4><span class="mw-headline" id="Installing_the_exporter">Installing the exporter</span></h4>
+<ol><li>Download the Blender export script B3DExport.py</li>
+<li>Open Blender</li>
+<li>In Blender open the menu File/User Preferences/Addons. *From here you can press 'Install Add-on from File', navigate to the <code>.py</code> file, and press 'Install'. Now go to File/User Preferences/Addons/Import Export/B3D (Blitz 3D) Model Exporter.</li>
+<li>Tick the box on the left to enable it<br /></li>
+<li>Save User Settings</li>
+<li>Close Preferences Window</li></ol>
+<h4><span class="mw-headline" id="Importing">Importing</span></h4>
+<p>There is no good importer for B3D models that can preserve all the model data. Therefore when making B3D models make sure to also save source .blend files that you keep safe in the repository alongside the model.
+</p>
+<h3><span class="mw-headline" id="Exporting_X">Exporting X</span></h3>
+<h4><span class="mw-headline" id="Blender_2.79_and_earlier">Blender 2.79 and earlier</span></h4>
+<p>Versions of Blender before 2.8 already come with an .x exporter capable of producing text .x files.
+</p>
+<h4><span class="mw-headline" id="Blender_2.80_to_3.0">Blender 2.80 to 3.0</span></h4>
+<p>A version of the exporter updated for 2.8 API changes is hosted here: <a rel="nofollow" class="external text" href="https://github.com/minetest/io_scene_x">io_scene_x</a>
+</p><p>As of 7/2020 this exporter is known to work with Blender 3.0 Alpha
+</p><p>The README.md file in that repository contains instructions on how to deal with coordinate space and attachment problems.
+</p>
+<h2><span class="mw-headline" id="Create_or_copy_the_inventory_texture">Create or copy the inventory texture</span></h2>
+<ul><li>Find or create a nice graphic to be the image in the inventory.</li>
+<li>A flat texture can be created with a 6 sided cube model (eg animal_yourname_yourname.png)</li>
+<li>The inventory image is animal_yourname_yourname_item.png</li></ul>
+<p>(Remember to respect copyright – use screenshots of your model, perhaps with the help of a “green screen” for transparency, if you want a simple free graphic. To turn off the 3D viewport grid floor open the properties menu (+ at top R of window), and untick display/grid floor).
+</p>
+<h2><span class="mw-headline" id="Rendering_the_model">Rendering the model</span></h2>
+<p>If you want to be able to render the model (<b>F12'</b>), you'll first need to do the following steps to enable the texture:
+</p>
+<ol><li>In 3D edit view. Add → Lamp → Hemi. You might need to move this around to adjust lighting direction, but probably not.</li>
+<li>In properties viewpane:-</li>
+<li>Select checkered box tab,
+<ol><li>Change texture type to Image → Movie,</li>
+<li>Click on image dropdown below this and select your UV texture image,</li>
+<li>Under mapping dropdown change coord to UV.</li></ol></li></ol>
+<p>Now, rendering should work…
+</p>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span></h2>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">As mentioned in the forum thread: <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=47&amp;t=24292">Which tools to export animated models?</a></span>
+</li>
+</ol></div>
+<!-- 
+NewPP limit report
+Cached time: 20230711203046
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.184 seconds
+Real time usage: 0.215 seconds
+Preprocessor visited node count: 147/1000000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 463/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    0.000      1 -total
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:739-0!canonical and timestamp 20230711203046 and revision id 26996
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Using_Blender&amp;oldid=26996">http://wiki.minetest.net/index.php?title=Using_Blender&amp;oldid=26996</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Tutorials" title="Category:Tutorials">Tutorials</a></li><li><a href="/Category:Related_software" title="Category:Related software">Related software</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Using+Blender" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Using_Blender" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk"><a href="/Talk:Using_Blender" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Using_Blender">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Using_Blender&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Using_Blender&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Using_Blender" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Using_Blender" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Using_Blender&amp;oldid=26996" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Using_Blender&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 16 December 2022, at 17:24.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.184","walltime":"0.215","ppvisitednodes":{"value":147,"limit":1000000},"postexpandincludesize":{"value":0,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":463,"limit":5000000},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20230711203046","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":328});});</script></body></html>

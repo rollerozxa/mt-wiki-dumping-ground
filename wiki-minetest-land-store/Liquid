@@ -1,0 +1,390 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Liquid - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"65ceaa9e22c9e25beeca7412","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Liquid","wgTitle":"Liquid","wgCurRevisionId":27889,"wgRevisionId":27889,"wgArticleId":654,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages","Liquid","Gameplay"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Liquid","wgRelevantArticleId":654,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":
+"ready","user":"ready","user.options":"loading","mediawiki.page.gallery.styles":"ready","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=ext.cite.styles%7Cmediawiki.page.gallery.styles%7Cmediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Liquid rootpage-Liquid skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Liquid</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> Language:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><b><a class="mw-selflink selflink">English</a></b>&#160;• <bdi lang="de"><a href="/Liquid/de" title="Liquid/de">Deutsch</a></bdi>&#160;• <bdi lang="fr"><a href="/Liquid/fr" title="Liquid/fr">français</a></bdi></td>
+</tr></tbody></table>
+<p><b>Liquids</b> are special dynamic <a href="/Block" class="mw-redirect" title="Block">blocks</a> in Minetest. They behave quite differently than in real life. Liquids like to spread and flow to their surrounding blocks and players can swim and drown in them.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Liquid_forms"><span class="tocnumber">1</span> <span class="toctext">Liquid forms</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Liquid_source"><span class="tocnumber">1.1</span> <span class="toctext">Liquid source</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Flowing_liquid"><span class="tocnumber">1.2</span> <span class="toctext">Flowing liquid</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Liquid_properties"><span class="tocnumber">2</span> <span class="toctext">Liquid properties</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Behaviour"><span class="tocnumber">3</span> <span class="toctext">Behaviour</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Creation_of_liquid_sources"><span class="tocnumber">3.1</span> <span class="toctext">Creation of liquid sources</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Interaction_with_liquids"><span class="tocnumber">4</span> <span class="toctext">Interaction with liquids</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Swimming_and_diving"><span class="tocnumber">4.1</span> <span class="toctext">Swimming and diving</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Pointing_to_liquids"><span class="tocnumber">4.2</span> <span class="toctext">Pointing to liquids</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Liquids_in_Minetest_Game"><span class="tocnumber">5</span> <span class="toctext">Liquids in Minetest Game</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Liquid_forms">Liquid forms</span></h2>
+<p>Liquids usually come in two forms: In source form and in flowing form.
+</p>
+<h3><span class="mw-headline" id="Liquid_source">Liquid source</span></h3>
+<p>Liquid sources have the shape of a full cube. A liquid source will generate flowing liquids around it from time to time, and, if the liquid is renewable, it also generates liquid sources (see below). A liquid source can sustain itself. If no special event happens, a liquid source will keep its place forever and it will never drain out.
+</p>
+<h3><span class="mw-headline" id="Flowing_liquid">Flowing liquid</span></h3>
+<p>Flowing liquids take a “sloped” form and never the shape of a cube. Flowing liquids spread around the map until they drain. A flowing liquid can not sustain itself and always comes from a liquid source, either directly or indirectly. Without a liquid source, a flowing liquid will eventually drain out and disappear.
+</p>
+<h2><span class="mw-headline" id="Liquid_properties">Liquid properties</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:172px;"><a href="/File:Liquid_range_2.png" class="image"><img alt="" src="/images/thumb/2/2d/Liquid_range_2.png/170px-Liquid_range_2.png" decoding="async" width="170" height="169" class="thumbimage" srcset="/images/thumb/2/2d/Liquid_range_2.png/255px-Liquid_range_2.png 1.5x, /images/thumb/2/2d/Liquid_range_2.png/340px-Liquid_range_2.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Liquid_range_2.png" class="internal" title="Enlarge"></a></div>A liquid with a flowing range of 2, viewed from above</div></div></div>
+<p>All liquids share the following properties:
+</p>
+<ul><li><i>All properties of <a href="/Blocks" class="mw-redirect" title="Blocks">blocks</a></i></li>
+<li>Renewability: Renewable liquids can create new sources (see below)</li>
+<li>Flowing range: How many flowing liquids are created at maximum per liquid source, it determines how far the liquid will “spread”. This is a number ranging from 0 to 8. If 0, no flowing liquids are generated at all. Usually, liquids have a flowing range of 8</li>
+<li>Viscosity: How slow <a href="/Player" title="Player">players</a> move through it and how fast new flowing liquids are created (i.e. how fast the liquid spreads)</li>
+<li>Drowning damage: If set, it will a) reduce your <a href="/Player#Breath" title="Player">breath</a> (“bubbles”) while you are inside and b) will cause this amount of damage to you every 2 seconds if you ran out of breath while inside</li></ul>
+<h2><span class="mw-headline" id="Behaviour">Behaviour</span></h2>
+<h3><span class="mw-headline" id="Creation_of_liquid_sources">Creation of liquid sources</span></h3>
+<p>Renewable liquid sources create new liquid sources at open spaces. A new liquid source is created when:
+</p>
+<ul><li>Two renewable liquid blocks of the same type touch each other diagonally</li>
+<li>These blocks are also on the same height</li>
+<li>One of the two “corners” is open space which allows liquids to flow in</li></ul>
+<p>When those criteria are met, the open space is filled with a new liquid source of the same type.
+</p>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 435px"><div style="width: 435px">
+			<div class="thumb" style="width: 430px;"><div style="margin:15px auto;"><a href="/File:Liquid_renewing_part1.png" class="image"><img alt="" src="/images/thumb/5/59/Liquid_renewing_part1.png/350px-Liquid_renewing_part1.png" decoding="async" width="350" height="256" srcset="/images/thumb/5/59/Liquid_renewing_part1.png/525px-Liquid_renewing_part1.png 1.5x, /images/thumb/5/59/Liquid_renewing_part1.png/700px-Liquid_renewing_part1.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p>2 liquid sources (S) touch each other diagonally, but are seperated by solid blocks.
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 435px"><div style="width: 435px">
+			<div class="thumb" style="width: 430px;"><div style="margin:15px auto;"><a href="/File:Liquid_renewing_part2.png" class="image"><img alt="" src="/images/thumb/3/39/Liquid_renewing_part2.png/350px-Liquid_renewing_part2.png" decoding="async" width="350" height="256" srcset="/images/thumb/3/39/Liquid_renewing_part2.png/525px-Liquid_renewing_part2.png 1.5x, /images/thumb/3/39/Liquid_renewing_part2.png/700px-Liquid_renewing_part2.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p>The solid block at the top “corner” has been removed and a completely new liquid source block fills the empty space shortly after.
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 435px"><div style="width: 435px">
+			<div class="thumb" style="width: 430px;"><div style="margin:15px auto;"><a href="/File:Non-renewable_liquid.png" class="image"><img alt="" src="/images/thumb/a/af/Non-renewable_liquid.png/350px-Non-renewable_liquid.png" decoding="async" width="350" height="256" srcset="/images/thumb/a/af/Non-renewable_liquid.png/525px-Non-renewable_liquid.png 1.5x, /images/thumb/a/af/Non-renewable_liquid.png/700px-Non-renewable_liquid.png 2x" /></a></div></div>
+			<div class="gallerytext">
+<p>For comparison, a non-renewable liquid just flows (F) instead.
+</p>
+			</div>
+		</div></li>
+</ul>
+<h2><span class="mw-headline" id="Interaction_with_liquids">Interaction with liquids</span></h2>
+<h3><span class="mw-headline" id="Swimming_and_diving">Swimming and diving</span></h3>
+<p>Swimming in a liquid is fairly straightforward: The usual direction keys for basic movement, the jump key for rising and the sneak key for sinking. Note that the controls are different if the <a href="/Controls#Pitch_move_mode" title="Controls">pitch move mode</a> is enabled.
+</p><p>The physics for swimming and diving in a liquid are, in detail:
+</p>
+<ul><li>Your movement speed in a liquid is determined by its viscosity</li>
+<li>If you don't do anything in a liquid, you will slowly sink</li>
+<li>There is no fall damage for falling into a liquid as such</li>
+<li>If you fall from a great height into a liquid, you will be slowed down on impact (but you don't come instantly to a halt). Depending on your speed, you might end up deep in the liquid. The slow-down effect is much stronger for liquids with a high viscosity. For a safe high drop into a liquid, you need to make sure there is enough liquid above the ground, otherwise you might still suffer fall damage by hitting the ground.</li>
+<li>Liquids may cause breath loss and drowning damage (see above)</li></ul>
+<h3><span class="mw-headline" id="Pointing_to_liquids">Pointing to liquids</span></h3>
+<p>Liquids are usually not <a href="/Pointing" title="Pointing">pointable</a>. However, all liquids can be pointed by special items. In <a href="/Games/Minetest_Game" title="Games/Minetest Game">Minetest Game</a>, one example is the <a href="/Bucket" title="Bucket">bucket</a>. For a full list of items which are able to point to liquids, see <a href="/Category:Liquid_pointers" title="Category:Liquid pointers">Category:Liquid pointers</a>.
+</p>
+<h2><span class="mw-headline" id="Liquids_in_Minetest_Game">Liquids in <a href="/Games/Minetest_Game" title="Games/Minetest Game">Minetest Game</a></span></h2>
+<p>The following liquids exist in Minetest Game:
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>
+</th>
+<th>Liquid
+</th>
+<th>Renewable<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</th>
+<th>Flowing range
+</th>
+<th>Viscosity
+</th>
+<th>Drowning damage
+</th></tr>
+<tr>
+<td><a href="/File:Water.png" class="image"><img alt="Water.png" src="/images/thumb/9/9d/Water.png/32px-Water.png" decoding="async" width="32" height="32" srcset="/images/thumb/9/9d/Water.png/48px-Water.png 1.5x, /images/thumb/9/9d/Water.png/64px-Water.png 2x" /></a></td>
+<td><a href="/Water" title="Water">Water</a>
+</td>
+<td>Yes
+</td>
+<td>8
+</td>
+<td>1
+</td>
+<td><a href="/File:Half_heart.png" class="image"><img alt="Half heart.png" src="/images/thumb/9/92/Half_heart.png/16px-Half_heart.png" decoding="async" width="16" height="16" srcset="/images/thumb/9/92/Half_heart.png/24px-Half_heart.png 1.5x, /images/thumb/9/92/Half_heart.png/32px-Half_heart.png 2x" /></a>
+</td></tr>
+<tr>
+<td><a href="/File:River_Water.png" class="image"><img alt="River Water.png" src="/images/thumb/b/b2/River_Water.png/32px-River_Water.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/b2/River_Water.png/48px-River_Water.png 1.5x, /images/thumb/b/b2/River_Water.png/64px-River_Water.png 2x" /></a></td>
+<td><a href="/River_Water" title="River Water">River Water</a>
+</td>
+<td>No<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</td>
+<td>2
+</td>
+<td>1
+</td>
+<td><a href="/File:Half_heart.png" class="image"><img alt="Half heart.png" src="/images/thumb/9/92/Half_heart.png/16px-Half_heart.png" decoding="async" width="16" height="16" srcset="/images/thumb/9/92/Half_heart.png/24px-Half_heart.png 1.5x, /images/thumb/9/92/Half_heart.png/32px-Half_heart.png 2x" /></a>
+</td></tr>
+<tr>
+<td><a href="/File:Lava.png" class="image"><img alt="Lava.png" src="/images/thumb/2/27/Lava.png/32px-Lava.png" decoding="async" width="32" height="32" srcset="/images/thumb/2/27/Lava.png/48px-Lava.png 1.5x, /images/thumb/2/27/Lava.png/64px-Lava.png 2x" /></a></td>
+<td><a href="/Lava" title="Lava">Lava</a>
+</td>
+<td>No
+</td>
+<td>8
+</td>
+<td>7
+</td>
+<td><a href="/File:Half_heart.png" class="image"><img alt="Half heart.png" src="/images/thumb/9/92/Half_heart.png/16px-Half_heart.png" decoding="async" width="16" height="16" srcset="/images/thumb/9/92/Half_heart.png/24px-Half_heart.png 1.5x, /images/thumb/9/92/Half_heart.png/32px-Half_heart.png 2x" /></a>
+</td></tr>
+</tbody></table>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Renewable according to the method explained above</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Note that river water can be renewed by a different method, however</span>
+</li>
+</ol></div>
+<p>Quick facts:
+</p>
+<ul><li>Liquids can be collected by a <a href="/Bucket" title="Bucket">bucket</a>.</li>
+<li>Liquids can flow into and destroy <a href="/Snow" title="Snow">snow</a>.</li>
+<li>Lava will be cooled into <a href="/Obsidian" title="Obsidian">obsidian</a> or <a href="/Stone" title="Stone">stone</a> by <a href="/Water" title="Water">water</a>, <a href="/River_Water" title="River Water">river water</a>, and <a href="/Category:Cools_lava" title="Category:Cools lava">other blocks</a>.</li></ul>
+<!-- 
+NewPP limit report
+Cached time: 20230708184156
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.297 seconds
+Real time usage: 0.553 seconds
+Preprocessor visited node count: 146/1000000
+Post‐expand include size: 1589/2097152 bytes
+Template argument size: 245/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 14/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 2693/5000000 bytes
+Lua time usage: 0.140/7 seconds
+Lua virtual size: 5.66 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  426.706      1 -total
+ 72.40%  308.921      1 Template:Languages
+ 14.00%   59.726      3 Template:Heart
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:654-0!canonical and timestamp 20230708184156 and revision id 27889
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Liquid&amp;oldid=27889">http://wiki.minetest.net/index.php?title=Liquid&amp;oldid=27889</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li><li><a href="/Category:Liquid" title="Category:Liquid">Liquid</a></li><li><a href="/Category:Gameplay" title="Category:Gameplay">Gameplay</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Liquid" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Liquid" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Liquid&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Liquid">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Liquid&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Liquid&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Liquid" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Liquid" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Liquid&amp;oldid=27889" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Liquid&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 15 June 2023, at 14:02.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.297","walltime":"0.553","ppvisitednodes":{"value":146,"limit":1000000},"postexpandincludesize":{"value":1589,"limit":2097152},"templateargumentsize":{"value":245,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":14,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":2693,"limit":5000000},"timingprofile":["100.00%  426.706      1 -total"," 72.40%  308.921      1 Template:Languages"," 14.00%   59.726      3 Template:Heart"]},"scribunto":{"limitreport-timeusage":{"value":"0.140","limit":"7"},"limitreport-virtmemusage":{"value":5931008,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230708184156","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":326});});</script></body></html>

@@ -1,0 +1,376 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>MinetestEDU/Mod-Overview - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"37e5fb50bac58df63bf5657a","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"MinetestEDU/Mod-Overview","wgTitle":"MinetestEDU/Mod-Overview","wgCurRevisionId":25240,"wgRevisionId":25240,"wgArticleId":3759,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Education"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"MinetestEDU/Mod-Overview","wgRelevantArticleId":3759,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready",
+"noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-MinetestEDU_Mod-Overview rootpage-MinetestEDU skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">MinetestEDU/Mod-Overview</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/MinetestEDU" title="MinetestEDU">MinetestEDU</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>How to install mods and mini-games is explained on separate pages. See:
+</p>
+<ul><li>Install Mod locally</li>
+<li>Install Mod on server</li>
+<li>Install a mini-game</li></ul>
+<p><br />
+</p>
+<table style="margin: 0 auto 1em; text-align: justify; border-collapse: collapse; border-width: 1px; border-style: dashed; width: 100%; clear: both; border-color:#48d; background:#fbfcff;">
+<tbody><tr>
+<td style="border: none; padding: 2px 0 2px 0.9em; text-align: center;">
+ <img alt="Mbox information.png" src="/images/thumb/f/fc/Mbox_information.png/25px-Mbox_information.png" decoding="async" width="25" height="25" srcset="/images/thumb/f/fc/Mbox_information.png/38px-Mbox_information.png 1.5x, /images/thumb/f/fc/Mbox_information.png/50px-Mbox_information.png 2x" /></td>
+<td style="border: none; padding: 0.25em 0.9em; width: 100%;"><b>Important for many mods:</b> you can only use some of the functions if you have the right to do so. Which permissions are needed for a mod should be found in the documentation of the mod. 
+<ul><li>About rights/privileges (also on servers) in general:<a href="/Privileges" title="Privileges">Privileges</a></li>
+<li>How to assign permissions to new players automatically: see ... )</li>
+<li>How to give Minetest players particular rights: <a href="/Server_commands#Privilege_manipulation" title="Server commands">Giving and removing privileges</a></li></ul></td>
+</tr></tbody></table>
+<p><br />
+</p>
+<div style="border: 2px solid #cc0000; align:center; padding:4px;">
+<p>I was thinking of presenting the mods a little bit differently here, depending on the type and size.
+</p>
+<ul><li>On this page I always wanted to introduce the mods very briefly to explain what it's all about.</li>
+<li>For extensive mods, an extra page makes sense, on which you can put more detailed instructions.</li>
+<li>For many similar mods <i>(as with the new block types)'</i> there is usually no need for instructions, but since there are so many of them, I wanted to create a subpage where the mods (instead of the start page) are introduced individually. Here the presentation could be a bit more extensive, for example, by listing what important contents the Mods offer.</li>
+<li>If the mods already have tutorials or similar pages, you can link to this page.</li></ul>
+</div>
+<p><b>NEED TO BE TRANSLATED SOON!!!!</b>
+</p><p><br />
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Grundlegendes_im_Spiel"><span class="tocnumber">1</span> <span class="toctext">Grundlegendes im Spiel</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Aussehen_der_Spielfigur_.C3.A4ndern"><span class="tocnumber">2</span> <span class="toctext">Aussehen der Spielfigur ändern</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Werkzeuge_um_Sch.C3.BCler_auf_einem_gemeinsamen_Server_zu_kontrollieren"><span class="tocnumber">3</span> <span class="toctext">Werkzeuge um Schüler auf einem gemeinsamen Server zu kontrollieren</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Werkzeuge_f.C3.BCr_den_Adminstrator_um_die_Welt_vorzubereiten"><span class="tocnumber">4</span> <span class="toctext">Werkzeuge für den Adminstrator um die Welt vorzubereiten</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Absicherung_von_Bereichen_auf_einem_Server_gegen_Zerst.C3.B6rung"><span class="tocnumber">5</span> <span class="toctext">Absicherung von Bereichen auf einem Server gegen Zerstörung</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Innformationen_und_Anweisungen_f.C3.BCr_die_Spieler_ver.C3.B6ffentlichen"><span class="tocnumber">6</span> <span class="toctext">Innformationen und Anweisungen für die Spieler veröffentlichen</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Neue_Bl.C3.B6cke"><span class="tocnumber">7</span> <span class="toctext">Neue Blöcke</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Mapgen_Mods_die_das_Aussehen_der_Umgebeung_w.C3.A4rhend_der_Karten-Erstellung_manipulieren"><span class="tocnumber">8</span> <span class="toctext">Mapgen Mods die das Aussehen der Umgebeung wärhend der Karten-Erstellung manipulieren</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Mobs_auf_die_Karte_bringen"><span class="tocnumber">9</span> <span class="toctext">Mobs auf die Karte bringen</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Neue_Pflanzen.2C_Lebensmittel_und_B.C3.A4ume"><span class="tocnumber">10</span> <span class="toctext">Neue Pflanzen, Lebensmittel und Bäume</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Technologie_und_Programmierung"><span class="tocnumber">11</span> <span class="toctext">Technologie und Programmierung</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Stra.C3.9Fen.2C_Fahrzeuge_und_Transport-M.C3.B6glichkeiten"><span class="tocnumber">12</span> <span class="toctext">Straßen, Fahrzeuge und Transport-Möglichkeiten</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Praktisch_f.C3.BCr_den_Spieler"><span class="tocnumber">13</span> <span class="toctext">Praktisch für den Spieler</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Please_move"><span class="tocnumber">14</span> <span class="toctext">Please move</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Grundlegendes_im_Spiel">Grundlegendes im Spiel</span></h2>
+<p><b>Änderung des Inventars</b> 
+</p>
+<ul><li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?t=3933">unified_inventory</a> ... <i>Dieses Mod <b>Unified Inventory</b> erweitert das normale Inventar und bietet eine ganz neue Oberfläche des Inventars mit vielen Zusatzfunktionen an, die von Spielern als praktisch empfunden werden. Es wird als Grundlage von vielen anderen Mods genutzt, indem sie dort Zusatzknöpfe integrieren.</i></li>
+<li>Smart inventory</li></ul>
+<p><b>Änderung des Spiel-Modus</b>
+</p>
+<table style="margin: 0 auto 1em; text-align: justify; border-collapse: collapse; border-width: 1px; border-style: dashed; width: 100%; clear: both; border-color:#48d; background:#fbfcff;">
+<tbody><tr>
+<td style="border: none; padding: 2px 0 2px 0.9em; text-align: center;">
+ <img alt="Mbox information.png" src="/images/thumb/f/fc/Mbox_information.png/25px-Mbox_information.png" decoding="async" width="25" height="25" srcset="/images/thumb/f/fc/Mbox_information.png/38px-Mbox_information.png 1.5x, /images/thumb/f/fc/Mbox_information.png/50px-Mbox_information.png 2x" /></td>
+<td style="border: none; padding: 0.25em 0.9em; width: 100%;">'<i>TIPP:<b> "</b></i><b> TIP:'</b> Via the file<i> minetst. conf</i> you normally define which game mode the server is running (see....). As an admin you can give yourself and other players on a server the right "creative" in survival mode. So you can take as many blocks as you like. However, dismantling is not as easy as in Creative mode. But I can take the best tools to make this easier.</td>
+</tr></tbody></table>
+<ul><li><a rel="nofollow" class="external text" href="https://github.com/MT-Eurythmia/pvpplus">pvpplus</a> ... <i>The Mod <b>PVP-Plus</b> can be used to create a server, .... bei denen nicht dauerhaft PVP aktiviert haben muss. Spieler können selber bestimmen, ob sie PVP erlauben wollen, ob sie also etwa mit einem Mitspieler um ihr "Leben" kämpfen wollen. </i></li></ul>
+<h2><span id="Aussehen_der_Spielfigur_ändern"></span><span class="mw-headline" id="Aussehen_der_Spielfigur_.C3.A4ndern">Aussehen der Spielfigur ändern</span></h2>
+<p>In der aktuellen Version 0.4.16 ist es so, dass alle Spieler auf einem Server gleich aussehen. Das Aussehen ist für den Client <i>(also für den einzelnen Spieler)</i> durch eine Datei im Minetest-Verzeichnis festgelegt. Es gibt Mods, mit denen man ein eigenes Aussehen wählen, damit man so die Spieler besser unterscheiden kann.
+</p>
+<ul><li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?t=8816">u_skins</a> ... <i>Das Mod <b>Unified_Inventory Skins [u_skins]</b> ist eine Ergänzung zum Mod "Unified Inventory" (siehe oben) und dieses Mod muss ebenfalls installiert werden. Dann man man im Inventar einen Knopf nutzen, um einen Skin für sich auszuwählen. Dabei wird eine große Auswahl vorgeben. Man kann diese Auswahl auch ändern, aber dazu müsste man den Code und Dateien ergänzen. Generell aber machbar! </i></li>
+<li class="mw-empty-elt"></li></ul>
+<h2><span id="Werkzeuge_um_Schüler_auf_einem_gemeinsamen_Server_zu_kontrollieren"></span><span class="mw-headline" id="Werkzeuge_um_Sch.C3.BCler_auf_einem_gemeinsamen_Server_zu_kontrollieren">Werkzeuge um Schüler auf einem gemeinsamen Server zu kontrollieren</span></h2>
+<ul><li>EDUTest
+<ul><li><a rel="nofollow" class="external text" href="https://github.com/apienk/minetest-edutest-ui">minetest-edutest-ui on GitHub</a> by apienk</li></ul></li>
+<li>...</li></ul>
+<p><br />
+</p>
+<h2><span id="Werkzeuge_für_den_Adminstrator_um_die_Welt_vorzubereiten"></span><span class="mw-headline" id="Werkzeuge_f.C3.BCr_den_Adminstrator_um_die_Welt_vorzubereiten">Werkzeuge für den Adminstrator um die Welt vorzubereiten</span></h2>
+<ul><li><a href="/MinetestEDU/de/Mod-%C3%9Cbersicht/World-Edit" title="MinetestEDU/de/Mod-Übersicht/World-Edit">World-Edit</a> <i>Dies ist ein Mod, der im wesentlichen dem gleichnamigen in Minecraft entspricht. Man kann in kurzer Zeit viele Steine in einem Bereich auf einmal verändern und muss es nicht Block-für-Block machen. Genaue Anleitungen auf der Unterseite.</i></li>
+<li><a href="/MinetestEDU/de/Mod-%C3%9Cbersicht/World-Edit#Einf.C3.BCgen_und_Speichern_von_schematics_mit_.22handle-schematics.22" title="MinetestEDU/de/Mod-Übersicht/World-Edit">Handle-Schematics</a> <i>Es ist ein eigenständiges Mod, das aber zu World-Edit dazugehört. Es ermöglicht das einigermaßen komfortable Arbeiten mit Schematics, was ein Art Ausschnitt einer Welt ist. So kann man auch Bereiche aus einer Welt kopieren und in eine andere einfügen.</i></li></ul>
+<h2><span id="Absicherung_von_Bereichen_auf_einem_Server_gegen_Zerstörung"></span><span class="mw-headline" id="Absicherung_von_Bereichen_auf_einem_Server_gegen_Zerst.C3.B6rung">Absicherung von Bereichen auf einem Server gegen Zerstörung</span></h2>
+<p><b>Gebiete in einer Welt schützen, so dass nicht jeder dort bauen/abbauen kann:</b> 
+</p>
+<ul><li><a href="/MinetestEDU/de/Mod-%C3%9Cbersicht/Areas_und_Markers" title="MinetestEDU/de/Mod-Übersicht/Areas und Markers">Areas und Markers</a> ... <i>Diese zwei Mods gehören zusammen, wobei man areas auch alleine nutzen kann. Markers bietet für das Mod areas eine Benutzungsmöglichkeit ohne Textbefehle nut Markierungsstangen, die auch eine sinnvolle Sicherung für einzelne Spieler ohne Admin-Recht bietet.</i></li>
+<li class="mw-empty-elt"></li>
+<li class="mw-empty-elt"></li></ul>
+<p><b>Truhen gegen Zugriff schützen:</b>
+</p>
+<ul><li class="mw-empty-elt"></li></ul>
+<p><b>Den Zugriff zum Server etwas kontrollieren/erschweren</b>
+</p>
+<ul><li class="mw-empty-elt"></li>
+<li><i><b>HINT:</b> You can avoid that everyone has access to the server by changing the the server settings. See ...</i></li></ul>
+<h2><span id="Innformationen_und_Anweisungen_für_die_Spieler_veröffentlichen"></span><span class="mw-headline" id="Innformationen_und_Anweisungen_f.C3.BCr_die_Spieler_ver.C3.B6ffentlichen">Innformationen und Anweisungen für die Spieler veröffentlichen</span></h2>
+<p>Als grundlegende Möglichkeit gibt im Spiel zwei Möglichkeiten dem Spieler Informationen zukommen zu lassen: Über Schilder, die aber nicht sehr praktisch sind, und über das "Motto des Tages" <i>(siehe Server-Einstellungen)</i>. Inzwischen gibt es aber schon zahlreiche Mods, die hier Alternativen anbieten.
+</p><p><b>Schilder</b>
+</p>
+<ul><li class="mw-empty-elt"></li></ul>
+<p><b>Bücher, Wikis, ...</b> 
+</p>
+<ul><li class="mw-empty-elt"></li></ul>
+<p>Server-Mail
+</p>
+<ul><li class="mw-empty-elt"></li></ul>
+<h2><span id="Neue_Blöcke"></span><span class="mw-headline" id="Neue_Bl.C3.B6cke">Neue Blöcke</span></h2>
+<p>Das Erstellen von neuen Blöcken/Gegenständen/... in Minetest ist mit Hilfe Mods extrem einfach. Hier eine Auswahl:
+</p>
+<ul><li>Standard-Blöcke aus neuem Material</li>
+<li>Blöcke, die zu einem bestimmten historischen Thema/Zeitalter passen</li>
+<li>Alle Arten von Glas (farbig, dekoriert, ...)</li>
+<li>Einrichtungen und Dekorationen</li>
+<li>Spezielle thematische Mods, wie Industrie, Kirche, ...</li></ul>
+<h2><span id="Mapgen_Mods_die_das_Aussehen_der_Umgebeung_wärhend_der_Karten-Erstellung_manipulieren"></span><span class="mw-headline" id="Mapgen_Mods_die_das_Aussehen_der_Umgebeung_w.C3.A4rhend_der_Karten-Erstellung_manipulieren">Mapgen Mods die das Aussehen der Umgebeung wärhend der Karten-Erstellung manipulieren</span></h2>
+<h2><span class="mw-headline" id="Mobs_auf_die_Karte_bringen">Mobs auf die Karte bringen</span></h2>
+<h2><span id="Neue_Pflanzen,_Lebensmittel_und_Bäume"></span><span class="mw-headline" id="Neue_Pflanzen.2C_Lebensmittel_und_B.C3.A4ume">Neue Pflanzen, Lebensmittel und Bäume</span></h2>
+<h2><span class="mw-headline" id="Technologie_und_Programmierung">Technologie und Programmierung</span></h2>
+<ul><li>Mesecons</li>
+<li class="mw-empty-elt"></li></ul>
+<h2><span id="Straßen,_Fahrzeuge_und_Transport-Möglichkeiten"></span><span class="mw-headline" id="Stra.C3.9Fen.2C_Fahrzeuge_und_Transport-M.C3.B6glichkeiten">Straßen, Fahrzeuge und Transport-Möglichkeiten</span></h2>
+<ul><li>Streets</li>
+<li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?t=4877">travelnet teleporters/bookmarks</a> ... <i>Das Mod bieten zwei Arten von Transport-Kästen, mit denen Spieler von einem zum anderen (festgelegten) Ort transportiert werden können. Die Travelnet-Box ist flexibel und ermöglicht Transport zu allen Orten, wo eine andere Travelnet-Box steht. Außerdem gibt es Fahrstühle, die nur einen Transport hoch- und runter ermöglichen. Die Bedienung ist für andere Benutzer sehr einfach.</i></li>
+<li>POI</li>
+<li>Fahrzeuge: Autos aller Art, Flugmaschinen</li></ul>
+<table style="margin: 0 auto 1em; text-align: justify; border-collapse: collapse; border-width: 1px; border-style: dashed; width: 100%; clear: both; border-color:#48d; background:#fbfcff;">
+<tbody><tr>
+<td style="border: none; padding: 2px 0 2px 0.9em; text-align: center;">
+ <img alt="Mbox information.png" src="/images/thumb/f/fc/Mbox_information.png/25px-Mbox_information.png" decoding="async" width="25" height="25" srcset="/images/thumb/f/fc/Mbox_information.png/38px-Mbox_information.png 1.5x, /images/thumb/f/fc/Mbox_information.png/50px-Mbox_information.png 2x" /></td>
+<td style="border: none; padding: 0.25em 0.9em; width: 100%;"><b>TIPP</b> Teleportieren kann man auch mit Hilfe eines Komanndo-Block in Kombination mit einigen Mesecon-Objekten. Siehe ...</td>
+</tr></tbody></table>
+<h2><span id="Praktisch_für_den_Spieler"></span><span class="mw-headline" id="Praktisch_f.C3.BCr_den_Spieler">Praktisch für den Spieler</span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?t=17812">Tower Crane</a> ... <i>meist haben die einfachen Spieler auf einem Server keine Flugrechte. Daher muss man sich Rampen bauen, um auf ein Bauwerk zu kommen. Dieses Mod bietet eine Möglichkeit, in einem begrenzten Bereich herumfliegen zu können, indem man sich einen Kran baut und dann in seiner Reicheweite scheinbar fliegen kann.</i> - <a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=lOK78oSXKZw">Mod-Review bei YouTube</a></li></ul>
+<h2><span class="mw-headline" id="Please_move">Please move</span></h2>
+<ul><li>Protection</li></ul>
+<p>Small mods:
+</p>
+<ul><li>shop</li>
+<li>letter - lettercutter</li>
+<li>crafting-guide</li></ul>
+<p>Bigger Mods containing many new blocks and functionallity:
+</p>
+<ul><li><a href="/Mods/xdecor" title="Mods/xdecor">xdecor</a> (small) - furniture &amp; decorations, workbench, signs ...</li>
+<li>homedecor (big) - lots of furniture &amp; decorations</li></ul>
+<ul><li>darkage    - pre-industrial items and builting-materials</li>
+<li>moreblocks - more stairs and slopes</li>
+<li>moreore    - tin, silver, mithril</li></ul>
+<ul><li>farming / <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=11&amp;t=9019">farming-redo</a> - more plants &amp; foods (e.g. potatoes &amp; baked potatoes ...)</li>
+<li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=11&amp;t=9917">mobs-redo</a>
+<ul><li>mobs-animals (sheep, chickens, cow, wolf... mostly peaceful)</li>
+<li>mobs-monsters</li></ul></li></ul>
+<ul><li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=11&amp;t=14726">Trains</a></li>
+<li>Mesecons</li>
+<li>Technic</li></ul>
+<!-- 
+NewPP limit report
+Cached time: 20230709182202
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.116 seconds
+Real time usage: 0.261 seconds
+Preprocessor visited node count: 202/1000000
+Post‐expand include size: 3689/2097152 bytes
+Template argument size: 1703/2097152 bytes
+Highest expansion depth: 6/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   34.913      1 -total
+ 61.07%   21.323      3 Template:Mbox
+ 34.68%   12.108      1 Template:Redbox
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:3759-0!canonical and timestamp 20230709182202 and revision id 25240
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=MinetestEDU/Mod-Overview&amp;oldid=25240">http://wiki.minetest.net/index.php?title=MinetestEDU/Mod-Overview&amp;oldid=25240</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/Category:Education" title="Category:Education">Education</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=MinetestEDU%2FMod-Overview" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/MinetestEDU/Mod-Overview" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:MinetestEDU/Mod-Overview&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/MinetestEDU/Mod-Overview">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=MinetestEDU/Mod-Overview&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=MinetestEDU/Mod-Overview&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/MinetestEDU/Mod-Overview" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/MinetestEDU/Mod-Overview" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=MinetestEDU/Mod-Overview&amp;oldid=25240" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=MinetestEDU/Mod-Overview&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 9 April 2021, at 01:39.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.116","walltime":"0.261","ppvisitednodes":{"value":202,"limit":1000000},"postexpandincludesize":{"value":3689,"limit":2097152},"templateargumentsize":{"value":1703,"limit":2097152},"expansiondepth":{"value":6,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%   34.913      1 -total"," 61.07%   21.323      3 Template:Mbox"," 34.68%   12.108      1 Template:Redbox"]},"cachereport":{"timestamp":"20230709182202","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":735});});</script></body></html>

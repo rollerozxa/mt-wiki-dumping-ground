@@ -1,0 +1,463 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Map Generator Evolution - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"1e38c8c02ffd9b86cfa41e67","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Map_Generator_Evolution","wgTitle":"Map Generator Evolution","wgCurRevisionId":25409,"wgRevisionId":25409,"wgArticleId":408,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages","Map"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Map_Generator_Evolution","wgRelevantArticleId":408,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":
+"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","mediawiki.page.gallery.styles":"ready","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.page.gallery.styles%7Cmediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Map_Generator_Evolution rootpage-Map_Generator_Evolution skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Map Generator Evolution</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> Language:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><b><a class="mw-selflink selflink">English</a></b>&#160;• <bdi lang="ms"><a href="/Map_Generator_Evolution/ms" title="Map Generator Evolution/ms">Bahasa Melayu</a></bdi></td>
+</tr></tbody></table>
+<p>This article shows the development history of the <a href="/Map_generator" title="Map generator">map generators</a> in Minetest.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Development_of_a_single_map_generator"><span class="tocnumber">1</span> <span class="toctext">Development of a single map generator</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_development"><span class="tocnumber">1.1</span> <span class="toctext">Early development</span></a>
+<ul>
+<li class="toclevel-3 tocsection-3"><a href="#minetest-c55-101010000530"><span class="tocnumber">1.1.1</span> <span class="toctext">minetest-c55-101010000530</span></a></li>
+<li class="toclevel-3 tocsection-4"><a href="#minetest-c55-101017205222"><span class="tocnumber">1.1.2</span> <span class="toctext">minetest-c55-101017205222</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#minetest-c55-101024231736"><span class="tocnumber">1.1.3</span> <span class="toctext">minetest-c55-101024231736</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#minetest-c55-101101170627_.28and_later.29"><span class="tocnumber">1.1.4</span> <span class="toctext">minetest-c55-101101170627 (and later)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-7"><a href="#Version_1"><span class="tocnumber">1.2</span> <span class="toctext">Version 1</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Version_2_dev3"><span class="tocnumber">1.3</span> <span class="toctext">Version 2 dev3</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Version_2_dev4"><span class="tocnumber">1.4</span> <span class="toctext">Version 2 dev4</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Version_2"><span class="tocnumber">1.5</span> <span class="toctext">Version 2</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Version_3_.223d_noise.22"><span class="tocnumber">1.6</span> <span class="toctext">Version 3 "3d noise"</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Version_4"><span class="tocnumber">1.7</span> <span class="toctext">Version 4</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Version_5"><span class="tocnumber">1.8</span> <span class="toctext">Version 5</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Version_6"><span class="tocnumber">1.9</span> <span class="toctext">Version 6</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#Development_of_multiple_map_generators"><span class="tocnumber">2</span> <span class="toctext">Development of multiple map generators</span></a>
+<ul>
+<li class="toclevel-2 tocsection-16"><a href="#v6"><span class="tocnumber">2.1</span> <span class="toctext">v6</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#singlenode"><span class="tocnumber">2.2</span> <span class="toctext">singlenode</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#indev"><span class="tocnumber">2.3</span> <span class="toctext">indev</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#v7"><span class="tocnumber">2.4</span> <span class="toctext">v7</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#math"><span class="tocnumber">2.5</span> <span class="toctext">math</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#v5"><span class="tocnumber">2.6</span> <span class="toctext">v5</span></a></li>
+<li class="toclevel-2 tocsection-22"><a href="#fractal"><span class="tocnumber">2.7</span> <span class="toctext">fractal</span></a></li>
+<li class="toclevel-2 tocsection-23"><a href="#flat"><span class="tocnumber">2.8</span> <span class="toctext">flat</span></a></li>
+<li class="toclevel-2 tocsection-24"><a href="#valleys"><span class="tocnumber">2.9</span> <span class="toctext">valleys</span></a></li>
+<li class="toclevel-2 tocsection-25"><a href="#carpathian"><span class="tocnumber">2.10</span> <span class="toctext">carpathian</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-26"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Development_of_a_single_map_generator">Development of a single map generator</span></h2>
+<p>Initially, Minetest (then called “Minetest-c55”) had only one map generator which was continously improved and had its own version number, where each version replaced the previous one. The earliest map generators are based on 2D Perlin noise.
+</p>
+<h3><span class="mw-headline" id="Early_development">Early development</span></h3>
+<p>Also dubbed “Version 0”, this section summarizes the earliest map generator experiments before the release of the first official map generator.
+</p>
+<h4><span class="mw-headline" id="minetest-c55-101010000530">minetest-c55-101010000530</span></h4>
+<div class="thumb tright"><div class="thumbinner" style="width:642px;"><a href="/File:First_mapgen.png" class="image"><img alt="" src="/images/0/0d/First_mapgen.png" decoding="async" width="640" height="480" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:First_mapgen.png" class="internal" title="Enlarge"></a></div>The first mapgen</div></div></div>
+<p>In the very first known version of Minetest-c55, there was just flat terrain made out of grass blocks with <a href="/Stone" title="Stone">stone</a> pyramids on top. There were a few holes. There were no other blocks or caves. The terrain was always the same.
+</p>
+<div style="clear:both"></div>
+<h4><span class="mw-headline" id="minetest-c55-101017205222">minetest-c55-101017205222</span></h4>
+<div class="thumb tright"><div class="thumbinner" style="width:599px;"><a href="/File:Earliest_terrain.png" class="image"><img alt="" src="/images/1/10/Earliest_terrain.png" decoding="async" width="597" height="450" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Earliest_terrain.png" class="internal" title="Enlarge"></a></div>Undefinable terrain</div></div></div>
+<p>The terrain was no longer flat and the pyramids are gone. The terrain generation was horrible, but at least terrain could be generated. It consisted of grass blocks and stone at surface. Very simple squareish caves could be found below the surface. The terrain was still not random.
+</p>
+<div style="clear:both"></div>
+<h4><span class="mw-headline" id="minetest-c55-101024231736">minetest-c55-101024231736</span></h4>
+<div class="thumb tright"><div class="thumbinner" style="width:598px;"><a href="/File:First_water_mapgen.png" class="image"><img alt="" src="/images/3/37/First_water_mapgen.png" decoding="async" width="596" height="450" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:First_water_mapgen.png" class="internal" title="Enlarge"></a></div>First water generation</div></div></div>
+<p><a href="/Water" title="Water">Water</a> has been added and forms oceans at a fixed sea level.
+</p>
+<div style="clear:both"></div>
+<h4><span id="minetest-c55-101101170627_(and_later)"></span><span class="mw-headline" id="minetest-c55-101101170627_.28and_later.29">minetest-c55-101101170627 (and later)</span></h4>
+<div class="thumb tright"><div class="thumbinner" style="width:652px;"><a href="/File:Puita_jee.png" class="image"><img alt="" src="/images/thumb/9/98/Puita_jee.png/650px-Puita_jee.png" decoding="async" width="650" height="488" class="thumbimage" srcset="/images/9/98/Puita_jee.png 1.5x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Puita_jee.png" class="internal" title="Enlarge"></a></div>The first trees</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:652px;"><a href="/File:Mapgen_updated.png" class="image"><img alt="" src="/images/thumb/0/0c/Mapgen_updated.png/650px-Mapgen_updated.png" decoding="async" width="650" height="488" class="thumbimage" srcset="/images/0/0c/Mapgen_updated.png 1.5x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mapgen_updated.png" class="internal" title="Enlarge"></a></div>More trees</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:652px;"><a href="/File:Grumbuduts_ymparisto.png" class="image"><img alt="" src="/images/thumb/5/53/Grumbuduts_ymparisto.png/650px-Grumbuduts_ymparisto.png" decoding="async" width="650" height="460" class="thumbimage" srcset="/images/thumb/5/53/Grumbuduts_ymparisto.png/975px-Grumbuduts_ymparisto.png 1.5x, /images/5/53/Grumbuduts_ymparisto.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Grumbuduts_ymparisto.png" class="internal" title="Enlarge"></a></div>Even more trees</div></div></div>
+<p><a href="/Tree" class="mw-redirect" title="Tree">Trees</a> with <a href="/Leaves" title="Leaves">leaves</a> were added in, but they were very basic. Bushes (a single leaves block on the ground) were added as well. These primitive bushes have been removed in a later version.
+</p>
+<div style="clear:both"></div>
+<h3><span class="mw-headline" id="Version_1">Version 1</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:598px;"><a href="/File:Mapgen_v1.png" class="image"><img alt="" src="/images/8/8f/Mapgen_v1.png" decoding="async" width="596" height="450" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mapgen_v1.png" class="internal" title="Enlarge"></a></div>Not mapgen version 1, but very close to it.</div></div></div>
+<p>The first official mapgen was introduced in Minetest-c55 0.0.1. Features:
+</p>
+<ul><li>Simple, <b>random</b> terrain with <a href="/Stone" title="Stone">stone</a> and <a href="/Dirt_with_Grass" title="Dirt with Grass">dirt with grass</a></li>
+<li><a href="/Dirt" title="Dirt">Dirt</a> generates below water and at some beaches</li>
+<li>Trees (consisting of <a href="/Tree" class="mw-redirect" title="Tree">Tree</a> and <a href="/Leaves" title="Leaves">Leaves</a>)</li>
+<li>Simple lakes and oceans at a fixed sea level</li>
+<li>Simple caves and ravines (vertical caves)</li>
+<li>First <a href="/Ores" title="Ores">ores</a>: <a href="/Mese_Block" title="Mese Block">Mese blocks</a> and <a href="/Coal_Ore" title="Coal Ore">coal ores</a> are generated underground</li></ul>
+<div style="clear:both"></div>
+<h3><span class="mw-headline" id="Version_2_dev3">Version 2 dev3</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:652px;"><a href="/File:Mapgenv2_3.jpeg" class="image"><img alt="" src="/images/thumb/0/04/Mapgenv2_3.jpeg/650px-Mapgenv2_3.jpeg" decoding="async" width="650" height="488" class="thumbimage" srcset="/images/0/04/Mapgenv2_3.jpeg 1.5x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mapgenv2_3.jpeg" class="internal" title="Enlarge"></a></div>Mapgen 2 dev3</div></div></div>
+<p>Mountains were made more pronounced, ore generation was better and trees have been improved. Although this was a development version.
+</p>
+<div style="clear:both"></div>
+<h3><span class="mw-headline" id="Version_2_dev4">Version 2 dev4</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:652px;"><a href="/File:Mapgenv2_4.jpeg" class="image"><img alt="" src="/images/thumb/6/6a/Mapgenv2_4.jpeg/650px-Mapgenv2_4.jpeg" decoding="async" width="650" height="488" class="thumbimage" srcset="/images/6/6a/Mapgenv2_4.jpeg 1.5x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mapgenv2_4.jpeg" class="internal" title="Enlarge"></a></div>Mapgen 2 dev4</div></div></div>
+<p>Things were tuned a little better.
+</p>
+<div style="clear:both"></div>
+<h3><span class="mw-headline" id="Version_2">Version 2</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:652px;"><a href="/File:Scenery2.jpeg" class="image"><img alt="" src="/images/thumb/8/85/Scenery2.jpeg/650px-Scenery2.jpeg" decoding="async" width="650" height="383" class="thumbimage" srcset="/images/thumb/8/85/Scenery2.jpeg/975px-Scenery2.jpeg 1.5x, /images/8/85/Scenery2.jpeg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Scenery2.jpeg" class="internal" title="Enlarge"></a></div>Mapgen 2</div></div></div>
+<p><a href="/Sand" title="Sand">Sand</a> has been added and formed sand beaches. A simple mud flow algorithm smoothens out dirt / dirt with grass hills. The cave generation has seen notable improvements and <a href="/Iron_Ore" title="Iron Ore">iron ore</a> has been added as well.
+</p>
+<div style="clear:both"></div>
+<h3><span id="Version_3_&quot;3d_noise&quot;"></span><span class="mw-headline" id="Version_3_.223d_noise.22">Version 3 "3d noise"</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:652px;"><a href="/File:Turbulence_cliff_test.jpeg" class="image"><img alt="" src="/images/thumb/a/a2/Turbulence_cliff_test.jpeg/650px-Turbulence_cliff_test.jpeg" decoding="async" width="650" height="488" class="thumbimage" srcset="/images/a/a2/Turbulence_cliff_test.jpeg 1.5x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Turbulence_cliff_test.jpeg" class="internal" title="Enlarge"></a></div>A giant cliff</div></div></div>
+<p>3D Perlin noise is used to generate this terrain.
+</p>
+<div style="clear:both"></div>
+<h3><span class="mw-headline" id="Version_4">Version 4</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:652px;"><a href="/File:Mapgenv3_4.jpeg" class="image"><img alt="" src="/images/thumb/1/15/Mapgenv3_4.jpeg/650px-Mapgenv3_4.jpeg" decoding="async" width="650" height="488" class="thumbimage" srcset="/images/1/15/Mapgenv3_4.jpeg 1.5x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mapgenv3_4.jpeg" class="internal" title="Enlarge"></a></div>Mapgen 4 biome</div></div></div>
+<p>More tweaking.
+</p>
+<div style="clear:both"></div>
+<h3><span class="mw-headline" id="Version_5">Version 5</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:652px;"><a href="/File:Minetest_mapgen5_funky.jpeg" class="image"><img alt="" src="/images/thumb/a/a2/Minetest_mapgen5_funky.jpeg/650px-Minetest_mapgen5_funky.jpeg" decoding="async" width="650" height="460" class="thumbimage" srcset="/images/thumb/a/a2/Minetest_mapgen5_funky.jpeg/975px-Minetest_mapgen5_funky.jpeg 1.5x, /images/a/a2/Minetest_mapgen5_funky.jpeg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Minetest_mapgen5_funky.jpeg" class="internal" title="Enlarge"></a></div>Historic mapgen version 5 in Minetest-c55 0.3.0</div></div></div>
+<p>Official map generation for version 0.3.1. It still uses 3D Perlin noise like the previous versions and is iconic for its extreme and often “blobby” terrain. In the 0.3 versions, this map generator hat predefined biomes like the current v6 map generator. In Minetest-c55 0.4, it was removed, but has been revived later (→<a href="#v5">#v5</a>).
+</p><p>This version of the map generator is also used in <a href="/Overview_of_Minetest_forks#Voxelands" title="Overview of Minetest forks">Voxelands</a>, a fork of Minetest-c55.
+</p>
+<div style="clear:both"></div>
+<h3><span class="mw-headline" id="Version_6">Version 6</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:652px;"><a href="/File:Screenshot_2438759180_mapgenv6.jpeg" class="image"><img alt="" src="/images/thumb/c/c7/Screenshot_2438759180_mapgenv6.jpeg/650px-Screenshot_2438759180_mapgenv6.jpeg" decoding="async" width="650" height="488" class="thumbimage" srcset="/images/thumb/c/c7/Screenshot_2438759180_mapgenv6.jpeg/975px-Screenshot_2438759180_mapgenv6.jpeg 1.5x, /images/c/c7/Screenshot_2438759180_mapgenv6.jpeg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Screenshot_2438759180_mapgenv6.jpeg" class="internal" title="Enlarge"></a></div>Mapgen version 6 in an early version of Minetest-c55 0.4</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:652px;"><a href="/File:Plains.png" class="image"><img alt="" src="/images/thumb/5/52/Plains.png/650px-Plains.png" decoding="async" width="650" height="483" class="thumbimage" srcset="/images/thumb/5/52/Plains.png/975px-Plains.png 1.5x, /images/5/52/Plains.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Plains.png" class="internal" title="Enlarge"></a></div>Plains biome in mapgen version 6 (before Minetest-c55 0.4.3) with visible “terrain lines” which were fixed later</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:652px;"><a href="/File:Mountain.png" class="image"><img alt="" src="/images/thumb/3/39/Mountain.png/650px-Mountain.png" decoding="async" width="650" height="483" class="thumbimage" srcset="/images/thumb/3/39/Mountain.png/975px-Mountain.png 1.5x, /images/3/39/Mountain.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mountain.png" class="internal" title="Enlarge"></a></div>Mountains in mapgen version 6, before Minetest 0.4.7</div></div></div>
+<p>Version 6 of the map generator was introduced in Minetest-c55 0.4.0 to replace the map generator version 5. This version uses 2D Perlin noise again and the terrain is now much smoother and more realistic than of the previous version. Map generation has also become much faster. 
+</p><p>This version introduces jungles, deserts and rare gravel fields.
+</p><p>Version 6 was the last version of the only map generator before support for multiple map generators has been added. This mapgen has then directly be continued under the name “<a href="#v6">v6</a>”.
+</p>
+<div style="clear:both"></div>
+<h2><span class="mw-headline" id="Development_of_multiple_map_generators">Development of multiple map generators</span></h2>
+<p>Since Minetest 0.4.6, players are able to choose one of multiple map generators, with v6 being the default selection initially. Since then, more and more map generators have been added and existing map generators have been improved over time. From this point on, there is no longer a single “version” of the map generator and the concept of a map generator “version” no longer applies. Each map generator is now developed independently. It is important to understand that the mapgens v5 and v6 should not be viewed as inferior to v7, instead they should just be viewed as different mapgens. “v5”, “v6” and “v7” are now just names, not version numbers. All mapgens currently included in Minetest regularily receive bugfixes and new features.
+</p><p>In Minetest 0.4.15, v7 became the new default selection.
+</p>
+<h3><span class="mw-headline" id="v6">v6</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:652px;"><a href="/File:Mapgen_v6.jpg" class="image"><img alt="" src="/images/thumb/1/15/Mapgen_v6.jpg/650px-Mapgen_v6.jpg" decoding="async" width="650" height="416" class="thumbimage" srcset="/images/1/15/Mapgen_v6.jpg 1.5x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mapgen_v6.jpg" class="internal" title="Enlarge"></a></div>Mapgen v6 in Minetest 0.4.13-dev</div></div></div>
+<p>The mapgen “v6” (also known as “mgv6”) is the direct continuation of <a href="#Version_6">version 6</a> (before support for multiple mapgens has been added) and has pretty much the same features. In Minetest 0.4.13, support for snow biomes and ice sheets has been introduced to v6. This mapgen it is still officially supported in Minetest, it will not be removed anytime soon and improvements and bugfixes are still applied from time to time.
+</p>
+<div style="clear:both"></div>
+<h3><span class="mw-headline" id="singlenode">singlenode</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:652px;"><a href="/File:Mapgen_singlenode.jpg" class="image"><img alt="" src="/images/thumb/d/d9/Mapgen_singlenode.jpg/650px-Mapgen_singlenode.jpg" decoding="async" width="650" height="414" class="thumbimage" srcset="/images/d/d9/Mapgen_singlenode.jpg 1.5x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mapgen_singlenode.jpg" class="internal" title="Enlarge"></a></div>singlenode mapgen in Minetest 0.4.13</div></div></div>
+<p>This mapgen was introduced in Minetest 0.4.6 by <a href="/Celeron55" title="Celeron55">celeron55</a>. It creates a world with only <a href="/Air" title="Air">Air</a> (can be changed with configuration) and is intended to be used by <a href="/Mods" title="Mods">mods</a> and <a href="/Games" title="Games">games</a> for making custom map generators, so they can start completely from scratch. The name “singlenode” means that it generates a <i>single</i> type of <i>node</i> everywhere, <a href="/Air" title="Air">Air</a> by default.
+</p><p>
+This map generator has been hidden from the map generator selection screen for a couple of versions up to 0.4.16, in which it has been re-enabled again.</p><div style="clear:both"></div>
+<h3><span class="mw-headline" id="indev">indev</span></h3>
+<p>This mapgen was introduced in Minetest 0.4.6 by proller and contained many experimental features. It is based on v6. Major new features included floating islands at Y=500 and above, rare huge caves, and a more extreme terrain near the <a href="/World_boundaries" title="World boundaries">world boundaries</a> in form of larger biomes, higher mountains and deeper oceans. It has been removed in version 0.4.10 because it was considered to be of low quality.
+</p>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 435px"><div style="width: 435px">
+			<div class="thumb" style="width: 430px;"><div style="margin:15px auto;"><a href="/File:Mapgen_indev_spawn.jpg" class="image"><img alt="" src="/images/thumb/1/17/Mapgen_indev_spawn.jpg/400px-Mapgen_indev_spawn.jpg" decoding="async" width="400" height="256" srcset="/images/thumb/1/17/Mapgen_indev_spawn.jpg/600px-Mapgen_indev_spawn.jpg 1.5x, /images/1/17/Mapgen_indev_spawn.jpg 2x" /></a></div></div>
+			<div class="gallerytext">
+<p>Most of the surface in the indev mapgen is almost indentical to v6 (Minetest 0.4.9)
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 435px"><div style="width: 435px">
+			<div class="thumb" style="width: 430px;"><div style="margin:15px auto;"><a href="/File:Mapgen_indev_floating_islands.jpg" class="image"><img alt="" src="/images/thumb/9/9f/Mapgen_indev_floating_islands.jpg/400px-Mapgen_indev_floating_islands.jpg" decoding="async" width="400" height="256" srcset="/images/thumb/9/9f/Mapgen_indev_floating_islands.jpg/600px-Mapgen_indev_floating_islands.jpg 1.5x, /images/9/9f/Mapgen_indev_floating_islands.jpg 2x" /></a></div></div>
+			<div class="gallerytext">
+<p>Floating islands in indev mapgen, Minetest 0.4.9
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 435px"><div style="width: 435px">
+			<div class="thumb" style="width: 430px;"><div style="margin:36.5px auto;"><a href="/File:Mapgen_indev_edge.jpg" class="image"><img alt="" src="/images/thumb/0/02/Mapgen_indev_edge.jpg/400px-Mapgen_indev_edge.jpg" decoding="async" width="400" height="213" srcset="/images/thumb/0/02/Mapgen_indev_edge.jpg/600px-Mapgen_indev_edge.jpg 1.5x, /images/thumb/0/02/Mapgen_indev_edge.jpg/800px-Mapgen_indev_edge.jpg 2x" /></a></div></div>
+			<div class="gallerytext">
+<p>Extreme terrain and a world boundary in indev mapgen, Minetest 0.4.9
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 435px"><div style="width: 435px">
+			<div class="thumb" style="width: 430px;"><div style="margin:15px auto;"><a href="/File:Mapgen_indev_edge_mountains.jpg" class="image"><img alt="" src="/images/thumb/2/20/Mapgen_indev_edge_mountains.jpg/400px-Mapgen_indev_edge_mountains.jpg" decoding="async" width="400" height="256" srcset="/images/thumb/2/20/Mapgen_indev_edge_mountains.jpg/600px-Mapgen_indev_edge_mountains.jpg 1.5x, /images/2/20/Mapgen_indev_edge_mountains.jpg 2x" /></a></div></div>
+			<div class="gallerytext">
+<p>High mountains near the world boundaries in indev mapgen, Minetest 0.4.9
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 435px"><div style="width: 435px">
+			<div class="thumb" style="width: 430px;"><div style="margin:15px auto;"><a href="/File:Mapgen_indev_huge_cave.jpg" class="image"><img alt="" src="/images/thumb/0/0b/Mapgen_indev_huge_cave.jpg/400px-Mapgen_indev_huge_cave.jpg" decoding="async" width="400" height="256" srcset="/images/thumb/0/0b/Mapgen_indev_huge_cave.jpg/600px-Mapgen_indev_huge_cave.jpg 1.5x, /images/0/0b/Mapgen_indev_huge_cave.jpg 2x" /></a></div></div>
+			<div class="gallerytext">
+<p>A huge (and buggy) cave in indev mapgen, Minetest 0.4.9
+</p>
+			</div>
+		</div></li>
+</ul>
+<div style="clear:both"></div>
+<h3><span class="mw-headline" id="v7">v7</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:652px;"><a href="/File:Mapgen_v7_0_4_9.jpg" class="image"><img alt="" src="/images/thumb/c/ca/Mapgen_v7_0_4_9.jpg/650px-Mapgen_v7_0_4_9.jpg" decoding="async" width="650" height="416" class="thumbimage" srcset="/images/c/ca/Mapgen_v7_0_4_9.jpg 1.5x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mapgen_v7_0_4_9.jpg" class="internal" title="Enlarge"></a></div>Mapgen v7 in Minetest 0.4.9 without biomes</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:652px;"><a href="/File:Mapgen_v7.jpg" class="image"><img alt="" src="/images/thumb/b/b3/Mapgen_v7.jpg/650px-Mapgen_v7.jpg" decoding="async" width="650" height="416" class="thumbimage" srcset="/images/b/b3/Mapgen_v7.jpg 1.5x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mapgen_v7.jpg" class="internal" title="Enlarge"></a></div>Mapgen v7 in Minetest 0.4.13-dev with biomes</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:652px;"><a href="/File:Mapgen_v7_floatlands.jpg" class="image"><img alt="" src="/images/thumb/c/c8/Mapgen_v7_floatlands.jpg/650px-Mapgen_v7_floatlands.jpg" decoding="async" width="650" height="488" class="thumbimage" srcset="/images/c/c8/Mapgen_v7_floatlands.jpg 1.5x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mapgen_v7_floatlands.jpg" class="internal" title="Enlarge"></a></div>Floatlands of mapgen v7 in Minetest 0.4.15</div></div></div>
+<p>Also called “mgv7”. It was introduced in Minetest 0.4.7 by kwolekr, in which the map generator was still unusable. This map generator uses a combination of 2D and 3D Perlin noise. It is notable for its large rivers at Sea level. Caves in v7 are also very different than in v6, they are generally much larger.
+</p><p>This mapgen has a long history of development and has seen countless improvements over the Minetest versions.
+</p>
+<ul><li>Initially, it only created worlds mostly made out of stone. Biomes for v7 were eventually added to Minetest Game at a later point</li>
+<li>In Minetest 0.4.13, many big improvements to the terrain generation and noise parameters have been made; sandstone and desert stone dungeons have been added as well</li>
+<li>In Minetest 0.4.14, the Biome API was introduced for v7 which makes v7 the first map generator which supports the Biome API, i.e. biomes defined by mods. The days of the stone worlds are over. Also, caves have been improved</li>
+<li>In Minetest 0.4.15, v7 became the default selected mapgen. Optional and experimental support for huge floating islands at Y=1280 and above was added, but is turned off by default. River channels can also carve through mountains</li></ul>
+<div style="clear:both"></div>
+<h3><span class="mw-headline" id="math">math</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:652px;"><a href="/File:Mapgen_math_mandelbox.jpg" class="image"><img alt="" src="/images/thumb/d/d1/Mapgen_math_mandelbox.jpg/650px-Mapgen_math_mandelbox.jpg" decoding="async" width="650" height="366" class="thumbimage" srcset="/images/d/d1/Mapgen_math_mandelbox.jpg 1.5x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mapgen_math_mandelbox.jpg" class="internal" title="Enlarge"></a></div>“mandelbox” mode of the math mapgen in Minetest 0.4.9</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:652px;"><a href="/File:Mapgen_math_mengersponge.jpg" class="image"><img alt="" src="/images/thumb/a/a9/Mapgen_math_mengersponge.jpg/650px-Mapgen_math_mengersponge.jpg" decoding="async" width="650" height="416" class="thumbimage" srcset="/images/a/a9/Mapgen_math_mengersponge.jpg 1.5x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mapgen_math_mengersponge.jpg" class="internal" title="Enlarge"></a></div>“mengersponge” mode of the math mapgen in Minetst 0.4.9 with lighting bugs</div></div></div>
+<p>The mapgen “math” was introduced in Minetest 0.4.8 by proller. This was really a collection of 3 different map generators based on simple maths. It was capable of creating Menger sponges, mandelboxes and spheres. Mods could adds biomes with Minetest's biome API, but this was never used in Minetest Game, so only stone worlds were created by default.
+</p><p>This map generator has been removed in Minetest 0.4.10 when proller left the project because it was considered to be of very low quality and had many obvious lighting problems (<a rel="nofollow" class="external autonumber" href="https://forum.minetest.net/viewtopic.php?f=3&amp;t=7256#p148920">[1]</a>).
+</p><p>The math mapgen is being continued in <a href="/Overview_of_Minetest_forks#Freeminer" title="Overview of Minetest forks">Freeminer</a>, a fork of Minetest.
+</p>
+<div style="clear:both"></div>
+<h3><span class="mw-headline" id="v5">v5</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:652px;"><a href="/File:Mapgen_v5.jpg" class="image"><img alt="" src="/images/thumb/a/af/Mapgen_v5.jpg/650px-Mapgen_v5.jpg" decoding="async" width="650" height="416" class="thumbimage" srcset="/images/a/af/Mapgen_v5.jpg 1.5x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mapgen_v5.jpg" class="internal" title="Enlarge"></a></div>Modernized mapgen v5 in Minetest 0.4.13-dev</div></div></div>
+<p>Also called “mgv5”. This mapgen is a revival of the <a href="#Version_5">historic map generator version 5</a> from Minetest-c55 0.3. In Minetest 0.4.11, this historic map generator has been revived by paramat because of its iconic terrain shape.
+</p><p>But this mapgen is not identical to the historic version 5. The terrain shape is <i>nearly</i> identical to the historic version. The main difference is that the modernized v5 map generator has mod-defined biome support (like v7), rather than predefined biomes. It also shares many other features with v7 which are not related to the terrain, for example desert and sandstone dungeons. Some features which have been added to v7 were often also added to v5.
+</p>
+<div style="clear:both"></div>
+<h3><span class="mw-headline" id="fractal">fractal</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:652px;"><a href="/File:Mapgen_fractals_fractal_1.jpg" class="image"><img alt="" src="/images/thumb/0/00/Mapgen_fractals_fractal_1.jpg/650px-Mapgen_fractals_fractal_1.jpg" decoding="async" width="650" height="416" class="thumbimage" srcset="/images/0/00/Mapgen_fractals_fractal_1.jpg 1.5x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mapgen_fractals_fractal_1.jpg" class="internal" title="Enlarge"></a></div>One of many possible terrains by the fractal mapgen in Minetest 0.4.13-dev</div></div></div>
+<p>Introduced in Minetest 0.4.13 by paramat. It creates worlds based on fractals, specifically those based on 3D and 4D Mandelbrot and Julia sets, including a mandelbulb. As of version 0.4.15, there are 18 variants which this mapgen supports. This mapgen has a similar intention like the old math mapgen, but it has a very different feature set compared to math.
+</p>
+<div style="clear:both"></div>
+<h3><span class="mw-headline" id="flat">flat</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:652px;"><a href="/File:Mapgen_flat.jpg" class="image"><img alt="" src="/images/thumb/1/1a/Mapgen_flat.jpg/650px-Mapgen_flat.jpg" decoding="async" width="650" height="416" class="thumbimage" srcset="/images/1/1a/Mapgen_flat.jpg 1.5x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mapgen_flat.jpg" class="internal" title="Enlarge"></a></div>flat mapgen</div></div></div>
+<p>The flat map generator was introduced in Minetest 0.4.14 by paramat. It can be used with or without biomes, decorations, caves, dungeons, etc.
+</p><p>Technically, Minetest was able to generate flat maps since 0.4.5 by using a mapgen setting (<code>mg_flags</code>). Later this flag has been removed from <code>mg_flags</code> and instead became a mapgen setting for v6 (<code>mgv6_spflags</code>) to generate flat maps in v6 style.
+</p>
+<div style="clear:both"></div>
+<h3><span class="mw-headline" id="valleys">valleys</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:652px;"><a href="/File:Mapgen_valleys.jpg" class="image"><img alt="" src="/images/thumb/1/1b/Mapgen_valleys.jpg/650px-Mapgen_valleys.jpg" decoding="async" width="650" height="416" class="thumbimage" srcset="/images/1/1b/Mapgen_valleys.jpg 1.5x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mapgen_valleys.jpg" class="internal" title="Enlarge"></a></div>valleys mapgen in Minetest 0.4.13-dev</div></div></div>
+<p>Introduced in Minetest 0.4.14 by Duane Robertson. It is notable for its “valley”-like shapes and its flowing rivers. These rivers are very different than in v7: They flow downhill rather than being flat at ocean level.
+</p><p>In Minetest Game, these rivers are made out of <a href="/River_Water" title="River Water">River Water</a>, a liquid which has been introduced in the same version for the rivers. It has been introduced because a liquid with a reduced flowing range was needed, as normal <a href="/Water" title="Water">Water</a> would easily flow over.
+</p>
+<div style="clear:both"></div>
+<h3><span class="mw-headline" id="carpathian">carpathian</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:652px;"><a href="/File:Mapgen_carpathian.jpg" class="image"><img alt="" src="/images/thumb/f/fa/Mapgen_carpathian.jpg/650px-Mapgen_carpathian.jpg" decoding="async" width="650" height="416" class="thumbimage" srcset="/images/f/fa/Mapgen_carpathian.jpg 1.5x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Mapgen_carpathian.jpg" class="internal" title="Enlarge"></a></div>carpathian mapgen in Minetest 0.5.0-dev-8221d3bc</div></div></div>
+<p>Introduced in the developer version on 6th July 2017 by vlapsley. It has been first showcased <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=17174">in the forums</a>. About 1.5 years later, it was finally released in a stable Minetest release: Minetest 5.0.0. This mapgen is notable for its complex mountains (multiple variants: terraced, stepped, very big, ridged) and hills. Vast flat plains, mountains and oceans dominate the landscape. Fjords are also possible, but rare.
+</p>
+<div style="clear:both"></div>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<ul><li><a href="/Map_Generator" class="mw-redirect" title="Map Generator">Map Generator</a></li>
+<li><a href="/Biomes" title="Biomes">Biomes</a></li></ul>
+<!-- 
+NewPP limit report
+Cached time: 20230709182406
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.526 seconds
+Real time usage: 1.026 seconds
+Preprocessor visited node count: 291/1000000
+Post‐expand include size: 2019/2097152 bytes
+Template argument size: 230/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 14/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 3199/5000000 bytes
+Lua time usage: 0.120/7 seconds
+Lua virtual size: 5.55 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  496.853      1 -total
+ 77.53%  385.223      1 Template:Languages
+  6.57%   32.619     22 Template:-
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:408-0!canonical and timestamp 20230709182405 and revision id 25409
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Map_Generator_Evolution&amp;oldid=25409">http://wiki.minetest.net/index.php?title=Map_Generator_Evolution&amp;oldid=25409</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li><li><a href="/Category:Map" title="Category:Map">Map</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Map+Generator+Evolution" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Map_Generator_Evolution" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk"><a href="/Talk:Map_Generator_Evolution" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Map_Generator_Evolution">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Map_Generator_Evolution&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Map_Generator_Evolution&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Map_Generator_Evolution" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Map_Generator_Evolution" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Map_Generator_Evolution&amp;oldid=25409" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Map_Generator_Evolution&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 9 April 2021, at 19:03.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.526","walltime":"1.026","ppvisitednodes":{"value":291,"limit":1000000},"postexpandincludesize":{"value":2019,"limit":2097152},"templateargumentsize":{"value":230,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":14,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":3199,"limit":5000000},"timingprofile":["100.00%  496.853      1 -total"," 77.53%  385.223      1 Template:Languages","  6.57%   32.619     22 Template:-"]},"scribunto":{"limitreport-timeusage":{"value":"0.120","limit":"7"},"limitreport-virtmemusage":{"value":5820416,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709182406","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":1655});});</script></body></html>

@@ -1,0 +1,726 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Minetest in der Schule - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"e8593f44944637ffbba372cc","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Minetest_in_der_Schule","wgTitle":"Minetest in der Schule","wgCurRevisionId":21749,"wgRevisionId":21749,"wgArticleId":2153,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["German","Tutorials","Minetest as Educational Tool"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Minetest_in_der_Schule","wgRelevantArticleId":2153,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};
+RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Minetest_in_der_Schule rootpage-Minetest_in_der_Schule skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Minetest in der Schule</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>Diese Seite richtet sich an Lehrer, die Interesse haben, Minetest in der Schule zu nutzen. Dabei soll es vor allem erst einmal darum gehen, Minetest selber kennenzulernen und zu wissen, wie man es bedient. Dann geht es aber auch um das Aufsetzen eines eigenen Servers und natürlich auch Ideen für den Unterrichtseinsatz.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Warum_Minetest.3F"><span class="tocnumber">1</span> <span class="toctext">Warum Minetest?</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Einstieg_in_Minetest"><span class="tocnumber">2</span> <span class="toctext">Einstieg in Minetest</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Download.2C_Installation_und_Starten"><span class="tocnumber">2.1</span> <span class="toctext">Download, Installation und Starten</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Mods_installieren_und_nutzen"><span class="tocnumber">2.2</span> <span class="toctext">Mods installieren und nutzen</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Spielgeschwindigkeit"><span class="tocnumber">2.3</span> <span class="toctext">Spielgeschwindigkeit</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Spezielle_Mods_und_ihre_Nutzung"><span class="tocnumber">2.4</span> <span class="toctext">Spezielle Mods und ihre Nutzung</span></a>
+<ul>
+<li class="toclevel-3 tocsection-7"><a href="#Mesecons"><span class="tocnumber">2.4.1</span> <span class="toctext">Mesecons</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="#WorldEdit"><span class="tocnumber">2.4.2</span> <span class="toctext">WorldEdit</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="#Technic"><span class="tocnumber">2.4.3</span> <span class="toctext">Technic</span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="#.C3.9Cberblick_Mods"><span class="tocnumber">2.4.4</span> <span class="toctext">Überblick Mods</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-11"><a href="#Tutorial_installieren"><span class="tocnumber">2.5</span> <span class="toctext">Tutorial installieren</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Erg.C3.A4nzende_Themen"><span class="tocnumber">3</span> <span class="toctext">Ergänzende Themen</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#Karten-Generierung"><span class="tocnumber">3.1</span> <span class="toctext">Karten-Generierung</span></a>
+<ul>
+<li class="toclevel-3 tocsection-14"><a href="#Eingebaute_Welten-Generatoren"><span class="tocnumber">3.1.1</span> <span class="toctext">Eingebaute Welten-Generatoren</span></a></li>
+<li class="toclevel-3 tocsection-15"><a href="#Mods"><span class="tocnumber">3.1.2</span> <span class="toctext">Mods</span></a></li>
+<li class="toclevel-3 tocsection-16"><a href="#Etwas_Theorie_zur_Biom-Erzeugung"><span class="tocnumber">3.1.3</span> <span class="toctext">Etwas Theorie zur Biom-Erzeugung</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-17"><a href="#Den_.C3.9Cberblick_behalten_und_sich_nicht_verirren"><span class="tocnumber">3.2</span> <span class="toctext">Den Überblick behalten und sich nicht verirren</span></a>
+<ul>
+<li class="toclevel-3 tocsection-18"><a href="#Homepunkte_und_Teleportieren"><span class="tocnumber">3.2.1</span> <span class="toctext">Homepunkte und Teleportieren</span></a></li>
+<li class="toclevel-3 tocsection-19"><a href="#Karten"><span class="tocnumber">3.2.2</span> <span class="toctext">Karten</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-20"><a href="#Grundst.C3.BCcke_sichern"><span class="tocnumber">3.3</span> <span class="toctext">Grundstücke sichern</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-21"><a href="#Einen_eigenen_Minetest-Server_aufsetzen"><span class="tocnumber">4</span> <span class="toctext">Einen eigenen Minetest-Server aufsetzen</span></a>
+<ul>
+<li class="toclevel-2 tocsection-22"><a href="#Spezielle_Systeme"><span class="tocnumber">4.1</span> <span class="toctext">Spezielle Systeme</span></a>
+<ul>
+<li class="toclevel-3 tocsection-23"><a href="#Raspberry_Pi"><span class="tocnumber">4.1.1</span> <span class="toctext">Raspberry Pi</span></a></li>
+<li class="toclevel-3 tocsection-24"><a href="#Server_auf_USB-Stick"><span class="tocnumber">4.1.2</span> <span class="toctext">Server auf USB-Stick</span></a></li>
+<li class="toclevel-3 tocsection-25"><a href="#vServer_bei_Hetzner_mieten_und_einrichten"><span class="tocnumber">4.1.3</span> <span class="toctext">vServer bei Hetzner mieten und einrichten</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-26"><a href="#Einrichtung_und_Sichern_eines_eigenen_Servers"><span class="tocnumber">4.2</span> <span class="toctext">Einrichtung und Sichern eines eigenen Servers</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-27"><a href="#Ideen_f.C3.BCr_den_Unterrichtseinsatz"><span class="tocnumber">5</span> <span class="toctext">Ideen für den Unterrichtseinsatz</span></a>
+<ul>
+<li class="toclevel-2 tocsection-28"><a href="#Gestalten_des_eigenen_Spiels"><span class="tocnumber">5.1</span> <span class="toctext">Gestalten des eigenen Spiels</span></a>
+<ul>
+<li class="toclevel-3 tocsection-29"><a href="#Eigene_Skins_verwenden_und_zeichnen"><span class="tocnumber">5.1.1</span> <span class="toctext">Eigene Skins verwenden und zeichnen</span></a></li>
+<li class="toclevel-3 tocsection-30"><a href="#Eigene_Textur_gestalten"><span class="tocnumber">5.1.2</span> <span class="toctext">Eigene Textur gestalten</span></a></li>
+<li class="toclevel-3 tocsection-31"><a href="#Eigene_Bl.C3.B6cke_im_Spiel_selber_erzeugen"><span class="tocnumber">5.1.3</span> <span class="toctext">Eigene Blöcke im Spiel selber erzeugen</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-32"><a href="#Ein_eigenes_Mod_erstellen"><span class="tocnumber">5.2</span> <span class="toctext">Ein eigenes Mod erstellen</span></a>
+<ul>
+<li class="toclevel-3 tocsection-33"><a href="#Mobs_erstellen"><span class="tocnumber">5.2.1</span> <span class="toctext">Mobs erstellen</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-34"><a href="#Architektur"><span class="tocnumber">5.3</span> <span class="toctext">Architektur</span></a></li>
+<li class="toclevel-2 tocsection-35"><a href="#Geschichte_bauen"><span class="tocnumber">5.4</span> <span class="toctext">Geschichte bauen</span></a></li>
+<li class="toclevel-2 tocsection-36"><a href="#Lernadventure"><span class="tocnumber">5.5</span> <span class="toctext">Lernadventure</span></a></li>
+<li class="toclevel-2 tocsection-37"><a href="#Abenteuer_erleben"><span class="tocnumber">5.6</span> <span class="toctext">Abenteuer erleben</span></a></li>
+<li class="toclevel-2 tocsection-38"><a href="#Gruppen_einteilen"><span class="tocnumber">5.7</span> <span class="toctext">Gruppen einteilen</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-39"><a href="#Links"><span class="tocnumber">6</span> <span class="toctext">Links</span></a></li>
+</ul>
+</div>
+
+<h2><span id="Warum_Minetest?"></span><span class="mw-headline" id="Warum_Minetest.3F">Warum Minetest?</span></h2>
+<p>... und nicht Minecraft könnte man auch noch fragen. Dazu ein paar Argumente.
+</p><p><b>Contra:</b>
+</p>
+<ol><li>Einen Server im Internet zu bekommen ist nicht so einfach wie für Minecraft. Es gibt nur Anbieter dafür und man muss den eigenen Server von Hand administrieren, denn es gibt keine grafischen Oberflächen dafür, wie es bei Minecraft der Fall ist.</li></ol>
+<p><b>Pro:</b>
+</p>
+<ol><li>Es ist kostenlos, denn es ist OpenSource und wird es auch bleiben.</li>
+<li>Es läuft auf so ziemlich allen Betriebssystem und Geräten ... <i>außer auf iOS-Systemen</i>.</li>
+<li>Von allen Versionen aus (auch vom Tablet aus) kann man auf die gleichen Server.</li></ol>
+<p><b>Warum Umsteigen einfach ist:</b>
+</p>
+<ol><li>Was man in Minecraft machen kann, ist in Minetest im Allgemeinen genauso zu machen (teilweise auch besser/einfacher).</li>
+<li>Die Bedienung ist fast identisch zu Minecraft, so dass auch Umsteiger keine Probleme haben sollten.</li>
+<li>Es gibt Werkzeuge, um Minecraft-Karten in Minetest-Karten umzuwandeln.</li></ol>
+<p><br />
+Den größten Fehler, den man bei Minetest machen kann, ist nur das nackte System zu betrachten, das man bei der Installation bekommt. Denn Minetest ist (fast) nichts ohne die Erweiterungen und Spiele. Die Haupt-Entwickler sind sehr zurückhaltend, was das feste Einbauen von Features betrifft. Aber das Erweitern von Minetest ist, wenn man nicht absoluter Computer-Laie ist, einfacher als bei Minecraft.
+</p><p>Auf dieser Seite sind deshalb Informationen zusammengesucht worden, mit denen man wichtige Erweiterungen kennen lernt, die Minetest zu einem vollwertigen Ersatz von Minecraft machen. Sicher wird es etwas dauern, bis eine Minetest-Variante herauskommt, die es auch Lehrern mit wenig eigener Spielerfahrung leicht macht, größere Schülermengen zu managen. Dabei kommt sicher auch zu Tragen, dass es keine Firma gibt, die hinter Minetest steht. So wird entwickelt, was Spaß macht ... teilweise  besser als in Minecraft ... aber hier und da fehlt es an Details.
+</p><p>Nutzen Sie als Lehrer die folgenden Abschnitte, um Minetest erst einmal selber kennen zu lernen. Später kommen Anleitungen, wie man selber einen Server aufsetzt, vielleicht sogar kostengünstig mit einem RasperryPi?
+</p>
+<h2><span class="mw-headline" id="Einstieg_in_Minetest">Einstieg in Minetest</span></h2>
+<p>Die folgenden Unterpunkte sollen interessierten Kollegen eine schrittweise Einleitung geben, wie sie mit Minetest starten können. Es richtet sich dabei eher an Minecraft-Nutzer, aber auch Anfänger in diese Art von Spielen sollten damit alles Wissenswerte erfahren.
+</p>
+<h3><span id="Download,_Installation_und_Starten"></span><span class="mw-headline" id="Download.2C_Installation_und_Starten">Download, Installation und Starten</span></h3>
+<p>Wer den folgenden Text nicht lesen mag, kann sich dieses Video anschauen: <a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=IiuiM6hokSM">Erste Schrittte in Minetest</a>
+</p><p><br />
+<b>Die offizielle Download-Quelle befindet sich auf der Homepage</b> → <a rel="nofollow" class="external text" href="http://www.minetest.net/downloads/">Download</a>
+</p>
+<dl><dd><i>Für fast alle Betriebssysteme gibt es Installtionspakete. Wer Linux nutzt, findet Minetest auch in den offiziellen Repositorien und muss dann womöglich gar nichts herunterladen. Sollte es dort jedoch zu Problemen kommen, empfiehlt es sich auf Aktualisierungen ausserhalb der Repositorien zu überprüfen.</i></dd></dl>
+<p><br />
+Um gleich in Minetest hineinzuschnuppern gibt es zwei Möglichkeiten:
+</p>
+<ol><li>man erstellt sich eine Einzelspielerwelt und probiert da etwas herum</li>
+<li>man besucht einen der Server, der in der Öffentlichen Server-Liste angegeben ist</li></ol>
+<p>Die erste Variante ist vermutlich vor allem für Spiele-Anfänger besser, da sie in Ruhe für sich alleine spielen können. Die Server zeigen Beispiele für stark erweiterte Minetest-Varianten und sind daher vor allem für diejenigen geeignet, die schon Minecraft kennen und gewisse Erwartungen haben.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:162px;"><a href="/File:Minetest_logo.png" class="image"><img alt="" src="/images/c/cf/Minetest_logo.png" decoding="async" width="160" height="160" class="thumbimage" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Minetest_logo.png" class="internal" title="Enlarge"></a></div>Minetest-Logo für das Mini-Spiel</div></div></div>
+<p><b>Schritte zum Starten einer Einzelspielerwelt</b>
+</p>
+<ul><li>Minetest starten<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/File:Minetest_mapgen5_funky.jpeg" class="image"><img alt="" src="/images/thumb/a/a2/Minetest_mapgen5_funky.jpeg/300px-Minetest_mapgen5_funky.jpeg" decoding="async" width="300" height="212" class="thumbimage" srcset="/images/thumb/a/a2/Minetest_mapgen5_funky.jpeg/450px-Minetest_mapgen5_funky.jpeg 1.5x, /images/thumb/a/a2/Minetest_mapgen5_funky.jpeg/600px-Minetest_mapgen5_funky.jpeg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Minetest_mapgen5_funky.jpeg" class="internal" title="Enlarge"></a></div>Typische V5-Landschaft</div></div></div></li>
+<li>Unten im grau-transparenten Bereich das bunte Minetest-Logo anklicken, um das Minetest-Spiel auszuwählen.</li>
+<li>Im Tab "Einzelspieler" auf "Neu" klicken. Im erscheinenden Dialog folgendes machen:</li></ul>
+<dl><dd><ol><li>Namen für die Welt angeben</li>
+<li>Seed freilassen <i>... oder etwas reinschreiben ... das beeinflusst die Erstellung der zufällig generierten Welt</i></li>
+<li>Weltgenerator-Typ auswählen <i>... V5, V6 und V7 sind alles aktuelle Varianten, liefern aber leicht andere Typen von Welten (eher flach oder schön gerundete Hügel, ...)</i> → siehe <a href="/Map_generator" title="Map generator">Weltergenerator (engl.)</a></li>
+<li>Spiel "Minetest" wählen</li>
+<li>auf "Erstellen" klicken</li></ol></dd></dl>
+<ul><li>Links neben der Liste der vorhandenen Spiele (in der jetzt das eben erstellte zu sehen sein sollte) den Spielmodus auswählen. Anfänger wählen "Schaden einschalten" ab.</li>
+<li>Das eben erstellte Spiel in der Liste auswählen und auf "Spielen" klicken.</li></ul>
+<p>Die grundlegende Bedienung in Minetest geschieht mit den folgenden Tasten, kann aber auch selber angepasst werden.
+</p>
+<center><a href="/File:Tastatur_zu_Minetest-Bedienung.png" class="image"><img alt="Tastatur zu Minetest-Bedienung.png" src="/images/thumb/2/2a/Tastatur_zu_Minetest-Bedienung.png/1000px-Tastatur_zu_Minetest-Bedienung.png" decoding="async" width="1000" height="452" srcset="/images/thumb/2/2a/Tastatur_zu_Minetest-Bedienung.png/1500px-Tastatur_zu_Minetest-Bedienung.png 1.5x, /images/thumb/2/2a/Tastatur_zu_Minetest-Bedienung.png/2000px-Tastatur_zu_Minetest-Bedienung.png 2x" /></a></center>
+<p><br />
+</p>
+<table style="margin: 0 auto 1em; text-align: justify; border-collapse: collapse; border-width: 1px; border-style: dashed; width: 100%; clear: both; border-color:#48d; background:#fbfcff;">
+<tbody><tr>
+<td style="border: none; padding: 2px 0 2px 0.9em; text-align: center;">
+ <img alt="Mbox information.png" src="/images/thumb/f/fc/Mbox_information.png/25px-Mbox_information.png" decoding="async" width="25" height="25" srcset="/images/thumb/f/fc/Mbox_information.png/38px-Mbox_information.png 1.5x, /images/thumb/f/fc/Mbox_information.png/50px-Mbox_information.png 2x" /></td>
+<td style="border: none; padding: 0.25em 0.9em; width: 100%;"><b>WICHTIG</b> Dieses Einzelspieler-Spiel ist recht einfach im Vergleich zu Minecraft. Erst durch Mods kommt wichtige Funktionalität dazu! Wer als Anfänger sich noch nicht so gut bewegen konnte sollte unbedingt erst einmal keinen Server benutzen sondern das Tutorial-Spiel im nächsten Abschnitt installieren und durchspielen.</td>
+</tr></tbody></table>
+<p><br />
+</p>
+<table style="margin: 0 auto 1em; text-align: justify; border-collapse: collapse; border-width: 1px; border-style: dashed; width: 100%; clear: both; border-color:#48d; background:#fbfcff;">
+<tbody><tr>
+<td style="border: none; padding: 2px 0 2px 0.9em; text-align: center;">
+ <img alt="Mbox information.png" src="/images/thumb/f/fc/Mbox_information.png/25px-Mbox_information.png" decoding="async" width="25" height="25" srcset="/images/thumb/f/fc/Mbox_information.png/38px-Mbox_information.png 1.5x, /images/thumb/f/fc/Mbox_information.png/50px-Mbox_information.png 2x" /></td>
+<td style="border: none; padding: 0.25em 0.9em; width: 100%;"><b>EBENFALLS WICHTIG</b>: Fliegen ist auch im Kreativ-Modus nicht standard-mäßig möglich, man muss sich dazu <a href="/Privilegien" class="mw-redirect" title="Privilegien">die Rechte geben</a>, was zum Beispiel über die <a href="/Server_commands" title="Server commands">Chat-Befehle</a> möglich ist. Man gibt sich selber alle Rechte, indem man den folgenden Befehl eingibt:
+<dl><dd><code>/grantme all</code></dd></dl></td>
+</tr></tbody></table>
+<p><br />
+<b>Besuchen eines der öffentlichen Server</b>
+</p>
+<ul><li>Minetest starten</li>
+<li>Den Tab "Client" auswählen.</li>
+<li>Beim ersten Besuch links unten "Öffentliche Serverliste" aktivieren.</li>
+<li>In der Liste einen passenden Server aussuchen. Dabei sind die Symbole von Interesse:
+<ul><li><i>Nicht erkennbares Bild</i> = Kreativ-Welt, d.h. man hat Zugriff auf alle verfügbaren Blöcke. Ist dieses Symbol nicht vorhanden, muss man alle Baumaterialien selber abbauen und verarbeiten. Siehe <a href="/index.php?title=Kreativ-Modus&amp;action=edit&amp;redlink=1" class="new" title="Kreativ-Modus (page does not exist)">Kreativ-Modus</a></li>
+<li><a href="/File:Heart.png" class="image"><img alt="Heart.png" src="/images/thumb/d/d9/Heart.png/20px-Heart.png" decoding="async" width="20" height="20" srcset="/images/thumb/d/d9/Heart.png/30px-Heart.png 1.5x, /images/thumb/d/d9/Heart.png/40px-Heart.png 2x" /></a> = Schaden ist aktiviert, d.h. man hat Hunger und kann sich verletzten, ohne Herz kann man sich nicht verletzten und muss nichts essen.</li>
+<li>Schwerter = PVP ist aktiviert, d.h. Spieler können mit anderen Spielern kämpfen</li></ul></li>
+<li>Rechts neben der Serverliste den Namen und ein Passwort eintragen.
+<ul><li><b>WICHTIG</b> Nachdem man sich mit einem Benutzernamen einmal angemeldet hat, kommt man mit diesem Benutzernamen nur noch mit dem beim ersten Mal verwendeten Passwort auf den Server. Hat man das Passwort vergessen, müsste man einen anderen Namen wählen und wieder ein Passwort angeben.</li>
+<li>Einige Server geben Passworte vor. Man kann dann nur mit diesem Passwort auf dem Server.</li></ul></li></ul>
+<p><br />
+</p>
+<table style="margin: 0 auto 1em; text-align: justify; border-collapse: collapse; border-width: 1px; border-style: dashed; width: 100%; clear: both; border-color:#48d; background:#fbfcff;">
+<tbody><tr>
+<td style="border: none; padding: 2px 0 2px 0.9em; text-align: center;">
+ <img alt="Mbox information.png" src="/images/thumb/f/fc/Mbox_information.png/25px-Mbox_information.png" decoding="async" width="25" height="25" srcset="/images/thumb/f/fc/Mbox_information.png/38px-Mbox_information.png 1.5x, /images/thumb/f/fc/Mbox_information.png/50px-Mbox_information.png 2x" /></td>
+<td style="border: none; padding: 0.25em 0.9em; width: 100%;"><b>HINWEIS</b> Die Server enthalten durchgängig mehr oder weniger Mods. Interessanterweise muss man sich als Besucher eines Servers nicht darum kümmern, welche Mods dort installiert wurden. Mit dem Anmelden auf dem Server lädt man alle benötigten lokalen Erweiterungen herunter und kann sie dann nutzen. Deshalb dauert der Start meist auch etwas.</td>
+</tr></tbody></table>
+<p><br />
+</p>
+<table style="margin: 0 auto 1em; text-align: justify; border-collapse: collapse; border-width: 1px; border-style: dashed; width: 100%; clear: both; border-color:#48d; background:#fbfcff;">
+<tbody><tr>
+<td style="border: none; padding: 2px 0 2px 0.9em; text-align: center;">
+ <img alt="Mbox information.png" src="/images/thumb/f/fc/Mbox_information.png/25px-Mbox_information.png" decoding="async" width="25" height="25" srcset="/images/thumb/f/fc/Mbox_information.png/38px-Mbox_information.png 1.5x, /images/thumb/f/fc/Mbox_information.png/50px-Mbox_information.png 2x" /></td>
+<td style="border: none; padding: 0.25em 0.9em; width: 100%;"><b>INFOS ÜBER DEN SERVER?</b> Es gibt ein paar Befehle, mit denen man etwas über den besuchten Server erfahren kann. Mit <code>/mods</code> sieht man welche Mods installiert sind. <code>/Privs</code> listet die eignen Rechte aus.</td>
+</tr></tbody></table>
+<h3><span class="mw-headline" id="Mods_installieren_und_nutzen">Mods installieren und nutzen</span></h3>
+<p>Alles was Minetest im Vergleich zu Minecraft scheinbar erst einmal nicht bietet, kann man in Minetest per Mod (<i>von Modifikation</i>) einfügen. Das scheint umständlich, aber es geht so einfach, dass es dann wieder kein Problem ist. Man muss nur das passende Mod finden.
+</p><p><br />
+<b>Das passende Mod finden</b>
+</p><p>Das ist sicherlich nicht einfach, denn es gibt sehr viele Mods und das macht die Auswahl undurchsichtig. Hier zum Beispiel eine unvollständige <a href="/User:Twoelk/mods_list_experiments" title="User:Twoelk/mods list experiments">Liste von über 700 Mods</a> die im Sommer 2014 bekannt waren. Es gibt aber auch Mods welche nur für bestimmte Server geschrieben wurden und die sonst nicht für die Allgemeinheit veröffentlicht wurden.  
+</p><p>Generell gilt: alle Mods werden im <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewforum.php?f=46"><b>Minetest-Forum</b></a> veröffentlicht. Die Entwickler stellen in einem Thread dann meist den Mod vor und geben alle notwendigen Links an, wie die Download-Quelle, Anleitungen und vielleicht auch einen Hinweis auf Abhängigkeiten von anderen Mods, die ebenfalls installiert werden müssen, damit das Mod richtig läuft. Interessierte Nutzer können das Mod dann ausprobieren und kommentieren meist, ob es Probleme gibt oder ob ihnen das Mod gefällt. Dazu gibt es vielleicht auch Verbesserungsvorschläge.
+</p><p>Auch wenn es Updates gibt, werden dieses meist dann im ersten Beitrag wiederum veröffentlicht, indem der Beitrag abgeändert wird und Änderungen bekannt gegeben werden.
+</p><p>Die Suche im Forum nach einem bestimmten Thema oder auch nach dem Mod-Namen ist meist nicht so wirklich gut. In der Regel ist es sogar besser über Google zu suchen. Oder fragt im Forum nach, ob es ein Mod gibt, das die gewünschten Effekte hat. Um bei der Suche zu helfen wurde das externs Tool "<a rel="nofollow" class="external text" href="http://krock-works.16mb.com/MTstuff/modSearch.php">Minetest Mod Search</a>" entwickelt welches das Forum nach bestimmten Kriterien durchsuchen kann. Etwa nach Autoren, Wörtern im Titel und in bestimmten Forums Kategorien. Die Ergebnisse dieser Suchmaschine nutzt auch der "<a rel="nofollow" class="external text" href="http://rubenwardy.com/mtmods4android/">Minetest Mod Manager for Android</a>" um seine Liste von Mods zu generieren. Den Anfang der Liste machen allerdings die Mods von "<a rel="nofollow" class="external text" href="https://github.com/minetest-mods">Mod repository</a>" des "Minetest Mods Team". Hier sind einige der wichtigsten Mods in einem zentralen Archiv gesammelt.
+</p><p>Neben dem Forum ist die <b>Minetest-Homepage</b> eine Anlaufstelle für gute Mods (weil beliebt), denn dort hat man auf <a rel="nofollow" class="external text" href="http://www.minetest.net/customize/#mods">einer Seite</a> einige wichtigste Mods aufgelistet.
+</p><p>Auch das <b>Minetest-Wiki</b> bietet neben einer <a href="/Mods" title="Mods">Seite mit allgemeinen Infos</a> zu Mods auch noch eine <a href="/Category:Mods" title="Category:Mods">Kategorie mit Mods</a>, die allerdings wenig genutzt wird. Einige Wikiseiten listen Mods zu bestimmten Themen auf, so die Seite <a href="/Mobs" title="Mobs">Mobs</a> alles was es so an Monstern, Tieren, Computer gesteuerten Figuren und anderen undifinierbaren Wesen. Ebenso listet die Seite <a href="/Mods:Vehicles" title="Mods:Vehicles">Mods:Vehicles</a> Mods mit diversen Fahrzeugen auf. Die Wikiseite <a href="/index.php?title=Mods:Learning&amp;action=edit&amp;redlink=1" class="new" title="Mods:Learning (page does not exist)">Mods:Learning</a> listed dagegen verschiedene Mods zum Thema Lernen auf sowie einige Links zu Seiten die zum Thema passen.
+</p>
+<div class="floatright"><a href="/File:Unified_Inventory_Sreenshot.png" class="image"><img alt="Unified Inventory Sreenshot.png" src="/images/thumb/b/b0/Unified_Inventory_Sreenshot.png/280px-Unified_Inventory_Sreenshot.png" decoding="async" width="280" height="198" srcset="/images/thumb/b/b0/Unified_Inventory_Sreenshot.png/420px-Unified_Inventory_Sreenshot.png 1.5x, /images/thumb/b/b0/Unified_Inventory_Sreenshot.png/560px-Unified_Inventory_Sreenshot.png 2x" /></a></div>
+<p><br />
+<b>Das Beispiel-Mod "Unified Inventory" installieren</b>
+</p><p>Wenn  man bei der Installation vorgeht, wird anhand des Mods <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?t=3933">Unified Inventory</a> erklärt. 
+</p><p><br />
+Das Mod verändert das normalerweise recht einfache Inventar, dass ja normalerweise per "I" aufgerufen wird. Man erhält eine größere Fläche, eine Information wie man welche Blöcke herstellen kann und zusätzliche Knöpfe, mit denen man den Homepunkt setzen und zwischen Tag und Nacht umschalten kann und einiges mehr. Außerdem kann man nach Blöcken suchen.
+</p><p><br />
+Installation "hört" sich so "technisch" an, tatsächlich muss man das Mod-Verzeichnis nur an die richtige Stelle kopieren.
+</p><p><br />
+</p>
+<table class="wikitable">
+
+<tbody><tr style="vertical-align:top">
+<td><b>1. Schritt:</b> Mod herunterladen von <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?t=3933">dieser Seite</a> hinter "Download Link".
+</td>
+<td><a href="/File:Mod_installieren1.png" class="image"><img alt="Mod installieren1.png" src="/images/thumb/b/bc/Mod_installieren1.png/600px-Mod_installieren1.png" decoding="async" width="600" height="327" srcset="/images/b/bc/Mod_installieren1.png 1.5x" /></a>
+</td></tr>
+<tr style="vertical-align:top">
+<td>
+<p><b>2. Schritt:</b> ZIP-Datei entpacken und im eigenen Benutzer-Verzeichnis das Minetest-Einstellungs-Verzeichnis finden. 
+</p><p>Unter Linux findet es sich im "Persönlichen Ordner" als verstecktes Verzeichnis ".minetest". Das erreicht man, entweder indem man die unsichtbaren Dateien anschaltet oder in der Verzeichniszeile einfach hintendran "/.minetest" eingibt.
+</p><p>Die genaue Vorgehensweise hängt natürlich vom Betriebssystem ab.
+</p>
+</td>
+<td><a href="/File:Mod_installieren2.png" class="image"><img alt="Mod installieren2.png" src="/images/thumb/b/bb/Mod_installieren2.png/600px-Mod_installieren2.png" decoding="async" width="600" height="202" srcset="/images/thumb/b/bb/Mod_installieren2.png/900px-Mod_installieren2.png 1.5x, /images/b/bb/Mod_installieren2.png 2x" /></a>
+</td></tr>
+<tr style="vertical-align:top">
+<td>
+<p><b>3. Schritt:</b> Wenn im Verzeichnis ".minetest" noch kein Verzeichnis "mods" <i>(Schreibweise beachten!)</i> existiert, muss dieses erstellt werden und das entpackte Mod-Verzeichnis, also hier "unified_inventory-master", in das "mods"-Verzeichnis verschoben oder kopiert werden.
+</p>
+</td>
+<td><a href="/File:Mod_installieren3.png" class="image"><img alt="Mod installieren3.png" src="/images/thumb/1/1d/Mod_installieren3.png/600px-Mod_installieren3.png" decoding="async" width="600" height="214" srcset="/images/thumb/1/1d/Mod_installieren3.png/900px-Mod_installieren3.png 1.5x, /images/1/1d/Mod_installieren3.png 2x" /></a>
+</td></tr>
+<tr style="vertical-align:top">
+<td>Würde man Minetest nun so starten, käme eine Fehlermeldung, denn der Name des Mod-Verzeichnisses enthält falsche Symbole. Konkret geht es um das "-" im Namen.
+<p><b>4. Schritt:</b> Der Name des Mod-Verzeichnisses muss umbenannt werden. Ich habe im Beispiel aus "unified_inventory-master" "unified_inventory" gemacht. Dazu muss man wissen, dass das heruntergeladene ZIP-Verzeichnis von der Online-Quellcode-Verwaltung github automatisch erstellt wird und der ZIP-Name enthält immer "-master". Der genaue Name des Verzeichnisses hat keine Bedeutung.
+</p><p>Nun kann man Minetest starten.
+</p>
+</td>
+<td><a href="/File:Mod_installieren4.png" class="image"><img alt="Mod installieren4.png" src="/images/thumb/7/70/Mod_installieren4.png/300px-Mod_installieren4.png" decoding="async" width="300" height="262" srcset="/images/thumb/7/70/Mod_installieren4.png/450px-Mod_installieren4.png 1.5x, /images/7/70/Mod_installieren4.png 2x" /></a>
+</td></tr>
+<tr style="vertical-align:top">
+<td>Mods sind standardmäßig nicht aktiviert sondern müssen bzw. können konkret für einzelne Welten aktiviert werden.
+<p><b>5. Schritt:</b> Man erstellt wie vorher erklärt eine neue Welt, wählt diese aus und klickt dann auf "Konfigurieren".
+</p>
+</td>
+<td><a href="/File:Mod_installieren6.png" class="image"><img alt="Mod installieren6.png" src="/images/thumb/3/3d/Mod_installieren6.png/600px-Mod_installieren6.png" decoding="async" width="600" height="345" srcset="/images/3/3d/Mod_installieren6.png 1.5x" /></a>
+</td></tr>
+<tr style="vertical-align:top">
+<td>
+<p>Im Feld rechts sieht man den weiß geschriebenen Namen des neu installierten Mods. Darunter viele blau geschriebene Namen. Dabei handelt es sich um Mods, die sozusagen vorinstalliert wurden, nachdem sie sich als stabil und sinnvoll erwiesen haben. Das linke Fenster zeigt Abhängigkeiten des links angeklickten Mods an.
+</p><p><b>6. Schritt:</b> Hier wählt man rechts das installierte Mod, dass noch weiß geschrieben ist und hat nun drei Möglichkeiten es zu aktivieren.
+</p>
+<ul><li>Per Doppelklick auf den Namen</li>
+<li>Wenn das Mod ausgewählt ist <i>(also der Name angeklickt wurde)</i> ein Kreuzchen oben bei "Aktiviert" machen.</li>
+<li>Den Knopf "Alle an" klicken, was alle installierten Mods auf einmal aktiviert.</li></ul>
+<p>Durch Klick auf "Speichern" ist das Mod nun für das erstellte Spiel aktiviert und muss nicht noch einmal aktiviert werden.
+</p><p><b>ACHTUNG:</b> Beim Aktivieren aller Mods muss man eine Sache beachten. Es gibt Mods, die eine Welt zerstören können, indem die Landschaft verändert wird. Außerdem kann es natürlich vorkommen, dass sich Mods nicht vertragen. Im Zweifelsfall sollte man dann eventuell nicht alle installierte Mods aktivieren. Mit nur einem Mod, wie es hier der Fall ist, passiert da natürlich nichts. 
+</p>
+</td>
+<td><a href="/File:Mod_installieren5.png" class="image"><img alt="Mod installieren5.png" src="/images/thumb/2/29/Mod_installieren5.png/600px-Mod_installieren5.png" decoding="async" width="600" height="383" srcset="/images/2/29/Mod_installieren5.png 1.5x" /></a>
+</td></tr></tbody></table>
+<p><br />
+<b>Noch meeeehr Mods ...</b>
+</p><p>Tja, also .... die Installation ist ja wirklich ein Kinderspiel. Da würde man vielleicht dazu neigen, mehr und mehr Mods zu installieren und sie dann alle für sein Lieblingsspiel zu aktivieren. Allerdings ist das nicht wirklich immer sinnvoll.
+</p><p>Mods, die zum Beispiel mehr Baumtypen und weitere Gegenstände in der Landschaft hinzufügen (Pilze, Steine, Blumen, ...) führen dazu, dass es fast etwas voll wird auf den Welten. Ob einem das gefällt kann oder nicht ist natürlich einem selber überlassen.
+</p><p>Also sollte man womöglich erst einmal in einer neuen Welt ein Mods alleine ausprobieren und schauen, wie es sich auswirkt. Und dann kann man entscheiden, ob man das Mod verwenden will oder es wieder deinstalliert, was auch in Minetest machbar ist.
+</p>
+<h3><span class="mw-headline" id="Spielgeschwindigkeit">Spielgeschwindigkeit</span></h3>
+<p>Minetest hat den Ruf, weniger Rechnerleistung zu fordern als Minecraft. Um das vergleichen zu können, müsste man dies auf den gleichen Rechner vergleichbar laufen lassen.
+</p><p>Auf jeden Fall bietet Minetest verschiedene Einstellungen, durch die man den Rechner entlasten kann aber auch umgekehrt bei ausreichend starken Rechner eine bessere Darstellung bekommen kann.
+</p>
+<ul><li>Die <b>Sichtreichweite</b> lässt sich im Spiel einstellen über die Tasten <b>+</b> und <b>-</b>. Je weiter die Sicht ist, desto mehr Pixel müssen im Sichtbereich dargestellt werden, was die Geschwindigkeit verringert.
+<ul><li>Mit der Taste <b>R</b> kann die Sichtweite umgeschaltet werden von beschränkt auf weit, wobei "weit" wiederum nicht unendlich ist sondern davon abhängt, welche Bereiche schon geladen wurden bzw. wieder "entladen" wurden. Blickt man also zurück auf einen Bereich, durch den man sich bewegt hat, so ist meist mehr Landschaft zu sehen, als vor einem. <i>Kann das in der mintest-conf eingestellt werden?</i></li>
+<li>Um diese abgeschnittene Landschaft zu vermeiden, wird mit <b>R</b> ein Nebel angeschaltet werden, der den Anschein vermittelt, dass die weit entfernte Landschaft im Dunst verschwindet. Die Tasten <b>+</b> und <b>-</b> legen fest, wo der Nebel beginnt.</li></ul></li>
+<li>Die Umgebung bewegter und damit natürlich machen Bewegungen in der Landschaft aus. Dazu kann man im Client auf dem "Einstellungen" Tab drei Optionen anschalten, nämlich <b>Wasserwellen</b>, <b>wehende Blätter</b> und wehende <b>Pflanzen</b>. Das sieht hübsch aus, verlangsamt aber die Darstellung.</li>
+<li>Auf dem "Einstellungen" Tab, gibt es weitere Einstellungen mit denen man die Ansicht verbessern kann, wenn der Client-Rechner dies leisten kann.</li></ul>
+<h3><span class="mw-headline" id="Spezielle_Mods_und_ihre_Nutzung">Spezielle Mods und ihre Nutzung</span></h3>
+<h4><span class="mw-headline" id="Mesecons">Mesecons</span></h4>
+<p>Mesecons sind vergleichbar mit dem Redstone in Minecraft. Allerdings sind Mesecons stabile Leitungen und werden nicht wie Redstone-Staub auf dem Boden verteilt. Sie sind damit stabiler und bieten mehr Möglichkeiten als die Redstone-Leitungen.
+</p>
+<dl><dd>Mehr Informationen dazu auf dieser Unterseite → <a href="/index.php?title=Minetest_in_der_Schule/Anleitung_Mesecons&amp;action=edit&amp;redlink=1" class="new" title="Minetest in der Schule/Anleitung Mesecons (page does not exist)">Anleitung Mesecons</a></dd></dl>
+<h4><span class="mw-headline" id="WorldEdit">WorldEdit</span></h4>
+<p>WorldEdit entspricht in großen Teilen der gleichnamigen Erweiterung in Minecraft. Damit ist es zum Beispiel möglich ganze Wände, statt sie Stein für Stein einzeln zu bauen, in wenigen Sekunden bauen zu lassen. Neben der Manipulation von markierten Bereichen kann man auch vorgegebene Strukturen, wie Kugeln, Halbkugeln, Zylinder usw. mit einem Textbefehl bauen.
+</p>
+<dl><dd>Mehr Informationen dazu auf dieser Unterseite → <a href="/Minetest_in_der_Schule/Anleitung_WorldEdit" title="Minetest in der Schule/Anleitung WorldEdit">Anleitung WorldEdit</a></dd></dl>
+<h4><span class="mw-headline" id="Technic">Technic</span></h4>
+<p>Das Technic-Mod setzt auf andere Mods, wie das Mesecon-Mod, auf und verbindet es zu einem sehr umfangreichen Mod, dass extrem viele Möglichkeiten zum Bau von Maschinen und Anlagen bietet. Wirklich gute Anleitungen auf Deutsch gibt es nicht, einige englische Videos bei YouTube beschäftigen sich damit.
+</p>
+<dl><dd>Mehr Informationen dazu auf dieser Unterseite → <a href="/Minetest_in_der_Schule/Anleitung_Technic_Mod" title="Minetest in der Schule/Anleitung Technic Mod">Anleitung Technic Mod</a></dd></dl>
+<h4><span id="Überblick_Mods"></span><span class="mw-headline" id=".C3.9Cberblick_Mods">Überblick Mods</span></h4>
+<p>Die Anzahl der Mods ist nahezu unüberschaubar. Weiter hinten auf dieser Seite werden Mods angesprochen, die bei der Administration und beim Betreibern von Servern wichtig sind. Die folgende Unterseite listet Mods auf, die eher für die Ausstattung und das Ambiente eine Rolle spielen. Ergänzungen sind willkommen!
+</p>
+<ul><li><a href="/Minetest_in_der_Schule/%C3%9Cbersicht_einiger_Mods" title="Minetest in der Schule/Übersicht einiger Mods">Übersicht einiger Mods</a></li></ul>
+<h3><span class="mw-headline" id="Tutorial_installieren">Tutorial installieren</span></h3>
+<div class="floatright"><a href="/File:Tutorial_World.png" class="image"><img alt="Tutorial World.png" src="/images/thumb/f/ff/Tutorial_World.png/400px-Tutorial_World.png" decoding="async" width="400" height="225" srcset="/images/thumb/f/ff/Tutorial_World.png/600px-Tutorial_World.png 1.5x, /images/f/ff/Tutorial_World.png 2x" /></a></div><p>Um die Bedienung von Minetest kennenzulernen, sowohl für Anfänger als auch für Minecraft-Kenner, lohnt es sich ein Tutorial-Spiel zu installieren und durchzugehen.
+</p><p>Bei diesem Tutorial-Spiel werden die Grundlagen von Minetest gezeigt und erklärt. Im Grunde genommen ist es eine feste Kombination aus Mods und mindestens einer vorgegebenen Karte. Der Vorteil für den Spieler ist, dass er sich nicht um die Installation und die Aktivierung von Mods und das Laden bestimmter Karten kümmern muss.
+</p><p>Nach dem Start des Tutorial-Spiels findet man sich in einem Raum wieder und bekommt als erstes die wichtigsten Informationen zur Bewegung erklärt und wie man das Tutorial durchgehen muss. Das Tutorial erklärt nach und nach alle möglichen Aktivitäten und die wichtigsten Bedienungsmöglichkeiten. Man liest die Informationen aber nicht nur sondern kann/muss die Aktionen selber durchführen um voran zu kommen. Auf dem Weg kann man mehrere Goldbarren und Diamanten einsammeln. Als Lehrer könnte man so kontrollieren, ob die Schüler auch alles ausprobiert haben.
+</p><p>Die Welt ist nicht nicht zum selbstständigen Bauen gedacht. Bis auf wenige Stellen, wo die Nutzung von Werkzeugen zum Beispiel erklärt wird, kann der Spieler nichts abbauen und bauen. 
+</p><p><br />
+</p>
+<ul><li><b>Forumsseite zum Tutorial mit Download, Aktualisierungen und Diskussionen:</b> <a rel="nofollow" class="external free" href="https://forum.minetest.net/viewtopic.php?f=15&amp;t=10192">https://forum.minetest.net/viewtopic.php?f=15&amp;t=10192</a></li></ul>
+<p><br />
+<b>Installation:</b>
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<td>Wenn man die heruntergeladene ZIP-Datei entpackt findet man darin zwei Ordner "games" und "world". Man kann diese zwei Ordner einfach in das Minetestverzeichnis kopieren, wie es rechts zu sehen ist.
+<p>Dabei muss man dann bestätigen, dass man z.B. den Inhalt des Verzeichnisses "Worlds" aus dem Tutorial-Spiel in das schon vorhandene Verzeichnis hineinkopieren will.
+</p>
+</td>
+<td><a href="/File:Tutorial-Installation1.png" class="image"><img alt="Tutorial-Installation1.png" src="/images/thumb/1/1d/Tutorial-Installation1.png/500px-Tutorial-Installation1.png" decoding="async" width="500" height="274" srcset="/images/1/1d/Tutorial-Installation1.png 1.5x" /></a>
+</td></tr>
+<tr>
+<td>Hat man die Verzeichnisse eingefügt und startet man Minetest neu, dann sieht auf der Oberfläche am unteren Rand ein neues Symbol mit der Unterschrift "Tutorial".
+<p>Die zwei anderen Knöpfe stehen ebenso wie das Tutorial-Spiel für Minetest-Spiele. 
+</p>
+</td>
+<td><a href="/File:Tutorial-Installation2.png" class="image"><img alt="Tutorial-Installation2.png" src="/images/thumb/4/4f/Tutorial-Installation2.png/500px-Tutorial-Installation2.png" decoding="async" width="500" height="353" srcset="/images/4/4f/Tutorial-Installation2.png 1.5x" /></a>
+</td></tr>
+<tr>
+<td>Klickt man dieses Symbol an, so ändert sich die Überschrift und statt den vorher angezeigten eigenen Welten wird nur eine Welt in der Auswahl angezeigt.
+<p>Diese Welt ist diejenige, die mit dem Tutorial installiert wurde und es ist die Karte. auf der das Tutorial-Spiel gespielt wird.
+</p><p>Man muss dann nichts weiter machen, als den Knopf "Spielen" anzuklicken.
+</p>
+</td>
+<td><a href="/File:Tutorial-Installation3.png" class="image"><img alt="Tutorial-Installation3.png" src="/images/thumb/1/1e/Tutorial-Installation3.png/500px-Tutorial-Installation3.png" decoding="async" width="500" height="353" srcset="/images/1/1e/Tutorial-Installation3.png 1.5x" /></a>
+</td></tr>
+<tr>
+<td>Nach dem Start findet man sich in der Welt wieder und bekommt zuerst einen Informations-Text angezeigt, der nur kurz erklärt, welche Tasten notwendig sind um sich zu bewegen, aber auch ausführlicher über die Benutzung des Spiel berichtet. Man muss sich nicht alle Schilder anschauen, sollte aber später die Anleitungen durchlesen, die meist noch kürzer gehalten sind, in denen erklärt wird, wie man etwas machen kann.
+<p>Ausführlichere Texte berichten über Hintergründe, die für erfahrene Minecraft-Nutzer hin und wieder auch mal neue Informationen bieten. Deshalb sollte man zumindest jedes Schild einmal anklicken, um zu sehen, um was es dort geht.
+</p>
+</td>
+<td><a href="/File:Tutorial-Installation4.png" class="image"><img alt="Tutorial-Installation4.png" src="/images/thumb/3/3c/Tutorial-Installation4.png/500px-Tutorial-Installation4.png" decoding="async" width="500" height="348" srcset="/images/3/3c/Tutorial-Installation4.png 1.5x" /></a>
+</td></tr></tbody></table>
+<h2><span id="Ergänzende_Themen"></span><span class="mw-headline" id="Erg.C3.A4nzende_Themen">Ergänzende Themen</span></h2>
+<p>In diesem Abschnitt werden ein paar Themen angesprochen, die vertieft werden sollen und vorher noch nicht ausführlich behandelt wurden.
+</p>
+<h3><span class="mw-headline" id="Karten-Generierung">Karten-Generierung</span></h3>
+<p>Ab Version 0.4.14 sind einige Karten-Generatoren hinzugekommen, die inzwischen eine breite Auswahl an verschiedenen Landschaften ermöglichen. Man kann so bei der Auswahl der Generatoren also schon einiges festlegen. Für bestimmte Zwecke aber gibt es Mods, die speziellere Welten ermöglichen.
+</p>
+<h4><span class="mw-headline" id="Eingebaute_Welten-Generatoren">Eingebaute Welten-Generatoren</span></h4>
+<p>Letztendlich liefern die meisten eingebauten Welten-Generatoren zufällig erstellte Karten, deren Aussehen man insgesamt nicht wirklich vorhersagen kann. Es sei denn man gibt eine Seed (= Samen) vor, der dann zur Erstellung verwendet wird. Bei gleicher Programm-Version sollte die generierte Welt bei gleichem Samen (und den gleichen Mods) identisch aussehen.
+</p><p>Eine ausführliche Information über die Welten-Generatoren und wie die Welten zustande kommen, gibt es auf der englischen <a href="/Map_generator" title="Map generator">Wiki-Seite</a>.
+</p><p>Kurz zusammengefasst:
+</p>
+<ul><li><b>V5:</b> Der älteste Generator, aber für neuere Minetest-Versionen erneuert. Erzeugt teilweise eine etwas seltsame Landschaftsform und gelegentlich fliegende Inseln. Biome werden nur über Mods erzeugt.</li>
+<li><b>V6:</b> Der Standard-Map-Generator und Nachfolger von v5. Erzeugt weniger seltsame Landschaften und legt auch Biome fest, die aber von Mods verändert werden können.</li>
+<li><b>V7:</b> Eine Weiter-Entwicklung von V6. Die Biome werden von Mods erzeugt. Es gibt viele breite und tiefe "Flüsse", die aber auf Ozean-Höhe sind. Sie können deaktiviert werden.</li>
+<li><b>Valleys:</b> Ein weiterer Generator, der eine Landschaft mit vielen Hügeln, Bergen und Tälern erzeugt. Die Täler enthalten oft Flüsse mit fließendem Flusswasser. Der Fluss fließt den Berg herunter.</li>
+<li><b>flat:</b> Erzeugt eine nahezu flache Welt, aber mit Biomen. Es gibt Höhlen, wenn sie nicht deaktiviert sind, und man den Generator auch so einstellen, das einzelne Seen und Hügel erstellt werden.</li>
+<li><b>fractal:</b> Erzeugt Landschaften die auf Fraktale der Mandelbrot- und Julia-Menge beruhen. Biome, Höhlen und Dungeons gibt es auch.</li>
+<li><b>singlenode:</b> Erzeugt "Landschaften" die nur aus einer Art von Blöcken bestehen, nämlich Luftblöcken. Dieser Generator macht nur Sinn für Ersteller von Mods oder Games, die ihre Karte selber erzeugen.</li></ul>
+<h4><span class="mw-headline" id="Mods">Mods</span></h4>
+<p>Während die von den eingebauten Kartengeneratoren erzeugten Karten recht einfach und recht langweilig erscheinen - abgesehen von tollen Bergen und Landschaften - hat man in Minetest die Möglichkeit mit Hilfe von MapGen-Mods die Landschaften abwechslungsreicher zu machen. MapGen bedeutet Map-Generator und bedeutet, dass die Mods beim Aufrufs einer neuen Welt die Erstellung der Karte beeinflussen.
+</p><p>Dabei muss man bedenken, dass die Wahl der Mods und ob überhaupt ein Mod verwendet werden soll, davon abhängt was man auf der Karte machen will. Will man sich auf das Bauen größerer Strukturen konzentrieren sollte man kein weiteres Mod verwenden, dass die Landschaft verändert. Die Verwendung vieler MapGenerator-Mods erhöht die Anzahl der Biome, also Landschafts-Typen, und kann dazu führen, dass die Karte ziemlich wechselhaft ist. Man sollte ein wenig herumprobieren und verschiedene der eingebauten Generatoren mit dem gewünschten MapGen-Mod erzeugen lassen, um zu sehen, was am besten zu den eigenen Vorstellungen passt.
+</p><p>Wer mutig ist, kann die Erstellung der Biome auch manipulieren und so einzelne Biome sozusagen ausschalten. Dazu im nächsten Abschnitt!
+</p><p><b>Mod "superflat"</b>
+Das <a rel="nofollow" class="external text" href="https://github.com/srifqi/superflat">Mod "superflat"</a> liefert eine recht bequeme Möglichkeit, nicht nur flache Welte zu generieren sondern auch solche, mit einem ganz bestimmten Aufbau versehen sind. Das ist keine glattgebügelte, wie bei der eingebauten Kartengenerator "flat" sondern eine spezielle erzeugte. Auf der Github-Seite gibt es einige Beispiele. Dieses Mod ist ideal, um z.B. eine Welt zu erzeugen, die nur eine Lage Erde und darunter Stein hat. Um etwas auszuwählen muss man allerdings im Code etwas verändern. Also dann doch nichts für Anfänger.
+</p><p><b>Mod  "Etherreal"</b>
+Das Etherreal-Mod ist wohl das umfangreichste MapGen-Mod in Minetest. Es wurde erst vor kurzem neu aufgelegt und dabei von Grund auf modernisiert. Deshalb darauf achten, dass man das "Etherreal NG"-Mod verwendet.
+</p><p>Das Etherreal-Mod bietet zahlreiche neue und überraschende Biom-Typen mit zahlreichen neuen Pflanzen und Bäumen. Dadurch kommen auch neue Holztypen ins Spiel, die noch mehr Abwechslung in der Farbe bieten und meist auch verarbeitet werden können, so dass man etwa neue Farbe für Zäune und andere Produkte hat.
+</p>
+<dl><dd><u>Forums-Seite:</u> <a rel="nofollow" class="external free" href="https://forum.minetest.net/viewtopic.php?f=11&amp;t=14638">https://forum.minetest.net/viewtopic.php?f=11&amp;t=14638</a></dd></dl>
+<p><br />
+<b>Mod "Real Terrain"</b>
+</p><p>Das Mod erlaubt die Erstellung wirklich individueller Karten, indem man Bilder verwenden kann, um darauf basierend die Landschaft zu gestalten. So kann ein Graustufen-Bild als Höhenkarte verwendet werden oder auch andere Bilder für die Erstellung bestimmter Biome. Interessant könnte dieses Mod werden, wenn man z.B. die eigene Stadt in Minetest nachbauen will. So könnte man die Struktur des Geländes ebenso wie Waldgebiete vorgeben und generieren lassen.
+</p>
+<dl><dd><u>Forums-Seite:</u> <a rel="nofollow" class="external free" href="https://forum.minetest.net/viewtopic.php?f=11&amp;t=12666">https://forum.minetest.net/viewtopic.php?f=11&amp;t=12666</a></dd>
+<dd><u>Video des Entwicklers:</u> <a rel="nofollow" class="external free" href="https://www.youtube.com/watch?v=66pehrH6Bh0">https://www.youtube.com/watch?v=66pehrH6Bh0</a></dd>
+<dd><u>Tool, um eine Höhenkarte in Graustufen zu erstellen.</u> <a rel="nofollow" class="external free" href="http://terrain.party/">http://terrain.party/</a></dd></dl>
+<p><br />
+<b>Ohne Mod: Leere Karte erzeugen</b>
+Will man eine total leere Karte ohne Blöcke haben, so geht das auch ohne Mod recht einfach. Es gibt mal Mods, aber ich meine, dass es so fast schneller und bequemer geht:
+</p>
+<ol><li>Man erstellt eine Karte mit einem beliebigen Kartengenerator, z.B. die Welt "Leer".</li>
+<li>Die Welt wird gestartet und sorgt dafür, dass man in der dann geleerten Welt nicht herunterfällt. Dazu gibt man den Befehl "<i>/grantme all</i>" ein, aktiviert das Fliegen (bei mir, bei den Tasten einstellbar, zweimal die Sprungtaste drücken, was als Voreinstellung die Leertaste ist.</li>
+<li>Minetest wird komplett ganz.</li>
+<li>Man sucht in dem Unterverzeichnis von Minetest nach dem Verzeichnis <i>"worlds"</i> und öffnet dort das Verzeichnis <i>"Leer",</i> also entsprechend des gewählten Namens für die Welt.</li>
+<li>Dann löscht man die Datei "<i>map.sqlite</i>" und öffnet die Datei "<i>map_meta.txt</i>" in einem einfachen Texteditor. Dort sucht nach der Zeile, wo der Parameter "mg_name" zu finden ist. Dort wird der Kartengenerator festgelegt. Für eine leere Karte trägt man dort ein: "<i>mg_name = singlenode</i>"</li></ol>
+<p>Nach dem Neustart der Welt sollte sie nun komplett leer sein. Damit man da nun bauen kann, muss man das Mod World-Edit verwenden. So könnte man sich zum Beispiel ein kreisrunde Scheibe bauen, von der aus dann die Welt aufgebaut wird.
+</p>
+<h4><span class="mw-headline" id="Etwas_Theorie_zur_Biom-Erzeugung">Etwas Theorie zur Biom-Erzeugung</span></h4>
+<p>Biome und deren Positionen werden in den Generatoren vor allem mit vier Werten festgelegt: 
+</p>
+<ol><li>Es gibt eine minimale und eine maximale Höhe in der sie erstellt werden können.</li>
+<li>Die Auswahl eines Biom hängt dann noch von zwei auf der Karte zufällig festgelegten Werten für jeden Punkt ab und zwar die Feuchtigkeit und die Temperatur. Die Temperatur ist aber (vermutlich!?) auch auch von der Höhe abhängig. Für jedes Biom ist eine nun ein Temperatur-Wert und eine Feuchtigkeit definiert, die für das Biom typisch ist.</li></ol>
+<p>Beim Neu-Generieren der Karte wird also für die Oberfläche untersucht, welche der Biome an einer bestimmten Stelle in Frage kommt. Dabei ist aber der Werte-Bereich eben nicht so festgelegt, das man Grenzen nicht direkt festlegt sondern über ein sogenanntes <a rel="nofollow" class="external text" href="https://de.wikipedia.org/wiki/Voronoi-Diagramm">Voronoi-Diagramm</a>. Es handelt sich um eine Zerlegung in Regionen, die durch eine vorgegebene Menge an Punkten, in Minetest die Werte der Biome als Punkte in einem 2D-Koordinatensystem, bestimmt werden.
+</p><p>Für das Mod-Etherreal sieht das entsprechende Voronoi-Diagramm <a rel="nofollow" class="external text" href="https://www.geogebra.org/m/u2ngcd5F">so aus</a>, wobei das Aussehen auch von der Höhe abhängt und anhand des Schiebereglers kann man die verändern.
+</p><p>Um es noch ein wenig zu konkretisieren, wie die Temperatur- und Feuchtigkeitsverteilung erzeugt wird:
+Beim Erstellen der neuen Karte wird nicht nur das Oberflächenprofil erstellt sondern für eine bestimmte x-y-Koordinaten gleichzeitig die zwei Werte per Zufall erzeugt. Dabei wird ein Formel der folgenden Art verwendet:
+</p>
+<dl><dd><code>50 + noisevalue * 50</code></dd></dl>
+<p>... wobei die Werte von "noisevalue" (noise = Rauschen) zwischen -1.5 und +1.5 schwanken. Dabei gibt es nicht für jeden Punkt absolut zufällige Werte sondern sie gehen ineinander über, so dass man zum Beispiel Gefälle hat bei der Temperatur. An einer Stelle ist dann etwa der höchste Wert und von da ab fällt der Wert in alle Richtungen weiter ab. Auch wenn man von maximalen Werte von 100 und minimalen Werten von 0 ausgeht kommen auch kleinere bzw. größere vor, aber die auszuschließen wäre zu umständlich.
+</p><p><br />
+<b>Links:</b>
+</p>
+<ul><li><a rel="nofollow" class="external free" href="https://forum.minetest.net/viewtopic.php?f=47&amp;t=11603">https://forum.minetest.net/viewtopic.php?f=47&amp;t=11603</a></li></ul>
+<h3><span id="Den_Überblick_behalten_und_sich_nicht_verirren"></span><span class="mw-headline" id="Den_.C3.9Cberblick_behalten_und_sich_nicht_verirren">Den Überblick behalten und sich nicht verirren</span></h3>
+<p>Nachdem eine Karte erstellt wurde und man sie als "gut" genug empfindet guckt man sich vielleicht als Lehrer um und sucht eine Stelle, die passend für das gewünschte Ziel der Nutzung mit der Gruppe ist.
+</p>
+<h4><span class="mw-headline" id="Homepunkte_und_Teleportieren">Homepunkte und Teleportieren</span></h4>
+<p>Beim Herumfliegen und mit dem Schnell-Bewegungsmodus kommt man schnell herum und bekommt so einen gewissen Überblick. Um sich eine Position zu merken kann man ...
+</p>
+<ul><li>... sich einfach die Koordinaten aufschreiben. Bei Bedarf kann man sich dann an die Stelle zurückteleportieren, indem man zum Beispiel im Textbereich "/teleport &lt;x&gt;,&lt;y&gt;,&lt;z&gt;" eingibt. Bei mehreren Spielern muss man bei sich selber nicht den Namen angeben. Mehr zum Teleportieren <a href="/Server_commands#Teleportation" title="Server commands">hier</a>. Teleportieren kann aber nur derjenige, der das "teleport"-Privileg hat. Man kann als Admin mit den Rechten natürlich auch andere dann zu sich holen oder umgekehrt.</li>
+<li>... sich einen Homepunkt setzen, indem man im Textbereich eingibt "/sethome". Es erfolgt im Chat die Meldung, dass der Befehl übernommen wurde. Gibt man dann im Textbereich "/home" ein wird man zur der Stelle zurückteleportiert.</li>
+<li>... das Mod "Unified Inventory" nutzen, dass einen hat Homepunkt-Knopf hat und einen weiteren Homepunkt setzt. Dieser Homepunkt ist nicht identisch mit dem, den man per Textbefehl eingibt. Vorteil ist, dass man sich so zwei Homepunkte einstellen kann.</li></ul>
+<dl><dd><dl><dd><b>ACHTUNG:</b> <i>Nicht zu schnell klicken und dann womöglich statt zum Homepunkt zurückzukehren einen neuen zu setzen!</i></dd></dl></dd></dl>
+<p>Für einen späteren Zeitpunkt, wenn man vielleicht an verschiedenen Stellen Bauprojekt hat, lohnt sich die Nutzung des eines Mods wie zum Beispiel <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=11&amp;t=4877">Travelnet</a>, wo man in Teleporter-Boxen, mit denen man sich zu verschiedenen Orten transportieren lassen kann.
+</p>
+<h4><span class="mw-headline" id="Karten">Karten</span></h4>
+<p>Es gibt ein paar Möglichkeiten einen Überblick zu bekommen:
+</p>
+<ul><li>Nur einen kleinen Überblick bietet die festeingebaute <b>Mini-Map</b>, die man sich rechts oben einblenden lassen kann. Mit F9 kann man verschiedene Vergrößerungen und für die Arbeit Untertage auch eine Radarfunktion einschalten.</li>
+<li>Es gibt ein C++ Programm für Minetest, mit dem man größere Ausschnitte der Welt in einem Bild darstellen kann. Das Programm <b>Minetest-Mapper</b> bekommt man <a rel="nofollow" class="external text" href="https://github.com/minetest/minetestmapper">hier</a>.</li>
+<li>Das Projekt <a rel="nofollow" class="external text" href="https://bitbucket.org/s_l_teichmann/mtsatellite"><b>MTSatellite</b></a> scheint die Karte von Minetest-Mapper zu nutzen und zeigt sie als Karte im Webbrowser an. In einem <a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=iYEROGPj7RI">Video</a> wird gezeigt, dass man so im Browser live sehen kann, was sich auf dem Minetest-Server tut. Als Beispiel kann man [<a rel="nofollow" class="external autonumber" href="http://maps.mt.sha-bang.de/%7Chier">[1]</a>] eine Karte zu einem Server anschauen, wo man auch die Spieler angezeigt bekommen kann sowie POI (Points of Interest) die von Hand angelegt werden. Das können zum Beispiel Bauwerke sein, bei denen dann auch Bilder aus dem Spiel eingefügt werden können. Im Gegensatz zur Dynamap von Minecraft gibt es (noch?) keine Schrägansicht.</li></ul>
+<h3><span id="Grundstücke_sichern"></span><span class="mw-headline" id="Grundst.C3.BCcke_sichern">Grundstücke sichern</span></h3>
+<p><i>... wird verschoben in die Server-Einrichtung</i>
+</p>
+<ul><li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=11&amp;t=12754">[Mod] More advanced area protection</a></li></ul>
+<h2><span class="mw-headline" id="Einen_eigenen_Minetest-Server_aufsetzen">Einen eigenen Minetest-Server aufsetzen</span></h2>
+<p>Im Gegensatz zu Minecraft findet man derzeit keine guten Angebote zum automatischen Einrichten eines Online-Minetest-Servers. Da heißt also Hand anlegen!
+</p><p>Die Einrichtung eines eigenes Servers ist aber glücklicherweise nicht wirklich schwer. Wobei da noch nicht eingerechnet wurde die Einstellungen nach den Wünschen richtig anzupassen <i>(was ja auch bei Minecraft notwendig ist!)</i>. Und es muss natürlich auch für den Computer das passende (und vor allem aktuelle) Installations-Paket zu finden sein.
+</p><p>Die Leistungsfähigkeit des Systems gibt dann auch vor, wieviele Spieler den Server benutzen können, damit er einigermaßen flüssig läuft. Dazu gibt es die folgenden Beispiel-Systeme mit der verkraftbaren Anzahl an Spielern:
+</p>
+<ul><li><b>Raspberry Pi 2</b> mit OS Raspbian auf Jessie-Basis, Minetest-Server über die offiziellen Pakete installiert (also Minetest 0.4.10)</li></ul>
+<dl><dd><dl><dd>→ geeignet für <b>10 - 15 Spieler</b></dd></dl></dd></dl>
+<ul><li>Mini-PC (<b>Intel Atom D525 / 4GB Ram / SSHD</b>) mit OS Ubuntu Server 16.04, Minetest-Server über die offiziellen Pakete installiert (also Minetest 0.4.13)</li></ul>
+<dl><dd><dl><dd>→ geeignet für <b>bis zu 30 Spieler</b></dd></dl></dd></dl>
+<ul><li>HP Proliant Gen8 (<b>Intel Celeron G1610T / 4Go Ram / 4xHDD)</b>  mit OS Ubuntu Server 16.04 LTS, Minetest-Server über die offiziellen Pakete installiert (also Minetest 0.4.13)</li></ul>
+<dl><dd><dl><dd>→ geeignet für <b>bis zu 100 Spieler</b></dd></dl></dd></dl>
+<h3><span class="mw-headline" id="Spezielle_Systeme">Spezielle Systeme</span></h3>
+<p>Als Hilfe für die Einrichtung eines eigenes Server sollen hier nun Anleitungen für verschiedene Server-Typen gesammelt werden. Dabei geht es nur um die Installation und spezifische Tipps rund um einen bestimmten Server-Typ. <br />
+Die Einrichtung ist bei allen Installation identisch und wird im nächsten Abschnitt angesprochen.
+</p>
+<h4><span class="mw-headline" id="Raspberry_Pi">Raspberry Pi</span></h4>
+<p><a rel="nofollow" class="external text" href="https://www.raspberrypi.org">RaspberryPi</a> sind konzipiert als preiswerte "Bastel-Computer", z.B. CPU-Board 20-40€, Netzteil 16€, SDcard als Speichermedium, alles weitere optional.
+(Eine Messwert-Erfassung, etwa Temperatur/Wetter braucht z.B. weder Bildschirm noch Keyboard)
+</p><p>Mit dem RaspberryPi kann man sich einen Server zum Mitnehmen konfigurieren. Kann/darf im Schulnetz kein Server installiert werden, so könnte man ihn zu Hause vorbereiten und dann in der Schule einfach ins Schulnetz einklinken. Eventuell muss man vielleicht noch einen Port freigeben, damit der Server genutzt werden kann.
+</p><p>Ausführliche Informationen zum Erstellen eines Minetest-Servers auf dem RasPi mit allen Schritten gibt es auf dieser <a href="/Minetest_in_der_Schule/RaspberryPi-Server_anlegen_und_einrichten" title="Minetest in der Schule/RaspberryPi-Server anlegen und einrichten">Unterseite</a>.
+</p>
+<h4><span class="mw-headline" id="Server_auf_USB-Stick">Server auf USB-Stick</span></h4>
+<p>Ein normaler USB-Stick allein reicht natürlich nicht, der speichert nur Daten.<br />
+Man braucht auch einen PC, der auf einen USBstick zugreifen kann bzw. darf.
+Ditto für booten.
+</p><p>Zugriff per USB bzw. booten von externen Medien könnte nämlich in den BIOS-Einstellungen<br />
+oder in der Konfiguration abgeschaltet sein, z.B. aus Sicherheitsgründen.
+</p><p>Ob und welche PCs man verwenden kann/darf, muss man also vor Ort klären.
+</p><p>Als nächstes stellt sich die Frage: nur Minetest oder Komplett-System&#160;?
+</p>
+<ul><li>nur Minetest: läuft unter dem Betriebssystem, das bereits auf dem PC installiert ist.</li>
+<li>Komplett-System: Boot + Betriebssystem + Minetest (+Daten)</li></ul>
+<dl><dd>Hier könnte man ein kleines, bootfähiges Linux nehmen (ähnlich wie RaspberryPi).</dd></dl>
+<p>...
+</p>
+<h4><span class="mw-headline" id="vServer_bei_Hetzner_mieten_und_einrichten">vServer bei Hetzner mieten und einrichten</span></h4>
+<p>Die Server-Anbieter Hetzner bietet auch das Mieten von vServern an. Diesen vollen Zugriff über die Konsole auf den Server und die Festplatte braucht man derzeit noch, um online einen Minetest-Server zu installieren. <br />
+Man bekommt dann zum Preis von knapp 5€ monatlich einen vServer mit 1 GB RAM. 
+Eine sehr einfache Anleitung liefert <a rel="nofollow" class="external text" href="http://thomas-ebinger.de/2016/10/wie-richtet-man-einen-online-minetest-server-ein/">diese Seite</a> bei der auch gezeigt wird, wie man die derzeit aktuelle Version 0.4.14 installiert.
+</p>
+<h3><span class="mw-headline" id="Einrichtung_und_Sichern_eines_eigenen_Servers">Einrichtung und Sichern eines eigenen Servers</span></h3>
+<p>Nach erfolgreicher Installation und Testlauf mit einer neu erstellten Welt ohne Mods kann man sich an die Einrichtung des Servers machen.
+</p><p>Diese Einrichtung wird auf Unterseiten verteilt angesprochen. Gerade wenn ein Server im Internet betrieben wird, muss man wichtige Dinge beachten, damit der Server vor unerwünschten Übergriffen sicher ist und für den Fall von technischen Defekten sollten möglichst automatisch angelegte Backups erfolgen.
+</p>
+<ul><li><a href="/Minetest_in_der_Schule/Einstellungen_am_Server_vornehmen_und_Einrichten" title="Minetest in der Schule/Einstellungen am Server vornehmen und Einrichten">Einstellungen vornehmen</a></li>
+<li>Sicherung mit Backups usw.</li>
+<li><a href="/Minetest_in_der_Schule/Sinnvolle_Mods_zum_Betreiben_eines_Servers" title="Minetest in der Schule/Sinnvolle Mods zum Betreiben eines Servers">Sinnvolle Mods zum Betreiben eines Servers</a></li></ul>
+<h2><span id="Ideen_für_den_Unterrichtseinsatz"></span><span class="mw-headline" id="Ideen_f.C3.BCr_den_Unterrichtseinsatz">Ideen für den Unterrichtseinsatz</span></h2>
+<p>Eigentlich muss man da nichts neu erfinden, denn in/für Minecraft gibt es schon genügend Ideen.
+</p><p>Da Minetest aber etwas offener ist, kann man hier und da vielleicht etwas mehr mit machen. ...
+</p><p>Im Wiki wurde eine Liste mit Ideen 
+</p>
+<h3><span class="mw-headline" id="Gestalten_des_eigenen_Spiels">Gestalten des eigenen Spiels</span></h3>
+<h4><span class="mw-headline" id="Eigene_Skins_verwenden_und_zeichnen">Eigene Skins verwenden und zeichnen</span></h4>
+<p>Das Verwenden eines eigenen Skins geschieht so, dass man die Oberflächen-Datei mit dem gewünschten Skin in das Verzeichnis der aktuell verwendeten Textur kopiert. Dazu muss dieses Bild den Namen "character.png" haben. <b>ALLERDINGS</b> haben dann alle anderen Spieler auch den gleichen Skin, wenn das nicht anders vorgegeben ist.
+</p><p>Eine Sammlung von Minetest-kompatiblen Skins findet man in der <a rel="nofollow" class="external text" href="http://minetest.fensta.bplaced.net/">Skin-Datenbank</a>, in der man sich die Skin von allen Seiten betrachten kann. Man sucht sich das gewünschte Aussehen raus, lädt die png-Datei herunter, benennt sie um und kopiert sie in dem Verzeichnis "textures" in das Verzeichnis der verwendeten Textur.
+</p><p>Einen ganz eigenen Skin kann man erstellen, indem man sich zum Beispiel eine vorhandene Datei nimmt und diese in einem beliebigen Bild-Bearbeitungsprogramm verändert.
+</p>
+<h4><span class="mw-headline" id="Eigene_Textur_gestalten">Eigene Textur gestalten</span></h4>
+<h4><span id="Eigene_Blöcke_im_Spiel_selber_erzeugen"></span><span class="mw-headline" id="Eigene_Bl.C3.B6cke_im_Spiel_selber_erzeugen">Eigene Blöcke im Spiel selber erzeugen</span></h4>
+<p>Es wurde ein Mod vorgestellt, indem man aus vorhandenen Material-Typen sich selber Blöcke bauen kann, die quasi automatisch aus den Texturen (den Oberflächen-Bildern) in einigen vorgegebenen Formen zusammengebaut werden können. Mit dem Mod <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=11&amp;t=4297">NonCubic Blocks Mod</a> bekommt man die <i>Milling-Maschine</i>, mit der man im Spiel bequem die neuen Blöcke erzeugen kann. Die Idee ist, einen Block auszuwählen und den dann in die gewünschte Form zu bringen. Allerdings funktioniert das nicht mit allen Stein-Typen aus den verschiedenen Mods.
+</p>
+<h3><span class="mw-headline" id="Ein_eigenes_Mod_erstellen">Ein eigenes Mod erstellen</span></h3>
+<p>OpsenSource-Projekte laden ja gerade dazu dazu ein, selber etwas beizutragen und auch bei Minetest ist das wirklich recht einfach. Im Grunde genommen kann man sich in einer Minute mal eben schnell ein Mod erstellen und so einen neuen, eigenen Block einbauen. Natürlich dauert es dann etwas, wenn man ihm eine komplexe Funktionalität geben will, aber die Schwelle für einen Einstieg ist wirklich nicht hoch.
+</p><p>Wenn man seine Schüler dafür begeistern kann, könnte man so vielleicht gemeinsam ein Mod erstellen und dabei folgendes ansprechen:
+</p>
+<ul><li>Funktionsweise der Scriptsprache Lua, wobei den Aspekt der Syntaxes wichtig ist, sowie der Umgang von "default"-Werten und Daten-Typen.</li>
+<li>Zeichnen von Texturen in einem Pixel-Bild-Programm wie <i>The Gimp</i> oder mit Hilfe von <i>Inkscape</i>.</li>
+<li>Erstellung von 3D-Gitter im OpenSource-Programm <i>Blender</i>, das png-Texturen verwendet, die in Gimp erstellt werden müssen.</li>
+<li>Erstellen oder Aufnahme und Bearbeitung von Geräuschen, was mit dem Programm <i>Audacity</i> möglich.</li>
+<li>Lizenzen, wenn man sein Mod zum Beispiel bei Github veröffentlichen will.</li></ul>
+<p>Ausführliche Informationen zum "Modding" gibt es auf einer <a href="/Minetest_in_der_Schule/Selber_ein_Mod_erstellen" title="Minetest in der Schule/Selber ein Mod erstellen">Unterseite</a>, denn das wäre hier zuviel!
+</p><p><br />
+</p>
+<h4><span class="mw-headline" id="Mobs_erstellen">Mobs erstellen</span></h4>
+<p>Eine spezielle und etwas anspruchsvoller Art eines Mods sind Mobs. Das Wort "Mob" ist eine Abkürzung für "mobil", und damit geht es mobile, computer-gesteuerter Charakter in Minetest. Meist sind das Tiere, Monster oder auch NPC (Non-Play-Charakter) = Charaktere, die zwar wie die Spieler aussehen aber eben doch Mobs sind.
+</p><p>Wichtig bei der Erstellung von Mobs ist die Nutzung des Programms "Blender", mit dem auch die Animation festgelegt wird.
+</p><p>Inzwischen gibt es einige Mob-APIs, eine Art Programm-Bibliotheken, die dem Mob-Mod-Ersteller Arbeit abnehmen, indem sie einige Funktionen anbieten, die man dann für als Mob-Mod-Ersteller sich nutzen kann. Das umfangreichste API-Mod für Mobs ist <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=11&amp;t=9917">Mobs-Redo</a>.
+</p><p>Ausführliche Informationen zur "Mob"-Erstellung gibt es auf dieser <a href="/Minetest_in_der_Schule/Selber_Mobs_ersteller" class="mw-redirect" title="Minetest in der Schule/Selber Mobs ersteller">Unterseite</a>.
+</p>
+<h3><span class="mw-headline" id="Architektur">Architektur</span></h3>
+<h3><span class="mw-headline" id="Geschichte_bauen">Geschichte bauen</span></h3>
+<h3><span class="mw-headline" id="Lernadventure">Lernadventure</span></h3>
+<h3><span class="mw-headline" id="Abenteuer_erleben">Abenteuer erleben</span></h3>
+<p>Nur für den Fall, dass es gewünscht wird: Schüler suchen manchmal die Herausforderung und wollen starke Gegner, um sich gegen die zu beweisen. Inzwischen gibt es schon einige Mods, die so etwas bieten. Entweder installiert man sie sich selber oder geht auf einen Server, wo sie genutzt werden.
+</p>
+<ul><li>Es gibt zahlreiche Survival-Server in der <a rel="nofollow" class="external text" href="http://servers.minetest.net/">öffentlichen Serverliste</a>, auf denen man sich durchkämpfen muss. Einige haben thematische Mods, man kann also etwas passendes suchen.</li>
+<li><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=14494">Fun-Caves</a> ist ein Mod, das noch  in Entwicklung ist. Es bietet Höhlen mit allen notwendigen Ressourcen, so dass man gar nicht mehr an die Oberfläche muss, wenn man mal drin ist. Es gibt aber feindselige Mobs, gegen die man sich wehren muss.</li></ul>
+<h3><span class="mw-headline" id="Gruppen_einteilen">Gruppen einteilen</span></h3>
+<p>Für welche Zwecke auch immer, wenn man die Teilnehmer in Gruppen aufteilen will könnte man das Mod <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=15352">Factions</a> verwenden. Das Mod ist im Moment noch in der Entwicklung und ist daher eventuell noch nicht einsatzfähig. Das muss noch genauer getestet werden.
+</p>
+<h2><span class="mw-headline" id="Links">Links</span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.ocsmag.com/2016/04/04/mining-for-education/#5">Mining for Education</a></li></ul>
+<!-- 
+NewPP limit report
+Cached time: 20230709092736
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.326 seconds
+Real time usage: 0.382 seconds
+Preprocessor visited node count: 362/1000000
+Post‐expand include size: 3773/2097152 bytes
+Template argument size: 1225/2097152 bytes
+Highest expansion depth: 6/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   21.099      1 -total
+ 96.39%   20.338      4 Template:Mbox
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:2153-0!canonical and timestamp 20230709092736 and revision id 21749
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Minetest_in_der_Schule&amp;oldid=21749">http://wiki.minetest.net/index.php?title=Minetest_in_der_Schule&amp;oldid=21749</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:German" title="Category:German">German</a></li><li><a href="/Category:Tutorials" title="Category:Tutorials">Tutorials</a></li><li><a href="/Category:Minetest_as_Educational_Tool" title="Category:Minetest as Educational Tool">Minetest as Educational Tool</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Minetest+in+der+Schule" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Minetest_in_der_Schule" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Minetest_in_der_Schule&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Minetest_in_der_Schule">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Minetest_in_der_Schule&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Minetest_in_der_Schule&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Minetest_in_der_Schule" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Minetest_in_der_Schule" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Minetest_in_der_Schule&amp;oldid=21749" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Minetest_in_der_Schule&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 26 August 2018, at 11:48.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.326","walltime":"0.382","ppvisitednodes":{"value":362,"limit":1000000},"postexpandincludesize":{"value":3773,"limit":2097152},"templateargumentsize":{"value":1225,"limit":2097152},"expansiondepth":{"value":6,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1,"limit":5000000},"timingprofile":["100.00%   21.099      1 -total"," 96.39%   20.338      4 Template:Mbox"]},"cachereport":{"timestamp":"20230709092736","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":259});});</script></body></html>

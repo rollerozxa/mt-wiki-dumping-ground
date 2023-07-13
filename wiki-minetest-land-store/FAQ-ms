@@ -1,0 +1,608 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>FAQ/ms - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"d8625e713a019c8384801ae2","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"FAQ/ms","wgTitle":"FAQ/ms","wgCurRevisionId":26876,"wgRevisionId":26876,"wgArticleId":3216,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Malay"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"FAQ/ms","wgRelevantArticleId":3216,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready",
+"user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=ext.cite.styles%7Cmediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-FAQ_ms rootpage-FAQ skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">FAQ/ms</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/FAQ" title="FAQ">FAQ</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> Bahasa:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><a href="/FAQ" title="FAQ">English</a>&#160;• <bdi lang="es"><a href="/FAQ/es" title="FAQ/es">español</a></bdi>&#160;• <bdi lang="fr"><a href="/FAQ/fr" title="FAQ/fr">français</a></bdi>&#160;• <bdi lang="id"><a href="/FAQ/id" title="FAQ/id">Bahasa Indonesia</a></bdi>&#160;• <bdi lang="ja"><a href="/FAQ/ja" title="FAQ/ja">日本語</a></bdi><b>&#160;• <bdi lang="ms"><a class="mw-selflink selflink">Bahasa Melayu</a></bdi></b>&#160;• <bdi lang="uk"><a href="/FAQ/uk" title="FAQ/uk">українська</a></bdi>&#160;• <bdi lang="zh-hans"><a href="/FAQ/zh-hans" title="FAQ/zh-hans">中文（简体）‎</a></bdi></td>
+</tr></tbody></table>
+<p>Ini himpunan <b>soalan yang sering ditanya</b> berkaitan Minetest. Untuk masalah teknikal, sila rujuk di halaman <a href="/Troubleshooting/ms" title="Troubleshooting/ms">Pencarisilapan</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Apakah_itu_Minetest.3F"><span class="tocnumber">1</span> <span class="toctext">Apakah itu Minetest?</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Mengenai_Enjin"><span class="tocnumber">2</span> <span class="toctext">Mengenai Enjin</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Berapakah_harga_Minetest.3F"><span class="tocnumber">2.1</span> <span class="toctext">Berapakah harga Minetest?</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Adakah_Minetest_itu_klon_Minecraft.3F"><span class="tocnumber">2.2</span> <span class="toctext">Adakah Minetest itu klon Minecraft?</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Siapakah_yang_mencipta_Minetest.3F"><span class="tocnumber">2.3</span> <span class="toctext">Siapakah yang mencipta Minetest?</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Apakah_bahasa_pengaturcaraan_yang_digunakan_oleh_Minetest.3F"><span class="tocnumber">2.4</span> <span class="toctext">Apakah bahasa pengaturcaraan yang digunakan oleh Minetest?</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Bolehkah_saya_mengubah_kod_dengan_sendiri.3F"><span class="tocnumber">2.5</span> <span class="toctext">Bolehkah saya mengubah kod dengan sendiri?</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Bilakah_versi_Minetest_seterusnya_akan_diterbitkan.3F"><span class="tocnumber">2.6</span> <span class="toctext">Bilakah versi Minetest seterusnya akan diterbitkan?</span></a>
+<ul>
+<li class="toclevel-3 tocsection-9"><a href="#Kenapa_nombor_versi_berubah_dari_0.4.17.1_ke_5.0.0.3F"><span class="tocnumber">2.6.1</span> <span class="toctext">Kenapa nombor versi berubah dari 0.4.17.1 ke 5.0.0?</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-10"><a href="#Bagaimanakah_cara_untuk_pasang_dan_lancarkan_Minetest.3F"><span class="tocnumber">2.7</span> <span class="toctext">Bagaimanakah cara untuk pasang dan lancarkan Minetest?</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Bagaimanakah_cara_untuk_mengemaskini_Minetest.3F"><span class="tocnumber">2.8</span> <span class="toctext">Bagaimanakah cara untuk mengemaskini Minetest?</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Di_manakah_dan_bagaimanakah_untuk_mencari_permainan_untuk_dipasang.3F"><span class="tocnumber">2.9</span> <span class="toctext">Di manakah dan bagaimanakah untuk mencari permainan untuk dipasang?</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Apakah_itu_Irrlicht.3F"><span class="tocnumber">2.10</span> <span class="toctext">Apakah itu Irrlicht?</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Kenapa_UI_nampak_ketinggalan_zaman.3F"><span class="tocnumber">2.11</span> <span class="toctext">Kenapa UI nampak ketinggalan zaman?</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Menu_utama_teruk.21"><span class="tocnumber">2.12</span> <span class="toctext">Menu utama teruk!</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Saya_ada_masalah_teknikal.2C_bagaimana_cara_untuk_baikinya.3F"><span class="tocnumber">2.13</span> <span class="toctext">Saya ada masalah teknikal, bagaimana cara untuk baikinya?</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Adakah_Minetest_bermultijalur.3F"><span class="tocnumber">2.14</span> <span class="toctext">Adakah Minetest bermultijalur?</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Kenapa_ia_dipanggil_.22Minetest.22.3F"><span class="tocnumber">2.15</span> <span class="toctext">Kenapa ia dipanggil "Minetest"?</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Bolehkah_anda_menambah_sokongan_untuk_iOS.3F"><span class="tocnumber">2.16</span> <span class="toctext">Bolehkah anda menambah sokongan untuk iOS?</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#Bolehkah_anda_menambah_sokongan_untuk_platform_X_atau_konsol.3F"><span class="tocnumber">2.17</span> <span class="toctext">Bolehkah anda menambah sokongan untuk platform X atau konsol?</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-21"><a href="#Peristilahan"><span class="tocnumber">3</span> <span class="toctext">Peristilahan</span></a></li>
+<li class="toclevel-1 tocsection-22"><a href="#Mengenai_Minetest_Game"><span class="tocnumber">4</span> <span class="toctext">Mengenai Minetest Game</span></a>
+<ul>
+<li class="toclevel-2 tocsection-23"><a href="#Apakah_itu_Minetest_Game.3F"><span class="tocnumber">4.1</span> <span class="toctext">Apakah itu Minetest Game?</span></a></li>
+<li class="toclevel-2 tocsection-24"><a href="#Di_manakah_.5Bmasukkan_ciri-ciri_Minecraft_di_sini.5D.3F"><span class="tocnumber">4.2</span> <span class="toctext">Di manakah [masukkan ciri-ciri Minecraft di sini]?</span></a>
+<ul>
+<li class="toclevel-3 tocsection-25"><a href="#Mineclone_yang_manakah_saya_patut_main.3F"><span class="tocnumber">4.2.1</span> <span class="toctext">Mineclone yang manakah saya patut main?</span></a></li>
+<li class="toclevel-3 tocsection-26"><a href="#Apakah_itu_MeseCraft.3F"><span class="tocnumber">4.2.2</span> <span class="toctext">Apakah itu MeseCraft?</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-27"><a href="#Di_manakah_semua_kandungannya.3F_Tiada_mob.3F_Tiada_jalan_cerita.3F"><span class="tocnumber">4.3</span> <span class="toctext">Di manakah semua kandungannya? Tiada mob? Tiada jalan cerita?</span></a></li>
+<li class="toclevel-2 tocsection-28"><a href="#Anda_patut_tambah_.5Bmasukkan_ciri-ciri_di_sini.5D_ke_dalam_Minetest_Game.21"><span class="tocnumber">4.4</span> <span class="toctext">Anda patut tambah [masukkan ciri-ciri di sini] ke dalam Minetest Game!</span></a></li>
+<li class="toclevel-2 tocsection-29"><a href="#Bagaimanakah_cara_.5Bmasukkan_item_atau_blok_di_sini.5D_berfungsi.3F_Bagaimana_cara_untuk_bertukang.3F"><span class="tocnumber">4.5</span> <span class="toctext">Bagaimanakah cara [masukkan item atau blok di sini] berfungsi? Bagaimana cara untuk bertukang?</span></a></li>
+<li class="toclevel-2 tocsection-30"><a href="#Saya_diberitahu_adanya_kurungan_bawah_tanah._Di_manakah_ia.3F"><span class="tocnumber">4.6</span> <span class="toctext">Saya diberitahu adanya kurungan bawah tanah. Di manakah ia?</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-31"><a href="#Komuniti"><span class="tocnumber">5</span> <span class="toctext">Komuniti</span></a>
+<ul>
+<li class="toclevel-2 tocsection-32"><a href="#Di_manakah_saya_boleh_bertanya_soalan.3F"><span class="tocnumber">5.1</span> <span class="toctext">Di manakah saya boleh bertanya soalan?</span></a></li>
+<li class="toclevel-2 tocsection-33"><a href="#Bagaimanakah_cara_untuk_memasang_kandungan_pihak_ketiga.3F"><span class="tocnumber">5.2</span> <span class="toctext">Bagaimanakah cara untuk memasang kandungan pihak ketiga?</span></a>
+<ul>
+<li class="toclevel-3 tocsection-34"><a href="#Kenapa_saya_tak_jumpa_mods_default_atau_.5Bmasukkan_mods_di_sini.5D.3F"><span class="tocnumber">5.2.1</span> <span class="toctext">Kenapa saya tak jumpa mods default atau [masukkan mods di sini]?</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-35"><a href="#Adakah_mods_serasi_dengan_satu_sama_lain.3F"><span class="tocnumber">5.3</span> <span class="toctext">Adakah mods serasi dengan satu sama lain?</span></a></li>
+<li class="toclevel-2 tocsection-36"><a href="#Bagaimanakah_cara_untuk_sambung_ke_pelayan.3F_Adakah_akaun_pemain_ramai_diperlukan.3F"><span class="tocnumber">5.4</span> <span class="toctext">Bagaimanakah cara untuk sambung ke pelayan? Adakah akaun pemain ramai diperlukan?</span></a></li>
+<li class="toclevel-2 tocsection-37"><a href="#Bagaimanakah_cara_untuk_membuat_pelayan_saya_sendiri.3F"><span class="tocnumber">5.5</span> <span class="toctext">Bagaimanakah cara untuk membuat pelayan saya sendiri?</span></a></li>
+<li class="toclevel-2 tocsection-38"><a href="#Bagaimanakah_cara_untuk_mendapatkan_akaun_untuk_Wiki_Minetest.3F"><span class="tocnumber">5.6</span> <span class="toctext">Bagaimanakah cara untuk mendapatkan akaun untuk Wiki Minetest?</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-39"><a href="#Gaya_Permainan"><span class="tocnumber">6</span> <span class="toctext">Gaya Permainan</span></a>
+<ul>
+<li class="toclevel-2 tocsection-40"><a href="#Bagaimanakah_cara_untuk_melihat_koordinat_saya_sendiri_atau_memeriksa_FPS_saya.3F"><span class="tocnumber">6.1</span> <span class="toctext">Bagaimanakah cara untuk melihat koordinat saya sendiri atau memeriksa FPS saya?</span></a></li>
+<li class="toclevel-2 tocsection-41"><a href="#Kenapa_FPS_saya_sangat_rendah.3F"><span class="tocnumber">6.2</span> <span class="toctext">Kenapa FPS saya sangat rendah?</span></a></li>
+<li class="toclevel-2 tocsection-42"><a href="#Bagaimanakah_cara_untuk_membolehkan_skrin_penuh.3F"><span class="tocnumber">6.3</span> <span class="toctext">Bagaimanakah cara untuk membolehkan skrin penuh?</span></a></li>
+<li class="toclevel-2 tocsection-43"><a href="#Apakah_kawalannya.3F_Bagaimanakah_cara_untuk_menukarnya.3F"><span class="tocnumber">6.4</span> <span class="toctext">Apakah kawalannya? Bagaimanakah cara untuk menukarnya?</span></a></li>
+<li class="toclevel-2 tocsection-44"><a href="#Bolehkah_saya_gunakan_alat_kawalan_atau_pad_permainan.3F"><span class="tocnumber">6.5</span> <span class="toctext">Bolehkah saya gunakan alat kawalan atau pad permainan?</span></a></li>
+<li class="toclevel-2 tocsection-45"><a href="#Kenapa_tidak_boleh_ubah_tetapan_dalam_skrin_jeda.3F"><span class="tocnumber">6.6</span> <span class="toctext">Kenapa tidak boleh ubah tetapan dalam skrin jeda?</span></a></li>
+<li class="toclevel-2 tocsection-46"><a href="#Berapa_besarkah_petanya.3F"><span class="tocnumber">6.7</span> <span class="toctext">Berapa besarkah petanya?</span></a></li>
+<li class="toclevel-2 tocsection-47"><a href="#Bolehkah_saya_mengubah_kulit_saya.3F"><span class="tocnumber">6.8</span> <span class="toctext">Bolehkah saya mengubah kulit saya?</span></a>
+<ul>
+<li class="toclevel-3 tocsection-48"><a href="#Format_apakah_yang_kulit_gunakan.3F"><span class="tocnumber">6.8.1</span> <span class="toctext">Format apakah yang kulit gunakan?</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-49"><a href="#Bagaimanakah_cara_untuk_tetapkan_titik_jelma_saya.3F"><span class="tocnumber">6.9</span> <span class="toctext">Bagaimanakah cara untuk tetapkan titik jelma saya?</span></a></li>
+<li class="toclevel-2 tocsection-50"><a href="#Bagaimanakah_cara_untuk_membuatkan_dunia_rata.3F"><span class="tocnumber">6.10</span> <span class="toctext">Bagaimanakah cara untuk membuatkan dunia rata?</span></a></li>
+<li class="toclevel-2 tocsection-51"><a href="#Bolehkah_saya_menambah_bayang_beragam.3F"><span class="tocnumber">6.11</span> <span class="toctext">Bolehkah saya menambah bayang beragam?</span></a></li>
+<li class="toclevel-2 tocsection-52"><a href="#Bagaimanakah_untuk_meningkatkan_kecerahan.3F"><span class="tocnumber">6.12</span> <span class="toctext">Bagaimanakah untuk meningkatkan kecerahan?</span></a></li>
+<li class="toclevel-2 tocsection-53"><a href="#Bagaimanakah_cara_untuk_terbang.3F"><span class="tocnumber">6.13</span> <span class="toctext">Bagaimanakah cara untuk terbang?</span></a>
+<ul>
+<li class="toclevel-3 tocsection-54"><a href="#Bagaimanakah_cara_untuk_bergerak_pantas.3F"><span class="tocnumber">6.13.1</span> <span class="toctext">Bagaimanakah cara untuk bergerak pantas?</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-55"><a href="#Bagaimanakah_cara_untuk_mencari_semula_rumah_saya.3F"><span class="tocnumber">6.14</span> <span class="toctext">Bagaimanakah cara untuk mencari semula rumah saya?</span></a></li>
+<li class="toclevel-2 tocsection-56"><a href="#Bagaimanakah_cara_untuk_menjana_peta_buat_dunia_saya.3F"><span class="tocnumber">6.15</span> <span class="toctext">Bagaimanakah cara untuk menjana peta buat dunia saya?</span></a></li>
+<li class="toclevel-2 tocsection-57"><a href="#Bolehkah_saya_guna_WorldPainter_dengan_Minetest.3F"><span class="tocnumber">6.16</span> <span class="toctext">Bolehkah saya guna WorldPainter dengan Minetest?</span></a></li>
+<li class="toclevel-2 tocsection-58"><a href="#Adakah_wujudnya_World_Edit_untuk_Minetest.3F"><span class="tocnumber">6.17</span> <span class="toctext">Adakah wujudnya World Edit untuk Minetest?</span></a></li>
+<li class="toclevel-2 tocsection-59"><a href="#Bolehkah_saya_menukarkan_dunia_dan_kandungan_Minecraft_ke_Minetest.3F"><span class="tocnumber">6.18</span> <span class="toctext">Bolehkah saya menukarkan dunia dan kandungan Minecraft ke Minetest?</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-60"><a href="#Pembangunan_Mods_dan_Permainan"><span class="tocnumber">7</span> <span class="toctext">Pembangunan Mods dan Permainan</span></a>
+<ul>
+<li class="toclevel-2 tocsection-61"><a href="#Apakah_bahasa_pengaturcaraan_yang_digunakan_untuk_menulis_permainan_dan_mods.3F"><span class="tocnumber">7.1</span> <span class="toctext">Apakah bahasa pengaturcaraan yang digunakan untuk menulis permainan dan mods?</span></a>
+<ul>
+<li class="toclevel-3 tocsection-62"><a href="#Berapa_pantaskah_Lua.3F"><span class="tocnumber">7.1.1</span> <span class="toctext">Berapa pantaskah Lua?</span></a></li>
+<li class="toclevel-3 tocsection-63"><a href="#Kenapa_saya_tidak_boleh_gunakan_ciri-ciri_Lua_yang_moden.3F"><span class="tocnumber">7.1.2</span> <span class="toctext">Kenapa saya tidak boleh gunakan ciri-ciri Lua yang moden?</span></a></li>
+<li class="toclevel-3 tocsection-64"><a href="#Bolehkah_saya_menulis_permainan_atau_mods_dalam_.5Bmasukkan_bahasa_pengaturcaraan_di_sini.5D.3F"><span class="tocnumber">7.1.3</span> <span class="toctext">Bolehkah saya menulis permainan atau mods dalam [masukkan bahasa pengaturcaraan di sini]?</span></a></li>
+<li class="toclevel-3 tocsection-65"><a href="#Saya_ingin_gunakan_mods_Java_ini.21_Saya_perlukan_Java.21"><span class="tocnumber">7.1.4</span> <span class="toctext">Saya ingin gunakan mods Java ini! Saya perlukan Java!</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-66"><a href="#Apakah_itu_API_Minetest.3F"><span class="tocnumber">7.2</span> <span class="toctext">Apakah itu API Minetest?</span></a></li>
+<li class="toclevel-2 tocsection-67"><a href="#Bolehkah_mods_menulis_ganti_enjin.3F"><span class="tocnumber">7.3</span> <span class="toctext">Bolehkah mods menulis ganti enjin?</span></a></li>
+<li class="toclevel-2 tocsection-68"><a href="#Apakah_itu_devtest.3F"><span class="tocnumber">7.4</span> <span class="toctext">Apakah itu devtest?</span></a></li>
+<li class="toclevel-2 tocsection-69"><a href="#Apakah_itu_keselamatan_mods.3F"><span class="tocnumber">7.5</span> <span class="toctext">Apakah itu keselamatan mods?</span></a></li>
+<li class="toclevel-2 tocsection-70"><a href="#Bagaimanakah_untuk_belajar_mencipta_mods_dan_permainan.3F"><span class="tocnumber">7.6</span> <span class="toctext">Bagaimanakah untuk belajar mencipta mods dan permainan?</span></a></li>
+<li class="toclevel-2 tocsection-71"><a href="#Saya_mendapat_mesej_amaran_atau_ralat.2C_apakah_maksudnya.3F"><span class="tocnumber">7.7</span> <span class="toctext">Saya mendapat mesej amaran atau ralat, apakah maksudnya?</span></a></li>
+<li class="toclevel-2 tocsection-72"><a href="#Kenapa_saya_tidak_boleh_membuat_ikatan_kekunci_yang_lain.3F"><span class="tocnumber">7.8</span> <span class="toctext">Kenapa saya tidak boleh membuat ikatan kekunci yang lain?</span></a></li>
+<li class="toclevel-2 tocsection-73"><a href="#Bagaimanakah_cara_untuk_mencipta_model_untuk_mods_saya.3F"><span class="tocnumber">7.9</span> <span class="toctext">Bagaimanakah cara untuk mencipta model untuk mods saya?</span></a>
+<ul>
+<li class="toclevel-3 tocsection-74"><a href="#Bolehkah_saya_menggunakan_Blockbench_untuk_mencipta_model.3F"><span class="tocnumber">7.9.1</span> <span class="toctext">Bolehkah saya menggunakan Blockbench untuk mencipta model?</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-75"><a href="#Bolehkah_saya_menjual_permainan_yang_saya_cipta_menggunakan_Minetest.3F"><span class="tocnumber">7.10</span> <span class="toctext">Bolehkah saya menjual permainan yang saya cipta menggunakan Minetest?</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span id="Apakah_itu_Minetest?"></span><span class="mw-headline" id="Apakah_itu_Minetest.3F">Apakah itu Minetest?</span></h2>
+<p>Minetest ialah sebuah enjin permainan percuma dan bebas yang direka untuk mencipta permainan berasaskan voksel (<a href="/Help:Original_names/ms" title="Help:Original names/ms">BI</a>: <i><a rel="nofollow" class="external text" href="https://en.wikipedia.org/wiki/Voxel">Voxel</a></i>). Keterangan lanjut boleh dijumpai di halaman <a href="/Minetest/ms" title="Minetest/ms">Minetest</a>.
+</p>
+<h2><span class="mw-headline" id="Mengenai_Enjin">Mengenai Enjin</span></h2>
+<h3><span id="Berapakah_harga_Minetest?"></span><span class="mw-headline" id="Berapakah_harga_Minetest.3F">Berapakah harga Minetest?</span></h3>
+<p>Tiada harga. Ia percuma.
+</p>
+<h3><span id="Adakah_Minetest_itu_klon_Minecraft?"></span><span class="mw-headline" id="Adakah_Minetest_itu_klon_Minecraft.3F">Adakah Minetest itu klon Minecraft?</span></h3>
+<p>Versi paling awal Minetest cuba untuk mereplikakan apa yang Minecraft Alpha telah tunjukkan ia mampu lakukan pada waktu tersebut (2010)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>. Namun matlamatnya telah menyimpang daripada Minecraft dan sebaliknya berubah menjadi enjin permainan.
+</p>
+<h3><span id="Siapakah_yang_mencipta_Minetest?"></span><span class="mw-headline" id="Siapakah_yang_mencipta_Minetest.3F">Siapakah yang mencipta Minetest?</span></h3>
+<p><a href="/Celeron55/ms" title="Celeron55/ms">Perttu Ahola</a> (juga dikenali sebagai <b>celeron55</b>). Ketika ini ia sedang dibangunkan oleh <a rel="nofollow" class="external text" href="https://github.com/orgs/minetest/people">orang-orang gila yang rambang ini</a> dan juga oleh <a rel="nofollow" class="external text" href="https://github.com/minetest/minetest/graphs/contributors">komuniti</a>.
+</p>
+<h3><span id="Apakah_bahasa_pengaturcaraan_yang_digunakan_oleh_Minetest?"></span><span class="mw-headline" id="Apakah_bahasa_pengaturcaraan_yang_digunakan_oleh_Minetest.3F">Apakah bahasa pengaturcaraan yang digunakan oleh Minetest?</span></h3>
+<p>Minetest ditulis dalam bahasa C++ menggunakan <a href="#Apakah_itu_Irrlicht.3F">versi cabangan enjin pengemas gabung Irrlicht</a>. API mods dan permainan menggunakan <a rel="nofollow" class="external text" href="https://www.lua.org/">bahasa Lua</a>.
+</p>
+<h3><span id="Bolehkah_saya_mengubah_kod_dengan_sendiri?"></span><span class="mw-headline" id="Bolehkah_saya_mengubah_kod_dengan_sendiri.3F">Bolehkah saya mengubah kod dengan sendiri?</span></h3>
+<p><a rel="nofollow" class="external text" href="https://github.com/minetest/minetest/">Ya.</a> Minetest dilesenkan dengan bebas (<a rel="nofollow" class="external text" href="https://github.com/minetest/minetest/blob/master/LICENSE.txt">LGPL 2.1 dan lain-lain</a>).
+</p>
+<h3><span id="Bilakah_versi_Minetest_seterusnya_akan_diterbitkan?"></span><span class="mw-headline" id="Bilakah_versi_Minetest_seterusnya_akan_diterbitkan.3F">Bilakah versi Minetest seterusnya akan diterbitkan?</span></h3>
+<p>Periksa <a rel="nofollow" class="external text" href="https://github.com/minetest/minetest/milestones">jadual perkembangan GitHub</a> untuk mengagak berapa banyak perkembangan untuk ke versi seterusnya.
+</p>
+<h4><span id="Kenapa_nombor_versi_berubah_dari_0.4.17.1_ke_5.0.0?"></span><span class="mw-headline" id="Kenapa_nombor_versi_berubah_dari_0.4.17.1_ke_5.0.0.3F">Kenapa nombor versi berubah dari 0.4.17.1 ke 5.0.0?</span></h4>
+<p>Minetest bertukar ke sistem pemversian <a rel="nofollow" class="external text" href="https://semver.org/">semver</a> selepas versi 0.4.17.1 kerana nombor kosong pendahulu tidak akan berubah. Jika ditulis mengikut sistem pemversian yang lama maka 5.0.0 akan ditulis sebagai 0.5.0.0. Sistem semver lebih kemas dan ia juga piawaian industri.
+</p>
+<h3><span id="Bagaimanakah_cara_untuk_pasang_dan_lancarkan_Minetest?"></span><span class="mw-headline" id="Bagaimanakah_cara_untuk_pasang_dan_lancarkan_Minetest.3F">Bagaimanakah cara untuk pasang dan lancarkan Minetest?</span></h3>
+<p><i>Sila lihat <a href="/index.php?title=Getting_Started/ms&amp;action=edit&amp;redlink=1" class="new" title="Getting Started/ms (page does not exist)">Mula Main#Mendapatkan Minetest</a>.</i>
+</p>
+<h3><span id="Bagaimanakah_cara_untuk_mengemaskini_Minetest?"></span><span class="mw-headline" id="Bagaimanakah_cara_untuk_mengemaskini_Minetest.3F">Bagaimanakah cara untuk mengemaskini Minetest?</span></h3>
+<p>Ini bergantung kepada sistem pengoperasian dan kaedah pemasangan anda. Biasanya anda akan sama ada muat turun versu terbaru atau jalankan perintah kemas kini. Sesetengah sistem mungkin memerlukan anda memindahkan dunia dan mods anda. Jika anda menggunakan versi Git, tarik sahaja dan kompil setiap kali anda ingin mengemas kini.
+</p>
+<h3><span id="Di_manakah_dan_bagaimanakah_untuk_mencari_permainan_untuk_dipasang?"></span><span class="mw-headline" id="Di_manakah_dan_bagaimanakah_untuk_mencari_permainan_untuk_dipasang.3F">Di manakah dan bagaimanakah untuk mencari permainan untuk dipasang?</span></h3>
+<p>Periksa <a rel="nofollow" class="external text" href="https://content.minetest.net/packages/?type=game">ContentDB Minetest</a> untuk senarai permainan. Anda boleh memasang permainan (dan kandungan lain) dengan mudah menerusi klien melalui tab <b>Kandungan</b> ('Layari kandungan dalam talian'). Anda juga boleh pasang permainan yang anda jumpa di forum atau GitHub secara manual ke folder "games" dalam direktori data Minetest anda. Untuk maklumat lanjut mengenai permainan, sila lihat <a href="/Games/ms" title="Games/ms">Permainan</a>.
+</p>
+<h3><span id="Apakah_itu_Irrlicht?"></span><span class="mw-headline" id="Apakah_itu_Irrlicht.3F">Apakah itu Irrlicht?</span></h3>
+<p>Minetest menggunakan <a rel="nofollow" class="external text" href="https://github.com/minetest/irrlicht">cabangan Irrlicht yang sendiri</a>, dan Irrlicht ialah enjin pengemas gabung dari Jerman yang dicipta pada tahun 2003. Cabangan ini tertumpu kepada pembuangan kod lama dan tidak digunakan untuk membuatkan enjin tersebut lebih ringan, namun tujuan utamanya untuk menggantikan Irrlicht secara keseluruhannya pada masa hadapan kerana ia sangat ketinggalan zaman.
+</p>
+<h3><span id="Kenapa_UI_nampak_ketinggalan_zaman?"></span><span class="mw-headline" id="Kenapa_UI_nampak_ketinggalan_zaman.3F">Kenapa UI nampak ketinggalan zaman?</span></h3>
+<p>Banyak antara muka menggunakan penggayaan <a href="#Apakah_itu_Irrlicht.3F">Irrlicht</a> asal yang digunakan sebelum <a rel="nofollow" class="external text" href="https://github.com/minetest/minetest/blob/f0703f3/doc/lua_api.txt#L2958">penggayaan borang</a> diperkenalkan. UI boleh dibuat untuk kelihatan lebih moden, tetapi perekaan UI amat merumitkan dengan sendirinya, ditambah pula dengan keanehan sistem <a rel="nofollow" class="external text" href="https://github.com/minetest/minetest/blob/f0703f3/doc/lua_api.txt#L2227">formspec</a> yang Minetest digunakan. Penggantian GUI yang betul-betul mungkin akan dibuat pada masa hadapan.
+</p>
+<h3><span id="Menu_utama_teruk!"></span><span class="mw-headline" id="Menu_utama_teruk.21">Menu utama teruk!</span></h3>
+<p><a rel="nofollow" class="external text" href="https://github.com/minetest/minetest/issues/6733">Kami sedang berusaha untuk menambahbaiknya.</a>
+</p>
+<h3><span id="Saya_ada_masalah_teknikal,_bagaimana_cara_untuk_baikinya?"></span><span class="mw-headline" id="Saya_ada_masalah_teknikal.2C_bagaimana_cara_untuk_baikinya.3F">Saya ada masalah teknikal, bagaimana cara untuk baikinya?</span></h3>
+<p><i>Sila lihat <a href="/Troubleshooting/ms" title="Troubleshooting/ms">Pencarisilapan</a>.</i>
+</p>
+<h3><span id="Adakah_Minetest_bermultijalur?"></span><span class="mw-headline" id="Adakah_Minetest_bermultijalur.3F">Adakah Minetest bermultijalur?</span></h3>
+<p>Ya. Klien dan pelayan Minetest dijalankan dalam jalur yang berlainan. Pelayan juga menjalankan penjanaan peta dalam jalur pekerja, namun perkara ini terhad kepada jalur tunggal ketika ini disebabkan oleh beberapa isu (tetapi <a rel="nofollow" class="external text" href="https://github.com/minetest/minetest/blob/eea2a97/minetest.conf.example#L2973-L2984">ia boleh ditukar dalam tetapan</a>). Klien pula menjalankan penjanaan jejaring dalam jalur pekerja.
+</p><p>Jarang untuk permainan dijalankan serempak dengan banyak kerana ia tidak diperlukan untuk permainan yang lebih kecil - selalunya ia hanya dijumpai dalam permainan pelbagai pemain besar-besaran (MMO). Agak sukar juga untuk menulis logik gaya permainan multijalur, dan ini bertentangan dengan tujuan Minetest yang ingin menjadi platform penciptaan kandungan yang mudah untuk digunakan. Namun begitu, masih terdapat suatu API untuk mods menjalankan tugasan dalam jalur pekerja.
+</p>
+<h3><span id="Kenapa_ia_dipanggil_&quot;Minetest&quot;?"></span><span class="mw-headline" id="Kenapa_ia_dipanggil_.22Minetest.22.3F">Kenapa ia dipanggil "Minetest"?</span></h3>
+<p>Minetest bermula sebagai suatu uji kaji (suatu <b>test</b> atau percubaan) untuk mereplikakan <b>Mine</b>craft Alpha. Nama tersebut terlekat, dan <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=5&amp;t=17133">tiada siapa mampu bersetuju</a> <a rel="nofollow" class="external text" href="https://github.com/minetest/minetest_game/issues/2077">untuk nama yang baharu</a>.
+</p>
+<h3><span id="Bolehkah_anda_menambah_sokongan_untuk_iOS?"></span><span class="mw-headline" id="Bolehkah_anda_menambah_sokongan_untuk_iOS.3F">Bolehkah anda menambah sokongan untuk iOS?</span></h3>
+<p>Kami tidak mampu menambah Minetest ke App Store kerana terdapat percanggahan lesen. Perjanjian Pelesenan Pengguna Akhir (EULA) untuk App Store mempunyai terma-terma yang megehadkan kebebasan perisian, yang mana bercanggah dengan lesen-lesen (L)GPL (setakat sepersetujuan).
+</p><p>Walaupun secara teorinya memang kami boleh mengedarkan aplikasi di luar App Store, iOS secara amnya antikebebasan perisian. Para pengguna akan perlu bayar US$80 setahun untuk lesen pembangun dan perlu mempunyai komputer Mac Book, atau pecah sekat telefon mereka. Kedua-dua ini tidak begitu elok.
+</p><p>Jadi malangnya, ini bukan sesuatu yang kami boleh lakukan.
+</p>
+<h3><span id="Bolehkah_anda_menambah_sokongan_untuk_platform_X_atau_konsol?"></span><span class="mw-headline" id="Bolehkah_anda_menambah_sokongan_untuk_platform_X_atau_konsol.3F">Bolehkah anda menambah sokongan untuk platform X atau konsol?</span></h3>
+<p>Minetest ialah projek sukarela dengan masa dan sumber yang terhad. Menyokong platform yang baharu memakan banyak usaha, dan kami hanya mampu menyokong platform secara rasminya apabila ada pembangun teras yang menggunakannya.
+</p><p>Tambahan pula, banyak konsol mempunyai Perjanjian untuk Tidak Mendedahkan (NDA) yang menghalang perisian bersumber terbuka daripada diportkan kepadanya tanpa mengambil jalan keluar menerusi buatan rumah. NDA menghalang anda daripada membuka sumber kod anda kerana ia perlu ditutup, dan lesen hak terbuka menghalang anda daripada menutup sumber Minetest kerana ia perlu dibuka.
+</p><p>Minetest bersumber terbuka. Kami mengalu-alukan para penyumbang untuk port Minetest ke platform yang lain (selagi mana mereka mengikut lesen, sudah tentulah). Para penyumbang juga dialu-alukan untuk menyumbang perubahan mereka kembali ke huluan, asalkan mereka tidak terlalu mengganggu.
+</p>
+<h2><span class="mw-headline" id="Peristilahan">Peristilahan</span></h2>
+<dl><dt>Mods</dt>
+<dd>Suatu "modul" atau "pengubahsuaian (modification)" kepada suatu permainan. <i>Lihat <a href="/Mods/ms" title="Mods/ms">Mods</a>.</i></dd>
+<dt>Permainan</dt>
+<dd>Himpunan modul yang ditatarajah untuk dijalankan pada enjin Minetest. <i>Lihat <a href="/Games/ms" title="Games/ms">Permainan</a>.</i></dd>
+<dt>Subpermainan</dt>
+<dd>Istilah lama untuk <a href="/Games/ms" title="Games/ms">permainan</a>.</dd>
+<dt>Pek tekstur</dt>
+<dd>Suatu set tekstur pihak klien yang menulis ganti tekstur mods atau permainan yang disertakan. <i>Lihat <a href="/index.php?title=Texture_Packs/ms&amp;action=edit&amp;redlink=1" class="new" title="Texture Packs/ms (page does not exist)">Pek Tekstur</a>.</i></dd>
+<dt>Nod</dt>
+<dd>Nama teknikal untuk suatu blok atau kiub tunggal.</dd>
+<dt>Mob</dt>
+<dd>Suatu maklhluk yang bergerak. <i>Lihat <a href="/Mobs/ms" title="Mobs/ms">Mob</a>.</i></dd></dl>
+<h2><span class="mw-headline" id="Mengenai_Minetest_Game">Mengenai Minetest Game</span></h2>
+<h3><span id="Apakah_itu_Minetest_Game?"></span><span class="mw-headline" id="Apakah_itu_Minetest_Game.3F">Apakah itu Minetest Game?</span></h3>
+<p>Minetest Game ialah permainan yang disertakan dengan Minetest ketika ini, terutamanya untuk menunjukkan ciri-ciri dan digunakan sebagai asas untuk mods. Lihat <a href="/Games/Minetest_Game/ms" title="Games/Minetest Game/ms">Minetest Game</a> untuk maklumat lanjut.
+</p>
+<h3><span id="Di_manakah_[masukkan_ciri-ciri_Minecraft_di_sini]?"></span><span class="mw-headline" id="Di_manakah_.5Bmasukkan_ciri-ciri_Minecraft_di_sini.5D.3F">Di manakah [masukkan ciri-ciri Minecraft di sini]?</span></h3>
+<p>Minetest Game tidak bertujuan untuk mereplikakan Minecraft dalam sebarang cara. Ciri-ciri dari Minecraft mungkin boleh dijumpai dalam mods atau permainan yang lain (cubalah <a rel="nofollow" class="external text" href="https://content.minetest.net/packages/Wuzzy/mineclone2/">Mineclone2</a> untuk analogi yang rapat dengan Minecraft). Sekiranya anda ingin bermain permainan dengan ciri-ciri Minecraft, kami mengesyorkan anda untuk bermain Minecraft sahaja.
+</p><p><i>Lihat juga <a href="/index.php?title=Differences_from_Minecraft/ms&amp;action=edit&amp;redlink=1" class="new" title="Differences from Minecraft/ms (page does not exist)">Perbezaan dari Minecraft</a>.</i>
+</p>
+<h4><span id="Mineclone_yang_manakah_saya_patut_main?"></span><span class="mw-headline" id="Mineclone_yang_manakah_saya_patut_main.3F">Mineclone yang manakah saya patut main?</span></h4>
+<p><a rel="nofollow" class="external text" href="https://content.minetest.net/packages/Wuzzy/mineclone2/">Mineclone2</a> itu versi Mineclone yang lebih terkenal dan selalunya lebih stabil. <a rel="nofollow" class="external text" href="https://content.minetest.net/packages/kay27/mineclone5/">Mineclone5</a> itu cabangan Mineclone2 dengan proses pembangunan yang pantas dan bebas yang menyebabkan ia mempunyai lebih banyak ciri-ciri dengan lebih cepat, tetapi lebih banyak ketidakstabilan. Hampir kesemua ciri-ciri dari Mineclone5 akan masuk ke Mineclone2 juga akhirnya. Perlu diambil perhatian bahawa dunia-dunia Mineclone5 boleh ditukarkan ke dunia Mineclone2, tetapi tidak sebaliknya.
+</p><p><a rel="nofollow" class="external text" href="https://git.minetest.land/Mineclonia/Mineclonia">Mineclonia</a> ialah cabangan tidak aktif yang bertumpu kepada kestabilan. <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?t=11467">Mineclone</a> (yang asal) pula projek dari tahun 2015 yang bertujuan untuk mereplikakan Minecraft dalam Minetest, sekarang digantikan dengan Mineclone2.
+</p>
+<h4><span id="Apakah_itu_MeseCraft?"></span><span class="mw-headline" id="Apakah_itu_MeseCraft.3F">Apakah itu MeseCraft?</span></h4>
+<p>Berbanding dengan apa yang namanya diimplikasikan, <a rel="nofollow" class="external text" href="https://content.minetest.net/packages/MeseCraft/mesecraft/">MeseCraft</a> bukanlah klon Minecraft. Ia suatu himpunan mods bertujuan untuk menyediakan pengalaman kemandirian yang dijaga dan diurus, sedia untuk dimainkan.
+</p>
+<h3><span id="Di_manakah_semua_kandungannya?_Tiada_mob?_Tiada_jalan_cerita?"></span><span class="mw-headline" id="Di_manakah_semua_kandungannya.3F_Tiada_mob.3F_Tiada_jalan_cerita.3F">Di manakah semua kandungannya? Tiada mob? Tiada jalan cerita?</span></h3>
+<p>Minetest Game tidak direka dengan sebarang jalan cerita atau matlamat. Ia hanyalah suatu kotak pasir untuk anda bermain Mods atau permainan yang lain menyediakan kandungan gaya permainan yang sebenar. Cuba cari kandungan di <a rel="nofollow" class="external text" href="https://content.minetest.net/">ContentDB</a>.
+</p>
+<h3><span id="Anda_patut_tambah_[masukkan_ciri-ciri_di_sini]_ke_dalam_Minetest_Game!"></span><span class="mw-headline" id="Anda_patut_tambah_.5Bmasukkan_ciri-ciri_di_sini.5D_ke_dalam_Minetest_Game.21">Anda patut tambah [masukkan ciri-ciri di sini] ke dalam Minetest Game!</span></h3>
+<p>Minetest Game <a rel="nofollow" class="external text" href="https://github.com/minetest/minetest_game/issues/2710">berada dalam keadaan pembangunan rendah ketika ini</a>, terutamanya hanya untuk tujuan penyenggaraan dan pembaikan pepijat. Ciri-ciri permainan baharu tidak akan dipertimbangkan kerana Minetest Game ingin dibersarakan daripasa status "lalai".
+</p>
+<h3><span id="Bagaimanakah_cara_[masukkan_item_atau_blok_di_sini]_berfungsi?_Bagaimana_cara_untuk_bertukang?"></span><span class="mw-headline" id="Bagaimanakah_cara_.5Bmasukkan_item_atau_blok_di_sini.5D_berfungsi.3F_Bagaimana_cara_untuk_bertukang.3F">Bagaimanakah cara [masukkan item atau blok di sini] berfungsi? Bagaimana cara untuk bertukang?</span></h3>
+<p>Rujuk di <a href="/Blocks/ms" class="mw-redirect" title="Blocks/ms">Blok</a> dan <a href="/Items/ms" class="mw-redirect" title="Items/ms">Item</a> untuk maklumat mengenai penggunaan dan pertukangan. Anda juga boleh pasang mods <a href="/Crafting_guide/ms" title="Crafting guide/ms">panduan pertukangan</a> untuk melihat resipi pertukangan yang ada.
+</p>
+<h3><span id="Saya_diberitahu_adanya_kurungan_bawah_tanah._Di_manakah_ia?"></span><span class="mw-headline" id="Saya_diberitahu_adanya_kurungan_bawah_tanah._Di_manakah_ia.3F">Saya diberitahu adanya kurungan bawah tanah. Di manakah ia?</span></h3>
+<p>Sila pastikan anda membolehkan kurungan bawah tanah apabila anda mencipta dunia anda. Selalunya ia akan jelma di mana-mana di bawah atau atas permukaan, anda akan menjumpainya jua.
+</p>
+<h2><span class="mw-headline" id="Komuniti">Komuniti</span></h2>
+<h3><span id="Di_manakah_saya_boleh_bertanya_soalan?"></span><span class="mw-headline" id="Di_manakah_saya_boleh_bertanya_soalan.3F">Di manakah saya boleh bertanya soalan?</span></h3>
+<p>Anda boleh bertanya di saluran <a rel="nofollow" class="external text" href="http://minetest.net/irc">IRC (#minetest)</a>, <a rel="nofollow" class="external text" href="https://forum.minetest.net/">Forum</a>, <a rel="nofollow" class="external text" href="https://discord.gg/minetest">Discord</a>, atau <a rel="nofollow" class="external text" href="https://www.reddit.com/r/Minetest/">Reddit</a>. Anda disyorkan untuk menggelintar sejarah dan arkib terlebih dahulu, banyak soalan sudah pun dijawab.<br />
+Ambil berat juga kategori (bebenang, saluran, dll.) yang manakah berkaitan dengan soalan anda ketika bertanya di sesuatu platform.
+</p><p>Ketahui di mana anda boleh melibatkan diri anda <a rel="nofollow" class="external text" href="https://www.minetest.net/get-involved/">di sini</a>.
+</p>
+<h3><span id="Bagaimanakah_cara_untuk_memasang_kandungan_pihak_ketiga?"></span><span class="mw-headline" id="Bagaimanakah_cara_untuk_memasang_kandungan_pihak_ketiga.3F">Bagaimanakah cara untuk memasang kandungan pihak ketiga?</span></h3>
+<p>Anda boleh menjumpai pelbagai jenis kandungan ciptaan komuniti di <a rel="nofollow" class="external text" href="https://content.minetest.net/">ContentDB Minetest</a>. Anda boleh cari dan pasang kandungan daripada pangkalan data ini menggunakan butang "Layari kandungan dalam talian" yang dijumpai dalam tab <b>Kandungan</b> di menu utama.
+</p><p>Untuk pemasangan kandungan secara manual, sila lihat <a href="/Games/ms#Memasang_permainan" title="Games/ms">Memasang Permainan</a>, <a href="/Installing_Mods/ms" title="Installing Mods/ms">Memasang Mods</a>, <a href="/index.php?title=Maps/ms&amp;action=edit&amp;redlink=1" class="new" title="Maps/ms (page does not exist)">Memasang Peta</a>, dan <a href="/index.php?title=Texture_Packs/ms&amp;action=edit&amp;redlink=1" class="new" title="Texture Packs/ms (page does not exist)">Memasang Pek Tekstur</a>.
+</p>
+<h4><span id="Kenapa_saya_tak_jumpa_mods_default_atau_[masukkan_mods_di_sini]?"></span><span class="mw-headline" id="Kenapa_saya_tak_jumpa_mods_default_atau_.5Bmasukkan_mods_di_sini.5D.3F">Kenapa saya tak jumpa mods <code>default</code> atau [masukkan mods di sini]?</span></h4>
+<p>Sesetengah mods itu sebahagian daripada permainan. Mods seperti <code>default</code> dan <code>wool</code> kebiasaannya sebahagian daripada Minetest Game dan tidak bertujuan untuk dipasangkan sebagai mods berasingan. Bagi mods yang bergantung kepada cth. <code>default</code> untuk berfungsi, anda perlulah menggunakan Minetest Game. Amalan rekaan permainan yang bagus adalah untuk mengimbuhkan nama mods yang khusus buat sesuatu permainan bersama-sama nama permainan tersebut. Malangnya, Minetest Game secara khususnya agak memeningkan dalam perkara ini.
+</p>
+<h3><span id="Adakah_mods_serasi_dengan_satu_sama_lain?"></span><span class="mw-headline" id="Adakah_mods_serasi_dengan_satu_sama_lain.3F">Adakah mods serasi dengan satu sama lain?</span></h3>
+<p>Melainkan dinyatakan sebaliknya, kebanyakan mods akan berfungsi dengan satu sama lain (mungkin atau mungkin tidak berinteraksi dengan sempurna). Pelaksanaan API yang berlainan (seperti mobs atau tangga), mods yang khusus buat sesuatu permainan, atau pelaksanaan kandungan yang bersaingan mungkin tidak serasi dengan satu sama lain.
+</p>
+<h3><span id="Bagaimanakah_cara_untuk_sambung_ke_pelayan?_Adakah_akaun_pemain_ramai_diperlukan?"></span><span class="mw-headline" id="Bagaimanakah_cara_untuk_sambung_ke_pelayan.3F_Adakah_akaun_pemain_ramai_diperlukan.3F">Bagaimanakah cara untuk sambung ke pelayan? Adakah akaun pemain ramai diperlukan?</span></h3>
+<p>Tidak ada akaun pemain ramai yang sah secara sejagat dalam Minetest. Bagi setiap pelayan, anda boleh gunakan nama dan kata laluan yang berlainan. Suatu "akaun" dicipta ketika log masuk yang pertama. Dengan cara ini, hanya anda sahaja yang boleh mencapai pemain dan inventori anda di pelayan khusus tersebut. Anda boleh bermain pemain perseorangan tanpa perlu sebarang nama pengguna dan kata laluan.
+</p>
+<h3><span id="Bagaimanakah_cara_untuk_membuat_pelayan_saya_sendiri?"></span><span class="mw-headline" id="Bagaimanakah_cara_untuk_membuat_pelayan_saya_sendiri.3F">Bagaimanakah cara untuk membuat pelayan saya sendiri?</span></h3>
+<p>Sila baca <a href="/index.php?title=Setting_up_a_server/ms&amp;action=edit&amp;redlink=1" class="new" title="Setting up a server/ms (page does not exist)">Menetapkan pelayan</a> dan <a href="/Server/ms" title="Server/ms">Pelayan</a>. Sila lihat <a href="/index.php?title=Server_commands/ms&amp;action=edit&amp;redlink=1" class="new" title="Server commands/ms (page does not exist)">Perintah pelayan</a> untuk senarai perintah sembang yang biasanya disertakan.
+</p>
+<h3><span id="Bagaimanakah_cara_untuk_mendapatkan_akaun_untuk_Wiki_Minetest?"></span><span class="mw-headline" id="Bagaimanakah_cara_untuk_mendapatkan_akaun_untuk_Wiki_Minetest.3F">Bagaimanakah cara untuk mendapatkan akaun untuk Wiki Minetest?</span></h3>
+<p>Dengan meminta di <a rel="nofollow" class="external free" href="https://forum.minetest.net/viewtopic.php?f=3&amp;t=10473">https://forum.minetest.net/viewtopic.php?f=3&amp;t=10473</a>.
+</p>
+<h2><span class="mw-headline" id="Gaya_Permainan">Gaya Permainan</span></h2>
+<h3><span id="Bagaimanakah_cara_untuk_melihat_koordinat_saya_sendiri_atau_memeriksa_FPS_saya?"></span><span class="mw-headline" id="Bagaimanakah_cara_untuk_melihat_koordinat_saya_sendiri_atau_memeriksa_FPS_saya.3F">Bagaimanakah cara untuk melihat koordinat saya sendiri atau memeriksa FPS saya?</span></h3>
+<p>Gunakan kekunci <kbd>F5</kbd> untuk menogol maklumat nyahpepijat (maklumat yang tersedia mungkin berlainan mengikut permainan atau pelayan). Hujung atas skrin anda mungkin akan paparkan FPS dan koordinat anda, bersama-sama maklumat yang lainnya. Menekan <kbd>F5</kbd> lagi akan menogol pembukah, dan kemudian mod rangka dawai sekiranya anda mempunyai <a href="/index.php?title=Privileges/ms&amp;action=edit&amp;redlink=1" class="new" title="Privileges/ms (page does not exist)">keistimewaan</a> <b>nyahpepijat</b>. Tekan buat kali terakhir akan menogol tutup maklumat nyahpepijat.
+</p>
+<h3><span id="Kenapa_FPS_saya_sangat_rendah?"></span><span class="mw-headline" id="Kenapa_FPS_saya_sangat_rendah.3F">Kenapa FPS saya sangat rendah?</span></h3>
+<p>Ada banyak sebab kenapa FPS anda boleh jadi rendah. Penyebab utamanya ialah kebolehan jarak pandang tanpa had. Togol mod tersebut menggunakan kekunci <kbd>R</kbd> secara lalainya. Anda juga boleh mengurangkan jarak pandang anda yang biasa menggunakan kekunci <kbd>-</kbd> secara lalainya (<kbd>+</kbd> untuk menaikkannya). Jarak kemas gabung diukur dalam unit nod.
+</p>
+<h3><span id="Bagaimanakah_cara_untuk_membolehkan_skrin_penuh?"></span><span class="mw-headline" id="Bagaimanakah_cara_untuk_membolehkan_skrin_penuh.3F">Bagaimanakah cara untuk membolehkan skrin penuh?</span></h3>
+<p>Pada kebanyakan sistem, kekunci skrin penuh OS anda (seperti <kbd>alt+F11</kbd> pada Ubuntu) patut berfungsi macam biasa. Jika tidak, pergi ke <b>Semua tetapan</b> dalam tab <b>Tetapan</b> tab di menu utama, dan pergi ke <i>Grafik dan Audio &gt; Grafik &gt; Skrin &gt; Skrin penuh</i>, di mana anda boleh klik dua kali untuk menukar nilai atau guna butang <b>Edit</b>. Anda perlu memulakan semula Minetest untuk perubahan ini memberi kesan.
+</p>
+<h3><span id="Apakah_kawalannya?_Bagaimanakah_cara_untuk_menukarnya?"></span><span class="mw-headline" id="Apakah_kawalannya.3F_Bagaimanakah_cara_untuk_menukarnya.3F">Apakah kawalannya? Bagaimanakah cara untuk menukarnya?</span></h3>
+<p><i>Sila lihat <a href="/Controls/ms" title="Controls/ms">Kawalan</a>.</i>
+</p>
+<h3><span id="Bolehkah_saya_gunakan_alat_kawalan_atau_pad_permainan?"></span><span class="mw-headline" id="Bolehkah_saya_gunakan_alat_kawalan_atau_pad_permainan.3F">Bolehkah saya gunakan alat kawalan atau pad permainan?</span></h3>
+<p>Anda perlu gunakan atur cara luaran untuk mengikatnya. Lihat <a href="/index.php?title=Gamepads/ms&amp;action=edit&amp;redlink=1" class="new" title="Gamepads/ms (page does not exist)">Pad permainan</a> untuk maklumat lanjut.
+</p>
+<h3><span id="Kenapa_tidak_boleh_ubah_tetapan_dalam_skrin_jeda?"></span><span class="mw-headline" id="Kenapa_tidak_boleh_ubah_tetapan_dalam_skrin_jeda.3F">Kenapa tidak boleh ubah tetapan dalam skrin jeda?</span></h3>
+<p>Banyak tetapan memerlukan permainan untuk dimuat semula juga macam mana pun, tetapi jika tidak perlu pun memang tidak ada menu yang dilaksanakan untuk membolehkan perubahan tetapan dengan cara tersebut. <a rel="nofollow" class="external text" href="https://github.com/minetest/minetest/pulls">Sumbangan kod dialu-alukan</a>.
+</p>
+<h3><span id="Berapa_besarkah_petanya?"></span><span class="mw-headline" id="Berapa_besarkah_petanya.3F">Berapa besarkah <a href="/index.php?title=Maps/ms&amp;action=edit&amp;redlink=1" class="new" title="Maps/ms (page does not exist)">petanya</a>?</span></h3>
+<p>Petanya sebuah kiub dengan panjang setiap sisi 61840 <a href="/index.php?title=Nodes/ms&amp;action=edit&amp;redlink=1" class="new" title="Nodes/ms (page does not exist)">nod</a> (blok). Oleh itu, petanya mempunyai isi padu yang sama dengan 61840<sup>3</sup> nod = 236,487,637,504,000 nod.
+Koordinat pula daripada −30912 sehingga 30927 dalam semua arah.
+</p><p><i>Lihat juga <a href="/index.php?title=Coordinates/ms&amp;action=edit&amp;redlink=1" class="new" title="Coordinates/ms (page does not exist)">Koordinat</a> dan <a href="/index.php?title=World_boundaries/ms&amp;action=edit&amp;redlink=1" class="new" title="World boundaries/ms (page does not exist)">Sempadan dunia</a>.</i>
+</p>
+<h3><span id="Bolehkah_saya_mengubah_kulit_saya?"></span><span class="mw-headline" id="Bolehkah_saya_mengubah_kulit_saya.3F">Bolehkah saya mengubah kulit saya?</span></h3>
+<p>Kulit dilaksanakan per-permainan dan per-dunia. Sekiranya anda ingin mengubah kulit anda dalam mod pemain perseorangan, cuba gunakan salah satu daripada <a rel="nofollow" class="external text" href="https://content.minetest.net/packages/?type=mod&amp;q=skin">mods kulit yang ada banyaknya</a>. Untuk mengubah kulit anda dalam suatu pelayan, gunakan mods kulit yang disediakan (jika ada) atau hubungi ahli pengurusan pelayan tersebut.
+</p>
+<h4><span id="Format_apakah_yang_kulit_gunakan?"></span><span class="mw-headline" id="Format_apakah_yang_kulit_gunakan.3F">Format apakah yang kulit gunakan?</span></h4>
+<p>Minetest Game menggunakan kulit Minecraft sebelum versi 1.8 (64x32). Format ini menyokong tekstur badan, tindihan atas kepala, tangan selebar 4px, dan mantel. Mods kulit yang lain melaksanakan sokongan kulit 64x64 atau menggunakan format yang lain.
+</p>
+<h3><span id="Bagaimanakah_cara_untuk_tetapkan_titik_jelma_saya?"></span><span class="mw-headline" id="Bagaimanakah_cara_untuk_tetapkan_titik_jelma_saya.3F">Bagaimanakah cara untuk tetapkan titik jelma saya?</span></h3>
+<p>Jika anda bermain Minetest Game, anda boleh membina <a href="/index.php?title=Bed/ms&amp;action=edit&amp;redlink=1" class="new" title="Bed/ms (page does not exist)">katil</a> dan tidur pada waktu malam. Dalam kehidupan seterusnya, anda akan bermula dekat katil anda.
+</p><p>Jika tidak, anda boleh cari mods (seperti <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?t=16923">yang ini</a>) atau tetapkan titik jelma anda untuk <i>kesemua</i> dunia menggunakan baris kod <code>static_spawnpoint = (x,y,z)</code> dalam fail <a href="/index.php?title=Minetest.conf/ms&amp;action=edit&amp;redlink=1" class="new" title="Minetest.conf/ms (page does not exist)">minetest.conf</a> anda.
+</p>
+<h3><span id="Bagaimanakah_cara_untuk_membuatkan_dunia_rata?"></span><span class="mw-headline" id="Bagaimanakah_cara_untuk_membuatkan_dunia_rata.3F">Bagaimanakah cara untuk membuatkan dunia rata?</span></h3>
+<p>Gunakan penjana peta <code>flat</code> ketika mencipta dunia anda dan lumpuhkan kesemua bendera penjana peta. Sekiranya anda ingin dunia menggunakan bahan tunggal, cuba <a rel="nofollow" class="external text" href="https://content.minetest.net/packages/rdococ/really_flat/">mods Really Flat</a>.
+</p>
+<h3><span id="Bolehkah_saya_menambah_bayang_beragam?"></span><span class="mw-headline" id="Bolehkah_saya_menambah_bayang_beragam.3F">Bolehkah saya menambah bayang beragam?</span></h3>
+<p>Minetest didatangkan dengan bayang dinamik yang boleh ditogol (dikawal oleh permainan sekiranya perlu). Pascapemprosesan dengan kesan yang lain merupakan ciri-ciri yang akan mendatang. Minetest sudah pun menyokong pembayang pihak ketiga menggunakan laluan <code>client/shaders</code>, namun perkara ini agak terhad dalam maklumat dan skop yang disediakan.
+</p>
+<h3><span id="Bagaimanakah_untuk_meningkatkan_kecerahan?"></span><span class="mw-headline" id="Bagaimanakah_untuk_meningkatkan_kecerahan.3F">Bagaimanakah untuk meningkatkan kecerahan?</span></h3>
+<p><i>Sila lihat <a href="/Troubleshooting/ms#Skrin_terlalu_gelap" title="Troubleshooting/ms">Pencarisilapan#Skrin terlalu gelap</a>.</i>
+</p>
+<h3><span id="Bagaimanakah_cara_untuk_terbang?"></span><span class="mw-headline" id="Bagaimanakah_cara_untuk_terbang.3F">Bagaimanakah cara untuk terbang?</span></h3>
+<p>Untuk terbang, mula-mula anda perlukan <a href="/index.php?title=Privileges/ms&amp;action=edit&amp;redlink=1" class="new" title="Privileges/ms (page does not exist)">keistimewaan</a> "terbang". Gunakan kekunci <kbd>K</kbd> untuk menogol mod terbang. Terbang naik menggunakan kekunci lompat (asalnya: <kbd>selang</kbd>) dan terbang turun menggunakan kekunci selinap (asalnya: <kbd>shift</kbd>).
+</p><p>Lihat juga: <a href="/index.php?title=Controls/Movement_modes/ms&amp;action=edit&amp;redlink=1" class="new" title="Controls/Movement modes/ms (page does not exist)">Mod terbang</a>
+</p>
+<h4><span id="Bagaimanakah_cara_untuk_bergerak_pantas?"></span><span class="mw-headline" id="Bagaimanakah_cara_untuk_bergerak_pantas.3F">Bagaimanakah cara untuk bergerak pantas?</span></h4>
+<p>Ini lebih kurang macam terbang sebelum ini. Umumnya: Anda perlukan keistimewaan “pergerakan pantas” untuk membolehkan anda menggunakan mod pergerakan pantas. Jika anda mempunyai keistimewaan ini, tekan <kbd>J</kbd> untuk membolehkan atau melumpuhkan mod pergerakan pantas. Apabila mod pergerakan pantas dibolehkan, tekan <kbd>E</kbd> untuk bergerak lebih pantas.
+</p><p>Lihat <a href="/index.php?title=Controls/Movement_modes/ms&amp;action=edit&amp;redlink=1" class="new" title="Controls/Movement modes/ms (page does not exist)">Mod pergerakan pantas</a>.
+</p>
+<h3><span id="Bagaimanakah_cara_untuk_mencari_semula_rumah_saya?"></span><span class="mw-headline" id="Bagaimanakah_cara_untuk_mencari_semula_rumah_saya.3F">Bagaimanakah cara untuk mencari semula rumah saya?</span></h3>
+<p>Anda boleh simpan jejak koordinat anda (bergantung kepada permainan) menggunakan maklumat nyahpepijat (<kbd>F5</kbd>). Jika anda mahu, anda boleh teleport ke koordinat menggunakan
+</p>
+<pre>/teleport x,y,z
+</pre>
+<p><i>Sila lihat <a href="/index.php?title=Server_commands/ms&amp;action=edit&amp;redlink=1" class="new" title="Server commands/ms (page does not exist)">Perintah pelayan#Teleport</a>. Memerlukan <a href="/index.php?title=Privileges/ms&amp;action=edit&amp;redlink=1" class="new" title="Privileges/ms (page does not exist)">keistimewaan</a> "teleport"</i>.
+</p><p>Dalam Minetest Game, anda boleh mengelak daripada tersesat lagi jika anda menggunakan perintah <code>/sethome</code> di rumah untuk simpan kedudukan rumah anda dan menggunakan perintah <code>/home</code> untuk teleport semula ke situ.
+</p>
+<h3><span id="Bagaimanakah_cara_untuk_menjana_peta_buat_dunia_saya?"></span><span class="mw-headline" id="Bagaimanakah_cara_untuk_menjana_peta_buat_dunia_saya.3F">Bagaimanakah cara untuk menjana peta buat dunia saya?</span></h3>
+<p>Terdapat <a href="/Programs_and_Editors/ms#Pemetaan" title="Programs and Editors/ms">pelbagai alat pemetaan</a> untuk menjana pralihat dunia anda. Terdapat juga <a rel="nofollow" class="external text" href="https://github.com/Treer/Amidst-for-Minetest">cabangan Amidst</a> untuk pralihat biom bagi suatu benih dunia.
+</p>
+<h3><span id="Bolehkah_saya_guna_WorldPainter_dengan_Minetest?"></span><span class="mw-headline" id="Bolehkah_saya_guna_WorldPainter_dengan_Minetest.3F">Bolehkah saya guna WorldPainter dengan Minetest?</span></h3>
+<p>Pengarang WorldPainter telah mencipta <a rel="nofollow" class="external text" href="https://www.worldpainter.net/files/plugins/MinetestSupport.jar">pemalam Minetest</a> untuk WorldPainter. Hasilnya untuk anda bergantung kepada banyak faktor.
+</p>
+<h3><span id="Adakah_wujudnya_World_Edit_untuk_Minetest?"></span><span class="mw-headline" id="Adakah_wujudnya_World_Edit_untuk_Minetest.3F">Adakah wujudnya World Edit untuk Minetest?</span></h3>
+<p><a rel="nofollow" class="external text" href="https://content.minetest.net/packages/sfan5/worldedit/">Ya.</a> Periksa juga <a href="/Programs_and_Editors/ms#Suntingan_dunia" title="Programs and Editors/ms">alat suntingan yang lain</a>.
+</p>
+<h3><span id="Bolehkah_saya_menukarkan_dunia_dan_kandungan_Minecraft_ke_Minetest?"></span><span class="mw-headline" id="Bolehkah_saya_menukarkan_dunia_dan_kandungan_Minecraft_ke_Minetest.3F">Bolehkah saya menukarkan dunia dan kandungan Minecraft ke Minetest?</span></h3>
+<p>Ya, terdapat <a href="/Programs_and_Editors/ms#Tukar_data_dari_Minecraft" title="Programs and Editors/ms">beberapa alatan</a> untuk menukarkan kandungan Minecraft ke Minetest. Hasilnya untuk anda bergantung kepada banyak faktor.
+</p>
+<h2><span class="mw-headline" id="Pembangunan_Mods_dan_Permainan">Pembangunan Mods dan Permainan</span></h2>
+<p><i>Sila lihat <a rel="nofollow" class="external text" href="http://dev.minetest.net/Modding_FAQ">Soalan Lazim Mods</a> (bahasa Inggeris) di Wiki Pembangunan Minetest.</i>
+</p>
+<h3><span id="Apakah_bahasa_pengaturcaraan_yang_digunakan_untuk_menulis_permainan_dan_mods?"></span><span class="mw-headline" id="Apakah_bahasa_pengaturcaraan_yang_digunakan_untuk_menulis_permainan_dan_mods.3F">Apakah bahasa pengaturcaraan yang digunakan untuk menulis permainan dan mods?</span></h3>
+<p>Minetest menggunakan <a rel="nofollow" class="external text" href="https://www.lua.org/">bahasa Lua</a> untuk permainan dan mods. Ia mudah, ringan, dan pantas. Anda boleh jumpa banyak tutorial dalam talian.
+</p>
+<ul><li><a rel="nofollow" class="external text" href="https://www.tutorialspoint.com/lua/lua_overview.htm">Lua guide by tutorialspoint</a> (Panduan Lua oleh tutorialspoint)</li>
+<li><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=jUuqBZwwkQw">Lua in 100 Seconds</a> (Lua dalam 100 Saat)</li>
+<li><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=kgiEF1frHQ8">Lua in 15 Minutes for Programmers</a> (Lua dalam 15 Minit untuk Para Pengaturcara)</li></ul>
+<h4><span id="Berapa_pantaskah_Lua?"></span><span class="mw-headline" id="Berapa_pantaskah_Lua.3F">Berapa pantaskah Lua?</span></h4>
+<p><a rel="nofollow" class="external text" href="https://programming-language-benchmarks.vercel.app/lua-vs-java">Sangat</a>, <a rel="nofollow" class="external text" href="https://programming-language-benchmarks.vercel.app/lua-vs-cpp">sangat pantas</a>.
+</p>
+<h4><span id="Kenapa_saya_tidak_boleh_gunakan_ciri-ciri_Lua_yang_moden?"></span><span class="mw-headline" id="Kenapa_saya_tidak_boleh_gunakan_ciri-ciri_Lua_yang_moden.3F">Kenapa saya tidak boleh gunakan ciri-ciri Lua yang moden?</span></h4>
+<p>Minetest menggunakan <a rel="nofollow" class="external text" href="https://luajit.org/">LuaJIT</a> yang berasaskan Lua 5.1. Pada masa hadapan, sekiranya Lua PUC setanding dengan prestasi JIT, Minetest boleh bertukar ke versi Lua yang lebih baharu.
+</p>
+<h4><span id="Bolehkah_saya_menulis_permainan_atau_mods_dalam_[masukkan_bahasa_pengaturcaraan_di_sini]?"></span><span class="mw-headline" id="Bolehkah_saya_menulis_permainan_atau_mods_dalam_.5Bmasukkan_bahasa_pengaturcaraan_di_sini.5D.3F">Bolehkah saya menulis permainan atau mods dalam [masukkan bahasa pengaturcaraan di sini]?</span></h4>
+<p>Sekiranya ia boleh silang-kompil ke Lua atau anda sambungkan ke pentafsir anda sendiri, ya. <a rel="nofollow" class="external text" href="https://content.minetest.net/packages/siegment/loria/">Loria</a> ditulis dalam bahasa <a rel="nofollow" class="external text" href="https://fennel-lang.org/">Fennel</a>.
+Jika tidak, sokongan untuk bahasa lain tidak akan diutamakan. Lua direka untuk pembenaman dan kami akan terus menggunakannya.
+</p>
+<h4><span id="Saya_ingin_gunakan_mods_Java_ini!_Saya_perlukan_Java!"></span><span class="mw-headline" id="Saya_ingin_gunakan_mods_Java_ini.21_Saya_perlukan_Java.21">Saya ingin gunakan mods Java ini! Saya perlukan Java!</span></h4>
+<p>Lua mampu menandingi jambatan ke Java dengan mudahnya dalam kebanyakan waktunya. Sekiranya anda betul-betul perlu gunakan bahasa pengaturcaraan yang lain untuk sesuatu seperti kunyahan data berat, Lua boleh memanggil pustaka C/++ secara natif (hanya boleh digunakan sekiranya mods <a href="#Apakah_itu_keselamatan_mods.3F">dipercayai</a>).
+</p>
+<h3><span id="Apakah_itu_API_Minetest?"></span><span class="mw-headline" id="Apakah_itu_API_Minetest.3F">Apakah itu API Minetest?</span></h3>
+<p>API Minetest memberikan anda capaian kepada semua benda yang enjin tersebut tawarkan ketika itu. Anda boleh jumpa rujukan API terbaru <a rel="nofollow" class="external text" href="https://github.com/minetest/minetest/blob/master/doc/lua_api.txt">di sini</a>. Versi ReadTheDocs juga boleh dibaca <a rel="nofollow" class="external text" href="https://minetest.gitlab.io/minetest/">di sini</a>.
+</p>
+<h3><span id="Bolehkah_mods_menulis_ganti_enjin?"></span><span class="mw-headline" id="Bolehkah_mods_menulis_ganti_enjin.3F">Bolehkah mods menulis ganti enjin?</span></h3>
+<p>Mods Minetest mesti gunakan API yang disediakan oleh enjin. Tidak seperti Minecraft, mods Minetest tidak boleh mengubah enjin. Jika anda rasa enjin ini tidak ada ciri-ciri tertentu, sila mempertimbangkan untuk <a rel="nofollow" class="external text" href="https://github.com/minetest/minetest/issues">membuka isu</a> atau <a rel="nofollow" class="external text" href="https://github.com/minetest/minetest/pulls">tulis ciri tersebut dengan diri anda sendiri</a>.
+</p>
+<h3><span id="Apakah_itu_devtest?"></span><span class="mw-headline" id="Apakah_itu_devtest.3F">Apakah itu devtest?</span></h3>
+<p><a rel="nofollow" class="external text" href="https://wiki.minetest.net/index.php?title=FAQ&amp;action=history">Development Test (devtest)</a> ialah sebuah permainan untuk menguji ciri-ciri enjin dan untuk melakukan pembangunan mods. Ia menyediakan set kandungan permainan yang minimum bersama-sama pelbagai pustaka kandungan bertujuan untuk menguji ciri-ciri enjin. Permainan ini disediakan bersama-sama enjin.
+</p>
+<h3><span id="Apakah_itu_keselamatan_mods?"></span><span class="mw-headline" id="Apakah_itu_keselamatan_mods.3F">Apakah itu keselamatan mods?</span></h3>
+<p>Keselamatan mods mengelakkan mods daripada menjalankan kaedah tidak selamat tanpa persetujuan pengguna. Mods perlu dinyatakan dengan jelas sebagai HTTP untuk menggunakan API HTTP. Mods perlu dipercayai untuk menjalankan pelbagai kaedah laras-OS.
+</p>
+<h3><span id="Bagaimanakah_untuk_belajar_mencipta_mods_dan_permainan?"></span><span class="mw-headline" id="Bagaimanakah_untuk_belajar_mencipta_mods_dan_permainan.3F">Bagaimanakah untuk belajar mencipta mods dan permainan?</span></h3>
+<p>Kami mengesyorkan <a rel="nofollow" class="external text" href="https://rubenwardy.com/minetest_modding_book/en/index.html">Minetest Modding Book</a> (Buku Mods Minetest) untuk bermula.
+</p>
+<h3><span id="Saya_mendapat_mesej_amaran_atau_ralat,_apakah_maksudnya?"></span><span class="mw-headline" id="Saya_mendapat_mesej_amaran_atau_ralat.2C_apakah_maksudnya.3F">Saya mendapat mesej amaran atau ralat, apakah maksudnya?</span></h3>
+<p><i>Sila lihat <a href="/Troubleshooting/ms#Mesej_ralat_tanpa_runtuh" title="Troubleshooting/ms">Mesej ralat tanpa runtuh</a>.</i>
+</p>
+<h3><span id="Kenapa_saya_tidak_boleh_membuat_ikatan_kekunci_yang_lain?"></span><span class="mw-headline" id="Kenapa_saya_tidak_boleh_membuat_ikatan_kekunci_yang_lain.3F">Kenapa saya tidak boleh membuat ikatan kekunci yang lain?</span></h3>
+<p>Ini ciri-ciri yang belum dilaksanakan. <a rel="nofollow" class="external text" href="https://github.com/minetest/minetest/pulls">Sumbangan kod dialu-alukan</a>.
+</p>
+<h3><span id="Bagaimanakah_cara_untuk_mencipta_model_untuk_mods_saya?"></span><span class="mw-headline" id="Bagaimanakah_cara_untuk_mencipta_model_untuk_mods_saya.3F">Bagaimanakah cara untuk mencipta model untuk mods saya?</span></h3>
+<p>Kami mengesyorkan anda <a href="/index.php?title=Using_Blender/ms&amp;action=edit&amp;redlink=1" class="new" title="Using Blender/ms (page does not exist)">menggunakan Blender</a> untuk mencipta model.
+</p>
+<h4><span id="Bolehkah_saya_menggunakan_Blockbench_untuk_mencipta_model?"></span><span class="mw-headline" id="Bolehkah_saya_menggunakan_Blockbench_untuk_mencipta_model.3F">Bolehkah saya menggunakan Blockbench untuk mencipta model?</span></h4>
+<p>Boleh, tetapi anda perlu eksport dan tukar model anda ke <a href="/index.php?title=Using_Blender/ms&amp;action=edit&amp;redlink=1" class="new" title="Using Blender/ms (page does not exist)">format yang Minetest sokong</a> menggunakan Blender. Penukaran animasi dari Blockbench tidak begitu diketahui untuk berfungsi dengan baik (itu pun jika berjaya ditukar).
+</p>
+<h3><span id="Bolehkah_saya_menjual_permainan_yang_saya_cipta_menggunakan_Minetest?"></span><span class="mw-headline" id="Bolehkah_saya_menjual_permainan_yang_saya_cipta_menggunakan_Minetest.3F">Bolehkah saya menjual permainan yang saya cipta menggunakan Minetest?</span></h3>
+<p>Selagi mana anda mematuhi <a rel="nofollow" class="external text" href="https://github.com/minetest/minetest/blob/master/LICENSE.txt">lesennya</a>, boleh saja.
+</p>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://fr.wikinews.org/wiki/Interview_de_Perttu_Ahola,_cr%C3%A9ateur_du_jeu_Minetest">https://fr.wikinews.org/wiki/Interview_de_Perttu_Ahola,_cr%C3%A9ateur_du_jeu_Minetest</a></span>
+</li>
+</ol></div>
+<!-- 
+NewPP limit report
+Cached time: 20230709035306
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.374 seconds
+Real time usage: 0.578 seconds
+Preprocessor visited node count: 351/1000000
+Post‐expand include size: 2250/2097152 bytes
+Template argument size: 537/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 13/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 83/5000000 bytes
+Lua time usage: 0.130/7 seconds
+Lua virtual size: 5.56 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  303.854      1 Template:Languages
+100.00%  303.854      1 -total
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:3216-0!canonical and timestamp 20230709035306 and revision id 26876
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=FAQ/ms&amp;oldid=26876">http://wiki.minetest.net/index.php?title=FAQ/ms&amp;oldid=26876</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/Category:Malay" title="Category:Malay">Malay</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=FAQ%2Fms" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/FAQ/ms" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:FAQ/ms&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/FAQ/ms">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=FAQ/ms&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=FAQ/ms&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/FAQ/ms" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/FAQ/ms" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=FAQ/ms&amp;oldid=26876" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=FAQ/ms&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 17 August 2022, at 07:26.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.374","walltime":"0.578","ppvisitednodes":{"value":351,"limit":1000000},"postexpandincludesize":{"value":2250,"limit":2097152},"templateargumentsize":{"value":537,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":13,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":83,"limit":5000000},"timingprofile":["100.00%  303.854      1 Template:Languages","100.00%  303.854      1 -total"]},"scribunto":{"limitreport-timeusage":{"value":"0.130","limit":"7"},"limitreport-virtmemusage":{"value":5828608,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709035306","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":257});});</script></body></html>

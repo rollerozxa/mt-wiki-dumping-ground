@@ -1,0 +1,317 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Inventory/de - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"e85c359a38d6fe796fda006b","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Inventory/de","wgTitle":"Inventory/de","wgCurRevisionId":20425,"wgRevisionId":20425,"wgArticleId":1798,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages","Gameplay"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Inventory/de","wgRelevantArticleId":1798,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready",
+"user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Inventory_de rootpage-Inventory skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Inventory/de</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/Inventory" title="Inventory">Inventory</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> Sprache:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><a href="/Inventory" title="Inventory">English</a><b>&#160;• <bdi lang="de"><a class="mw-selflink selflink">Deutsch</a></bdi></b>&#160;• <bdi lang="es"><a href="/Inventory/es" title="Inventory/es">español</a></bdi>&#160;• <bdi lang="fr"><a href="/Inventory/fr" title="Inventory/fr">français</a></bdi>&#160;• <bdi lang="hu"><a href="/Inventory/hu" title="Inventory/hu">magyar</a></bdi></td>
+</tr></tbody></table>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Inventar"><span class="tocnumber">1</span> <span class="toctext"><b>Inventar</b></span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Steuerung"><span class="tocnumber">1.1</span> <span class="toctext">Steuerung</span></a>
+<ul>
+<li class="toclevel-3 tocsection-3"><a href="#Nehmen"><span class="tocnumber">1.1.1</span> <span class="toctext">Nehmen</span></a></li>
+<li class="toclevel-3 tocsection-4"><a href="#Ablegen"><span class="tocnumber">1.1.2</span> <span class="toctext">Ablegen</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#Tauschen"><span class="tocnumber">1.1.3</span> <span class="toctext">Tauschen</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Wegwerfen"><span class="tocnumber">1.1.4</span> <span class="toctext">Wegwerfen</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#Automatisches_.C3.9Cbertragen"><span class="tocnumber">1.1.5</span> <span class="toctext">Automatisches Übertragen</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-8"><a href="#Inventare_im_Minetest-Spiel"><span class="tocnumber">1.2</span> <span class="toctext">Inventare im Minetest-Spiel</span></a>
+<ul>
+<li class="toclevel-3 tocsection-9"><a href="#Spielerinventar"><span class="tocnumber">1.2.1</span> <span class="toctext">Spielerinventar</span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="#Truhe_und_verschlossene_Truhe"><span class="tocnumber">1.2.2</span> <span class="toctext">Truhe und verschlossene Truhe</span></a></li>
+<li class="toclevel-3 tocsection-11"><a href="#B.C3.BCcherregal"><span class="tocnumber">1.2.3</span> <span class="toctext">Bücherregal</span></a></li>
+<li class="toclevel-3 tocsection-12"><a href="#Geschirrschrank"><span class="tocnumber">1.2.4</span> <span class="toctext">Geschirrschrank</span></a></li>
+<li class="toclevel-3 tocsection-13"><a href="#Knochen"><span class="tocnumber">1.2.5</span> <span class="toctext">Knochen</span></a></li>
+<li class="toclevel-3 tocsection-14"><a href="#Andere_Inventare"><span class="tocnumber">1.2.6</span> <span class="toctext">Andere Inventare</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-15"><a href="#Inventare_in_anderen_Spielen"><span class="tocnumber">1.3</span> <span class="toctext">Inventare in anderen Spielen</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h1><span class="mw-headline" id="Inventar"><b>Inventar</b></span></h1>
+<p>Ein <b>Inventar</b> wird in erster Linie zum Speichern von <a href="/Item_stack/de" title="Item stack/de">Gegenständestapeln</a> benutzt. Es gibt auch andere Verwendungen wie die <a href="/Crafting/de" title="Crafting/de">Herstellung</a>. Ein Inventar besteht aus einem rechteckigen Gitter aus Gegenstandsfächern. Jedes Gegenstandsfach kann entweder leer sein oder einen Gegenständestapel enthalten. Gegenständestapel können frei von Fach zu Fach verschoben werden, sofern das Zielfach leer ist oder denselben Gegenstandstyp enthält.
+</p>
+<h2><span class="mw-headline" id="Steuerung">Steuerung</span></h2>
+<p>Sie benutzen nur die Maus zum Nehmen, Ablegen oder Tauschen von Gegenstandsstapeln.
+</p>
+<h3><span class="mw-headline" id="Nehmen">Nehmen</span></h3>
+<p>Sie können Gegenstände aus einem belegten Fach <b>nehmen</b>, falls der Cursor nichts hält.
+</p>
+<ul><li><kbd>Linksklick</kbd>: nimmt den ganzen Gegenständestapel</li>
+<li><kbd>Rechtsklick</kbd>: nimmt die Hälfte des Gegenständestapels (aufgerundet, falls ungerade)</li>
+<li><kbd>Mittelklick</kbd>: nimmt zehn Gegenstände vom Gegenständestapel</li></ul>
+<h3><span class="mw-headline" id="Ablegen">Ablegen</span></h3>
+<p>Sie können Gegenstände in ein Fach <b>ablegen</b> falls der Cursor einen oder mehrere Gegenstände hält und das Fach entweder leer ist oder einen Gegenständestapel desselben Gegenstandstyps enthält.
+</p>
+<ul><li><kbd>Linksklick</kbd>: legt den ganzen Gegenständestapel ab</li>
+<li><kbd>Rechtsklick</kbd>: legt einen Gegenstand des Gegenständestapels ab</li>
+<li><kbd>Mittelklick</kbd>: legt zehn Gegenstände des Gegenständestapels ab</li></ul>
+<h3><span class="mw-headline" id="Tauschen">Tauschen</span></h3>
+<p>Sie können Gegenstände <b>tauschen</b>, falls der Cursor einen oder mehrere Gegenstände hält und das Zielfach mit einem anderen Gegenstandstyp belegt ist.
+</p>
+<ul><li><kbd>Links</kbd>, <kbd>Mittel</kbd> und <kbd>Rechtsklick</kbd>: tauscht Gegenständestapel des Cursors und des ausgewählten Gegenständefachs.</li></ul>
+<h3><span class="mw-headline" id="Wegwerfen">Wegwerfen</span></h3>
+<p>Falls Sie einen Gegenständestapel halten und irgendwo außerhalb des Menüs klicken, wird der Gegenständestapel in die Umgebung weggeworfen.
+</p>
+<h3><span id="Automatisches_Übertragen"></span><span class="mw-headline" id="Automatisches_.C3.9Cbertragen">Automatisches Übertragen</span></h3>
+<p>Sie können einen Gegenständestapel automatisch zu/von einem Spielerinventar zu/von einem anderen Gegenständeinventarfach, wie einem Ofen, einer Truhe oder irgendeinem Gegenständefach übertragen, wenn auf dieses Gegenständeinventar zugegriffen wird. Bei der Übertragung zu/von einem Ofen wandern Gegenstände, die <a href="/Smelting/de" class="mw-redirect" title="Smelting/de">geschmolzen</a> werden können, automatisch in das Eingangsfach, Gegenstände aus dem Ausgangsfach des Ofens wandern automatisch in das  Inventar des Spielers.
+</p>
+<ul><li><kbd>Umschalttaste+Linksklick</kbd>: Gegenständestapel automatisch übertragen</li></ul>
+<h2><span class="mw-headline" id="Inventare_im_Minetest-Spiel">Inventare im <a href="/Games/Minetest_Game/de" title="Games/Minetest Game/de">Minetest-Spiel</a></span></h2>
+<h3><span class="mw-headline" id="Spielerinventar">Spielerinventar</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/File:Inventory.png" class="image"><img alt="" src="/images/thumb/d/db/Inventory.png/250px-Inventory.png" decoding="async" width="250" height="117" class="thumbimage" srcset="/images/thumb/d/db/Inventory.png/375px-Inventory.png 1.5x, /images/thumb/d/db/Inventory.png/500px-Inventory.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Inventory.png" class="internal" title="Enlarge"></a></div>Das Spielerinventar</div></div></div>
+<p>Das Spielerinventar befindet sich im <a href="/Inventory_menu/de" title="Inventory menu/de">Inventarmenü</a> und hat eine Größe von acht Spalten und vier Zeilen, die 32 Gegenständefächer als Speicher bereitstellen. Die obere Zeile bildet die <a href="/Hotbar/de" title="Hotbar/de">Schnellauswahlleiste</a>.
+</p>
+<h3><span class="mw-headline" id="Truhe_und_verschlossene_Truhe"><a href="/Chest/de" title="Chest/de">Truhe</a> und <a href="/index.php?title=Locked_Chest/de&amp;action=edit&amp;redlink=1" class="new" title="Locked Chest/de (page does not exist)">verschlossene Truhe</a></span></h3>
+<p>Truhen und verschlossene Truhen stellen jeweils 8x4-Inventare zur Verfügung.
+</p>
+<h3><span id="Bücherregal"></span><span class="mw-headline" id="B.C3.BCcherregal"><a href="/Bookshelf/de" class="mw-redirect" title="Bookshelf/de">Bücherregal</a></span></h3>
+<p>Ein Bücherregal hat ein spezielles 8x2-Inventar, das nur für ein  <a href="/Book/de" title="Book/de">Buch</a> pro Fach benutzt werden kann.
+</p>
+<h3><span class="mw-headline" id="Geschirrschrank"><a href="/Vessels_Shelf/de" title="Vessels Shelf/de">Geschirrschrank</a></span></h3>
+<p>Ein Geschirrschrank hat ein spezielles 8x2-Inventar, das nur für Glasflaschen und Trinkgläser benutzt werden kann.
+</p>
+<h3><span class="mw-headline" id="Knochen"><a href="/Bones/de" title="Bones/de">Knochen</a></span></h3>
+<p>Wenn ein <a href="/Player/de" title="Player/de">Spieler</a> stirbt, bleiben Knochen zurück. Sie haben ein Inventar, das alle Gegenstände des gestorbenen Spielers enthält. Das Knocheninventar hat viele Eigenarten, Einzelheiten dazu finden Sie unter <a href="/Bones/de" title="Bones/de">Knochen</a>.
+</p>
+<h3><span class="mw-headline" id="Andere_Inventare">Andere Inventare</span></h3>
+<p>Andere Inventare sind das <a href="/Crafting/de#Gitter_und_Auswurffeld" title="Crafting/de">Herstellungsgitter mit Auswurffeld</a> und der <a href="/Furnace/de" title="Furnace/de">Ofen</a>. Das Herstellungsgitter hat dieselben Eigenschaften wie ein Inventar, aber Sie können auch neue Gegenstände damit <a href="/Crafting/de" title="Crafting/de">herstellen</a>. Sie behalten Ihre Gegenstände, falls Sie sie im Herstellungsgitter aufbewahren und das Inventarmenü schließen. Sogar die Brennstoff- und Schmelzfächer eines Ofens sind tatsächlich nur Sonderfälle des Inventars, hier 1x1-Inventare, wobei ersteres auf “brennbare” Gegenstände beschränkt ist.
+</p>
+<h2><span class="mw-headline" id="Inventare_in_anderen_Spielen">Inventare in anderen <a href="/index.php?title=Games/de&amp;action=edit&amp;redlink=1" class="new" title="Games/de (page does not exist)">Spielen</a></span></h2>
+<p>Andere <a href="/Mods/de" title="Mods/de">Modifikationen</a> oder Spiele können das Inventarmenü vollständig anpassen, um die Inventare zu ändern und außerdem überall dort, wo der Modifizierer dies wünscht, Inventare hinzuzufügen. Eigentlich zeigt das Minetest-Spiel nur eine der Möglichkeiten Inventare zu benutzen.
+</p><p>Für den Zweck dieses Wikis wird ein gewöhnliches Inventar im Inventarmenü als “Spielerinventar” bezeichnet.
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20230709180918
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.198 seconds
+Real time usage: 0.431 seconds
+Preprocessor visited node count: 116/1000000
+Post‐expand include size: 1778/2097152 bytes
+Template argument size: 364/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 13/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.110/7 seconds
+Lua virtual size: 5.54 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  318.700      1 Template:Languages/de
+100.00%  318.700      1 -total
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:1798-0!canonical and timestamp 20230709180918 and revision id 20425
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Inventory/de&amp;oldid=20425">http://wiki.minetest.net/index.php?title=Inventory/de&amp;oldid=20425</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li><li><a href="/Category:Gameplay" title="Category:Gameplay">Gameplay</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Inventory%2Fde" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Inventory/de" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Inventory/de&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Inventory/de">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Inventory/de&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Inventory/de&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Inventory/de" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Inventory/de" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Inventory/de&amp;oldid=20425" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Inventory/de&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 6 May 2018, at 20:22.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.198","walltime":"0.431","ppvisitednodes":{"value":116,"limit":1000000},"postexpandincludesize":{"value":1778,"limit":2097152},"templateargumentsize":{"value":364,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":13,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  318.700      1 Template:Languages/de","100.00%  318.700      1 -total"]},"scribunto":{"limitreport-timeusage":{"value":"0.110","limit":"7"},"limitreport-virtmemusage":{"value":5808128,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709180918","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":794});});</script></body></html>

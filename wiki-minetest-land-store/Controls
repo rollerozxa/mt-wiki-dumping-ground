@@ -1,0 +1,727 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Controls - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"1ee37156e2fe4b0992745510","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Controls","wgTitle":"Controls","wgCurRevisionId":27878,"wgRevisionId":27878,"wgArticleId":418,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages","About Minetest"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Controls","wgRelevantArticleId":418,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready",
+"user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Controls rootpage-Controls skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Controls</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> Language:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><b><a class="mw-selflink selflink">English</a></b>&#160;• <bdi lang="de"><a href="/Controls/de" title="Controls/de">Deutsch</a></bdi>&#160;• <bdi lang="es"><a href="/Controls/es" title="Controls/es">español</a></bdi>&#160;• <bdi lang="fr"><a href="/Controls/fr" title="Controls/fr">français</a></bdi>&#160;• <bdi lang="ja"><a href="/Controls/ja" title="Controls/ja">日本語</a></bdi>&#160;• <bdi lang="ms"><a href="/Controls/ms" title="Controls/ms">Bahasa Melayu</a></bdi></td>
+</tr></tbody></table>
+<p>This is an overview of all controls used in Minetest.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Changing_controls"><span class="tocnumber">1</span> <span class="toctext">Changing controls</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Game_controls"><span class="tocnumber">2</span> <span class="toctext">Game controls</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#PC"><span class="tocnumber">2.1</span> <span class="toctext">PC</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#macOS"><span class="tocnumber">2.2</span> <span class="toctext">macOS</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Mobile_devices_.28Android_.2F_iOS.29"><span class="tocnumber">2.3</span> <span class="toctext">Mobile devices (Android / iOS)</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Controllers_and_Gamepads"><span class="tocnumber">2.4</span> <span class="toctext">Controllers and Gamepads</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Movement_modes"><span class="tocnumber">3</span> <span class="toctext">Movement modes</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Pitch_move_mode"><span class="tocnumber">3.1</span> <span class="toctext">Pitch move mode</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Fast_mode"><span class="tocnumber">3.2</span> <span class="toctext">Fast mode</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Fly_mode"><span class="tocnumber">3.3</span> <span class="toctext">Fly mode</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Noclip_mode"><span class="tocnumber">3.4</span> <span class="toctext">Noclip mode</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Changing_controls_in_minetest.conf"><span class="tocnumber">4</span> <span class="toctext">Changing controls in minetest.conf</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Inventory_controls"><span class="tocnumber">5</span> <span class="toctext">Inventory controls</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Console_controls"><span class="tocnumber">6</span> <span class="toctext">Console controls</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Changing_controls">Changing controls</span></h2>
+<p>There are two ways to change the controls: Either by using the options menu accessible inside the game or by editing <a href="/Minetest.conf" title="Minetest.conf">minetest.conf</a>. See minetest.conf.example to learn the setting names. Note that some controls are fixed and cannot be changed at all.
+</p>
+<h2><span class="mw-headline" id="Game_controls">Game controls</span></h2>
+<h3><span class="mw-headline" id="PC">PC</span></h3>
+<p>The PC version of Minetest uses mouse and keyboard. These are the controls of the PC version:
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>Action
+</th>
+<th>Default control
+</th>
+<th>Changable in-game
+</th>
+<th>minetest.conf setting
+</th>
+<th>Comment
+</th></tr>
+<tr>
+<th colspan="5">Movement
+</th></tr>
+<tr>
+<td>Look around</td>
+<td>Move mouse</td>
+<td>No</td>
+<td><i>(none)</i></td>
+<td>
+</td></tr>
+<tr>
+<td>Move forward</td>
+<td>W</td>
+<td>Yes</td>
+<td><code>keymap_forward</code></td>
+<td>
+</td></tr>
+<tr>
+<td>Move to the left</td>
+<td>A</td>
+<td>Yes</td>
+<td><code>keymap_left</code></td>
+<td>
+</td></tr>
+<tr>
+<td>Move to the right</td>
+<td>D</td>
+<td>Yes</td>
+<td><code>keymap_right</code></td>
+<td>
+</td></tr>
+<tr>
+<td>Move backwards</td>
+<td>S</td>
+<td>Yes</td>
+<td><code>keymap_backward</code></td>
+<td>
+</td></tr>
+<tr>
+<td>Toggle pitch move mode</td>
+<td>P</td>
+<td>Yes</td>
+<td><code>keymap_pitchmove</code></td>
+<td>See <a href="#Movement_modes">#Movement modes</a>.
+</td></tr>
+<tr>
+<td>Toggle fast mode</td>
+<td>J</td>
+<td>Yes</td>
+<td><code>keymap_fastmove</code></td>
+<td>See <a href="#Movement_modes">#Movement modes</a>. Requires the "fast" <a href="/Privileges" title="Privileges">privilege</a>.
+</td></tr>
+<tr>
+<td>Toggle fly mode</td>
+<td>K</td>
+<td>Yes</td>
+<td><code>keymap_freemove</code></td>
+<td>See <a href="#Movement_modes">#Movement modes</a>. Requires the "fly" <a href="/Privileges" title="Privileges">privilege</a>.
+</td></tr>
+<tr>
+<td>Toggle noclip mode</td>
+<td>H</td>
+<td>Yes</td>
+<td><code>keymap_noclip</code></td>
+<td>See <a href="#Movement_modes">#Movement modes</a>. Requires the "noclip" <a href="/Privileges" title="Privileges">privilege</a>.
+</td></tr>
+<tr>
+<td>Special / Aux</td>
+<td>E</td>
+<td>Yes</td>
+<td><code>keymap_special1</code></td>
+<td>Makes you run faster when in fast mode. If the setting <code>aux1_descends</code> is true, this control also makes you descend in <a href="/Liquid" title="Liquid">liquids</a> and <a href="/Ladder" class="mw-redirect" title="Ladder">ladders</a>. Some <a href="/Mods" title="Mods">mods</a> utilize this key to enable special actions (e.g. sprinting).
+</td></tr>
+<tr>
+<td>Jump / Move up</td>
+<td>Space</td>
+<td>Yes</td>
+<td><code>keymap_jump</code></td>
+<td>You will move upwards instead of jumping if you are climbing, swimming or using fly mode.
+</td></tr>
+<tr>
+<td><a href="/Sneaking" title="Sneaking">Sneak</a> / Move down</td>
+<td>Shift</td>
+<td>Yes</td>
+<td><code>keymap_sneak</code></td>
+<td>You will move downwards instead of sneaking if you are climbing, swimming or using fly mode.
+</td></tr>
+<tr>
+<td>Toggle automatic forwards</td>
+<td><i>(none)</i></td>
+<td>Yes</td>
+<td><code>keymap_autoforward</code></td>
+<td>While this mode is enabled, this acts as if the forwards key is pressed all the time.
+</td></tr>
+<tr>
+<th colspan="5">World interaction
+</th></tr>
+<tr>
+<td><a href="/Punching" title="Punching">Punch</a> / <a href="/Mining" title="Mining">mine</a></td>
+<td>Left mouse button</td>
+<td>No</td>
+<td><code>keymap_dig</code></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/Using" title="Using">Use</a> / <a href="/Building" title="Building">build</a></td>
+<td>Right mouse button</td>
+<td>No</td>
+<td><code>keymap_place</code></td>
+<td>If the pointed thing is usable (example: <a href="/Chest" title="Chest">Chest</a>), you use it, otherwise you attempt to build at this block
+</td></tr>
+<tr>
+<td>Build</td>
+<td>Shift+Right mouse button</td>
+<td>No</td>
+<td><code>keymap_sneak</code>, <code>keymap_place</code></td>
+<td>Use this to build at usable blocks
+</td></tr>
+<tr>
+<td>Select next/previous item stack in <a href="/Hotbar" title="Hotbar">hotbar</a></td>
+<td>Roll mouse wheel</td>
+<td>No</td>
+<td><i>(none)</i></td>
+<td>
+</td></tr>
+<tr>
+<td>Select previous item stack in <a href="/Hotbar" title="Hotbar">hotbar</a></td>
+<td>B</td>
+<td>Yes</td>
+<td><code>keymap_hotbar_previous</code></td>
+<td>
+</td></tr>
+<tr>
+<td>Select next item stack in <a href="/Hotbar" title="Hotbar">hotbar</a></td>
+<td>N</td>
+<td>Yes</td>
+<td><code>keymap_hotbar_next</code></td>
+<td>
+</td></tr>
+<tr>
+<td>Select item stack in hotbar directly</td>
+<td>0-9</td>
+<td>No</td>
+<td><code>keymap_slot1</code> - <code>keymap_slot32</code></td>
+<td>
+</td></tr>
+<tr>
+<td>Drop wielded item stack</td>
+<td>Q</td>
+<td>Yes</td>
+<td><code>keymap_drop</code></td>
+<td>
+</td></tr>
+<tr>
+<td>Drop 1 item of wielded item stack</td>
+<td>Shift+Q</td>
+<td>Yes</td>
+<td><code>keymap_sneak</code>, <code>keymap_drop</code></td>
+<td>
+</td></tr>
+<tr>
+<th colspan="5">Camera
+</th></tr>
+<tr>
+<td>Select camera</td>
+<td>C</td>
+<td>Yes</td>
+<td><code>keymap_camera_mode</code></td>
+<td>Available cameras are (in this order): first person view, third person view from the back, third person view from the front
+</td></tr>
+<tr>
+<td>Toggle cinematic mode</td>
+<td><i>(none)</i></td>
+<td>Yes</td>
+<td><code>keymap_cinematic</code></td>
+<td>In cinematic mode, the camera will not immediately follow your movements, instead it will quickly “catch on”, so the movement of the camera looks a bit like the movement of an actual camera
+</td></tr>
+<tr>
+<td>Zoom in at the crosshair</td>
+<td>Z</td>
+<td>Yes</td>
+<td><code>keymap_zoom</code></td>
+<td>Usage of zoom can be restricted by game or mod. By default, zooming is only allowed in Creative Mode
+</td></tr>
+<tr>
+<th colspan="5">Graphics
+</th></tr>
+<tr>
+<td>Enable/disable fog</td>
+<td>F3</td>
+<td>Yes</td>
+<td><code>keymap_toggle_force_fog_off</code></td>
+<td>
+</td></tr>
+<tr>
+<td>Increase minimal viewing distance</td>
+<td>+</td>
+<td>Yes</td>
+<td><code>keymap_increase_viewing_range_min</code></td>
+<td>
+</td></tr>
+<tr>
+<td>Decrease minimal viewing distance</td>
+<td>-</td>
+<td>Yes</td>
+<td><code>keymap_decrease_viewing_range_min</code></td>
+<td>
+</td></tr>
+<tr>
+<td>Toggle far view</td>
+<td><i>(none)</i></td>
+<td>Yes</td>
+<td><code>keymap_rangeselect</code></td>
+<td>Far view allows to view things without a distance limitation. <b>Warning</b>: This can severly impact Minetest's performance; use this only briefly or for testing
+</td></tr>
+<tr>
+<td>Take a <a href="/index.php?title=Screenshot&amp;action=edit&amp;redlink=1" class="new" title="Screenshot (page does not exist)">screenshot</a></td>
+<td>F12</td>
+<td>Yes</td>
+<td><code>keymap_screenshot</code></td>
+<td>
+</td></tr>
+<tr>
+<th colspan="5">Heads-up Display
+</th></tr>
+<tr>
+<td>Show/hide <a href="/Inventory_menu" title="Inventory menu">inventory menu</a></td>
+<td>I</td>
+<td>Yes</td>
+<td><code>keymap_inventory</code></td>
+<td>
+</td></tr>
+<tr>
+<td>Show/hide HUD</td>
+<td>F1</td>
+<td>Yes</td>
+<td><code>keymap_toggle_hud</code></td>
+<td>
+</td></tr>
+<tr>
+<td>Show/hide chat log</td>
+<td>F2</td>
+<td>Yes</td>
+<td><code>keymap_toggle_chat</code></td>
+<td>
+</td></tr>
+<tr>
+<td>Toggle <a href="/index.php?title=Minimap&amp;action=edit&amp;redlink=1" class="new" title="Minimap (page does not exist)">minimap</a></td>
+<td>V</td>
+<td>Yes</td>
+<td><code>keymap_minimap</code></td>
+<td>Usage of minimap can be restricted by game or mod</td>
+<td>
+</td></tr>
+<tr>
+<td>Toggle minimap shape (square or circle)</td>
+<td>Shift+F9</td>
+<td>Yes</td>
+<td><code>keymap_sneak</code>, <code>keymap_minimap</code></td>
+<td>
+</td></tr>
+<tr>
+<td>Open/close <a href="/Console" title="Console">console</a></td>
+<td>F10</td>
+<td>Yes</td>
+<td><code>keymap_console</code></td>
+<td>
+</td></tr>
+<tr>
+<td>Abort / close window / open pause menu / quit Minetest</td>
+<td>Esc</td>
+<td>No</td>
+<td><i>(none)</i></td>
+<td>
+</td></tr>
+<tr>
+<th colspan="5">Sound
+</th></tr>
+<tr>
+<td>Decrease volume</td>
+<td><i>(none)</i></td>
+<td>Yes</td>
+<td><code>keymap_decrease_volume</code></td>
+<td>
+</td></tr>
+<tr>
+<td>Increase volume</td>
+<td><i>(none)</i></td>
+<td>Yes</td>
+<td><code>keymap_increase_volume</code></td>
+<td>
+</td></tr>
+<tr>
+<td>Toggle mute</td>
+<td>M</td>
+<td>Yes</td>
+<td><code>keymap_mute</code></td>
+<td>
+</td></tr>
+<tr>
+<th colspan="5">Commands and chat
+</th></tr>
+<tr>
+<td>Open <a href="/Chat_window" title="Chat window">chat window</a></td>
+<td>T</td>
+<td>Yes</td>
+<td><code>keymap_chat</code></td>
+<td>You need the “shout” privilege to <a href="/Chat" title="Chat">chat</a>
+</td></tr>
+<tr>
+<td>Start issuing a <a href="/Server_commands" title="Server commands">server command</a></td>
+<td>/</td>
+<td>Yes</td>
+<td><code>keymap_cmd</code></td>
+<td>
+</td></tr>
+<tr>
+<td>Start issuing a <a href="/index.php?title=Local_commands&amp;action=edit&amp;redlink=1" class="new" title="Local commands (page does not exist)">local command</a></td>
+<td>.</td>
+<td>Yes</td>
+<td><code>keymap_cmd_local</code></td>
+<td>Local commands are part of <a href="/index.php?title=Client_mods&amp;action=edit&amp;redlink=1" class="new" title="Client mods (page does not exist)">client mods</a>
+</td></tr>
+<tr>
+<th colspan="5">Debugging (for developers)
+</th></tr>
+<tr>
+<td>Enable/disable camera update</td>
+<td>F4 <i>or none</i></td>
+<td>No</td>
+<td><code>keymap_toggle_update_camera</code></td>
+<td>Only useful for developers. If disabled, the landscape drawn around you will not be updated as you look around. This action only has a default key binding in the developer version of Minetest; in official releases there's no default key binding because this can be very confusing to players
+</td></tr>
+<tr>
+<td>Enable/disable <a href="/Debug" title="Debug">debug</a> display</td>
+<td>F5</td>
+<td>No</td>
+<td><code>keymap_toggle_debug</code></td>
+<td>Also shows your <a href="/Coordinates" title="Coordinates">coordinates</a>
+</td></tr>
+<tr>
+<td>Enable/disable <a rel="nofollow" class="external text" href="https://dev.minetest.net/Engine/Basic_data_structures#Block">mapblock</a> bounds view</td>
+<td>&lt;none&gt;</td>
+<td>Yes</td>
+<td><code>keymap_toggle_block_bounds</code></td>
+<td>This displays the outlines of mapblocks, 16×16×16 portions of the map
+</td></tr>
+<tr>
+<td>Enable/disable <a rel="nofollow" class="external text" href="https://dev.minetest.net/Profiler_graph">profiler</a></td>
+<td>F6</td>
+<td>No</td>
+<td><code>keymap_toggle_profiler</code></td>
+<td>Only useful for developers
+</td></tr>
+<tr>
+<td>Write stack traces into <a href="/index.php?title=Debug.txt&amp;action=edit&amp;redlink=1" class="new" title="Debug.txt (page does not exist)">debug.txt</a></td>
+<td><i>(none)</i></td>
+<td>No</td>
+<td><code>keymap_print_debug_stacks</code></td>
+<td>Only useful for developers
+</td></tr>
+</tbody></table>
+<h3><span class="mw-headline" id="macOS">macOS</span></h3>
+<p>Same as for PC, with one difference: If you have a 1-button mouse, you can emulate a <b>right click</b> with a two finger tap on the trackpad.
+</p>
+<h3><span id="Mobile_devices_(Android_/_iOS)"></span><span class="mw-headline" id="Mobile_devices_.28Android_.2F_iOS.29">Mobile devices (Android / iOS)</span></h3>
+<p>(Note: This section and the list of controls might be incomplete)
+</p><p>The controls on mobile devices are severely restricted compared to the PC and you only have very basic controls. You can't do everything a PC player could do.
+</p><p>The touchscreen is used for everything.
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>Action
+</th>
+<th>Control
+</th></tr>
+<tr>
+<td>Look around</td>
+<td>Touch screen and slide finger
+</td></tr>
+<tr>
+<td>Use / build</td>
+<td>Double-tap
+</td></tr>
+<tr>
+<td>Punch / mine</td>
+<td>Long tap
+</td></tr>
+<tr>
+<td>Chat</td>
+<td>Press on-screen button in left upper corner
+</td></tr>
+<tr>
+<td>Jump</td>
+<td>Press on-screen button in right lower corner
+</td></tr>
+<tr>
+<td>Sneak</td>
+<td>Press on-screen button in right lower corner
+</td></tr>
+<tr>
+<td>Move left/up/right/down</td>
+<td>Press on-screen button in left lower corner
+</td></tr>
+<tr>
+<td>Display inventory</td>
+<td>Press on-screen button in left lower corner
+</td></tr></tbody></table>
+<p><br />
+Mobile controls when a menu or inventory is displayed:
+</p>
+<ul><li>double tap outside menu area: close menu</li>
+<li>tap on an item stack: select that stack</li>
+<li>tap on an empty slot: if you selected a stack already, that stack is placed here</li>
+<li>drag and drop: touch stack and hold finger down, move the stack to another slot, tap another finger while keeping first finger on screen --&gt; places a single item from dragged stack into current (first touched) slot</li></ul>
+<h3><span class="mw-headline" id="Controllers_and_Gamepads">Controllers and Gamepads</span></h3>
+<p>You'll need to use an external program to bind a controller. See <a href="/Gamepads" title="Gamepads">Gamepads</a> for more info.
+</p>
+<h2><span class="mw-headline" id="Movement_modes">Movement modes</span></h2>
+<p>Along with the normal <a class="mw-selflink selflink">controls</a>, there are three so-called “movement modes” to change the way the player moves.
+</p>
+<h3><span class="mw-headline" id="Pitch_move_mode">Pitch move mode</span></h3>
+<p>If this mode is activated (<b>default key: <kbd>P</kbd></b>), the movement keys will move you relative to your current view pitch (vertical look angle) when you're in a liquid or in fly mode.
+</p>
+<h3><span class="mw-headline" id="Fast_mode">Fast mode</span></h3>
+<p>If this mode is activated (<b>default key: <kbd>J</kbd></b>), it allows the player to move faster.
+If the fly mode is not activated, the player can run faster using the so-called “Special” key (Setting name in <a href="/Minetest.conf" title="Minetest.conf">minetest.conf</a>: <code>keymap_special1</code>), which is <kbd>E</kbd> normally. If the fly mode is activated, the player will <i>fly</i> faster instead.
+</p><p><i>The “fast” privilege is required to use this.</i>
+</p>
+<h3><span class="mw-headline" id="Fly_mode">Fly mode</span></h3>
+<p>If this mode is activated (<b>default key: <kbd>K</kbd></b>), the effects of gravity do not apply to the player anymore. This slightly changes the controls: The <i>jump</i> key (<b>default: <kbd>Space</kbd></b>) will cause the player to rise and the <i>sneak</i> key (<b>default: <kbd>Shift</kbd></b>) to sink.
+</p><p><i>The “fly” privilege is required to use this.</i>
+</p>
+<h3><span class="mw-headline" id="Noclip_mode">Noclip mode</span></h3>
+<p>If this mode is activated (<b>default key: <kbd>H</kbd></b>) along with fly mode, the player can fly through walls. If fly mode is not activated as well, noclip mode has nearly no effect; it only prevents screen blackening when the player's head is inside a solid block.
+</p><p><i>The “noclip” privilege is required to use this.</i>
+</p>
+<h2><span class="mw-headline" id="Changing_controls_in_minetest.conf">Changing controls in <code>minetest.conf</code></span></h2>
+<p>With <code>minetest.conf</code>, you can change the controls which are unavailable in the settings menu. See <a href="/Minetest.conf#Controls" title="Minetest.conf">minetest.conf#Controls</a> for more information.
+</p>
+<h2><span class="mw-headline" id="Inventory_controls">Inventory controls</span></h2>
+<p>See <a href="/Inventory#Controls" title="Inventory">Inventory#Controls</a>.
+</p>
+<h2><span class="mw-headline" id="Console_controls">Console controls</span></h2>
+<p>See <a href="/Console#Controls_overview" title="Console">Console#Controls overview</a>.
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20230709142111
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.281 seconds
+Real time usage: 0.564 seconds
+Preprocessor visited node count: 140/1000000
+Post‐expand include size: 1959/2097152 bytes
+Template argument size: 425/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 14/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.120/7 seconds
+Lua virtual size: 5.54 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  381.811      1 Template:Languages
+100.00%  381.811      1 -total
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:418-0!canonical and timestamp 20230709142110 and revision id 27878
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Controls&amp;oldid=27878">http://wiki.minetest.net/index.php?title=Controls&amp;oldid=27878</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li><li><a href="/Category:About_Minetest" title="Category:About Minetest">About Minetest</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Controls" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Controls" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Controls&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Controls">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Controls&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Controls&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Controls" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Controls" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Controls&amp;oldid=27878" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Controls&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 15 June 2023, at 13:54.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.281","walltime":"0.564","ppvisitednodes":{"value":140,"limit":1000000},"postexpandincludesize":{"value":1959,"limit":2097152},"templateargumentsize":{"value":425,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":14,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  381.811      1 Template:Languages","100.00%  381.811      1 -total"]},"scribunto":{"limitreport-timeusage":{"value":"0.120","limit":"7"},"limitreport-virtmemusage":{"value":5812224,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709142111","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":270});});</script></body></html>

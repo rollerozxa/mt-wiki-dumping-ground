@@ -1,0 +1,369 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Quickstart with technic, pipeworks, digtron - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"577b439b63b186357630015b","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Quickstart_with_technic,_pipeworks,_digtron","wgTitle":"Quickstart with technic, pipeworks, digtron","wgCurRevisionId":26858,"wgRevisionId":26858,"wgArticleId":5103,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Quickstart_with_technic,_pipeworks,_digtron","wgRelevantArticleId":5103,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],
+"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Quickstart_with_technic_pipeworks_digtron rootpage-Quickstart_with_technic_pipeworks_digtron skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Quickstart with technic, pipeworks, digtron</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>This guide assumes that the basics are already done, ie.
+tools, food, a safe place to live and work, and access to a mine.
+</p><p>See also <a rel="nofollow" class="external free" href="https://wiki.minetest.net/Server/SteamWorks#Tips">https://wiki.minetest.net/Server/SteamWorks#Tips</a>
+</p><p>A public farm, public mine, public workshop and shops 
+that sell technic-items will make it all much more quick and easy.
+</p><p>As a base, i suggest a place with at least size 16x16, 
+preferable with free space around for expanding.
+</p><p>A location near spawn or otherwise easy to reach might be a bonus 
+(eg. for building a shop).
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Autocrafters"><span class="tocnumber">1</span> <span class="toctext">Autocrafters</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Digtron"><span class="tocnumber">2</span> <span class="toctext">Digtron</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Machines"><span class="tocnumber">3</span> <span class="toctext">Machines</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Powered_Machines"><span class="tocnumber">4</span> <span class="toctext">Powered Machines</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Tools"><span class="tocnumber">5</span> <span class="toctext">Tools</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Other"><span class="tocnumber">6</span> <span class="toctext">Other</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Setup"><span class="tocnumber">7</span> <span class="toctext">Setup</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Autocrafters">Autocrafters</span></h2>
+<p>For crafting items with many parts, and/or mass-production. <br />
+Needs 5 iron, 2 mese, 2 plastic.
+</p><p>For a starter-base, i usually don't bother with tubes and injectors
+for automating the autocrafters, <br />
+as that will need a lot of space,
+and requires more resources to build.
+</p>
+<h2><span class="mw-headline" id="Digtron">Digtron</span></h2>
+<p>For digging/mining. <br />
+</p><p>Parts needed:
+</p>
+<ul><li>Crate (optionally locked)</li>
+<li>Combined-Inventory</li>
+<li>Auto-Controller</li>
+<li>Digger-Head</li>
+<li>Builder-Head</li>
+<li>Rotation-Axle (optional)</li></ul>
+<p>All those parts need a digtron-core, made of 4 iron + 1 mese-fragment. <br />
+The crate and controller need mese, and the diggerheads need diamonds.
+</p><p>Small designs;
+</p>
+<ul><li>Tunnel-digger, eg. with 2x3 digger-heads, plus 1 builder for placing lights</li>
+<li>Shaft-digger, eg. 2x2 digger-heads, with builders for support-column, ladder, lights</li></ul>
+<h2><span class="mw-headline" id="Machines">Machines</span></h2>
+<p>For planting/harvesting etc. <br />
+</p><p>Common parts:
+</p>
+<ul><li>Mesecon-wire   - needs mese</li>
+<li>Piston         - needs Mesecon, wood, cobble, iron</li>
+<li>Iron gear      - needs iron, chainlinks (also from iron)</li>
+<li>mese-torch     - needs Mesecon, stick</li>
+<li>silicon wafer  - needs sand, coal-dust</li>
+<li>LUA-controller - needs Mesecon, silicon-lump (from sand, iron)</li></ul>
+<p>Parts needed:
+</p>
+<ul><li>Nodebreaker - Mesecon, gears, wood, stone</li>
+<li>Deployer    - Mesecon, piston, stone, wood, chest</li>
+<li>BlnkyPlant  - Mesecon, sapling</li>
+<li>Tubes       - plastic (from leaves-&gt;parafin-&gt;plastic)
+<ul><li>Vac.Tube - Tube, sand</li>
+<li>SortingTubes - tube, mese-fragments</li></ul></li>
+<li>Delayer - Mesecon, mese-torch, cobble</li>
+<li>Injector  - iron, plastic, stick, mese / mese-block</li>
+<li>Self-contained injector - chest,  tube, control-logic-unit
+<ul><li>CLU - gold-wire, copper, chromium, silicn wafer</li></ul></li>
+<li>Nodedetector - Mesecon, iron, LUA-controller</li></ul>
+<p>Examples:
+</p>
+<ul><li>Cactus/Papyrus-Harvester</li></ul>
+<dl><dd><dl><dd>Nodebreaker digs 2nd node of plant, moves them via tube to chest, blinkyplant triggers nodebreaker</dd></dl></dd></dl>
+<ul><li>Mithril-Scythe-Harvester</li></ul>
+<dl><dd><dl><dd>Mithril-Scythe in the nodebreaker harvests+replants</dd></dl></dd></dl>
+<ul><li>Rubbertree-Harvester - rubbertree-block with leaves+light</li></ul>
+<dl><dd><dl><dd>Tap in the nodebreaker to suck rubber from rubbertree</dd></dl></dd></dl>
+<ul><li>Stone-Generator - Lava above water</li></ul>
+<dl><dd><dl><dd>Pickaxe in the nodebreaker to dig the generated stones</dd></dl></dd></dl>
+<ul><li>Sapling-Mill</li></ul>
+<dl><dd><dl><dd>Deployer puts leave, nodebreaker digs it (with chance to get a sapling),</dd>
+<dd>sortingtube to move leaves to deployer, saplings into chest</dd></dl></dd></dl>
+<ul><li>Regular Harvester</li></ul>
+<dl><dd><dl><dd>with nodedetector looking for ripe fruit/crops to trigger nodebreaker + deployer.</dd>
+<dd>Use a chainsaw in the nodebreaker for harvesting trees (needs recharging)
+<dl><dd>Surround this with vac.tubes to catch more leaves</dd></dl></dd></dl></dd></dl>
+<h2><span class="mw-headline" id="Powered_Machines">Powered Machines</span></h2>
+<p>Common parts for LV-machines:
+</p>
+<ul><li>Cables         - needs paper, copper</li>
+<li>Machine-Casing - needs cast iron, brass (from copper, zinc)</li>
+<li>RE-Battery     - needs wood, copper, tin</li>
+<li>Spool of copper wire - needs copper, and plastic for the spools</li></ul>
+<p>In short, lots of iron and copper, some paper and bits of other materials.
+</p><p>For ore-processing:
+</p>
+<ul><li>Grinder - needs machine-casing &amp; cable, diamond, desert-stone, granite</li>
+<li>Furnace - needs machine-casing &amp; cable, cobble</li>
+<li>AlloyFurnace - (eg. for brass) - needs brickblocks (from clay-bricks)</li></ul>
+<p>LV-machines works, but have no upgrade-slots and no connectors for pipeworks-tubes, <br />
+so no automation is possible.
+</p><p>So, wie want MV as soon as possible. <br />
+MV also has the toolworkshop, for repairing tools. <br />
+MV-machines in general need the corresponding LV-machine as one of the components.
+</p>
+<ul><li>Generator (there are Hydro- , Solar-, Geothermal-Generator)
+<ul><li>Hydro-Generator - needs  machine-casing &amp; cable, wood, marble, diamond</li></ul></li>
+<li>SwitchingStation - needs machine-casing &amp; cable, copper, LV-transformer
+<ul><li>LV-transformer  - needs iron, fiber (from glue, from saplings), copper-coils (from iron, copper wire)</li></ul></li>
+<li>BatteryBox       - needs machine-casing &amp; cable, wood, 4x RE-Batterys</li></ul>
+<h2><span class="mw-headline" id="Tools">Tools</span></h2>
+<ul><li>Chainsaw - for harvesting whole trees, including leaves.</li></ul>
+<dl><dd><dl><dd>Leaves are the raw material to make oil-&gt;parafin-&gt;plastic, twigs-&gt;sticks-&gt;wood, and more saplings.</dd></dl></dd></dl>
+<p>The chainsaw needs to be charged in a batterybox.
+</p><p>...
+</p>
+<h2><span class="mw-headline" id="Other">Other</span></h2>
+<ul><li>Transport</li></ul>
+<dl><dd><dl><dd>Tubes, Injectors, SortingTubes, LUA-tubes - to move stuff between machines</dd></dl></dd></dl>
+<ul><li>Storage-System</li></ul>
+<dl><dd><dl><dd>as above, to move stuff to processing machines and/or a system of chests.</dd></dl></dd></dl>
+<p>See also technic-chests, techage-chests, drawers.
+</p>
+<h2><span class="mw-headline" id="Setup">Setup</span></h2>
+<p>Some essential production-lines:
+</p>
+<ul><li>leaves -&gt; twigs -&gt; sticks -&gt; wooden planks</li></ul>
+<dl><dd><dl><dd>wooden items: ladders, signs, chests, fences ...</dd></dl></dd></dl>
+<ul><li>leaves -&gt; oil-extract -&gt; parafin -&gt; plastic</li></ul>
+<dl><dd><dl><dd>pipeworks-tubes</dd>
+<dd>also: oil-extract as fuel</dd></dl></dd></dl>
+<ul><li>papyrus -&gt; paper</li></ul>
+<dl><dd><dl><dd>books, LV-cables -&gt; MV-cables</dd></dl></dd></dl>
+<ul><li>ore -&gt; grinder -&gt; furnace</li></ul>
+<dl><dd><dl><dd>to get more ingots</dd></dl></dd></dl>
+<ul><li>cobble -&gt; stone -&gt; stonebrick</li></ul>
+<ul><li>sand -&gt; sandstone -&gt; sandstonebrick</li></ul>
+<ul><li>wheat -&gt; flour -&gt; bread</li></ul>
+<ul><li>cotton -&gt; wool, string</li></ul>
+<dl><dd><dl><dd>small, medium, large bags</dd></dl></dd></dl>
+<p>...
+</p><p>See also <a rel="nofollow" class="external free" href="https://wiki.minetest.net/Server/SteamWorks#Tips">https://wiki.minetest.net/Server/SteamWorks#Tips</a>
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20230709075307
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.046 seconds
+Real time usage: 0.052 seconds
+Preprocessor visited node count: 21/1000000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    0.000      1 -total
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:5103-0!canonical and timestamp 20230709075307 and revision id 26858
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Quickstart_with_technic,_pipeworks,_digtron&amp;oldid=26858">http://wiki.minetest.net/index.php?title=Quickstart_with_technic,_pipeworks,_digtron&amp;oldid=26858</a>"</div>
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Quickstart+with+technic%2C+pipeworks%2C+digtron" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Quickstart_with_technic,_pipeworks,_digtron" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Quickstart_with_technic,_pipeworks,_digtron&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Quickstart_with_technic,_pipeworks,_digtron">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Quickstart_with_technic,_pipeworks,_digtron&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Quickstart_with_technic,_pipeworks,_digtron&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Quickstart_with_technic,_pipeworks,_digtron" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Quickstart_with_technic,_pipeworks,_digtron" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Quickstart_with_technic,_pipeworks,_digtron&amp;oldid=26858" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Quickstart_with_technic,_pipeworks,_digtron&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 11 August 2022, at 09:44.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.046","walltime":"0.052","ppvisitednodes":{"value":21,"limit":1000000},"postexpandincludesize":{"value":0,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20230709075307","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":301});});</script></body></html>

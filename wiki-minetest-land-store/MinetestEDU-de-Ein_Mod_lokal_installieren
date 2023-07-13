@@ -1,0 +1,311 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>MinetestEDU/de/Ein Mod lokal installieren - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"6d5b9db89042844277d95171","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"MinetestEDU/de/Ein_Mod_lokal_installieren","wgTitle":"MinetestEDU/de/Ein Mod lokal installieren","wgCurRevisionId":22701,"wgRevisionId":22701,"wgArticleId":3784,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["MinetestEDU"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"MinetestEDU/de/Ein_Mod_lokal_installieren","wgRelevantArticleId":3784,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],
+"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=skins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-MinetestEDU_de_Ein_Mod_lokal_installieren rootpage-MinetestEDU skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">MinetestEDU/de/Ein Mod lokal installieren</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/MinetestEDU" title="MinetestEDU">MinetestEDU</a>&lrm; | <a href="/MinetestEDU/de" title="MinetestEDU/de">de</a></span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>Alles was Minetest im Vergleich zu Minecraft scheinbar erst einmal nicht bietet, kann man in Minetest per Mod (<i>von Modifikation</i>) einfügen. Das scheint umständlich, aber es geht so einfach, dass es dann wieder kein Problem ist. Man muss nur das passende Mod finden.
+</p>
+<h2><span class="mw-headline" id="Das_passende_Mod_finden">Das passende Mod finden</span></h2>
+<p>Das ist sicherlich nicht einfach, denn es gibt sehr viele Mods und das macht die Auswahl undurchsichtig. 
+</p><p>Generell gilt: alle Mods werden im <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewforum.php?f=46"><b>Minetest-Forum</b></a> veröffentlicht. Die Entwickler stellen in einem Thread dann meist den Mod vor und geben alle notwendigen Links an, wie die Download-Quelle, Anleitungen und vielleicht auch einen Hinweis auf Abhängigkeiten von anderen Mods, die ebenfalls installiert werden müssen, damit das Mod richtig läuft. Interessierte Nutzer können das Mod dann ausprobieren und kommentieren meist, ob es Probleme gibt oder ob ihnen das Mod gefällt. Dazu gibt es vielleicht auch Verbesserungsvorschläge.
+</p><p>Auch wenn es Updates gibt, werden dieses meist dann im ersten Beitrag wiederum veröffentlicht, indem der Beitrag abgeändert wird und Änderungen bekannt gegeben werden.
+</p><p>Die Suche im Forum nach einem bestimmten Thema oder auch nach dem Mod-Namen ist meist nicht so wirklich gut. In der Regel ist es sogar besser über Google zu suchen. Oder man fragt im Forum nach, ob es ein Mod gibt, das die gewünschten Effekte hat. Um bei der Suche zu helfen wurde das externs Tool "<a rel="nofollow" class="external text" href="http://krock-works.16mb.com/MTstuff/modSearch.php">Minetest Mod Search</a>" entwickelt welches das Forum nach bestimmten Kriterien durchsuchen kann. Etwa nach Autoren, Wörtern im Titel und in bestimmten Forums Kategorien. Die Ergebnisse dieser Suchmaschine nutzt auch der "<a rel="nofollow" class="external text" href="http://rubenwardy.com/mtmods4android/">Minetest Mod Manager for Android</a>" um seine Liste von Mods zu generieren. Den Anfang der Liste machen allerdings die Mods von "<a rel="nofollow" class="external text" href="https://github.com/minetest-mods">Mod repository</a>" des "Minetest Mods Team". Hier sind einige der wichtigsten Mods in einem zentralen Archiv gesammelt.
+</p><p>Auch das <b>Minetest-Wiki</b> bietet neben einer <a href="/Mods" title="Mods">Seite mit allgemeinen Infos</a> zu Mods auch noch eine <a href="/Category:Mods" title="Category:Mods">Kategorie mit Mods</a>, die allerdings wenig genutzt wird. Einige Wikiseiten listen Mods zu bestimmten Themen auf, so die Seite <a href="/Mobs" title="Mobs">Mobs</a> alles was es so an Monstern, Tieren, Computer gesteuerten Figuren und anderen undifinierbaren Wesen. Ebenso listet die Seite <a href="/Mods:Vehicles" title="Mods:Vehicles">Mods:Vehicles</a> Mods mit diversen Fahrzeugen auf. Die Wikiseite <a href="/index.php?title=Mods:Learning&amp;action=edit&amp;redlink=1" class="new" title="Mods:Learning (page does not exist)">Mods:Learning</a> listed dagegen verschiedene Mods zum Thema Lernen auf sowie einige Links zu Seiten die zum Thema passen.
+</p>
+<div class="floatright"><a href="/File:Unified_Inventory_Sreenshot.png" class="image"><img alt="Unified Inventory Sreenshot.png" src="/images/thumb/b/b0/Unified_Inventory_Sreenshot.png/280px-Unified_Inventory_Sreenshot.png" decoding="async" width="280" height="198" srcset="/images/thumb/b/b0/Unified_Inventory_Sreenshot.png/420px-Unified_Inventory_Sreenshot.png 1.5x, /images/thumb/b/b0/Unified_Inventory_Sreenshot.png/560px-Unified_Inventory_Sreenshot.png 2x" /></a></div>
+<p>Eine speziell auf die Bedürfnisse für Lehrer und Pädagogen angepasst Mod-Auswahl gibt es auf <a href="/MinetestEDU/de/Mod-%C3%9Cbersicht" title="MinetestEDU/de/Mod-Übersicht"><b>dieser Seite</b></a>. Dort findet man teilweise genaue Anleitungen für die Nutzung oder konkrete Informationen, was das Mod bietet oder nicht.
+</p>
+<h2><span id="Das_Beispiel-Mod_&quot;Unified_Inventory&quot;_installieren"></span><span class="mw-headline" id="Das_Beispiel-Mod_.22Unified_Inventory.22_installieren">Das Beispiel-Mod "Unified Inventory" installieren</span></h2>
+<p>Wenn  man bei der Installation vorgeht, wird anhand des Mods <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?t=3933">Unified Inventory</a> erklärt. 
+</p><p>Das Mod verändert das normalerweise recht einfache Inventar, dass ja normalerweise per "I" aufgerufen wird. Man erhält eine größere Fläche, Informationen wie man welche Blöcke herstellen kann und zusätzliche Knöpfe, mit denen man den Homepunkt setzen und zwischen Tag und Nacht umschalten kann und einiges mehr. Außerdem kann man nach Blöcken und ihren Namen suchen <i>(was aber auch in dem Standard-Inventar möglich ist)</i>.
+</p><p>Installation "hört" sich so "technisch" an, tatsächlich muss man das Mod-Verzeichnis nur an die richtige Stelle kopieren.
+</p><p><br />
+</p>
+<table class="wikitable">
+
+<tbody><tr style="vertical-align:top">
+<td><b>1. Schritt:</b> Mod herunterladen von <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?t=3933">dieser Seite</a> hinter "Download Link".
+</td>
+<td><a href="/File:Mod_installieren1.png" class="image"><img alt="Mod installieren1.png" src="/images/thumb/b/bc/Mod_installieren1.png/600px-Mod_installieren1.png" decoding="async" width="600" height="327" srcset="/images/b/bc/Mod_installieren1.png 1.5x" /></a>
+</td></tr>
+<tr style="vertical-align:top">
+<td>
+<p><b>2. Schritt:</b> ZIP-Datei entpacken und im eigenen Benutzer-Verzeichnis das Minetest-Einstellungs-Verzeichnis finden. 
+</p><p>Unter Linux findet es sich im "Persönlichen Ordner" als verstecktes Verzeichnis ".minetest". Das erreicht man, entweder indem man die unsichtbaren Dateien anschaltet oder in der Verzeichniszeile einfach hintendran "/.minetest" eingibt.
+</p><p>Die genaue Vorgehensweise hängt natürlich vom Betriebssystem ab.
+</p>
+</td>
+<td><a href="/File:Mod_installieren2.png" class="image"><img alt="Mod installieren2.png" src="/images/thumb/b/bb/Mod_installieren2.png/600px-Mod_installieren2.png" decoding="async" width="600" height="202" srcset="/images/thumb/b/bb/Mod_installieren2.png/900px-Mod_installieren2.png 1.5x, /images/b/bb/Mod_installieren2.png 2x" /></a>
+</td></tr>
+<tr style="vertical-align:top">
+<td>
+<p><b>3. Schritt:</b> Wenn im Verzeichnis ".minetest" noch kein Verzeichnis "mods" <i>(Schreibweise beachten!)</i> existiert, muss dieses erstellt werden und das entpackte Mod-Verzeichnis, also hier "unified_inventory-master", in das "mods"-Verzeichnis verschoben oder kopiert werden.
+</p>
+</td>
+<td><a href="/File:Mod_installieren3.png" class="image"><img alt="Mod installieren3.png" src="/images/thumb/1/1d/Mod_installieren3.png/600px-Mod_installieren3.png" decoding="async" width="600" height="214" srcset="/images/thumb/1/1d/Mod_installieren3.png/900px-Mod_installieren3.png 1.5x, /images/1/1d/Mod_installieren3.png 2x" /></a>
+</td></tr>
+<tr style="vertical-align:top">
+<td>Würde man Minetest nun so starten, käme eine Fehlermeldung, denn der Name des Mod-Verzeichnisses enthält falsche Symbole. Konkret geht es um das "-" im Namen.
+<p><b>4. Schritt:</b> Der Name des Mod-Verzeichnisses muss umbenannt werden. Ich habe im Beispiel aus "unified_inventory-master" "unified_inventory" gemacht. Dazu muss man wissen, dass das heruntergeladene ZIP-Verzeichnis von der Online-Quellcode-Verwaltung github automatisch erstellt wird und der ZIP-Name enthält immer "-master". Der genaue Name des Verzeichnisses hat keine Bedeutung.
+</p><p>Nun kann man Minetest starten.
+</p>
+</td>
+<td><a href="/File:Mod_installieren4.png" class="image"><img alt="Mod installieren4.png" src="/images/thumb/7/70/Mod_installieren4.png/300px-Mod_installieren4.png" decoding="async" width="300" height="262" srcset="/images/thumb/7/70/Mod_installieren4.png/450px-Mod_installieren4.png 1.5x, /images/7/70/Mod_installieren4.png 2x" /></a>
+</td></tr>
+<tr style="vertical-align:top">
+<td>Mods sind standardmäßig nicht aktiviert sondern müssen bzw. können konkret für einzelne Welten aktiviert werden.
+<p><b>5. Schritt:</b> Man erstellt wie vorher erklärt eine neue Welt, wählt diese aus und klickt dann auf "Konfigurieren".
+</p>
+</td>
+<td><a href="/File:Mod_installieren6.png" class="image"><img alt="Mod installieren6.png" src="/images/thumb/3/3d/Mod_installieren6.png/600px-Mod_installieren6.png" decoding="async" width="600" height="345" srcset="/images/3/3d/Mod_installieren6.png 1.5x" /></a>
+</td></tr>
+<tr style="vertical-align:top">
+<td>
+<p>Im Feld rechts sieht man den weiß geschriebenen Namen des neu installierten Mods. Darunter viele blau geschriebene Namen. Dabei handelt es sich um Mods, die sozusagen vorinstalliert wurden, nachdem sie sich als stabil und sinnvoll erwiesen haben. Das linke Fenster zeigt Abhängigkeiten des links angeklickten Mods an.
+</p><p><b>6. Schritt:</b> Hier wählt man rechts das installierte Mod, dass noch weiß geschrieben ist und hat nun drei Möglichkeiten es zu aktivieren.
+</p>
+<ul><li>Per Doppelklick auf den Namen</li>
+<li>Wenn das Mod ausgewählt ist <i>(also der Name angeklickt wurde)</i> ein Kreuzchen oben bei "Aktiviert" machen.</li>
+<li>Den Knopf "Alle an" klicken, was alle installierten Mods auf einmal aktiviert.</li></ul>
+<p>Durch Klick auf "Speichern" ist das Mod nun für das erstellte Spiel aktiviert und muss nicht noch einmal aktiviert werden.
+</p><p><b>ACHTUNG:</b> Beim Aktivieren aller Mods muss man eine Sache beachten. Es gibt Mods, die eine Welt zerstören können, indem die Landschaft verändert wird. Außerdem kann es natürlich vorkommen, dass sich Mods nicht vertragen. Im Zweifelsfall sollte man dann eventuell nicht alle installierte Mods aktivieren. Mit nur einem Mod, wie es hier der Fall ist, passiert da natürlich nichts. 
+</p>
+</td>
+<td><a href="/File:Mod_installieren5.png" class="image"><img alt="Mod installieren5.png" src="/images/thumb/2/29/Mod_installieren5.png/600px-Mod_installieren5.png" decoding="async" width="600" height="383" srcset="/images/2/29/Mod_installieren5.png 1.5x" /></a>
+</td></tr></tbody></table>
+<p><br />
+</p>
+<table style="margin: 0 auto 1em; text-align: justify; border-collapse: collapse; border-width: 1px; border-style: dashed; width: 100%; clear: both; border-color:#48d; background:#fbfcff;">
+<tbody><tr>
+<td style="border: none; padding: 2px 0 2px 0.9em; text-align: center;">
+ <img alt="Mbox information.png" src="/images/thumb/f/fc/Mbox_information.png/25px-Mbox_information.png" decoding="async" width="25" height="25" srcset="/images/thumb/f/fc/Mbox_information.png/38px-Mbox_information.png 1.5x, /images/thumb/f/fc/Mbox_information.png/50px-Mbox_information.png 2x" /></td>
+<td style="border: none; padding: 0.25em 0.9em; width: 100%;"><b>WICHTIG</b> Im Inventar können einige der Knöpfe ausgegraut sein und sind nicht nutzbar. Dass kann daran liegen, dass man nicht ausreichend Rechte hat. Man muss sich dann dazu <a href="/Privilegien" class="mw-redirect" title="Privilegien">die Rechte geben</a>, was zum Beispiel über die <a href="/Server_commands" title="Server commands">Chat-Befehle</a> möglich ist. Man gibt sich selber im Singleplay-Spiel alle Rechte, indem man mit der Taste "T" die Texteingabe bzw. das Chatfenster öffnet und den folgenden Befehl eingibt:
+<dl><dd><code>/grantme all</code></dd></dl></td>
+</tr></tbody></table>
+<h2><span class="mw-headline" id="Noch_meeeehr_Mods_...">Noch meeeehr Mods ...</span></h2>
+<p>Tja, also .... die Installation ist ja wirklich ein Kinderspiel. Da würde man vielleicht dazu neigen, mehr und mehr Mods zu installieren und sie dann alle für sein Lieblingsspiel zu aktivieren. Allerdings ist das nicht wirklich immer sinnvoll.
+</p><p>Mods, die zum Beispiel mehr Baumtypen und weitere Gegenstände in der Landschaft hinzufügen (Pilze, Steine, Blumen, ...) führen dazu, dass es fast etwas voll wird auf den Welten. Ob einem das gefällt kann oder nicht ist natürlich einem selber überlassen.
+</p><p>Also sollte man womöglich erst einmal in einer neuen Welt ein Mods alleine ausprobieren und schauen, wie es sich auswirkt. Und dann kann man entscheiden, ob man das Mod verwenden will oder es wieder deinstalliert, was auch in Minetest machbar ist.
+</p>
+<!-- 
+NewPP limit report
+Cached time: 20230709182147
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.109 seconds
+Real time usage: 0.151 seconds
+Preprocessor visited node count: 72/1000000
+Post‐expand include size: 1112/2097152 bytes
+Template argument size: 475/2097152 bytes
+Highest expansion depth: 6/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   18.104      1 Template:Mbox
+100.00%   18.104      1 -total
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:3784-0!canonical and timestamp 20230709182147 and revision id 22701
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=MinetestEDU/de/Ein_Mod_lokal_installieren&amp;oldid=22701">http://wiki.minetest.net/index.php?title=MinetestEDU/de/Ein_Mod_lokal_installieren&amp;oldid=22701</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/Category:MinetestEDU" title="Category:MinetestEDU">MinetestEDU</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=MinetestEDU%2Fde%2FEin+Mod+lokal+installieren" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/MinetestEDU/de/Ein_Mod_lokal_installieren" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:MinetestEDU/de/Ein_Mod_lokal_installieren&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/MinetestEDU/de/Ein_Mod_lokal_installieren">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=MinetestEDU/de/Ein_Mod_lokal_installieren&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=MinetestEDU/de/Ein_Mod_lokal_installieren&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/MinetestEDU/de/Ein_Mod_lokal_installieren" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/MinetestEDU/de/Ein_Mod_lokal_installieren" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=MinetestEDU/de/Ein_Mod_lokal_installieren&amp;oldid=22701" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=MinetestEDU/de/Ein_Mod_lokal_installieren&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 26 July 2019, at 11:16.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.109","walltime":"0.151","ppvisitednodes":{"value":72,"limit":1000000},"postexpandincludesize":{"value":1112,"limit":2097152},"templateargumentsize":{"value":475,"limit":2097152},"expansiondepth":{"value":6,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%   18.104      1 Template:Mbox","100.00%   18.104      1 -total"]},"cachereport":{"timestamp":"20230709182147","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":521});});</script></body></html>
