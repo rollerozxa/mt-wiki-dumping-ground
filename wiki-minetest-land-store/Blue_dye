@@ -1,0 +1,998 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Dye - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"540fa0c47926634fceab18f0","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Dye","wgTitle":"Dye","wgCurRevisionId":24419,"wgRevisionId":24419,"wgArticleId":444,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages","Renewable","Craftitems"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Dye","wgRelevantArticleId":444,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Blue_dye","wgInternalRedirectTargetUrl":"/Dye"};
+RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=jquery.makeCollapsible.styles%7Cjquery.tablesorter.styles%7Cmediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<link rel="canonical" href="http://wiki.minetest.net/Dye"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Dye rootpage-Dye skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Dye</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="mw-redirectedfrom">(Redirected from <a href="/index.php?title=Blue_dye&amp;redirect=no" class="mw-redirect" title="Blue dye">Blue dye</a>)</span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> Language:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><b><a class="mw-selflink selflink">English</a></b>&#160;• <bdi lang="de"><a href="/Dye/de" title="Dye/de">Deutsch</a></bdi>&#160;• <bdi lang="fr"><a href="/Dye/fr" title="Dye/fr">français</a></bdi></td>
+</tr></tbody></table>
+<table class="wikitable" width="200px" style="float:right;text-align:left;margin:0 0 0.5em 1em;padding:5px;font-size:90%;position:relative;clear:right;overflow:auto;z-index:1">
+
+<tbody><tr>
+<th colspan="2" style="font-size:110%;text-align:center">Dye
+</th></tr>
+<tr>
+<th colspan="2"><div class="center"><div class="animated" style="width:160px;height:160px"><div class="image"><a href="/File:Black_dye.png" title="File:Black dye.png"><img alt="Black dye.png" src="/images/4/49/Black_dye.png" decoding="async" width="160" height="160" /></a></div><div class="image"><a href="/File:Dark_grey_dye.png" title="File:Dark grey dye.png"><img alt="Dark grey dye.png" src="/images/1/19/Dark_grey_dye.png" decoding="async" width="160" height="160" /></a></div><div class="image"><a href="/File:Grey_dye.png" title="File:Grey dye.png"><img alt="Grey dye.png" src="/images/7/74/Grey_dye.png" decoding="async" width="160" height="160" /></a></div><div class="image"><a href="/File:White_dye.png" title="File:White dye.png"><img alt="White dye.png" src="/images/8/87/White_dye.png" decoding="async" width="160" height="160" /></a></div><div class="image"><a href="/File:Dark_green_dye.png" title="File:Dark green dye.png"><img alt="Dark green dye.png" src="/images/6/68/Dark_green_dye.png" decoding="async" width="160" height="160" /></a></div><div class="image"><a href="/File:Green_dye.png" title="File:Green dye.png"><img alt="Green dye.png" src="/images/4/48/Green_dye.png" decoding="async" width="160" height="160" /></a></div><div class="image"><a href="/File:Cyan_dye.png" title="File:Cyan dye.png"><img alt="Cyan dye.png" src="/images/c/cc/Cyan_dye.png" decoding="async" width="160" height="160" /></a></div><div class="image"><a href="/File:Blue_dye.png" title="File:Blue dye.png"><img alt="Blue dye.png" src="/images/6/66/Blue_dye.png" decoding="async" width="160" height="160" /></a></div><div class="image"><a href="/File:Violet_dye.png" title="File:Violet dye.png"><img alt="Violet dye.png" src="/images/b/b4/Violet_dye.png" decoding="async" width="160" height="160" /></a></div><div class="image"><a href="/File:Pink_dye.png" title="File:Pink dye.png"><img alt="Pink dye.png" src="/images/8/85/Pink_dye.png" decoding="async" width="160" height="160" /></a></div><div class="image"><a href="/File:Magenta_dye.png" title="File:Magenta dye.png"><img alt="Magenta dye.png" src="/images/f/f1/Magenta_dye.png" decoding="async" width="160" height="160" /></a></div><div class="image"><a href="/File:Red_dye.png" title="File:Red dye.png"><img alt="Red dye.png" src="/images/3/3c/Red_dye.png" decoding="async" width="160" height="160" /></a></div><div class="image"><a href="/File:Orange_dye.png" title="File:Orange dye.png"><img alt="Orange dye.png" src="/images/e/e7/Orange_dye.png" decoding="async" width="160" height="160" /></a></div><div class="image"><a href="/File:Yellow_dye.png" title="File:Yellow dye.png"><img alt="Yellow dye.png" src="/images/c/c0/Yellow_dye.png" decoding="async" width="160" height="160" /></a></div><div class="image"><a href="/File:Brown_dye.png" title="File:Brown dye.png"><img alt="Brown dye.png" src="/images/f/f2/Brown_dye.png" decoding="async" width="160" height="160" /></a></div></div></div>
+</th></tr>
+<tr>
+<th colspan="2" align="center">An <a href="/Items" title="Items">item</a> in <a href="/Games/Minetest_Game" title="Games/Minetest Game">Minetest Game</a>
+</th></tr>
+<tr>
+<td><b>Item Type</b>
+</td>
+<td>Craftitem
+</td></tr>
+<tr>
+<td><b><a href="/Category:Renewable" title="Category:Renewable">Renewable</a></b>
+</td>
+<td>Yes
+</td></tr>
+<tr>
+<td><b><a href="/Tool#Wear" title="Tool">Durability</a></b>
+</td>
+<td><i>N/A</i>
+</td></tr>
+<tr>
+<td><b><a href="/Item_stack" title="Item stack">Stackable</a></b>
+</td>
+<td>Yes (99)
+</td></tr>
+<tr>
+<td><b><a href="/Itemstrings" title="Itemstrings">Itemstring</a></b>
+</td>
+<td><i>See table</i>
+</td></tr></tbody></table>
+<p><b>Dyes</b> are used as crafting ingredient. Their main use is to color <a href="/Wool" title="Wool">Wool</a>. Dyes come in 15 different colors.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Colors"><span class="tocnumber">1</span> <span class="toctext">Colors</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Renewing"><span class="tocnumber">2</span> <span class="toctext">Renewing</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Crafting"><span class="tocnumber">3</span> <span class="toctext">Crafting</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Mixing"><span class="tocnumber">3.1</span> <span class="toctext">Mixing</span></a>
+<ul>
+<li class="toclevel-3 tocsection-5"><a href="#Since_version_0.4.16"><span class="tocnumber">3.1.1</span> <span class="toctext">Since version 0.4.16</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Version_0.4.15"><span class="tocnumber">3.1.2</span> <span class="toctext">Version 0.4.15</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#As_a_crafting_ingredient"><span class="tocnumber">4</span> <span class="toctext">As a crafting ingredient</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Colors">Colors</span></h2>
+<table class="wikitable">
+<tbody><tr>
+<th>Symbol
+</th>
+<th>Name
+</th>
+<th>Itemstring
+</th></tr>
+<tr>
+<td><a href="/File:White_dye.png" class="image"><img alt="White dye.png" src="/images/thumb/8/87/White_dye.png/32px-White_dye.png" decoding="async" width="32" height="32" srcset="/images/thumb/8/87/White_dye.png/48px-White_dye.png 1.5x, /images/thumb/8/87/White_dye.png/64px-White_dye.png 2x" /></a>
+</td>
+<td>White Dye
+</td>
+<td>dye:white
+</td></tr>
+<tr>
+<td><a href="/File:Grey_dye.png" class="image"><img alt="Grey dye.png" src="/images/thumb/7/74/Grey_dye.png/32px-Grey_dye.png" decoding="async" width="32" height="32" srcset="/images/thumb/7/74/Grey_dye.png/48px-Grey_dye.png 1.5x, /images/thumb/7/74/Grey_dye.png/64px-Grey_dye.png 2x" /></a>
+</td>
+<td>Grey Dye
+</td>
+<td>dye:grey
+</td></tr>
+<tr>
+<td><a href="/File:Dark_grey_dye.png" class="image"><img alt="Dark grey dye.png" src="/images/thumb/1/19/Dark_grey_dye.png/32px-Dark_grey_dye.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/19/Dark_grey_dye.png/48px-Dark_grey_dye.png 1.5x, /images/thumb/1/19/Dark_grey_dye.png/64px-Dark_grey_dye.png 2x" /></a>
+</td>
+<td>Dark grey Dye
+</td>
+<td>dye:dark_grey
+</td></tr>
+<tr>
+<td><a href="/File:Black_dye.png" class="image"><img alt="Black dye.png" src="/images/thumb/4/49/Black_dye.png/32px-Black_dye.png" decoding="async" width="32" height="32" srcset="/images/thumb/4/49/Black_dye.png/48px-Black_dye.png 1.5x, /images/thumb/4/49/Black_dye.png/64px-Black_dye.png 2x" /></a>
+</td>
+<td>Black Dye
+</td>
+<td>dye:black
+</td></tr>
+<tr>
+<td><a href="/File:Blue_dye.png" class="image"><img alt="Blue dye.png" src="/images/thumb/6/66/Blue_dye.png/32px-Blue_dye.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/66/Blue_dye.png/48px-Blue_dye.png 1.5x, /images/thumb/6/66/Blue_dye.png/64px-Blue_dye.png 2x" /></a>
+</td>
+<td>Blue Dye
+</td>
+<td>dye:blue
+</td></tr>
+<tr>
+<td><a href="/File:Cyan_dye.png" class="image"><img alt="Cyan dye.png" src="/images/thumb/c/cc/Cyan_dye.png/32px-Cyan_dye.png" decoding="async" width="32" height="32" srcset="/images/thumb/c/cc/Cyan_dye.png/48px-Cyan_dye.png 1.5x, /images/thumb/c/cc/Cyan_dye.png/64px-Cyan_dye.png 2x" /></a>
+</td>
+<td>Cyan Dye
+</td>
+<td>dye:cyan
+</td></tr>
+<tr>
+<td><a href="/File:Green_dye.png" class="image"><img alt="Green dye.png" src="/images/thumb/4/48/Green_dye.png/32px-Green_dye.png" decoding="async" width="32" height="32" srcset="/images/thumb/4/48/Green_dye.png/48px-Green_dye.png 1.5x, /images/thumb/4/48/Green_dye.png/64px-Green_dye.png 2x" /></a>
+</td>
+<td>Green Dye
+</td>
+<td>dye:green
+</td></tr>
+<tr>
+<td><a href="/File:Dark_green_dye.png" class="image"><img alt="Dark green dye.png" src="/images/thumb/6/68/Dark_green_dye.png/32px-Dark_green_dye.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/68/Dark_green_dye.png/48px-Dark_green_dye.png 1.5x, /images/thumb/6/68/Dark_green_dye.png/64px-Dark_green_dye.png 2x" /></a>
+</td>
+<td>Dark green Dye
+</td>
+<td>dye:dark_green
+</td></tr>
+<tr>
+<td><a href="/File:Yellow_dye.png" class="image"><img alt="Yellow dye.png" src="/images/thumb/c/c0/Yellow_dye.png/32px-Yellow_dye.png" decoding="async" width="32" height="32" srcset="/images/thumb/c/c0/Yellow_dye.png/48px-Yellow_dye.png 1.5x, /images/thumb/c/c0/Yellow_dye.png/64px-Yellow_dye.png 2x" /></a>
+</td>
+<td>Yellow Dye
+</td>
+<td>dye:yellow
+</td></tr>
+<tr>
+<td><a href="/File:Orange_dye.png" class="image"><img alt="Orange dye.png" src="/images/thumb/e/e7/Orange_dye.png/32px-Orange_dye.png" decoding="async" width="32" height="32" srcset="/images/thumb/e/e7/Orange_dye.png/48px-Orange_dye.png 1.5x, /images/thumb/e/e7/Orange_dye.png/64px-Orange_dye.png 2x" /></a>
+</td>
+<td>Orange Dye
+</td>
+<td>dye:orange
+</td></tr>
+<tr>
+<td><a href="/File:Brown_dye.png" class="image"><img alt="Brown dye.png" src="/images/thumb/f/f2/Brown_dye.png/32px-Brown_dye.png" decoding="async" width="32" height="32" srcset="/images/thumb/f/f2/Brown_dye.png/48px-Brown_dye.png 1.5x, /images/thumb/f/f2/Brown_dye.png/64px-Brown_dye.png 2x" /></a>
+</td>
+<td>Brown Dye
+</td>
+<td>dye:brown
+</td></tr>
+<tr>
+<td><a href="/File:Red_dye.png" class="image"><img alt="Red dye.png" src="/images/thumb/3/3c/Red_dye.png/32px-Red_dye.png" decoding="async" width="32" height="32" srcset="/images/thumb/3/3c/Red_dye.png/48px-Red_dye.png 1.5x, /images/thumb/3/3c/Red_dye.png/64px-Red_dye.png 2x" /></a>
+</td>
+<td>Red Dye
+</td>
+<td>dye:red
+</td></tr>
+<tr>
+<td><a href="/File:Pink_dye.png" class="image"><img alt="Pink dye.png" src="/images/thumb/8/85/Pink_dye.png/32px-Pink_dye.png" decoding="async" width="32" height="32" srcset="/images/thumb/8/85/Pink_dye.png/48px-Pink_dye.png 1.5x, /images/thumb/8/85/Pink_dye.png/64px-Pink_dye.png 2x" /></a>
+</td>
+<td>Pink Dye
+</td>
+<td>dye:pink
+</td></tr>
+<tr>
+<td><a href="/File:Magenta_dye.png" class="image"><img alt="Magenta dye.png" src="/images/thumb/f/f1/Magenta_dye.png/32px-Magenta_dye.png" decoding="async" width="32" height="32" srcset="/images/thumb/f/f1/Magenta_dye.png/48px-Magenta_dye.png 1.5x, /images/thumb/f/f1/Magenta_dye.png/64px-Magenta_dye.png 2x" /></a>
+</td>
+<td>Magenta Dye
+</td>
+<td>dye:magenta
+</td></tr>
+<tr>
+<td><a href="/File:Violet_dye.png" class="image"><img alt="Violet dye.png" src="/images/thumb/b/b4/Violet_dye.png/32px-Violet_dye.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/b4/Violet_dye.png/48px-Violet_dye.png 1.5x, /images/thumb/b/b4/Violet_dye.png/64px-Violet_dye.png 2x" /></a>
+</td>
+<td>Violet Dye
+</td>
+<td>dye:violet
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Renewing">Renewing</span></h2>
+<p>All dyes are renewable because they can be crafted from renewable <a href="/Flower" title="Flower">flowers</a> or mixed from colors that come from flowers.
+</p>
+<h2><span class="mw-headline" id="Crafting">Crafting</span></h2>
+<p>Dyes can be <a href="/Crafting" title="Crafting">crafted</a> from <a href="/Flower" title="Flower">flowers</a>, <a href="/Coal_Lump" title="Coal Lump">coal lumps</a> and <a href="/Blueberries" title="Blueberries">blueberries</a>:
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th scope="row" width="70px">Name
+</th>
+<th scope="col" width="140px">Ingredients
+</th>
+<th class="unsortable" scope="col">Input &#8594; Output
+</th></tr>
+<tr>
+<th scope="row"><a class="mw-selflink selflink">White Dye</a>
+</th>
+<td align="center"><a href="/Flower" title="Flower">White Dandelion</a>
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/White_Dandelion" title="White Dandelion"><img alt="White Dandelion.png" src="/images/thumb/8/84/White_Dandelion.png/32px-White_Dandelion.png" decoding="async" width="32" height="32" srcset="/images/thumb/8/84/White_Dandelion.png/48px-White_Dandelion.png 1.5x, /images/thumb/8/84/White_Dandelion.png/64px-White_Dandelion.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/White_dye" title="White dye"><img alt="White dye.png" src="/images/thumb/8/87/White_dye.png/32px-White_dye.png" decoding="async" width="32" height="32" srcset="/images/thumb/8/87/White_dye.png/48px-White_dye.png 1.5x, /images/thumb/8/87/White_dye.png/64px-White_dye.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black">4</span></div></div>
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<th scope="row"><a class="mw-selflink selflink">Green Dye</a>
+</th>
+<td align="center"><a href="/Flower" title="Flower">Green Chrysanthemum</a>
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Green_Chrysanthemum" title="Green Chrysanthemum"><img alt="Green Chrysanthemum.png" src="/images/thumb/9/9c/Green_Chrysanthemum.png/32px-Green_Chrysanthemum.png" decoding="async" width="32" height="32" srcset="/images/thumb/9/9c/Green_Chrysanthemum.png/48px-Green_Chrysanthemum.png 1.5x, /images/thumb/9/9c/Green_Chrysanthemum.png/64px-Green_Chrysanthemum.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/Green_dye" title="Green dye"><img alt="Green dye.png" src="/images/thumb/4/48/Green_dye.png/32px-Green_dye.png" decoding="async" width="32" height="32" srcset="/images/thumb/4/48/Green_dye.png/48px-Green_dye.png 1.5x, /images/thumb/4/48/Green_dye.png/64px-Green_dye.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black">4</span></div></div>
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<th scope="row"><a class="mw-selflink selflink">Yellow Dye</a>
+</th>
+<td align="center"><a href="/Flower" title="Flower">Yellow Dandelion</a>
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Yellow_Dandelion" title="Yellow Dandelion"><img alt="Yellow Dandelion.png" src="/images/thumb/e/ed/Yellow_Dandelion.png/32px-Yellow_Dandelion.png" decoding="async" width="32" height="32" srcset="/images/thumb/e/ed/Yellow_Dandelion.png/48px-Yellow_Dandelion.png 1.5x, /images/thumb/e/ed/Yellow_Dandelion.png/64px-Yellow_Dandelion.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/Yellow_dye" title="Yellow dye"><img alt="Yellow dye.png" src="/images/thumb/c/c0/Yellow_dye.png/32px-Yellow_dye.png" decoding="async" width="32" height="32" srcset="/images/thumb/c/c0/Yellow_dye.png/48px-Yellow_dye.png 1.5x, /images/thumb/c/c0/Yellow_dye.png/64px-Yellow_dye.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black">4</span></div></div>
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<th scope="row"><a class="mw-selflink selflink">Orange Dye</a>
+</th>
+<td align="center"><a href="/Flower" title="Flower">Orange Tulip</a>
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Tulip" title="Tulip"><img alt="Orange Tulip.png" src="/images/thumb/3/35/Orange_Tulip.png/32px-Orange_Tulip.png" decoding="async" width="32" height="32" srcset="/images/thumb/3/35/Orange_Tulip.png/48px-Orange_Tulip.png 1.5x, /images/thumb/3/35/Orange_Tulip.png/64px-Orange_Tulip.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/Orange_dye" title="Orange dye"><img alt="Orange dye.png" src="/images/thumb/e/e7/Orange_dye.png/32px-Orange_dye.png" decoding="async" width="32" height="32" srcset="/images/thumb/e/e7/Orange_dye.png/48px-Orange_dye.png 1.5x, /images/thumb/e/e7/Orange_dye.png/64px-Orange_dye.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black">4</span></div></div>
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<th scope="row"><a class="mw-selflink selflink">Red Dye</a>
+</th>
+<td align="center"><a href="/Flower" title="Flower">Rose</a>
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Rose" title="Rose"><img alt="Rose.png" src="/images/thumb/4/4f/Rose.png/32px-Rose.png" decoding="async" width="32" height="32" srcset="/images/thumb/4/4f/Rose.png/48px-Rose.png 1.5x, /images/thumb/4/4f/Rose.png/64px-Rose.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/Red_dye" title="Red dye"><img alt="Red dye.png" src="/images/thumb/3/3c/Red_dye.png/32px-Red_dye.png" decoding="async" width="32" height="32" srcset="/images/thumb/3/3c/Red_dye.png/48px-Red_dye.png 1.5x, /images/thumb/3/3c/Red_dye.png/64px-Red_dye.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black">4</span></div></div>
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<th scope="row"><a class="mw-selflink selflink">Violet Dye</a>
+</th>
+<td align="center"><a href="/Flower" title="Flower">Viola</a>
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Viola" title="Viola"><img alt="Viola.png" src="/images/thumb/4/48/Viola.png/32px-Viola.png" decoding="async" width="32" height="32" srcset="/images/thumb/4/48/Viola.png/48px-Viola.png 1.5x, /images/thumb/4/48/Viola.png/64px-Viola.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/Violet_dye" title="Violet dye"><img alt="Violet dye.png" src="/images/thumb/b/b4/Violet_dye.png/32px-Violet_dye.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/b4/Violet_dye.png/48px-Violet_dye.png 1.5x, /images/thumb/b/b4/Violet_dye.png/64px-Violet_dye.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black">4</span></div></div>
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<th scope="row"><a class="mw-selflink selflink">Violet Dye</a>
+</th>
+<td align="center"><a href="/Blueberries" title="Blueberries">Blueberries</a>
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Blueberries" title="Blueberries"><img alt="Blueberries.png" src="/images/thumb/a/af/Blueberries.png/32px-Blueberries.png" decoding="async" width="32" height="32" srcset="/images/thumb/a/af/Blueberries.png/48px-Blueberries.png 1.5x, /images/thumb/a/af/Blueberries.png/64px-Blueberries.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/Violet_dye" title="Violet dye"><img alt="Violet dye.png" src="/images/thumb/b/b4/Violet_dye.png/32px-Violet_dye.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/b4/Violet_dye.png/48px-Violet_dye.png 1.5x, /images/thumb/b/b4/Violet_dye.png/64px-Violet_dye.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black">2</span></div></div>
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<th scope="row"><a class="mw-selflink selflink">Blue Dye</a>
+</th>
+<td align="center"><a href="/Flower" title="Flower">Blue Geranium</a>
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Blue_Geranium" title="Blue Geranium"><img alt="Blue Geranium.png" src="/images/thumb/c/c8/Blue_Geranium.png/32px-Blue_Geranium.png" decoding="async" width="32" height="32" srcset="/images/thumb/c/c8/Blue_Geranium.png/48px-Blue_Geranium.png 1.5x, /images/thumb/c/c8/Blue_Geranium.png/64px-Blue_Geranium.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/Blue_dye" title="Blue dye"><img alt="Blue dye.png" src="/images/thumb/6/66/Blue_dye.png/32px-Blue_dye.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/66/Blue_dye.png/48px-Blue_dye.png 1.5x, /images/thumb/6/66/Blue_dye.png/64px-Blue_dye.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black">4</span></div></div>
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<th scope="row"><a class="mw-selflink selflink">Black Dye</a>
+</th>
+<td align="center"><a href="/Flower" title="Flower">Black Tulip</a>
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Black_Tulip" title="Black Tulip"><img alt="Black Tulip.png" src="/images/thumb/d/d4/Black_Tulip.png/32px-Black_Tulip.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/d4/Black_Tulip.png/48px-Black_Tulip.png 1.5x, /images/thumb/d/d4/Black_Tulip.png/64px-Black_Tulip.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/Black_dye" title="Black dye"><img alt="Black dye.png" src="/images/thumb/4/49/Black_dye.png/32px-Black_dye.png" decoding="async" width="32" height="32" srcset="/images/thumb/4/49/Black_dye.png/48px-Black_dye.png 1.5x, /images/thumb/4/49/Black_dye.png/64px-Black_dye.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black">4</span></div></div>
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<th scope="row"><a class="mw-selflink selflink">Black Dye</a>
+</th>
+<td align="center"><a href="/Coal_Lump" title="Coal Lump">Coal Lump</a>
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Coal" title="Coal"><img alt="Coal.png" src="/images/thumb/a/a7/Coal.png/32px-Coal.png" decoding="async" width="32" height="32" srcset="/images/thumb/a/a7/Coal.png/48px-Coal.png 1.5x, /images/thumb/a/a7/Coal.png/64px-Coal.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/Black_dye" title="Black dye"><img alt="Black dye.png" src="/images/thumb/4/49/Black_dye.png/32px-Black_dye.png" decoding="async" width="32" height="32" srcset="/images/thumb/4/49/Black_dye.png/48px-Black_dye.png 1.5x, /images/thumb/4/49/Black_dye.png/64px-Black_dye.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black">4</span></div></div>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Mixing">Mixing</span></h3>
+<p>More dyes can be crafted by placing any two dyes into the crafting grid; the recipes are shapeless and yield 2 new dyes by mixing the two initial dyes. This is the general crafting recipe where each letter stands for a dye type:
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th scope="row" width="70px">Name
+</th>
+<th scope="col" width="140px">Ingredients
+</th>
+<th class="unsortable" scope="col">Input &#8594; Output
+</th></tr>
+<tr>
+<th scope="row"><a class="mw-selflink selflink">Dye</a>
+</th>
+<td align="center"><a class="mw-selflink selflink">Dye</a>
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Any_Item_A" title="Any Item A"><img alt="Any Item A.png" src="/images/thumb/4/4b/Any_Item_A.png/32px-Any_Item_A.png" decoding="async" width="32" height="32" srcset="/images/thumb/4/4b/Any_Item_A.png/48px-Any_Item_A.png 1.5x, /images/thumb/4/4b/Any_Item_A.png/64px-Any_Item_A.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Any_Item_B" title="Any Item B"><img alt="Any Item B.png" src="/images/thumb/1/12/Any_Item_B.png/32px-Any_Item_B.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/12/Any_Item_B.png/48px-Any_Item_B.png 1.5x, /images/thumb/1/12/Any_Item_B.png/64px-Any_Item_B.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/Any_Item_C" title="Any Item C"><img alt="Any Item C.png" src="/images/thumb/9/96/Any_Item_C.png/32px-Any_Item_C.png" decoding="async" width="32" height="32" srcset="/images/thumb/9/96/Any_Item_C.png/48px-Any_Item_C.png 1.5x, /images/thumb/9/96/Any_Item_C.png/64px-Any_Item_C.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black">2</span></div></div>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p>Here's a concrete example:
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th scope="row" width="70px">Name
+</th>
+<th scope="col" width="140px">Ingredients
+</th>
+<th class="unsortable" scope="col">Input &#8594; Output
+</th></tr>
+<tr>
+<th scope="row"><a class="mw-selflink selflink">Orange Dye</a>
+</th>
+<td align="center"><a class="mw-selflink selflink">Yellow Dye</a> +<br /><a class="mw-selflink selflink">Red Dye</a>
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Yellow_dye" title="Yellow dye"><img alt="Yellow dye.png" src="/images/thumb/c/c0/Yellow_dye.png/32px-Yellow_dye.png" decoding="async" width="32" height="32" srcset="/images/thumb/c/c0/Yellow_dye.png/48px-Yellow_dye.png 1.5x, /images/thumb/c/c0/Yellow_dye.png/64px-Yellow_dye.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Red_dye" title="Red dye"><img alt="Red dye.png" src="/images/thumb/3/3c/Red_dye.png/32px-Red_dye.png" decoding="async" width="32" height="32" srcset="/images/thumb/3/3c/Red_dye.png/48px-Red_dye.png 1.5x, /images/thumb/3/3c/Red_dye.png/64px-Red_dye.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/Orange_dye" title="Orange dye"><img alt="Orange dye.png" src="/images/thumb/e/e7/Orange_dye.png/32px-Orange_dye.png" decoding="async" width="32" height="32" srcset="/images/thumb/e/e7/Orange_dye.png/48px-Orange_dye.png 1.5x, /images/thumb/e/e7/Orange_dye.png/64px-Orange_dye.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black">2</span></div></div>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<h4><span class="mw-headline" id="Since_version_0.4.16">Since version 0.4.16</span></h4>
+<p>This table shows all of the possible dye combinations since version 0.4.16 (an empty cell means the combination is not possible):
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:514px;"><a href="/File:Dyes.png" class="image"><img alt="Dyes.png" src="/images/2/27/Dyes.png" decoding="async" width="512" height="512" class="thumbimage" /></a>  <div class="thumbcaption"></div></div></div>
+<p><br clear="all" />
+</p>
+<h4><span class="mw-headline" id="Version_0.4.15">Version 0.4.15</span></h4>
+<p>This table shows all of the possible dye combinations in version 0.4.15:
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:514px;"><a href="/File:Dyes_0.4.15.png" class="image"><img alt="Dyes 0.4.15.png" src="/images/e/e4/Dyes_0.4.15.png" decoding="async" width="512" height="512" class="thumbimage" /></a>  <div class="thumbcaption"></div></div></div>
+<p><br clear="all" />
+</p>
+<h2><span class="mw-headline" id="As_a_crafting_ingredient">As a crafting ingredient</span></h2>
+<p>Dyes can be used to color wool of any color:
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th scope="row" width="70px">Name
+</th>
+<th scope="col" width="140px">Ingredients
+</th>
+<th class="unsortable" scope="col">Input &#8594; Output
+</th>
+<th class="unsortable" scope="col">Description
+</th></tr>
+<tr>
+<th scope="row"><a href="/Wool" title="Wool">Any wool</a>
+</th>
+<td align="center"><a class="mw-selflink selflink">Dye</a> +<br /><a href="/Wool" title="Wool">Any wool</a>
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Black_dye" title="Black dye"><img alt="Black dye.png" src="/images/thumb/4/49/Black_dye.png/32px-Black_dye.png" decoding="async" width="32" height="32" srcset="/images/thumb/4/49/Black_dye.png/48px-Black_dye.png 1.5x, /images/thumb/4/49/Black_dye.png/64px-Black_dye.png 2x" /></a></div><div class="image"><a href="/Blue_dye" title="Blue dye"><img alt="Blue dye.png" src="/images/thumb/6/66/Blue_dye.png/32px-Blue_dye.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/66/Blue_dye.png/48px-Blue_dye.png 1.5x, /images/thumb/6/66/Blue_dye.png/64px-Blue_dye.png 2x" /></a></div><div class="image"><a href="/Brown_dye" title="Brown dye"><img alt="Brown dye.png" src="/images/thumb/f/f2/Brown_dye.png/32px-Brown_dye.png" decoding="async" width="32" height="32" srcset="/images/thumb/f/f2/Brown_dye.png/48px-Brown_dye.png 1.5x, /images/thumb/f/f2/Brown_dye.png/64px-Brown_dye.png 2x" /></a></div><div class="image"><a href="/Cyan_dye" title="Cyan dye"><img alt="Cyan dye.png" src="/images/thumb/c/cc/Cyan_dye.png/32px-Cyan_dye.png" decoding="async" width="32" height="32" srcset="/images/thumb/c/cc/Cyan_dye.png/48px-Cyan_dye.png 1.5x, /images/thumb/c/cc/Cyan_dye.png/64px-Cyan_dye.png 2x" /></a></div><div class="image"><a href="/Dark_green_dye" title="Dark green dye"><img alt="Dark green dye.png" src="/images/thumb/6/68/Dark_green_dye.png/32px-Dark_green_dye.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/68/Dark_green_dye.png/48px-Dark_green_dye.png 1.5x, /images/thumb/6/68/Dark_green_dye.png/64px-Dark_green_dye.png 2x" /></a></div><div class="image"><a href="/Dark_grey_dye" title="Dark grey dye"><img alt="Dark grey dye.png" src="/images/thumb/1/19/Dark_grey_dye.png/32px-Dark_grey_dye.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/19/Dark_grey_dye.png/48px-Dark_grey_dye.png 1.5x, /images/thumb/1/19/Dark_grey_dye.png/64px-Dark_grey_dye.png 2x" /></a></div><div class="image"><a href="/Green_dye" title="Green dye"><img alt="Green dye.png" src="/images/thumb/4/48/Green_dye.png/32px-Green_dye.png" decoding="async" width="32" height="32" srcset="/images/thumb/4/48/Green_dye.png/48px-Green_dye.png 1.5x, /images/thumb/4/48/Green_dye.png/64px-Green_dye.png 2x" /></a></div><div class="image"><a href="/Grey_dye" title="Grey dye"><img alt="Grey dye.png" src="/images/thumb/7/74/Grey_dye.png/32px-Grey_dye.png" decoding="async" width="32" height="32" srcset="/images/thumb/7/74/Grey_dye.png/48px-Grey_dye.png 1.5x, /images/thumb/7/74/Grey_dye.png/64px-Grey_dye.png 2x" /></a></div><div class="image"><a href="/Magenta_dye" title="Magenta dye"><img alt="Magenta dye.png" src="/images/thumb/f/f1/Magenta_dye.png/32px-Magenta_dye.png" decoding="async" width="32" height="32" srcset="/images/thumb/f/f1/Magenta_dye.png/48px-Magenta_dye.png 1.5x, /images/thumb/f/f1/Magenta_dye.png/64px-Magenta_dye.png 2x" /></a></div><div class="image"><a href="/Orange_dye" title="Orange dye"><img alt="Orange dye.png" src="/images/thumb/e/e7/Orange_dye.png/32px-Orange_dye.png" decoding="async" width="32" height="32" srcset="/images/thumb/e/e7/Orange_dye.png/48px-Orange_dye.png 1.5x, /images/thumb/e/e7/Orange_dye.png/64px-Orange_dye.png 2x" /></a></div><div class="image"><a href="/Pink_dye" title="Pink dye"><img alt="Pink dye.png" src="/images/thumb/8/85/Pink_dye.png/32px-Pink_dye.png" decoding="async" width="32" height="32" srcset="/images/thumb/8/85/Pink_dye.png/48px-Pink_dye.png 1.5x, /images/thumb/8/85/Pink_dye.png/64px-Pink_dye.png 2x" /></a></div><div class="image"><a href="/Red_dye" title="Red dye"><img alt="Red dye.png" src="/images/thumb/3/3c/Red_dye.png/32px-Red_dye.png" decoding="async" width="32" height="32" srcset="/images/thumb/3/3c/Red_dye.png/48px-Red_dye.png 1.5x, /images/thumb/3/3c/Red_dye.png/64px-Red_dye.png 2x" /></a></div><div class="image"><a href="/Violet_dye" title="Violet dye"><img alt="Violet dye.png" src="/images/thumb/b/b4/Violet_dye.png/32px-Violet_dye.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/b4/Violet_dye.png/48px-Violet_dye.png 1.5x, /images/thumb/b/b4/Violet_dye.png/64px-Violet_dye.png 2x" /></a></div><div class="image"><a href="/White_dye" title="White dye"><img alt="White dye.png" src="/images/thumb/8/87/White_dye.png/32px-White_dye.png" decoding="async" width="32" height="32" srcset="/images/thumb/8/87/White_dye.png/48px-White_dye.png 1.5x, /images/thumb/8/87/White_dye.png/64px-White_dye.png 2x" /></a></div><div class="image"><a href="/Yellow_dye" title="Yellow dye"><img alt="Yellow dye.png" src="/images/thumb/c/c0/Yellow_dye.png/32px-Yellow_dye.png" decoding="async" width="32" height="32" srcset="/images/thumb/c/c0/Yellow_dye.png/48px-Yellow_dye.png 1.5x, /images/thumb/c/c0/Yellow_dye.png/64px-Yellow_dye.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Group_wool" title="Group wool"><img alt="Group wool.png" src="/images/thumb/1/1f/Group_wool.png/32px-Group_wool.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/1f/Group_wool.png/48px-Group_wool.png 1.5x, /images/thumb/1/1f/Group_wool.png/64px-Group_wool.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/Wool_black" title="Wool black"><img alt="Black Wool.png" src="/images/thumb/0/05/Black_Wool.png/32px-Black_Wool.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/05/Black_Wool.png/48px-Black_Wool.png 1.5x, /images/thumb/0/05/Black_Wool.png/64px-Black_Wool.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black"></span></div><div class="image"><a href="/Wool_blue" title="Wool blue"><img alt="Blue Wool.png" src="/images/thumb/c/ce/Blue_Wool.png/32px-Blue_Wool.png" decoding="async" width="32" height="32" srcset="/images/thumb/c/ce/Blue_Wool.png/48px-Blue_Wool.png 1.5x, /images/thumb/c/ce/Blue_Wool.png/64px-Blue_Wool.png 2x" /></a></div><div class="image"><a href="/Wool_brown" title="Wool brown"><img alt="Brown Wool.png" src="/images/thumb/d/db/Brown_Wool.png/32px-Brown_Wool.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/db/Brown_Wool.png/48px-Brown_Wool.png 1.5x, /images/thumb/d/db/Brown_Wool.png/64px-Brown_Wool.png 2x" /></a></div><div class="image"><a href="/Wool_cyan" title="Wool cyan"><img alt="Cyan Wool.png" src="/images/thumb/c/cf/Cyan_Wool.png/32px-Cyan_Wool.png" decoding="async" width="32" height="32" srcset="/images/thumb/c/cf/Cyan_Wool.png/48px-Cyan_Wool.png 1.5x, /images/thumb/c/cf/Cyan_Wool.png/64px-Cyan_Wool.png 2x" /></a></div><div class="image"><a href="/Wool_dark_green" title="Wool dark green"><img alt="Dark Green Wool.png" src="/images/thumb/5/5c/Dark_Green_Wool.png/32px-Dark_Green_Wool.png" decoding="async" width="32" height="32" srcset="/images/thumb/5/5c/Dark_Green_Wool.png/48px-Dark_Green_Wool.png 1.5x, /images/thumb/5/5c/Dark_Green_Wool.png/64px-Dark_Green_Wool.png 2x" /></a></div><div class="image"><a href="/Wool_dark_grey" title="Wool dark grey"><img alt="Dark Grey Wool.png" src="/images/thumb/6/67/Dark_Grey_Wool.png/32px-Dark_Grey_Wool.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/67/Dark_Grey_Wool.png/48px-Dark_Grey_Wool.png 1.5x, /images/thumb/6/67/Dark_Grey_Wool.png/64px-Dark_Grey_Wool.png 2x" /></a></div><div class="image"><a href="/Wool_green" title="Wool green"><img alt="Green Wool.png" src="/images/thumb/7/71/Green_Wool.png/32px-Green_Wool.png" decoding="async" width="32" height="32" srcset="/images/thumb/7/71/Green_Wool.png/48px-Green_Wool.png 1.5x, /images/thumb/7/71/Green_Wool.png/64px-Green_Wool.png 2x" /></a></div><div class="image"><a href="/Wool_grey" title="Wool grey"><img alt="Grey Wool.png" src="/images/thumb/1/11/Grey_Wool.png/32px-Grey_Wool.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/11/Grey_Wool.png/48px-Grey_Wool.png 1.5x, /images/thumb/1/11/Grey_Wool.png/64px-Grey_Wool.png 2x" /></a></div><div class="image"><a href="/Wool_magenta" title="Wool magenta"><img alt="Magenta Wool.png" src="/images/thumb/3/33/Magenta_Wool.png/32px-Magenta_Wool.png" decoding="async" width="32" height="32" srcset="/images/thumb/3/33/Magenta_Wool.png/48px-Magenta_Wool.png 1.5x, /images/thumb/3/33/Magenta_Wool.png/64px-Magenta_Wool.png 2x" /></a></div><div class="image"><a href="/Wool_orange" title="Wool orange"><img alt="Orange Wool.png" src="/images/thumb/9/9b/Orange_Wool.png/32px-Orange_Wool.png" decoding="async" width="32" height="32" srcset="/images/thumb/9/9b/Orange_Wool.png/48px-Orange_Wool.png 1.5x, /images/thumb/9/9b/Orange_Wool.png/64px-Orange_Wool.png 2x" /></a></div><div class="image"><a href="/Wool_pink" title="Wool pink"><img alt="Pink Wool.png" src="/images/thumb/b/b6/Pink_Wool.png/32px-Pink_Wool.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/b6/Pink_Wool.png/48px-Pink_Wool.png 1.5x, /images/thumb/b/b6/Pink_Wool.png/64px-Pink_Wool.png 2x" /></a></div><div class="image"><a href="/Wool_red" title="Wool red"><img alt="Red Wool.png" src="/images/thumb/7/70/Red_Wool.png/32px-Red_Wool.png" decoding="async" width="32" height="32" srcset="/images/thumb/7/70/Red_Wool.png/48px-Red_Wool.png 1.5x, /images/thumb/7/70/Red_Wool.png/64px-Red_Wool.png 2x" /></a></div><div class="image"><a href="/Wool_violet" title="Wool violet"><img alt="Violet Wool.png" src="/images/thumb/b/b9/Violet_Wool.png/32px-Violet_Wool.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/b9/Violet_Wool.png/48px-Violet_Wool.png 1.5x, /images/thumb/b/b9/Violet_Wool.png/64px-Violet_Wool.png 2x" /></a></div><div class="image"><a href="/Wool_white" title="Wool white"><img alt="White Wool.png" src="/images/thumb/0/07/White_Wool.png/32px-White_Wool.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/07/White_Wool.png/48px-White_Wool.png 1.5x, /images/thumb/0/07/White_Wool.png/64px-White_Wool.png 2x" /></a></div><div class="image"><a href="/Wool_yellow" title="Wool yellow"><img alt="Yellow Wool.png" src="/images/thumb/1/18/Yellow_Wool.png/32px-Yellow_Wool.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/18/Yellow_Wool.png/48px-Yellow_Wool.png 1.5x, /images/thumb/1/18/Yellow_Wool.png/64px-Yellow_Wool.png 2x" /></a></div></div>
+</td></tr></tbody></table>
+</td>
+<td>Used as decoration (shapeless recipe)
+</td></tr></tbody></table>
+<table class="mw-collapsible mw-collapsed" style="background: #FFF; border: 1px solid #CCC; width: 100%; margin: 1em 0 0">
+<tbody><tr>
+<th colspan="2" style="background: #CCC"><div style="float: left; padding: 0 0 0 0.3em">[<span class="plainlinks"><a rel="nofollow" class="external text" href="//wiki.minetest.net/index.php?title=Games/Minetest_Game/Items/navbox&amp;action=edit">Edit</a></span>]</div> <span style="font-size: 110%"><a href="/Items" title="Items">Items</a> in <a href="/Games/Minetest_Game" title="Games/Minetest Game">Minetest Game</a></span>
+</th></tr>
+<tr>
+<th style="background: #EEE; padding: 0 10px; text-align: right"><span style="white-space:nowrap"><a href="/Tool" title="Tool">Tools</a> and weapons</span>
+</th>
+<td style="width: 100%"><span style="white-space:nowrap"><a href="/Axe" title="Axe"><img alt="Steel Axe.png" src="/images/thumb/c/ce/Steel_Axe.png/16px-Steel_Axe.png" decoding="async" width="16" height="16" srcset="/images/thumb/c/ce/Steel_Axe.png/24px-Steel_Axe.png 1.5x, /images/thumb/c/ce/Steel_Axe.png/32px-Steel_Axe.png 2x" /></a> <a href="/Axe" title="Axe">Axe</a></span> • <span style="white-space:nowrap"><a href="/Binoculars" title="Binoculars"><img alt="Binoculars.png" src="/images/thumb/7/74/Binoculars.png/16px-Binoculars.png" decoding="async" width="16" height="16" srcset="/images/thumb/7/74/Binoculars.png/24px-Binoculars.png 1.5x, /images/thumb/7/74/Binoculars.png/32px-Binoculars.png 2x" /></a> <a href="/Binoculars" title="Binoculars">Binoculars</a></span> • <span style="white-space:nowrap"><a href="/Book" title="Book"><img alt="Book.png" src="/images/thumb/f/f3/Book.png/16px-Book.png" decoding="async" width="16" height="16" srcset="/images/thumb/f/f3/Book.png/24px-Book.png 1.5x, /images/thumb/f/f3/Book.png/32px-Book.png 2x" /></a> <a href="/Book" title="Book">Book</a></span> (<span style="white-space:nowrap"><a href="/Book" title="Book"><img alt="Book with Text.png" src="/images/thumb/c/c4/Book_with_Text.png/16px-Book_with_Text.png" decoding="async" width="16" height="16" srcset="/images/thumb/c/c4/Book_with_Text.png/24px-Book_with_Text.png 1.5x, /images/thumb/c/c4/Book_with_Text.png/32px-Book_with_Text.png 2x" /></a> <a href="/Book" title="Book">with Text</a></span>) • <span style="white-space:nowrap"><a href="/Bucket" title="Bucket"><img alt="Bucket.png" src="/images/thumb/5/52/Bucket.png/16px-Bucket.png" decoding="async" width="16" height="16" srcset="/images/thumb/5/52/Bucket.png/24px-Bucket.png 1.5x, /images/thumb/5/52/Bucket.png/32px-Bucket.png 2x" /></a> <a href="/Bucket" title="Bucket">Bucket</a></span> • <span style="white-space:nowrap"><a href="/Bug_Net" title="Bug Net"><img alt="Bug Net.png" src="/images/thumb/d/d5/Bug_Net.png/16px-Bug_Net.png" decoding="async" width="16" height="16" srcset="/images/thumb/d/d5/Bug_Net.png/24px-Bug_Net.png 1.5x, /images/thumb/d/d5/Bug_Net.png/32px-Bug_Net.png 2x" /></a> <a href="/Bug_Net" title="Bug Net">Bug Net</a></span> • <span style="white-space:nowrap"><a href="/Flint_and_Steel" title="Flint and Steel"><img alt="Flint and Steel.png" src="/images/thumb/7/7e/Flint_and_Steel.png/16px-Flint_and_Steel.png" decoding="async" width="16" height="16" srcset="/images/thumb/7/7e/Flint_and_Steel.png/24px-Flint_and_Steel.png 1.5x, /images/thumb/7/7e/Flint_and_Steel.png/32px-Flint_and_Steel.png 2x" /></a> <a href="/Flint_and_Steel" title="Flint and Steel">Flint and Steel</a></span> • <span style="white-space:nowrap"><a href="/Hoe" title="Hoe"><img alt="Steel Hoe.png" src="/images/thumb/f/f5/Steel_Hoe.png/16px-Steel_Hoe.png" decoding="async" width="16" height="16" srcset="/images/thumb/f/f5/Steel_Hoe.png/24px-Steel_Hoe.png 1.5x, /images/thumb/f/f5/Steel_Hoe.png/32px-Steel_Hoe.png 2x" /></a> <a href="/Hoe" title="Hoe">Hoe</a></span> • <span style="white-space:nowrap"><a href="/Key" title="Key"><img alt="Key.png" src="/images/thumb/5/52/Key.png/16px-Key.png" decoding="async" width="16" height="16" srcset="/images/thumb/5/52/Key.png/24px-Key.png 1.5x, /images/thumb/5/52/Key.png/32px-Key.png 2x" /></a> <a href="/Key" title="Key">Key</a></span> • <span style="white-space:nowrap"><a href="/Mapping_Kit" title="Mapping Kit"><img alt="Mapping Kit.png" src="/images/thumb/9/90/Mapping_Kit.png/16px-Mapping_Kit.png" decoding="async" width="16" height="16" srcset="/images/thumb/9/90/Mapping_Kit.png/24px-Mapping_Kit.png 1.5x, /images/thumb/9/90/Mapping_Kit.png/32px-Mapping_Kit.png 2x" /></a> <a href="/Mapping_Kit" title="Mapping Kit">Mapping Kit</a></span> • <span style="white-space:nowrap"><a href="/Pickaxe" title="Pickaxe"><img alt="Steel Pickaxe.png" src="/images/thumb/d/d1/Steel_Pickaxe.png/16px-Steel_Pickaxe.png" decoding="async" width="16" height="16" srcset="/images/thumb/d/d1/Steel_Pickaxe.png/24px-Steel_Pickaxe.png 1.5x, /images/thumb/d/d1/Steel_Pickaxe.png/32px-Steel_Pickaxe.png 2x" /></a> <a href="/Pickaxe" title="Pickaxe">Pickaxe</a></span> • <span style="white-space:nowrap"><a href="/Screwdriver" title="Screwdriver"><img alt="Screwdriver.png" src="/images/thumb/1/1d/Screwdriver.png/16px-Screwdriver.png" decoding="async" width="16" height="16" srcset="/images/thumb/1/1d/Screwdriver.png/24px-Screwdriver.png 1.5x, /images/thumb/1/1d/Screwdriver.png/32px-Screwdriver.png 2x" /></a> <a href="/Screwdriver" title="Screwdriver">Screwdriver</a></span> • <span style="white-space:nowrap"><a href="/Shovel" title="Shovel"><img alt="Steel Shovel.png" src="/images/thumb/6/63/Steel_Shovel.png/16px-Steel_Shovel.png" decoding="async" width="16" height="16" srcset="/images/thumb/6/63/Steel_Shovel.png/24px-Steel_Shovel.png 1.5x, /images/thumb/6/63/Steel_Shovel.png/32px-Steel_Shovel.png 2x" /></a> <a href="/Shovel" title="Shovel">Shovel</a></span> • <span style="white-space:nowrap"><a href="/Skeleton_Key" title="Skeleton Key"><img alt="Skeleton Key.png" src="/images/thumb/d/d9/Skeleton_Key.png/16px-Skeleton_Key.png" decoding="async" width="16" height="16" srcset="/images/thumb/d/d9/Skeleton_Key.png/24px-Skeleton_Key.png 1.5x, /images/thumb/d/d9/Skeleton_Key.png/32px-Skeleton_Key.png 2x" /></a> <a href="/Skeleton_Key" title="Skeleton Key">Skeleton Key</a></span> • <span style="white-space:nowrap"><a href="/Sword" title="Sword"><img alt="Steel Sword.png" src="/images/thumb/0/01/Steel_Sword.png/16px-Steel_Sword.png" decoding="async" width="16" height="16" srcset="/images/thumb/0/01/Steel_Sword.png/24px-Steel_Sword.png 1.5x, /images/thumb/0/01/Steel_Sword.png/32px-Steel_Sword.png 2x" /></a> <a href="/Sword" title="Sword">Sword</a></span> • <span style="white-space:nowrap"><a href="/Torch" title="Torch"><img alt="Torch.png" src="/images/thumb/b/b2/Torch.png/16px-Torch.png" decoding="async" width="16" height="16" srcset="/images/thumb/b/b2/Torch.png/24px-Torch.png 1.5x, /images/thumb/b/b2/Torch.png/32px-Torch.png 2x" /></a> <a href="/Torch" title="Torch">Torch</a></span>
+</td></tr>
+<tr>
+<th style="background: #EEE; padding: 0 10px; text-align: right"><span style="white-space:nowrap">Vehicles</span>
+</th>
+<td style="width: 100%"><span style="white-space:nowrap"><a href="/Boat" title="Boat"><img alt="Boat.png" src="/images/thumb/1/1e/Boat.png/16px-Boat.png" decoding="async" width="16" height="16" srcset="/images/thumb/1/1e/Boat.png/24px-Boat.png 1.5x, /images/thumb/1/1e/Boat.png/32px-Boat.png 2x" /></a> <a href="/Boat" title="Boat">Boat</a></span> • <span style="white-space:nowrap"><a href="/Cart" title="Cart"><img alt="Cart.png" src="/images/thumb/2/2b/Cart.png/16px-Cart.png" decoding="async" width="16" height="16" srcset="/images/thumb/2/2b/Cart.png/24px-Cart.png 1.5x, /images/thumb/2/2b/Cart.png/32px-Cart.png 2x" /></a> <a href="/Cart" title="Cart">Cart</a></span>
+</td></tr>
+<tr>
+<th style="background: #EEE; padding: 0 10px; text-align: right"><span style="white-space:nowrap">Food</span>
+</th>
+<td style="width: 100%"><span style="white-space:nowrap"><a href="/Apple" title="Apple"><img alt="Apple.png" src="/images/thumb/7/7d/Apple.png/16px-Apple.png" decoding="async" width="16" height="16" srcset="/images/thumb/7/7d/Apple.png/24px-Apple.png 1.5x, /images/thumb/7/7d/Apple.png/32px-Apple.png 2x" /></a> <a href="/Apple" title="Apple">Apple</a></span> • <span style="white-space:nowrap"><a href="/Blueberries" title="Blueberries"><img alt="Blueberries.png" src="/images/thumb/a/af/Blueberries.png/16px-Blueberries.png" decoding="async" width="16" height="16" srcset="/images/thumb/a/af/Blueberries.png/24px-Blueberries.png 1.5x, /images/thumb/a/af/Blueberries.png/32px-Blueberries.png 2x" /></a> <a href="/Blueberries" title="Blueberries">Blueberries</a></span> • <span style="white-space:nowrap"><a href="/Bread" title="Bread"><img alt="Bread.png" src="/images/thumb/e/e1/Bread.png/16px-Bread.png" decoding="async" width="16" height="16" srcset="/images/thumb/e/e1/Bread.png/24px-Bread.png 1.5x, /images/thumb/e/e1/Bread.png/32px-Bread.png 2x" /></a> <a href="/Bread" title="Bread">Bread</a></span> • <span style="white-space:nowrap"><a href="/Brown_Mushroom" title="Brown Mushroom"><img alt="Brown Mushroom.png" src="/images/thumb/7/73/Brown_Mushroom.png/16px-Brown_Mushroom.png" decoding="async" width="16" height="16" srcset="/images/thumb/7/73/Brown_Mushroom.png/24px-Brown_Mushroom.png 1.5x, /images/thumb/7/73/Brown_Mushroom.png/32px-Brown_Mushroom.png 2x" /></a> <a href="/Brown_Mushroom" title="Brown Mushroom">Brown Mushroom</a></span>
+</td></tr>
+<tr>
+<th style="background: #EEE; padding: 0 10px; text-align: right"><span style="white-space:nowrap"><a href="/Ores" title="Ores">Ores</a> and minerals</span>
+</th>
+<td style="width: 100%"><span style="white-space:nowrap"><a href="/Clay_Lump" title="Clay Lump"><img alt="Clay Lump.png" src="/images/thumb/7/73/Clay_Lump.png/16px-Clay_Lump.png" decoding="async" width="16" height="16" srcset="/images/thumb/7/73/Clay_Lump.png/24px-Clay_Lump.png 1.5x, /images/thumb/7/73/Clay_Lump.png/32px-Clay_Lump.png 2x" /></a> <a href="/Clay_Lump" title="Clay Lump">Clay Lump</a></span> • <span style="white-space:nowrap"><a href="/Coal_Lump" title="Coal Lump"><img alt="Coal.png" src="/images/thumb/a/a7/Coal.png/16px-Coal.png" decoding="async" width="16" height="16" srcset="/images/thumb/a/a7/Coal.png/24px-Coal.png 1.5x, /images/thumb/a/a7/Coal.png/32px-Coal.png 2x" /></a> <a href="/Coal_Lump" title="Coal Lump">Coal Lump</a></span> • <span style="white-space:nowrap"><a href="/Copper_Lump" title="Copper Lump"><img alt="Copper Lump.png" src="/images/thumb/d/d5/Copper_Lump.png/16px-Copper_Lump.png" decoding="async" width="16" height="16" srcset="/images/thumb/d/d5/Copper_Lump.png/24px-Copper_Lump.png 1.5x, /images/thumb/d/d5/Copper_Lump.png/32px-Copper_Lump.png 2x" /></a> <a href="/Copper_Lump" title="Copper Lump">Copper Lump</a></span> • <span style="white-space:nowrap"><a href="/Diamond" title="Diamond"><img alt="Diamond.png" src="/images/thumb/e/ea/Diamond.png/16px-Diamond.png" decoding="async" width="16" height="16" srcset="/images/thumb/e/ea/Diamond.png/24px-Diamond.png 1.5x, /images/thumb/e/ea/Diamond.png/32px-Diamond.png 2x" /></a> <a href="/Diamond" title="Diamond">Diamond</a></span> • <span style="white-space:nowrap"><a href="/Gold_Lump" title="Gold Lump"><img alt="Gold Lump.png" src="/images/thumb/7/7c/Gold_Lump.png/16px-Gold_Lump.png" decoding="async" width="16" height="16" srcset="/images/thumb/7/7c/Gold_Lump.png/24px-Gold_Lump.png 1.5x, /images/thumb/7/7c/Gold_Lump.png/32px-Gold_Lump.png 2x" /></a> <a href="/Gold_Lump" title="Gold Lump">Gold Lump</a></span> • <span style="white-space:nowrap"><a href="/Iron_Lump" title="Iron Lump"><img alt="Iron Lump.png" src="/images/thumb/c/cf/Iron_Lump.png/16px-Iron_Lump.png" decoding="async" width="16" height="16" srcset="/images/thumb/c/cf/Iron_Lump.png/24px-Iron_Lump.png 1.5x, /images/thumb/c/cf/Iron_Lump.png/32px-Iron_Lump.png 2x" /></a> <a href="/Iron_Lump" title="Iron Lump">Iron Lump</a></span> • <span style="white-space:nowrap"><a href="/Mese_Crystal" title="Mese Crystal"><img alt="Mese Crystal.png" src="/images/thumb/7/7b/Mese_Crystal.png/16px-Mese_Crystal.png" decoding="async" width="16" height="16" srcset="/images/thumb/7/7b/Mese_Crystal.png/24px-Mese_Crystal.png 1.5x, /images/thumb/7/7b/Mese_Crystal.png/32px-Mese_Crystal.png 2x" /></a> <a href="/Mese_Crystal" title="Mese Crystal">Mese Crystal</a></span> • <span style="white-space:nowrap"><a href="/Tin_Lump" title="Tin Lump"><img alt="Tin Lump.png" src="/images/thumb/4/42/Tin_Lump.png/16px-Tin_Lump.png" decoding="async" width="16" height="16" srcset="/images/thumb/4/42/Tin_Lump.png/24px-Tin_Lump.png 1.5x, /images/thumb/4/42/Tin_Lump.png/32px-Tin_Lump.png 2x" /></a> <a href="/Tin_Lump" title="Tin Lump">Tin Lump</a></span>
+</td></tr>
+<tr>
+<th style="background: #EEE; padding: 0 10px; text-align: right"><span style="white-space:nowrap">Ingots and processed minerals</span>
+</th>
+<td style="width: 100%"><span style="white-space:nowrap"><a href="/Bronze_Ingot" title="Bronze Ingot"><img alt="Bronze Ingot.png" src="/images/thumb/1/16/Bronze_Ingot.png/16px-Bronze_Ingot.png" decoding="async" width="16" height="16" srcset="/images/thumb/1/16/Bronze_Ingot.png/24px-Bronze_Ingot.png 1.5x, /images/thumb/1/16/Bronze_Ingot.png/32px-Bronze_Ingot.png 2x" /></a> <a href="/Bronze_Ingot" title="Bronze Ingot">Bronze Ingot</a></span> • <span style="white-space:nowrap"><a href="/Clay_Brick" title="Clay Brick"><img alt="Clay Brick.png" src="/images/thumb/7/70/Clay_Brick.png/16px-Clay_Brick.png" decoding="async" width="16" height="16" srcset="/images/thumb/7/70/Clay_Brick.png/24px-Clay_Brick.png 1.5x, /images/thumb/7/70/Clay_Brick.png/32px-Clay_Brick.png 2x" /></a> <a href="/Clay_Brick" title="Clay Brick">Clay Brick</a></span> • <span style="white-space:nowrap"><a href="/Copper_Ingot" title="Copper Ingot"><img alt="Copper Ingot.png" src="/images/thumb/0/00/Copper_Ingot.png/16px-Copper_Ingot.png" decoding="async" width="16" height="16" srcset="/images/thumb/0/00/Copper_Ingot.png/24px-Copper_Ingot.png 1.5x, /images/thumb/0/00/Copper_Ingot.png/32px-Copper_Ingot.png 2x" /></a> <a href="/Copper_Ingot" title="Copper Ingot">Copper Ingot</a></span> • <span style="white-space:nowrap"><a href="/Gold_Ingot" title="Gold Ingot"><img alt="Gold Ingot.png" src="/images/thumb/2/22/Gold_Ingot.png/16px-Gold_Ingot.png" decoding="async" width="16" height="16" srcset="/images/thumb/2/22/Gold_Ingot.png/24px-Gold_Ingot.png 1.5x, /images/thumb/2/22/Gold_Ingot.png/32px-Gold_Ingot.png 2x" /></a> <a href="/Gold_Ingot" title="Gold Ingot">Gold Ingot</a></span> • <span style="white-space:nowrap"><a href="/Mese_Crystal_Fragment" title="Mese Crystal Fragment"><img alt="Mese Crystal Fragment.png" src="/images/thumb/1/1a/Mese_Crystal_Fragment.png/16px-Mese_Crystal_Fragment.png" decoding="async" width="16" height="16" srcset="/images/thumb/1/1a/Mese_Crystal_Fragment.png/24px-Mese_Crystal_Fragment.png 1.5x, /images/thumb/1/1a/Mese_Crystal_Fragment.png/32px-Mese_Crystal_Fragment.png 2x" /></a> <a href="/Mese_Crystal_Fragment" title="Mese Crystal Fragment">Mese Crystal Fragment</a></span> • <span style="white-space:nowrap"><a href="/Obsidian_Shard" title="Obsidian Shard"><img alt="Obsidian Shard.png" src="/images/thumb/f/f1/Obsidian_Shard.png/16px-Obsidian_Shard.png" decoding="async" width="16" height="16" srcset="/images/thumb/f/f1/Obsidian_Shard.png/24px-Obsidian_Shard.png 1.5x, /images/thumb/f/f1/Obsidian_Shard.png/32px-Obsidian_Shard.png 2x" /></a> <a href="/Obsidian_Shard" title="Obsidian Shard">Obsidian Shard</a></span> • <span style="white-space:nowrap"><a href="/Steel_Ingot" title="Steel Ingot"><img alt="Steel Ingot.png" src="/images/thumb/b/bd/Steel_Ingot.png/16px-Steel_Ingot.png" decoding="async" width="16" height="16" srcset="/images/thumb/b/bd/Steel_Ingot.png/24px-Steel_Ingot.png 1.5x, /images/thumb/b/bd/Steel_Ingot.png/32px-Steel_Ingot.png 2x" /></a> <a href="/Steel_Ingot" title="Steel Ingot">Steel Ingot</a></span> • <span style="white-space:nowrap"><a href="/Tin_Ingot" title="Tin Ingot"><img alt="Tin Ingot.png" src="/images/thumb/9/97/Tin_Ingot.png/16px-Tin_Ingot.png" decoding="async" width="16" height="16" srcset="/images/thumb/9/97/Tin_Ingot.png/24px-Tin_Ingot.png 1.5x, /images/thumb/9/97/Tin_Ingot.png/32px-Tin_Ingot.png 2x" /></a> <a href="/Tin_Ingot" title="Tin Ingot">Tin Ingot</a></span>
+</td></tr>
+<tr>
+<th style="background: #EEE; padding: 0 10px; text-align: right"><span style="white-space:nowrap">Dyes</span>
+</th>
+<td style="width: 100%"><span style="white-space:nowrap"><a href="/Dye" title="Dye"><img alt="Black dye.png" src="/images/thumb/4/49/Black_dye.png/16px-Black_dye.png" decoding="async" width="16" height="16" srcset="/images/thumb/4/49/Black_dye.png/24px-Black_dye.png 1.5x, /images/thumb/4/49/Black_dye.png/32px-Black_dye.png 2x" /></a> <a class="mw-selflink selflink">Black dye</a></span> • <span style="white-space:nowrap"><a href="/Dye" title="Dye"><img alt="Blue dye.png" src="/images/thumb/6/66/Blue_dye.png/16px-Blue_dye.png" decoding="async" width="16" height="16" srcset="/images/thumb/6/66/Blue_dye.png/24px-Blue_dye.png 1.5x, /images/thumb/6/66/Blue_dye.png/32px-Blue_dye.png 2x" /></a> <a class="mw-selflink selflink">Blue dye</a></span> • <span style="white-space:nowrap"><a href="/Dye" title="Dye"><img alt="Brown dye.png" src="/images/thumb/f/f2/Brown_dye.png/16px-Brown_dye.png" decoding="async" width="16" height="16" srcset="/images/thumb/f/f2/Brown_dye.png/24px-Brown_dye.png 1.5x, /images/thumb/f/f2/Brown_dye.png/32px-Brown_dye.png 2x" /></a> <a class="mw-selflink selflink">Brown dye</a></span> • <span style="white-space:nowrap"><a href="/Dye" title="Dye"><img alt="Cyan dye.png" src="/images/thumb/c/cc/Cyan_dye.png/16px-Cyan_dye.png" decoding="async" width="16" height="16" srcset="/images/thumb/c/cc/Cyan_dye.png/24px-Cyan_dye.png 1.5x, /images/thumb/c/cc/Cyan_dye.png/32px-Cyan_dye.png 2x" /></a> <a class="mw-selflink selflink">Cyan dye</a></span> • <span style="white-space:nowrap"><a href="/Dye" title="Dye"><img alt="Dark green dye.png" src="/images/thumb/6/68/Dark_green_dye.png/16px-Dark_green_dye.png" decoding="async" width="16" height="16" srcset="/images/thumb/6/68/Dark_green_dye.png/24px-Dark_green_dye.png 1.5x, /images/thumb/6/68/Dark_green_dye.png/32px-Dark_green_dye.png 2x" /></a> <a class="mw-selflink selflink">Dark green dye</a></span> • <span style="white-space:nowrap"><a href="/Dye" title="Dye"><img alt="Dark grey dye.png" src="/images/thumb/1/19/Dark_grey_dye.png/16px-Dark_grey_dye.png" decoding="async" width="16" height="16" srcset="/images/thumb/1/19/Dark_grey_dye.png/24px-Dark_grey_dye.png 1.5x, /images/thumb/1/19/Dark_grey_dye.png/32px-Dark_grey_dye.png 2x" /></a> <a class="mw-selflink selflink">Dark grey dye</a></span> • <span style="white-space:nowrap"><a href="/Dye" title="Dye"><img alt="Green dye.png" src="/images/thumb/4/48/Green_dye.png/16px-Green_dye.png" decoding="async" width="16" height="16" srcset="/images/thumb/4/48/Green_dye.png/24px-Green_dye.png 1.5x, /images/thumb/4/48/Green_dye.png/32px-Green_dye.png 2x" /></a> <a class="mw-selflink selflink">Green dye</a></span> • <span style="white-space:nowrap"><a href="/Dye" title="Dye"><img alt="Grey dye.png" src="/images/thumb/7/74/Grey_dye.png/16px-Grey_dye.png" decoding="async" width="16" height="16" srcset="/images/thumb/7/74/Grey_dye.png/24px-Grey_dye.png 1.5x, /images/thumb/7/74/Grey_dye.png/32px-Grey_dye.png 2x" /></a> <a class="mw-selflink selflink">Grey dye</a></span> • <span style="white-space:nowrap"><a href="/Dye" title="Dye"><img alt="Magenta dye.png" src="/images/thumb/f/f1/Magenta_dye.png/16px-Magenta_dye.png" decoding="async" width="16" height="16" srcset="/images/thumb/f/f1/Magenta_dye.png/24px-Magenta_dye.png 1.5x, /images/thumb/f/f1/Magenta_dye.png/32px-Magenta_dye.png 2x" /></a> <a class="mw-selflink selflink">Magenta dye</a></span> • <span style="white-space:nowrap"><a href="/Dye" title="Dye"><img alt="Orange dye.png" src="/images/thumb/e/e7/Orange_dye.png/16px-Orange_dye.png" decoding="async" width="16" height="16" srcset="/images/thumb/e/e7/Orange_dye.png/24px-Orange_dye.png 1.5x, /images/thumb/e/e7/Orange_dye.png/32px-Orange_dye.png 2x" /></a> <a class="mw-selflink selflink">Orange dye</a></span> • <span style="white-space:nowrap"><a href="/Dye" title="Dye"><img alt="Pink dye.png" src="/images/thumb/8/85/Pink_dye.png/16px-Pink_dye.png" decoding="async" width="16" height="16" srcset="/images/thumb/8/85/Pink_dye.png/24px-Pink_dye.png 1.5x, /images/thumb/8/85/Pink_dye.png/32px-Pink_dye.png 2x" /></a> <a class="mw-selflink selflink">Pink dye</a></span> • <span style="white-space:nowrap"><a href="/Dye" title="Dye"><img alt="Red dye.png" src="/images/thumb/3/3c/Red_dye.png/16px-Red_dye.png" decoding="async" width="16" height="16" srcset="/images/thumb/3/3c/Red_dye.png/24px-Red_dye.png 1.5x, /images/thumb/3/3c/Red_dye.png/32px-Red_dye.png 2x" /></a> <a class="mw-selflink selflink">Red dye</a></span> • <span style="white-space:nowrap"><a href="/Dye" title="Dye"><img alt="Violet dye.png" src="/images/thumb/b/b4/Violet_dye.png/16px-Violet_dye.png" decoding="async" width="16" height="16" srcset="/images/thumb/b/b4/Violet_dye.png/24px-Violet_dye.png 1.5x, /images/thumb/b/b4/Violet_dye.png/32px-Violet_dye.png 2x" /></a> <a class="mw-selflink selflink">Violet dye</a></span> • <span style="white-space:nowrap"><a href="/Dye" title="Dye"><img alt="White dye.png" src="/images/thumb/8/87/White_dye.png/16px-White_dye.png" decoding="async" width="16" height="16" srcset="/images/thumb/8/87/White_dye.png/24px-White_dye.png 1.5x, /images/thumb/8/87/White_dye.png/32px-White_dye.png 2x" /></a> <a class="mw-selflink selflink">White dye</a></span> • <span style="white-space:nowrap"><a href="/Dye" title="Dye"><img alt="Yellow dye.png" src="/images/thumb/c/c0/Yellow_dye.png/16px-Yellow_dye.png" decoding="async" width="16" height="16" srcset="/images/thumb/c/c0/Yellow_dye.png/24px-Yellow_dye.png 1.5x, /images/thumb/c/c0/Yellow_dye.png/32px-Yellow_dye.png 2x" /></a> <a class="mw-selflink selflink">Yellow dye</a></span>
+</td></tr>
+<tr>
+<th style="background: #EEE; padding: 0 10px; text-align: right"><span style="white-space:nowrap">Other crafting elements</span>
+</th>
+<td style="width: 100%"><span style="white-space:nowrap"><a href="/Cotton" title="Cotton"><img alt="Cotton.png" src="/images/thumb/c/c3/Cotton.png/16px-Cotton.png" decoding="async" width="16" height="16" srcset="/images/thumb/c/c3/Cotton.png/24px-Cotton.png 1.5x, /images/thumb/c/c3/Cotton.png/32px-Cotton.png 2x" /></a> <a href="/Cotton" title="Cotton">Cotton</a></span> • <span style="white-space:nowrap"><a href="/Flint" title="Flint"><img alt="Flint.png" src="/images/thumb/2/2e/Flint.png/16px-Flint.png" decoding="async" width="16" height="16" srcset="/images/thumb/2/2e/Flint.png/24px-Flint.png 1.5x, /images/thumb/2/2e/Flint.png/32px-Flint.png 2x" /></a> <a href="/Flint" title="Flint">Flint</a></span> • <span style="white-space:nowrap"><a href="/Flour" title="Flour"><img alt="Flour.png" src="/images/thumb/e/e8/Flour.png/16px-Flour.png" decoding="async" width="16" height="16" srcset="/images/thumb/e/e8/Flour.png/24px-Flour.png 1.5x, /images/thumb/e/e8/Flour.png/32px-Flour.png 2x" /></a> <a href="/Flour" title="Flour">Flour</a></span> • <span style="white-space:nowrap"><a href="/Glass_Fragments" title="Glass Fragments"><img alt="Glass Fragments.png" src="/images/thumb/8/87/Glass_Fragments.png/16px-Glass_Fragments.png" decoding="async" width="16" height="16" srcset="/images/thumb/8/87/Glass_Fragments.png/24px-Glass_Fragments.png 1.5x, /images/thumb/8/87/Glass_Fragments.png/32px-Glass_Fragments.png 2x" /></a> <a href="/Glass_Fragments" title="Glass Fragments">Glass Fragments</a></span> • <span style="white-space:nowrap"><a href="/Gun_Powder" title="Gun Powder"><img alt="Gun Powder.png" src="/images/thumb/d/dd/Gun_Powder.png/16px-Gun_Powder.png" decoding="async" width="16" height="16" srcset="/images/thumb/d/dd/Gun_Powder.png/24px-Gun_Powder.png 1.5x, /images/thumb/d/dd/Gun_Powder.png/32px-Gun_Powder.png 2x" /></a> <a href="/Gun_Powder" title="Gun Powder">Gun Powder</a></span> • <span style="white-space:nowrap"><a href="/Paper" title="Paper"><img alt="Paper.png" src="/images/thumb/b/b2/Paper.png/16px-Paper.png" decoding="async" width="16" height="16" srcset="/images/thumb/b/b2/Paper.png/24px-Paper.png 1.5x, /images/thumb/b/b2/Paper.png/32px-Paper.png 2x" /></a> <a href="/Paper" title="Paper">Paper</a></span> • <span style="white-space:nowrap"><a href="/Stick" title="Stick"><img alt="Stick.png" src="/images/thumb/a/aa/Stick.png/16px-Stick.png" decoding="async" width="16" height="16" srcset="/images/thumb/a/aa/Stick.png/24px-Stick.png 1.5x, /images/thumb/a/aa/Stick.png/32px-Stick.png 2x" /></a> <a href="/Stick" title="Stick">Stick</a></span> • <span style="white-space:nowrap"><a href="/String" title="String"><img alt="String.png" src="/images/thumb/a/a0/String.png/16px-String.png" decoding="async" width="16" height="16" srcset="/images/thumb/a/a0/String.png/24px-String.png 1.5x, /images/thumb/a/a0/String.png/32px-String.png 2x" /></a> <a href="/String" title="String">String</a></span> • <span style="white-space:nowrap"><a href="/TNT_Stick" title="TNT Stick"><img alt="TNT Stick.png" src="/images/thumb/9/9d/TNT_Stick.png/16px-TNT_Stick.png" decoding="async" width="16" height="16" srcset="/images/thumb/9/9d/TNT_Stick.png/24px-TNT_Stick.png 1.5x, /images/thumb/9/9d/TNT_Stick.png/32px-TNT_Stick.png 2x" /></a> <a href="/TNT_Stick" title="TNT Stick">TNT Stick</a></span> • <span style="white-space:nowrap"><a href="/Wheat" title="Wheat"><img alt="Wheat.png" src="/images/thumb/e/e2/Wheat.png/16px-Wheat.png" decoding="async" width="16" height="16" srcset="/images/thumb/e/e2/Wheat.png/24px-Wheat.png 1.5x, /images/thumb/e/e2/Wheat.png/32px-Wheat.png 2x" /></a> <a href="/Wheat" title="Wheat">Wheat</a></span>
+</td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Cached time: 20230811132126
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 1.742 seconds
+Real time usage: 2.977 seconds
+Preprocessor visited node count: 3010/1000000
+Post‐expand include size: 101509/2097152 bytes
+Template argument size: 7798/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 15/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.700/7 seconds
+Lua virtual size: 6.71 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1494.567      1 -total
+ 58.77%  878.348     13 Template:Grid/Craft
+ 52.09%  778.492    130 Template:Grid
+ 20.58%  307.543      1 Template:Languages
+ 10.71%  160.114      1 Games/Minetest_Game/Items/navbox
+  9.51%  142.172      1 Template:Item_Data
+  7.53%  112.548     63 Template:Iconlink
+  5.90%   88.151     70 Template:Nowrap
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:444-0!canonical and timestamp 20230811132123 and revision id 24419
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Dye&amp;oldid=24419">http://wiki.minetest.net/index.php?title=Dye&amp;oldid=24419</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li><li><a href="/Category:Renewable" title="Category:Renewable">Renewable</a></li><li><a href="/Category:Craftitems" title="Category:Craftitems">Craftitems</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Dye" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Dye" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Dye&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Dye">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Dye&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Dye&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Dye" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Dye" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Dye&amp;oldid=24419" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Dye&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 21 September 2020, at 18:52.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.742","walltime":"2.977","ppvisitednodes":{"value":3010,"limit":1000000},"postexpandincludesize":{"value":101509,"limit":2097152},"templateargumentsize":{"value":7798,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":15,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00% 1494.567      1 -total"," 58.77%  878.348     13 Template:Grid/Craft"," 52.09%  778.492    130 Template:Grid"," 20.58%  307.543      1 Template:Languages"," 10.71%  160.114      1 Games/Minetest_Game/Items/navbox","  9.51%  142.172      1 Template:Item_Data","  7.53%  112.548     63 Template:Iconlink","  5.90%   88.151     70 Template:Nowrap"]},"scribunto":{"limitreport-timeusage":{"value":"0.700","limit":"7"},"limitreport-virtmemusage":{"value":7032832,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230811132126","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":524});});</script></body></html>

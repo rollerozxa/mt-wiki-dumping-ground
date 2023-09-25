@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8"/>
 <title>Acacia Bush Stem/ms - Minetest Wiki</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"75c8722917f0206675369463","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Acacia_Bush_Stem/ms","wgTitle":"Acacia Bush Stem/ms","wgCurRevisionId":17623,"wgRevisionId":17623,"wgArticleId":3293,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages","Renewable","Organic blocks","Flammable","Generated blocks","Malay"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Acacia_Bush_Stem/ms","wgRelevantArticleId":3293,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[]
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"e3524a411bba4981818a9b6c","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Acacia_Bush_Stem/ms","wgTitle":"Acacia Bush Stem/ms","wgCurRevisionId":17623,"wgRevisionId":17623,"wgArticleId":3293,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages","Renewable","Organic blocks","Flammable","Generated blocks","Malay"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Acacia_Bush_Stem/ms","wgRelevantArticleId":3293,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[]
 ,"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","jquery.tablesorter.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","skins.vector.legacy.js"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
@@ -51,7 +51,7 @@
 <th colspan="2"><div class="center"><a href="/File:Acacia_Bush_Stem.png" class="image"><img alt="Acacia Bush Stem.png" src="/images/thumb/d/d9/Acacia_Bush_Stem.png/150px-Acacia_Bush_Stem.png" decoding="async" width="150" height="150" srcset="/images/d/d9/Acacia_Bush_Stem.png 1.5x" /></a></div>
 </th></tr>
 <tr>
-<th colspan="2" align="center">Sebuah <a href="/Blocks/ms" class="mw-redirect" title="Blocks/ms">blok</a> dalam <a href="/Games/Minetest_Game/ms" title="Games/Minetest Game/ms">Minetest Game</a>
+<th colspan="2" align="center">Sebuah <a href="/index.php?title=Blocks/ms&amp;action=edit&amp;redlink=1" class="new" title="Blocks/ms (page does not exist)">blok</a> dalam <a href="/Games/Minetest_Game/ms" title="Games/Minetest Game/ms">Minetest Game</a>
 </th></tr>
 <tr>
 <td><b>Jenis</b>
@@ -159,12 +159,12 @@
 <li><a href="/Bush_Leaves/ms" title="Bush Leaves/ms">Daun Belukar</a></li></ul>
 <!-- 
 NewPP limit report
-Cached time: 20230709090231
+Cached time: 20230925140402
 Cache expiry: 86400
 Dynamic content: false
 Complications: []
-CPU time usage: 0.295 seconds
-Real time usage: 0.604 seconds
+CPU time usage: 0.290 seconds
+Real time usage: 0.976 seconds
 Preprocessor visited node count: 212/1000000
 Post‐expand include size: 8494/2097152 bytes
 Template argument size: 438/2097152 bytes
@@ -172,20 +172,20 @@ Highest expansion depth: 7/40
 Expensive parser function count: 14/100
 Unstrip recursion depth: 0/20
 Unstrip post‐expand size: 0/5000000 bytes
-Lua time usage: 0.200/7 seconds
+Lua time usage: 0.190/7 seconds
 Lua virtual size: 5.93 MB/50 MB
 Lua estimated memory usage: 0 bytes
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  495.018      1 -total
- 59.97%  296.849      1 Template:Languages
- 24.70%  122.264      1 Template:Block_Data/ms
- 15.16%   75.059      1 Template:Grid/Craft
- 11.43%   56.556     10 Template:Grid
+100.00%  762.924      1 -total
+ 57.89%  441.628      1 Template:Languages
+ 22.68%  173.018      1 Template:Block_Data/ms
+ 19.32%  147.412      1 Template:Grid/Craft
+ 15.81%  120.632     10 Template:Grid
 -->
 
-<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:3293-0!canonical and timestamp 20230709090230 and revision id 17623
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:3293-0!canonical and timestamp 20230925140401 and revision id 17623
  -->
 </div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Acacia_Bush_Stem/ms&amp;oldid=17623">http://wiki.minetest.net/index.php?title=Acacia_Bush_Stem/ms&amp;oldid=17623</a>"</div>
 		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li><li><a href="/Category:Renewable" title="Category:Renewable">Renewable</a></li><li><a href="/Category:Organic_blocks" title="Category:Organic blocks">Organic blocks</a></li><li><a href="/Category:Flammable" title="Category:Flammable">Flammable</a></li><li><a href="/Category:Generated_blocks" title="Category:Generated blocks">Generated blocks</a></li><li><a href="/Category:Malay" title="Category:Malay">Malay</a></li></ul></div></div>
@@ -350,4 +350,4 @@ Transclusion expansion time report (%,ms,calls,template)
 
 
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.295","walltime":"0.604","ppvisitednodes":{"value":212,"limit":1000000},"postexpandincludesize":{"value":8494,"limit":2097152},"templateargumentsize":{"value":438,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":14,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  495.018      1 -total"," 59.97%  296.849      1 Template:Languages"," 24.70%  122.264      1 Template:Block_Data/ms"," 15.16%   75.059      1 Template:Grid/Craft"," 11.43%   56.556     10 Template:Grid"]},"scribunto":{"limitreport-timeusage":{"value":"0.200","limit":"7"},"limitreport-virtmemusage":{"value":6221824,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709090231","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":447});});</script></body></html>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.290","walltime":"0.976","ppvisitednodes":{"value":212,"limit":1000000},"postexpandincludesize":{"value":8494,"limit":2097152},"templateargumentsize":{"value":438,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":14,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  762.924      1 -total"," 57.89%  441.628      1 Template:Languages"," 22.68%  173.018      1 Template:Block_Data/ms"," 19.32%  147.412      1 Template:Grid/Craft"," 15.81%  120.632     10 Template:Grid"]},"scribunto":{"limitreport-timeusage":{"value":"0.190","limit":"7"},"limitreport-virtmemusage":{"value":6213632,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230925140402","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":1385});});</script></body></html>

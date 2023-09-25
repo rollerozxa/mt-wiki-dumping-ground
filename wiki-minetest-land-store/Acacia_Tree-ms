@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8"/>
 <title>Acacia Tree/ms - Minetest Wiki</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"fb6ed6512932524f96ad2a7b","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Acacia_Tree/ms","wgTitle":"Acacia Tree/ms","wgCurRevisionId":17625,"wgRevisionId":17625,"wgArticleId":3297,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages","Renewable","Organic blocks","Flammable","Generated blocks","Tree","Malay"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Acacia_Tree/ms","wgRelevantArticleId":3297,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"24e0c350c5956dddda343b6b","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Acacia_Tree/ms","wgTitle":"Acacia Tree/ms","wgCurRevisionId":17625,"wgRevisionId":17625,"wgArticleId":3297,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages","Renewable","Organic blocks","Flammable","Generated blocks","Tree","Malay"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Acacia_Tree/ms","wgRelevantArticleId":3297,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],
 "wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","jquery.tablesorter.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","skins.vector.legacy.js"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
@@ -51,7 +51,7 @@
 <th colspan="2"><div class="center"><a href="/File:Acacia_Tree.png" class="image"><img alt="Acacia Tree.png" src="/images/8/8f/Acacia_Tree.png" decoding="async" width="150" height="150" /></a></div>
 </th></tr>
 <tr>
-<th colspan="2" align="center">Sebuah <a href="/Blocks/ms" class="mw-redirect" title="Blocks/ms">blok</a> dalam <a href="/Games/Minetest_Game/ms" title="Games/Minetest Game/ms">Minetest Game</a>
+<th colspan="2" align="center">Sebuah <a href="/index.php?title=Blocks/ms&amp;action=edit&amp;redlink=1" class="new" title="Blocks/ms (page does not exist)">blok</a> dalam <a href="/Games/Minetest_Game/ms" title="Games/Minetest Game/ms">Minetest Game</a>
 </th></tr>
 <tr>
 <td><b>Jenis</b>
@@ -162,12 +162,12 @@
 <li><a href="/Aspen_Tree/ms" title="Aspen Tree/ms">Kayu Aspen</a></li></ul>
 <!-- 
 NewPP limit report
-Cached time: 20230709090304
+Cached time: 20230925140424
 Cache expiry: 86400
 Dynamic content: false
 Complications: []
-CPU time usage: 0.306 seconds
-Real time usage: 0.625 seconds
+CPU time usage: 0.303 seconds
+Real time usage: 0.616 seconds
 Preprocessor visited node count: 225/1000000
 Post‐expand include size: 8736/2097152 bytes
 Template argument size: 520/2097152 bytes
@@ -176,19 +176,19 @@ Expensive parser function count: 14/100
 Unstrip recursion depth: 0/20
 Unstrip post‐expand size: 0/5000000 bytes
 Lua time usage: 0.190/7 seconds
-Lua virtual size: 5.93 MB/50 MB
+Lua virtual size: 5.94 MB/50 MB
 Lua estimated memory usage: 0 bytes
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  504.273      1 -total
- 59.78%  301.437      1 Template:Languages
- 24.93%  125.736      1 Template:Block_Data/ms
- 15.12%   76.254      1 Template:Grid/Craft
- 11.33%   57.127     10 Template:Grid
+100.00%  500.780      1 -total
+ 60.05%  300.706      1 Template:Languages
+ 25.22%  126.286      1 Template:Block_Data/ms
+ 14.57%   72.944      1 Template:Grid/Craft
+ 10.89%   54.521     10 Template:Grid
 -->
 
-<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:3297-0!canonical and timestamp 20230709090303 and revision id 17625
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:3297-0!canonical and timestamp 20230925140423 and revision id 17625
  -->
 </div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Acacia_Tree/ms&amp;oldid=17625">http://wiki.minetest.net/index.php?title=Acacia_Tree/ms&amp;oldid=17625</a>"</div>
 		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li><li><a href="/Category:Renewable" title="Category:Renewable">Renewable</a></li><li><a href="/Category:Organic_blocks" title="Category:Organic blocks">Organic blocks</a></li><li><a href="/Category:Flammable" title="Category:Flammable">Flammable</a></li><li><a href="/Category:Generated_blocks" title="Category:Generated blocks">Generated blocks</a></li><li><a href="/Category:Tree" title="Category:Tree">Tree</a></li><li><a href="/Category:Malay" title="Category:Malay">Malay</a></li></ul></div></div>
@@ -353,4 +353,4 @@ Transclusion expansion time report (%,ms,calls,template)
 
 
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.306","walltime":"0.625","ppvisitednodes":{"value":225,"limit":1000000},"postexpandincludesize":{"value":8736,"limit":2097152},"templateargumentsize":{"value":520,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":14,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  504.273      1 -total"," 59.78%  301.437      1 Template:Languages"," 24.93%  125.736      1 Template:Block_Data/ms"," 15.12%   76.254      1 Template:Grid/Craft"," 11.33%   57.127     10 Template:Grid"]},"scribunto":{"limitreport-timeusage":{"value":"0.190","limit":"7"},"limitreport-virtmemusage":{"value":6221824,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709090304","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":257});});</script></body></html>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.303","walltime":"0.616","ppvisitednodes":{"value":225,"limit":1000000},"postexpandincludesize":{"value":8736,"limit":2097152},"templateargumentsize":{"value":520,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":14,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  500.780      1 -total"," 60.05%  300.706      1 Template:Languages"," 25.22%  126.286      1 Template:Block_Data/ms"," 14.57%   72.944      1 Template:Grid/Craft"," 10.89%   54.521     10 Template:Grid"]},"scribunto":{"limitreport-timeusage":{"value":"0.190","limit":"7"},"limitreport-virtmemusage":{"value":6225920,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230925140424","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":956});});</script></body></html>

@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8"/>
 <title>Games/Minetest Game/Nodes - Minetest Wiki</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"b3a52eb42616a6668f1f6aea","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Games/Minetest_Game/Nodes","wgTitle":"Games/Minetest Game/Nodes","wgCurRevisionId":27446,"wgRevisionId":27446,"wgArticleId":7,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages","Pages with broken file links","Nodes"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Games/Minetest_Game/Nodes","wgRelevantArticleId":7,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"7c639920d2ef57c1661624e9","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Games/Minetest_Game/Nodes","wgTitle":"Games/Minetest Game/Nodes","wgCurRevisionId":27446,"wgRevisionId":27446,"wgArticleId":7,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages","Pages with broken file links","Nodes"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Games/Minetest_Game/Nodes","wgRelevantArticleId":7,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],
 "wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
@@ -40,7 +40,7 @@
 		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
 <tbody><tr style="background:#EEF3E2">
 <th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> Language:</th>
-<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><b><a class="mw-selflink selflink">English</a></b>&#160;• <bdi lang="de"><a href="/Games/Minetest_Game/Nodes/de" title="Games/Minetest Game/Nodes/de">Deutsch</a></bdi>&#160;• <bdi lang="fr"><a href="/Games/Minetest_Game/Nodes/fr" class="mw-redirect" title="Games/Minetest Game/Nodes/fr">français</a></bdi>&#160;• <bdi lang="ja"><a href="/Games/Minetest_Game/Nodes/ja" title="Games/Minetest Game/Nodes/ja">日本語</a></bdi>&#160;• <bdi lang="ms"><a href="/Games/Minetest_Game/Nodes/ms" title="Games/Minetest Game/Nodes/ms">Bahasa Melayu</a></bdi></td>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><b><a class="mw-selflink selflink">English</a></b>&#160;• <bdi lang="de"><a href="/Games/Minetest_Game/Nodes/de" title="Games/Minetest Game/Nodes/de">Deutsch</a></bdi>&#160;• <bdi lang="ja"><a href="/Games/Minetest_Game/Nodes/ja" title="Games/Minetest Game/Nodes/ja">日本語</a></bdi>&#160;• <bdi lang="ms"><a href="/Games/Minetest_Game/Nodes/ms" title="Games/Minetest Game/Nodes/ms">Bahasa Melayu</a></bdi></td>
 </tr></tbody></table>
 <p>This page lists the available <a href="/Nodes" title="Nodes">nodes</a> in <a href="/Games/Minetest_Game" title="Games/Minetest Game">Minetest Game</a>.
 </p>
@@ -1191,36 +1191,36 @@
 </td></tr></tbody></table>
 <!-- 
 NewPP limit report
-Cached time: 20230708232526
+Cached time: 20230924202447
 Cache expiry: 86400
 Dynamic content: false
 Complications: []
-CPU time usage: 3.815 seconds
-Real time usage: 5.923 seconds
-Preprocessor visited node count: 3957/1000000
-Post‐expand include size: 92544/2097152 bytes
-Template argument size: 21222/2097152 bytes
+CPU time usage: 3.878 seconds
+Real time usage: 6.223 seconds
+Preprocessor visited node count: 3955/1000000
+Post‐expand include size: 92322/2097152 bytes
+Template argument size: 21148/2097152 bytes
 Highest expansion depth: 9/40
 Expensive parser function count: 14/100
 Unstrip recursion depth: 0/20
 Unstrip post‐expand size: 0/5000000 bytes
 Lua time usage: 0.120/7 seconds
-Lua virtual size: 5.55 MB/50 MB
+Lua virtual size: 5.52 MB/50 MB
 Lua estimated memory usage: 0 bytes
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  926.125      1 -total
- 52.24%  483.783      1 Template:Languages
- 38.78%  359.180      1 Games/Minetest_Game/Nodes/navbox
- 27.71%  256.593    138 Template:Iconlink
- 24.46%  226.497    177 Template:Nowrap
-  4.71%   43.635      1 Template:Manufactured_nodes
-  2.55%   23.649      1 Template:Naturally_generated_nodes
-  1.54%   14.265      1 Template:Grown_nodes
+100.00%  726.759      1 -total
+ 45.82%  333.019      1 Games/Minetest_Game/Nodes/navbox
+ 45.47%  330.484      1 Template:Languages
+ 32.58%  236.775    138 Template:Iconlink
+ 26.82%  194.895    177 Template:Nowrap
+  3.77%   27.386      1 Template:Manufactured_nodes
+  3.11%   22.617      1 Template:Naturally_generated_nodes
+  1.53%   11.097      1 Template:Grown_nodes
 -->
 
-<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:7-0!canonical and timestamp 20230708232520 and revision id 27446
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:7-0!canonical and timestamp 20230924202441 and revision id 27446
  -->
 </div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Games/Minetest_Game/Nodes&amp;oldid=27446">http://wiki.minetest.net/index.php?title=Games/Minetest_Game/Nodes&amp;oldid=27446</a>"</div>
 		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li><li><a href="/Category:Pages_with_broken_file_links" title="Category:Pages with broken file links">Pages with broken file links</a></li><li><a href="/Category:Nodes" title="Category:Nodes">Nodes</a></li></ul></div></div>
@@ -1385,4 +1385,4 @@ Transclusion expansion time report (%,ms,calls,template)
 
 
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"3.815","walltime":"5.923","ppvisitednodes":{"value":3957,"limit":1000000},"postexpandincludesize":{"value":92544,"limit":2097152},"templateargumentsize":{"value":21222,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":14,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  926.125      1 -total"," 52.24%  483.783      1 Template:Languages"," 38.78%  359.180      1 Games/Minetest_Game/Nodes/navbox"," 27.71%  256.593    138 Template:Iconlink"," 24.46%  226.497    177 Template:Nowrap","  4.71%   43.635      1 Template:Manufactured_nodes","  2.55%   23.649      1 Template:Naturally_generated_nodes","  1.54%   14.265      1 Template:Grown_nodes"]},"scribunto":{"limitreport-timeusage":{"value":"0.120","limit":"7"},"limitreport-virtmemusage":{"value":5820416,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230708232526","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":292});});</script></body></html>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"3.878","walltime":"6.223","ppvisitednodes":{"value":3955,"limit":1000000},"postexpandincludesize":{"value":92322,"limit":2097152},"templateargumentsize":{"value":21148,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":14,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  726.759      1 -total"," 45.82%  333.019      1 Games/Minetest_Game/Nodes/navbox"," 45.47%  330.484      1 Template:Languages"," 32.58%  236.775    138 Template:Iconlink"," 26.82%  194.895    177 Template:Nowrap","  3.77%   27.386      1 Template:Manufactured_nodes","  3.11%   22.617      1 Template:Naturally_generated_nodes","  1.53%   11.097      1 Template:Grown_nodes"]},"scribunto":{"limitreport-timeusage":{"value":"0.120","limit":"7"},"limitreport-virtmemusage":{"value":5791744,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230924202447","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":1000});});</script></body></html>

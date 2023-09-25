@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8"/>
 <title>Advanced Beginners Guide/id - Minetest Wiki</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"ecdd6596ff50d2994f9363da","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Advanced_Beginners_Guide/id","wgTitle":"Advanced Beginners Guide/id","wgCurRevisionId":27587,"wgRevisionId":27587,"wgArticleId":1887,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages","Tutorials","Indonesian"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Advanced_Beginners_Guide/id","wgRelevantArticleId":1887,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"bad2f2c5b9c720995f60ef80","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Advanced_Beginners_Guide/id","wgTitle":"Advanced Beginners Guide/id","wgCurRevisionId":27587,"wgRevisionId":27587,"wgArticleId":1887,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages","Tutorials","Indonesian"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Advanced_Beginners_Guide/id","wgRelevantArticleId":1887,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],
 "wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
@@ -108,12 +108,12 @@
 </p>
 <!-- 
 NewPP limit report
-Cached time: 20230709090328
+Cached time: 20230925140440
 Cache expiry: 86400
 Dynamic content: false
 Complications: []
 CPU time usage: 0.180 seconds
-Real time usage: 0.373 seconds
+Real time usage: 1.051 seconds
 Preprocessor visited node count: 98/1000000
 Post‐expand include size: 2015/2097152 bytes
 Template argument size: 447/2097152 bytes
@@ -121,17 +121,17 @@ Highest expansion depth: 5/40
 Expensive parser function count: 13/100
 Unstrip recursion depth: 0/20
 Unstrip post‐expand size: 0/5000000 bytes
-Lua time usage: 0.130/7 seconds
-Lua virtual size: 5.55 MB/50 MB
+Lua time usage: 0.120/7 seconds
+Lua virtual size: 5.52 MB/50 MB
 Lua estimated memory usage: 0 bytes
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  299.686      1 Template:Languages
-100.00%  299.686      1 -total
+100.00%  851.450      1 Template:Languages
+100.00%  851.450      1 -total
 -->
 
-<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:1887-0!canonical and timestamp 20230709090327 and revision id 27587
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:1887-0!canonical and timestamp 20230925140439 and revision id 27587
  -->
 </div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Advanced_Beginners_Guide/id&amp;oldid=27587">http://wiki.minetest.net/index.php?title=Advanced_Beginners_Guide/id&amp;oldid=27587</a>"</div>
 		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li><li><a href="/Category:Tutorials" title="Category:Tutorials">Tutorials</a></li><li><a href="/Category:Indonesian" title="Category:Indonesian">Indonesian</a></li></ul></div></div>
@@ -296,4 +296,4 @@ Transclusion expansion time report (%,ms,calls,template)
 
 
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.180","walltime":"0.373","ppvisitednodes":{"value":98,"limit":1000000},"postexpandincludesize":{"value":2015,"limit":2097152},"templateargumentsize":{"value":447,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":13,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  299.686      1 Template:Languages","100.00%  299.686      1 -total"]},"scribunto":{"limitreport-timeusage":{"value":"0.130","limit":"7"},"limitreport-virtmemusage":{"value":5816320,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709090328","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":280});});</script></body></html>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.180","walltime":"1.051","ppvisitednodes":{"value":98,"limit":1000000},"postexpandincludesize":{"value":2015,"limit":2097152},"templateargumentsize":{"value":447,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":13,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  851.450      1 Template:Languages","100.00%  851.450      1 -total"]},"scribunto":{"limitreport-timeusage":{"value":"0.120","limit":"7"},"limitreport-virtmemusage":{"value":5791744,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230925140440","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":1986});});</script></body></html>

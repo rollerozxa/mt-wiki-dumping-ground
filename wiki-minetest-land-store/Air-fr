@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8"/>
 <title>Air/fr - Minetest Wiki</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"c468ad941936e27461fa9d32","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Air/fr","wgTitle":"Air/fr","wgCurRevisionId":11938,"wgRevisionId":11938,"wgArticleId":1389,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages","Gas","Passable","French"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Air/fr","wgRelevantArticleId":1389,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready",
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"7713565c484084db004dd291","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Air/fr","wgTitle":"Air/fr","wgCurRevisionId":11938,"wgRevisionId":11938,"wgArticleId":1389,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages","Gas","Passable","French"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Air/fr","wgRelevantArticleId":1389,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready",
 "user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","skins.vector.legacy.js"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
@@ -109,12 +109,12 @@
 </p>
 <!-- 
 NewPP limit report
-Cached time: 20230709172213
+Cached time: 20230925140455
 Cache expiry: 86400
 Dynamic content: false
 Complications: []
-CPU time usage: 0.238 seconds
-Real time usage: 0.509 seconds
+CPU time usage: 0.227 seconds
+Real time usage: 0.581 seconds
 Preprocessor visited node count: 126/1000000
 Post‐expand include size: 3294/2097152 bytes
 Template argument size: 370/2097152 bytes
@@ -123,17 +123,17 @@ Expensive parser function count: 14/100
 Unstrip recursion depth: 0/20
 Unstrip post‐expand size: 0/5000000 bytes
 Lua time usage: 0.160/7 seconds
-Lua virtual size: 5.91 MB/50 MB
+Lua virtual size: 5.93 MB/50 MB
 Lua estimated memory usage: 0 bytes
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  425.877      1 -total
- 70.87%  301.818      1 Template:Languages
- 29.04%  123.675      1 Template:Block_Data
+100.00%  490.696      1 -total
+ 72.75%  356.977      1 Template:Languages
+ 27.18%  133.356      1 Template:Block_Data
 -->
 
-<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:1389-0!canonical and timestamp 20230709172212 and revision id 11938
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:1389-0!canonical and timestamp 20230925140455 and revision id 11938
  -->
 </div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Air/fr&amp;oldid=11938">http://wiki.minetest.net/index.php?title=Air/fr&amp;oldid=11938</a>"</div>
 		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li><li><a href="/Category:Gas" title="Category:Gas">Gas</a></li><li><a href="/Category:Passable" title="Category:Passable">Passable</a></li><li><a href="/Category:French" title="Category:French">French</a></li></ul></div></div>
@@ -298,4 +298,4 @@ Transclusion expansion time report (%,ms,calls,template)
 
 
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.238","walltime":"0.509","ppvisitednodes":{"value":126,"limit":1000000},"postexpandincludesize":{"value":3294,"limit":2097152},"templateargumentsize":{"value":370,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":14,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  425.877      1 -total"," 70.87%  301.818      1 Template:Languages"," 29.04%  123.675      1 Template:Block_Data"]},"scribunto":{"limitreport-timeusage":{"value":"0.160","limit":"7"},"limitreport-virtmemusage":{"value":6197248,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709172213","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":862});});</script></body></html>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.227","walltime":"0.581","ppvisitednodes":{"value":126,"limit":1000000},"postexpandincludesize":{"value":3294,"limit":2097152},"templateargumentsize":{"value":370,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":14,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  490.696      1 -total"," 72.75%  356.977      1 Template:Languages"," 27.18%  133.356      1 Template:Block_Data"]},"scribunto":{"limitreport-timeusage":{"value":"0.160","limit":"7"},"limitreport-virtmemusage":{"value":6217728,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230925140455","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":1079});});</script></body></html>

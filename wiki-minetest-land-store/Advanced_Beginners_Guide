@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8"/>
 <title>Advanced Beginners Guide - Minetest Wiki</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"06ab50e2603cc8261fdcd4fb","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Advanced_Beginners_Guide","wgTitle":"Advanced Beginners Guide","wgCurRevisionId":19887,"wgRevisionId":19887,"wgArticleId":1884,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages","Tutorials"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Advanced_Beginners_Guide","wgRelevantArticleId":1884,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"49411543c136754f34875027","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Advanced_Beginners_Guide","wgTitle":"Advanced Beginners Guide","wgCurRevisionId":19887,"wgRevisionId":19887,"wgArticleId":1884,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages","Tutorials"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Advanced_Beginners_Guide","wgRelevantArticleId":1884,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={
 "site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
@@ -106,12 +106,12 @@
 </p>
 <!-- 
 NewPP limit report
-Cached time: 20230709090310
+Cached time: 20230925135332
 Cache expiry: 86400
 Dynamic content: false
 Complications: []
 CPU time usage: 0.185 seconds
-Real time usage: 0.389 seconds
+Real time usage: 0.427 seconds
 Preprocessor visited node count: 99/1000000
 Post‐expand include size: 2021/2097152 bytes
 Template argument size: 451/2097152 bytes
@@ -119,17 +119,17 @@ Highest expansion depth: 5/40
 Expensive parser function count: 14/100
 Unstrip recursion depth: 0/20
 Unstrip post‐expand size: 0/5000000 bytes
-Lua time usage: 0.130/7 seconds
+Lua time usage: 0.120/7 seconds
 Lua virtual size: 5.54 MB/50 MB
 Lua estimated memory usage: 0 bytes
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  311.473      1 Template:Languages
-100.00%  311.473      1 -total
+100.00%  325.910      1 Template:Languages
+100.00%  325.910      1 -total
 -->
 
-<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:1884-0!canonical and timestamp 20230709090309 and revision id 19887
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:1884-0!canonical and timestamp 20230925135331 and revision id 19887
  -->
 </div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Advanced_Beginners_Guide&amp;oldid=19887">http://wiki.minetest.net/index.php?title=Advanced_Beginners_Guide&amp;oldid=19887</a>"</div>
 		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li><li><a href="/Category:Tutorials" title="Category:Tutorials">Tutorials</a></li></ul></div></div>
@@ -294,4 +294,4 @@ Transclusion expansion time report (%,ms,calls,template)
 
 
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.185","walltime":"0.389","ppvisitednodes":{"value":99,"limit":1000000},"postexpandincludesize":{"value":2021,"limit":2097152},"templateargumentsize":{"value":451,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":14,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  311.473      1 Template:Languages","100.00%  311.473      1 -total"]},"scribunto":{"limitreport-timeusage":{"value":"0.130","limit":"7"},"limitreport-virtmemusage":{"value":5812224,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709090310","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":254});});</script></body></html>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.185","walltime":"0.427","ppvisitednodes":{"value":99,"limit":1000000},"postexpandincludesize":{"value":2021,"limit":2097152},"templateargumentsize":{"value":451,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":14,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  325.910      1 Template:Languages","100.00%  325.910      1 -total"]},"scribunto":{"limitreport-timeusage":{"value":"0.120","limit":"7"},"limitreport-virtmemusage":{"value":5804032,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230925135332","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":236});});</script></body></html>

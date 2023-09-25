@@ -1,0 +1,667 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>File list - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!0,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"d402c00c904793e011d16fbd","wgCSPNonce":!1,"wgCanonicalNamespace":"Special","wgCanonicalSpecialPageName":"Listfiles","wgNamespaceNumber":-1,"wgPageName":"Special:ListFiles","wgTitle":"ListFiles","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":!1,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Special:ListFiles","wgRelevantArticleId":0,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading",
+"mediawiki.helplink":"ready","mediawiki.special":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","mediawiki.htmlform.ooui.styles":"ready","mediawiki.htmlform.styles":"ready","mediawiki.pager.tablePager":"ready","oojs-ui.styles.icons-movement":"ready","skins.vector.styles.legacy":"ready"};RLPAGEMODULES=["mediawiki.htmlform","mediawiki.htmlform.ooui","mediawiki.widgets.UserInputWidget","site","mediawiki.page.startup","mediawiki.page.ready","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.helplink%2Cspecial%7Cmediawiki.htmlform.ooui.styles%7Cmediawiki.htmlform.styles%7Cmediawiki.pager.tablePager%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.icons-movement%2Cindicators%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns--1 ns-special mw-special-Listfiles page-Special_ListFiles rootpage-Special_ListFiles skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	<div id="mw-indicator-mw-helplink" class="mw-indicator"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Managing_files" target="_blank" class="mw-helplink">Help</a></div>
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">File list</h1>
+	<div id="bodyContent" class="mw-body-content">
+		
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text"><div class="mw-specialpage-summary">
+<p>This special page shows all uploaded files.
+</p>
+</div><div class='mw-htmlform-ooui-wrapper oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-padded oo-ui-panelLayout-framed'><form id='mw-listfiles-form' action='/Special:ListFiles' method='get' enctype='application/x-www-form-urlencoded' class='mw-htmlform mw-htmlform-ooui oo-ui-layout oo-ui-formLayout'><fieldset class='oo-ui-layout oo-ui-labelElement oo-ui-fieldsetLayout'><legend class='oo-ui-fieldsetLayout-header'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-labelElement-label'>File list</span></legend><div class='oo-ui-fieldsetLayout-group'><div aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled'><div id='ooui-php-5' class='mw-htmlform-field-HTMLSelectField  mw-htmlform-field-autoinfuse oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"mw-input-limit"},"align":"top","helpInline":true,"$overlay":true,"label":{"html":"Items per page:"},"classes":["mw-htmlform-field-HTMLSelectField","","mw-htmlform-field-autoinfuse"]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='ooui-php-1' class='oo-ui-labelElement-label'>Items per page:</label></span><div class='oo-ui-fieldLayout-field'><div id='mw-input-limit' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-dropdownInputWidget oo-ui-dropdownInputWidget-php' data-ooui='{"_":"OO.ui.DropdownInputWidget","options":[{"data":"20","label":"20"},{"data":"50","label":"50"},{"data":"100","label":"100"},{"data":"250","label":"250"},{"data":"500","label":"500"}],"$overlay":true,"name":"limit","value":"50","inputId":"ooui-php-1"}'><select tabindex='0' aria-disabled='false' name='limit' id='ooui-php-1' class='oo-ui-inputWidget-input oo-ui-indicator-down'><option value='20'>20</option><option value='50' selected='selected'>50</option><option value='100'>100</option><option value='250'>250</option><option value='500'>500</option></select></div></div></div></div><div id='ooui-php-6' class='mw-htmlform-field-HTMLTextField  oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"mw-ilsearch"},"align":"top","helpInline":true,"$overlay":true,"label":{"html":"Search for media name:"},"classes":["mw-htmlform-field-HTMLTextField",""]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='ooui-php-2' class='oo-ui-labelElement-label'>Search for media name:</label></span><div class='oo-ui-fieldLayout-field'><div id='mw-ilsearch' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-textInputWidget oo-ui-textInputWidget-type-text oo-ui-textInputWidget-php' data-ooui='{"_":"OO.ui.TextInputWidget","maxLength":"255","name":"ilsearch","inputId":"ooui-php-2"}'><input type='text' tabindex='0' aria-disabled='false' name='ilsearch' value='' maxlength='255' id='ooui-php-2' class='oo-ui-inputWidget-input' /><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator'></span></div></div></div></div><div data-mw-modules='mediawiki.widgets.UserInputWidget' id='ooui-php-7' class='mw-htmlform-field-HTMLUserTextField  mw-htmlform-field-autoinfuse oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"mw-listfiles-user"},"align":"top","helpInline":true,"$overlay":true,"label":{"html":"Username:"},"classes":["mw-htmlform-field-HTMLUserTextField","","mw-htmlform-field-autoinfuse"]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='ooui-php-3' class='oo-ui-labelElement-label'>Username:</label></span><div class='oo-ui-fieldLayout-field'><div id='mw-listfiles-user' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-textInputWidget oo-ui-textInputWidget-type-text oo-ui-textInputWidget-php mw-widget-userInputWidget' data-ooui='{"_":"mw.widgets.UserInputWidget","$overlay":true,"maxLength":"255","name":"user","inputId":"ooui-php-3"}'><input type='text' tabindex='0' aria-disabled='false' name='user' value='' maxlength='255' id='ooui-php-3' class='oo-ui-inputWidget-input' /><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator'></span></div></div></div></div><div id='ooui-php-8' class='mw-htmlform-field-HTMLCheckField  oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-inline' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"mw-listfiles-show-all"},"align":"inline","helpInline":true,"$overlay":true,"label":{"html":"Include old versions of files"},"classes":["mw-htmlform-field-HTMLCheckField",""]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-field'><span id='mw-listfiles-show-all' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-checkboxInputWidget' data-ooui='{"_":"OO.ui.CheckboxInputWidget","name":"ilshowall","value":"1","inputId":"ooui-php-4"}'><input type='checkbox' tabindex='0' aria-disabled='false' name='ilshowall' value='1' id='ooui-php-4' class='oo-ui-inputWidget-input' /><span aria-disabled='false' class='oo-ui-checkboxInputWidget-checkIcon oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-check oo-ui-iconElement oo-ui-labelElement-invisible oo-ui-iconWidget oo-ui-image-invert'></span></span></span><span class='oo-ui-fieldLayout-header'><label for='ooui-php-4' class='oo-ui-labelElement-label'>Include old versions of files</label></span></div></div><div class="mw-htmlform-submit-buttons">
+<span aria-disabled='false' id='ooui-php-9' class='mw-htmlform-submit oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-flaggedElement-primary oo-ui-flaggedElement-progressive oo-ui-buttonInputWidget' data-ooui='{"_":"OO.ui.ButtonInputWidget","type":"submit","value":"Go","label":"Go","flags":["primary","progressive"],"classes":["mw-htmlform-submit"]}'><button type='submit' tabindex='0' aria-disabled='false' value='Go' class='oo-ui-inputWidget-input oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-invert'></span><span class='oo-ui-labelElement-label'>Go</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-invert'></span></button></span></div>
+</div></div></fieldset></form></div><span aria-disabled='false' class='TablePager_nav listfiles_nav oo-ui-widget oo-ui-widget-enabled oo-ui-buttonGroupWidget'><span aria-disabled='true' class='TablePager-button-first oo-ui-widget oo-ui-widget-disabled oo-ui-buttonElement oo-ui-buttonElement-frameless oo-ui-iconElement oo-ui-labelElement oo-ui-flaggedElement-progressive oo-ui-buttonWidget'><a role='button' tabindex='-1' aria-disabled='true' rel='nofollow' class='oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-icon-first'></span><span class='oo-ui-labelElement-label'>First page</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator'></span></a></span><span aria-disabled='true' class='TablePager-button-prev oo-ui-widget oo-ui-widget-disabled oo-ui-buttonElement oo-ui-buttonElement-frameless oo-ui-iconElement oo-ui-labelElement oo-ui-flaggedElement-progressive oo-ui-buttonWidget'><a role='button' tabindex='-1' aria-disabled='true' rel='nofollow' class='oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-icon-previous'></span><span class='oo-ui-labelElement-label'>Previous page</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator'></span></a></span><span aria-disabled='false' class='TablePager-button-next oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-frameless oo-ui-iconElement oo-ui-labelElement oo-ui-flaggedElement-progressive oo-ui-buttonWidget'><a role='button' tabindex='0' aria-disabled='false' href='/index.php?title=Special:ListFiles&amp;offset=20190920222900%7CTexture_block_16.png' rel='nofollow' class='oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-icon-next oo-ui-image-progressive'></span><span class='oo-ui-labelElement-label'>Next page</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-progressive'></span></a></span><span aria-disabled='false' class='TablePager-button-last oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-frameless oo-ui-iconElement oo-ui-labelElement oo-ui-flaggedElement-progressive oo-ui-buttonWidget'><a role='button' tabindex='0' aria-disabled='false' href='/index.php?title=Special:ListFiles&amp;dir=prev' rel='nofollow' class='oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-icon-last oo-ui-image-progressive'></span><span class='oo-ui-labelElement-label'>Last page</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-progressive'></span></a></span></span><table class="mw-datatable listfiles"><thead><tr>
+<th class="TablePager_sort listfiles_sort mw-datatable-is-sorted mw-datatable-is-descending"><a href="/index.php?title=Special:ListFiles&amp;sort=img_timestamp&amp;limit=50&amp;asc=1&amp;desc=" class="mw-asclink" title="Sort ascending">Date</a></th>
+<th><a href="/index.php?title=Special:ListFiles&amp;sort=img_name&amp;limit=50" title="Special:ListFiles">Name</a></th>
+<th>Thumbnail</th>
+<th><a href="/index.php?title=Special:ListFiles&amp;sort=img_size&amp;limit=50" title="Special:ListFiles">Size</a></th>
+<th>User</th>
+<th>Description</th>
+<th>Versions</th>
+
+</tr></thead><tbody>
+<tr>
+<td class="TablePager_col_img_timestamp">13:18, 23 May 2023</td>
+<td class="TablePager_col_img_name"><a href="/File:Fenetre_de_Telechargement_des_jeux.png" title="File:Fenetre de Telechargement des jeux.png">Fenetre de Telechargement des jeux.png</a> (<a href="/images/7/77/Fenetre_de_Telechargement_des_jeux.png">file</a>)</td>
+<td class="TablePager_col_thumb"><a href="/File:Fenetre_de_Telechargement_des_jeux.png" class="image"><img alt="" src="/images/thumb/7/77/Fenetre_de_Telechargement_des_jeux.png/180px-Fenetre_de_Telechargement_des_jeux.png" decoding="async" width="180" height="129" /></a></td>
+<td class="TablePager_col_img_size">232 KB</td>
+<td class="TablePager_col_img_user_text"><a href="/User:Anim_artel" title="User:Anim artel">Anim artel</a></td>
+<td class="TablePager_col_img_description"> </td>
+<td class="TablePager_col_count">1</td>
+</tr>
+<tr>
+<td class="TablePager_col_img_timestamp">23:26, 14 May 2023</td>
+<td class="TablePager_col_img_name"><a href="/File:Marisacraft.png" title="File:Marisacraft.png">Marisacraft.png</a> (<a href="/images/9/9c/Marisacraft.png">file</a>)</td>
+<td class="TablePager_col_thumb"><a href="/File:Marisacraft.png" class="image"><img alt="" src="/images/thumb/9/9c/Marisacraft.png/160px-Marisacraft.png" decoding="async" width="160" height="360" /></a></td>
+<td class="TablePager_col_img_size">18 KB</td>
+<td class="TablePager_col_img_user_text"><a href="/User:CrazyMinetestDawg" title="User:CrazyMinetestDawg">CrazyMinetestDawg</a></td>
+<td class="TablePager_col_img_description"> </td>
+<td class="TablePager_col_count">1</td>
+</tr>
+<tr>
+<td class="TablePager_col_img_timestamp">19:55, 18 January 2023</td>
+<td class="TablePager_col_img_name"><a href="/File:Minetest_serverlist.png" title="File:Minetest serverlist.png">Minetest serverlist.png</a> (<a href="/images/3/34/Minetest_serverlist.png">file</a>)</td>
+<td class="TablePager_col_thumb"><a href="/File:Minetest_serverlist.png" class="image"><img alt="" src="/images/thumb/3/34/Minetest_serverlist.png/180px-Minetest_serverlist.png" decoding="async" width="180" height="124" /></a></td>
+<td class="TablePager_col_img_size">64 KB</td>
+<td class="TablePager_col_img_user_text"><a href="/User:ROllerozxa" title="User:ROllerozxa">ROllerozxa</a></td>
+<td class="TablePager_col_img_description">hmm I should crop out the empty space, good idea roller teehee</td>
+<td class="TablePager_col_count">2</td>
+</tr>
+<tr>
+<td class="TablePager_col_img_timestamp">14:57, 16 January 2023</td>
+<td class="TablePager_col_img_name"><a href="/File:Creative_inventory_menu.png" title="File:Creative inventory menu.png">Creative inventory menu.png</a> (<a href="/images/2/25/Creative_inventory_menu.png">file</a>)</td>
+<td class="TablePager_col_thumb"><a href="/File:Creative_inventory_menu.png" class="image"><img alt="" src="/images/thumb/2/25/Creative_inventory_menu.png/180px-Creative_inventory_menu.png" decoding="async" width="180" height="208" /></a></td>
+<td class="TablePager_col_img_size">45 KB</td>
+<td class="TablePager_col_img_user_text"><a href="/User:ROllerozxa" title="User:ROllerozxa">ROllerozxa</a></td>
+<td class="TablePager_col_img_description">5.6.1</td>
+<td class="TablePager_col_count">1</td>
+</tr>
+<tr>
+<td class="TablePager_col_img_timestamp">17:15, 17 December 2022</td>
+<td class="TablePager_col_img_name"><a href="/File:Screenshot_20221217_110713.png" title="File:Screenshot 20221217 110713.png">Screenshot 20221217 110713.png</a> (<a href="/images/5/52/Screenshot_20221217_110713.png">file</a>)</td>
+<td class="TablePager_col_thumb"><a href="/File:Screenshot_20221217_110713.png" class="image"><img alt="" src="/images/thumb/5/52/Screenshot_20221217_110713.png/180px-Screenshot_20221217_110713.png" decoding="async" width="180" height="116" /></a></td>
+<td class="TablePager_col_img_size">106 KB</td>
+<td class="TablePager_col_img_user_text"><a href="/User:Rubenwardy" title="User:Rubenwardy">Rubenwardy</a></td>
+<td class="TablePager_col_img_description"> </td>
+<td class="TablePager_col_count">1</td>
+</tr>
+<tr>
+<td class="TablePager_col_img_timestamp">12:39, 17 December 2022</td>
+<td class="TablePager_col_img_name"><a href="/File:Coniferous_Forest_(Minetest_5.6.0_w-_shadows).png" title="File:Coniferous Forest (Minetest 5.6.0 w- shadows).png">Coniferous Forest (Minetest 5.6.0 w- shadows).png</a> (<a href="/images/d/d6/Coniferous_Forest_%28Minetest_5.6.0_w-_shadows%29.png">file</a>)</td>
+<td class="TablePager_col_thumb"><a href="/File:Coniferous_Forest_(Minetest_5.6.0_w-_shadows).png" class="image"><img alt="" src="/images/thumb/d/d6/Coniferous_Forest_%28Minetest_5.6.0_w-_shadows%29.png/180px-Coniferous_Forest_%28Minetest_5.6.0_w-_shadows%29.png" decoding="async" width="180" height="101" /></a></td>
+<td class="TablePager_col_img_size">530 KB</td>
+<td class="TablePager_col_img_user_text"><a href="/User:ROllerozxa" title="User:ROllerozxa">ROllerozxa</a></td>
+<td class="TablePager_col_img_description">Mapgen: v7 Seed: ROllerozxa Pos: (250.7, 17.5, -231.5) Yaw: 27.8* | Pitch: -6.6*</td>
+<td class="TablePager_col_count">1</td>
+</tr>
+<tr>
+<td class="TablePager_col_img_timestamp">22:12, 4 October 2022</td>
+<td class="TablePager_col_img_name"><a href="/File:Farlands_Reloaded.jpg" title="File:Farlands Reloaded.jpg">Farlands Reloaded.jpg</a> (<a href="/images/5/5b/Farlands_Reloaded.jpg">file</a>)</td>
+<td class="TablePager_col_thumb"><a href="/File:Farlands_Reloaded.jpg" class="image"><img alt="" src="/images/thumb/5/5b/Farlands_Reloaded.jpg/180px-Farlands_Reloaded.jpg" decoding="async" width="180" height="95" /></a></td>
+<td class="TablePager_col_img_size">196 KB</td>
+<td class="TablePager_col_img_user_text"><a href="/User:Wuzzy" title="User:Wuzzy">Wuzzy</a></td>
+<td class="TablePager_col_img_description">Screenshot of Farlands Reloaded, a game for Minetest.</td>
+<td class="TablePager_col_count">1</td>
+</tr>
+<tr>
+<td class="TablePager_col_img_timestamp">22:08, 4 October 2022</td>
+<td class="TablePager_col_img_name"><a href="/File:Repixture.jpg" title="File:Repixture.jpg">Repixture.jpg</a> (<a href="/images/b/b2/Repixture.jpg">file</a>)</td>
+<td class="TablePager_col_thumb"><a href="/File:Repixture.jpg" class="image"><img alt="" src="/images/thumb/b/b2/Repixture.jpg/180px-Repixture.jpg" decoding="async" width="180" height="101" /></a></td>
+<td class="TablePager_col_img_size">265 KB</td>
+<td class="TablePager_col_img_user_text"><a href="/User:Wuzzy" title="User:Wuzzy">Wuzzy</a></td>
+<td class="TablePager_col_img_description">Screenshot of Repixture, a game for Minetest.</td>
+<td class="TablePager_col_count">1</td>
+</tr>
+<tr>
+<td class="TablePager_col_img_timestamp">21:56, 4 October 2022</td>
+<td class="TablePager_col_img_name"><a href="/File:Exile.jpg" title="File:Exile.jpg">Exile.jpg</a> (<a href="/images/f/f9/Exile.jpg">file</a>)</td>
+<td class="TablePager_col_thumb"><a href="/File:Exile.jpg" class="image"><img alt="" src="/images/thumb/f/f9/Exile.jpg/180px-Exile.jpg" decoding="async" width="180" height="113" /></a></td>
+<td class="TablePager_col_img_size">263 KB</td>
+<td class="TablePager_col_img_user_text"><a href="/User:Wuzzy" title="User:Wuzzy">Wuzzy</a></td>
+<td class="TablePager_col_img_description">Screenshot of Exile, a game for Minetest.</td>
+<td class="TablePager_col_count">1</td>
+</tr>
+<tr>
+<td class="TablePager_col_img_timestamp">21:55, 4 October 2022</td>
+<td class="TablePager_col_img_name"><a href="/File:NodeCore.jpg" title="File:NodeCore.jpg">NodeCore.jpg</a> (<a href="/images/9/9a/NodeCore.jpg">file</a>)</td>
+<td class="TablePager_col_thumb"><a href="/File:NodeCore.jpg" class="image"><img alt="" src="/images/thumb/9/9a/NodeCore.jpg/180px-NodeCore.jpg" decoding="async" width="180" height="113" /></a></td>
+<td class="TablePager_col_img_size">287 KB</td>
+<td class="TablePager_col_img_user_text"><a href="/User:Wuzzy" title="User:Wuzzy">Wuzzy</a></td>
+<td class="TablePager_col_img_description">Screenshot of NodeCore.</td>
+<td class="TablePager_col_count">1</td>
+</tr>
+<tr>
+<td class="TablePager_col_img_timestamp">20:32, 5 August 2022</td>
+<td class="TablePager_col_img_name"><a href="/File:Debug.png" title="File:Debug.png">Debug.png</a> (<a href="/images/b/b3/Debug.png">file</a>)</td>
+<td class="TablePager_col_thumb"><a href="/File:Debug.png" class="image"><img alt="" src="/images/thumb/b/b3/Debug.png/180px-Debug.png" decoding="async" width="180" height="10" /></a></td>
+<td class="TablePager_col_img_size">33 KB</td>
+<td class="TablePager_col_img_user_text"><a href="/User:Wuzzy" title="User:Wuzzy">Wuzzy</a></td>
+<td class="TablePager_col_img_description">Update to version 5.5.0</td>
+<td class="TablePager_col_count">3</td>
+</tr>
+<tr>
+<td class="TablePager_col_img_timestamp">12:59, 5 June 2022</td>
+<td class="TablePager_col_img_name"><a href="/File:Capture_minetest_2022_06_05_annote.png" title="File:Capture minetest 2022 06 05 annote.png">Capture minetest 2022 06 05 annote.png</a> (<a href="/images/6/66/Capture_minetest_2022_06_05_annote.png">file</a>)</td>
+<td class="TablePager_col_thumb"><a href="/File:Capture_minetest_2022_06_05_annote.png" class="image"><img alt="" src="/images/thumb/6/66/Capture_minetest_2022_06_05_annote.png/180px-Capture_minetest_2022_06_05_annote.png" decoding="async" width="180" height="122" /></a></td>
+<td class="TablePager_col_img_size">63 KB</td>
+<td class="TablePager_col_img_user_text"><a href="/User:Anim_artel" title="User:Anim artel">Anim artel</a></td>
+<td class="TablePager_col_img_description"> </td>
+<td class="TablePager_col_count">1</td>
+</tr>
+<tr>
+<td class="TablePager_col_img_timestamp">09:35, 17 May 2022</td>
+<td class="TablePager_col_img_name"><a href="/File:Minetest_Game_desert.jpg" title="File:Minetest Game desert.jpg">Minetest Game desert.jpg</a> (<a href="/images/d/d6/Minetest_Game_desert.jpg">file</a>)</td>
+<td class="TablePager_col_thumb"><a href="/File:Minetest_Game_desert.jpg" class="image"><img alt="" src="/images/thumb/d/d6/Minetest_Game_desert.jpg/180px-Minetest_Game_desert.jpg" decoding="async" width="180" height="101" /></a></td>
+<td class="TablePager_col_img_size">98 KB</td>
+<td class="TablePager_col_img_user_text"><a href="/User:Wuzzy" title="User:Wuzzy">Wuzzy</a></td>
+<td class="TablePager_col_img_description">Screenshot from version 5.5.1, showing the sandstone strata</td>
+<td class="TablePager_col_count">3</td>
+</tr>
+<tr>
+<td class="TablePager_col_img_timestamp">01:55, 7 November 2021</td>
+<td class="TablePager_col_img_name"><a href="/File:Japanflag.png" title="File:Japanflag.png">Japanflag.png</a> (<a href="/images/e/e7/Japanflag.png">file</a>)</td>
+<td class="TablePager_col_thumb"><a href="/File:Japanflag.png" class="image"><img alt="" src="/images/thumb/e/e7/Japanflag.png/180px-Japanflag.png" decoding="async" width="180" height="120" /></a></td>
+<td class="TablePager_col_img_size">2 KB</td>
+<td class="TablePager_col_img_user_text"><a href="/User:Nogajun" title="User:Nogajun">Nogajun</a></td>
+<td class="TablePager_col_img_description"> </td>
+<td class="TablePager_col_count">1</td>
+</tr>
+<tr>
+<td class="TablePager_col_img_timestamp">20:27, 22 July 2021</td>
+<td class="TablePager_col_img_name"><a href="/File:Blender_LinkedFloor.png" title="File:Blender LinkedFloor.png">Blender LinkedFloor.png</a> (<a href="/images/f/f3/Blender_LinkedFloor.png">file</a>)</td>
+<td class="TablePager_col_thumb"><a href="/File:Blender_LinkedFloor.png" class="image"><img alt="" src="/images/thumb/f/f3/Blender_LinkedFloor.png/180px-Blender_LinkedFloor.png" decoding="async" width="180" height="134" /></a></td>
+<td class="TablePager_col_img_size">177 KB</td>
+<td class="TablePager_col_img_user_text"><a href="/index.php?title=User:Hecks&amp;action=edit&amp;redlink=1" class="new" title="User:Hecks (page does not exist)">Hecks</a></td>
+<td class="TablePager_col_img_description"> </td>
+<td class="TablePager_col_count">1</td>
+</tr>
+<tr>
+<td class="TablePager_col_img_timestamp">20:24, 22 July 2021</td>
+<td class="TablePager_col_img_name"><a href="/File:Blender_NLA.png" title="File:Blender NLA.png">Blender NLA.png</a> (<a href="/images/2/29/Blender_NLA.png">file</a>)</td>
+<td class="TablePager_col_thumb"><a href="/File:Blender_NLA.png" class="image"><img alt="" src="/images/thumb/2/29/Blender_NLA.png/180px-Blender_NLA.png" decoding="async" width="180" height="71" /></a></td>
+<td class="TablePager_col_img_size">48 KB</td>
+<td class="TablePager_col_img_user_text"><a href="/index.php?title=User:Hecks&amp;action=edit&amp;redlink=1" class="new" title="User:Hecks (page does not exist)">Hecks</a></td>
+<td class="TablePager_col_img_description"> </td>
+<td class="TablePager_col_count">1</td>
+</tr>
+<tr>
+<td class="TablePager_col_img_timestamp">20:23, 22 July 2021</td>
+<td class="TablePager_col_img_name"><a href="/File:Blender_FakeUser.png" title="File:Blender FakeUser.png">Blender FakeUser.png</a> (<a href="/images/e/e2/Blender_FakeUser.png">file</a>)</td>
+<td class="TablePager_col_thumb"><a href="/File:Blender_FakeUser.png" class="image"><img alt="" src="/images/thumb/e/e2/Blender_FakeUser.png/180px-Blender_FakeUser.png" decoding="async" width="180" height="77" /></a></td>
+<td class="TablePager_col_img_size">17 KB</td>
+<td class="TablePager_col_img_user_text"><a href="/index.php?title=User:Hecks&amp;action=edit&amp;redlink=1" class="new" title="User:Hecks (page does not exist)">Hecks</a></td>
+<td class="TablePager_col_img_description"> </td>
+<td class="TablePager_col_count">1</td>
+</tr>
+<tr>
+<td class="TablePager_col_img_timestamp">20:20, 22 July 2021</td>
+<td class="TablePager_col_img_name"><a href="/File:Blender_CyclicFCurves.png" title="File:Blender CyclicFCurves.png">Blender CyclicFCurves.png</a> (<a href="/images/7/7e/Blender_CyclicFCurves.png">file</a>)</td>
+<td class="TablePager_col_thumb"><a href="/File:Blender_CyclicFCurves.png" class="image"><img alt="" src="/images/thumb/7/7e/Blender_CyclicFCurves.png/180px-Blender_CyclicFCurves.png" decoding="async" width="180" height="103" /></a></td>
+<td class="TablePager_col_img_size">28 KB</td>
+<td class="TablePager_col_img_user_text"><a href="/index.php?title=User:Hecks&amp;action=edit&amp;redlink=1" class="new" title="User:Hecks (page does not exist)">Hecks</a></td>
+<td class="TablePager_col_img_description"> </td>
+<td class="TablePager_col_count">1</td>
+</tr>
+<tr>
+<td class="TablePager_col_img_timestamp">20:18, 22 July 2021</td>
+<td class="TablePager_col_img_name"><a href="/File:Blender_LockTransforms.png" title="File:Blender LockTransforms.png">Blender LockTransforms.png</a> (<a href="/images/c/c2/Blender_LockTransforms.png">file</a>)</td>
+<td class="TablePager_col_thumb"><a href="/File:Blender_LockTransforms.png" class="image"><img alt="" src="/images/thumb/c/c2/Blender_LockTransforms.png/180px-Blender_LockTransforms.png" decoding="async" width="180" height="247" /></a></td>
+<td class="TablePager_col_img_size">37 KB</td>
+<td class="TablePager_col_img_user_text"><a href="/index.php?title=User:Hecks&amp;action=edit&amp;redlink=1" class="new" title="User:Hecks (page does not exist)">Hecks</a></td>
+<td class="TablePager_col_img_description"> </td>
+<td class="TablePager_col_count">1</td>
+</tr>
+<tr>
+<td class="TablePager_col_img_timestamp">20:13, 22 July 2021</td>
+<td class="TablePager_col_img_name"><a href="/File:Blender_AnimLayout.png" title="File:Blender AnimLayout.png">Blender AnimLayout.png</a> (<a href="/images/9/96/Blender_AnimLayout.png">file</a>)</td>
+<td class="TablePager_col_thumb"><a href="/File:Blender_AnimLayout.png" class="image"><img alt="" src="/images/thumb/9/96/Blender_AnimLayout.png/180px-Blender_AnimLayout.png" decoding="async" width="180" height="137" /></a></td>
+<td class="TablePager_col_img_size">227 KB</td>
+<td class="TablePager_col_img_user_text"><a href="/index.php?title=User:Hecks&amp;action=edit&amp;redlink=1" class="new" title="User:Hecks (page does not exist)">Hecks</a></td>
+<td class="TablePager_col_img_description"> </td>
+<td class="TablePager_col_count">1</td>
+</tr>
+<tr>
+<td class="TablePager_col_img_timestamp">20:15, 20 February 2021</td>
+<td class="TablePager_col_img_name"><a href="/File:Fall-off_protection.png" title="File:Fall-off protection.png">Fall-off protection.png</a> (<a href="/images/2/2b/Fall-off_protection.png">file</a>)</td>
+<td class="TablePager_col_thumb"><a href="/File:Fall-off_protection.png" class="image"><img alt="" src="/images/thumb/2/2b/Fall-off_protection.png/180px-Fall-off_protection.png" decoding="async" width="180" height="202" /></a></td>
+<td class="TablePager_col_img_size">81 KB</td>
+<td class="TablePager_col_img_user_text"><a href="/User:Wuzzy" title="User:Wuzzy">Wuzzy</a></td>
+<td class="TablePager_col_img_description">This demonstrates the Fall-off Protection capabilitiy of <a href="/Sneaking" title="Sneaking">Sneaking</a>. It shows a player who is as close you can get to a ledge before you would fall, achieved via sneaking.</td>
+<td class="TablePager_col_count">1</td>
+</tr>
+<tr>
+<td class="TablePager_col_img_timestamp">12:21, 16 February 2021</td>
+<td class="TablePager_col_img_name"><a href="/File:EDUtest_Oberflaeche2.png" title="File:EDUtest Oberflaeche2.png">EDUtest Oberflaeche2.png</a> (<a href="/images/4/42/EDUtest_Oberflaeche2.png">file</a>)</td>
+<td class="TablePager_col_thumb"><a href="/File:EDUtest_Oberflaeche2.png" class="image"><img alt="" src="/images/thumb/4/42/EDUtest_Oberflaeche2.png/180px-EDUtest_Oberflaeche2.png" decoding="async" width="180" height="103" /></a></td>
+<td class="TablePager_col_img_size">21 KB</td>
+<td class="TablePager_col_img_user_text"><a href="/User:BirgitLachner" title="User:BirgitLachner">BirgitLachner</a></td>
+<td class="TablePager_col_img_description"> </td>
+<td class="TablePager_col_count">1</td>
+</tr>
+<tr>
+<td class="TablePager_col_img_timestamp">12:21, 16 February 2021</td>
+<td class="TablePager_col_img_name"><a href="/File:EDUtest_Oberflaeche1.png" title="File:EDUtest Oberflaeche1.png">EDUtest Oberflaeche1.png</a> (<a href="/images/3/36/EDUtest_Oberflaeche1.png">file</a>)</td>
+<td class="TablePager_col_thumb"><a href="/File:EDUtest_Oberflaeche1.png" class="image"><img alt="" src="/images/thumb/3/36/EDUtest_Oberflaeche1.png/180px-EDUtest_Oberflaeche1.png" decoding="async" width="180" height="74" /></a></td>
+<td class="TablePager_col_img_size">45 KB</td>
+<td class="TablePager_col_img_user_text"><a href="/User:BirgitLachner" title="User:BirgitLachner">BirgitLachner</a></td>
+<td class="TablePager_col_img_description"> </td>
+<td class="TablePager_col_count">1</td>
+</tr>
+<tr>
+<td class="TablePager_col_img_timestamp">22:24, 21 September 2020</td>
+<td class="TablePager_col_img_name"><a href="/File:Wet_Dry_Soil.png" title="File:Wet Dry Soil.png">Wet Dry Soil.png</a> (<a href="/images/3/34/Wet_Dry_Soil.png">file</a>)</td>
+<td class="TablePager_col_thumb"><a href="/File:Wet_Dry_Soil.png" class="image"><img alt="" src="/images/3/34/Wet_Dry_Soil.png" decoding="async" width="180" height="180" /></a></td>
+<td class="TablePager_col_img_size">17 KB</td>
+<td class="TablePager_col_img_user_text"><a href="/index.php?title=User:FnControlOption&amp;action=edit&amp;redlink=1" class="new" title="User:FnControlOption (page does not exist)">FnControlOption</a></td>
+<td class="TablePager_col_img_description"> </td>
+<td class="TablePager_col_count">1</td>
+</tr>
+<tr>
+<td class="TablePager_col_img_timestamp">22:23, 21 September 2020</td>
+<td class="TablePager_col_img_name"><a href="/File:Dry_Dirt_with_Dry_Grass.png" title="File:Dry Dirt with Dry Grass.png">Dry Dirt with Dry Grass.png</a> (<a href="/images/3/33/Dry_Dirt_with_Dry_Grass.png">file</a>)</td>
+<td class="TablePager_col_thumb"><a href="/File:Dry_Dirt_with_Dry_Grass.png" class="image"><img alt="" src="/images/3/33/Dry_Dirt_with_Dry_Grass.png" decoding="async" width="180" height="180" /></a></td>
+<td class="TablePager_col_img_size">21 KB</td>
+<td class="TablePager_col_img_user_text"><a href="/index.php?title=User:FnControlOption&amp;action=edit&amp;redlink=1" class="new" title="User:FnControlOption (page does not exist)">FnControlOption</a></td>
+<td class="TablePager_col_img_description"> </td>
+<td class="TablePager_col_count">1</td>
+</tr>
+<tr>
+<td class="TablePager_col_img_timestamp">22:23, 21 September 2020</td>
+<td class="TablePager_col_img_name"><a href="/File:Dry_Soil.png" title="File:Dry Soil.png">Dry Soil.png</a> (<a href="/images/9/93/Dry_Soil.png">file</a>)</td>
+<td class="TablePager_col_thumb"><a href="/File:Dry_Soil.png" class="image"><img alt="" src="/images/9/93/Dry_Soil.png" decoding="async" width="180" height="180" /></a></td>
+<td class="TablePager_col_img_size">18 KB</td>
+<td class="TablePager_col_img_user_text"><a href="/index.php?title=User:FnControlOption&amp;action=edit&amp;redlink=1" class="new" title="User:FnControlOption (page does not exist)">FnControlOption</a></td>
+<td class="TablePager_col_img_description"> </td>
+<td class="TablePager_col_count">2</td>
+</tr>
+<tr>
+<td class="TablePager_col_img_timestamp">22:23, 21 September 2020</td>
+<td class="TablePager_col_img_name"><a href="/File:Dry_Dirt.png" title="File:Dry Dirt.png">Dry Dirt.png</a> (<a href="/images/3/35/Dry_Dirt.png">file</a>)</td>
+<td class="TablePager_col_thumb"><a href="/File:Dry_Dirt.png" class="image"><img alt="" src="/images/3/35/Dry_Dirt.png" decoding="async" width="180" height="180" /></a></td>
+<td class="TablePager_col_img_size">15 KB</td>
+<td class="TablePager_col_img_user_text"><a href="/index.php?title=User:FnControlOption&amp;action=edit&amp;redlink=1" class="new" title="User:FnControlOption (page does not exist)">FnControlOption</a></td>
+<td class="TablePager_col_img_description"> </td>
+<td class="TablePager_col_count">1</td>
+</tr>
+<tr>
+<td class="TablePager_col_img_timestamp">19:18, 8 August 2020</td>
+<td class="TablePager_col_img_name"><a href="/File:CraftingAWoodenPickaxe.png" title="File:CraftingAWoodenPickaxe.png">CraftingAWoodenPickaxe.png</a> (<a href="/images/f/f7/CraftingAWoodenPickaxe.png">file</a>)</td>
+<td class="TablePager_col_thumb"><a href="/File:CraftingAWoodenPickaxe.png" class="image"><img alt="" src="/images/thumb/f/f7/CraftingAWoodenPickaxe.png/180px-CraftingAWoodenPickaxe.png" decoding="async" width="180" height="121" /></a></td>
+<td class="TablePager_col_img_size">252 KB</td>
+<td class="TablePager_col_img_user_text"><a href="/User:Chrysolite_Azalea" title="User:Chrysolite Azalea">Chrysolite Azalea</a></td>
+<td class="TablePager_col_img_description"> </td>
+<td class="TablePager_col_count">1</td>
+</tr>
+<tr>
+<td class="TablePager_col_img_timestamp">19:13, 8 August 2020</td>
+<td class="TablePager_col_img_name"><a href="/File:PlanksFromBushes.png" title="File:PlanksFromBushes.png">PlanksFromBushes.png</a> (<a href="/images/2/23/PlanksFromBushes.png">file</a>)</td>
+<td class="TablePager_col_thumb"><a href="/File:PlanksFromBushes.png" class="image"><img alt="" src="/images/thumb/2/23/PlanksFromBushes.png/180px-PlanksFromBushes.png" decoding="async" width="180" height="121" /></a></td>
+<td class="TablePager_col_img_size">251 KB</td>
+<td class="TablePager_col_img_user_text"><a href="/User:Chrysolite_Azalea" title="User:Chrysolite Azalea">Chrysolite Azalea</a></td>
+<td class="TablePager_col_img_description"> </td>
+<td class="TablePager_col_count">1</td>
+</tr>
+<tr>
+<td class="TablePager_col_img_timestamp">19:09, 8 August 2020</td>
+<td class="TablePager_col_img_name"><a href="/File:ThePineBush.png" title="File:ThePineBush.png">ThePineBush.png</a> (<a href="/images/f/fe/ThePineBush.png">file</a>)</td>
+<td class="TablePager_col_thumb"><a href="/File:ThePineBush.png" class="image"><img alt="" src="/images/thumb/f/fe/ThePineBush.png/180px-ThePineBush.png" decoding="async" width="180" height="121" /></a></td>
+<td class="TablePager_col_img_size">336 KB</td>
+<td class="TablePager_col_img_user_text"><a href="/User:Chrysolite_Azalea" title="User:Chrysolite Azalea">Chrysolite Azalea</a></td>
+<td class="TablePager_col_img_description"> </td>
+<td class="TablePager_col_count">1</td>
+</tr>
+<tr>
+<td class="TablePager_col_img_timestamp">19:05, 8 August 2020</td>
+<td class="TablePager_col_img_name"><a href="/File:GettingWood.png" title="File:GettingWood.png">GettingWood.png</a> (<a href="/images/9/91/GettingWood.png">file</a>)</td>
+<td class="TablePager_col_thumb"><a href="/File:GettingWood.png" class="image"><img alt="" src="/images/thumb/9/91/GettingWood.png/180px-GettingWood.png" decoding="async" width="180" height="121" /></a></td>
+<td class="TablePager_col_img_size">307 KB</td>
+<td class="TablePager_col_img_user_text"><a href="/User:Chrysolite_Azalea" title="User:Chrysolite Azalea">Chrysolite Azalea</a></td>
+<td class="TablePager_col_img_description"> </td>
+<td class="TablePager_col_count">1</td>
+</tr>
+<tr>
+<td class="TablePager_col_img_timestamp">18:51, 8 August 2020</td>
+<td class="TablePager_col_img_name"><a href="/File:StartingANewWorld.png" title="File:StartingANewWorld.png">StartingANewWorld.png</a> (<a href="/images/5/58/StartingANewWorld.png">file</a>)</td>
+<td class="TablePager_col_thumb"><a href="/File:StartingANewWorld.png" class="image"><img alt="" src="/images/thumb/5/58/StartingANewWorld.png/180px-StartingANewWorld.png" decoding="async" width="180" height="121" /></a></td>
+<td class="TablePager_col_img_size">445 KB</td>
+<td class="TablePager_col_img_user_text"><a href="/User:Chrysolite_Azalea" title="User:Chrysolite Azalea">Chrysolite Azalea</a></td>
+<td class="TablePager_col_img_description"> </td>
+<td class="TablePager_col_count">1</td>
+</tr>
+<tr>
+<td class="TablePager_col_img_timestamp">03:53, 11 July 2020</td>
+<td class="TablePager_col_img_name"><a href="/File:Development_Test.jpg" title="File:Development Test.jpg">Development Test.jpg</a> (<a href="/images/0/06/Development_Test.jpg">file</a>)</td>
+<td class="TablePager_col_thumb"><a href="/File:Development_Test.jpg" class="image"><img alt="" src="/images/thumb/0/06/Development_Test.jpg/180px-Development_Test.jpg" decoding="async" width="180" height="96" /></a></td>
+<td class="TablePager_col_img_size">118 KB</td>
+<td class="TablePager_col_img_user_text"><a href="/User:Wuzzy" title="User:Wuzzy">Wuzzy</a></td>
+<td class="TablePager_col_img_description">Screenshot of <a href="/Games/Development_Test" title="Games/Development Test">Development Test</a> in Minetest 5.3.0, mapgen v7.</td>
+<td class="TablePager_col_count">1</td>
+</tr>
+<tr>
+<td class="TablePager_col_img_timestamp">21:31, 9 July 2020</td>
+<td class="TablePager_col_img_name"><a href="/File:Dry_Shrub.png" title="File:Dry Shrub.png">Dry Shrub.png</a> (<a href="/images/f/fe/Dry_Shrub.png">file</a>)</td>
+<td class="TablePager_col_thumb"><a href="/File:Dry_Shrub.png" class="image"><img alt="" src="/images/f/fe/Dry_Shrub.png" decoding="async" width="180" height="180" /></a></td>
+<td class="TablePager_col_img_size">306 bytes</td>
+<td class="TablePager_col_img_user_text"><a href="/User:Wuzzy" title="User:Wuzzy">Wuzzy</a></td>
+<td class="TablePager_col_img_description">Version 5.3.0 update</td>
+<td class="TablePager_col_count">3</td>
+</tr>
+<tr>
+<td class="TablePager_col_img_timestamp">21:29, 9 July 2020</td>
+<td class="TablePager_col_img_name"><a href="/File:Brake_rail.png" title="File:Brake rail.png">Brake rail.png</a> (<a href="/images/e/ed/Brake_rail.png">file</a>)</td>
+<td class="TablePager_col_thumb"><a href="/File:Brake_rail.png" class="image"><img alt="" src="/images/e/ed/Brake_rail.png" decoding="async" width="180" height="180" /></a></td>
+<td class="TablePager_col_img_size">766 bytes</td>
+<td class="TablePager_col_img_user_text"><a href="/User:Wuzzy" title="User:Wuzzy">Wuzzy</a></td>
+<td class="TablePager_col_img_description">New texture in 5.3.0</td>
+<td class="TablePager_col_count">2</td>
+</tr>
+<tr>
+<td class="TablePager_col_img_timestamp">21:29, 9 July 2020</td>
+<td class="TablePager_col_img_name"><a href="/File:Brake_rail_crossing.png" title="File:Brake rail crossing.png">Brake rail crossing.png</a> (<a href="/images/d/d2/Brake_rail_crossing.png">file</a>)</td>
+<td class="TablePager_col_thumb"><a href="/File:Brake_rail_crossing.png" class="image"><img alt="" src="/images/d/d2/Brake_rail_crossing.png" decoding="async" width="180" height="180" /></a></td>
+<td class="TablePager_col_img_size">741 bytes</td>
+<td class="TablePager_col_img_user_text"><a href="/User:Wuzzy" title="User:Wuzzy">Wuzzy</a></td>
+<td class="TablePager_col_img_description">New texture in 5.3.0</td>
+<td class="TablePager_col_count">2</td>
+</tr>
+<tr>
+<td class="TablePager_col_img_timestamp">21:29, 9 July 2020</td>
+<td class="TablePager_col_img_name"><a href="/File:Brake_rail_T-junction.png" title="File:Brake rail T-junction.png">Brake rail T-junction.png</a> (<a href="/images/e/ee/Brake_rail_T-junction.png">file</a>)</td>
+<td class="TablePager_col_thumb"><a href="/File:Brake_rail_T-junction.png" class="image"><img alt="" src="/images/e/ee/Brake_rail_T-junction.png" decoding="async" width="180" height="180" /></a></td>
+<td class="TablePager_col_img_size">735 bytes</td>
+<td class="TablePager_col_img_user_text"><a href="/User:Wuzzy" title="User:Wuzzy">Wuzzy</a></td>
+<td class="TablePager_col_img_description">New texture in 5.3.0</td>
+<td class="TablePager_col_count">2</td>
+</tr>
+<tr>
+<td class="TablePager_col_img_timestamp">21:29, 9 July 2020</td>
+<td class="TablePager_col_img_name"><a href="/File:Brake_rail_curved.png" title="File:Brake rail curved.png">Brake rail curved.png</a> (<a href="/images/3/3e/Brake_rail_curved.png">file</a>)</td>
+<td class="TablePager_col_thumb"><a href="/File:Brake_rail_curved.png" class="image"><img alt="" src="/images/3/3e/Brake_rail_curved.png" decoding="async" width="180" height="180" /></a></td>
+<td class="TablePager_col_img_size">684 bytes</td>
+<td class="TablePager_col_img_user_text"><a href="/User:Wuzzy" title="User:Wuzzy">Wuzzy</a></td>
+<td class="TablePager_col_img_description">New texture in 5.3.0</td>
+<td class="TablePager_col_count">2</td>
+</tr>
+<tr>
+<td class="TablePager_col_img_timestamp">14:09, 27 June 2020</td>
+<td class="TablePager_col_img_name"><a href="/File:Ignore_icon.png" title="File:Ignore icon.png">Ignore icon.png</a> (<a href="/images/9/94/Ignore_icon.png">file</a>)</td>
+<td class="TablePager_col_thumb"><a href="/File:Ignore_icon.png" class="image"><img alt="" src="/images/9/94/Ignore_icon.png" decoding="async" width="180" height="180" /></a></td>
+<td class="TablePager_col_img_size">527 bytes</td>
+<td class="TablePager_col_img_user_text"><a href="/User:Wuzzy" title="User:Wuzzy">Wuzzy</a></td>
+<td class="TablePager_col_img_description">Inventory icon of <a href="/Ignore" title="Ignore">Ignore</a></td>
+<td class="TablePager_col_count">1</td>
+</tr>
+<tr>
+<td class="TablePager_col_img_timestamp">14:09, 27 June 2020</td>
+<td class="TablePager_col_img_name"><a href="/File:Air_icon.png" title="File:Air icon.png">Air icon.png</a> (<a href="/images/5/57/Air_icon.png">file</a>)</td>
+<td class="TablePager_col_thumb"><a href="/File:Air_icon.png" class="image"><img alt="" src="/images/5/57/Air_icon.png" decoding="async" width="180" height="180" /></a></td>
+<td class="TablePager_col_img_size">577 bytes</td>
+<td class="TablePager_col_img_user_text"><a href="/User:Wuzzy" title="User:Wuzzy">Wuzzy</a></td>
+<td class="TablePager_col_img_description">Inventory icon of <a href="/Air" title="Air">Air</a></td>
+<td class="TablePager_col_count">1</td>
+</tr>
+<tr>
+<td class="TablePager_col_img_timestamp">01:01, 14 June 2020</td>
+<td class="TablePager_col_img_name"><a href="/File:Wild_Cotton.png" title="File:Wild Cotton.png">Wild Cotton.png</a> (<a href="/images/7/7a/Wild_Cotton.png">file</a>)</td>
+<td class="TablePager_col_thumb"><a href="/File:Wild_Cotton.png" class="image"><img alt="" src="/images/7/7a/Wild_Cotton.png" decoding="async" width="180" height="180" /></a></td>
+<td class="TablePager_col_img_size">435 bytes</td>
+<td class="TablePager_col_img_user_text"><a href="/User:Wuzzy" title="User:Wuzzy">Wuzzy</a></td>
+<td class="TablePager_col_img_description"><a href="/Wild_Cotton" title="Wild Cotton">Wild Cotton</a></td>
+<td class="TablePager_col_count">1</td>
+</tr>
+<tr>
+<td class="TablePager_col_img_timestamp">20:21, 13 April 2020</td>
+<td class="TablePager_col_img_name"><a href="/File:Modsonservers.png" title="File:Modsonservers.png">Modsonservers.png</a> (<a href="/images/0/02/Modsonservers.png">file</a>)</td>
+<td class="TablePager_col_thumb"><a href="/File:Modsonservers.png" class="image"><img alt="" src="/images/thumb/0/02/Modsonservers.png/180px-Modsonservers.png" decoding="async" width="180" height="81" /></a></td>
+<td class="TablePager_col_img_size">13 KB</td>
+<td class="TablePager_col_img_user_text"><a href="/User:Sfan5" title="User:Sfan5">Sfan5</a></td>
+<td class="TablePager_col_img_description">updated</td>
+<td class="TablePager_col_count">12</td>
+</tr>
+<tr>
+<td class="TablePager_col_img_timestamp">15:27, 2 January 2020</td>
+<td class="TablePager_col_img_name"><a href="/File:Biomes_v6_2.png" title="File:Biomes v6 2.png">Biomes v6 2.png</a> (<a href="/images/b/b7/Biomes_v6_2.png">file</a>)</td>
+<td class="TablePager_col_thumb"><a href="/File:Biomes_v6_2.png" class="image"><img alt="" src="/images/thumb/b/b7/Biomes_v6_2.png/180px-Biomes_v6_2.png" decoding="async" width="180" height="180" /></a></td>
+<td class="TablePager_col_img_size">14 KB</td>
+<td class="TablePager_col_img_user_text"><a href="/User:Wuzzy" title="User:Wuzzy">Wuzzy</a></td>
+<td class="TablePager_col_img_description">Mention mgv6_freq_desert</td>
+<td class="TablePager_col_count">2</td>
+</tr>
+<tr>
+<td class="TablePager_col_img_timestamp">01:25, 27 November 2019</td>
+<td class="TablePager_col_img_name"><a href="/File:Tutorial_texture_pack_location_.PNG" title="File:Tutorial texture pack location .PNG">Tutorial texture pack location .PNG</a> (<a href="/images/d/d3/Tutorial_texture_pack_location_.PNG">file</a>)</td>
+<td class="TablePager_col_thumb"><a href="/File:Tutorial_texture_pack_location_.PNG" class="image"><img alt="" src="/images/thumb/d/d3/Tutorial_texture_pack_location_.PNG/180px-Tutorial_texture_pack_location_.PNG" decoding="async" width="180" height="88" /></a></td>
+<td class="TablePager_col_img_size">6 KB</td>
+<td class="TablePager_col_img_user_text"><a href="/User:Sirrobzeroone" title="User:Sirrobzeroone">Sirrobzeroone</a></td>
+<td class="TablePager_col_img_description">CC0</td>
+<td class="TablePager_col_count">1</td>
+</tr>
+<tr>
+<td class="TablePager_col_img_timestamp">15:30, 14 October 2019</td>
+<td class="TablePager_col_img_name"><a href="/File:Steel_Bar_Door.png" title="File:Steel Bar Door.png">Steel Bar Door.png</a> (<a href="/images/0/06/Steel_Bar_Door.png">file</a>)</td>
+<td class="TablePager_col_thumb"><a href="/File:Steel_Bar_Door.png" class="image"><img alt="" src="/images/0/06/Steel_Bar_Door.png" decoding="async" width="180" height="180" /></a></td>
+<td class="TablePager_col_img_size">560 bytes</td>
+<td class="TablePager_col_img_user_text"><a href="/User:Wuzzy" title="User:Wuzzy">Wuzzy</a></td>
+<td class="TablePager_col_img_description"> </td>
+<td class="TablePager_col_count">1</td>
+</tr>
+<tr>
+<td class="TablePager_col_img_timestamp">15:30, 14 October 2019</td>
+<td class="TablePager_col_img_name"><a href="/File:Steel_Bar_Trapdoor.png" title="File:Steel Bar Trapdoor.png">Steel Bar Trapdoor.png</a> (<a href="/images/c/c6/Steel_Bar_Trapdoor.png">file</a>)</td>
+<td class="TablePager_col_thumb"><a href="/File:Steel_Bar_Trapdoor.png" class="image"><img alt="" src="/images/c/c6/Steel_Bar_Trapdoor.png" decoding="async" width="180" height="180" /></a></td>
+<td class="TablePager_col_img_size">404 bytes</td>
+<td class="TablePager_col_img_user_text"><a href="/User:Wuzzy" title="User:Wuzzy">Wuzzy</a></td>
+<td class="TablePager_col_img_description"> </td>
+<td class="TablePager_col_count">1</td>
+</tr>
+<tr>
+<td class="TablePager_col_img_timestamp">12:26, 27 September 2019</td>
+<td class="TablePager_col_img_name"><a href="/File:Minetest_Mods_and_Games_by_Wuzzy_2012_2019.png" title="File:Minetest Mods and Games by Wuzzy 2012 2019.png">Minetest Mods and Games by Wuzzy 2012 2019.png</a> (<a href="/images/6/6c/Minetest_Mods_and_Games_by_Wuzzy_2012_2019.png">file</a>)</td>
+<td class="TablePager_col_thumb"><a href="/File:Minetest_Mods_and_Games_by_Wuzzy_2012_2019.png" class="image"><img alt="" src="/images/thumb/6/6c/Minetest_Mods_and_Games_by_Wuzzy_2012_2019.png/180px-Minetest_Mods_and_Games_by_Wuzzy_2012_2019.png" decoding="async" width="180" height="107" /></a></td>
+<td class="TablePager_col_img_size">1,009 KB</td>
+<td class="TablePager_col_img_user_text"><a href="/User:Wuzzy" title="User:Wuzzy">Wuzzy</a></td>
+<td class="TablePager_col_img_description">Larger image</td>
+<td class="TablePager_col_count">2</td>
+</tr>
+<tr>
+<td class="TablePager_col_img_timestamp">22:32, 20 September 2019</td>
+<td class="TablePager_col_img_name"><a href="/File:Texture_block_128.png" title="File:Texture block 128.png">Texture block 128.png</a> (<a href="/images/5/5b/Texture_block_128.png">file</a>)</td>
+<td class="TablePager_col_thumb"><a href="/File:Texture_block_128.png" class="image"><img alt="" src="/images/thumb/5/5b/Texture_block_128.png/180px-Texture_block_128.png" decoding="async" width="180" height="115" /></a></td>
+<td class="TablePager_col_img_size">332 KB</td>
+<td class="TablePager_col_img_user_text"><a href="/User:Sirrobzeroone" title="User:Sirrobzeroone">Sirrobzeroone</a></td>
+<td class="TablePager_col_img_description">cc0</td>
+<td class="TablePager_col_count">1</td>
+</tr>
+<tr>
+<td class="TablePager_col_img_timestamp">22:31, 20 September 2019</td>
+<td class="TablePager_col_img_name"><a href="/File:Texture_block_32_64.png" title="File:Texture block 32 64.png">Texture block 32 64.png</a> (<a href="/images/7/71/Texture_block_32_64.png">file</a>)</td>
+<td class="TablePager_col_thumb"><a href="/File:Texture_block_32_64.png" class="image"><img alt="" src="/images/thumb/7/71/Texture_block_32_64.png/180px-Texture_block_32_64.png" decoding="async" width="180" height="115" /></a></td>
+<td class="TablePager_col_img_size">270 KB</td>
+<td class="TablePager_col_img_user_text"><a href="/User:Sirrobzeroone" title="User:Sirrobzeroone">Sirrobzeroone</a></td>
+<td class="TablePager_col_img_description">cc0</td>
+<td class="TablePager_col_count">1</td>
+</tr>
+<tr>
+<td class="TablePager_col_img_timestamp">22:29, 20 September 2019</td>
+<td class="TablePager_col_img_name"><a href="/File:Texture_block_16.png" title="File:Texture block 16.png">Texture block 16.png</a> (<a href="/images/2/20/Texture_block_16.png">file</a>)</td>
+<td class="TablePager_col_thumb"><a href="/File:Texture_block_16.png" class="image"><img alt="" src="/images/thumb/2/20/Texture_block_16.png/180px-Texture_block_16.png" decoding="async" width="180" height="115" /></a></td>
+<td class="TablePager_col_img_size">179 KB</td>
+<td class="TablePager_col_img_user_text"><a href="/User:Sirrobzeroone" title="User:Sirrobzeroone">Sirrobzeroone</a></td>
+<td class="TablePager_col_img_description">cc0</td>
+<td class="TablePager_col_count">1</td>
+</tr>
+</tbody></table>
+<span aria-disabled='false' class='TablePager_nav listfiles_nav oo-ui-widget oo-ui-widget-enabled oo-ui-buttonGroupWidget'><span aria-disabled='true' class='TablePager-button-first oo-ui-widget oo-ui-widget-disabled oo-ui-buttonElement oo-ui-buttonElement-frameless oo-ui-iconElement oo-ui-labelElement oo-ui-flaggedElement-progressive oo-ui-buttonWidget'><a role='button' tabindex='-1' aria-disabled='true' rel='nofollow' class='oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-icon-first'></span><span class='oo-ui-labelElement-label'>First page</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator'></span></a></span><span aria-disabled='true' class='TablePager-button-prev oo-ui-widget oo-ui-widget-disabled oo-ui-buttonElement oo-ui-buttonElement-frameless oo-ui-iconElement oo-ui-labelElement oo-ui-flaggedElement-progressive oo-ui-buttonWidget'><a role='button' tabindex='-1' aria-disabled='true' rel='nofollow' class='oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-icon-previous'></span><span class='oo-ui-labelElement-label'>Previous page</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator'></span></a></span><span aria-disabled='false' class='TablePager-button-next oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-frameless oo-ui-iconElement oo-ui-labelElement oo-ui-flaggedElement-progressive oo-ui-buttonWidget'><a role='button' tabindex='0' aria-disabled='false' href='/index.php?title=Special:ListFiles&amp;offset=20190920222900%7CTexture_block_16.png' rel='nofollow' class='oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-icon-next oo-ui-image-progressive'></span><span class='oo-ui-labelElement-label'>Next page</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-progressive'></span></a></span><span aria-disabled='false' class='TablePager-button-last oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-frameless oo-ui-iconElement oo-ui-labelElement oo-ui-flaggedElement-progressive oo-ui-buttonWidget'><a role='button' tabindex='0' aria-disabled='false' href='/index.php?title=Special:ListFiles&amp;dir=prev' rel='nofollow' class='oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-icon-last oo-ui-image-progressive'></span><span class='oo-ui-labelElement-label'>Last page</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-progressive'></span></a></span></span></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/Special:ListFiles">http://wiki.minetest.net/Special:ListFiles</a>"</div>
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Special%3AListFiles" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-special" class="selected"><a href="/Special:ListFiles" title="This is a special page, and it cannot be edited">Special page</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu-empty emptyPortlet vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":797});});</script></body></html>

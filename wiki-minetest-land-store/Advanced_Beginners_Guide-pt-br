@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8"/>
 <title>Advanced Beginners Guide/pt-br - Minetest Wiki</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"acac7366ede443a9675f6da0","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Advanced_Beginners_Guide/pt-br","wgTitle":"Advanced Beginners Guide/pt-br","wgCurRevisionId":27678,"wgRevisionId":27678,"wgArticleId":1898,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages","Languages pages without translations","Tutorials"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Advanced_Beginners_Guide/pt-br","wgRelevantArticleId":1898,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"1aecb00832d84074da518c9e","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Advanced_Beginners_Guide/pt-br","wgTitle":"Advanced Beginners Guide/pt-br","wgCurRevisionId":27678,"wgRevisionId":27678,"wgArticleId":1898,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages","Languages pages without translations","Tutorials"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Advanced_Beginners_Guide/pt-br","wgRelevantArticleId":1898,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,
 "wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
@@ -98,7 +98,7 @@
 <li>screenH = 768 – Altura da janela do jogo.</li>
 <li>wanted_fps = 30 - A quantidade de elementos renderizados é dinamicamente definida de acordo com isso.</li></ul>
 <h2><span class="mw-headline" id="Mods">Mods</span></h2>
-<p><a href="/Mods/pt-br" title="Mods/pt-br">Mods</a> (abreviatura de modificações ou módulos) são modificações criadas por usuários para o jogo de tal forma que altera a jogabilidade. Veja a página de <a href="/Mods/pt-br" title="Mods/pt-br">Mods</a> para informações detalhadas e <a href="/Installing_Mods/pt-br" title="Installing Mods/pt-br">como instalar</a> mods. 
+<p><a href="/index.php?title=Mods/pt-br&amp;action=edit&amp;redlink=1" class="new" title="Mods/pt-br (page does not exist)">Mods</a> (abreviatura de modificações ou módulos) são modificações criadas por usuários para o jogo de tal forma que altera a jogabilidade. Veja a página de <a href="/index.php?title=Mods/pt-br&amp;action=edit&amp;redlink=1" class="new" title="Mods/pt-br (page does not exist)">Mods</a> para informações detalhadas e <a href="/Installing_Mods/pt-br" title="Installing Mods/pt-br">como instalar</a> mods. 
 </p>
 <h3><span class="mw-headline" id="Servidores">Servidores</span></h3>
 <p>Uma ótima maneira de experimentar mods sem instalá-los é <a href="/Server#Playing_on_a_server" title="Server">jogando em um servidor</a>. Os servidores de Minetest permitem que os jogadores joguem online com outras pessoas. Você não tem controle sobre quais mods estão instalados nos servidores, então você deve encontrar um servidor que tenha os mods que você gosta. Consulte a página <a href="/Server" title="Server">servidores</a> para obter mais informações.
@@ -108,12 +108,12 @@
 </p>
 <!-- 
 NewPP limit report
-Cached time: 20230709090343
+Cached time: 20230925140446
 Cache expiry: 86400
 Dynamic content: false
 Complications: []
-CPU time usage: 0.182 seconds
-Real time usage: 0.377 seconds
+CPU time usage: 0.177 seconds
+Real time usage: 0.473 seconds
 Preprocessor visited node count: 90/1000000
 Post‐expand include size: 1243/2097152 bytes
 Template argument size: 161/2097152 bytes
@@ -121,17 +121,17 @@ Highest expansion depth: 5/40
 Expensive parser function count: 14/100
 Unstrip recursion depth: 0/20
 Unstrip post‐expand size: 0/5000000 bytes
-Lua time usage: 0.130/7 seconds
+Lua time usage: 0.120/7 seconds
 Lua virtual size: 5.54 MB/50 MB
 Lua estimated memory usage: 0 bytes
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  302.429      1 Template:Languages
-100.00%  302.429      1 -total
+100.00%  379.679      1 Template:Languages
+100.00%  379.679      1 -total
 -->
 
-<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:1898-0!canonical and timestamp 20230709090342 and revision id 27678
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:1898-0!canonical and timestamp 20230925140445 and revision id 27678
  -->
 </div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Advanced_Beginners_Guide/pt-br&amp;oldid=27678">http://wiki.minetest.net/index.php?title=Advanced_Beginners_Guide/pt-br&amp;oldid=27678</a>"</div>
 		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li><li><a href="/Category:Languages_pages_without_translations" title="Category:Languages pages without translations">Languages pages without translations</a></li><li><a href="/Category:Tutorials" title="Category:Tutorials">Tutorials</a></li></ul></div></div>
@@ -296,4 +296,4 @@ Transclusion expansion time report (%,ms,calls,template)
 
 
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.182","walltime":"0.377","ppvisitednodes":{"value":90,"limit":1000000},"postexpandincludesize":{"value":1243,"limit":2097152},"templateargumentsize":{"value":161,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":14,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  302.429      1 Template:Languages","100.00%  302.429      1 -total"]},"scribunto":{"limitreport-timeusage":{"value":"0.130","limit":"7"},"limitreport-virtmemusage":{"value":5808128,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709090343","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":252});});</script></body></html>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.177","walltime":"0.473","ppvisitednodes":{"value":90,"limit":1000000},"postexpandincludesize":{"value":1243,"limit":2097152},"templateargumentsize":{"value":161,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":14,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  379.679      1 Template:Languages","100.00%  379.679      1 -total"]},"scribunto":{"limitreport-timeusage":{"value":"0.120","limit":"7"},"limitreport-virtmemusage":{"value":5812224,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230925140446","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":976});});</script></body></html>

@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8"/>
 <title>Apple/fr - Minetest Wiki</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"888b7b8d9b1c391f651d00ff","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Apple/fr","wgTitle":"Apple/fr","wgCurRevisionId":6277,"wgRevisionId":6277,"wgArticleId":941,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages","Food","Organic items","Organic blocks","Flammable","Passable","French"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Apple/fr","wgRelevantArticleId":941,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE=
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"59f91323eb632267130260fb","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Apple/fr","wgTitle":"Apple/fr","wgCurRevisionId":6277,"wgRevisionId":6277,"wgArticleId":941,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages","Food","Organic items","Organic blocks","Flammable","Passable","French"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Apple/fr","wgRelevantArticleId":941,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE=
 {"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","skins.vector.legacy.js"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
@@ -106,12 +106,12 @@
 </p>
 <!-- 
 NewPP limit report
-Cached time: 20230709172406
+Cached time: 20230925140513
 Cache expiry: 86400
 Dynamic content: false
 Complications: []
-CPU time usage: 0.253 seconds
-Real time usage: 0.545 seconds
+CPU time usage: 0.254 seconds
+Real time usage: 1.009 seconds
 Preprocessor visited node count: 122/1000000
 Post‐expand include size: 3262/2097152 bytes
 Template argument size: 326/2097152 bytes
@@ -120,18 +120,18 @@ Expensive parser function count: 14/100
 Unstrip recursion depth: 0/20
 Unstrip post‐expand size: 0/5000000 bytes
 Lua time usage: 0.170/7 seconds
-Lua virtual size: 5.93 MB/50 MB
+Lua virtual size: 5.94 MB/50 MB
 Lua estimated memory usage: 0 bytes
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  471.051      1 -total
- 64.98%  306.081      1 Template:Languages
- 26.14%  123.131      1 Template:Block_Data
-  8.72%   41.081      1 Template:Heart
+100.00%  932.546      1 -total
+ 64.92%  605.447      1 Template:Languages
+ 28.83%  268.827      1 Template:Block_Data
+  6.17%   57.501      1 Template:Heart
 -->
 
-<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:941-0!canonical and timestamp 20230709172406 and revision id 6277
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:941-0!canonical and timestamp 20230925140512 and revision id 6277
  -->
 </div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Apple/fr&amp;oldid=6277">http://wiki.minetest.net/index.php?title=Apple/fr&amp;oldid=6277</a>"</div>
 		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li><li><a href="/Category:Food" title="Category:Food">Food</a></li><li><a href="/Category:Organic_items" title="Category:Organic items">Organic items</a></li><li><a href="/Category:Organic_blocks" title="Category:Organic blocks">Organic blocks</a></li><li><a href="/Category:Flammable" title="Category:Flammable">Flammable</a></li><li><a href="/Category:Passable" title="Category:Passable">Passable</a></li><li><a href="/Category:French" title="Category:French">French</a></li></ul></div></div>
@@ -296,4 +296,4 @@ Transclusion expansion time report (%,ms,calls,template)
 
 
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.253","walltime":"0.545","ppvisitednodes":{"value":122,"limit":1000000},"postexpandincludesize":{"value":3262,"limit":2097152},"templateargumentsize":{"value":326,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":14,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  471.051      1 -total"," 64.98%  306.081      1 Template:Languages"," 26.14%  123.131      1 Template:Block_Data","  8.72%   41.081      1 Template:Heart"]},"scribunto":{"limitreport-timeusage":{"value":"0.170","limit":"7"},"limitreport-virtmemusage":{"value":6221824,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709172406","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":901});});</script></body></html>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.254","walltime":"1.009","ppvisitednodes":{"value":122,"limit":1000000},"postexpandincludesize":{"value":3262,"limit":2097152},"templateargumentsize":{"value":326,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":14,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  932.546      1 -total"," 64.92%  605.447      1 Template:Languages"," 28.83%  268.827      1 Template:Block_Data","  6.17%   57.501      1 Template:Heart"]},"scribunto":{"limitreport-timeusage":{"value":"0.170","limit":"7"},"limitreport-virtmemusage":{"value":6230016,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230925140513","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":1669});});</script></body></html>

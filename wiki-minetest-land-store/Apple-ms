@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8"/>
 <title>Apple/ms - Minetest Wiki</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"4bbf0d9d9f290e6517013f77","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Apple/ms","wgTitle":"Apple/ms","wgCurRevisionId":17626,"wgRevisionId":17626,"wgArticleId":3299,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages","Renewable","Food","Organic items","Organic blocks","Flammable","Passable","Malay"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Apple/ms","wgRelevantArticleId":3299,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"2b475dde62ed282ce52f9471","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Apple/ms","wgTitle":"Apple/ms","wgCurRevisionId":17626,"wgRevisionId":17626,"wgArticleId":3299,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages","Renewable","Food","Organic items","Organic blocks","Flammable","Passable","Malay"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Apple/ms","wgRelevantArticleId":3299,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],
 "wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","skins.vector.legacy.js"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
@@ -51,7 +51,7 @@
 <th colspan="2"><div class="center"><a href="/File:Apple.png" class="image"><img alt="Apple.png" src="/images/thumb/7/7d/Apple.png/150px-Apple.png" decoding="async" width="150" height="150" srcset="/images/7/7d/Apple.png 1.5x" /></a></div>
 </th></tr>
 <tr>
-<th colspan="2" align="center">Sebuah <a href="/Blocks/ms" class="mw-redirect" title="Blocks/ms">blok</a> dalam <a href="/Games/Minetest_Game/ms" title="Games/Minetest Game/ms">Minetest Game</a>
+<th colspan="2" align="center">Sebuah <a href="/index.php?title=Blocks/ms&amp;action=edit&amp;redlink=1" class="new" title="Blocks/ms (page does not exist)">blok</a> dalam <a href="/Games/Minetest_Game/ms" title="Games/Minetest Game/ms">Minetest Game</a>
 </th></tr>
 <tr>
 <td><b>Jenis</b>
@@ -103,12 +103,12 @@
 </p>
 <!-- 
 NewPP limit report
-Cached time: 20230709172409
+Cached time: 20230925140516
 Cache expiry: 86400
 Dynamic content: false
 Complications: []
-CPU time usage: 0.250 seconds
-Real time usage: 0.541 seconds
+CPU time usage: 0.249 seconds
+Real time usage: 1.006 seconds
 Preprocessor visited node count: 119/1000000
 Post‐expand include size: 3415/2097152 bytes
 Template argument size: 324/2097152 bytes
@@ -122,13 +122,13 @@ Lua estimated memory usage: 0 bytes
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  472.005      1 -total
- 64.09%  302.501      1 Template:Languages
- 26.08%  123.103      1 Template:Block_Data/ms
-  9.67%   45.656      1 Template:Heart
+100.00%  923.358      1 -total
+ 77.30%  713.777      1 Template:Languages
+ 17.44%  160.999      1 Template:Block_Data/ms
+  5.19%   47.903      1 Template:Heart
 -->
 
-<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:3299-0!canonical and timestamp 20230709172409 and revision id 17626
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:3299-0!canonical and timestamp 20230925140515 and revision id 17626
  -->
 </div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Apple/ms&amp;oldid=17626">http://wiki.minetest.net/index.php?title=Apple/ms&amp;oldid=17626</a>"</div>
 		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li><li><a href="/Category:Renewable" title="Category:Renewable">Renewable</a></li><li><a href="/Category:Food" title="Category:Food">Food</a></li><li><a href="/Category:Organic_items" title="Category:Organic items">Organic items</a></li><li><a href="/Category:Organic_blocks" title="Category:Organic blocks">Organic blocks</a></li><li><a href="/Category:Flammable" title="Category:Flammable">Flammable</a></li><li><a href="/Category:Passable" title="Category:Passable">Passable</a></li><li><a href="/Category:Malay" title="Category:Malay">Malay</a></li></ul></div></div>
@@ -293,4 +293,4 @@ Transclusion expansion time report (%,ms,calls,template)
 
 
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.250","walltime":"0.541","ppvisitednodes":{"value":119,"limit":1000000},"postexpandincludesize":{"value":3415,"limit":2097152},"templateargumentsize":{"value":324,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":14,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  472.005      1 -total"," 64.09%  302.501      1 Template:Languages"," 26.08%  123.103      1 Template:Block_Data/ms","  9.67%   45.656      1 Template:Heart"]},"scribunto":{"limitreport-timeusage":{"value":"0.170","limit":"7"},"limitreport-virtmemusage":{"value":6225920,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709172409","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":897});});</script></body></html>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.249","walltime":"1.006","ppvisitednodes":{"value":119,"limit":1000000},"postexpandincludesize":{"value":3415,"limit":2097152},"templateargumentsize":{"value":324,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":14,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  923.358      1 -total"," 77.30%  713.777      1 Template:Languages"," 17.44%  160.999      1 Template:Block_Data/ms","  5.19%   47.903      1 Template:Heart"]},"scribunto":{"limitreport-timeusage":{"value":"0.170","limit":"7"},"limitreport-virtmemusage":{"value":6230016,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230925140516","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":1653});});</script></body></html>

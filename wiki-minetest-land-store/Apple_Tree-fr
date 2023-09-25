@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8"/>
 <title>Apple Tree/fr - Minetest Wiki</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"8f90732155e091b1c9e971eb","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Apple_Tree/fr","wgTitle":"Apple Tree/fr","wgCurRevisionId":25760,"wgRevisionId":25760,"wgArticleId":4694,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Incomplete translated pages","French","Languages pages"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Apple_Tree/fr","wgRelevantArticleId":4694,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles"
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"cf1b3c559cdf18bc3feb549e","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Apple_Tree/fr","wgTitle":"Apple Tree/fr","wgCurRevisionId":25760,"wgRevisionId":25760,"wgArticleId":4694,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Incomplete translated pages","French","Languages pages"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Apple_Tree/fr","wgRelevantArticleId":4694,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles"
 :"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","jquery.tablesorter.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","skins.vector.legacy.js"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
@@ -168,12 +168,12 @@ Vous pouvez aider à la finir si vous le souhaitez.</td>
 <li><a href="/Pine_Tree/fr" title="Pine Tree/fr">Sapin</a></li></ul>
 <!-- 
 NewPP limit report
-Cached time: 20230708193316
+Cached time: 20230925063615
 Cache expiry: 86400
 Dynamic content: false
 Complications: []
-CPU time usage: 0.308 seconds
-Real time usage: 0.626 seconds
+CPU time usage: 0.303 seconds
+Real time usage: 0.743 seconds
 Preprocessor visited node count: 250/1000000
 Post‐expand include size: 8961/2097152 bytes
 Template argument size: 350/2097152 bytes
@@ -182,21 +182,21 @@ Expensive parser function count: 14/100
 Unstrip recursion depth: 0/20
 Unstrip post‐expand size: 0/5000000 bytes
 Lua time usage: 0.200/7 seconds
-Lua virtual size: 5.95 MB/50 MB
+Lua virtual size: 5.94 MB/50 MB
 Lua estimated memory usage: 0 bytes
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  526.727      1 -total
- 57.01%  300.272      1 Template:Languages
- 23.27%  122.583      1 Template:Block_Data
- 14.61%   76.935      1 Template:Grid/Craft
- 10.96%   57.720     10 Template:Grid
-  4.90%   25.821      1 Template:Incomplete_translation/fr
-  2.81%   14.775      1 Template:Mbox
+100.00%  636.754      1 -total
+ 56.50%  359.755      1 Template:Languages
+ 26.27%  167.299      1 Template:Block_Data
+ 12.34%   78.586      1 Template:Grid/Craft
+  9.35%   59.510     10 Template:Grid
+  4.72%   30.035      1 Template:Incomplete_translation/fr
+  2.63%   16.774      1 Template:Mbox
 -->
 
-<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:4694-0!canonical and timestamp 20230708193316 and revision id 25760
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:4694-0!canonical and timestamp 20230925063615 and revision id 25760
  -->
 </div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Apple_Tree/fr&amp;oldid=25760">http://wiki.minetest.net/index.php?title=Apple_Tree/fr&amp;oldid=25760</a>"</div>
 		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Incomplete_translated_pages" title="Category:Incomplete translated pages">Incomplete translated pages</a></li><li><a href="/Category:French" title="Category:French">French</a></li><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li></ul></div></div>
@@ -361,4 +361,4 @@ Transclusion expansion time report (%,ms,calls,template)
 
 
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.308","walltime":"0.626","ppvisitednodes":{"value":250,"limit":1000000},"postexpandincludesize":{"value":8961,"limit":2097152},"templateargumentsize":{"value":350,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":14,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  526.727      1 -total"," 57.01%  300.272      1 Template:Languages"," 23.27%  122.583      1 Template:Block_Data"," 14.61%   76.935      1 Template:Grid/Craft"," 10.96%   57.720     10 Template:Grid","  4.90%   25.821      1 Template:Incomplete_translation/fr","  2.81%   14.775      1 Template:Mbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.200","limit":"7"},"limitreport-virtmemusage":{"value":6234112,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230708193316","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":279});});</script></body></html>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.303","walltime":"0.743","ppvisitednodes":{"value":250,"limit":1000000},"postexpandincludesize":{"value":8961,"limit":2097152},"templateargumentsize":{"value":350,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":14,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  636.754      1 -total"," 56.50%  359.755      1 Template:Languages"," 26.27%  167.299      1 Template:Block_Data"," 12.34%   78.586      1 Template:Grid/Craft","  9.35%   59.510     10 Template:Grid","  4.72%   30.035      1 Template:Incomplete_translation/fr","  2.63%   16.774      1 Template:Mbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.200","limit":"7"},"limitreport-virtmemusage":{"value":6230016,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230925063615","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":838});});</script></body></html>

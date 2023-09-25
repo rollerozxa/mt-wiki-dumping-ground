@@ -1,0 +1,833 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>User:Twoelk/sandbox1 - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"217926290940ab393c44e2fb","wgCSPNonce":!1,"wgCanonicalNamespace":"User","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":2,"wgPageName":"User:Twoelk/sandbox1","wgTitle":"Twoelk/sandbox1","wgCurRevisionId":22165,"wgRevisionId":22165,"wgArticleId":695,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["User pages"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"User:Twoelk/sandbox1","wgRelevantArticleId":695,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRelevantUserName":"Twoelk","wgRedirectedFrom":
+"Twoelk/sandbox1","wgInternalRedirectTargetUrl":"/User:Twoelk/sandbox1"};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","jquery.tablesorter.styles":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=jquery.tablesorter.styles%7Cmediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<link rel="canonical" href="http://wiki.minetest.net/User:Twoelk/sandbox1"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-2 ns-subject page-User_Twoelk_sandbox1 rootpage-User_Twoelk skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">User:Twoelk/sandbox1</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/User:Twoelk" title="User:Twoelk">User:Twoelk</a></span><span class="mw-redirectedfrom">(Redirected from <a href="/index.php?title=Twoelk/sandbox1&amp;redirect=no" class="mw-redirect" title="Twoelk/sandbox1">Twoelk/sandbox1</a>)</span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>This shall be my sandbox
+</p><p>folder structure playtree
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Folder_structure_examples"><span class="tocnumber">1</span> <span class="toctext">Folder structure examples</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Details_of_file_structures_within_a_mod"><span class="tocnumber">1.1</span> <span class="toctext">Details of file structures within a mod</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Details_of_file_structures_within_a_game"><span class="tocnumber">1.2</span> <span class="toctext">Details of file structures within a game</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Details_of_file_structures_within_a_world"><span class="tocnumber">1.3</span> <span class="toctext">Details of file structures within a world</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Folder_structure_according_to_CMakeLists.txt"><span class="tocnumber">2</span> <span class="toctext">Folder structure according to CMakeLists.txt</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Category_tree_.28as_of_early_2014.29"><span class="tocnumber">3</span> <span class="toctext">Category tree (as of early 2014)</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Alphabet_Blocks"><span class="tocnumber">4</span> <span class="toctext">Alphabet Blocks</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#for_Apple"><span class="tocnumber">5</span> <span class="toctext">for Apple</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Links_to_archived_old_Minetest_related_sites_and_files"><span class="tocnumber">6</span> <span class="toctext">Links to archived old Minetest related sites and files</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Notes"><span class="tocnumber">7</span> <span class="toctext">Notes</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Folder_structure_examples">Folder structure examples</span></h2>
+<p>based on the run-in-place builts for Windows
+</p><p><br />
+</p>
+<ul><li>File structure as installed by minetest-0.4.9-65d1cb8 compiled by sfan5 (2014-03-30)</li></ul>
+<pre>minetest/
+├── bin/
+├── builtin/
+├── client/
+│   ├── serverlist/
+│   └── shaders/
+│       ├── alpha_shader/
+│       ├── leaves_shader/
+│       ├── liquids_shader/
+│       ├── plants_shader/
+│       └── solids_shader/
+├── doc/
+├── fonts/
+├── games/
+│   ├── minetest_game/
+│   └── minimal/
+├── locale/ 
+│   └── (lots of language folders)
+├── mods/ 
+├── testsounds/
+└── textures/
+    └── base/
+        └── pack/
+</pre>
+<p><br />
+</p>
+<ul><li>File structure with the folders Minetest adds after some usage as client and server, as well as the positions (...) that costum made content goes.</li></ul>
+<pre>minetest/
+├── bin/
+├── builtin/
+├── cache/
+│   ├── media/
+│   └── tmp/
+├── client/
+│   ├── serverlist/
+│   └── shaders/
+│       ├── alpha_shader/
+│       ├── leaves_shader/
+│       ├── liquids_shader/
+│       ├── plants_shader/
+│       └── solids_shader/
+├── doc/
+├── fonts/
+├── games/
+│   ├── minetest_game/
+│   ├── minimal/
+│   └── ... (installed extra games)
+├── locale/ (lots of language folders)
+├── mods/
+│   └── ... (installed extra mods and modpacks)
+├── testsounds/ (soundpack folder)
+├── textures/
+│   ├── base/
+│   │   └── pack/
+│   └── ... (installed extra texturepacks)
+└── worlds/
+    └── ... (saved worlds. Some with exclusive world mods)
+</pre>
+<p><br />
+</p>
+<ul><li>Folder structure with extra folders for screenshots and minetest-mapper</li></ul>
+<pre>minetest/
+├── bin/
+├── builtin/
+├── cache/
+│   ├── media/
+│   └── tmp/
+├── client/
+│   ├── serverlist/
+│   └── shaders/
+│       ├── alpha_shader/
+│       ├── leaves_shader/
+│       ├── liquids_shader/
+│       ├── plants_shader/
+│       └── solids_shader/
+├── doc/
+├── fonts/
+├── games/
+│   ├── minetest_game/
+│   ├── minimal/
+│   └── ... (installed extra games)
+├── locale/ (lots of language folders)
+├── mods/
+│   └── ... (installed extra mods and modpacks)
+├── screenshots/
+├── testsounds/ (soundpack folder)
+├── textures/
+│   ├── base/
+│   │   └── pack/
+│   └── ... (installed extra texturepacks)
+├── util/
+│   └── mapper/
+└── worlds/
+    └── ... (saved worlds. Some with exclusive world mods)
+</pre>
+<h3><span class="mw-headline" id="Details_of_file_structures_within_a_mod">Details of file structures within a mod</span></h3>
+<p>In this example the mods "carts" and "tnt" are installed:
+</p>
+<pre>    mods/
+    ├── carts/
+    │   ├── depends.txt
+    │   ├── init.lua
+    │   ├── functions.lua
+    │   ├── README.txt
+    │   ├── textures/
+    │   │   ├── carts_top.png
+    │   │   └── ...
+    │   └── models/
+    │       ├── cart.x
+    │       └── ...
+    ├── tnt/
+    │   ├── init.lua
+    │   ├── depends.txt
+    │   ├── README.txt
+    │   ├── textures/
+    │   │   ├── tnt_side.png
+    │   │   └── ...
+    │   └── sounds/
+    │       ├── tnt_explode.ogg
+    │       └── ...
+    └── modname/
+        ├── bower.json (used by the Minetest-Bower project)
+        ├── init.lua
+        ├── depends.txt
+        ├── description.txt 
+        ├── mod.conf
+        ├── README.txt or README.md
+        ├── screenshot.png
+        ├── textures/
+        │   ├── modname_stuff.png
+        │   ├── modname_something_else.png
+        │   └── ...
+        ├── sounds/
+        │   ├── some_sound.ogg
+        │   └── ...
+        ├── media/
+        │   ├── some_media
+        │   └── ...
+        ├── models/
+        │   ├── some_model.x
+        │   └── ...
+        └── &lt;custom data&gt;/
+            ├── some_data
+            └── ...
+</pre>
+<h3><span class="mw-headline" id="Details_of_file_structures_within_a_game">Details of file structures within a game</span></h3>
+<p>This example has the default games "minetest_game" and "minimal" installed and shows a possible structure of an own game in "my_game":
+</p>
+<pre>    games/
+    ├── minetest_game/
+    │   ├── game.conf
+    │   ├── README.txt
+    │   ├── menu/
+    │   │   ├── header.png
+    │   │   └── icon.png
+    │   └── mods/
+    │       ├── some mod
+    │       ├── some other mod 
+    │       └── ...
+    ├── minimal/
+    │   ├── game.conf
+    │   ├── menu/
+    │   │   ├── background.png
+    │   │   ├── icon.png
+    │   │   └── ...
+    │   └── mods/
+    │       ├── some mod
+    │       ├── some other mod
+    │       └── ...
+    ├── my_game/
+    │   ├── game.conf
+    │   ├── minetest.conf
+    │   ├── README.txt
+    │   ├── license.txt
+    │   ├── menu/
+    │   │   ├── background.png
+    │   │   ├── footer.png
+    │   │   ├── header.png
+    │   │   ├── icon.png
+    │   │   ├── overlay.png
+    │   │   └── ...
+    │   └── mods/
+    │       ├── license.txt
+    │       ├── some mod
+    │       ├── some other mod
+    │       └── ...
+    └── some more games
+</pre>
+<p><br />
+</p>
+<h3><span class="mw-headline" id="Details_of_file_structures_within_a_world">Details of file structures within a world</span></h3>
+<p>This commented example shows the location and structure of a world called "someworld":
+</p>
+<pre>    minetest/
+    ├── bin/ (contains the executable program file)
+    ├── builtin/
+    ├── cache/
+    ├── client/
+    ├── doc/
+    ├── fonts/
+    ├── games/  (collection of mods tweacked or designed to work well together)
+    │   ├── minetest_game/
+    │   ├── minimal/
+    │   └── … (installed extra games)
+    ├── locale/ (language files)
+    ├── mods/
+    │   └── … (installed extra mods and modpacks)
+    ├── textures/
+    │   ├── base/
+    │   │   └── pack/
+    │   └── … (installed extra texturepacks)
+    │
+    ├── worlds/   (this folder will be created when the first local/singleplayer world is created
+    │   ├── someworld  (the name given to the world by the user when it is created)
+    │   │   ├── players/     (ingame data for each player)
+    │   │   ├── worldmods/   (create this folder for world exclusive mods)
+    │   │   ├── auth.txt     (player login data)
+    │   │   ├── env_meta.txt (contains mostly time related information)
+    │   │   ├── map.sqlite   (database containing the map. The name may differ depending on backend used)
+    │   │   ├── map_meta.txt (defines which mapgen is used and how)
+    │   │   └── world.mt     (should at least contain the subgame-id without which the world 
+    │   │                     will not show up in the singleplayer tab)
+    │   └── … (more saved worlds. Some with exclusive world mods)
+    ├── minetest.conf   (will be created with first start of Minetest)
+    └── minetest.conf.example   (a list of all possible settings)
+</pre>
+<h2><span class="mw-headline" id="Folder_structure_according_to_CMakeLists.txt">Folder structure according to CMakeLists.txt</span></h2>
+<p>based on the building scripts in <a rel="nofollow" class="external text" href="https://github.com/minetest/minetest/blob/c39e46c00d41c534eb33e608e2536edde9212876/CMakeLists.txt">CMakeLists.txt on github</a>
+</p>
+<table class="wikitable sortable">
+<tbody><tr>
+<th><b>DirVariable</b>
+</th>
+<th><b>WIN32</b>
+</th>
+<th><b>APPLE</b>
+</th>
+<th><b>UNIX/Linux/BSD  RUN_IN_PLACE</b>
+</th>
+<th><b>UNIX/Linux/BSD</b>
+</th>
+<th><b>Description</b>
+</th></tr>
+<tr>
+<td>SHAREDIR</td>
+<td><b>.</b></td>
+<td>${CMAKE_INSTALL_PREFIX}/share/${PROJECT_NAME}</td>
+<td><b>.</b></td>
+<td>${CMAKE_INSTALL_PREFIX}/share/${PROJECT_NAME}</td>
+<td>Directory to install data files into
+</td></tr>
+<tr>
+<td>BINDIR</td>
+<td>bin</td>
+<td>bin</td>
+<td>bin</td>
+<td>${CMAKE_INSTALL_PREFIX}/bin</td>
+<td>Directory to install binaries into
+</td></tr>
+<tr>
+<td>DOCDIR</td>
+<td>doc</td>
+<td>share/doc/${PROJECT_NAME}</td>
+<td>doc</td>
+<td>${CMAKE_INSTALL_PREFIX}/share/doc/${PROJECT_NAME}</td>
+<td>Directory to install documentation into
+</td></tr>
+<tr>
+<td>EXAMPLE_CONF_DIR</td>
+<td><b>.</b></td>
+<td>${DOCDIR}</td>
+<td><b>.</b></td>
+<td>${DOCDIR}</td>
+<td>Directory to install example config file into
+</td></tr>
+<tr>
+<td>MANDIR</td>
+<td></td>
+<td></td>
+<td>unix/man</td>
+<td>${CMAKE_INSTALL_PREFIX}/share/man</td>
+<td>Directory to install manpages into
+</td></tr>
+<tr>
+<td>XDG_APPS_DIR</td>
+<td></td>
+<td></td>
+<td>unix/applications</td>
+<td>${CMAKE_INSTALL_PREFIX}/share/applications</td>
+<td>Directory to install .desktop files into
+</td></tr>
+<tr>
+<td>APPDATADIR</td>
+<td></td>
+<td></td>
+<td></td>
+<td>${CMAKE_INSTALL_PREFIX}/share/appdata</td>
+<td>
+</td></tr>
+<tr>
+<td>ICONDIR</td>
+<td></td>
+<td></td>
+<td>unix/icons</td>
+<td>${CMAKE_INSTALL_PREFIX}/share/icons</td>
+<td>Directory to install icons into
+</td></tr>
+<tr>
+<td>LOCALEDIR</td>
+<td>locale</td>
+<td>locale</td>
+<td>locale</td>
+<td>${CMAKE_INSTALL_PREFIX}/share/${PROJECT_NAME}/locale</td>
+<td>Directory to install l10n files into
+</td></tr></tbody></table>
+<p><br />
+</p>
+<h2><span id="Category_tree_(as_of_early_2014)"></span><span class="mw-headline" id="Category_tree_.28as_of_early_2014.29">Category tree (as of early 2014)</span></h2>
+<ul><li><a href="/Category:Minetest_(Root_Category)" title="Category:Minetest (Root Category)">Category:Minetest (Root Category)</a>
+<ul><li><a href="/Category:Game_Content" title="Category:Game Content">Category:Game Content</a>
+<ul><li><a href="/index.php?title=Category:Blocks&amp;action=edit&amp;redlink=1" class="new" title="Category:Blocks (page does not exist)">Category:Blocks</a>
+<ul><li><a href="/Category:Blocks_by_appearance" title="Category:Blocks by appearance">Category:Blocks by appearance</a>
+<ul><li><a href="/Category:Blocks_generated_on_special_events" title="Category:Blocks generated on special events">Category:Blocks generated on special events</a></li>
+<li><a href="/Category:Generated_blocks" title="Category:Generated blocks">Category:Generated blocks</a>
+<ul><li><a href="/Category:Ores" title="Category:Ores">Category:Ores</a></li></ul></li>
+<li><a href="/Category:Manufactured_blocks" title="Category:Manufactured blocks">Category:Manufactured blocks</a></li>
+<li><a href="/Category:Unused_blocks" title="Category:Unused blocks">Category:Unused blocks</a></li></ul></li>
+<li><a href="/Category:Blocks_by_function" title="Category:Blocks by function">Category:Blocks by function</a>
+<ul><li><a href="/Category:Usable_blocks" title="Category:Usable blocks">Category:Usable blocks</a></li></ul></li>
+<li><a href="/Category:Blocks_by_group" title="Category:Blocks by group">Category:Blocks by group</a>
+<ul><li><a href="/Category:Flammable" title="Category:Flammable">Category:Flammable</a></li>
+<li><a href="/Category:Flora" title="Category:Flora">Category:Flora</a></li>
+<li><a href="/Category:Leaves" title="Category:Leaves">Category:Leaves</a></li>
+<li><a href="/Category:Sand" title="Category:Sand">Category:Sand</a></li>
+<li><a href="/Category:Stone" title="Category:Stone">Category:Stone</a></li>
+<li><a href="/Category:Wheat" title="Category:Wheat">Category:Wheat</a></li>
+<li><a href="/Category:Wood" title="Category:Wood">Category:Wood</a></li></ul></li>
+<li><a href="/Category:Blocks_by_material" title="Category:Blocks by material">Category:Blocks by material</a>
+<ul><li><a href="/Category:Ores" title="Category:Ores">Category:Ores</a></li>
+<li><a href="/Category:Organic_blocks" title="Category:Organic blocks">Category:Organic blocks</a></li></ul></li>
+<li><a href="/Category:Blocks_by_property" title="Category:Blocks by property">Category:Blocks by property</a>
+<ul><li><a href="/Category:Blocks_with_an_inventory" title="Category:Blocks with an inventory">Category:Blocks with an inventory</a></li>
+<li><a href="/Category:Cultivatable_blocks" title="Category:Cultivatable blocks">Category:Cultivatable blocks</a></li>
+<li><a href="/Category:Damaging" title="Category:Damaging">Category:Damaging</a></li>
+<li><a href="/Category:Falling" title="Category:Falling">Category:Falling</a></li>
+<li><a href="/Category:Flammable" title="Category:Flammable">Category:Flammable</a></li>
+<li><a href="/Category:Luminous" title="Category:Luminous">Category:Luminous</a></li>
+<li><a href="/Category:Passable" title="Category:Passable">Category:Passable</a></li>
+<li><a href="/Category:Placeable" title="Category:Placeable">Category:Placeable</a></li></ul></li>
+<li><a href="/Category:Blocks_by_state_of_matter" title="Category:Blocks by state of matter">Category:Blocks by state of matter</a>
+<ul><li><a href="/Category:Gas" title="Category:Gas">Category:Gas</a></li>
+<li><a href="/Category:Liquid" title="Category:Liquid">Category:Liquid</a></li>
+<li><a href="/Category:Solid" title="Category:Solid">Category:Solid</a></li></ul></li></ul></li>
+<li><a href="/Category:Items" title="Category:Items">Category:Items</a>
+<ul><li><a href="/Category:Craftitems" title="Category:Craftitems">Category:Craftitems</a></li>
+<li><a href="/Category:Decorational_items" title="Category:Decorational items">Category:Decorational items</a></li>
+<li><a href="/Category:Food" title="Category:Food">Category:Food</a></li>
+<li><a href="/Category:Groups" title="Category:Groups">Category:Groups</a>
+<ul><li><a href="/Category:Flammable" title="Category:Flammable">Category:Flammable</a></li>
+<li><a href="/Category:Flora" title="Category:Flora">Category:Flora</a></li>
+<li><a href="/Category:Leaves" title="Category:Leaves">Category:Leaves</a></li>
+<li><a href="/Category:Sand" title="Category:Sand">Category:Sand</a></li>
+<li><a href="/Category:Stone" title="Category:Stone">Category:Stone</a></li>
+<li><a href="/Category:Wheat" title="Category:Wheat">Category:Wheat</a></li>
+<li><a href="/Category:Wood" title="Category:Wood">Category:Wood</a></li></ul></li>
+<li><a href="/Category:Organic_items" title="Category:Organic items">Category:Organic items</a>
+<ul><li><a href="/Category:Seed" title="Category:Seed">Category:Seed</a></li></ul></li>
+<li><a href="/Category:Raw_Materials" title="Category:Raw Materials">Category:Raw Materials</a></li>
+<li><a href="/Category:Tools" title="Category:Tools">Category:Tools</a>
+<ul><li><a href="/Category:Mining_tools" title="Category:Mining tools">Category:Mining tools</a></li>
+<li><a href="/Category:Weapons" title="Category:Weapons">Category:Weapons</a></li></ul></li></ul></li>
+<li><a href="/Category:Plants" title="Category:Plants">Category:Plants</a></li></ul></li>
+<li><a href="/Category:Gameplay" title="Category:Gameplay">Category:Gameplay</a>
+<ul><li><a href="/index.php?title=Category:Commands&amp;action=edit&amp;redlink=1" class="new" title="Category:Commands (page does not exist)">Category:Commands</a></li>
+<li><a href="/Category:GUI" title="Category:GUI">Category:GUI</a></li>
+<li><a href="/Category:Mods" title="Category:Mods">Category:Mods</a>
+<ul><li><a href="/index.php?title=Category:Mobs&amp;action=edit&amp;redlink=1" class="new" title="Category:Mobs (page does not exist)">Category:Mobs</a></li></ul></li>
+<li><a href="/Category:Tutorials" title="Category:Tutorials">Category:Tutorials</a></li></ul></li>
+<li><a href="/Category:Games" title="Category:Games">Category:Games</a></li>
+<li><a href="/Category:Map" title="Category:Map">Category:Map</a></li>
+<li><a href="/Category:Mods" title="Category:Mods">Category:Mods</a>
+<ul><li><a href="/index.php?title=Category:Mobs&amp;action=edit&amp;redlink=1" class="new" title="Category:Mobs (page does not exist)">Category:Mobs</a></li></ul></li>
+<li><a href="/Category:People" title="Category:People">Category:People</a></li>
+<li><a href="/Category:Pictures" title="Category:Pictures">Category:Pictures</a>
+<ul><li><a href="/Category:Animated_Picture" title="Category:Animated Picture">Category:Animated Picture</a></li>
+<li><a href="/Category:Bronze" title="Category:Bronze">Category:Bronze</a></li>
+<li><a href="/Category:Bucket" title="Category:Bucket">Category:Bucket</a></li>
+<li><a href="/Category:Copper" title="Category:Copper">Category:Copper</a></li>
+<li><a href="/Category:Diamond" title="Category:Diamond">Category:Diamond</a></li>
+<li><a href="/Category:Dyes" title="Category:Dyes">Category:Dyes</a></li>
+<li><a href="/Category:Flowers" title="Category:Flowers">Category:Flowers</a></li>
+<li><a href="/Category:Gold" title="Category:Gold">Category:Gold</a></li>
+<li><a href="/Category:GUI_Picture" title="Category:GUI Picture">Category:GUI Picture</a></li>
+<li><a href="/Category:Ingot" title="Category:Ingot">Category:Ingot</a></li>
+<li><a href="/Category:Iron" title="Category:Iron">Category:Iron</a></li>
+<li><a href="/Category:Isometric_Picture" title="Category:Isometric Picture">Category:Isometric Picture</a></li>
+<li><a href="/Category:Mese" title="Category:Mese">Category:Mese</a></li>
+<li><a href="/Category:Mob_Picture" title="Category:Mob Picture">Category:Mob Picture</a></li>
+<li><a href="/Category:Plants" title="Category:Plants">Category:Plants</a></li>
+<li><a href="/Category:Rails" title="Category:Rails">Category:Rails</a></li>
+<li><a href="/Category:Screenshot" title="Category:Screenshot">Category:Screenshot</a></li>
+<li><a href="/Category:Steel" title="Category:Steel">Category:Steel</a></li></ul></li>
+<li><a href="/Category:Related_software" title="Category:Related software">Category:Related software</a></li>
+<li><a href="/Category:Server" title="Category:Server">Category:Server</a></li>
+<li><a href="/Category:Special_Categories" title="Category:Special Categories">Category:Special Categories</a>
+<ul><li><a href="/Category:Pages_with_broken_file_links" title="Category:Pages with broken file links">Category:Pages with broken file links</a></li>
+<li><a href="/Category:Templates" title="Category:Templates">Category:Templates</a></li>
+<li><a href="/Category:User_pages" title="Category:User pages">Category:User pages</a></li></ul></li>
+<li><a href="/Category:Tutorials" title="Category:Tutorials">Category:Tutorials</a></li></ul></li></ul>
+<p><br />
+</p>
+<h2><span class="mw-headline" id="Alphabet_Blocks">Alphabet Blocks</span></h2>
+<ul><li>Alphabet <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?id=2312">(alphabet)</a> by cactuz_pl</li>
+<li>Glowing letters A-Z + 0-9 <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?id=3260">(neon)</a> by webdesigner97</li>
+<li>minetest-teaching  <a rel="nofollow" class="external text" href="https://github.com/sfan5/minetest-teaching">(teaching)</a> by sfan5</li>
+<li>Learn how to read  <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?id=4237">(phonics)</a> by Neuromancer</li>
+<li>Letters <a rel="nofollow" class="external text" href="https://github.com/Amaz1/letters">(letters)</a> by Amaz1</li>
+<li>Abjphabet <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=11&amp;t=11744">(abjphabet)</a> by ABJ, integrated into <a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=9&amp;t=11890">Awesomepack</a></li></ul>
+<p><br />
+</p>
+<h2><span class="mw-headline" id="for_Apple">for Apple</span></h2>
+<ul><li>~/Library/Application Support/minetest/mods/</li>
+<li>~/Library/Application Support/minetest/games/</li>
+<li>~/Library/Application Support/minetest/worlds/</li></ul>
+<p><a rel="nofollow" class="external text" href="https://forum.minetest.net/viewtopic.php?f=42&amp;t=9190">source</a>
+</p>
+<h2><span class="mw-headline" id="Links_to_archived_old_Minetest_related_sites_and_files">Links to archived old Minetest related sites and files</span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://packages.8dromeda.net/minetest/">Minetest Archives</a>
+<ul><li><a rel="nofollow" class="external text" href="http://packages.8dromeda.net/minetest/websites/minetest-bak-2011-02-14/index.php.html">Website, as of February 14, 2011</a></li>
+<li><a rel="nofollow" class="external text" href="http://packages.8dromeda.net/minetest/websites/minetest_oldsite/index.php.html">Website, in-development version  0.4.</a></li>
+<li><a rel="nofollow" class="external text" href="http://packages.8dromeda.net/minetest/websites/minetest2/index.php.html">Website, as of 2012-03 or after v.0.4.4</a></li>
+<li><a rel="nofollow" class="external text" href="http://packages.8dromeda.net/minetest/minetest_old_releases_2010_through_2012_mostly_win32/">old releases of Minetest, 2010 through 2012, mostly for Windows 32bit</a></li></ul></li></ul>
+<table class="wikitable">
+<tbody><tr>
+<th><b>name</b>
+</th>
+<th><b>stable version</b>
+</th>
+<th><b>mapversion</b>
+</th>
+<th><b>release</b>
+</th></tr>
+	
+<tr>
+<td>Minetest-c55</td>
+<td>0.1.0</td>
+<td>-</td>
+<td>-
+</td></tr>
+<tr>
+<td>-</td>
+<td>0.2.0</td>
+<td>sqlite</td>
+<td>22.09.2011
+</td></tr>
+<tr>
+<td>-</td>
+<td>0.3.0</td>
+<td>17</td>
+<td>01.11.2011
+</td></tr>
+<tr>
+<td>-</td>
+<td>0.3.1</td>
+<td>17+</td>
+<td>09.11.2011
+</td></tr>
+<tr>
+<td>-</td>
+<td>0.4.0</td>
+<td>23</td>
+<td>-
+</td></tr>
+<tr>
+<td>Minetest-c55</td>
+<td>0.4.4</td>
+<td>23</td>
+<td>04.12.2012
+</td></tr>
+<tr>
+<td>Minetest-c55</td>
+<td>0.4.4-d1</td>
+<td>24</td>
+<td>02.01.2013
+</td></tr>
+<tr>
+<td>Minetest</td>
+<td>0.4.5</td>
+<td></td>
+<td>03.04.2013
+</td></tr>
+<tr>
+<td>Minetest</td>
+<td>0.4.6</td>
+<td>-</td>
+<td>03.04.2013
+</td></tr>
+<tr>
+<td>Minetest</td>
+<td>0.4.7</td>
+<td>-</td>
+<td>06.06.2013
+</td></tr>
+<tr>
+<td>Minetest</td>
+<td>0.4.8</td>
+<td>-</td>
+<td>24.11.2013
+</td></tr>
+<tr>
+<td>Minetest</td>
+<td>0.4.9</td>
+<td>-</td>
+<td>01.01.2014
+</td></tr>
+<tr>
+<td>Minetest</td>
+<td>0.4.10</td>
+<td>-</td>
+<td>06.07.2014
+</td></tr>
+<tr>
+<td>Minetest</td>
+<td>0.4.11</td>
+<td>24</td>
+<td>24.12.2014
+</td></tr>
+<tr>
+<td>Minetest</td>
+<td>0.4.12</td>
+<td>24</td>
+<td>18.02.2015
+</td></tr>
+<tr>
+<td>Minetest</td>
+<td>0.4.13</td>
+<td>25</td>
+<td>20.08.2015
+</td></tr>
+<tr>
+<td>Minetest</td>
+<td>0.4.14</td>
+<td>-</td>
+<td>15.05.2016
+</td></tr>
+<tr>
+<td>Minetest</td>
+<td>0.4.15</td>
+<td>-</td>
+<td>22.12.2016
+</td></tr>
+<tr>
+<td>Minetest</td>
+<td>0.4.16</td>
+<td>27</td>
+<td>03.06.2017
+</td></tr>
+<tr>
+<td>Minetest</td>
+<td>0.4.17</td>
+<td>-</td>
+<td>03.06.2018
+</td></tr>
+<tr>
+<td>Minetest</td>
+<td>0.4.17.1</td>
+<td>-</td>
+<td>10.06.2018
+</td></tr>
+<tr>
+<td>Minetest</td>
+<td>5.0.0</td>
+<td>-</td>
+<td>2019
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Notes">Notes</span></h2>
+<p>limit to the number of nodes types loaded = 32766 (as said on <a rel="nofollow" class="external text" href="http://irc.minetest.ru/minetest/2014-06-16#i_3765667">irc</a> )
+</p>
+<pre>&lt;categorytree&gt;Blocks&lt;/categorytree&gt;
+</pre>
+<!-- 
+NewPP limit report
+Cached time: 20230827131908
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.163 seconds
+Real time usage: 0.295 seconds
+Preprocessor visited node count: 151/1000000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 6823/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    0.000      1 -total
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:695-0!canonical and timestamp 20230827131908 and revision id 22165
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=User:Twoelk/sandbox1&amp;oldid=22165">http://wiki.minetest.net/index.php?title=User:Twoelk/sandbox1&amp;oldid=22165</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/Category:User_pages" title="Category:User pages">User pages</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=User%3ATwoelk%2Fsandbox1" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-user" class="selected"><a href="/User:Twoelk/sandbox1" title="View the user page [c]" accesskey="c">User page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=User_talk:Twoelk/sandbox1&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/User:Twoelk/sandbox1">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=User:Twoelk/sandbox1&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=User:Twoelk/sandbox1&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/User:Twoelk/sandbox1" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/User:Twoelk/sandbox1" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-contributions"><a href="/Special:Contributions/Twoelk" title="A list of contributions by this user">User contributions</a></li><li id="t-log"><a href="/Special:Log/Twoelk">Logs</a></li><li id="t-userrights"><a href="/Special:UserRights/Twoelk">View user groups</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=User:Twoelk/sandbox1&amp;oldid=22165" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=User:Twoelk/sandbox1&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 22 February 2019, at 14:12.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.163","walltime":"0.295","ppvisitednodes":{"value":151,"limit":1000000},"postexpandincludesize":{"value":0,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":6823,"limit":5000000},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20230827131908","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":884});});</script></body></html>

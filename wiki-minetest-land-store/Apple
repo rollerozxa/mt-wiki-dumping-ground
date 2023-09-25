@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8"/>
 <title>Apple - Minetest Wiki</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"f59231e85be0a68bbcd8e697","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Apple","wgTitle":"Apple","wgCurRevisionId":24398,"wgRevisionId":24398,"wgArticleId":128,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages","Renewable","Food","Organic items","Organic blocks","Flammable","Passable"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Apple","wgRelevantArticleId":128,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"ba4df3774fea5ed15adab21d","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Apple","wgTitle":"Apple","wgCurRevisionId":24398,"wgRevisionId":24398,"wgArticleId":128,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages","Renewable","Food","Organic items","Organic blocks","Flammable","Passable"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Apple","wgRelevantArticleId":128,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={
 "site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","skins.vector.legacy.js"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
@@ -145,12 +145,12 @@
 </td></tr></tbody></table>
 <!-- 
 NewPP limit report
-Cached time: 20230709172232
+Cached time: 20230925122719
 Cache expiry: 86400
 Dynamic content: false
 Complications: []
-CPU time usage: 0.862 seconds
-Real time usage: 1.305 seconds
+CPU time usage: 0.886 seconds
+Real time usage: 1.487 seconds
 Preprocessor visited node count: 1808/1000000
 Post‐expand include size: 27059/2097152 bytes
 Template argument size: 6667/2097152 bytes
@@ -158,22 +158,22 @@ Highest expansion depth: 7/40
 Expensive parser function count: 15/100
 Unstrip recursion depth: 0/20
 Unstrip post‐expand size: 0/5000000 bytes
-Lua time usage: 0.150/7 seconds
-Lua virtual size: 5.95 MB/50 MB
+Lua time usage: 0.170/7 seconds
+Lua virtual size: 5.94 MB/50 MB
 Lua estimated memory usage: 0 bytes
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  579.381      1 -total
- 47.17%  273.318      1 Template:Languages
- 24.72%  143.250      1 Games/Minetest_Game/Items/navbox
- 20.87%  120.940      1 Template:Block_Data
- 17.25%   99.936     63 Template:Iconlink
- 13.80%   79.947     70 Template:Nowrap
-  7.05%   40.826      1 Template:Heart
+100.00%  722.233      1 -total
+ 51.73%  373.625      1 Template:Languages
+ 22.87%  165.139      1 Games/Minetest_Game/Items/navbox
+ 19.49%  140.769      1 Template:Block_Data
+ 15.92%  114.966     63 Template:Iconlink
+ 12.43%   89.773     70 Template:Nowrap
+  5.69%   41.088      1 Template:Heart
 -->
 
-<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:128-0!canonical and timestamp 20230709172230 and revision id 24398
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:128-0!canonical and timestamp 20230925122718 and revision id 24398
  -->
 </div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Apple&amp;oldid=24398">http://wiki.minetest.net/index.php?title=Apple&amp;oldid=24398</a>"</div>
 		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li><li><a href="/Category:Renewable" title="Category:Renewable">Renewable</a></li><li><a href="/Category:Food" title="Category:Food">Food</a></li><li><a href="/Category:Organic_items" title="Category:Organic items">Organic items</a></li><li><a href="/Category:Organic_blocks" title="Category:Organic blocks">Organic blocks</a></li><li><a href="/Category:Flammable" title="Category:Flammable">Flammable</a></li><li><a href="/Category:Passable" title="Category:Passable">Passable</a></li></ul></div></div>
@@ -338,4 +338,4 @@ Transclusion expansion time report (%,ms,calls,template)
 
 
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.862","walltime":"1.305","ppvisitednodes":{"value":1808,"limit":1000000},"postexpandincludesize":{"value":27059,"limit":2097152},"templateargumentsize":{"value":6667,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":15,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  579.381      1 -total"," 47.17%  273.318      1 Template:Languages"," 24.72%  143.250      1 Games/Minetest_Game/Items/navbox"," 20.87%  120.940      1 Template:Block_Data"," 17.25%   99.936     63 Template:Iconlink"," 13.80%   79.947     70 Template:Nowrap","  7.05%   40.826      1 Template:Heart"]},"scribunto":{"limitreport-timeusage":{"value":"0.150","limit":"7"},"limitreport-virtmemusage":{"value":6234112,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709172232","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":1669});});</script></body></html>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.886","walltime":"1.487","ppvisitednodes":{"value":1808,"limit":1000000},"postexpandincludesize":{"value":27059,"limit":2097152},"templateargumentsize":{"value":6667,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":15,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  722.233      1 -total"," 51.73%  373.625      1 Template:Languages"," 22.87%  165.139      1 Games/Minetest_Game/Items/navbox"," 19.49%  140.769      1 Template:Block_Data"," 15.92%  114.966     63 Template:Iconlink"," 12.43%   89.773     70 Template:Nowrap","  5.69%   41.088      1 Template:Heart"]},"scribunto":{"limitreport-timeusage":{"value":"0.170","limit":"7"},"limitreport-virtmemusage":{"value":6230016,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230925122719","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":270});});</script></body></html>

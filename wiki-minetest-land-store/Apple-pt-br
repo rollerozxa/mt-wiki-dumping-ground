@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8"/>
 <title>Apple/pt-br - Minetest Wiki</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"e90a832b7a7b0823ccea6ec2","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Apple/pt-br","wgTitle":"Apple/pt-br","wgCurRevisionId":13131,"wgRevisionId":13131,"wgArticleId":2944,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages","Languages pages without translations","Food","Organic items","Organic blocks","Flammable","Passable"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Apple/pt-br","wgRelevantArticleId":2944,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"8f13405ddefbb2cb7d422305","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Apple/pt-br","wgTitle":"Apple/pt-br","wgCurRevisionId":13131,"wgRevisionId":13131,"wgArticleId":2944,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages","Languages pages without translations","Food","Organic items","Organic blocks","Flammable","Passable"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Apple/pt-br","wgRelevantArticleId":2944,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,
 "wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","skins.vector.legacy.js"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
@@ -105,12 +105,12 @@
 </p>
 <!-- 
 NewPP limit report
-Cached time: 20230709172412
+Cached time: 20230925041214
 Cache expiry: 86400
 Dynamic content: false
 Complications: []
-CPU time usage: 0.245 seconds
-Real time usage: 0.527 seconds
+CPU time usage: 0.258 seconds
+Real time usage: 0.699 seconds
 Preprocessor visited node count: 113/1000000
 Post‐expand include size: 2917/2097152 bytes
 Template argument size: 170/2097152 bytes
@@ -119,18 +119,18 @@ Expensive parser function count: 15/100
 Unstrip recursion depth: 0/20
 Unstrip post‐expand size: 0/5000000 bytes
 Lua time usage: 0.180/7 seconds
-Lua virtual size: 5.93 MB/50 MB
+Lua virtual size: 5.94 MB/50 MB
 Lua estimated memory usage: 0 bytes
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  465.868      1 -total
- 64.66%  301.209      1 Template:Languages
- 26.55%  123.671      1 Template:Block_Data
-  8.64%   40.268      1 Template:Heart
+100.00%  535.738      1 -total
+ 59.31%  317.746      1 Template:Languages
+ 23.99%  128.548      1 Template:Block_Data
+ 16.57%   88.750      1 Template:Heart
 -->
 
-<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:2944-0!canonical and timestamp 20230709172412 and revision id 13131
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:2944-0!canonical and timestamp 20230925041213 and revision id 13131
  -->
 </div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Apple/pt-br&amp;oldid=13131">http://wiki.minetest.net/index.php?title=Apple/pt-br&amp;oldid=13131</a>"</div>
 		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li><li><a href="/Category:Languages_pages_without_translations" title="Category:Languages pages without translations">Languages pages without translations</a></li><li><a href="/Category:Food" title="Category:Food">Food</a></li><li><a href="/Category:Organic_items" title="Category:Organic items">Organic items</a></li><li><a href="/Category:Organic_blocks" title="Category:Organic blocks">Organic blocks</a></li><li><a href="/Category:Flammable" title="Category:Flammable">Flammable</a></li><li><a href="/Category:Passable" title="Category:Passable">Passable</a></li></ul></div></div>
@@ -295,4 +295,4 @@ Transclusion expansion time report (%,ms,calls,template)
 
 
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.245","walltime":"0.527","ppvisitednodes":{"value":113,"limit":1000000},"postexpandincludesize":{"value":2917,"limit":2097152},"templateargumentsize":{"value":170,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":15,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  465.868      1 -total"," 64.66%  301.209      1 Template:Languages"," 26.55%  123.671      1 Template:Block_Data","  8.64%   40.268      1 Template:Heart"]},"scribunto":{"limitreport-timeusage":{"value":"0.180","limit":"7"},"limitreport-virtmemusage":{"value":6213632,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709172412","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":887});});</script></body></html>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.258","walltime":"0.699","ppvisitednodes":{"value":113,"limit":1000000},"postexpandincludesize":{"value":2917,"limit":2097152},"templateargumentsize":{"value":170,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":15,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  535.738      1 -total"," 59.31%  317.746      1 Template:Languages"," 23.99%  128.548      1 Template:Block_Data"," 16.57%   88.750      1 Template:Heart"]},"scribunto":{"limitreport-timeusage":{"value":"0.180","limit":"7"},"limitreport-virtmemusage":{"value":6225920,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230925041214","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":603});});</script></body></html>

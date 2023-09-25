@@ -1,0 +1,725 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Slab - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"c3ab00346fcfdddc115ff01b","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Slab","wgTitle":"Slab","wgCurRevisionId":22317,"wgRevisionId":22317,"wgArticleId":288,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages","Renewable","Manufactured blocks"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Slab","wgRelevantArticleId":288,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Wooden_slab",
+"wgInternalRedirectTargetUrl":"/Slab"};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","jquery.tablesorter.styles":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=jquery.tablesorter.styles%7Cmediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<link rel="canonical" href="http://wiki.minetest.net/Slab"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Slab rootpage-Slab skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Slab</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="mw-redirectedfrom">(Redirected from <a href="/index.php?title=Wooden_slab&amp;redirect=no" class="mw-redirect" title="Wooden slab">Wooden slab</a>)</span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> Language:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><b><a class="mw-selflink selflink">English</a></b>&#160;• <bdi lang="de"><a href="/Slab/de" title="Slab/de">Deutsch</a></bdi>&#160;• <bdi lang="fr"><a href="/Slab/fr" title="Slab/fr">français</a></bdi></td>
+</tr></tbody></table>
+<table class="wikitable" width="200px" style="float:right;text-align:left;margin:0 0 0.5em 1em;padding:5px;font-size:90%;position:relative;clear:right;overflow:auto;z-index:1">
+
+<tbody><tr>
+<th colspan="2" style="font-size:110%;text-align:center">Slab
+</th></tr>
+<tr>
+<th colspan="2"><div class="center"><div class="animated" style="width:150px;height:150px"><div class="image"><a href="/File:Brick_Slab.png" title="File:Brick Slab.png"><img alt="Brick Slab.png" src="/images/5/58/Brick_Slab.png" decoding="async" width="150" height="150" /></a></div><div class="image"><a href="/File:Stone_Slab.png" title="File:Stone Slab.png"><img alt="Stone Slab.png" src="/images/0/0e/Stone_Slab.png" decoding="async" width="150" height="150" /></a></div><div class="image"><a href="/File:Stone_Block_Slab.png" title="File:Stone Block Slab.png"><img alt="Stone Block Slab.png" src="/images/5/55/Stone_Block_Slab.png" decoding="async" width="150" height="150" /></a></div><div class="image"><a href="/File:Cobble_Slab.png" title="File:Cobble Slab.png"><img alt="Cobblestone Slab.png" src="/images/3/31/Cobblestone_Slab.png" decoding="async" width="150" height="150" /></a></div><div class="image"><a href="/File:Mossy_Cobblestone_Slab.png" title="File:Mossy Cobblestone Slab.png"><img alt="Mossy Cobblestone Slab.png" src="/images/9/9b/Mossy_Cobblestone_Slab.png" decoding="async" width="150" height="150" /></a></div><div class="image"><a href="/File:Stone_Brick_Slab.png" title="File:Stone Brick Slab.png"><img alt="Stone Brick Slab.png" src="/images/2/21/Stone_Brick_Slab.png" decoding="async" width="150" height="150" /></a></div><div class="image"><a href="/File:Desert_Stone_Slab.png" title="File:Desert Stone Slab.png"><img alt="Desert Stone Slab.png" src="/images/e/e0/Desert_Stone_Slab.png" decoding="async" width="150" height="150" /></a></div><div class="image"><a href="/File:Desert_Stone_Block_Slab.png" title="File:Desert Stone Block Slab.png"><img alt="Desert Stone Block Slab.png" src="/images/9/91/Desert_Stone_Block_Slab.png" decoding="async" width="150" height="150" /></a></div><div class="image"><a href="/File:Desert_Cobblestone_Slab.png" title="File:Desert Cobblestone Slab.png"><img alt="Desert Cobblestone Slab.png" src="/images/b/b4/Desert_Cobblestone_Slab.png" decoding="async" width="150" height="150" /></a></div><div class="image"><a href="/File:Desert_Stone_Brick_Slab.png" title="File:Desert Stone Brick Slab.png"><img alt="Desert Stone Brick Slab.png" src="/images/6/6b/Desert_Stone_Brick_Slab.png" decoding="async" width="150" height="150" /></a></div><div class="image"><a href="/File:Sandstone_Slab.png" title="File:Sandstone Slab.png"><img alt="Sandstone Slab.png" src="/images/b/bc/Sandstone_Slab.png" decoding="async" width="150" height="150" /></a></div><div class="image"><a href="/File:Sandstone_Block_Slab.png" title="File:Sandstone Block Slab.png"><img alt="Sandstone Block Slab.png" src="/images/0/05/Sandstone_Block_Slab.png" decoding="async" width="150" height="150" /></a></div><div class="image"><a href="/File:Sandstone_Brick_Slab.png" title="File:Sandstone Brick Slab.png"><img alt="Sandstone Brick Slab.png" src="/images/9/9a/Sandstone_Brick_Slab.png" decoding="async" width="150" height="150" /></a></div><div class="image"><a href="/File:Straw_Slab.png" title="File:Straw Slab.png"><img alt="Straw Slab.png" src="/images/8/85/Straw_Slab.png" decoding="async" width="150" height="150" /></a></div><div class="image"><a href="/File:Wooden_Slab.png" title="File:Wooden Slab.png"><img alt="Wooden Slab.png" src="/images/6/61/Wooden_Slab.png" decoding="async" width="150" height="150" /></a></div><div class="image"><a href="/File:Jungle_Wood_Slab.png" title="File:Jungle Wood Slab.png"><img alt="Jungle Wood Slab.png" src="/images/d/d9/Jungle_Wood_Slab.png" decoding="async" width="150" height="150" /></a></div><div class="image"><a href="/File:Pine_Wood_Slab.png" title="File:Pine Wood Slab.png"><img alt="Pine Wood Slab.png" src="/images/c/c5/Pine_Wood_Slab.png" decoding="async" width="150" height="150" /></a></div><div class="image"><a href="/File:Acacia_Wood_Slab.png" title="File:Acacia Wood Slab.png"><img alt="Acacia Wood Slab.png" src="/images/b/b5/Acacia_Wood_Slab.png" decoding="async" width="150" height="150" /></a></div><div class="image"><a href="/File:Aspen_Wood_Slab.png" title="File:Aspen Wood Slab.png"><img alt="Aspen Wood Slab.png" src="/images/6/6b/Aspen_Wood_Slab.png" decoding="async" width="150" height="150" /></a></div><div class="image"><a href="/File:Obsidian_Slab.png" title="File:Obsidian Slab.png"><img alt="Obsidian Slab.png" src="/images/4/49/Obsidian_Slab.png" decoding="async" width="150" height="150" /></a></div><div class="image"><a href="/File:Obsidian_Block_Slab.png" title="File:Obsidian Block Slab.png"><img alt="Obsidian Block Slab.png" src="/images/0/0a/Obsidian_Block_Slab.png" decoding="async" width="150" height="150" /></a></div><div class="image"><a href="/File:Obsidian_Brick_Slab.png" title="File:Obsidian Brick Slab.png"><img alt="Obsidian Brick Slab.png" src="/images/b/bd/Obsidian_Brick_Slab.png" decoding="async" width="150" height="150" /></a></div><div class="image"><a href="/File:Steel_Block_Slab.png" title="File:Steel Block Slab.png"><img alt="Steel Block Slab.png" src="/images/6/67/Steel_Block_Slab.png" decoding="async" width="150" height="150" /></a></div><div class="image"><a href="/File:Copper_Block_Slab.png" title="File:Copper Block Slab.png"><img alt="Copper Block Slab.png" src="/images/a/ac/Copper_Block_Slab.png" decoding="async" width="150" height="150" /></a></div><div class="image"><a href="/File:Tin_Block_Slab.png" title="File:Tin Block Slab.png"><img alt="Tin Block Slab.png" src="/images/8/8b/Tin_Block_Slab.png" decoding="async" width="150" height="150" /></a></div><div class="image"><a href="/File:Bronze_Block_Slab.png" title="File:Bronze Block Slab.png"><img alt="Bronze Block Slab.png" src="/images/3/3e/Bronze_Block_Slab.png" decoding="async" width="150" height="150" /></a></div><div class="image"><a href="/File:Gold_Block_Slab.png" title="File:Gold Block Slab.png"><img alt="Gold Block Slab.png" src="/images/0/05/Gold_Block_Slab.png" decoding="async" width="150" height="150" /></a></div><div class="image"><a href="/File:Glass_Slab.png" title="File:Glass Slab.png"><img alt="Glass Slab.png" src="/images/0/01/Glass_Slab.png" decoding="async" width="150" height="150" /></a></div><div class="image"><a href="/File:Obsidian_Glass_Slab.png" title="File:Obsidian Glass Slab.png"><img alt="Obsidian Glass Slab.png" src="/images/4/44/Obsidian_Glass_Slab.png" decoding="async" width="150" height="150" /></a></div></div></div>
+</th></tr>
+<tr>
+<th colspan="2" align="center">A <a href="/Blocks" class="mw-redirect" title="Blocks">block</a> in <a href="/Games/Minetest_Game" title="Games/Minetest Game">Minetest Game</a>
+</th></tr>
+<tr>
+<td><b>Block Type</b>
+</td>
+<td>Solid block
+</td></tr>
+<tr>
+<td><b><a href="/Mining#Drops" title="Mining">Drops</a></b>
+</td>
+<td><i>Itself</i>
+</td></tr>
+<tr>
+<td><b><a href="/Category:Falling" title="Category:Falling">Physics</a></b>
+</td>
+<td>No
+</td></tr>
+<tr>
+<td><b><a href="/Category:Luminous" title="Category:Luminous">Luminance</a></b>
+</td>
+<td>No
+</td></tr>
+<tr>
+<td><b><a href="/Category:Flammable" title="Category:Flammable">Flammable</a></b>
+</td>
+<td><i>depends</i>
+</td></tr>
+<tr>
+<td><b><a href="/Category:Generated_blocks" title="Category:Generated blocks">Generated</a></b>
+</td>
+<td>No
+</td></tr>
+<tr>
+<td><b><a href="/Category:Renewable" title="Category:Renewable">Renewable</a></b>
+</td>
+<td><i>depends</i>
+</td></tr>
+<tr>
+<td><b><a href="/Item_stack" title="Item stack">Stackable</a></b>
+</td>
+<td>Yes (99)
+</td></tr>
+<tr>
+<td><b><a href="/Itemstrings" title="Itemstrings">Itemstring</a></b>
+</td>
+<td>stairs:slab_<i>&lt;subname&gt;</i>
+</td></tr></tbody></table>
+<p><b>Slabs</b> are <a href="/Crafting" title="Crafting">crafted</a> by the player. They are as half high as their full block counterparts. Players can walk on a slab without needing to jump. Slabs can be used to create long staircases. Can also be used as thin wall/fence when rotated using <a href="/Screwdriver" title="Screwdriver">screwdriver</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#List_of_slabs"><span class="tocnumber">1</span> <span class="toctext">List of slabs</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Special_slabs"><span class="tocnumber">2</span> <span class="toctext">Special slabs</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Crafting"><span class="tocnumber">3</span> <span class="toctext">Crafting</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#As_a_crafting_ingredient"><span class="tocnumber">3.1</span> <span class="toctext">As a crafting ingredient</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="List_of_slabs">List of slabs</span></h2>
+<table class="wikitable">
+<tbody><tr>
+<th>
+</th>
+<th>Name
+</th>
+<th>
+</th>
+<th>Source
+</th>
+<th>Renewable?
+</th>
+<th>Flammable?
+</th></tr>
+<tr>
+<td><a href="/File:Brick_Slab.png" class="image"><img alt="Brick Slab.png" src="/images/thumb/5/58/Brick_Slab.png/32px-Brick_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/5/58/Brick_Slab.png/48px-Brick_Slab.png 1.5x, /images/thumb/5/58/Brick_Slab.png/64px-Brick_Slab.png 2x" /></a></td>
+<td><a class="mw-selflink selflink">Brick Slab</a></td>
+<td><a href="/File:Brick.png" class="image"><img alt="Brick.png" src="/images/thumb/5/58/Brick.png/32px-Brick.png" decoding="async" width="32" height="32" srcset="/images/thumb/5/58/Brick.png/48px-Brick.png 1.5x, /images/thumb/5/58/Brick.png/64px-Brick.png 2x" /></a></td>
+<td><a href="/Brick_Block" title="Brick Block">Brick Block</a></td>
+<td>No</td>
+<td>No
+</td></tr>
+<tr>
+<td><a href="/File:Stone_Slab.png" class="image"><img alt="Stone Slab.png" src="/images/thumb/0/0e/Stone_Slab.png/32px-Stone_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/0e/Stone_Slab.png/48px-Stone_Slab.png 1.5x, /images/thumb/0/0e/Stone_Slab.png/64px-Stone_Slab.png 2x" /></a></td>
+<td><a class="mw-selflink selflink">Stone Slab</a></td>
+<td><a href="/File:Stone.png" class="image"><img alt="Stone.png" src="/images/thumb/d/d4/Stone.png/32px-Stone.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/d4/Stone.png/48px-Stone.png 1.5x, /images/thumb/d/d4/Stone.png/64px-Stone.png 2x" /></a></td>
+<td><a href="/Stone" title="Stone">Stone</a></td>
+<td>Yes</td>
+<td>No
+</td></tr>
+<tr>
+<td><a href="/File:Stone_Block_Slab.png" class="image"><img alt="Stone Block Slab.png" src="/images/thumb/5/55/Stone_Block_Slab.png/32px-Stone_Block_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/5/55/Stone_Block_Slab.png/48px-Stone_Block_Slab.png 1.5x, /images/thumb/5/55/Stone_Block_Slab.png/64px-Stone_Block_Slab.png 2x" /></a></td>
+<td><a class="mw-selflink selflink">Stone Block Slab</a></td>
+<td><a href="/File:Stone_Block.png" class="image"><img alt="Stone Block.png" src="/images/thumb/3/37/Stone_Block.png/32px-Stone_Block.png" decoding="async" width="32" height="32" srcset="/images/thumb/3/37/Stone_Block.png/48px-Stone_Block.png 1.5x, /images/thumb/3/37/Stone_Block.png/64px-Stone_Block.png 2x" /></a></td>
+<td><a href="/Stone_Block" title="Stone Block">Stone Block</a></td>
+<td>Yes</td>
+<td>No
+</td></tr>
+<tr>
+<td><a href="/File:Cobblestone_Slab.png" class="image"><img alt="Cobblestone Slab.png" src="/images/thumb/3/31/Cobblestone_Slab.png/32px-Cobblestone_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/3/31/Cobblestone_Slab.png/48px-Cobblestone_Slab.png 1.5x, /images/thumb/3/31/Cobblestone_Slab.png/64px-Cobblestone_Slab.png 2x" /></a></td>
+<td><a class="mw-selflink selflink">Cobblestone Slab</a></td>
+<td><a href="/File:Cobblestone.png" class="image"><img alt="Cobblestone.png" src="/images/thumb/6/67/Cobblestone.png/32px-Cobblestone.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/67/Cobblestone.png/48px-Cobblestone.png 1.5x, /images/thumb/6/67/Cobblestone.png/64px-Cobblestone.png 2x" /></a></td>
+<td><a href="/Cobblestone" title="Cobblestone">Cobblestone</a></td>
+<td>Yes</td>
+<td>No
+</td></tr>
+<tr>
+<td><a href="/File:Mossy_Cobblestone_Slab.png" class="image"><img alt="Mossy Cobblestone Slab.png" src="/images/thumb/9/9b/Mossy_Cobblestone_Slab.png/32px-Mossy_Cobblestone_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/9/9b/Mossy_Cobblestone_Slab.png/48px-Mossy_Cobblestone_Slab.png 1.5x, /images/thumb/9/9b/Mossy_Cobblestone_Slab.png/64px-Mossy_Cobblestone_Slab.png 2x" /></a></td>
+<td><a class="mw-selflink selflink">Mossy Cobblestone Slab</a></td>
+<td><a href="/File:Mossy_Cobblestone.png" class="image"><img alt="Mossy Cobblestone.png" src="/images/thumb/a/af/Mossy_Cobblestone.png/32px-Mossy_Cobblestone.png" decoding="async" width="32" height="32" srcset="/images/thumb/a/af/Mossy_Cobblestone.png/48px-Mossy_Cobblestone.png 1.5x, /images/thumb/a/af/Mossy_Cobblestone.png/64px-Mossy_Cobblestone.png 2x" /></a></td>
+<td><a href="/Mossy_Cobblestone" title="Mossy Cobblestone">Mossy Cobblestone</a></td>
+<td>Yes</td>
+<td>No
+</td></tr>
+<tr>
+<td><a href="/File:Stone_Brick_Slab.png" class="image"><img alt="Stone Brick Slab.png" src="/images/thumb/2/21/Stone_Brick_Slab.png/32px-Stone_Brick_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/2/21/Stone_Brick_Slab.png/48px-Stone_Brick_Slab.png 1.5x, /images/thumb/2/21/Stone_Brick_Slab.png/64px-Stone_Brick_Slab.png 2x" /></a></td>
+<td><a class="mw-selflink selflink">Stone Brick Slab</a></td>
+<td><a href="/File:Stone_Brick.png" class="image"><img alt="Stone Brick.png" src="/images/thumb/6/6d/Stone_Brick.png/32px-Stone_Brick.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/6d/Stone_Brick.png/48px-Stone_Brick.png 1.5x, /images/thumb/6/6d/Stone_Brick.png/64px-Stone_Brick.png 2x" /></a></td>
+<td><a href="/Stone_Brick" title="Stone Brick">Stone Brick</a></td>
+<td>Yes</td>
+<td>No
+</td></tr>
+<tr>
+<td><a href="/File:Desert_Stone_Slab.png" class="image"><img alt="Desert Stone Slab.png" src="/images/thumb/e/e0/Desert_Stone_Slab.png/32px-Desert_Stone_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/e/e0/Desert_Stone_Slab.png/48px-Desert_Stone_Slab.png 1.5x, /images/thumb/e/e0/Desert_Stone_Slab.png/64px-Desert_Stone_Slab.png 2x" /></a></td>
+<td><a class="mw-selflink selflink">Desert Stone Slab</a></td>
+<td><a href="/File:Desert_Stone.png" class="image"><img alt="Desert Stone.png" src="/images/thumb/d/da/Desert_Stone.png/32px-Desert_Stone.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/da/Desert_Stone.png/48px-Desert_Stone.png 1.5x, /images/thumb/d/da/Desert_Stone.png/64px-Desert_Stone.png 2x" /></a></td>
+<td><a href="/Desert_Stone" title="Desert Stone">Desert Stone</a></td>
+<td>No</td>
+<td>No
+</td></tr>
+<tr>
+<td><a href="/File:Desert_Stone_Block_Slab.png" class="image"><img alt="Desert Stone Block Slab.png" src="/images/thumb/9/91/Desert_Stone_Block_Slab.png/32px-Desert_Stone_Block_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/9/91/Desert_Stone_Block_Slab.png/48px-Desert_Stone_Block_Slab.png 1.5x, /images/thumb/9/91/Desert_Stone_Block_Slab.png/64px-Desert_Stone_Block_Slab.png 2x" /></a></td>
+<td><a class="mw-selflink selflink">Desert Stone Block Slab</a></td>
+<td><a href="/File:Desert_Stone_Block.png" class="image"><img alt="Desert Stone Block.png" src="/images/thumb/f/f4/Desert_Stone_Block.png/32px-Desert_Stone_Block.png" decoding="async" width="32" height="32" srcset="/images/thumb/f/f4/Desert_Stone_Block.png/48px-Desert_Stone_Block.png 1.5x, /images/thumb/f/f4/Desert_Stone_Block.png/64px-Desert_Stone_Block.png 2x" /></a></td>
+<td><a href="/Desert_Stone_Block" title="Desert Stone Block">Desert Stone Block</a></td>
+<td>No</td>
+<td>No
+</td></tr>
+<tr>
+<td><a href="/File:Desert_Cobblestone_Slab.png" class="image"><img alt="Desert Cobblestone Slab.png" src="/images/thumb/b/b4/Desert_Cobblestone_Slab.png/32px-Desert_Cobblestone_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/b4/Desert_Cobblestone_Slab.png/48px-Desert_Cobblestone_Slab.png 1.5x, /images/thumb/b/b4/Desert_Cobblestone_Slab.png/64px-Desert_Cobblestone_Slab.png 2x" /></a></td>
+<td><a class="mw-selflink selflink">Desert Cobblestone Slab</a></td>
+<td><a href="/File:Desert_Cobblestone.png" class="image"><img alt="Desert Cobblestone.png" src="/images/thumb/2/2d/Desert_Cobblestone.png/32px-Desert_Cobblestone.png" decoding="async" width="32" height="32" srcset="/images/thumb/2/2d/Desert_Cobblestone.png/48px-Desert_Cobblestone.png 1.5x, /images/thumb/2/2d/Desert_Cobblestone.png/64px-Desert_Cobblestone.png 2x" /></a></td>
+<td><a href="/Desert_Cobblestone" title="Desert Cobblestone">Desert Cobblestone</a></td>
+<td>No</td>
+<td>No
+</td></tr>
+<tr>
+<td><a href="/File:Desert_Stone_Brick_Slab.png" class="image"><img alt="Desert Stone Brick Slab.png" src="/images/thumb/6/6b/Desert_Stone_Brick_Slab.png/32px-Desert_Stone_Brick_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/6b/Desert_Stone_Brick_Slab.png/48px-Desert_Stone_Brick_Slab.png 1.5x, /images/thumb/6/6b/Desert_Stone_Brick_Slab.png/64px-Desert_Stone_Brick_Slab.png 2x" /></a></td>
+<td><a class="mw-selflink selflink">Desert Stone Brick Slab</a></td>
+<td><a href="/File:Desert_Stone_Brick.png" class="image"><img alt="Desert Stone Brick.png" src="/images/thumb/2/2c/Desert_Stone_Brick.png/32px-Desert_Stone_Brick.png" decoding="async" width="32" height="32" srcset="/images/thumb/2/2c/Desert_Stone_Brick.png/48px-Desert_Stone_Brick.png 1.5x, /images/thumb/2/2c/Desert_Stone_Brick.png/64px-Desert_Stone_Brick.png 2x" /></a></td>
+<td><a href="/Desert_Stone_Brick" title="Desert Stone Brick">Desert Stone Brick</a></td>
+<td>No</td>
+<td>No
+</td></tr>
+<tr>
+<td><a href="/File:Sandstone_Slab.png" class="image"><img alt="Sandstone Slab.png" src="/images/thumb/b/bc/Sandstone_Slab.png/32px-Sandstone_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/bc/Sandstone_Slab.png/48px-Sandstone_Slab.png 1.5x, /images/thumb/b/bc/Sandstone_Slab.png/64px-Sandstone_Slab.png 2x" /></a></td>
+<td><a class="mw-selflink selflink">Sandstone Slab</a></td>
+<td><a href="/File:Sandstone.png" class="image"><img alt="Sandstone.png" src="/images/thumb/d/d6/Sandstone.png/32px-Sandstone.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/d6/Sandstone.png/48px-Sandstone.png 1.5x, /images/thumb/d/d6/Sandstone.png/64px-Sandstone.png 2x" /></a></td>
+<td><a href="/Sandstone" title="Sandstone">Sandstone</a></td>
+<td>No</td>
+<td>No
+</td></tr>
+<tr>
+<td><a href="/File:Sandstone_Block_Slab.png" class="image"><img alt="Sandstone Block Slab.png" src="/images/thumb/0/05/Sandstone_Block_Slab.png/32px-Sandstone_Block_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/05/Sandstone_Block_Slab.png/48px-Sandstone_Block_Slab.png 1.5x, /images/thumb/0/05/Sandstone_Block_Slab.png/64px-Sandstone_Block_Slab.png 2x" /></a></td>
+<td><a class="mw-selflink selflink">Sandstone Block Slab</a></td>
+<td><a href="/File:Sandstone_Block.png" class="image"><img alt="Sandstone Block.png" src="/images/thumb/1/1b/Sandstone_Block.png/32px-Sandstone_Block.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/1b/Sandstone_Block.png/48px-Sandstone_Block.png 1.5x, /images/thumb/1/1b/Sandstone_Block.png/64px-Sandstone_Block.png 2x" /></a></td>
+<td><a href="/Sandstone_Block" title="Sandstone Block">Sandstone Block</a></td>
+<td>No</td>
+<td>No
+</td></tr>
+<tr>
+<td><a href="/File:Sandstone_Brick_Slab.png" class="image"><img alt="Sandstone Brick Slab.png" src="/images/thumb/9/9a/Sandstone_Brick_Slab.png/32px-Sandstone_Brick_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/9/9a/Sandstone_Brick_Slab.png/48px-Sandstone_Brick_Slab.png 1.5x, /images/thumb/9/9a/Sandstone_Brick_Slab.png/64px-Sandstone_Brick_Slab.png 2x" /></a></td>
+<td><a class="mw-selflink selflink">Sandstone Brick Slab</a></td>
+<td><a href="/File:Sandstone_Brick.png" class="image"><img alt="Sandstone Brick.png" src="/images/thumb/f/f6/Sandstone_Brick.png/32px-Sandstone_Brick.png" decoding="async" width="32" height="32" srcset="/images/thumb/f/f6/Sandstone_Brick.png/48px-Sandstone_Brick.png 1.5x, /images/thumb/f/f6/Sandstone_Brick.png/64px-Sandstone_Brick.png 2x" /></a></td>
+<td><a href="/Sandstone_Brick" title="Sandstone Brick">Sandstone Brick</a></td>
+<td>No</td>
+<td>No
+</td></tr>
+<tr>
+<td><a href="/File:Desert_Sandstone_Slab.png" class="image"><img alt="Desert Sandstone Slab.png" src="/images/thumb/6/6c/Desert_Sandstone_Slab.png/32px-Desert_Sandstone_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/6c/Desert_Sandstone_Slab.png/48px-Desert_Sandstone_Slab.png 1.5x, /images/thumb/6/6c/Desert_Sandstone_Slab.png/64px-Desert_Sandstone_Slab.png 2x" /></a></td>
+<td><a class="mw-selflink selflink">Desert Sandstone Slab</a></td>
+<td><a href="/File:Desert_Sandstone.png" class="image"><img alt="Desert Sandstone.png" src="/images/thumb/1/11/Desert_Sandstone.png/32px-Desert_Sandstone.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/11/Desert_Sandstone.png/48px-Desert_Sandstone.png 1.5x, /images/thumb/1/11/Desert_Sandstone.png/64px-Desert_Sandstone.png 2x" /></a></td>
+<td><a href="/Desert_Sandstone" title="Desert Sandstone">Desert Sandstone</a></td>
+<td>No</td>
+<td>No
+</td></tr>
+<tr>
+<td><a href="/File:Desert_Sandstone_Block_Slab.png" class="image"><img alt="Desert Sandstone Block Slab.png" src="/images/thumb/7/74/Desert_Sandstone_Block_Slab.png/32px-Desert_Sandstone_Block_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/7/74/Desert_Sandstone_Block_Slab.png/48px-Desert_Sandstone_Block_Slab.png 1.5x, /images/thumb/7/74/Desert_Sandstone_Block_Slab.png/64px-Desert_Sandstone_Block_Slab.png 2x" /></a></td>
+<td><a class="mw-selflink selflink">Desert Sandstone Block Slab</a></td>
+<td><a href="/File:Desert_Sandstone_Block.png" class="image"><img alt="Desert Sandstone Block.png" src="/images/thumb/e/ef/Desert_Sandstone_Block.png/32px-Desert_Sandstone_Block.png" decoding="async" width="32" height="32" srcset="/images/thumb/e/ef/Desert_Sandstone_Block.png/48px-Desert_Sandstone_Block.png 1.5x, /images/thumb/e/ef/Desert_Sandstone_Block.png/64px-Desert_Sandstone_Block.png 2x" /></a></td>
+<td><a href="/Desert_Sandstone_Block" title="Desert Sandstone Block">Desert Sandstone Block</a></td>
+<td>No</td>
+<td>No
+</td></tr>
+<tr>
+<td><a href="/File:Desert_Sandstone_Brick_Slab.png" class="image"><img alt="Desert Sandstone Brick Slab.png" src="/images/thumb/3/3e/Desert_Sandstone_Brick_Slab.png/32px-Desert_Sandstone_Brick_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/3/3e/Desert_Sandstone_Brick_Slab.png/48px-Desert_Sandstone_Brick_Slab.png 1.5x, /images/thumb/3/3e/Desert_Sandstone_Brick_Slab.png/64px-Desert_Sandstone_Brick_Slab.png 2x" /></a></td>
+<td><a class="mw-selflink selflink">Desert Sandstone Brick Slab</a></td>
+<td><a href="/File:Desert_Sandstone_Brick.png" class="image"><img alt="Desert Sandstone Brick.png" src="/images/thumb/c/c1/Desert_Sandstone_Brick.png/32px-Desert_Sandstone_Brick.png" decoding="async" width="32" height="32" srcset="/images/thumb/c/c1/Desert_Sandstone_Brick.png/48px-Desert_Sandstone_Brick.png 1.5x, /images/thumb/c/c1/Desert_Sandstone_Brick.png/64px-Desert_Sandstone_Brick.png 2x" /></a></td>
+<td><a href="/Desert_Sandstone_Brick" title="Desert Sandstone Brick">Desert Sandstone Brick</a></td>
+<td>No</td>
+<td>No
+</td></tr>
+<tr>
+<td><a href="/File:Silver_Sandstone_Slab.png" class="image"><img alt="Silver Sandstone Slab.png" src="/images/thumb/e/e7/Silver_Sandstone_Slab.png/32px-Silver_Sandstone_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/e/e7/Silver_Sandstone_Slab.png/48px-Silver_Sandstone_Slab.png 1.5x, /images/thumb/e/e7/Silver_Sandstone_Slab.png/64px-Silver_Sandstone_Slab.png 2x" /></a></td>
+<td><a class="mw-selflink selflink">Silver Sandstone Slab</a></td>
+<td><a href="/File:Silver_Sandstone.png" class="image"><img alt="Silver Sandstone.png" src="/images/thumb/7/7e/Silver_Sandstone.png/32px-Silver_Sandstone.png" decoding="async" width="32" height="32" srcset="/images/thumb/7/7e/Silver_Sandstone.png/48px-Silver_Sandstone.png 1.5x, /images/thumb/7/7e/Silver_Sandstone.png/64px-Silver_Sandstone.png 2x" /></a></td>
+<td><a href="/Silver_Sandstone" title="Silver Sandstone">Silver Sandstone</a></td>
+<td>No</td>
+<td>No
+</td></tr>
+<tr>
+<td><a href="/File:Silver_Sandstone_Block_Slab.png" class="image"><img alt="Silver Sandstone Block Slab.png" src="/images/thumb/5/54/Silver_Sandstone_Block_Slab.png/32px-Silver_Sandstone_Block_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/5/54/Silver_Sandstone_Block_Slab.png/48px-Silver_Sandstone_Block_Slab.png 1.5x, /images/thumb/5/54/Silver_Sandstone_Block_Slab.png/64px-Silver_Sandstone_Block_Slab.png 2x" /></a></td>
+<td><a class="mw-selflink selflink">Silver Sandstone Block Slab</a></td>
+<td><a href="/File:Silver_Sandstone_Block.png" class="image"><img alt="Silver Sandstone Block.png" src="/images/thumb/a/a9/Silver_Sandstone_Block.png/32px-Silver_Sandstone_Block.png" decoding="async" width="32" height="32" srcset="/images/thumb/a/a9/Silver_Sandstone_Block.png/48px-Silver_Sandstone_Block.png 1.5x, /images/thumb/a/a9/Silver_Sandstone_Block.png/64px-Silver_Sandstone_Block.png 2x" /></a></td>
+<td><a href="/Silver_Sandstone_Block" title="Silver Sandstone Block">Silver Sandstone Block</a></td>
+<td>No</td>
+<td>No
+</td></tr>
+<tr>
+<td><a href="/File:Silver_Sandstone_Brick_Slab.png" class="image"><img alt="Silver Sandstone Brick Slab.png" src="/images/thumb/b/bb/Silver_Sandstone_Brick_Slab.png/32px-Silver_Sandstone_Brick_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/bb/Silver_Sandstone_Brick_Slab.png/48px-Silver_Sandstone_Brick_Slab.png 1.5x, /images/thumb/b/bb/Silver_Sandstone_Brick_Slab.png/64px-Silver_Sandstone_Brick_Slab.png 2x" /></a></td>
+<td><a class="mw-selflink selflink">Silver Sandstone Brick Slab</a></td>
+<td><a href="/File:Silver_Sandstone_Brick.png" class="image"><img alt="Silver Sandstone Brick.png" src="/images/thumb/1/19/Silver_Sandstone_Brick.png/32px-Silver_Sandstone_Brick.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/19/Silver_Sandstone_Brick.png/48px-Silver_Sandstone_Brick.png 1.5x, /images/thumb/1/19/Silver_Sandstone_Brick.png/64px-Silver_Sandstone_Brick.png 2x" /></a></td>
+<td><a href="/Silver_Sandstone_Brick" title="Silver Sandstone Brick">Silver Sandstone Brick</a></td>
+<td>No</td>
+<td>No
+</td></tr>
+<tr>
+<td><a href="/File:Ice_Slab.png" class="image"><img alt="Ice Slab.png" src="/images/thumb/f/f3/Ice_Slab.png/32px-Ice_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/f/f3/Ice_Slab.png/48px-Ice_Slab.png 1.5x, /images/thumb/f/f3/Ice_Slab.png/64px-Ice_Slab.png 2x" /></a></td>
+<td><a class="mw-selflink selflink">Ice Slab</a></td>
+<td><a href="/File:Ice.png" class="image"><img alt="Ice.png" src="/images/thumb/7/77/Ice.png/32px-Ice.png" decoding="async" width="32" height="32" srcset="/images/thumb/7/77/Ice.png/48px-Ice.png 1.5x, /images/thumb/7/77/Ice.png/64px-Ice.png 2x" /></a></td>
+<td><a href="/Ice" title="Ice">Ice</a></td>
+<td>No</td>
+<td>No
+</td></tr>
+<tr>
+<td><a href="/File:Snow_Block_Slab.png" class="image"><img alt="Snow Block Slab.png" src="/images/thumb/4/4b/Snow_Block_Slab.png/32px-Snow_Block_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/4/4b/Snow_Block_Slab.png/48px-Snow_Block_Slab.png 1.5x, /images/thumb/4/4b/Snow_Block_Slab.png/64px-Snow_Block_Slab.png 2x" /></a></td>
+<td><a class="mw-selflink selflink">Snow Block Slab</a></td>
+<td><a href="/File:Snow_Block.png" class="image"><img alt="Snow Block.png" src="/images/thumb/f/fa/Snow_Block.png/32px-Snow_Block.png" decoding="async" width="32" height="32" srcset="/images/thumb/f/fa/Snow_Block.png/48px-Snow_Block.png 1.5x, /images/thumb/f/fa/Snow_Block.png/64px-Snow_Block.png 2x" /></a></td>
+<td><a href="/Snow_Block" title="Snow Block">Snow Block</a></td>
+<td>Yes</td>
+<td>No
+</td></tr>
+<tr>
+<td><a href="/File:Straw_Slab.png" class="image"><img alt="Straw Slab.png" src="/images/thumb/8/85/Straw_Slab.png/32px-Straw_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/8/85/Straw_Slab.png/48px-Straw_Slab.png 1.5x, /images/thumb/8/85/Straw_Slab.png/64px-Straw_Slab.png 2x" /></a></td>
+<td><a class="mw-selflink selflink">Straw Slab</a></td>
+<td><a href="/File:Straw.png" class="image"><img alt="Straw.png" src="/images/thumb/5/55/Straw.png/32px-Straw.png" decoding="async" width="32" height="32" srcset="/images/thumb/5/55/Straw.png/48px-Straw.png 1.5x, /images/thumb/5/55/Straw.png/64px-Straw.png 2x" /></a></td>
+<td><a href="/Straw" title="Straw">Straw</a></td>
+<td>Yes</td>
+<td>Yes
+</td></tr>
+<tr>
+<td><a href="/File:Wooden_Slab.png" class="image"><img alt="Wooden Slab.png" src="/images/thumb/6/61/Wooden_Slab.png/32px-Wooden_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/61/Wooden_Slab.png/48px-Wooden_Slab.png 1.5x, /images/thumb/6/61/Wooden_Slab.png/64px-Wooden_Slab.png 2x" /></a></td>
+<td><a class="mw-selflink selflink">Wooden Slab</a></td>
+<td><a href="/File:Wooden_Planks.png" class="image"><img alt="Wooden Planks.png" src="/images/thumb/e/e6/Wooden_Planks.png/32px-Wooden_Planks.png" decoding="async" width="32" height="32" srcset="/images/thumb/e/e6/Wooden_Planks.png/48px-Wooden_Planks.png 1.5x, /images/thumb/e/e6/Wooden_Planks.png/64px-Wooden_Planks.png 2x" /></a></td>
+<td><a href="/Wood" title="Wood">Wooden Planks</a></td>
+<td>Yes</td>
+<td>Yes
+</td></tr>
+<tr>
+<td><a href="/File:Jungle_Wood_Slab.png" class="image"><img alt="Jungle Wood Slab.png" src="/images/thumb/d/d9/Jungle_Wood_Slab.png/32px-Jungle_Wood_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/d9/Jungle_Wood_Slab.png/48px-Jungle_Wood_Slab.png 1.5x, /images/thumb/d/d9/Jungle_Wood_Slab.png/64px-Jungle_Wood_Slab.png 2x" /></a></td>
+<td><a class="mw-selflink selflink">Jungle Wood Slab</a></td>
+<td><a href="/File:Junglewood_Planks.png" class="image"><img alt="Junglewood Planks.png" src="/images/thumb/2/25/Junglewood_Planks.png/32px-Junglewood_Planks.png" decoding="async" width="32" height="32" srcset="/images/thumb/2/25/Junglewood_Planks.png/48px-Junglewood_Planks.png 1.5x, /images/thumb/2/25/Junglewood_Planks.png/64px-Junglewood_Planks.png 2x" /></a></td>
+<td><a href="/Wood" title="Wood">Junglewood Planks</a></td>
+<td>Yes</td>
+<td>Yes
+</td></tr>
+<tr>
+<td><a href="/File:Pine_Wood_Slab.png" class="image"><img alt="Pine Wood Slab.png" src="/images/thumb/c/c5/Pine_Wood_Slab.png/32px-Pine_Wood_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/c/c5/Pine_Wood_Slab.png/48px-Pine_Wood_Slab.png 1.5x, /images/thumb/c/c5/Pine_Wood_Slab.png/64px-Pine_Wood_Slab.png 2x" /></a></td>
+<td><a class="mw-selflink selflink">Pine Wood Slab</a></td>
+<td><a href="/File:Pine_Wood_Planks.png" class="image"><img alt="Pine Wood Planks.png" src="/images/thumb/3/39/Pine_Wood_Planks.png/32px-Pine_Wood_Planks.png" decoding="async" width="32" height="32" srcset="/images/thumb/3/39/Pine_Wood_Planks.png/48px-Pine_Wood_Planks.png 1.5x, /images/thumb/3/39/Pine_Wood_Planks.png/64px-Pine_Wood_Planks.png 2x" /></a></td>
+<td><a href="/Wood" title="Wood">Pine Wood Planks</a></td>
+<td>Yes</td>
+<td>Yes
+</td></tr>
+<tr>
+<td><a href="/File:Acacia_Wood_Slab.png" class="image"><img alt="Acacia Wood Slab.png" src="/images/thumb/b/b5/Acacia_Wood_Slab.png/32px-Acacia_Wood_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/b5/Acacia_Wood_Slab.png/48px-Acacia_Wood_Slab.png 1.5x, /images/thumb/b/b5/Acacia_Wood_Slab.png/64px-Acacia_Wood_Slab.png 2x" /></a></td>
+<td><a class="mw-selflink selflink">Acacia Wood Slab</a></td>
+<td><a href="/File:Acacia_Wood_Planks.png" class="image"><img alt="Acacia Wood Planks.png" src="/images/thumb/f/f6/Acacia_Wood_Planks.png/32px-Acacia_Wood_Planks.png" decoding="async" width="32" height="32" srcset="/images/thumb/f/f6/Acacia_Wood_Planks.png/48px-Acacia_Wood_Planks.png 1.5x, /images/thumb/f/f6/Acacia_Wood_Planks.png/64px-Acacia_Wood_Planks.png 2x" /></a></td>
+<td><a href="/Wood" title="Wood">Acacia Wood Planks</a></td>
+<td>Yes</td>
+<td>Yes
+</td></tr>
+<tr>
+<td><a href="/File:Aspen_Wood_Slab.png" class="image"><img alt="Aspen Wood Slab.png" src="/images/thumb/6/6b/Aspen_Wood_Slab.png/32px-Aspen_Wood_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/6b/Aspen_Wood_Slab.png/48px-Aspen_Wood_Slab.png 1.5x, /images/thumb/6/6b/Aspen_Wood_Slab.png/64px-Aspen_Wood_Slab.png 2x" /></a></td>
+<td><a class="mw-selflink selflink">Aspen Wood Slab</a></td>
+<td><a href="/File:Aspen_Wood_Planks.png" class="image"><img alt="Aspen Wood Planks.png" src="/images/thumb/a/ae/Aspen_Wood_Planks.png/32px-Aspen_Wood_Planks.png" decoding="async" width="32" height="32" srcset="/images/thumb/a/ae/Aspen_Wood_Planks.png/48px-Aspen_Wood_Planks.png 1.5x, /images/thumb/a/ae/Aspen_Wood_Planks.png/64px-Aspen_Wood_Planks.png 2x" /></a></td>
+<td><a href="/Wood" title="Wood">Aspen Wood Planks</a></td>
+<td>Yes</td>
+<td>Yes
+</td></tr>
+<tr>
+<td><a href="/File:Obsidian_Slab.png" class="image"><img alt="Obsidian Slab.png" src="/images/thumb/4/49/Obsidian_Slab.png/32px-Obsidian_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/4/49/Obsidian_Slab.png/48px-Obsidian_Slab.png 1.5x, /images/thumb/4/49/Obsidian_Slab.png/64px-Obsidian_Slab.png 2x" /></a></td>
+<td><a class="mw-selflink selflink">Obsidian Slab</a></td>
+<td><a href="/File:Obsidian.png" class="image"><img alt="Obsidian.png" src="/images/thumb/2/23/Obsidian.png/32px-Obsidian.png" decoding="async" width="32" height="32" srcset="/images/thumb/2/23/Obsidian.png/48px-Obsidian.png 1.5x, /images/thumb/2/23/Obsidian.png/64px-Obsidian.png 2x" /></a></td>
+<td><a href="/Obsidian" title="Obsidian">Obsidian</a></td>
+<td>No</td>
+<td>No
+</td></tr>
+<tr>
+<td><a href="/File:Obsidian_Block_Slab.png" class="image"><img alt="Obsidian Block Slab.png" src="/images/thumb/0/0a/Obsidian_Block_Slab.png/32px-Obsidian_Block_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/0a/Obsidian_Block_Slab.png/48px-Obsidian_Block_Slab.png 1.5x, /images/thumb/0/0a/Obsidian_Block_Slab.png/64px-Obsidian_Block_Slab.png 2x" /></a></td>
+<td><a class="mw-selflink selflink">Obsidian Block Slab</a></td>
+<td><a href="/File:Obsidian_Block.png" class="image"><img alt="Obsidian Block.png" src="/images/thumb/1/16/Obsidian_Block.png/32px-Obsidian_Block.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/16/Obsidian_Block.png/48px-Obsidian_Block.png 1.5x, /images/thumb/1/16/Obsidian_Block.png/64px-Obsidian_Block.png 2x" /></a></td>
+<td><a href="/Obsidian_Block" title="Obsidian Block">Obsidian Block</a></td>
+<td>No</td>
+<td>No
+</td></tr>
+<tr>
+<td><a href="/File:Obsidian_Brick_Slab.png" class="image"><img alt="Obsidian Brick Slab.png" src="/images/thumb/b/bd/Obsidian_Brick_Slab.png/32px-Obsidian_Brick_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/bd/Obsidian_Brick_Slab.png/48px-Obsidian_Brick_Slab.png 1.5x, /images/thumb/b/bd/Obsidian_Brick_Slab.png/64px-Obsidian_Brick_Slab.png 2x" /></a></td>
+<td><a class="mw-selflink selflink">Obsidian Brick Slab</a></td>
+<td><a href="/File:Obsidian_Brick.png" class="image"><img alt="Obsidian Brick.png" src="/images/thumb/9/9d/Obsidian_Brick.png/32px-Obsidian_Brick.png" decoding="async" width="32" height="32" srcset="/images/thumb/9/9d/Obsidian_Brick.png/48px-Obsidian_Brick.png 1.5x, /images/thumb/9/9d/Obsidian_Brick.png/64px-Obsidian_Brick.png 2x" /></a></td>
+<td><a href="/Obsidian_Brick" title="Obsidian Brick">Obsidian Brick</a></td>
+<td>No</td>
+<td>No
+</td></tr>
+<tr>
+<td><a href="/File:Steel_Block_Slab.png" class="image"><img alt="Steel Block Slab.png" src="/images/thumb/6/67/Steel_Block_Slab.png/32px-Steel_Block_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/67/Steel_Block_Slab.png/48px-Steel_Block_Slab.png 1.5x, /images/thumb/6/67/Steel_Block_Slab.png/64px-Steel_Block_Slab.png 2x" /></a></td>
+<td><a class="mw-selflink selflink">Steel Block Slab</a></td>
+<td><a href="/File:Steel_Block.png" class="image"><img alt="Steel Block.png" src="/images/thumb/8/84/Steel_Block.png/32px-Steel_Block.png" decoding="async" width="32" height="32" srcset="/images/thumb/8/84/Steel_Block.png/48px-Steel_Block.png 1.5x, /images/thumb/8/84/Steel_Block.png/64px-Steel_Block.png 2x" /></a></td>
+<td><a href="/Steel_Block" title="Steel Block">Steel Block</a></td>
+<td>No</td>
+<td>No
+</td></tr>
+<tr>
+<td><a href="/File:Copper_Block_Slab.png" class="image"><img alt="Copper Block Slab.png" src="/images/thumb/a/ac/Copper_Block_Slab.png/32px-Copper_Block_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/a/ac/Copper_Block_Slab.png/48px-Copper_Block_Slab.png 1.5x, /images/thumb/a/ac/Copper_Block_Slab.png/64px-Copper_Block_Slab.png 2x" /></a></td>
+<td><a class="mw-selflink selflink">Copper Block Slab</a></td>
+<td><a href="/File:Copper_Block.png" class="image"><img alt="Copper Block.png" src="/images/thumb/a/a3/Copper_Block.png/32px-Copper_Block.png" decoding="async" width="32" height="32" srcset="/images/thumb/a/a3/Copper_Block.png/48px-Copper_Block.png 1.5x, /images/thumb/a/a3/Copper_Block.png/64px-Copper_Block.png 2x" /></a></td>
+<td><a href="/Copper_Block" title="Copper Block">Copper Block</a></td>
+<td>No</td>
+<td>No
+</td></tr>
+<tr>
+<td><a href="/File:Tin_Block_Slab.png" class="image"><img alt="Tin Block Slab.png" src="/images/thumb/8/8b/Tin_Block_Slab.png/32px-Tin_Block_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/8/8b/Tin_Block_Slab.png/48px-Tin_Block_Slab.png 1.5x, /images/thumb/8/8b/Tin_Block_Slab.png/64px-Tin_Block_Slab.png 2x" /></a></td>
+<td><a class="mw-selflink selflink">Tin Block Slab</a></td>
+<td><a href="/File:Tin_Block.png" class="image"><img alt="Tin Block.png" src="/images/thumb/5/54/Tin_Block.png/32px-Tin_Block.png" decoding="async" width="32" height="32" srcset="/images/thumb/5/54/Tin_Block.png/48px-Tin_Block.png 1.5x, /images/thumb/5/54/Tin_Block.png/64px-Tin_Block.png 2x" /></a></td>
+<td><a href="/Tin_Block" title="Tin Block">Tin Block</a></td>
+<td>No</td>
+<td>No
+</td></tr>
+<tr>
+<td><a href="/File:Bronze_Block_Slab.png" class="image"><img alt="Bronze Block Slab.png" src="/images/thumb/3/3e/Bronze_Block_Slab.png/32px-Bronze_Block_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/3/3e/Bronze_Block_Slab.png/48px-Bronze_Block_Slab.png 1.5x, /images/thumb/3/3e/Bronze_Block_Slab.png/64px-Bronze_Block_Slab.png 2x" /></a></td>
+<td><a class="mw-selflink selflink">Bronze Block Slab</a></td>
+<td><a href="/File:Bronze_Block.png" class="image"><img alt="Bronze Block.png" src="/images/thumb/4/47/Bronze_Block.png/32px-Bronze_Block.png" decoding="async" width="32" height="32" srcset="/images/thumb/4/47/Bronze_Block.png/48px-Bronze_Block.png 1.5x, /images/thumb/4/47/Bronze_Block.png/64px-Bronze_Block.png 2x" /></a></td>
+<td><a href="/Bronze_Block" title="Bronze Block">Bronze Block</a></td>
+<td>No</td>
+<td>No
+</td></tr>
+<tr>
+<td><a href="/File:Gold_Block_Slab.png" class="image"><img alt="Gold Block Slab.png" src="/images/thumb/0/05/Gold_Block_Slab.png/32px-Gold_Block_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/05/Gold_Block_Slab.png/48px-Gold_Block_Slab.png 1.5x, /images/thumb/0/05/Gold_Block_Slab.png/64px-Gold_Block_Slab.png 2x" /></a></td>
+<td><a class="mw-selflink selflink">Gold Block Slab</a></td>
+<td><a href="/File:Gold_Block.png" class="image"><img alt="Gold Block.png" src="/images/thumb/6/6c/Gold_Block.png/32px-Gold_Block.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/6c/Gold_Block.png/48px-Gold_Block.png 1.5x, /images/thumb/6/6c/Gold_Block.png/64px-Gold_Block.png 2x" /></a></td>
+<td><a href="/Gold_Block" title="Gold Block">Gold Block</a></td>
+<td>No</td>
+<td>No
+</td></tr>
+<tr>
+<td><a href="/File:Glass_Slab.png" class="image"><img alt="Glass Slab.png" src="/images/thumb/0/01/Glass_Slab.png/32px-Glass_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/01/Glass_Slab.png/48px-Glass_Slab.png 1.5x, /images/thumb/0/01/Glass_Slab.png/64px-Glass_Slab.png 2x" /></a></td>
+<td><a class="mw-selflink selflink">Glass Slab</a></td>
+<td><a href="/File:Glass.png" class="image"><img alt="Glass.png" src="/images/thumb/1/15/Glass.png/32px-Glass.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/15/Glass.png/48px-Glass.png 1.5x, /images/thumb/1/15/Glass.png/64px-Glass.png 2x" /></a></td>
+<td><a href="/Glass" title="Glass">Glass</a></td>
+<td>No</td>
+<td>No
+</td></tr>
+<tr>
+<td><a href="/File:Obsidian_Glass_Slab.png" class="image"><img alt="Obsidian Glass Slab.png" src="/images/thumb/4/44/Obsidian_Glass_Slab.png/32px-Obsidian_Glass_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/4/44/Obsidian_Glass_Slab.png/48px-Obsidian_Glass_Slab.png 1.5x, /images/thumb/4/44/Obsidian_Glass_Slab.png/64px-Obsidian_Glass_Slab.png 2x" /></a></td>
+<td><a class="mw-selflink selflink">Obsidian Glass Slab</a></td>
+<td><a href="/File:Obsidian_Glass.png" class="image"><img alt="Obsidian Glass.png" src="/images/thumb/d/d3/Obsidian_Glass.png/32px-Obsidian_Glass.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/d3/Obsidian_Glass.png/48px-Obsidian_Glass.png 1.5x, /images/thumb/d/d3/Obsidian_Glass.png/64px-Obsidian_Glass.png 2x" /></a></td>
+<td><a href="/Obsidian_Glass" title="Obsidian Glass">Obsidian Glass</a></td>
+<td>No</td>
+<td>No
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Special_slabs">Special slabs</span></h2>
+<ul><li>Cobblestone slabs next to <a href="/Water" title="Water">water</a> (or any water-like block) will turn to mossy cobblestone slabs eventually</li>
+<li>Ice slabs and snow block slabs cool down <a href="/Lava" title="Lava">lava</a></li></ul>
+<h2><span class="mw-headline" id="Crafting">Crafting</span></h2>
+<p>All slabs (except mossy cobblestone slabs) are crafted using the same basic pattern, they only differ in the input material.
+In the following table, replace all “A”s with one of the source materials listed above (i.e. wooden planks) and replace “B” with the corresponding slab type (i.e. wooden slab) from above table.
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th scope="row" width="50px">Name
+</th>
+<th scope="col" width="140px">Ingredients
+</th>
+<th class="unsortable" scope="col">Input &#8594; Output
+</th></tr>
+<tr>
+<th scope="row"><a class="mw-selflink selflink">Slab</a>
+</th>
+<td align="center">One of the slab materials (see above)
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Any_Item_A" title="Any Item A"><img alt="Any Item A.png" src="/images/thumb/4/4b/Any_Item_A.png/32px-Any_Item_A.png" decoding="async" width="32" height="32" srcset="/images/thumb/4/4b/Any_Item_A.png/48px-Any_Item_A.png 1.5x, /images/thumb/4/4b/Any_Item_A.png/64px-Any_Item_A.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Any_Item_A" title="Any Item A"><img alt="Any Item A.png" src="/images/thumb/4/4b/Any_Item_A.png/32px-Any_Item_A.png" decoding="async" width="32" height="32" srcset="/images/thumb/4/4b/Any_Item_A.png/48px-Any_Item_A.png 1.5x, /images/thumb/4/4b/Any_Item_A.png/64px-Any_Item_A.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Any_Item_A" title="Any Item A"><img alt="Any Item A.png" src="/images/thumb/4/4b/Any_Item_A.png/32px-Any_Item_A.png" decoding="async" width="32" height="32" srcset="/images/thumb/4/4b/Any_Item_A.png/48px-Any_Item_A.png 1.5x, /images/thumb/4/4b/Any_Item_A.png/64px-Any_Item_A.png 2x" /></a></div></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/Any_Item_B" title="Any Item B"><img alt="Any Item B.png" src="/images/thumb/1/12/Any_Item_B.png/32px-Any_Item_B.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/12/Any_Item_B.png/48px-Any_Item_B.png 1.5x, /images/thumb/1/12/Any_Item_B.png/64px-Any_Item_B.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black">6</span></div></div>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="As_a_crafting_ingredient">As a crafting ingredient</span></h3>
+<p>You can also turn slabs back into their source material.
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th scope="row" width="50px">Name
+</th>
+<th scope="col" width="140px">Ingredients
+</th>
+<th class="unsortable" scope="col">Input &#8594; Output
+</th></tr>
+<tr>
+<td scope="row">One of the slab materials (see above)
+</td>
+<td align="center"><a class="mw-selflink selflink">Slab</a>
+</td>
+<td>
+<table style="background-color: #555; box-shadow: 1px 1px 0px black;">
+<tbody><tr>
+<td style="border:none;">
+<table>
+<tbody><tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Any_Item_B" title="Any Item B"><img alt="Any Item B.png" src="/images/thumb/1/12/Any_Item_B.png/32px-Any_Item_B.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/12/Any_Item_B.png/48px-Any_Item_B.png 1.5x, /images/thumb/1/12/Any_Item_B.png/64px-Any_Item_B.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr>
+<tr>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"><div class="image"><a href="/Any_Item_B" title="Any Item B"><img alt="Any Item B.png" src="/images/thumb/1/12/Any_Item_B.png/32px-Any_Item_B.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/12/Any_Item_B.png/48px-Any_Item_B.png 1.5x, /images/thumb/1/12/Any_Item_B.png/64px-Any_Item_B.png 2x" /></a></div></div>
+</td>
+<td style="border:none;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333"></div>
+</td></tr></tbody></table>
+</td>
+<td style="border:none; width: 16px;">
+</td>
+<td style="border:none; padding-right: 3px;"><div class="animated" style="width:32px;height:32px;background-color:#888;border:1px solid #333;padding:10px"><div class="image"><a href="/Any_Item_A" title="Any Item A"><img alt="Any Item A.png" src="/images/thumb/4/4b/Any_Item_A.png/32px-Any_Item_A.png" decoding="async" width="32" height="32" srcset="/images/thumb/4/4b/Any_Item_A.png/48px-Any_Item_A.png 1.5x, /images/thumb/4/4b/Any_Item_A.png/64px-Any_Item_A.png 2x" /></a><br /><span style="position:relative;top:-11px;left:25px;font-weight:bold;color:white;text-shadow:1px 1px black"></span></div></div>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<ul><li><a href="/Stair" title="Stair">Stair</a></li></ul>
+<!-- 
+NewPP limit report
+Cached time: 20230811120759
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 1.041 seconds
+Real time usage: 1.769 seconds
+Preprocessor visited node count: 500/1000000
+Post‐expand include size: 19457/2097152 bytes
+Template argument size: 434/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 15/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.320/7 seconds
+Lua virtual size: 6.54 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  757.064      1 -total
+ 48.78%  369.327      1 Template:Languages
+ 26.57%  201.118      1 Template:Block_Data
+ 24.46%  185.175      2 Template:Grid/Craft
+ 21.21%  160.591     20 Template:Grid
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:288-0!canonical and timestamp 20230811120757 and revision id 22317
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Slab&amp;oldid=22317">http://wiki.minetest.net/index.php?title=Slab&amp;oldid=22317</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li><li><a href="/Category:Renewable" title="Category:Renewable">Renewable</a></li><li><a href="/Category:Manufactured_blocks" title="Category:Manufactured blocks">Manufactured blocks</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Slab" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Slab" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Slab&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Slab">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Slab&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Slab&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Slab" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Slab" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Slab&amp;oldid=22317" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Slab&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 6 March 2019, at 18:14.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.041","walltime":"1.769","ppvisitednodes":{"value":500,"limit":1000000},"postexpandincludesize":{"value":19457,"limit":2097152},"templateargumentsize":{"value":434,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":15,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  757.064      1 -total"," 48.78%  369.327      1 Template:Languages"," 26.57%  201.118      1 Template:Block_Data"," 24.46%  185.175      2 Template:Grid/Craft"," 21.21%  160.591     20 Template:Grid"]},"scribunto":{"limitreport-timeusage":{"value":"0.320","limit":"7"},"limitreport-virtmemusage":{"value":6856704,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230811120759","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":270});});</script></body></html>

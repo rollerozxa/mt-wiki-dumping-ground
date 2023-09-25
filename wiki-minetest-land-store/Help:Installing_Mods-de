@@ -1,0 +1,342 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Installing Mods/de - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"2d178f6beb47bfac2d766d98","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Installing_Mods/de","wgTitle":"Installing Mods/de","wgCurRevisionId":26160,"wgRevisionId":26160,"wgArticleId":1551,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Mods (Deutsch)","Deutsch"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Installing_Mods/de","wgRelevantArticleId":1551,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":
+"Help:Installing_Mods/de","wgInternalRedirectTargetUrl":"/Installing_Mods/de"};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<link rel="canonical" href="http://wiki.minetest.net/Installing_Mods/de"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Installing_Mods_de rootpage-Installing_Mods skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Installing Mods/de</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/Installing_Mods" title="Installing Mods">Installing Mods</a></span><span class="mw-redirectedfrom">(Redirected from <a href="/index.php?title=Help:Installing_Mods/de&amp;redirect=no" class="mw-redirect" title="Help:Installing Mods/de">Help:Installing Mods/de</a>)</span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> Sprache:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><a href="/Installing_Mods" title="Installing Mods">English</a><b>&#160;• <bdi lang="de"><a class="mw-selflink selflink">Deutsch</a></bdi></b>&#160;• <bdi lang="fr"><a href="/Installing_Mods/fr" title="Installing Mods/fr">français</a></bdi>&#160;• <bdi lang="it"><a href="/Installing_Mods/it" title="Installing Mods/it">italiano</a></bdi>&#160;• <bdi lang="ms"><a href="/Installing_Mods/ms" title="Installing Mods/ms">Bahasa Melayu</a></bdi>&#160;• <bdi lang="ru"><a href="/Installing_Mods/ru" title="Installing Mods/ru">русский</a></bdi></td>
+</tr></tbody></table>
+<p><br />
+<big><b>Modifikationen (Mods) installieren</b></big><br />
+Diese seite beschreibt, wie man Mods für minetest Spiele installiert.
+</p><p><br />
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Sicherheitshinweis"><span class="tocnumber">1</span> <span class="toctext">Sicherheitshinweis</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Eine_Modifikation_installieren"><span class="tocnumber">2</span> <span class="toctext">Eine Modifikation installieren</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Installieren_einer_Modifikationensammlung"><span class="tocnumber">3</span> <span class="toctext">Installieren einer Modifikationensammlung</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Installationsverzeichnis"><span class="tocnumber">4</span> <span class="toctext">Installationsverzeichnis</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Zus.C3.A4tzliche_Installationsverzeichnisse_.28alle_Minetest-Versionen.29"><span class="tocnumber">5</span> <span class="toctext">Zusätzliche Installationsverzeichnisse (alle Minetest-Versionen)</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Beispielstruktur"><span class="tocnumber">6</span> <span class="toctext">Beispielstruktur</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Sicherheitshinweis">Sicherheitshinweis</span></h2>
+<p>Mods sollten nur aus vertrauenswürdiger Quelle, wie <a rel="nofollow" class="external text" href="https://content.minetest.net">ContentDB</a> bezogen werden. Bösartiger Code kann Computer schädigen, die Privatsphäre verletzen oder den Computer an illegalen Aktivitäten teilnehmen lassen.
+</p>
+<h2><span class="mw-headline" id="Eine_Modifikation_installieren">Eine Modifikation installieren</span></h2>
+<p>Nach dem Herunterladen einer <a href="/Mods/de" title="Mods/de">Modifikation</a> (z.B. aus dem <a rel="nofollow" class="external text" href="http://forum.minetest.net/viewforum.php?f=11">Modifikationenveröffentlichungsforum</a>) haben Sie normalerweise ein Zip-Archiv. Um die Modifikation starten zu können, müssen Sie sie in eines der Verzeichnisse entpacken, in denen Minetest danach sucht. Dies hängt von der von Ihnen installierten Minetest-Version ab.
+</p><p>Sie müssen möglicherweise den Verzeichnisnamen auf den “technischen” Modifikationsnamen ändern (benennen Sie z.B. <code>PilzAdam-carts-70cc4f4</code> in <code>carts</code> um). Diesen Modifikationsnamen finden Sie üblicherweise im Titel des Betreffs im Forum — es ist der letzte Name innerhalb der quadratischen Klammern im Thementitel.
+Wenn der Titel beispielsweise <code>[Mod] Lol Mod [1.0] [anotherlolmod]</code> lauter, müssen Sie das Verzeichnis in <code>anotherlolmod</code> umbenennen.
+</p><p>Falls eines der oben genannten Verzeichnisse nicht existiert, erstellen Sie es.
+</p>
+<h2><span class="mw-headline" id="Installieren_einer_Modifikationensammlung">Installieren einer Modifikationensammlung</span></h2>
+<p>Eine Modifikationensammlung wird auf dieselbe Weise wie eine Modifikation installiert, Sie müssen allerdings normalweise nicht den Verzeichnisnamen der Modifikationensammlung ändern. Stellen Sie nur sicher, dass sich der Name von denen anderer installierter Modifikationen oder Modifikationensammlungen unterscheidet.
+</p>
+<h2><span class="mw-headline" id="Installationsverzeichnis">Installationsverzeichnis</span></h2>
+<p>Seit 0.4.7 werden die Modifikationen global installiert und pro <a href="/Worlds/de" title="Worlds/de">Welt</a> aktiviert.
+</p><p>Der übliche Installationsort ist <code>$Benutzerpfad/mods/</code>. Dies ist in offiziellen Windows-Veröffentlichungen <code>Minetest-Installationsordner/mods/</code> oder auf GNU/Linux mit aktiviertem <code>RUN_IN_PLACE</code> <b><code>~/.minetest/mods/</code></b> in global installierten Minetest-Versionen.
+</p>
+<ul><li>Speicherort der Modifikationen innerhalb der Verzeichnisstruktur einer Installation von Minetest, das auf der Stelle ausgeführt wird, einschließlich einiger Verzeichnisse, die Minetest nach einer Benutzung als Client oder Server hinzufügt, sowie Stellen (…) an denen der benutzerdefinierte Inhalt gespeichert wird. Hierfür irrelevante Verzeichnisse werden nicht aufgeklappt.</li></ul>
+<pre>minetest/
+├── bin/
+├── builtin/
+├── cache/
+├── client/
+├── doc/
+├── fonts/
+├── games/
+│   ├── minetest_game/
+│   ├── minimal/
+│   └── … (installierte zusätzliche Spiele)
+├── locale/
+├── mods/
+│   └── … (installierte zusätzliche Modifikationen und Modifikationensammlungen)
+├── textures/
+│   ├── base/
+│   │   └── pack/
+│   └── … (installierte zusätzliche Texturenpakete)
+└── worlds/
+    └── … (gespeicherte Welten, einige mit exklusiven Weltmodifikationen)
+</pre>
+<p>Nach dem Entpacken der Modifikation müssen Sie sie für Ihre Welt aktivieren. Dies können Sie entweder über die grafische Oberfläche erledigen, indem Sie im Reiter Einzelspieler oder Server unter “Welt wählen” auf “Konfigurieren” klicken oder indem Sie in der Datei world.mt im Verzeichnis “worlds/” <code>load_mod_&lt;modname&gt; = true</code> hinzufügen.
+</p><p>Beachten Sie, dass neu installierte Modifikationen standardmäßig für alle Welten deaktiviert sind. Daher müssen Sie sie explizit aktivieren.
+</p>
+<h2><span id="Zusätzliche_Installationsverzeichnisse_(alle_Minetest-Versionen)"></span><span class="mw-headline" id="Zus.C3.A4tzliche_Installationsverzeichnisse_.28alle_Minetest-Versionen.29">Zusätzliche Installationsverzeichnisse (alle Minetest-Versionen)</span></h2>
+<p>Andere Orte zur Installation von Modifikationen sind <code>world-Verzeichnis/worldmods/</code>, <code>$path_share/mods/</code> und <code>$&lt;path_user, $path_share&gt;/games/&lt;gameid&gt;/mods/</code>.
+</p><p>Behalten Sie im Kopf, dass Benutzer Modifikationen üblicherweise im normalen Installationsverzeichnis und nicht in den zusätzlichen installieren sollten. Beachten Sie, dass die Verwendung von Kopien derselben Modifikation an verschiedenen Orten leicht zu Problemen führt. 
+</p><p>Unterschiede der drei Arten von Orten, an denen Modifikationen aufbewahrt werden:
+</p>
+<ul><li>in einem /game/irgendeinspiel/mods-Verzeichnis, wie dem Verzeichnis des “Minetest-Spiels”. Dies kann ein Unterverzeichnis von irgendwo/minetest/games/minetest_game/mods oder irgendwoanders/minetest(oder .minetest)/games/minetest_game/mods sein. Irgendeine Modifikation in einem Spiel wird per Entwurf als wesentlicher Teil des besagten Spiels angesehen und ist <b>nicht umschaltbar</b>. Diese Modifikationen gelten auf allen von diesem Spiel erstellten Karten, jedoch nicht für irgendeine von einem anderen Spiel erstellte Karte (obwohl viele Spiele dieselben Modifikationen enthalten können).</li></ul>
+<ul><li>in dem Verzeichnis “/mods”, das technisch betrachtet parallel zum Verzeichnis “/bin” liegt, in dem das ausführbare Programm liegt. Auf verschiedenen Installationen kann dies sehr wohl an einem anderen Minetest-Speicherort als dem gemeinsam benutzten-, system/game-, Benutzer- oder einem versteckten Verzeichnis sein. Nur diese Modifikationen sind <b>umschaltbar</b>. Modifikationen in diesen Verzeichnissen können in jeder von jedem Spiel erzeugten Karte benutzt werden. Dies sind daher Stellen, die leicht zu Modifikationskonflikten und sogar zum Absturz von Minetest führen können.</li></ul>
+<ul><li>in einem /worlds/namederwelt/worldmods-Verzeichnis innerhalb des Unterverzeichnisses einer bestimmten Karte, die die Kartendaten enthält. Modifikationen in einem worldmods-Verzeichnis sind <b>nicht umschaltbar</b> und werden nur beim Laden dieser Karte ausgeführt. Auf sie kann von keiner anderen Karte zugegriffen werden.</li></ul>
+<h2><span class="mw-headline" id="Beispielstruktur">Beispielstruktur</span></h2>
+<p>In diesem Beispiel sind die Modifikationen “<code>carts</code>” und “<code>tnt</code>” sowie die Modifikationensammlung “<code>mesecons</code>” installiert:
+</p>
+<pre>    mods/
+    ├── carts/
+    │   ├── init.lua
+    │   ├── functions.lua
+    │   ├── depends.txt
+    │   ├── README.txt
+    │   ├── textures/
+    │   │   ├── carts_top.png
+    │   │   └── …
+    │   └── models/
+    │       ├── cart.x
+    │       └── …
+    ├── tnt/
+    │   ├── init.lua
+    │   ├── depends.txt
+    │   ├── README.txt
+    │   ├── textures/
+    │   │   ├── tnt_side.png
+    │   │   └── …
+    │   └── sounds/
+    │       ├── tnt_explode.ogg
+    │       └── …
+    └── mesecons/
+        ├── modpack.txt
+        ├── mesecons/
+        │   ├── init.lua
+        │   └── …
+        ├── mesecons_alias/
+        │   ├── init.lua
+        │   └── …
+        ├── mesecons_blinkyplant
+        │   ├── init.lua
+        │   └── …
+        ├── mesecons_button
+        │   ├── init.lua
+        │   └── …
+        ├── …
+</pre>
+<!-- 
+NewPP limit report
+Cached time: 20230813182108
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.173 seconds
+Real time usage: 0.468 seconds
+Preprocessor visited node count: 91/1000000
+Post‐expand include size: 2034/2097152 bytes
+Template argument size: 470/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 13/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1727/5000000 bytes
+Lua time usage: 0.120/7 seconds
+Lua virtual size: 5.54 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  368.553      1 Template:Languages
+100.00%  368.553      1 -total
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:1551-0!canonical and timestamp 20230813182107 and revision id 26160
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Installing_Mods/de&amp;oldid=26160">http://wiki.minetest.net/index.php?title=Installing_Mods/de&amp;oldid=26160</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Mods_(Deutsch)" title="Category:Mods (Deutsch)">Mods (Deutsch)</a></li><li><a href="/Category:Deutsch" title="Category:Deutsch">Deutsch</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Installing+Mods%2Fde" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Installing_Mods/de" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Installing_Mods/de&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Installing_Mods/de">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Installing_Mods/de&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Installing_Mods/de&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Installing_Mods/de" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Installing_Mods/de" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Installing_Mods/de&amp;oldid=26160" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Installing_Mods/de&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 17 April 2021, at 19:53.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.173","walltime":"0.468","ppvisitednodes":{"value":91,"limit":1000000},"postexpandincludesize":{"value":2034,"limit":2097152},"templateargumentsize":{"value":470,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":13,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1727,"limit":5000000},"timingprofile":["100.00%  368.553      1 Template:Languages","100.00%  368.553      1 -total"]},"scribunto":{"limitreport-timeusage":{"value":"0.120","limit":"7"},"limitreport-virtmemusage":{"value":5808128,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230813182108","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":470});});</script></body></html>

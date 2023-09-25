@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8"/>
 <title>Air/pt-br - Minetest Wiki</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"cc73bca488a1a81674ba9330","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Air/pt-br","wgTitle":"Air/pt-br","wgCurRevisionId":21578,"wgRevisionId":21578,"wgArticleId":4496,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages","Languages pages without translations","Renewable","Gas","Passable"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Air/pt-br","wgRelevantArticleId":4496,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"1abc0ac25dd9175d14ac51aa","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Air/pt-br","wgTitle":"Air/pt-br","wgCurRevisionId":21578,"wgRevisionId":21578,"wgArticleId":4496,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages","Languages pages without translations","Renewable","Gas","Passable"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Air/pt-br","wgRelevantArticleId":4496,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};
 RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","skins.vector.legacy.js"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
@@ -98,21 +98,21 @@ RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"
 </td>
 <td>air
 </td></tr></tbody></table>
-<p><b>Ar</b> é um <a href="/Blocks/pt-br" class="mw-redirect" title="Blocks/pt-br">bloco</a> transparente, o qual pode ser andável e transpassado por <a href="/Player/pt-br" title="Player/pt-br">jogadores</a> sem qualquer resistência. Um bloco de ar pode ser destruido ao <a href="/Building/pt-br" title="Building/pt-br">construir</a>-se um node sólido na mesma posição, como por <a href="/index.php?title=Water/pt-br&amp;action=edit&amp;redlink=1" class="new" title="Water/pt-br (page does not exist)">agua</a> e <a href="/index.php?title=Lava/pt-br&amp;action=edit&amp;redlink=1" class="new" title="Lava/pt-br (page does not exist)">lava</a>. Quando um bloco que não é ar for removido, um bloco de ar toma imediatamente sua posição.
+<p><b>Ar</b> é um <a href="/index.php?title=Blocks/pt-br&amp;action=edit&amp;redlink=1" class="new" title="Blocks/pt-br (page does not exist)">bloco</a> transparente, o qual pode ser andável e transpassado por <a href="/Player/pt-br" title="Player/pt-br">jogadores</a> sem qualquer resistência. Um bloco de ar pode ser destruido ao <a href="/Building/pt-br" title="Building/pt-br">construir</a>-se um node sólido na mesma posição, como por <a href="/index.php?title=Water/pt-br&amp;action=edit&amp;redlink=1" class="new" title="Water/pt-br (page does not exist)">agua</a> e <a href="/index.php?title=Lava/pt-br&amp;action=edit&amp;redlink=1" class="new" title="Lava/pt-br (page does not exist)">lava</a>. Quando um bloco que não é ar for removido, um bloco de ar toma imediatamente sua posição.
 </p><p><a href="/index.php?title=Fire/pt-br&amp;action=edit&amp;redlink=1" class="new" title="Fire/pt-br (page does not exist)">Fogo</a> ocasionalmente substitui ar perto de <a href="/Category:Flammable" title="Category:Flammable">blocos inflamáveis</a>.
 </p><p>Ar é o bloco mais comum em Minetest. Uma grande parte do <a href="/index.php?title=Maps/pt-br&amp;action=edit&amp;redlink=1" class="new" title="Maps/pt-br (page does not exist)">mundo</a> acima do nível do <a href="/index.php?title=Sea/pt-br&amp;action=edit&amp;redlink=1" class="new" title="Sea/pt-br (page does not exist)">mar</a> consiste apenas de ar. Ar tambem é encontrado em subterraneo na forma de <a href="/index.php?title=Caves/pt-br&amp;action=edit&amp;redlink=1" class="new" title="Caves/pt-br (page does not exist)">cavernas</a>. Ar não pode ser coletado sem <a href="/index.php?title=Cheating/pt-br&amp;action=edit&amp;redlink=1" class="new" title="Cheating/pt-br (page does not exist)">trapaças</a>.
 </p><p>O <a href="/index.php?title=Map_Generator/pt-br&amp;action=edit&amp;redlink=1" class="new" title="Map Generator/pt-br (page does not exist)">gerador de mapa</a> tenta garantir que o jogador sempre <a href="/index.php?title=Spawn/pt-br&amp;action=edit&amp;redlink=1" class="new" title="Spawn/pt-br (page does not exist)">spawne</a> dentro de ar.
-</p><p>Ar é um bloco especial em <a href="/index.php?title=Minetest/pt-br&amp;action=edit&amp;redlink=1" class="new" title="Minetest/pt-br (page does not exist)">Minetest</a>. É um dos poucos blocos que estão sempre disponíveis (com <a href="/Ignore" title="Ignore">Ignore</a>), independentemente de quais <a href="/index.php?title=Games/pt-br&amp;action=edit&amp;redlink=1" class="new" title="Games/pt-br (page does not exist)">jogos</a> e <a href="/Mods/pt-br" title="Mods/pt-br">mods</a> estão ativados. Se um jogo não definir nenhum bloco, o mundo consistirá exclusivamente de ar.
+</p><p>Ar é um bloco especial em <a href="/index.php?title=Minetest/pt-br&amp;action=edit&amp;redlink=1" class="new" title="Minetest/pt-br (page does not exist)">Minetest</a>. É um dos poucos blocos que estão sempre disponíveis (com <a href="/Ignore" title="Ignore">Ignore</a>), independentemente de quais <a href="/index.php?title=Games/pt-br&amp;action=edit&amp;redlink=1" class="new" title="Games/pt-br (page does not exist)">jogos</a> e <a href="/index.php?title=Mods/pt-br&amp;action=edit&amp;redlink=1" class="new" title="Mods/pt-br (page does not exist)">mods</a> estão ativados. Se um jogo não definir nenhum bloco, o mundo consistirá exclusivamente de ar.
 </p><p>O gerador de mapa “singlenode” gera um mapa que consiste unicamente de ar.
 </p>
 <!-- 
 NewPP limit report
-Cached time: 20230709084024
+Cached time: 20230925050759
 Cache expiry: 86400
 Dynamic content: false
 Complications: []
-CPU time usage: 0.227 seconds
-Real time usage: 0.540 seconds
+CPU time usage: 0.228 seconds
+Real time usage: 0.621 seconds
 Preprocessor visited node count: 115/1000000
 Post‐expand include size: 2787/2097152 bytes
 Template argument size: 184/2097152 bytes
@@ -120,18 +120,18 @@ Highest expansion depth: 5/40
 Expensive parser function count: 15/100
 Unstrip recursion depth: 0/20
 Unstrip post‐expand size: 0/5000000 bytes
-Lua time usage: 0.150/7 seconds
-Lua virtual size: 5.94 MB/50 MB
+Lua time usage: 0.160/7 seconds
+Lua virtual size: 5.96 MB/50 MB
 Lua estimated memory usage: 0 bytes
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  468.053      1 -total
- 69.72%  326.340      1 Template:Languages
- 30.20%  141.362      1 Template:Block_Data
+100.00%  547.102      1 -total
+ 77.43%  423.638      1 Template:Languages
+ 22.48%  122.964      1 Template:Block_Data
 -->
 
-<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:4496-0!canonical and timestamp 20230709084023 and revision id 21578
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:4496-0!canonical and timestamp 20230925050758 and revision id 21578
  -->
 </div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Air/pt-br&amp;oldid=21578">http://wiki.minetest.net/index.php?title=Air/pt-br&amp;oldid=21578</a>"</div>
 		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li><li><a href="/Category:Languages_pages_without_translations" title="Category:Languages pages without translations">Languages pages without translations</a></li><li><a href="/Category:Renewable" title="Category:Renewable">Renewable</a></li><li><a href="/Category:Gas" title="Category:Gas">Gas</a></li><li><a href="/Category:Passable" title="Category:Passable">Passable</a></li></ul></div></div>
@@ -296,4 +296,4 @@ Transclusion expansion time report (%,ms,calls,template)
 
 
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.227","walltime":"0.540","ppvisitednodes":{"value":115,"limit":1000000},"postexpandincludesize":{"value":2787,"limit":2097152},"templateargumentsize":{"value":184,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":15,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  468.053      1 -total"," 69.72%  326.340      1 Template:Languages"," 30.20%  141.362      1 Template:Block_Data"]},"scribunto":{"limitreport-timeusage":{"value":"0.150","limit":"7"},"limitreport-virtmemusage":{"value":6225920,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709084024","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":272});});</script></body></html>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.228","walltime":"0.621","ppvisitednodes":{"value":115,"limit":1000000},"postexpandincludesize":{"value":2787,"limit":2097152},"templateargumentsize":{"value":184,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":15,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  547.102      1 -total"," 77.43%  423.638      1 Template:Languages"," 22.48%  122.964      1 Template:Block_Data"]},"scribunto":{"limitreport-timeusage":{"value":"0.160","limit":"7"},"limitreport-virtmemusage":{"value":6246400,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230925050759","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":289});});</script></body></html>

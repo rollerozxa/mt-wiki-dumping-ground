@@ -1,0 +1,1763 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Games/Minetest Game/Smelting/ja - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"cb16b019b04395de77591082","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Games/Minetest_Game/Smelting/ja","wgTitle":"Games/Minetest Game/Smelting/ja","wgCurRevisionId":25766,"wgRevisionId":25766,"wgArticleId":4766,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Incomplete translated pages","Pages with broken file links","Japanese","Languages pages"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Games/Minetest_Game/Smelting/ja","wgRelevantArticleId":4766,"wgIsProbablyEditable":!1,
+"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Smelting/ja","wgInternalRedirectTargetUrl":"/Games/Minetest_Game/Smelting/ja"};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.tablesorter.styles":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=ext.cite.styles%7Cjquery.tablesorter.styles%7Cmediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<link rel="canonical" href="http://wiki.minetest.net/Games/Minetest_Game/Smelting/ja"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Games_Minetest_Game_Smelting_ja rootpage-Games skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Games/Minetest Game/Smelting/ja</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/Games" title="Games">Games</a>&lrm; | <a href="/Games/Minetest_Game" title="Games/Minetest Game">Minetest Game</a>&lrm; | <a href="/Games/Minetest_Game/Smelting" title="Games/Minetest Game/Smelting">Smelting</a></span><span class="mw-redirectedfrom">(Redirected from <a href="/index.php?title=Smelting/ja&amp;redirect=no" class="mw-redirect" title="Smelting/ja">Smelting/ja</a>)</span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> 言語:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><a href="/Games/Minetest_Game/Smelting" title="Games/Minetest Game/Smelting">English</a>&#160;• <bdi lang="de"><a href="/Games/Minetest_Game/Smelting/de" title="Games/Minetest Game/Smelting/de">Deutsch</a></bdi>&#160;• <bdi lang="fr"><a href="/Games/Minetest_Game/Smelting/fr" title="Games/Minetest Game/Smelting/fr">français</a></bdi>&#160;• <bdi lang="it"><a href="/Games/Minetest_Game/Smelting/it" title="Games/Minetest Game/Smelting/it">italiano</a></bdi><b>&#160;• <bdi lang="ja"><a class="mw-selflink selflink">日本語</a></bdi></b>&#160;• <bdi lang="ms"><a href="/Games/Minetest_Game/Smelting/ms" title="Games/Minetest Game/Smelting/ms">Bahasa Melayu</a></bdi></td>
+</tr></tbody></table>
+<table style="margin: 0 auto 1em; text-align: justify; border-collapse: collapse; border-width: 1px; border-style: dashed; width: 100%; clear: both; border-color:#f4c430; background:#ffe;">
+<tbody><tr>
+<td style="border: none; padding: 2px 0 2px 0.9em; text-align: center;">
+ <img alt="Mbox style.png" src="/images/thumb/b/be/Mbox_style.png/25px-Mbox_style.png" decoding="async" width="25" height="25" srcset="/images/thumb/b/be/Mbox_style.png/38px-Mbox_style.png 1.5x, /images/b/be/Mbox_style.png 2x" /></td>
+<td style="border: none; padding: 0.25em 0.9em; width: 100%;"><b>これは不完全な翻訳です。</b><br />
+お時間があるときに翻訳を完了させてください。</td>
+
+</tr></tbody></table>
+<p><b>製錬</b>（または<b>調理</b>）は、Minetest内の特殊なブロックを使用してよりよいものを製造する行為です。特殊なブロックには<a href="/Furnace" title="Furnace">かまど</a>などが該当します。
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#.E8.A3.BD.E9.8C.AC.E3.81.AE.E5.9F.BA.E6.9C.AC"><span class="tocnumber">1</span> <span class="toctext">製錬の基本</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#.E7.87.83.E6.96.99.E9.81.B8.E3.81.B3.E3.81.AE.E4.BE.8B"><span class="tocnumber">1.1</span> <span class="toctext">燃料選びの例</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Minetest_Game"><span class="tocnumber">2</span> <span class="toctext">Minetest Game</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#.E8.A3.BD.E9.8C.AC.E3.83.AC.E3.82.B7.E3.83.94"><span class="tocnumber">2.1</span> <span class="toctext">製錬レシピ</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#.E7.87.83.E6.96.99"><span class="tocnumber">2.2</span> <span class="toctext">燃料</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span id="製錬の基本"></span><span class="mw-headline" id=".E8.A3.BD.E9.8C.AC.E3.81.AE.E5.9F.BA.E6.9C.AC">製錬の基本</span></h2>
+<p>Minetestでは、製錬は<a href="/index.php?title=Craftiong&amp;action=edit&amp;redlink=1" class="new" title="Craftiong (page does not exist)">クラフト</a>の一種と見なされています。
+</p><p>製錬または調理には、次のものが必要です。
+</p>
+<ul><li>燃料として利用可能なアイテム</li>
+<li>製錬や調理が可能なアイテム</li>
+<li>製錬を実行できる特殊なブロック（<a href="/Furnace" title="Furnace">かまど</a>など）</li></ul>
+<p>燃料は、火をおこすために使われます。一般的には、石炭や木製のものが使用されます。製錬が完了するまで燃え続けるならばどのような燃料を使っても構いません。各燃料にはそれぞれ燃焼の持続時間があります。通常、燃料は燃え初めのタイミングで消費されますが、一部の特別な製錬については他のアイテムに置き換わる場合もあります。
+</p><p>製錬可能なアイテムは何を製錬したいかによって選ぶ必要があります。これらは製錬を完了するまでの間、燃料が途切れてはいけません（具体的な時間はアイテムによって変動します）。
+</p>
+<h3><span id="燃料選びの例"></span><span class="mw-headline" id=".E7.87.83.E6.96.99.E9.81.B8.E3.81.B3.E3.81.AE.E4.BE.8B">燃料選びの例</span></h3>
+<p><a href="/index.php?title=Gamse/Minetest_Game&amp;action=edit&amp;redlink=1" class="new" title="Gamse/Minetest Game (page does not exist)">Minetest Game</a>で登場する「<a href="/Iron_Lump" title="Iron Lump">鉄鉱石</a>」は製錬するのに3秒かかります。 つまり、鉄鉱石の製錬には合計で3秒以上、炎を持続させる燃料が必要であることを意味します。 ほとんどのアイテムは十分に長く燃えます。 例えば、<a href="/Coal_Lump" title="Coal Lump">石炭</a>または<a href="/Wood" title="Wood">木材</a>、または他のほとんどの燃料アイテムを使用できます。しかし、石炭を燃料として選んだ場合、3秒を超えた分は無駄になります。この例では木材のほうが無駄が少なくて済みます。 燃料が１つでは十分な燃焼時間を得られない場合、複数個スタックすることができます。具体的には、この例では<a href="/Leaves" title="Leaves">葉</a>を３つ使用することもできます。
+</p>
+<h2><span class="mw-headline" id="Minetest_Game"><a href="/Games/Minetest_Game" title="Games/Minetest Game">Minetest Game</a></span></h2>
+<p><a href="/Games/Minetest_Game" title="Games/Minetest Game">Minetest Game</a>では、すべての製錬作業に<a href="/Furnace" title="Furnace">かまど</a>が使用されます。 詳細は<a href="/Furnace" title="Furnace">かまど</a>のページを参照してください。 以下は<a href="/Games/Minetest_Game" title="Games/Minetest Game">Minetest Game</a>で利用可能な製錬レシピと燃料の一覧です。
+</p>
+<h3><span id="製錬レシピ"></span><span class="mw-headline" id=".E8.A3.BD.E9.8C.AC.E3.83.AC.E3.82.B7.E3.83.94">製錬レシピ</span></h3>
+<p>以下のアイテムは製錬・調理することが出来ます。
+</p>
+<table class="wikitable collapsible">
+
+<tbody><tr>
+<th scope="row" width="220px">調理前
+</th>
+<th scope="col"><a href="/Furnace" title="Furnace">かまど</a>
+</th>
+<th scope="row" width="160px">調理後
+</th>
+<th scope="row" width="80px">調理時間（秒）
+</th></tr>
+<tr>
+<td><a href="/Flour" title="Flour"><img alt="Flour.png" src="/images/thumb/e/e8/Flour.png/32px-Flour.png" decoding="async" width="32" height="32" srcset="/images/thumb/e/e8/Flour.png/48px-Flour.png 1.5x, /images/thumb/e/e8/Flour.png/64px-Flour.png 2x" /></a> <a href="/Flour" title="Flour">小麦粉</a>
+</td>
+<td><img alt="Arrow.png" src="/images/4/41/Arrow.png" decoding="async" width="32" height="26" /> <img alt="Furnace.png" src="/images/thumb/0/0f/Furnace.png/32px-Furnace.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/0f/Furnace.png/48px-Furnace.png 1.5x, /images/thumb/0/0f/Furnace.png/64px-Furnace.png 2x" /> <img alt="Arrow.png" src="/images/4/41/Arrow.png" decoding="async" width="32" height="26" />
+</td>
+<td><a href="/Bread" title="Bread"><img alt="Bread.png" src="/images/thumb/e/e1/Bread.png/32px-Bread.png" decoding="async" width="32" height="32" srcset="/images/thumb/e/e1/Bread.png/48px-Bread.png 1.5x, /images/thumb/e/e1/Bread.png/64px-Bread.png 2x" /></a> <a href="/Bread" title="Bread">パン</a>
+</td>
+<td>15
+</td></tr>
+<tr>
+<td><a href="/Cobblestone" title="Cobblestone"><img alt="Cobblestone.png" src="/images/thumb/6/67/Cobblestone.png/32px-Cobblestone.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/67/Cobblestone.png/48px-Cobblestone.png 1.5x, /images/thumb/6/67/Cobblestone.png/64px-Cobblestone.png 2x" /></a> <a href="/Cobblestone" title="Cobblestone">丸石</a>
+</td>
+<td><img alt="Arrow.png" src="/images/4/41/Arrow.png" decoding="async" width="32" height="26" /> <img alt="Furnace.png" src="/images/thumb/0/0f/Furnace.png/32px-Furnace.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/0f/Furnace.png/48px-Furnace.png 1.5x, /images/thumb/0/0f/Furnace.png/64px-Furnace.png 2x" /> <img alt="Arrow.png" src="/images/4/41/Arrow.png" decoding="async" width="32" height="26" />
+</td>
+<td><a href="/Stone" title="Stone"><img alt="Stone.png" src="/images/thumb/d/d4/Stone.png/32px-Stone.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/d4/Stone.png/48px-Stone.png 1.5x, /images/thumb/d/d4/Stone.png/64px-Stone.png 2x" /></a> <a href="/Stone" title="Stone">石</a>
+</td>
+<td>3
+</td></tr>
+<tr>
+<td><a href="/Mossy_Cobblestone" title="Mossy Cobblestone"><img alt="Mossy Cobblestone.png" src="/images/thumb/a/af/Mossy_Cobblestone.png/32px-Mossy_Cobblestone.png" decoding="async" width="32" height="32" srcset="/images/thumb/a/af/Mossy_Cobblestone.png/48px-Mossy_Cobblestone.png 1.5x, /images/thumb/a/af/Mossy_Cobblestone.png/64px-Mossy_Cobblestone.png 2x" /></a> <a href="/Mossy_Cobblestone" title="Mossy Cobblestone">苔むした丸石</a>
+</td>
+<td><img alt="Arrow.png" src="/images/4/41/Arrow.png" decoding="async" width="32" height="26" /> <img alt="Furnace.png" src="/images/thumb/0/0f/Furnace.png/32px-Furnace.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/0f/Furnace.png/48px-Furnace.png 1.5x, /images/thumb/0/0f/Furnace.png/64px-Furnace.png 2x" /> <img alt="Arrow.png" src="/images/4/41/Arrow.png" decoding="async" width="32" height="26" />
+</td>
+<td><a href="/Stone" title="Stone"><img alt="Stone.png" src="/images/thumb/d/d4/Stone.png/32px-Stone.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/d4/Stone.png/48px-Stone.png 1.5x, /images/thumb/d/d4/Stone.png/64px-Stone.png 2x" /></a> <a href="/Stone" title="Stone">石</a>
+</td>
+<td>3
+</td></tr>
+<tr>
+<td><a href="/Desert_Cobblestone" title="Desert Cobblestone"><img alt="Desert Cobblestone.png" src="/images/thumb/2/2d/Desert_Cobblestone.png/32px-Desert_Cobblestone.png" decoding="async" width="32" height="32" srcset="/images/thumb/2/2d/Desert_Cobblestone.png/48px-Desert_Cobblestone.png 1.5x, /images/thumb/2/2d/Desert_Cobblestone.png/64px-Desert_Cobblestone.png 2x" /></a> <a href="/Desert_Cobblestone" title="Desert Cobblestone">砂岩</a>
+</td>
+<td><img alt="Arrow.png" src="/images/4/41/Arrow.png" decoding="async" width="32" height="26" /> <img alt="Furnace.png" src="/images/thumb/0/0f/Furnace.png/32px-Furnace.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/0f/Furnace.png/48px-Furnace.png 1.5x, /images/thumb/0/0f/Furnace.png/64px-Furnace.png 2x" /> <img alt="Arrow.png" src="/images/4/41/Arrow.png" decoding="async" width="32" height="26" />
+</td>
+<td><a href="/Desert_Stone" title="Desert Stone"><img alt="Desert Stone.png" src="/images/thumb/d/da/Desert_Stone.png/32px-Desert_Stone.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/da/Desert_Stone.png/48px-Desert_Stone.png 1.5x, /images/thumb/d/da/Desert_Stone.png/64px-Desert_Stone.png 2x" /></a> <a href="/Desert_Stone" title="Desert Stone">研がれた砂岩</a>
+</td>
+<td>3
+</td></tr>
+<tr>
+<td><a href="/Clay_Lump" title="Clay Lump"><img alt="Clay Lump.png" src="/images/thumb/7/73/Clay_Lump.png/32px-Clay_Lump.png" decoding="async" width="32" height="32" srcset="/images/thumb/7/73/Clay_Lump.png/48px-Clay_Lump.png 1.5x, /images/thumb/7/73/Clay_Lump.png/64px-Clay_Lump.png 2x" /></a> <a href="/Clay_Lump" title="Clay Lump">粘土</a>
+</td>
+<td><img alt="Arrow.png" src="/images/4/41/Arrow.png" decoding="async" width="32" height="26" /> <img alt="Furnace.png" src="/images/thumb/0/0f/Furnace.png/32px-Furnace.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/0f/Furnace.png/48px-Furnace.png 1.5x, /images/thumb/0/0f/Furnace.png/64px-Furnace.png 2x" /> <img alt="Arrow.png" src="/images/4/41/Arrow.png" decoding="async" width="32" height="26" />
+</td>
+<td><a href="/Clay_Brick" title="Clay Brick"><img alt="Clay Brick.png" src="/images/thumb/7/70/Clay_Brick.png/32px-Clay_Brick.png" decoding="async" width="32" height="32" srcset="/images/thumb/7/70/Clay_Brick.png/48px-Clay_Brick.png 1.5x, /images/thumb/7/70/Clay_Brick.png/64px-Clay_Brick.png 2x" /></a> <a href="/Clay_Brick" title="Clay Brick">レンガ</a>
+</td>
+<td>3
+</td></tr>
+<tr>
+<td><a href="/Iron_Lump" title="Iron Lump"><img alt="Iron Lump.png" src="/images/thumb/c/cf/Iron_Lump.png/32px-Iron_Lump.png" decoding="async" width="32" height="32" srcset="/images/thumb/c/cf/Iron_Lump.png/48px-Iron_Lump.png 1.5x, /images/thumb/c/cf/Iron_Lump.png/64px-Iron_Lump.png 2x" /></a> <a href="/Iron_Lump" title="Iron Lump">鉄鉱石</a>
+</td>
+<td><img alt="Arrow.png" src="/images/4/41/Arrow.png" decoding="async" width="32" height="26" /> <img alt="Furnace.png" src="/images/thumb/0/0f/Furnace.png/32px-Furnace.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/0f/Furnace.png/48px-Furnace.png 1.5x, /images/thumb/0/0f/Furnace.png/64px-Furnace.png 2x" /> <img alt="Arrow.png" src="/images/4/41/Arrow.png" decoding="async" width="32" height="26" />
+</td>
+<td><a href="/Steel_Ingot" title="Steel Ingot"><img alt="Steel Ingot.png" src="/images/thumb/b/bd/Steel_Ingot.png/32px-Steel_Ingot.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/bd/Steel_Ingot.png/48px-Steel_Ingot.png 1.5x, /images/thumb/b/bd/Steel_Ingot.png/64px-Steel_Ingot.png 2x" /></a> <a href="/Steel_Ingot" title="Steel Ingot">鉄インゴット</a>
+</td>
+<td>3
+</td></tr>
+<tr>
+<td><a href="/Heavy_Steel_Bottle" title="Heavy Steel Bottle"><img alt="Heavy Steel Bottle.png" src="/images/thumb/6/6c/Heavy_Steel_Bottle.png/32px-Heavy_Steel_Bottle.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/6c/Heavy_Steel_Bottle.png/48px-Heavy_Steel_Bottle.png 1.5x, /images/thumb/6/6c/Heavy_Steel_Bottle.png/64px-Heavy_Steel_Bottle.png 2x" /></a> <a href="/Heavy_Steel_Bottle" class="mw-redirect" title="Heavy Steel Bottle">重い鉄ボトル</a>
+</td>
+<td><img alt="Arrow.png" src="/images/4/41/Arrow.png" decoding="async" width="32" height="26" /> <img alt="Furnace.png" src="/images/thumb/0/0f/Furnace.png/32px-Furnace.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/0f/Furnace.png/48px-Furnace.png 1.5x, /images/thumb/0/0f/Furnace.png/64px-Furnace.png 2x" /> <img alt="Arrow.png" src="/images/4/41/Arrow.png" decoding="async" width="32" height="26" />
+</td>
+<td><a href="/Steel_Ingot" title="Steel Ingot"><img alt="Steel Ingot.png" src="/images/thumb/b/bd/Steel_Ingot.png/32px-Steel_Ingot.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/bd/Steel_Ingot.png/48px-Steel_Ingot.png 1.5x, /images/thumb/b/bd/Steel_Ingot.png/64px-Steel_Ingot.png 2x" /></a> <a href="/Steel_Ingot" title="Steel Ingot">鉄インゴット</a>
+</td>
+<td>3
+</td></tr>
+<tr>
+<td><a href="/Copper_lump" title="Copper lump"><img alt="Copper Lump.png" src="/images/thumb/d/d5/Copper_Lump.png/32px-Copper_Lump.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/d5/Copper_Lump.png/48px-Copper_Lump.png 1.5x, /images/thumb/d/d5/Copper_Lump.png/64px-Copper_Lump.png 2x" /></a> <a href="/Copper_Lump" title="Copper Lump">銅鉱石</a>
+</td>
+<td><img alt="Arrow.png" src="/images/4/41/Arrow.png" decoding="async" width="32" height="26" /> <img alt="Furnace.png" src="/images/thumb/0/0f/Furnace.png/32px-Furnace.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/0f/Furnace.png/48px-Furnace.png 1.5x, /images/thumb/0/0f/Furnace.png/64px-Furnace.png 2x" /> <img alt="Arrow.png" src="/images/4/41/Arrow.png" decoding="async" width="32" height="26" />
+</td>
+<td><a href="/Copper_Ingot" title="Copper Ingot"><img alt="Copper Ingot.png" src="/images/thumb/0/00/Copper_Ingot.png/32px-Copper_Ingot.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/00/Copper_Ingot.png/48px-Copper_Ingot.png 1.5x, /images/thumb/0/00/Copper_Ingot.png/64px-Copper_Ingot.png 2x" /></a> <a href="/Copper_Ingot" title="Copper Ingot">銅インゴット</a>
+</td>
+<td>3
+</td></tr>
+<tr>
+<td><a href="/Tin_lump" title="Tin lump"><img alt="Tin Lump.png" src="/images/thumb/4/42/Tin_Lump.png/32px-Tin_Lump.png" decoding="async" width="32" height="32" srcset="/images/thumb/4/42/Tin_Lump.png/48px-Tin_Lump.png 1.5x, /images/thumb/4/42/Tin_Lump.png/64px-Tin_Lump.png 2x" /></a> <a href="/Tin_Lump" title="Tin Lump">スズ鉱石</a>
+</td>
+<td><img alt="Arrow.png" src="/images/4/41/Arrow.png" decoding="async" width="32" height="26" /> <img alt="Furnace.png" src="/images/thumb/0/0f/Furnace.png/32px-Furnace.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/0f/Furnace.png/48px-Furnace.png 1.5x, /images/thumb/0/0f/Furnace.png/64px-Furnace.png 2x" /> <img alt="Arrow.png" src="/images/4/41/Arrow.png" decoding="async" width="32" height="26" />
+</td>
+<td><a href="/Tin_Ingot" title="Tin Ingot"><img alt="Tin Ingot.png" src="/images/thumb/9/97/Tin_Ingot.png/32px-Tin_Ingot.png" decoding="async" width="32" height="32" srcset="/images/thumb/9/97/Tin_Ingot.png/48px-Tin_Ingot.png 1.5x, /images/thumb/9/97/Tin_Ingot.png/64px-Tin_Ingot.png 2x" /></a> <a href="/Tin_Ingot" title="Tin Ingot">スズインゴット</a>
+</td>
+<td>3
+</td></tr>
+<tr>
+<td><a href="/Gold_Lump" title="Gold Lump"><img alt="Gold Lump.png" src="/images/thumb/7/7c/Gold_Lump.png/32px-Gold_Lump.png" decoding="async" width="32" height="32" srcset="/images/thumb/7/7c/Gold_Lump.png/48px-Gold_Lump.png 1.5x, /images/thumb/7/7c/Gold_Lump.png/64px-Gold_Lump.png 2x" /></a> <a href="/Gold_Lump" title="Gold Lump">金鉱石</a>
+</td>
+<td><img alt="Arrow.png" src="/images/4/41/Arrow.png" decoding="async" width="32" height="26" /> <img alt="Furnace.png" src="/images/thumb/0/0f/Furnace.png/32px-Furnace.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/0f/Furnace.png/48px-Furnace.png 1.5x, /images/thumb/0/0f/Furnace.png/64px-Furnace.png 2x" /> <img alt="Arrow.png" src="/images/4/41/Arrow.png" decoding="async" width="32" height="26" />
+</td>
+<td><a href="/Gold_Ingot" title="Gold Ingot"><img alt="Gold ingot.png" src="/images/thumb/9/9a/Gold_ingot.png/32px-Gold_ingot.png" decoding="async" width="32" height="32" srcset="/images/thumb/9/9a/Gold_ingot.png/48px-Gold_ingot.png 1.5x, /images/thumb/9/9a/Gold_ingot.png/64px-Gold_ingot.png 2x" /></a> <a href="/Gold_Ingot" title="Gold Ingot">金インゴット</a>
+</td>
+<td>3
+</td></tr>
+<tr>
+<td><a href="/Skeleton_Key" title="Skeleton Key"><img alt="Skeleton Key.png" src="/images/thumb/d/d9/Skeleton_Key.png/32px-Skeleton_Key.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/d9/Skeleton_Key.png/48px-Skeleton_Key.png 1.5x, /images/thumb/d/d9/Skeleton_Key.png/64px-Skeleton_Key.png 2x" /></a> <a href="/Skeleton_Key" title="Skeleton Key">合鍵</a>
+</td>
+<td><img alt="Arrow.png" src="/images/4/41/Arrow.png" decoding="async" width="32" height="26" /> <img alt="Furnace.png" src="/images/thumb/0/0f/Furnace.png/32px-Furnace.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/0f/Furnace.png/48px-Furnace.png 1.5x, /images/thumb/0/0f/Furnace.png/64px-Furnace.png 2x" /> <img alt="Arrow.png" src="/images/4/41/Arrow.png" decoding="async" width="32" height="26" />
+</td>
+<td><a href="/Gold_Ingot" title="Gold Ingot"><img alt="Gold ingot.png" src="/images/thumb/9/9a/Gold_ingot.png/32px-Gold_ingot.png" decoding="async" width="32" height="32" srcset="/images/thumb/9/9a/Gold_ingot.png/48px-Gold_ingot.png 1.5x, /images/thumb/9/9a/Gold_ingot.png/64px-Gold_ingot.png 2x" /></a> <a href="/Gold_Ingot" title="Gold Ingot">金インゴット</a>
+</td>
+<td>5
+</td></tr>
+<tr>
+<td><a href="/Key" title="Key"><img alt="Key.png" src="/images/thumb/5/52/Key.png/32px-Key.png" decoding="async" width="32" height="32" srcset="/images/thumb/5/52/Key.png/48px-Key.png 1.5x, /images/thumb/5/52/Key.png/64px-Key.png 2x" /></a> <a href="/Key" title="Key">鍵</a>
+</td>
+<td><img alt="Arrow.png" src="/images/4/41/Arrow.png" decoding="async" width="32" height="26" /> <img alt="Furnace.png" src="/images/thumb/0/0f/Furnace.png/32px-Furnace.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/0f/Furnace.png/48px-Furnace.png 1.5x, /images/thumb/0/0f/Furnace.png/64px-Furnace.png 2x" /> <img alt="Arrow.png" src="/images/4/41/Arrow.png" decoding="async" width="32" height="26" />
+</td>
+<td><a href="/Gold_Ingot" title="Gold Ingot"><img alt="Gold ingot.png" src="/images/thumb/9/9a/Gold_ingot.png/32px-Gold_ingot.png" decoding="async" width="32" height="32" srcset="/images/thumb/9/9a/Gold_ingot.png/48px-Gold_ingot.png 1.5x, /images/thumb/9/9a/Gold_ingot.png/64px-Gold_ingot.png 2x" /></a> <a href="/Gold_Ingot" title="Gold Ingot">金インゴット</a>
+</td>
+<td>5
+</td></tr>
+<tr>
+<td><a href="/Category:Sand" title="Category:Sand"><img alt="Group sand.png" src="/images/thumb/4/4a/Group_sand.png/32px-Group_sand.png" decoding="async" width="32" height="32" srcset="/images/thumb/4/4a/Group_sand.png/48px-Group_sand.png 1.5x, /images/thumb/4/4a/Group_sand.png/64px-Group_sand.png 2x" /></a> 「<a href="/Category:Sand" title="Category:Sand">砂</a>」系統
+</td>
+<td><img alt="Arrow.png" src="/images/4/41/Arrow.png" decoding="async" width="32" height="26" /> <img alt="Furnace.png" src="/images/thumb/0/0f/Furnace.png/32px-Furnace.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/0f/Furnace.png/48px-Furnace.png 1.5x, /images/thumb/0/0f/Furnace.png/64px-Furnace.png 2x" /> <img alt="Arrow.png" src="/images/4/41/Arrow.png" decoding="async" width="32" height="26" />
+</td>
+<td><a href="/Glass" title="Glass"><img alt="Glass.png" src="/images/thumb/1/15/Glass.png/32px-Glass.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/15/Glass.png/48px-Glass.png 1.5x, /images/thumb/1/15/Glass.png/64px-Glass.png 2x" /></a> <a href="/Glass" title="Glass">ガラス</a>
+</td>
+<td>3
+</td></tr>
+<tr>
+<td><a href="/Glass_Fragments" title="Glass Fragments"><img alt="Glass Fragments.png" src="/images/thumb/8/87/Glass_Fragments.png/32px-Glass_Fragments.png" decoding="async" width="32" height="32" srcset="/images/thumb/8/87/Glass_Fragments.png/48px-Glass_Fragments.png 1.5x, /images/thumb/8/87/Glass_Fragments.png/64px-Glass_Fragments.png 2x" /></a> <a href="/Glass_Fragments" title="Glass Fragments">ガラスの破片</a>
+</td>
+<td><img alt="Arrow.png" src="/images/4/41/Arrow.png" decoding="async" width="32" height="26" /> <img alt="Furnace.png" src="/images/thumb/0/0f/Furnace.png/32px-Furnace.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/0f/Furnace.png/48px-Furnace.png 1.5x, /images/thumb/0/0f/Furnace.png/64px-Furnace.png 2x" /> <img alt="Arrow.png" src="/images/4/41/Arrow.png" decoding="async" width="32" height="26" />
+</td>
+<td><a href="/Glass" title="Glass"><img alt="Glass.png" src="/images/thumb/1/15/Glass.png/32px-Glass.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/15/Glass.png/48px-Glass.png 1.5x, /images/thumb/1/15/Glass.png/64px-Glass.png 2x" /></a> <a href="/Glass" title="Glass">ガラス</a>
+</td>
+<td>3
+</td></tr>
+<tr>
+<td><a href="/Obsidian_Shard" title="Obsidian Shard"><img alt="Obsidian Shard.png" src="/images/thumb/f/f1/Obsidian_Shard.png/32px-Obsidian_Shard.png" decoding="async" width="32" height="32" srcset="/images/thumb/f/f1/Obsidian_Shard.png/48px-Obsidian_Shard.png 1.5x, /images/thumb/f/f1/Obsidian_Shard.png/64px-Obsidian_Shard.png 2x" /></a> <a href="/Obsidian_Shard" title="Obsidian Shard">黒曜石の破片</a>
+</td>
+<td><img alt="Arrow.png" src="/images/4/41/Arrow.png" decoding="async" width="32" height="26" /> <img alt="Furnace.png" src="/images/thumb/0/0f/Furnace.png/32px-Furnace.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/0f/Furnace.png/48px-Furnace.png 1.5x, /images/thumb/0/0f/Furnace.png/64px-Furnace.png 2x" /> <img alt="Arrow.png" src="/images/4/41/Arrow.png" decoding="async" width="32" height="26" />
+</td>
+<td><a href="/Glass" title="Glass"><img alt="Obsidian Glass.png" src="/images/thumb/d/d3/Obsidian_Glass.png/32px-Obsidian_Glass.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/d3/Obsidian_Glass.png/48px-Obsidian_Glass.png 1.5x, /images/thumb/d/d3/Obsidian_Glass.png/64px-Obsidian_Glass.png 2x" /></a> <a href="/Obsidian_Glass" title="Obsidian Glass">黒曜石ガラス</a>
+</td>
+<td>3
+</td></tr></tbody></table>
+<h3><span id="燃料"></span><span class="mw-headline" id=".E7.87.83.E6.96.99">燃料</span></h3>
+<p>以下のアイテムは、燃料として利用できます。
+</p>
+<table class="wikitable collapsible sortable">
+<tbody><tr>
+<th scope="row" class="unsortable">
+</th>
+<th scope="row">アイテム名
+</th>
+<th scope="row">燃焼時間（秒）
+</th>
+<th scope="row" class="unsortable">燃料1個ごとに製錬できるアイテム数<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</th>
+<th scope="row" class="unsortable">
+</th>
+<th scope="row">燃焼後
+</th></tr>
+<tr>
+<td><a href="/Coal_Block" title="Coal Block"><img alt="Coal Block.png" src="/images/thumb/9/95/Coal_Block.png/32px-Coal_Block.png" decoding="async" width="32" height="32" srcset="/images/thumb/9/95/Coal_Block.png/48px-Coal_Block.png 1.5x, /images/thumb/9/95/Coal_Block.png/64px-Coal_Block.png 2x" /></a>
+</td>
+<td><a href="/Coal_Block" title="Coal Block">石炭ブロック</a>
+</td>
+<td>370
+</td>
+<td>123&#x200b;⅓
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Lava_Bucket" title="Lava Bucket"><img alt="Lava Bucket.png" src="/images/thumb/c/cd/Lava_Bucket.png/32px-Lava_Bucket.png" decoding="async" width="32" height="32" srcset="/images/thumb/c/cd/Lava_Bucket.png/48px-Lava_Bucket.png 1.5x, /images/thumb/c/cd/Lava_Bucket.png/64px-Lava_Bucket.png 2x" /></a>
+</td>
+<td><a href="/Bucket" title="Bucket">溶岩入りバケツ</a>
+</td>
+<td>60
+</td>
+<td>20
+</td>
+<td><a href="/Bucket" title="Bucket"><img alt="Bucket.png" src="/images/thumb/5/52/Bucket.png/32px-Bucket.png" decoding="async" width="32" height="32" srcset="/images/thumb/5/52/Bucket.png/48px-Bucket.png 1.5x, /images/thumb/5/52/Bucket.png/64px-Bucket.png 2x" /></a>
+</td>
+<td><a href="/Bucket" title="Bucket">（空の）バケツ</a>
+</td></tr>
+<tr>
+<td><a href="/Lava_Source" title="Lava Source"><img alt="Lava.png" src="/images/thumb/2/27/Lava.png/32px-Lava.png" decoding="async" width="32" height="32" srcset="/images/thumb/2/27/Lava.png/48px-Lava.png 1.5x, /images/thumb/2/27/Lava.png/64px-Lava.png 2x" /></a>
+</td>
+<td><a href="/Lava" title="Lava">溶岩原</a>
+</td>
+<td>60
+</td>
+<td>20
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Coal_Lump" title="Coal Lump"><img alt="Coal.png" src="/images/thumb/a/a7/Coal.png/32px-Coal.png" decoding="async" width="32" height="32" srcset="/images/thumb/a/a7/Coal.png/48px-Coal.png 1.5x, /images/thumb/a/a7/Coal.png/64px-Coal.png 2x" /></a>
+</td>
+<td><a href="/Coal_Lump" title="Coal Lump">石炭</a>
+</td>
+<td>40
+</td>
+<td>13&#x200b;⅓
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Jungle_Tree" title="Jungle Tree"><img alt="Jungle Tree.png" src="/images/thumb/1/16/Jungle_Tree.png/32px-Jungle_Tree.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/16/Jungle_Tree.png/48px-Jungle_Tree.png 1.5x, /images/thumb/1/16/Jungle_Tree.png/64px-Jungle_Tree.png 2x" /></a>
+</td>
+<td><a href="/Jungle_Tree" title="Jungle Tree">ジャングルの木</a>
+</td>
+<td>38
+</td>
+<td>12&#x200b;⅔
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Acacia_Tree" title="Acacia Tree"><img alt="Acacia Tree.png" src="/images/thumb/8/8f/Acacia_Tree.png/32px-Acacia_Tree.png" decoding="async" width="32" height="32" srcset="/images/thumb/8/8f/Acacia_Tree.png/48px-Acacia_Tree.png 1.5x, /images/thumb/8/8f/Acacia_Tree.png/64px-Acacia_Tree.png 2x" /></a>
+</td>
+<td><a href="/Acacia_Tree" title="Acacia Tree">アカシアの木</a>
+</td>
+<td>34
+</td>
+<td>11&#x200b;⅓
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Apple_Tree" title="Apple Tree"><img alt="Tree.png" src="/images/thumb/a/ac/Tree.png/32px-Tree.png" decoding="async" width="32" height="32" srcset="/images/thumb/a/ac/Tree.png/48px-Tree.png 1.5x, /images/thumb/a/ac/Tree.png/64px-Tree.png 2x" /></a>
+</td>
+<td><a href="/Apple_Tree" title="Apple Tree">リンゴの木</a>
+</td>
+<td>30
+</td>
+<td>10
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Category:Tree" title="Category:Tree"><img alt="Group tree.png" src="/images/thumb/0/0b/Group_tree.png/32px-Group_tree.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/0b/Group_tree.png/48px-Group_tree.png 1.5x, /images/thumb/0/0b/Group_tree.png/64px-Group_tree.png 2x" /></a>
+</td>
+<td>その他の「<a href="/Category:Tree" title="Category:Tree">木</a>」系統
+</td>
+<td>30
+</td>
+<td>10
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Locked_Chest" title="Locked Chest"><img alt="Locked Chest.png" src="/images/thumb/d/d4/Locked_Chest.png/32px-Locked_Chest.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/d4/Locked_Chest.png/48px-Locked_Chest.png 1.5x, /images/thumb/d/d4/Locked_Chest.png/64px-Locked_Chest.png 2x" /></a>
+</td>
+<td><a href="/Locked_Chest" title="Locked Chest">鍵付きチェスト</a>
+</td>
+<td>30
+</td>
+<td>10
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Chest" title="Chest"><img alt="Chest.png" src="/images/thumb/b/b3/Chest.png/32px-Chest.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/b3/Chest.png/48px-Chest.png 1.5x, /images/thumb/b/b3/Chest.png/64px-Chest.png 2x" /></a>
+</td>
+<td><a href="/Chest" title="Chest">チェスト</a>
+</td>
+<td>30
+</td>
+<td>10
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Bookshelf" title="Bookshelf"><img alt="Bookshelf.png" src="/images/thumb/f/f7/Bookshelf.png/32px-Bookshelf.png" decoding="async" width="32" height="32" srcset="/images/thumb/f/f7/Bookshelf.png/48px-Bookshelf.png 1.5x, /images/thumb/f/f7/Bookshelf.png/64px-Bookshelf.png 2x" /></a>
+</td>
+<td><a href="/Bookshelf" title="Bookshelf">本棚</a>
+</td>
+<td>30
+</td>
+<td>10
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Vessels_Shelf" title="Vessels Shelf"><img alt="Vessels Shelf.png" src="/images/thumb/3/33/Vessels_Shelf.png/32px-Vessels_Shelf.png" decoding="async" width="32" height="32" srcset="/images/thumb/3/33/Vessels_Shelf.png/48px-Vessels_Shelf.png 1.5x, /images/thumb/3/33/Vessels_Shelf.png/64px-Vessels_Shelf.png 2x" /></a>
+</td>
+<td><a href="/Vessels_Shelf" title="Vessels Shelf">薬品棚</a>
+</td>
+<td>30
+</td>
+<td>10
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Pine_Tree" title="Pine Tree"><img alt="Pine Tree.png" src="/images/thumb/d/d4/Pine_Tree.png/32px-Pine_Tree.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/d4/Pine_Tree.png/48px-Pine_Tree.png 1.5x, /images/thumb/d/d4/Pine_Tree.png/64px-Pine_Tree.png 2x" /></a>
+</td>
+<td><a href="/Pine_Tree" title="Pine Tree">マツの木</a>
+</td>
+<td>26
+</td>
+<td>8&#x200b;⅔
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Aspen_Tree" title="Aspen Tree"><img alt="Aspen Tree.png" src="/images/thumb/2/26/Aspen_Tree.png/32px-Aspen_Tree.png" decoding="async" width="32" height="32" srcset="/images/thumb/2/26/Aspen_Tree.png/48px-Aspen_Tree.png 1.5x, /images/thumb/2/26/Aspen_Tree.png/64px-Aspen_Tree.png 2x" /></a>
+</td>
+<td><a href="/Aspen_Tree" title="Aspen Tree">ポプラの木</a>
+</td>
+<td>22
+</td>
+<td>7&#x200b;⅓
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Boat" title="Boat"><img alt="Boat.png" src="/images/thumb/1/1e/Boat.png/32px-Boat.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/1e/Boat.png/48px-Boat.png 1.5x, /images/thumb/1/1e/Boat.png/64px-Boat.png 2x" /></a>
+</td>
+<td><a href="/Boat" title="Boat">ボート</a>
+</td>
+<td>20
+</td>
+<td>6&#x200b;⅔
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Cactus" title="Cactus"><img alt="Cactus.png" src="/images/thumb/a/a6/Cactus.png/32px-Cactus.png" decoding="async" width="32" height="32" srcset="/images/thumb/a/a6/Cactus.png/48px-Cactus.png 1.5x, /images/thumb/a/a6/Cactus.png/64px-Cactus.png 2x" /></a>
+</td>
+<td><a href="/Cactus" title="Cactus">サボテン</a>
+</td>
+<td>15
+</td>
+<td>5
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Wooden_Door" title="Wooden Door"><img alt="Wooden Door.png" src="/images/thumb/2/2c/Wooden_Door.png/32px-Wooden_Door.png" decoding="async" width="32" height="32" srcset="/images/thumb/2/2c/Wooden_Door.png/48px-Wooden_Door.png 1.5x, /images/thumb/2/2c/Wooden_Door.png/64px-Wooden_Door.png 2x" /></a>
+</td>
+<td><a href="/Wooden_Door" class="mw-redirect" title="Wooden Door">木のドア</a>
+</td>
+<td>14
+</td>
+<td>4&#x200b;⅔
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Fancy_Bed" title="Fancy Bed"><img alt="Fancy Bed.png" src="/images/thumb/6/68/Fancy_Bed.png/32px-Fancy_Bed.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/68/Fancy_Bed.png/48px-Fancy_Bed.png 1.5x, /images/thumb/6/68/Fancy_Bed.png/64px-Fancy_Bed.png 2x" /></a>
+</td>
+<td><a href="/Fancy_Bed" title="Fancy Bed">派手なベッド</a>
+</td>
+<td>13
+</td>
+<td>4&#x200b;⅓
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Simple_Bed" title="Simple Bed"><img alt="Simple Bed.png" src="/images/thumb/b/b1/Simple_Bed.png/32px-Simple_Bed.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/b1/Simple_Bed.png/48px-Simple_Bed.png 1.5x, /images/thumb/b/b1/Simple_Bed.png/64px-Simple_Bed.png 2x" /></a>
+</td>
+<td><a href="/Simple_Bed" title="Simple Bed">シンプルなベッド</a>
+</td>
+<td>12
+</td>
+<td>4
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Wooden_Sign" title="Wooden Sign"><img alt="Sign.png" src="/images/thumb/5/5d/Sign.png/32px-Sign.png" decoding="async" width="32" height="32" srcset="/images/thumb/5/5d/Sign.png/48px-Sign.png 1.5x, /images/thumb/5/5d/Sign.png/64px-Sign.png 2x" /></a>
+</td>
+<td><a href="/Wooden_Sign" title="Wooden Sign">看板</a>
+</td>
+<td>10
+</td>
+<td>3&#x200b;⅓
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Wood" title="Wood"><img alt="Junglewood Planks.png" src="/images/thumb/2/25/Junglewood_Planks.png/32px-Junglewood_Planks.png" decoding="async" width="32" height="32" srcset="/images/thumb/2/25/Junglewood_Planks.png/48px-Junglewood_Planks.png 1.5x, /images/thumb/2/25/Junglewood_Planks.png/64px-Junglewood_Planks.png 2x" /></a>
+</td>
+<td><a href="/Wood" title="Wood">ジャングルの木材</a>
+</td>
+<td>9
+</td>
+<td>3
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Fence" title="Fence"><img alt="Junglewood Fence.png" src="/images/thumb/2/2b/Junglewood_Fence.png/32px-Junglewood_Fence.png" decoding="async" width="32" height="32" srcset="/images/thumb/2/2b/Junglewood_Fence.png/48px-Junglewood_Fence.png 1.5x, /images/thumb/2/2b/Junglewood_Fence.png/64px-Junglewood_Fence.png 2x" /></a>
+</td>
+<td><a href="/Fence" title="Fence">ジャングルの柵</a>
+</td>
+<td>9
+</td>
+<td>3
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Fence_Gate" title="Fence Gate"><img alt="Junglewood Fence Gate.png" src="/images/thumb/6/6a/Junglewood_Fence_Gate.png/32px-Junglewood_Fence_Gate.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/6a/Junglewood_Fence_Gate.png/48px-Junglewood_Fence_Gate.png 1.5x, /images/thumb/6/6a/Junglewood_Fence_Gate.png/64px-Junglewood_Fence_Gate.png 2x" /></a>
+</td>
+<td><a href="/Fence_Gate" title="Fence Gate">ジャングルのゲート</a>
+</td>
+<td>9
+</td>
+<td>3
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Fence_Gate" title="Fence Gate"><img alt="Acacia Fence Gate.png" src="/images/thumb/b/be/Acacia_Fence_Gate.png/32px-Acacia_Fence_Gate.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/be/Acacia_Fence_Gate.png/48px-Acacia_Fence_Gate.png 1.5x, /images/thumb/b/be/Acacia_Fence_Gate.png/64px-Acacia_Fence_Gate.png 2x" /></a>
+</td>
+<td><a href="/Fence_Gate" title="Fence Gate">アカシアのゲート</a>
+</td>
+<td>8
+</td>
+<td>2&#x200b;⅔
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Fence" title="Fence"><img alt="Acacia Fence.png" src="/images/thumb/e/e8/Acacia_Fence.png/32px-Acacia_Fence.png" decoding="async" width="32" height="32" srcset="/images/thumb/e/e8/Acacia_Fence.png/48px-Acacia_Fence.png 1.5x, /images/thumb/e/e8/Acacia_Fence.png/64px-Acacia_Fence.png 2x" /></a>
+</td>
+<td><a href="/Fence" title="Fence">アカシアの柵</a>
+</td>
+<td>8
+</td>
+<td>2&#x200b;⅔
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Acacia_Bush_Stem" title="Acacia Bush Stem"><img alt="Acacia Bush Stem.png" src="/images/thumb/d/d9/Acacia_Bush_Stem.png/32px-Acacia_Bush_Stem.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/d9/Acacia_Bush_Stem.png/48px-Acacia_Bush_Stem.png 1.5x, /images/thumb/d/d9/Acacia_Bush_Stem.png/64px-Acacia_Bush_Stem.png 2x" /></a>
+</td>
+<td><a href="/Acacia_Bush_Stem" title="Acacia Bush Stem">Acacia Bush Stem</a>
+</td>
+<td>8
+</td>
+<td>2&#x200b;⅔
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Wood" title="Wood"><img alt="Acacia Wood Planks.png" src="/images/thumb/f/f6/Acacia_Wood_Planks.png/32px-Acacia_Wood_Planks.png" decoding="async" width="32" height="32" srcset="/images/thumb/f/f6/Acacia_Wood_Planks.png/48px-Acacia_Wood_Planks.png 1.5x, /images/thumb/f/f6/Acacia_Wood_Planks.png/64px-Acacia_Wood_Planks.png 2x" /></a>
+</td>
+<td><a href="/Wood" title="Wood">Acacia Wood Planks</a>
+</td>
+<td>8
+</td>
+<td>2&#x200b;⅔
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Fence_Gate" title="Fence Gate"><img alt="Wooden Fence Gate.png" src="/images/thumb/c/c2/Wooden_Fence_Gate.png/32px-Wooden_Fence_Gate.png" decoding="async" width="32" height="32" srcset="/images/thumb/c/c2/Wooden_Fence_Gate.png/48px-Wooden_Fence_Gate.png 1.5x, /images/thumb/c/c2/Wooden_Fence_Gate.png/64px-Wooden_Fence_Gate.png 2x" /></a>
+</td>
+<td><a href="/Fence_Gate" title="Fence Gate">Apple Wood Fence Gate</a>
+</td>
+<td>7
+</td>
+<td>2&#x200b;⅓
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Wooden_Ladder" title="Wooden Ladder"><img alt="Ladder.png" src="/images/thumb/6/63/Ladder.png/32px-Ladder.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/63/Ladder.png/48px-Ladder.png 1.5x, /images/thumb/6/63/Ladder.png/64px-Ladder.png 2x" /></a>
+</td>
+<td><a href="/Wooden_Ladder" title="Wooden Ladder">Wooden Ladder</a>
+</td>
+<td>7
+</td>
+<td>2&#x200b;⅓
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Fence_Rail" title="Fence Rail"><img alt="Jungle Wood Fence Rail.png" src="/images/thumb/8/81/Jungle_Wood_Fence_Rail.png/32px-Jungle_Wood_Fence_Rail.png" decoding="async" width="32" height="32" srcset="/images/thumb/8/81/Jungle_Wood_Fence_Rail.png/48px-Jungle_Wood_Fence_Rail.png 1.5x, /images/thumb/8/81/Jungle_Wood_Fence_Rail.png/64px-Jungle_Wood_Fence_Rail.png 2x" /></a>
+</td>
+<td><a href="/Fence_Rail" title="Fence Rail">Jungle Wood Fence Rail</a>
+</td>
+<td>7
+</td>
+<td>2&#x200b;⅓
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/index.php?title=Special:Upload&amp;wpDestFile=Inner_Acacia_Wood_Stair.png" class="new" title="File:Inner Acacia Wood Stair.png">32px</a>
+</td>
+<td><a href="/Stair" title="Stair">Inner Acacia Wood Stair</a>
+</td>
+<td>7
+</td>
+<td>2&#x200b;⅓
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Fence" title="Fence"><img alt="Wooden Fence.png" src="/images/thumb/6/6f/Wooden_Fence.png/32px-Wooden_Fence.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/6f/Wooden_Fence.png/48px-Wooden_Fence.png 1.5x, /images/thumb/6/6f/Wooden_Fence.png/64px-Wooden_Fence.png 2x" /></a>
+</td>
+<td><a href="/Fence" title="Fence">Apple Wood Fence</a>
+</td>
+<td>7
+</td>
+<td>2&#x200b;⅓
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Tree_Saplings" title="Tree Saplings"><img alt="Emergent Jungle Tree Sapling.png" src="/images/thumb/0/09/Emergent_Jungle_Tree_Sapling.png/32px-Emergent_Jungle_Tree_Sapling.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/09/Emergent_Jungle_Tree_Sapling.png/48px-Emergent_Jungle_Tree_Sapling.png 1.5x, /images/thumb/0/09/Emergent_Jungle_Tree_Sapling.png/64px-Emergent_Jungle_Tree_Sapling.png 2x" /></a>
+</td>
+<td><a href="/Tree_Saplings" title="Tree Saplings">Emergent Jungle Tree Sapling</a>
+</td>
+<td>7
+</td>
+<td>2&#x200b;⅓
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/index.php?title=Special:Upload&amp;wpDestFile=Inner_Jungle_Wood_Stair.png" class="new" title="File:Inner Jungle Wood Stair.png">32px</a>
+</td>
+<td><a href="/Stair" title="Stair">Inner Jungle Wood Stair</a>
+</td>
+<td>7
+</td>
+<td>2&#x200b;⅓
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Bush_Stem" title="Bush Stem"><img alt="Bush Stem.png" src="/images/thumb/1/10/Bush_Stem.png/32px-Bush_Stem.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/10/Bush_Stem.png/48px-Bush_Stem.png 1.5x, /images/thumb/1/10/Bush_Stem.png/64px-Bush_Stem.png 2x" /></a>
+</td>
+<td><a href="/Bush_Stem" title="Bush Stem">Bush Stem</a>
+</td>
+<td>7
+</td>
+<td>2&#x200b;⅓
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Wood" title="Wood"><img alt="Wooden Planks.png" src="/images/thumb/e/e6/Wooden_Planks.png/32px-Wooden_Planks.png" decoding="async" width="32" height="32" srcset="/images/thumb/e/e6/Wooden_Planks.png/48px-Wooden_Planks.png 1.5x, /images/thumb/e/e6/Wooden_Planks.png/64px-Wooden_Planks.png 2x" /></a>
+</td>
+<td><a href="/Wood" title="Wood">Apple Wood Planks</a>
+</td>
+<td>7
+</td>
+<td>2&#x200b;⅓
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Category:Wood" title="Category:Wood"><img alt="Group wood.png" src="/images/thumb/7/76/Group_wood.png/32px-Group_wood.png" decoding="async" width="32" height="32" srcset="/images/thumb/7/76/Group_wood.png/48px-Group_wood.png 1.5x, /images/thumb/7/76/Group_wood.png/64px-Group_wood.png 2x" /></a>
+</td>
+<td><a href="/Category:Wood" title="Category:Wood">Any wooden planks</a> (fallback)
+</td>
+<td>7
+</td>
+<td>2&#x200b;⅓
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Wooden_Trapdoor" title="Wooden Trapdoor"><img alt="Trapdoor.png" src="/images/thumb/9/94/Trapdoor.png/32px-Trapdoor.png" decoding="async" width="32" height="32" srcset="/images/thumb/9/94/Trapdoor.png/48px-Trapdoor.png 1.5x, /images/thumb/9/94/Trapdoor.png/64px-Trapdoor.png 2x" /></a>
+</td>
+<td><a href="/Wooden_Trapdoor" class="mw-redirect" title="Wooden Trapdoor">Wooden Trapdoor</a>
+</td>
+<td>7
+</td>
+<td>2&#x200b;⅓
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Pickaxe" title="Pickaxe"><img alt="Wooden Pickaxe.png" src="/images/thumb/b/b3/Wooden_Pickaxe.png/32px-Wooden_Pickaxe.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/b3/Wooden_Pickaxe.png/48px-Wooden_Pickaxe.png 1.5x, /images/thumb/b/b3/Wooden_Pickaxe.png/64px-Wooden_Pickaxe.png 2x" /></a>
+</td>
+<td><a href="/Pickaxe" title="Pickaxe">Wooden Pickaxe</a>
+</td>
+<td>6
+</td>
+<td>2
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Fence_Gate" title="Fence Gate"><img alt="Pine Fence Gate.png" src="/images/thumb/1/18/Pine_Fence_Gate.png/32px-Pine_Fence_Gate.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/18/Pine_Fence_Gate.png/48px-Pine_Fence_Gate.png 1.5x, /images/thumb/1/18/Pine_Fence_Gate.png/64px-Pine_Fence_Gate.png 2x" /></a>
+</td>
+<td><a href="/Fence_Gate" title="Fence Gate">Pine Wood Fence Gate</a>
+</td>
+<td>6
+</td>
+<td>2
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Stair" title="Stair"><img alt="Acacia Wood Stair.png" src="/images/thumb/0/05/Acacia_Wood_Stair.png/32px-Acacia_Wood_Stair.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/05/Acacia_Wood_Stair.png/48px-Acacia_Wood_Stair.png 1.5x, /images/thumb/0/05/Acacia_Wood_Stair.png/64px-Acacia_Wood_Stair.png 2x" /></a>
+</td>
+<td><a href="/Stair" title="Stair">Acacia Wood Stair</a>
+</td>
+<td>6
+</td>
+<td>2
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Tree_Saplings" title="Tree Saplings"><img alt="Acacia Tree Sapling.png" src="/images/thumb/0/0e/Acacia_Tree_Sapling.png/32px-Acacia_Tree_Sapling.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/0e/Acacia_Tree_Sapling.png/48px-Acacia_Tree_Sapling.png 1.5x, /images/thumb/0/0e/Acacia_Tree_Sapling.png/64px-Acacia_Tree_Sapling.png 2x" /></a>
+</td>
+<td><a href="/Tree_Saplings" title="Tree Saplings">Acacia Tree Sapling</a>
+</td>
+<td>6
+</td>
+<td>2
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/index.php?title=Special:Upload&amp;wpDestFile=Inner_Wooden_Stair.png" class="new" title="File:Inner Wooden Stair.png">32px</a>
+</td>
+<td><a href="/Stair" title="Stair">Inner Wooden Stair</a>
+</td>
+<td>6
+</td>
+<td>2
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Pine_Bush_Stem" title="Pine Bush Stem"><img alt="Pine Bush Stem.png" src="/images/thumb/e/e1/Pine_Bush_Stem.png/32px-Pine_Bush_Stem.png" decoding="async" width="32" height="32" srcset="/images/thumb/e/e1/Pine_Bush_Stem.png/48px-Pine_Bush_Stem.png 1.5x, /images/thumb/e/e1/Pine_Bush_Stem.png/64px-Pine_Bush_Stem.png 2x" /></a>
+</td>
+<td><a href="/Pine_Bush_Stem" title="Pine Bush Stem">Pine Bush Stem</a>
+</td>
+<td>6
+</td>
+<td>2
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Wood" title="Wood"><img alt="Pine Wood Planks.png" src="/images/thumb/3/39/Pine_Wood_Planks.png/32px-Pine_Wood_Planks.png" decoding="async" width="32" height="32" srcset="/images/thumb/3/39/Pine_Wood_Planks.png/48px-Pine_Wood_Planks.png 1.5x, /images/thumb/3/39/Pine_Wood_Planks.png/64px-Pine_Wood_Planks.png 2x" /></a>
+</td>
+<td><a href="/Wood" title="Wood">Pine Wood Planks</a>
+</td>
+<td>6
+</td>
+<td>2
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Tree_Saplings" title="Tree Saplings"><img alt="Jungle Sapling.png" src="/images/thumb/8/8d/Jungle_Sapling.png/32px-Jungle_Sapling.png" decoding="async" width="32" height="32" srcset="/images/thumb/8/8d/Jungle_Sapling.png/48px-Jungle_Sapling.png 1.5x, /images/thumb/8/8d/Jungle_Sapling.png/64px-Jungle_Sapling.png 2x" /></a>
+</td>
+<td><a href="/Tree_Saplings" title="Tree Saplings">Jungle Tree Sapling</a>
+</td>
+<td>6
+</td>
+<td>2
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Junglewood_Stair" title="Junglewood Stair"><img alt="Jungle Wood Stair.png" src="/images/thumb/e/ed/Jungle_Wood_Stair.png/32px-Jungle_Wood_Stair.png" decoding="async" width="32" height="32" srcset="/images/thumb/e/ed/Jungle_Wood_Stair.png/48px-Jungle_Wood_Stair.png 1.5x, /images/thumb/e/ed/Jungle_Wood_Stair.png/64px-Jungle_Wood_Stair.png 2x" /></a>
+</td>
+<td><a href="/Stair" title="Stair">Jungle Wood Stair</a>
+</td>
+<td>6
+</td>
+<td>2
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Fence_Rail" title="Fence Rail"><img alt="Acacia Wood Fence Rail.png" src="/images/thumb/c/c2/Acacia_Wood_Fence_Rail.png/32px-Acacia_Wood_Fence_Rail.png" decoding="async" width="32" height="32" srcset="/images/thumb/c/c2/Acacia_Wood_Fence_Rail.png/48px-Acacia_Wood_Fence_Rail.png 1.5x, /images/thumb/c/c2/Acacia_Wood_Fence_Rail.png/64px-Acacia_Wood_Fence_Rail.png 2x" /></a>
+</td>
+<td><a href="/Fence_Rail" title="Fence Rail">Acacia Wood Fence Rail</a>
+</td>
+<td>6
+</td>
+<td>2
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Fence" title="Fence"><img alt="Pine Fence.png" src="/images/thumb/0/0f/Pine_Fence.png/32px-Pine_Fence.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/0f/Pine_Fence.png/48px-Pine_Fence.png 1.5x, /images/thumb/0/0f/Pine_Fence.png/64px-Pine_Fence.png 2x" /></a>
+</td>
+<td><a href="/Fence" title="Fence">Pine Wood Fence</a>
+</td>
+<td>6
+</td>
+<td>2
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Axe" title="Axe"><img alt="Wooden Axe.png" src="/images/thumb/1/11/Wooden_Axe.png/32px-Wooden_Axe.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/11/Wooden_Axe.png/48px-Wooden_Axe.png 1.5x, /images/thumb/1/11/Wooden_Axe.png/64px-Wooden_Axe.png 2x" /></a>
+</td>
+<td><a href="/Axe" title="Axe">Wooden Axe</a>
+</td>
+<td>6
+</td>
+<td>2
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Wood" title="Wood"><img alt="Aspen Wood Planks.png" src="/images/thumb/a/ae/Aspen_Wood_Planks.png/32px-Aspen_Wood_Planks.png" decoding="async" width="32" height="32" srcset="/images/thumb/a/ae/Aspen_Wood_Planks.png/48px-Aspen_Wood_Planks.png 1.5x, /images/thumb/a/ae/Aspen_Wood_Planks.png/64px-Aspen_Wood_Planks.png 2x" /></a>
+</td>
+<td><a href="/Wood" title="Wood">Aspen Wood Planks</a>
+</td>
+<td>5
+</td>
+<td>1&#x200b;⅔
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Sword" title="Sword"><img alt="Wooden Sword.png" src="/images/thumb/c/cd/Wooden_Sword.png/32px-Wooden_Sword.png" decoding="async" width="32" height="32" srcset="/images/thumb/c/cd/Wooden_Sword.png/48px-Wooden_Sword.png 1.5x, /images/thumb/c/cd/Wooden_Sword.png/64px-Wooden_Sword.png 2x" /></a>
+</td>
+<td><a href="/Sword" title="Sword">Wooden Sword</a>
+</td>
+<td>5
+</td>
+<td>1&#x200b;⅔
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Large_Cactus_Seedling" title="Large Cactus Seedling"><img alt="Large Cactus Seedling.png" src="/images/thumb/e/ed/Large_Cactus_Seedling.png/32px-Large_Cactus_Seedling.png" decoding="async" width="32" height="32" srcset="/images/thumb/e/ed/Large_Cactus_Seedling.png/48px-Large_Cactus_Seedling.png 1.5x, /images/thumb/e/ed/Large_Cactus_Seedling.png/64px-Large_Cactus_Seedling.png 2x" /></a>
+</td>
+<td><a href="/Large_Cactus_Seedling" title="Large Cactus Seedling">Large Cactus Seedling</a>
+</td>
+<td>5
+</td>
+<td>1&#x200b;⅔
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Fence_Gate" title="Fence Gate"><img alt="Aspen Fence Gate.png" src="/images/thumb/e/eb/Aspen_Fence_Gate.png/32px-Aspen_Fence_Gate.png" decoding="async" width="32" height="32" srcset="/images/thumb/e/eb/Aspen_Fence_Gate.png/48px-Aspen_Fence_Gate.png 1.5x, /images/thumb/e/eb/Aspen_Fence_Gate.png/64px-Aspen_Fence_Gate.png 2x" /></a>
+</td>
+<td><a href="/Fence_Gate" title="Fence Gate">Aspen Wood Fence Gate</a>
+</td>
+<td>5
+</td>
+<td>1&#x200b;⅔
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Fence_Rail" title="Fence Rail"><img alt="Apple Wood Fence Rail.png" src="/images/thumb/b/b7/Apple_Wood_Fence_Rail.png/32px-Apple_Wood_Fence_Rail.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/b7/Apple_Wood_Fence_Rail.png/48px-Apple_Wood_Fence_Rail.png 1.5x, /images/thumb/b/b7/Apple_Wood_Fence_Rail.png/64px-Apple_Wood_Fence_Rail.png 2x" /></a>
+</td>
+<td><a href="/Fence_Rail" title="Fence Rail">Apple Wood Fence Rail</a>
+</td>
+<td>5
+</td>
+<td>1&#x200b;⅔
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/index.php?title=Special:Upload&amp;wpDestFile=Inner_Pine_Wood_Stair.png" class="new" title="File:Inner Pine Wood Stair.png">32px</a>
+</td>
+<td><a href="/Stair" title="Stair">Inner Pine Wood Stair</a>
+</td>
+<td>5
+</td>
+<td>1&#x200b;⅔
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Stair" title="Stair"><img alt="Wooden Stair.png" src="/images/thumb/7/72/Wooden_Stair.png/32px-Wooden_Stair.png" decoding="async" width="32" height="32" srcset="/images/thumb/7/72/Wooden_Stair.png/48px-Wooden_Stair.png 1.5x, /images/thumb/7/72/Wooden_Stair.png/64px-Wooden_Stair.png 2x" /></a>
+</td>
+<td><a href="/Stair" title="Stair">Wooden Stair</a>
+</td>
+<td>5
+</td>
+<td>1&#x200b;⅔
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Tree_Saplings" title="Tree Saplings"><img alt="Sapling.png" src="/images/thumb/5/51/Sapling.png/32px-Sapling.png" decoding="async" width="32" height="32" srcset="/images/thumb/5/51/Sapling.png/48px-Sapling.png 1.5x, /images/thumb/5/51/Sapling.png/64px-Sapling.png 2x" /></a>
+</td>
+<td><a href="/Tree_Saplings" title="Tree Saplings">Apple Tree Sapling</a>
+</td>
+<td>5
+</td>
+<td>1&#x200b;⅔
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Tree_Saplings" title="Tree Saplings"><img alt="Pine Sapling.png" src="/images/thumb/1/18/Pine_Sapling.png/32px-Pine_Sapling.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/18/Pine_Sapling.png/48px-Pine_Sapling.png 1.5x, /images/thumb/1/18/Pine_Sapling.png/64px-Pine_Sapling.png 2x" /></a>
+</td>
+<td><a href="/Tree_Saplings" title="Tree Saplings">Pine Tree Sapling</a>
+</td>
+<td>5
+</td>
+<td>1&#x200b;⅔
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Category:Sapling" title="Category:Sapling"><img alt="Group sapling.png" src="/images/thumb/4/4b/Group_sapling.png/32px-Group_sapling.png" decoding="async" width="32" height="32" srcset="/images/thumb/4/4b/Group_sapling.png/48px-Group_sapling.png 1.5x, /images/thumb/4/4b/Group_sapling.png/64px-Group_sapling.png 2x" /></a>
+</td>
+<td><a href="/Category:Sapling" title="Category:Sapling">Any sapling</a> (fallback)
+</td>
+<td>5
+</td>
+<td>1&#x200b;⅔
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Fence" title="Fence"><img alt="Aspen Fence.png" src="/images/thumb/4/46/Aspen_Fence.png/32px-Aspen_Fence.png" decoding="async" width="32" height="32" srcset="/images/thumb/4/46/Aspen_Fence.png/48px-Aspen_Fence.png 1.5x, /images/thumb/4/46/Aspen_Fence.png/64px-Aspen_Fence.png 2x" /></a>
+</td>
+<td><a href="/Fence" title="Fence">Aspen Wood Fence</a>
+</td>
+<td>5
+</td>
+<td>1&#x200b;⅔
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Hoe" title="Hoe"><img alt="Wooden Hoe.png" src="/images/thumb/b/b7/Wooden_Hoe.png/32px-Wooden_Hoe.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/b7/Wooden_Hoe.png/48px-Wooden_Hoe.png 1.5x, /images/thumb/b/b7/Wooden_Hoe.png/64px-Wooden_Hoe.png 2x" /></a>
+</td>
+<td><a href="/Hoe" title="Hoe">Wooden Hoe</a>
+</td>
+<td>5
+</td>
+<td>1&#x200b;⅔
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Mapping_Kit" title="Mapping Kit"><img alt="Mapping Kit.png" src="/images/thumb/9/90/Mapping_Kit.png/32px-Mapping_Kit.png" decoding="async" width="32" height="32" srcset="/images/thumb/9/90/Mapping_Kit.png/48px-Mapping_Kit.png 1.5x, /images/thumb/9/90/Mapping_Kit.png/64px-Mapping_Kit.png 2x" /></a>
+</td>
+<td><a href="/Mapping_Kit" title="Mapping Kit">Mapping Kit</a>
+</td>
+<td>5
+</td>
+<td>1&#x200b;⅔
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Bush_Saplings" title="Bush Saplings"><img alt="Blueberry Bush Sapling.png" src="/images/thumb/1/11/Blueberry_Bush_Sapling.png/32px-Blueberry_Bush_Sapling.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/11/Blueberry_Bush_Sapling.png/48px-Blueberry_Bush_Sapling.png 1.5x, /images/thumb/1/11/Blueberry_Bush_Sapling.png/64px-Blueberry_Bush_Sapling.png 2x" /></a>
+</td>
+<td><a href="/Bush_Saplings" title="Bush Saplings">Blueberry Bush Sapling</a>
+</td>
+<td>5
+</td>
+<td>1&#x200b;⅔
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/index.php?title=Special:Upload&amp;wpDestFile=Outer_Jungle_Wood_Stair.png" class="new" title="File:Outer Jungle Wood Stair.png">32px</a>
+</td>
+<td><a href="/Stair" title="Stair">Outer Jungle Wood Stair</a>
+</td>
+<td>5
+</td>
+<td>1&#x200b;⅔
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/index.php?title=Special:Upload&amp;wpDestFile=Outer_Acacia_Wood_Stair.png" class="new" title="File:Outer Acacia Wood Stair.png">32px</a>
+</td>
+<td><a href="/Stair" title="Stair">Outer Acacia Wood Stair</a>
+</td>
+<td>5
+</td>
+<td>1&#x200b;⅔
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/index.php?title=Special:Upload&amp;wpDestFile=Inner_Aspen_Wood_Stair.png" class="new" title="File:Inner Aspen Wood Stair.png">32px</a>
+</td>
+<td><a href="/Stair" title="Stair">Inner Aspen Wood Stair</a>
+</td>
+<td>4
+</td>
+<td>1&#x200b;⅓
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Slab" title="Slab"><img alt="Acacia Wood Slab.png" src="/images/thumb/b/b5/Acacia_Wood_Slab.png/32px-Acacia_Wood_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/b5/Acacia_Wood_Slab.png/48px-Acacia_Wood_Slab.png 1.5x, /images/thumb/b/b5/Acacia_Wood_Slab.png/64px-Acacia_Wood_Slab.png 2x" /></a>
+</td>
+<td><a href="/Slab" title="Slab">Acacia Wood Slab</a>
+</td>
+<td>4
+</td>
+<td>1&#x200b;⅓
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Category:Leaves" title="Category:Leaves"><img alt="Group leaves.png" src="/images/thumb/8/82/Group_leaves.png/32px-Group_leaves.png" decoding="async" width="32" height="32" srcset="/images/thumb/8/82/Group_leaves.png/48px-Group_leaves.png 1.5x, /images/thumb/8/82/Group_leaves.png/64px-Group_leaves.png 2x" /></a>
+</td>
+<td><a href="/Category:Leaves" title="Category:Leaves">Any leaves</a>
+</td>
+<td>4
+</td>
+<td>1&#x200b;⅓
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Fence_Rail" title="Fence Rail"><img alt="Pine Wood Fence Rail.png" src="/images/thumb/9/92/Pine_Wood_Fence_Rail.png/32px-Pine_Wood_Fence_Rail.png" decoding="async" width="32" height="32" srcset="/images/thumb/9/92/Pine_Wood_Fence_Rail.png/48px-Pine_Wood_Fence_Rail.png 1.5x, /images/thumb/9/92/Pine_Wood_Fence_Rail.png/64px-Pine_Wood_Fence_Rail.png 2x" /></a>
+</td>
+<td><a href="/Fence_Rail" title="Fence Rail">Pine Wood Fence Rail</a>
+</td>
+<td>4
+</td>
+<td>1&#x200b;⅓
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Tree_Saplings" title="Tree Saplings"><img alt="Aspen Tree Sapling.png" src="/images/thumb/5/52/Aspen_Tree_Sapling.png/32px-Aspen_Tree_Sapling.png" decoding="async" width="32" height="32" srcset="/images/thumb/5/52/Aspen_Tree_Sapling.png/48px-Aspen_Tree_Sapling.png 1.5x, /images/thumb/5/52/Aspen_Tree_Sapling.png/64px-Aspen_Tree_Sapling.png 2x" /></a>
+</td>
+<td><a href="/Tree_Saplings" title="Tree Saplings">Aspen Tree Sapling</a>
+</td>
+<td>4
+</td>
+<td>1&#x200b;⅓
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Bush_Saplings" title="Bush Saplings"><img alt="Acacia Bush Sapling.png" src="/images/thumb/0/01/Acacia_Bush_Sapling.png/32px-Acacia_Bush_Sapling.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/01/Acacia_Bush_Sapling.png/48px-Acacia_Bush_Sapling.png 1.5x, /images/thumb/0/01/Acacia_Bush_Sapling.png/64px-Acacia_Bush_Sapling.png 2x" /></a>
+</td>
+<td><a href="/Bush_Saplings" title="Bush Saplings">Acacia Bush Sapling</a>
+</td>
+<td>4
+</td>
+<td>1&#x200b;⅓
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/index.php?title=Special:Upload&amp;wpDestFile=Outer_Wooden_Stair.png" class="new" title="File:Outer Wooden Stair.png">32px</a>
+</td>
+<td><a href="/Stair" title="Stair">Outer Wooden Stair</a>
+</td>
+<td>4
+</td>
+<td>1&#x200b;⅓
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Slab" title="Slab"><img alt="Jungle Wood Slab.png" src="/images/thumb/d/d9/Jungle_Wood_Slab.png/32px-Jungle_Wood_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/d9/Jungle_Wood_Slab.png/48px-Jungle_Wood_Slab.png 1.5x, /images/thumb/d/d9/Jungle_Wood_Slab.png/64px-Jungle_Wood_Slab.png 2x" /></a>
+</td>
+<td><a href="/Slab" title="Slab">Jungle Wood Slab</a>
+</td>
+<td>4
+</td>
+<td>1&#x200b;⅓
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Shovel" title="Shovel"><img alt="Wooden Shovel.png" src="/images/thumb/a/a4/Wooden_Shovel.png/32px-Wooden_Shovel.png" decoding="async" width="32" height="32" srcset="/images/thumb/a/a4/Wooden_Shovel.png/48px-Wooden_Shovel.png 1.5x, /images/thumb/a/a4/Wooden_Shovel.png/64px-Wooden_Shovel.png 2x" /></a>
+</td>
+<td><a href="/Shovel" title="Shovel">Wooden Shovel</a>
+</td>
+<td>4
+</td>
+<td>1&#x200b;⅓
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Torch" title="Torch"><img alt="Torch.png" src="/images/thumb/b/b2/Torch.png/32px-Torch.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/b2/Torch.png/48px-Torch.png 1.5x, /images/thumb/b/b2/Torch.png/64px-Torch.png 2x" /></a>
+</td>
+<td><a href="/Torch" title="Torch">Torch</a>
+</td>
+<td>4
+</td>
+<td>1&#x200b;⅓
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Stair" title="Stair"><img alt="Pine Wood Stair.png" src="/images/thumb/1/1e/Pine_Wood_Stair.png/32px-Pine_Wood_Stair.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/1e/Pine_Wood_Stair.png/48px-Pine_Wood_Stair.png 1.5x, /images/thumb/1/1e/Pine_Wood_Stair.png/64px-Pine_Wood_Stair.png 2x" /></a>
+</td>
+<td><a href="/Stair" title="Stair">Pine Wood Stair</a>
+</td>
+<td>4
+</td>
+<td>1&#x200b;⅓
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Jungle_Grass" title="Jungle Grass"><img alt="Jungle Grass.png" src="/images/thumb/5/54/Jungle_Grass.png/32px-Jungle_Grass.png" decoding="async" width="32" height="32" srcset="/images/thumb/5/54/Jungle_Grass.png/48px-Jungle_Grass.png 1.5x, /images/thumb/5/54/Jungle_Grass.png/64px-Jungle_Grass.png 2x" /></a>
+</td>
+<td><a href="/Jungle_Grass" title="Jungle Grass">Jungle Grass</a>
+</td>
+<td>3
+</td>
+<td>1
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Fence_Rail" title="Fence Rail"><img alt="Aspen Wood Fence Rail.png" src="/images/thumb/1/13/Aspen_Wood_Fence_Rail.png/32px-Aspen_Wood_Fence_Rail.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/13/Aspen_Wood_Fence_Rail.png/48px-Aspen_Wood_Fence_Rail.png 1.5x, /images/thumb/1/13/Aspen_Wood_Fence_Rail.png/64px-Aspen_Wood_Fence_Rail.png 2x" /></a>
+</td>
+<td><a href="/Fence_Rail" title="Fence Rail">Aspen Wood Fence Rail</a>
+</td>
+<td>3
+</td>
+<td>1
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/index.php?title=Special:Upload&amp;wpDestFile=Outer_Pine_Wood_Stair.png" class="new" title="File:Outer Pine Wood Stair.png">32px</a>
+</td>
+<td><a href="/Stair" title="Stair">Outer Pine Wood Stair</a>
+</td>
+<td>3
+</td>
+<td>1
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Bush_Saplings" title="Bush Saplings"><img alt="Bush Sapling.png" src="/images/thumb/2/21/Bush_Sapling.png/32px-Bush_Sapling.png" decoding="async" width="32" height="32" srcset="/images/thumb/2/21/Bush_Sapling.png/48px-Bush_Sapling.png 1.5x, /images/thumb/2/21/Bush_Sapling.png/64px-Bush_Sapling.png 2x" /></a>
+</td>
+<td><a href="/Bush_Saplings" title="Bush Saplings">Bush Sapling</a>
+</td>
+<td>3
+</td>
+<td>1
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Slab" title="Slab"><img alt="Wooden Slab.png" src="/images/thumb/6/61/Wooden_Slab.png/32px-Wooden_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/61/Wooden_Slab.png/48px-Wooden_Slab.png 1.5x, /images/thumb/6/61/Wooden_Slab.png/64px-Wooden_Slab.png 2x" /></a>
+</td>
+<td><a href="/Slab" title="Slab">Wooden Slab</a>
+</td>
+<td>3
+</td>
+<td>1
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Papyrus" title="Papyrus"><img alt="Papyrus.png" src="/images/thumb/1/12/Papyrus.png/32px-Papyrus.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/12/Papyrus.png/48px-Papyrus.png 1.5x, /images/thumb/1/12/Papyrus.png/64px-Papyrus.png 2x" /></a>
+</td>
+<td><a href="/Papyrus" title="Papyrus">Papyrus</a>
+</td>
+<td>3
+</td>
+<td>1
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Straw" title="Straw"><img alt="Straw.png" src="/images/thumb/5/55/Straw.png/32px-Straw.png" decoding="async" width="32" height="32" srcset="/images/thumb/5/55/Straw.png/48px-Straw.png 1.5x, /images/thumb/5/55/Straw.png/64px-Straw.png 2x" /></a>
+</td>
+<td><a href="/Straw" title="Straw">Straw</a>
+</td>
+<td>3
+</td>
+<td>1
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Slab" title="Slab"><img alt="Pine Wood Slab.png" src="/images/thumb/c/c5/Pine_Wood_Slab.png/32px-Pine_Wood_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/c/c5/Pine_Wood_Slab.png/48px-Pine_Wood_Slab.png 1.5x, /images/thumb/c/c5/Pine_Wood_Slab.png/64px-Pine_Wood_Slab.png 2x" /></a>
+</td>
+<td><a href="/Slab" title="Slab">Pine Wood Slab</a>
+</td>
+<td>3
+</td>
+<td>1
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Stair" title="Stair"><img alt="Aspen Wood Stair.png" src="/images/thumb/5/55/Aspen_Wood_Stair.png/32px-Aspen_Wood_Stair.png" decoding="async" width="32" height="32" srcset="/images/thumb/5/55/Aspen_Wood_Stair.png/48px-Aspen_Wood_Stair.png 1.5x, /images/thumb/5/55/Aspen_Wood_Stair.png/64px-Aspen_Wood_Stair.png 2x" /></a>
+</td>
+<td><a href="/Stair" title="Stair">Aspen Wood Stair</a>
+</td>
+<td>3
+</td>
+<td>1
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Book" title="Book"><img alt="Book.png" src="/images/thumb/f/f3/Book.png/32px-Book.png" decoding="async" width="32" height="32" srcset="/images/thumb/f/f3/Book.png/48px-Book.png 1.5x, /images/thumb/f/f3/Book.png/64px-Book.png 2x" /></a>
+</td>
+<td><a href="/Book" title="Book">Book</a>
+</td>
+<td>3
+</td>
+<td>1
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Book" title="Book"><img alt="Book with Text.png" src="/images/thumb/c/c4/Book_with_Text.png/32px-Book_with_Text.png" decoding="async" width="32" height="32" srcset="/images/thumb/c/c4/Book_with_Text.png/48px-Book_with_Text.png 1.5x, /images/thumb/c/c4/Book_with_Text.png/64px-Book_with_Text.png 2x" /></a>
+</td>
+<td><a href="/Book" title="Book">Book With Text</a>
+</td>
+<td>3
+</td>
+<td>1
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/index.php?title=Special:Upload&amp;wpDestFile=Outer_Aspen_Wood_Stair.png" class="new" title="File:Outer Aspen Wood Stair.png">32px</a>
+</td>
+<td><a href="/Stair" title="Stair">Outer Aspen Wood Stair</a>
+</td>
+<td>3
+</td>
+<td>1
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Dry_Shrub" title="Dry Shrub"><img alt="Dry Shrub.png" src="/images/thumb/f/fe/Dry_Shrub.png/32px-Dry_Shrub.png" decoding="async" width="32" height="32" srcset="/images/thumb/f/fe/Dry_Shrub.png/48px-Dry_Shrub.png 1.5x, /images/thumb/f/fe/Dry_Shrub.png/64px-Dry_Shrub.png 2x" /></a>
+</td>
+<td><a href="/Dry_Shrub" title="Dry Shrub">Dry Shrub</a>
+</td>
+<td>2
+</td>
+<td>⅔
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Dry_Grass" title="Dry Grass"><img alt="Dry Grass 3.png" src="/images/thumb/1/1c/Dry_Grass_3.png/32px-Dry_Grass_3.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/1c/Dry_Grass_3.png/48px-Dry_Grass_3.png 1.5x, /images/thumb/1/1c/Dry_Grass_3.png/64px-Dry_Grass_3.png 2x" /></a>
+</td>
+<td><a href="/Dry_Grass" class="mw-redirect" title="Dry Grass">Dry Grass</a>
+</td>
+<td>2
+</td>
+<td>⅔
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Marram_Grass" title="Marram Grass"><img alt="Marram Grass.png" src="/images/thumb/7/72/Marram_Grass.png/32px-Marram_Grass.png" decoding="async" width="32" height="32" srcset="/images/thumb/7/72/Marram_Grass.png/48px-Marram_Grass.png 1.5x, /images/thumb/7/72/Marram_Grass.png/64px-Marram_Grass.png 2x" /></a>
+</td>
+<td><a href="/Marram_Grass" title="Marram Grass">Marram Grass</a>
+</td>
+<td>2
+</td>
+<td>⅔
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Slab" title="Slab"><img alt="Aspen Wood Slab.png" src="/images/thumb/6/6b/Aspen_Wood_Slab.png/32px-Aspen_Wood_Slab.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/6b/Aspen_Wood_Slab.png/48px-Aspen_Wood_Slab.png 1.5x, /images/thumb/6/6b/Aspen_Wood_Slab.png/64px-Aspen_Wood_Slab.png 2x" /></a>
+</td>
+<td><a href="/Slab" title="Slab">Aspen Wood Slab</a>
+</td>
+<td>2
+</td>
+<td>⅔
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Bush_Saplings" title="Bush Saplings"><img alt="Pine Bush Sapling.png" src="/images/thumb/4/4e/Pine_Bush_Sapling.png/32px-Pine_Bush_Sapling.png" decoding="async" width="32" height="32" srcset="/images/thumb/4/4e/Pine_Bush_Sapling.png/48px-Pine_Bush_Sapling.png 1.5x, /images/thumb/4/4e/Pine_Bush_Sapling.png/64px-Pine_Bush_Sapling.png 2x" /></a>
+</td>
+<td><a href="/Bush_Saplings" title="Bush Saplings">Pine Bush Sapling</a>
+</td>
+<td>2
+</td>
+<td>⅔
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Grass" title="Grass"><img alt="Grass 5.png" src="/images/thumb/0/03/Grass_5.png/32px-Grass_5.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/03/Grass_5.png/48px-Grass_5.png 1.5x, /images/thumb/0/03/Grass_5.png/64px-Grass_5.png 2x" /></a>
+</td>
+<td><a href="/Grass" title="Grass">Grass</a>
+</td>
+<td>2
+</td>
+<td>⅔
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Fern" title="Fern"><img alt="Fern.png" src="/images/thumb/5/5f/Fern.png/32px-Fern.png" decoding="async" width="32" height="32" srcset="/images/thumb/5/5f/Fern.png/48px-Fern.png 1.5x, /images/thumb/5/5f/Fern.png/64px-Fern.png 2x" /></a>
+</td>
+<td><a href="/Fern" title="Fern">Fern</a>
+</td>
+<td>2
+</td>
+<td>⅔
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Paper" title="Paper"><img alt="Paper.png" src="/images/thumb/b/b2/Paper.png/32px-Paper.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/b2/Paper.png/48px-Paper.png 1.5x, /images/thumb/b/b2/Paper.png/64px-Paper.png 2x" /></a>
+</td>
+<td><a href="/Paper" title="Paper">Paper</a>
+</td>
+<td>1
+</td>
+<td>⅓
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Wheat" title="Wheat"><img alt="Wheat.png" src="/images/thumb/e/e2/Wheat.png/32px-Wheat.png" decoding="async" width="32" height="32" srcset="/images/thumb/e/e2/Wheat.png/48px-Wheat.png 1.5x, /images/thumb/e/e2/Wheat.png/64px-Wheat.png 2x" /></a>
+</td>
+<td><a href="/Wheat" title="Wheat">Wheat</a>
+</td>
+<td>1
+</td>
+<td>⅓
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/String" title="String"><img alt="String.png" src="/images/thumb/a/a0/String.png/32px-String.png" decoding="async" width="32" height="32" srcset="/images/thumb/a/a0/String.png/48px-String.png 1.5x, /images/thumb/a/a0/String.png/64px-String.png 2x" /></a>
+</td>
+<td><a href="/String" title="String">String</a>
+</td>
+<td>1
+</td>
+<td>⅓
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Cotton" title="Cotton"><img alt="Cotton.png" src="/images/thumb/c/c3/Cotton.png/32px-Cotton.png" decoding="async" width="32" height="32" srcset="/images/thumb/c/c3/Cotton.png/48px-Cotton.png 1.5x, /images/thumb/c/c3/Cotton.png/64px-Cotton.png 2x" /></a>
+</td>
+<td><a href="/Cotton" title="Cotton">Cotton</a>
+</td>
+<td>1
+</td>
+<td>⅓
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr>
+<tr>
+<td><a href="/Stick" title="Stick"><img alt="Stick.png" src="/images/thumb/a/aa/Stick.png/32px-Stick.png" decoding="async" width="32" height="32" srcset="/images/thumb/a/aa/Stick.png/48px-Stick.png 1.5x, /images/thumb/a/aa/Stick.png/64px-Stick.png 2x" /></a>
+</td>
+<td><a href="/Stick" title="Stick">Stick</a>
+</td>
+<td>1
+</td>
+<td>⅓
+</td>
+<td>
+</td>
+<td><i>なし</i>
+</td></tr></tbody></table>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">製錬時間を3秒と仮定</span>
+</li>
+</ol></div>
+<!-- 
+NewPP limit report
+Cached time: 20230801093002
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 1.485 seconds
+Real time usage: 2.093 seconds
+Preprocessor visited node count: 254/1000000
+Post‐expand include size: 3512/2097152 bytes
+Template argument size: 665/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 13/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 310/5000000 bytes
+Lua time usage: 0.120/7 seconds
+Lua virtual size: 5.56 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  341.312      1 -total
+ 90.28%  308.130      1 Template:Languages
+  9.59%   32.746      1 Template:Incomplete_translation/ja
+  5.15%   17.590      1 Template:Mbox
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:4766-0!canonical and timestamp 20230801093000 and revision id 25766
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Games/Minetest_Game/Smelting/ja&amp;oldid=25766">http://wiki.minetest.net/index.php?title=Games/Minetest_Game/Smelting/ja&amp;oldid=25766</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Incomplete_translated_pages" title="Category:Incomplete translated pages">Incomplete translated pages</a></li><li><a href="/Category:Pages_with_broken_file_links" title="Category:Pages with broken file links">Pages with broken file links</a></li><li><a href="/Category:Japanese" title="Category:Japanese">Japanese</a></li><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Games%2FMinetest+Game%2FSmelting%2Fja" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Games/Minetest_Game/Smelting/ja" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Games/Minetest_Game/Smelting/ja&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Games/Minetest_Game/Smelting/ja">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Games/Minetest_Game/Smelting/ja&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Games/Minetest_Game/Smelting/ja&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Games/Minetest_Game/Smelting/ja" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Games/Minetest_Game/Smelting/ja" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Games/Minetest_Game/Smelting/ja&amp;oldid=25766" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Games/Minetest_Game/Smelting/ja&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 16 April 2021, at 05:54.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.485","walltime":"2.093","ppvisitednodes":{"value":254,"limit":1000000},"postexpandincludesize":{"value":3512,"limit":2097152},"templateargumentsize":{"value":665,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":13,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":310,"limit":5000000},"timingprofile":["100.00%  341.312      1 -total"," 90.28%  308.130      1 Template:Languages","  9.59%   32.746      1 Template:Incomplete_translation/ja","  5.15%   17.590      1 Template:Mbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.120","limit":"7"},"limitreport-virtmemusage":{"value":5828608,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230801093002","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":341});});</script></body></html>

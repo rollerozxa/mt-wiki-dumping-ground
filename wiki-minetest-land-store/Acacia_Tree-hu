@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8"/>
 <title>Acacia Tree/hu - Minetest Wiki</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"874f1a1e9101e7df7df66df4","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Acacia_Tree/hu","wgTitle":"Acacia Tree/hu","wgCurRevisionId":7634,"wgRevisionId":7634,"wgArticleId":1932,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages","Hungarian"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Acacia_Tree/hu","wgRelevantArticleId":1932,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"d2c6cf5b0488763e7eecb78e","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Acacia_Tree/hu","wgTitle":"Acacia Tree/hu","wgCurRevisionId":7634,"wgRevisionId":7634,"wgArticleId":1932,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages","Hungarian"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Acacia_Tree/hu","wgRelevantArticleId":1932,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":
 "ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","jquery.tablesorter.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","skins.vector.legacy.js"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
@@ -100,7 +100,7 @@
 </td>
 <td><i>?</i>
 </td></tr></tbody></table>
-<p>Az <b>akácia fa</b> blokkok <a href="/F%C3%A1k" class="mw-redirect" title="Fák">akácia fákon</a> találhatók a föld felett Szavanna területen. A játékos készíthet belőle <a href="/index.php?title=Fadeszka&amp;action=edit&amp;redlink=1" class="new" title="Fadeszka (page does not exist)">akácia fadeszkát</a> és sok barkács recepthez felhasználhatja, vagy a <a href="/index.php?title=Kemence&amp;action=edit&amp;redlink=1" class="new" title="Kemence (page does not exist)">kemencében</a> <a href="/index.php?title=Olvaszt%C3%A1s,_%C3%A9get%C3%A9s&amp;action=edit&amp;redlink=1" class="new" title="Olvasztás, égetés (page does not exist)">elégetheti</a>.
+<p>Az <b>akácia fa</b> blokkok <a href="/index.php?title=F%C3%A1k&amp;action=edit&amp;redlink=1" class="new" title="Fák (page does not exist)">akácia fákon</a> találhatók a föld felett Szavanna területen. A játékos készíthet belőle <a href="/index.php?title=Fadeszka&amp;action=edit&amp;redlink=1" class="new" title="Fadeszka (page does not exist)">akácia fadeszkát</a> és sok barkács recepthez felhasználhatja, vagy a <a href="/index.php?title=Kemence&amp;action=edit&amp;redlink=1" class="new" title="Kemence (page does not exist)">kemencében</a> <a href="/index.php?title=Olvaszt%C3%A1s,_%C3%A9get%C3%A9s&amp;action=edit&amp;redlink=1" class="new" title="Olvasztás, égetés (page does not exist)">elégetheti</a>.
 </p>
 <h2><span id="Barkács_alapanyagként"></span><span class="mw-headline" id="Bark.C3.A1cs_alapanyagk.C3.A9nt">Barkács alapanyagként</span></h2>
 <table class="wikitable sortable collapsible">
@@ -156,15 +156,15 @@
 <h2><span id="Lásd_még"></span><span class="mw-headline" id="L.C3.A1sd_m.C3.A9g">Lásd még</span></h2>
 <ul><li><a href="/Fa" class="mw-redirect" title="Fa">Fa</a></li>
 <li><a href="/Dzsungelfa" class="mw-redirect" title="Dzsungelfa">Dzsungelfa</a></li>
-<li><a href="/Feny%C5%91fa" class="mw-redirect" title="Fenyőfa">Fenyőfa</a></li></ul>
+<li><a href="/index.php?title=Feny%C5%91fa&amp;action=edit&amp;redlink=1" class="new" title="Fenyőfa (page does not exist)">Fenyőfa</a></li></ul>
 <!-- 
 NewPP limit report
-Cached time: 20230709090258
+Cached time: 20230925140421
 Cache expiry: 86400
 Dynamic content: false
 Complications: []
-CPU time usage: 0.286 seconds
-Real time usage: 0.634 seconds
+CPU time usage: 0.287 seconds
+Real time usage: 0.682 seconds
 Preprocessor visited node count: 210/1000000
 Post‐expand include size: 8481/2097152 bytes
 Template argument size: 450/2097152 bytes
@@ -172,20 +172,20 @@ Highest expansion depth: 7/40
 Expensive parser function count: 15/100
 Unstrip recursion depth: 0/20
 Unstrip post‐expand size: 0/5000000 bytes
-Lua time usage: 0.190/7 seconds
+Lua time usage: 0.200/7 seconds
 Lua virtual size: 5.93 MB/50 MB
 Lua estimated memory usage: 0 bytes
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  529.439      1 -total
- 60.16%  318.496      1 Template:Languages
- 25.37%  134.330      1 Template:Block_Data
- 14.32%   75.823      1 Template:Grid/Craft
- 10.88%   57.600     10 Template:Grid
+100.00%  564.924      1 -total
+ 60.53%  341.935      1 Template:Languages
+ 25.90%  146.310      1 Template:Block_Data
+ 13.44%   75.915      1 Template:Grid/Craft
+ 10.16%   57.393     10 Template:Grid
 -->
 
-<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:1932-0!canonical and timestamp 20230709090257 and revision id 7634
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:1932-0!canonical and timestamp 20230925140421 and revision id 7634
  -->
 </div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Acacia_Tree/hu&amp;oldid=7634">http://wiki.minetest.net/index.php?title=Acacia_Tree/hu&amp;oldid=7634</a>"</div>
 		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li><li><a href="/Category:Hungarian" title="Category:Hungarian">Hungarian</a></li></ul></div></div>
@@ -350,4 +350,4 @@ Transclusion expansion time report (%,ms,calls,template)
 
 
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.286","walltime":"0.634","ppvisitednodes":{"value":210,"limit":1000000},"postexpandincludesize":{"value":8481,"limit":2097152},"templateargumentsize":{"value":450,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":15,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  529.439      1 -total"," 60.16%  318.496      1 Template:Languages"," 25.37%  134.330      1 Template:Block_Data"," 14.32%   75.823      1 Template:Grid/Craft"," 10.88%   57.600     10 Template:Grid"]},"scribunto":{"limitreport-timeusage":{"value":"0.190","limit":"7"},"limitreport-virtmemusage":{"value":6217728,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709090258","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":357});});</script></body></html>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.287","walltime":"0.682","ppvisitednodes":{"value":210,"limit":1000000},"postexpandincludesize":{"value":8481,"limit":2097152},"templateargumentsize":{"value":450,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":15,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  564.924      1 -total"," 60.53%  341.935      1 Template:Languages"," 25.90%  146.310      1 Template:Block_Data"," 13.44%   75.915      1 Template:Grid/Craft"," 10.16%   57.393     10 Template:Grid"]},"scribunto":{"limitreport-timeusage":{"value":"0.200","limit":"7"},"limitreport-virtmemusage":{"value":6217728,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230925140421","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":1047});});</script></body></html>

@@ -4,8 +4,8 @@
 <head>
 <meta charset="UTF-8"/>
 <title>Minetest Wiki</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"7c12dcf6917f2cd1edd305d6","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Main_Page","wgTitle":"Main Page","wgCurRevisionId":27626,"wgRevisionId":27626,"wgArticleId":1,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with ignored display titles","Languages pages","Minetest (Root Category)"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Main_Page","wgRelevantArticleId":1,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],
-"wgIsMainPage":!0};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","skins.vector.legacy.js"];</script>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"5b22c8a13fb034864f65e5bb","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Main_Page","wgTitle":"Main Page","wgCurRevisionId":27895,"wgRevisionId":27895,"wgArticleId":1,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Languages pages","Minetest (Root Category)"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Main_Page","wgRelevantArticleId":1,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgIsMainPage":!0};RLSTATE={
+"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","skins.vector.legacy.js"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
 <link rel="stylesheet" href="/load.php?lang=en&amp;modules=skins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
@@ -28,7 +28,7 @@
 	<div id="siteNotice" class="mw-body-content"></div>
 	<div class="mw-indicators mw-body-content">
 	</div>
-	<h1 id="firstHeading" class="firstHeading" lang="en">Main Page</h1>
+	<h1 id="firstHeading" class="firstHeading" lang="en"><span style="position: absolute; clip: rect(1px 1px 1px 1px); clip: rect(1px, 1px, 1px, 1px);">Main Page</span></h1>
 	<div id="bodyContent" class="mw-body-content">
 		<div id="siteSub" class="noprint">From Minetest Wiki</div>
 		<div id="contentSub"></div>
@@ -37,9 +37,7 @@
 		<div id="jump-to-nav"></div>
 		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
 		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
-		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p><br />
-</p>
-<table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
 <tbody><tr style="background:#EEF3E2">
 <th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> Language:</th>
 <td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><b><a class="mw-selflink selflink">English</a></b>&#160;• <bdi lang="de"><a href="/Main_Page/de" title="Main Page/de">Deutsch</a></bdi>&#160;• <bdi lang="es"><a href="/Main_Page/es" title="Main Page/es">español</a></bdi>&#160;• <bdi lang="fr"><a href="/Main_Page/fr" title="Main Page/fr">français</a></bdi>&#160;• <bdi lang="hu"><a href="/Main_Page/hu" title="Main Page/hu">magyar</a></bdi>&#160;• <bdi lang="id"><a href="/Main_Page/id" title="Main Page/id">Bahasa Indonesia</a></bdi>&#160;• <bdi lang="it"><a href="/Main_Page/it" title="Main Page/it">italiano</a></bdi>&#160;• <bdi lang="ja"><a href="/Main_Page/ja" title="Main Page/ja">日本語</a></bdi>&#160;• <bdi lang="ms"><a href="/Main_Page/ms" title="Main Page/ms">Bahasa Melayu</a></bdi>&#160;• <bdi lang="pl"><a href="/Main_Page/pl" title="Main Page/pl">polski</a></bdi>&#160;• <bdi lang="ru"><a href="/Main_Page/ru" title="Main Page/ru">русский</a></bdi>&#160;• <bdi lang="tr"><a href="/Main_Page/tr" title="Main Page/tr">Türkçe</a></bdi>&#160;• <bdi lang="zh"><a href="/Main_Page/zh" class="mw-redirect" title="Main Page/zh">中文</a></bdi>&#160;• <bdi lang="zh-hans"><a href="/Main_Page/zh-hans" title="Main Page/zh-hans">中文（简体）‎</a></bdi></td>
@@ -48,7 +46,7 @@
 </p>
 <div style="text-align:center; font-size: 162%; padding: 0.1em;">Welcome to the <b>Minetest Wiki</b>.</div>
 <div style="text-align:center; font-size: 95%;">The official source for information about Minetest and Minetest Game.</div>
-<div style="text-align:center; font-size: 85%;">We currently have <a href="/Special:Statistics" title="Special:Statistics">1,286</a> articles and <a href="/Special:Statistics" title="Special:Statistics">6</a> active contributors.</div>
+<div style="text-align:center; font-size: 85%;">We currently have <a href="/Special:Statistics" title="Special:Statistics">1,075</a> articles and <a href="/Special:Statistics" title="Special:Statistics">6</a> active contributors.</div>
 <p><br />
 </p>
 <table class="tile-container">
@@ -177,33 +175,33 @@ Following are information about common gameplay elements that exist in most game
 </td></tr></tbody></table>
 <!-- 
 NewPP limit report
-Cached time: 20230709164637
+Cached time: 20230925131811
 Cache expiry: 3600
 Dynamic content: true
 Complications: []
-CPU time usage: 0.211 seconds
-Real time usage: 0.537 seconds
-Preprocessor visited node count: 120/1000000
-Post‐expand include size: 3443/2097152 bytes
+CPU time usage: 0.210 seconds
+Real time usage: 0.518 seconds
+Preprocessor visited node count: 121/1000000
+Post‐expand include size: 3452/2097152 bytes
 Template argument size: 918/2097152 bytes
 Highest expansion depth: 5/40
 Expensive parser function count: 14/100
 Unstrip recursion depth: 0/20
 Unstrip post‐expand size: 0/5000000 bytes
 Lua time usage: 0.120/7 seconds
-Lua virtual size: 5.55 MB/50 MB
+Lua virtual size: 5.53 MB/50 MB
 Lua estimated memory usage: 0 bytes
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  334.262      1 Template:Languages
-100.00%  334.262      1 -total
+100.00%  322.055      1 Template:Languages
+100.00%  322.055      1 -total
 -->
 
-<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:1-0!canonical and timestamp 20230709164637 and revision id 27626
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:1-0!canonical and timestamp 20230925131811 and revision id 27895
  -->
-</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Main_Page&amp;oldid=27626">http://wiki.minetest.net/index.php?title=Main_Page&amp;oldid=27626</a>"</div>
-		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/index.php?title=Category:Pages_with_ignored_display_titles&amp;action=edit&amp;redlink=1" class="new" title="Category:Pages with ignored display titles (page does not exist)">Pages with ignored display titles</a></li><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li><li><a href="/Category:Minetest_(Root_Category)" title="Category:Minetest (Root Category)">Minetest (Root Category)</a></li></ul></div></div>
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Main_Page&amp;oldid=27895">http://wiki.minetest.net/index.php?title=Main_Page&amp;oldid=27895</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Languages_pages" title="Category:Languages pages">Languages pages</a></li><li><a href="/Category:Minetest_(Root_Category)" title="Category:Minetest (Root Category)">Minetest (Root Category)</a></li></ul></div></div>
 	</div>
 </div>
 
@@ -335,7 +333,7 @@ Transclusion expansion time report (%,ms,calls,template)
 	<!-- Please do not use the .body class, it is deprecated. -->
 	<div class="body vector-menu-content">
 		<!-- Please do not use the .menu class, it is deprecated. -->
-		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Main_Page" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Main_Page" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Main_Page&amp;oldid=27626" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Main_Page&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Main_Page" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Main_Page" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Main_Page&amp;oldid=27895" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Main_Page&amp;action=info" title="More information about this page">Page information</a></li></ul>
 		
 	</div>
 </nav>
@@ -348,7 +346,7 @@ Transclusion expansion time report (%,ms,calls,template)
 
 <footer id="footer" class="mw-footer" role="contentinfo" >
 	<ul id="footer-info" >
-		<li id="footer-info-lastmod"> This page was last edited on 29 January 2023, at 10:05.</li>
+		<li id="footer-info-lastmod"> This page was last edited on 28 July 2023, at 13:37.</li>
 		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
 	</ul>
 	<ul id="footer-places" >
@@ -365,4 +363,4 @@ Transclusion expansion time report (%,ms,calls,template)
 
 
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.211","walltime":"0.537","ppvisitednodes":{"value":120,"limit":1000000},"postexpandincludesize":{"value":3443,"limit":2097152},"templateargumentsize":{"value":918,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":14,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  334.262      1 Template:Languages","100.00%  334.262      1 -total"]},"scribunto":{"limitreport-timeusage":{"value":"0.120","limit":"7"},"limitreport-virtmemusage":{"value":5816320,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230709164637","ttl":3600,"transientcontent":true}}});mw.config.set({"wgBackendResponseTime":282});});</script></body></html>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.210","walltime":"0.518","ppvisitednodes":{"value":121,"limit":1000000},"postexpandincludesize":{"value":3452,"limit":2097152},"templateargumentsize":{"value":918,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":14,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  322.055      1 Template:Languages","100.00%  322.055      1 -total"]},"scribunto":{"limitreport-timeusage":{"value":"0.120","limit":"7"},"limitreport-virtmemusage":{"value":5795840,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230925131811","ttl":3600,"transientcontent":true}}});mw.config.set({"wgBackendResponseTime":502});});</script></body></html>

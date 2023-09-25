@@ -1,0 +1,656 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Games/Minetest Game/Items/ms - Minetest Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"7e92e789fcb0e78b63f8697d","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Games/Minetest_Game/Items/ms","wgTitle":"Games/Minetest Game/Items/ms","wgCurRevisionId":27652,"wgRevisionId":27652,"wgArticleId":3231,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with broken file links","Malay"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Games/Minetest_Game/Items/ms","wgRelevantArticleId":3231,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove"
+:[],"wgRedirectedFrom":"Items/ms","wgInternalRedirectTargetUrl":"/Games/Minetest_Game/Items/ms"};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=mediawiki.toc.styles%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.3"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="Minetest Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.minetest.net/api.php?action=rsd"/>
+<link rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Minetest Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<link rel="canonical" href="http://wiki.minetest.net/Games/Minetest_Game/Items/ms"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Games_Minetest_Game_Items_ms rootpage-Games skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Games/Minetest Game/Items/ms</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Minetest Wiki</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/Games" title="Games">Games</a>&lrm; | <a href="/Games/Minetest_Game" title="Games/Minetest Game">Minetest Game</a>&lrm; | <a href="/Games/Minetest_Game/Items" title="Games/Minetest Game/Items">Items</a></span><span class="mw-redirectedfrom">(Redirected from <a href="/index.php?title=Items/ms&amp;redirect=no" class="mw-redirect" title="Items/ms">Items/ms</a>)</span></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="border:1px solid #AAA; border-collapse:collapse; clear:both; font-size:100%; margin: 0.5em 0">
+<tbody><tr style="background:#EEF3E2">
+<th style="border:none; text-align:center; white-space:nowrap; padding:4px 1em; border-right:1px solid #aaa"><img alt="Languages" src="/images/thumb/5/59/Geographylogo.png/25px-Geographylogo.png" decoding="async" title="Languages" width="25" height="25" srcset="/images/thumb/5/59/Geographylogo.png/38px-Geographylogo.png 1.5x, /images/5/59/Geographylogo.png 2x" /> Bahasa:</th>
+<td style="border:none; padding:0.25em 0.9em; width:100%; background:#F6F9ED"><a href="/Games/Minetest_Game/Items" title="Games/Minetest Game/Items">English</a>&#160;• <bdi lang="de"><a href="/Games/Minetest_Game/Items/de" title="Games/Minetest Game/Items/de">Deutsch</a></bdi>&#160;• <bdi lang="fr"><a href="/Games/Minetest_Game/Items/fr" title="Games/Minetest Game/Items/fr">français</a></bdi>&#160;• <bdi lang="hu"><a href="/Games/Minetest_Game/Items/hu" title="Games/Minetest Game/Items/hu">magyar</a></bdi>&#160;• <bdi lang="it"><a href="/Games/Minetest_Game/Items/it" title="Games/Minetest Game/Items/it">italiano</a></bdi>&#160;• <bdi lang="ja"><a href="/Games/Minetest_Game/Items/ja" title="Games/Minetest Game/Items/ja">日本語</a></bdi><b>&#160;• <bdi lang="ms"><a class="mw-selflink selflink">Bahasa Melayu</a></bdi></b>&#160;• <bdi lang="ru"><a href="/Games/Minetest_Game/Items/ru" title="Games/Minetest Game/Items/ru">русский</a></bdi></td>
+</tr></tbody></table>
+<p>Istilah “<b>item</b>” merujuk kepada apa-apa sahaja barangan yang boleh disimpan di dalam sebuah inventori. Ini termasuklah alatan, senjata, <a href="/Blocks/ms" class="mw-redirect" title="Blocks/ms">blok</a> dan elemen yang hanya digunakan untuk pertukangan (“item pertukangan” atau <i>craftitems</i>). Halaman ini menyenaraikan item-item yang ada di dalam <a href="/Games/Minetest_Game/ms" title="Games/Minetest Game/ms">Minetest Game</a> kecuali blok-blok kerana blok-blok telah disenaraikan dalam halamannya sendiri.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Alatan_dan_senjata"><span class="tocnumber">1</span> <span class="toctext">Alatan dan senjata</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Kenderaan"><span class="tocnumber">2</span> <span class="toctext">Kenderaan</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Makanan"><span class="tocnumber">3</span> <span class="toctext">Makanan</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Bijih_dan_mineral"><span class="tocnumber">4</span> <span class="toctext">Bijih dan mineral</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Jongkong_dan_mineral_lain_yang_telah_diproses"><span class="tocnumber">5</span> <span class="toctext">Jongkong dan mineral lain yang telah diproses</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Pewarna"><span class="tocnumber">6</span> <span class="toctext">Pewarna</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Elemen_pertukangan_lain"><span class="tocnumber">7</span> <span class="toctext">Elemen pertukangan lain</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Item_dalam_versi_akan_datang"><span class="tocnumber">8</span> <span class="toctext">Item dalam versi akan datang</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Item_yang_digunakan_di_peringkat_dalaman"><span class="tocnumber">9</span> <span class="toctext">Item yang digunakan di peringkat dalaman</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Lihat_juga"><span class="tocnumber">10</span> <span class="toctext">Lihat juga</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Alatan_dan_senjata"><a href="/Tool/ms" title="Tool/ms">Alatan</a> dan senjata</span></h2>
+<p>Kualiti alatan ini meningkat mengikut bahan pembuatannya dengan susunan: Kayu &lt; Batu &lt; Keluli &lt; Gangsa &lt; Mese &lt; Intan. Kapak dikecualikan daripada susunan tersebut kerana kualiti kapak meningkat dengan susunan: Kayu &lt; Batu &lt; Keluli &lt; Gangsa &lt; Intan &lt; Mese.
+</p>
+<table class="wikitable">
+<tbody><tr>
+<td><a href="/File:Wooden_Sword.png" class="image"><img alt="Wooden Sword.png" src="/images/thumb/c/cd/Wooden_Sword.png/32px-Wooden_Sword.png" decoding="async" width="32" height="32" srcset="/images/thumb/c/cd/Wooden_Sword.png/48px-Wooden_Sword.png 1.5x, /images/thumb/c/cd/Wooden_Sword.png/64px-Wooden_Sword.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Sword/ms&amp;action=edit&amp;redlink=1" class="new" title="Sword/ms (page does not exist)">Pedang</a> Kayu
+</td>
+<td><a href="/File:Wooden_Pickaxe.png" class="image"><img alt="Wooden Pickaxe.png" src="/images/thumb/b/b3/Wooden_Pickaxe.png/32px-Wooden_Pickaxe.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/b3/Wooden_Pickaxe.png/48px-Wooden_Pickaxe.png 1.5x, /images/thumb/b/b3/Wooden_Pickaxe.png/64px-Wooden_Pickaxe.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Pickaxe/ms&amp;action=edit&amp;redlink=1" class="new" title="Pickaxe/ms (page does not exist)">Beliung</a> Kayu
+</td>
+<td><a href="/File:Wooden_Shovel.png" class="image"><img alt="Wooden Shovel.png" src="/images/thumb/a/a4/Wooden_Shovel.png/32px-Wooden_Shovel.png" decoding="async" width="32" height="32" srcset="/images/thumb/a/a4/Wooden_Shovel.png/48px-Wooden_Shovel.png 1.5x, /images/thumb/a/a4/Wooden_Shovel.png/64px-Wooden_Shovel.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Shovel/ms&amp;action=edit&amp;redlink=1" class="new" title="Shovel/ms (page does not exist)">Penyodok</a> Kayu
+</td>
+<td><a href="/File:Wooden_Axe.png" class="image"><img alt="Wooden Axe.png" src="/images/thumb/1/11/Wooden_Axe.png/32px-Wooden_Axe.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/11/Wooden_Axe.png/48px-Wooden_Axe.png 1.5x, /images/thumb/1/11/Wooden_Axe.png/64px-Wooden_Axe.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Axe/ms&amp;action=edit&amp;redlink=1" class="new" title="Axe/ms (page does not exist)">Kapak</a> Kayu
+</td>
+<td><a href="/File:Wooden_Hoe.png" class="image"><img alt="Wooden Hoe.png" src="/images/thumb/b/b7/Wooden_Hoe.png/32px-Wooden_Hoe.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/b7/Wooden_Hoe.png/48px-Wooden_Hoe.png 1.5x, /images/thumb/b/b7/Wooden_Hoe.png/64px-Wooden_Hoe.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Hoe/ms&amp;action=edit&amp;redlink=1" class="new" title="Hoe/ms (page does not exist)">Cangkul</a> Kayu
+</td></tr>
+<tr>
+<td><a href="/File:Stonesword.png" class="image"><img alt="Stonesword.png" src="/images/thumb/f/f7/Stonesword.png/32px-Stonesword.png" decoding="async" width="32" height="32" srcset="/images/thumb/f/f7/Stonesword.png/48px-Stonesword.png 1.5x, /images/thumb/f/f7/Stonesword.png/64px-Stonesword.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Sword/ms&amp;action=edit&amp;redlink=1" class="new" title="Sword/ms (page does not exist)">Pedang</a> Batu
+</td>
+<td><a href="/File:Stonepick.png" class="image"><img alt="Stonepick.png" src="/images/thumb/9/9a/Stonepick.png/32px-Stonepick.png" decoding="async" width="32" height="32" srcset="/images/thumb/9/9a/Stonepick.png/48px-Stonepick.png 1.5x, /images/thumb/9/9a/Stonepick.png/64px-Stonepick.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Pickaxe/ms&amp;action=edit&amp;redlink=1" class="new" title="Pickaxe/ms (page does not exist)">Beliung</a> Batu
+</td>
+<td><a href="/File:Stoneshovel.png" class="image"><img alt="Stoneshovel.png" src="/images/thumb/2/2a/Stoneshovel.png/32px-Stoneshovel.png" decoding="async" width="32" height="32" srcset="/images/thumb/2/2a/Stoneshovel.png/48px-Stoneshovel.png 1.5x, /images/thumb/2/2a/Stoneshovel.png/64px-Stoneshovel.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Shovel/ms&amp;action=edit&amp;redlink=1" class="new" title="Shovel/ms (page does not exist)">Penyodok</a> Batu
+</td>
+<td><a href="/File:Stoneaxe.png" class="image"><img alt="Stoneaxe.png" src="/images/thumb/e/e6/Stoneaxe.png/32px-Stoneaxe.png" decoding="async" width="32" height="32" srcset="/images/thumb/e/e6/Stoneaxe.png/48px-Stoneaxe.png 1.5x, /images/thumb/e/e6/Stoneaxe.png/64px-Stoneaxe.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Axe/ms&amp;action=edit&amp;redlink=1" class="new" title="Axe/ms (page does not exist)">Kapak</a> Batu
+</td>
+<td><a href="/File:Stonehoe.png" class="image"><img alt="Stonehoe.png" src="/images/thumb/4/40/Stonehoe.png/32px-Stonehoe.png" decoding="async" width="32" height="32" srcset="/images/thumb/4/40/Stonehoe.png/48px-Stonehoe.png 1.5x, /images/thumb/4/40/Stonehoe.png/64px-Stonehoe.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Hoe/ms&amp;action=edit&amp;redlink=1" class="new" title="Hoe/ms (page does not exist)">Cangkul</a> Batu
+</td></tr>
+<tr>
+<td><a href="/File:Steel_Sword.png" class="image"><img alt="Steel Sword.png" src="/images/thumb/0/01/Steel_Sword.png/32px-Steel_Sword.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/01/Steel_Sword.png/48px-Steel_Sword.png 1.5x, /images/thumb/0/01/Steel_Sword.png/64px-Steel_Sword.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Sword/ms&amp;action=edit&amp;redlink=1" class="new" title="Sword/ms (page does not exist)">Pedang</a> Keluli
+</td>
+<td><a href="/File:Steel_Pickaxe.png" class="image"><img alt="Steel Pickaxe.png" src="/images/thumb/d/d1/Steel_Pickaxe.png/32px-Steel_Pickaxe.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/d1/Steel_Pickaxe.png/48px-Steel_Pickaxe.png 1.5x, /images/thumb/d/d1/Steel_Pickaxe.png/64px-Steel_Pickaxe.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Pickaxe/ms&amp;action=edit&amp;redlink=1" class="new" title="Pickaxe/ms (page does not exist)">Beliung</a> Keluli
+</td>
+<td><a href="/File:Steel_Shovel.png" class="image"><img alt="Steel Shovel.png" src="/images/thumb/6/63/Steel_Shovel.png/32px-Steel_Shovel.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/63/Steel_Shovel.png/48px-Steel_Shovel.png 1.5x, /images/thumb/6/63/Steel_Shovel.png/64px-Steel_Shovel.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Shovel/ms&amp;action=edit&amp;redlink=1" class="new" title="Shovel/ms (page does not exist)">Penyodok</a> Keluli
+</td>
+<td><a href="/File:Steel_Axe.png" class="image"><img alt="Steel Axe.png" src="/images/thumb/c/ce/Steel_Axe.png/32px-Steel_Axe.png" decoding="async" width="32" height="32" srcset="/images/thumb/c/ce/Steel_Axe.png/48px-Steel_Axe.png 1.5x, /images/thumb/c/ce/Steel_Axe.png/64px-Steel_Axe.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Axe/ms&amp;action=edit&amp;redlink=1" class="new" title="Axe/ms (page does not exist)">Kapak</a> Keluli
+</td>
+<td><a href="/File:Steel_Hoe.png" class="image"><img alt="Steel Hoe.png" src="/images/thumb/f/f5/Steel_Hoe.png/32px-Steel_Hoe.png" decoding="async" width="32" height="32" srcset="/images/thumb/f/f5/Steel_Hoe.png/48px-Steel_Hoe.png 1.5x, /images/thumb/f/f5/Steel_Hoe.png/64px-Steel_Hoe.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Hoe/ms&amp;action=edit&amp;redlink=1" class="new" title="Hoe/ms (page does not exist)">Cangkul</a> Keluli
+</td></tr>
+<tr>
+<td><a href="/File:Bronze_Sword.png" class="image"><img alt="Bronze Sword.png" src="/images/thumb/9/9f/Bronze_Sword.png/32px-Bronze_Sword.png" decoding="async" width="32" height="32" srcset="/images/thumb/9/9f/Bronze_Sword.png/48px-Bronze_Sword.png 1.5x, /images/thumb/9/9f/Bronze_Sword.png/64px-Bronze_Sword.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Sword/ms&amp;action=edit&amp;redlink=1" class="new" title="Sword/ms (page does not exist)">Pedang</a> Gangsa
+</td>
+<td><a href="/File:Bronze_Pickaxe.png" class="image"><img alt="Bronze Pickaxe.png" src="/images/thumb/e/e4/Bronze_Pickaxe.png/32px-Bronze_Pickaxe.png" decoding="async" width="32" height="32" srcset="/images/thumb/e/e4/Bronze_Pickaxe.png/48px-Bronze_Pickaxe.png 1.5x, /images/thumb/e/e4/Bronze_Pickaxe.png/64px-Bronze_Pickaxe.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Pickaxe/ms&amp;action=edit&amp;redlink=1" class="new" title="Pickaxe/ms (page does not exist)">Beliung</a> Gangsa
+</td>
+<td><a href="/File:Bronze_Shovel.png" class="image"><img alt="Bronze Shovel.png" src="/images/thumb/a/a1/Bronze_Shovel.png/32px-Bronze_Shovel.png" decoding="async" width="32" height="32" srcset="/images/thumb/a/a1/Bronze_Shovel.png/48px-Bronze_Shovel.png 1.5x, /images/thumb/a/a1/Bronze_Shovel.png/64px-Bronze_Shovel.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Shovel/ms&amp;action=edit&amp;redlink=1" class="new" title="Shovel/ms (page does not exist)">Penyodok</a> Gangsa
+</td>
+<td><a href="/File:Bronze_Axe.png" class="image"><img alt="Bronze Axe.png" src="/images/thumb/b/ba/Bronze_Axe.png/32px-Bronze_Axe.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/ba/Bronze_Axe.png/48px-Bronze_Axe.png 1.5x, /images/thumb/b/ba/Bronze_Axe.png/64px-Bronze_Axe.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Axe/ms&amp;action=edit&amp;redlink=1" class="new" title="Axe/ms (page does not exist)">Kapak</a> Gangsa
+</td>
+<td><a href="/File:Bronze_Hoe.png" class="image"><img alt="Bronze Hoe.png" src="/images/thumb/2/22/Bronze_Hoe.png/32px-Bronze_Hoe.png" decoding="async" width="32" height="32" srcset="/images/thumb/2/22/Bronze_Hoe.png/48px-Bronze_Hoe.png 1.5x, /images/thumb/2/22/Bronze_Hoe.png/64px-Bronze_Hoe.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Hoe/ms&amp;action=edit&amp;redlink=1" class="new" title="Hoe/ms (page does not exist)">Cangkul</a> Gangsa
+</td></tr>
+<tr>
+<td><a href="/File:Mese_Sword.png" class="image"><img alt="Mese Sword.png" src="/images/thumb/e/e8/Mese_Sword.png/32px-Mese_Sword.png" decoding="async" width="32" height="32" srcset="/images/thumb/e/e8/Mese_Sword.png/48px-Mese_Sword.png 1.5x, /images/thumb/e/e8/Mese_Sword.png/64px-Mese_Sword.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Sword/ms&amp;action=edit&amp;redlink=1" class="new" title="Sword/ms (page does not exist)">Pedang</a> Mese
+</td>
+<td><a href="/File:Mese_Pickaxe.png" class="image"><img alt="Mese Pickaxe.png" src="/images/thumb/0/02/Mese_Pickaxe.png/32px-Mese_Pickaxe.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/02/Mese_Pickaxe.png/48px-Mese_Pickaxe.png 1.5x, /images/thumb/0/02/Mese_Pickaxe.png/64px-Mese_Pickaxe.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Pickaxe/ms&amp;action=edit&amp;redlink=1" class="new" title="Pickaxe/ms (page does not exist)">Beliung</a> Mese
+</td>
+<td><a href="/File:Mese_Shovel.png" class="image"><img alt="Mese Shovel.png" src="/images/thumb/2/2e/Mese_Shovel.png/32px-Mese_Shovel.png" decoding="async" width="32" height="32" srcset="/images/thumb/2/2e/Mese_Shovel.png/48px-Mese_Shovel.png 1.5x, /images/thumb/2/2e/Mese_Shovel.png/64px-Mese_Shovel.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Shovel/ms&amp;action=edit&amp;redlink=1" class="new" title="Shovel/ms (page does not exist)">Penyodok</a> Mese
+</td>
+<td><a href="/File:Mese_Axe.png" class="image"><img alt="Mese Axe.png" src="/images/thumb/c/c9/Mese_Axe.png/32px-Mese_Axe.png" decoding="async" width="32" height="32" srcset="/images/thumb/c/c9/Mese_Axe.png/48px-Mese_Axe.png 1.5x, /images/thumb/c/c9/Mese_Axe.png/64px-Mese_Axe.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Axe/ms&amp;action=edit&amp;redlink=1" class="new" title="Axe/ms (page does not exist)">Kapak</a> Mese
+</td>
+<td><a href="/File:Mese_Hoe.png" class="image"><img alt="Mese Hoe.png" src="/images/thumb/4/4a/Mese_Hoe.png/32px-Mese_Hoe.png" decoding="async" width="32" height="32" srcset="/images/thumb/4/4a/Mese_Hoe.png/48px-Mese_Hoe.png 1.5x, /images/thumb/4/4a/Mese_Hoe.png/64px-Mese_Hoe.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Hoe/ms&amp;action=edit&amp;redlink=1" class="new" title="Hoe/ms (page does not exist)">Cangkul</a> Mese
+</td></tr>
+<tr>
+<td><a href="/File:Diamond_Sword.png" class="image"><img alt="Diamond Sword.png" src="/images/thumb/a/a0/Diamond_Sword.png/32px-Diamond_Sword.png" decoding="async" width="32" height="32" srcset="/images/thumb/a/a0/Diamond_Sword.png/48px-Diamond_Sword.png 1.5x, /images/thumb/a/a0/Diamond_Sword.png/64px-Diamond_Sword.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Sword/ms&amp;action=edit&amp;redlink=1" class="new" title="Sword/ms (page does not exist)">Pedang</a> Intan
+</td>
+<td><a href="/File:Diamond_Pickaxe.png" class="image"><img alt="Diamond Pickaxe.png" src="/images/thumb/5/54/Diamond_Pickaxe.png/32px-Diamond_Pickaxe.png" decoding="async" width="32" height="32" srcset="/images/thumb/5/54/Diamond_Pickaxe.png/48px-Diamond_Pickaxe.png 1.5x, /images/thumb/5/54/Diamond_Pickaxe.png/64px-Diamond_Pickaxe.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Pickaxe/ms&amp;action=edit&amp;redlink=1" class="new" title="Pickaxe/ms (page does not exist)">Beliung</a> Intan
+</td>
+<td><a href="/File:Diamond_Shovel.png" class="image"><img alt="Diamond Shovel.png" src="/images/thumb/b/bf/Diamond_Shovel.png/32px-Diamond_Shovel.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/bf/Diamond_Shovel.png/48px-Diamond_Shovel.png 1.5x, /images/thumb/b/bf/Diamond_Shovel.png/64px-Diamond_Shovel.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Shovel/ms&amp;action=edit&amp;redlink=1" class="new" title="Shovel/ms (page does not exist)">Penyodok</a> Intan
+</td>
+<td><a href="/File:Diamond_Axe.png" class="image"><img alt="Diamond Axe.png" src="/images/thumb/e/e8/Diamond_Axe.png/32px-Diamond_Axe.png" decoding="async" width="32" height="32" srcset="/images/thumb/e/e8/Diamond_Axe.png/48px-Diamond_Axe.png 1.5x, /images/thumb/e/e8/Diamond_Axe.png/64px-Diamond_Axe.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Axe/ms&amp;action=edit&amp;redlink=1" class="new" title="Axe/ms (page does not exist)">Kapak</a> Intan
+</td>
+<td><a href="/File:Diamond_Hoe.png" class="image"><img alt="Diamond Hoe.png" src="/images/thumb/0/04/Diamond_Hoe.png/32px-Diamond_Hoe.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/04/Diamond_Hoe.png/48px-Diamond_Hoe.png 1.5x, /images/thumb/0/04/Diamond_Hoe.png/64px-Diamond_Hoe.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Hoe/ms&amp;action=edit&amp;redlink=1" class="new" title="Hoe/ms (page does not exist)">Cangkul</a> Intan
+</td></tr></tbody></table>
+<table class="wikitable">
+<tbody><tr>
+<td><a href="/File:Book.png" class="image"><img alt="Book.png" src="/images/thumb/f/f3/Book.png/32px-Book.png" decoding="async" width="32" height="32" srcset="/images/thumb/f/f3/Book.png/48px-Book.png 1.5x, /images/thumb/f/f3/Book.png/64px-Book.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Book/ms&amp;action=edit&amp;redlink=1" class="new" title="Book/ms (page does not exist)">Buku</a>
+</td>
+<td><a href="/File:Book_with_Text.png" class="image"><img alt="Book with Text.png" src="/images/thumb/c/c4/Book_with_Text.png/32px-Book_with_Text.png" decoding="async" width="32" height="32" srcset="/images/thumb/c/c4/Book_with_Text.png/48px-Book_with_Text.png 1.5x, /images/thumb/c/c4/Book_with_Text.png/64px-Book_with_Text.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Book/ms&amp;action=edit&amp;redlink=1" class="new" title="Book/ms (page does not exist)">Buku Bertulisan</a>
+</td>
+<td><a href="/File:Bucket.png" class="image"><img alt="Bucket.png" src="/images/thumb/5/52/Bucket.png/32px-Bucket.png" decoding="async" width="32" height="32" srcset="/images/thumb/5/52/Bucket.png/48px-Bucket.png 1.5x, /images/thumb/5/52/Bucket.png/64px-Bucket.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Bucket/ms&amp;action=edit&amp;redlink=1" class="new" title="Bucket/ms (page does not exist)">Baldi</a>
+</td>
+<td><a href="/File:Flint_and_Steel.png" class="image"><img alt="Flint and Steel.png" src="/images/thumb/7/7e/Flint_and_Steel.png/32px-Flint_and_Steel.png" decoding="async" width="32" height="32" srcset="/images/thumb/7/7e/Flint_and_Steel.png/48px-Flint_and_Steel.png 1.5x, /images/thumb/7/7e/Flint_and_Steel.png/64px-Flint_and_Steel.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Flint_and_Steel/ms&amp;action=edit&amp;redlink=1" class="new" title="Flint and Steel/ms (page does not exist)">Pemetik Api</a>
+</td></tr>
+<tr>
+<td><a href="/File:Screwdriver.png" class="image"><img alt="Screwdriver.png" src="/images/thumb/1/1d/Screwdriver.png/32px-Screwdriver.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/1d/Screwdriver.png/48px-Screwdriver.png 1.5x, /images/thumb/1/1d/Screwdriver.png/64px-Screwdriver.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Screwdriver/ms&amp;action=edit&amp;redlink=1" class="new" title="Screwdriver/ms (page does not exist)">Pemutar Skru</a>
+</td>
+<td><a href="/File:Torch.png" class="image"><img alt="Torch.png" src="/images/thumb/b/b2/Torch.png/32px-Torch.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/b2/Torch.png/48px-Torch.png 1.5x, /images/thumb/b/b2/Torch.png/64px-Torch.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Torch/ms&amp;action=edit&amp;redlink=1" class="new" title="Torch/ms (page does not exist)">Obor</a>
+</td>
+<td><a href="/File:Skeleton_Key.png" class="image"><img alt="Skeleton Key.png" src="/images/thumb/d/d9/Skeleton_Key.png/32px-Skeleton_Key.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/d9/Skeleton_Key.png/48px-Skeleton_Key.png 1.5x, /images/thumb/d/d9/Skeleton_Key.png/64px-Skeleton_Key.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Skeleton_Key/ms&amp;action=edit&amp;redlink=1" class="new" title="Skeleton Key/ms (page does not exist)">Kunci Induk</a>
+</td>
+<td><a href="/File:Key.png" class="image"><img alt="Key.png" src="/images/thumb/5/52/Key.png/32px-Key.png" decoding="async" width="32" height="32" srcset="/images/thumb/5/52/Key.png/48px-Key.png 1.5x, /images/thumb/5/52/Key.png/64px-Key.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Key/ms&amp;action=edit&amp;redlink=1" class="new" title="Key/ms (page does not exist)">Kunci</a>
+</td></tr></tbody></table>
+<p>Lihat juga <a href="/index.php?title=Hand/ms&amp;action=edit&amp;redlink=1" class="new" title="Hand/ms (page does not exist)">tangan</a>, yang mana ianya juga sebuah alatan dan senjata.
+</p>
+<h2><span class="mw-headline" id="Kenderaan">Kenderaan</span></h2>
+<table class="wikitable">
+<tbody><tr>
+<td><a href="/File:Boat.png" class="image"><img alt="Boat.png" src="/images/thumb/1/1e/Boat.png/32px-Boat.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/1e/Boat.png/48px-Boat.png 1.5x, /images/thumb/1/1e/Boat.png/64px-Boat.png 2x" /></a>
+</td>
+<td width="150px"><a href="/Boat/ms" title="Boat/ms">Bot</a>
+</td>
+<td><a href="/File:Cart.png" class="image"><img alt="Cart.png" src="/images/thumb/2/2b/Cart.png/32px-Cart.png" decoding="async" width="32" height="32" srcset="/images/thumb/2/2b/Cart.png/48px-Cart.png 1.5x, /images/thumb/2/2b/Cart.png/64px-Cart.png 2x" /></a>
+</td>
+<td width="150px"><a href="/Cart/ms" title="Cart/ms">Pedati</a>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Makanan">Makanan</span></h2>
+<table class="wikitable">
+<tbody><tr>
+<td><a href="/File:Apple.png" class="image"><img alt="Apple.png" src="/images/thumb/7/7d/Apple.png/32px-Apple.png" decoding="async" width="32" height="32" srcset="/images/thumb/7/7d/Apple.png/48px-Apple.png 1.5x, /images/thumb/7/7d/Apple.png/64px-Apple.png 2x" /></a>
+</td>
+<td width="150px"><a href="/Apple/ms" title="Apple/ms">Epal</a>
+</td>
+<td><a href="/File:Bread.png" class="image"><img alt="Bread.png" src="/images/thumb/e/e1/Bread.png/32px-Bread.png" decoding="async" width="32" height="32" srcset="/images/thumb/e/e1/Bread.png/48px-Bread.png 1.5x, /images/thumb/e/e1/Bread.png/64px-Bread.png 2x" /></a>
+</td>
+<td width="150px"><a href="/Bread/ms" title="Bread/ms">Roti</a>
+</td>
+<td><a href="/File:Brown_Mushroom.png" class="image"><img alt="Brown Mushroom.png" src="/images/thumb/7/73/Brown_Mushroom.png/32px-Brown_Mushroom.png" decoding="async" width="32" height="32" srcset="/images/thumb/7/73/Brown_Mushroom.png/48px-Brown_Mushroom.png 1.5x, /images/thumb/7/73/Brown_Mushroom.png/64px-Brown_Mushroom.png 2x" /></a>
+</td>
+<td width="150px"><a href="/Brown_Mushroom/ms" title="Brown Mushroom/ms">Cendawan Perang</a>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Bijih_dan_mineral"><a href="/Ores/ms" title="Ores/ms">Bijih</a> dan mineral</span></h2>
+<table class="wikitable">
+<tbody><tr>
+<td><a href="/File:Coal.png" class="image"><img alt="Coal.png" src="/images/thumb/a/a7/Coal.png/32px-Coal.png" decoding="async" width="32" height="32" srcset="/images/thumb/a/a7/Coal.png/48px-Coal.png 1.5x, /images/thumb/a/a7/Coal.png/64px-Coal.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Coal_Lump/ms&amp;action=edit&amp;redlink=1" class="new" title="Coal Lump/ms (page does not exist)">Longgokan Batu Arang</a>
+</td>
+<td><a href="/File:Iron_Lump.png" class="image"><img alt="Iron Lump.png" src="/images/thumb/c/cf/Iron_Lump.png/32px-Iron_Lump.png" decoding="async" width="32" height="32" srcset="/images/thumb/c/cf/Iron_Lump.png/48px-Iron_Lump.png 1.5x, /images/thumb/c/cf/Iron_Lump.png/64px-Iron_Lump.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Iron_Lump/ms&amp;action=edit&amp;redlink=1" class="new" title="Iron Lump/ms (page does not exist)">Longgokan Besi</a>
+</td>
+<td><a href="/File:Copper_Lump.png" class="image"><img alt="Copper Lump.png" src="/images/thumb/d/d5/Copper_Lump.png/32px-Copper_Lump.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/d5/Copper_Lump.png/48px-Copper_Lump.png 1.5x, /images/thumb/d/d5/Copper_Lump.png/64px-Copper_Lump.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Copper_Lump/ms&amp;action=edit&amp;redlink=1" class="new" title="Copper Lump/ms (page does not exist)">Longgokan Tembaga</a>
+</td>
+<td><a href="/File:Tin_Lump.png" class="image"><img alt="Tin Lump.png" src="/images/thumb/4/42/Tin_Lump.png/32px-Tin_Lump.png" decoding="async" width="32" height="32" srcset="/images/thumb/4/42/Tin_Lump.png/48px-Tin_Lump.png 1.5x, /images/thumb/4/42/Tin_Lump.png/64px-Tin_Lump.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Tin_Lump/ms&amp;action=edit&amp;redlink=1" class="new" title="Tin Lump/ms (page does not exist)">Longgokan Timah</a>
+</td></tr>
+<tr>
+<td><a href="/File:Gold_Lump.png" class="image"><img alt="Gold Lump.png" src="/images/thumb/7/7c/Gold_Lump.png/32px-Gold_Lump.png" decoding="async" width="32" height="32" srcset="/images/thumb/7/7c/Gold_Lump.png/48px-Gold_Lump.png 1.5x, /images/thumb/7/7c/Gold_Lump.png/64px-Gold_Lump.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Gold_Lump/ms&amp;action=edit&amp;redlink=1" class="new" title="Gold Lump/ms (page does not exist)">Longgokan Emas</a>
+</td>
+<td><a href="/File:Clay_Lump.png" class="image"><img alt="Clay Lump.png" src="/images/thumb/7/73/Clay_Lump.png/32px-Clay_Lump.png" decoding="async" width="32" height="32" srcset="/images/thumb/7/73/Clay_Lump.png/48px-Clay_Lump.png 1.5x, /images/thumb/7/73/Clay_Lump.png/64px-Clay_Lump.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Clay_Lump/ms&amp;action=edit&amp;redlink=1" class="new" title="Clay Lump/ms (page does not exist)">Longgokan Tanah Liat</a>
+</td>
+<td><a href="/File:Mese_Crystal.png" class="image"><img alt="Mese Crystal.png" src="/images/thumb/7/7b/Mese_Crystal.png/32px-Mese_Crystal.png" decoding="async" width="32" height="32" srcset="/images/thumb/7/7b/Mese_Crystal.png/48px-Mese_Crystal.png 1.5x, /images/thumb/7/7b/Mese_Crystal.png/64px-Mese_Crystal.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Mese_Crystal/ms&amp;action=edit&amp;redlink=1" class="new" title="Mese Crystal/ms (page does not exist)">Kristal Mese</a>
+</td>
+<td><a href="/File:Diamond.png" class="image"><img alt="Diamond.png" src="/images/thumb/e/ea/Diamond.png/32px-Diamond.png" decoding="async" width="32" height="32" srcset="/images/thumb/e/ea/Diamond.png/48px-Diamond.png 1.5x, /images/thumb/e/ea/Diamond.png/64px-Diamond.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Diamond/ms&amp;action=edit&amp;redlink=1" class="new" title="Diamond/ms (page does not exist)">Berlian</a>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Jongkong_dan_mineral_lain_yang_telah_diproses">Jongkong dan mineral lain yang telah diproses</span></h2>
+<table class="wikitable">
+<tbody><tr>
+<td><a href="/File:Steel_Ingot.png" class="image"><img alt="Steel Ingot.png" src="/images/thumb/b/bd/Steel_Ingot.png/32px-Steel_Ingot.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/bd/Steel_Ingot.png/48px-Steel_Ingot.png 1.5x, /images/thumb/b/bd/Steel_Ingot.png/64px-Steel_Ingot.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Steel_Ingot/ms&amp;action=edit&amp;redlink=1" class="new" title="Steel Ingot/ms (page does not exist)">Jongkong Keluli</a>
+</td>
+<td><a href="/File:Copper_Ingot.png" class="image"><img alt="Copper Ingot.png" src="/images/thumb/0/00/Copper_Ingot.png/32px-Copper_Ingot.png" decoding="async" width="32" height="32" srcset="/images/thumb/0/00/Copper_Ingot.png/48px-Copper_Ingot.png 1.5x, /images/thumb/0/00/Copper_Ingot.png/64px-Copper_Ingot.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Copper_Ingot/ms&amp;action=edit&amp;redlink=1" class="new" title="Copper Ingot/ms (page does not exist)">Jongkong Tembaga</a>
+</td>
+<td><a href="/File:Tin_Ingot.png" class="image"><img alt="Tin Ingot.png" src="/images/thumb/9/97/Tin_Ingot.png/32px-Tin_Ingot.png" decoding="async" width="32" height="32" srcset="/images/thumb/9/97/Tin_Ingot.png/48px-Tin_Ingot.png 1.5x, /images/thumb/9/97/Tin_Ingot.png/64px-Tin_Ingot.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Tin_Ingot/ms&amp;action=edit&amp;redlink=1" class="new" title="Tin Ingot/ms (page does not exist)">Jongkong Timah</a>
+</td>
+<td><a href="/File:Bronze_Ingot.png" class="image"><img alt="Bronze Ingot.png" src="/images/thumb/1/16/Bronze_Ingot.png/32px-Bronze_Ingot.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/16/Bronze_Ingot.png/48px-Bronze_Ingot.png 1.5x, /images/thumb/1/16/Bronze_Ingot.png/64px-Bronze_Ingot.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Bronze_Ingot/ms&amp;action=edit&amp;redlink=1" class="new" title="Bronze Ingot/ms (page does not exist)">Jongkong Gangsa</a>
+</td></tr>
+<tr>
+<td><a href="/File:Gold_Ingot.png" class="image"><img alt="Gold Ingot.png" src="/images/thumb/2/22/Gold_Ingot.png/32px-Gold_Ingot.png" decoding="async" width="32" height="32" srcset="/images/thumb/2/22/Gold_Ingot.png/48px-Gold_Ingot.png 1.5x, /images/thumb/2/22/Gold_Ingot.png/64px-Gold_Ingot.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Gold_Ingot/ms&amp;action=edit&amp;redlink=1" class="new" title="Gold Ingot/ms (page does not exist)">Jongkong Emas</a>
+</td>
+<td><a href="/File:Clay_Brick.png" class="image"><img alt="Clay Brick.png" src="/images/thumb/7/70/Clay_Brick.png/32px-Clay_Brick.png" decoding="async" width="32" height="32" srcset="/images/thumb/7/70/Clay_Brick.png/48px-Clay_Brick.png 1.5x, /images/thumb/7/70/Clay_Brick.png/64px-Clay_Brick.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Clay_Brick/ms&amp;action=edit&amp;redlink=1" class="new" title="Clay Brick/ms (page does not exist)">Bata Tanah Liat</a>
+</td>
+<td><a href="/File:Obsidian_Shard.png" class="image"><img alt="Obsidian Shard.png" src="/images/thumb/f/f1/Obsidian_Shard.png/32px-Obsidian_Shard.png" decoding="async" width="32" height="32" srcset="/images/thumb/f/f1/Obsidian_Shard.png/48px-Obsidian_Shard.png 1.5x, /images/thumb/f/f1/Obsidian_Shard.png/64px-Obsidian_Shard.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Obsidian_Shard/ms&amp;action=edit&amp;redlink=1" class="new" title="Obsidian Shard/ms (page does not exist)">Serpihan Obsidia</a>
+</td>
+<td><a href="/File:Mese_Crystal_Fragment.png" class="image"><img alt="Mese Crystal Fragment.png" src="/images/thumb/1/1a/Mese_Crystal_Fragment.png/32px-Mese_Crystal_Fragment.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/1a/Mese_Crystal_Fragment.png/48px-Mese_Crystal_Fragment.png 1.5x, /images/thumb/1/1a/Mese_Crystal_Fragment.png/64px-Mese_Crystal_Fragment.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Mese_Crystal_Fragment/ms&amp;action=edit&amp;redlink=1" class="new" title="Mese Crystal Fragment/ms (page does not exist)">Serpihan Mese</a>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Pewarna">Pewarna</span></h2>
+<table class="wikitable">
+<tbody><tr>
+<td><a href="/File:White_dye.png" class="image"><img alt="White dye.png" src="/images/thumb/8/87/White_dye.png/32px-White_dye.png" decoding="async" width="32" height="32" srcset="/images/thumb/8/87/White_dye.png/48px-White_dye.png 1.5x, /images/thumb/8/87/White_dye.png/64px-White_dye.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Dye/ms&amp;action=edit&amp;redlink=1" class="new" title="Dye/ms (page does not exist)">Pewarna Putih</a>
+</td>
+<td><a href="/File:Grey_dye.png" class="image"><img alt="Grey dye.png" src="/images/thumb/7/74/Grey_dye.png/32px-Grey_dye.png" decoding="async" width="32" height="32" srcset="/images/thumb/7/74/Grey_dye.png/48px-Grey_dye.png 1.5x, /images/thumb/7/74/Grey_dye.png/64px-Grey_dye.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Dye/ms&amp;action=edit&amp;redlink=1" class="new" title="Dye/ms (page does not exist)">Pewarna Kelabu</a>
+</td>
+<td><a href="/File:Dark_grey_dye.png" class="image"><img alt="Dark grey dye.png" src="/images/thumb/1/19/Dark_grey_dye.png/32px-Dark_grey_dye.png" decoding="async" width="32" height="32" srcset="/images/thumb/1/19/Dark_grey_dye.png/48px-Dark_grey_dye.png 1.5x, /images/thumb/1/19/Dark_grey_dye.png/64px-Dark_grey_dye.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Dye/ms&amp;action=edit&amp;redlink=1" class="new" title="Dye/ms (page does not exist)">Pewarna Kelabu Tua</a>
+</td>
+<td><a href="/File:Black_dye.png" class="image"><img alt="Black dye.png" src="/images/thumb/4/49/Black_dye.png/32px-Black_dye.png" decoding="async" width="32" height="32" srcset="/images/thumb/4/49/Black_dye.png/48px-Black_dye.png 1.5x, /images/thumb/4/49/Black_dye.png/64px-Black_dye.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Dye/ms&amp;action=edit&amp;redlink=1" class="new" title="Dye/ms (page does not exist)">Pewarna Hitam</a>
+</td></tr>
+<tr>
+<td><a href="/File:Blue_dye.png" class="image"><img alt="Blue dye.png" src="/images/thumb/6/66/Blue_dye.png/32px-Blue_dye.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/66/Blue_dye.png/48px-Blue_dye.png 1.5x, /images/thumb/6/66/Blue_dye.png/64px-Blue_dye.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Dye/ms&amp;action=edit&amp;redlink=1" class="new" title="Dye/ms (page does not exist)">Pewarna Biru</a>
+</td>
+<td><a href="/File:Cyan_dye.png" class="image"><img alt="Cyan dye.png" src="/images/thumb/c/cc/Cyan_dye.png/32px-Cyan_dye.png" decoding="async" width="32" height="32" srcset="/images/thumb/c/cc/Cyan_dye.png/48px-Cyan_dye.png 1.5x, /images/thumb/c/cc/Cyan_dye.png/64px-Cyan_dye.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Dye/ms&amp;action=edit&amp;redlink=1" class="new" title="Dye/ms (page does not exist)">Pewarna Sian</a>
+</td>
+<td><a href="/File:Green_dye.png" class="image"><img alt="Green dye.png" src="/images/thumb/4/48/Green_dye.png/32px-Green_dye.png" decoding="async" width="32" height="32" srcset="/images/thumb/4/48/Green_dye.png/48px-Green_dye.png 1.5x, /images/thumb/4/48/Green_dye.png/64px-Green_dye.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Dye/ms&amp;action=edit&amp;redlink=1" class="new" title="Dye/ms (page does not exist)">Pewarna Hijau</a>
+</td>
+<td><a href="/File:Dark_green_dye.png" class="image"><img alt="Dark green dye.png" src="/images/thumb/6/68/Dark_green_dye.png/32px-Dark_green_dye.png" decoding="async" width="32" height="32" srcset="/images/thumb/6/68/Dark_green_dye.png/48px-Dark_green_dye.png 1.5x, /images/thumb/6/68/Dark_green_dye.png/64px-Dark_green_dye.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Dye/ms&amp;action=edit&amp;redlink=1" class="new" title="Dye/ms (page does not exist)">Pewarna Hijau Tua</a>
+</td></tr>
+<tr>
+<td><a href="/File:Yellow_dye.png" class="image"><img alt="Yellow dye.png" src="/images/thumb/c/c0/Yellow_dye.png/32px-Yellow_dye.png" decoding="async" width="32" height="32" srcset="/images/thumb/c/c0/Yellow_dye.png/48px-Yellow_dye.png 1.5x, /images/thumb/c/c0/Yellow_dye.png/64px-Yellow_dye.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Dye/ms&amp;action=edit&amp;redlink=1" class="new" title="Dye/ms (page does not exist)">Pewarna Kuning</a>
+</td>
+<td><a href="/File:Orange_dye.png" class="image"><img alt="Orange dye.png" src="/images/thumb/e/e7/Orange_dye.png/32px-Orange_dye.png" decoding="async" width="32" height="32" srcset="/images/thumb/e/e7/Orange_dye.png/48px-Orange_dye.png 1.5x, /images/thumb/e/e7/Orange_dye.png/64px-Orange_dye.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Dye/ms&amp;action=edit&amp;redlink=1" class="new" title="Dye/ms (page does not exist)">Pewarna Jingga</a>
+</td>
+<td><a href="/File:Brown_dye.png" class="image"><img alt="Brown dye.png" src="/images/thumb/f/f2/Brown_dye.png/32px-Brown_dye.png" decoding="async" width="32" height="32" srcset="/images/thumb/f/f2/Brown_dye.png/48px-Brown_dye.png 1.5x, /images/thumb/f/f2/Brown_dye.png/64px-Brown_dye.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Dye/ms&amp;action=edit&amp;redlink=1" class="new" title="Dye/ms (page does not exist)">Pewarna Perang</a>
+</td>
+<td><a href="/File:Red_dye.png" class="image"><img alt="Red dye.png" src="/images/thumb/3/3c/Red_dye.png/32px-Red_dye.png" decoding="async" width="32" height="32" srcset="/images/thumb/3/3c/Red_dye.png/48px-Red_dye.png 1.5x, /images/thumb/3/3c/Red_dye.png/64px-Red_dye.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Dye/ms&amp;action=edit&amp;redlink=1" class="new" title="Dye/ms (page does not exist)">Pewarna Merah</a>
+</td></tr>
+<tr>
+<td><a href="/File:Pink_dye.png" class="image"><img alt="Pink dye.png" src="/images/thumb/8/85/Pink_dye.png/32px-Pink_dye.png" decoding="async" width="32" height="32" srcset="/images/thumb/8/85/Pink_dye.png/48px-Pink_dye.png 1.5x, /images/thumb/8/85/Pink_dye.png/64px-Pink_dye.png 2x" /></a>
+</td>
+<td><a href="/index.php?title=Dye/ms&amp;action=edit&amp;redlink=1" class="new" title="Dye/ms (page does not exist)">Pewarna Merah Jambu</a>
+</td>
+<td><a href="/File:Magenta_dye.png" class="image"><img alt="Magenta dye.png" src="/images/thumb/f/f1/Magenta_dye.png/32px-Magenta_dye.png" decoding="async" width="32" height="32" srcset="/images/thumb/f/f1/Magenta_dye.png/48px-Magenta_dye.png 1.5x, /images/thumb/f/f1/Magenta_dye.png/64px-Magenta_dye.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Dye/ms&amp;action=edit&amp;redlink=1" class="new" title="Dye/ms (page does not exist)">Pewarna Magenta</a>
+</td>
+<td><a href="/File:Violet_dye.png" class="image"><img alt="Violet dye.png" src="/images/thumb/b/b4/Violet_dye.png/32px-Violet_dye.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/b4/Violet_dye.png/48px-Violet_dye.png 1.5x, /images/thumb/b/b4/Violet_dye.png/64px-Violet_dye.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Dye/ms&amp;action=edit&amp;redlink=1" class="new" title="Dye/ms (page does not exist)">Pewarna Violet</a>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Elemen_pertukangan_lain">Elemen pertukangan lain</span></h2>
+<table class="wikitable">
+<tbody><tr>
+<td><a href="/File:Paper.png" class="image"><img alt="Paper.png" src="/images/thumb/b/b2/Paper.png/32px-Paper.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/b2/Paper.png/48px-Paper.png 1.5x, /images/thumb/b/b2/Paper.png/64px-Paper.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Paper/ms&amp;action=edit&amp;redlink=1" class="new" title="Paper/ms (page does not exist)">Kertas</a>
+</td>
+<td><a href="/File:Glass_fragments.png" class="mw-redirect" title="File:Glass fragments.png">32px</a>
+</td>
+<td width="150px"><a href="/index.php?title=Pile_of_Glass_Fragments/ms&amp;action=edit&amp;redlink=1" class="new" title="Pile of Glass Fragments/ms (page does not exist)">Timbunan Cebisan Kaca</a>
+</td>
+<td><a href="/File:Flint.png" class="image"><img alt="Flint.png" src="/images/thumb/2/2e/Flint.png/32px-Flint.png" decoding="async" width="32" height="32" srcset="/images/thumb/2/2e/Flint.png/48px-Flint.png 1.5x, /images/thumb/2/2e/Flint.png/64px-Flint.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Flint/ms&amp;action=edit&amp;redlink=1" class="new" title="Flint/ms (page does not exist)">Batu Api</a>
+</td></tr>
+<tr>
+<td><a href="/File:Gun_Powder.png" class="image"><img alt="Gun Powder.png" src="/images/thumb/d/dd/Gun_Powder.png/32px-Gun_Powder.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/dd/Gun_Powder.png/48px-Gun_Powder.png 1.5x, /images/thumb/d/dd/Gun_Powder.png/64px-Gun_Powder.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Gun_Powder/ms&amp;action=edit&amp;redlink=1" class="new" title="Gun Powder/ms (page does not exist)">Serbuk Senjata Api</a>
+</td>
+<td><a href="/File:Stick.png" class="image"><img alt="Stick.png" src="/images/thumb/a/aa/Stick.png/32px-Stick.png" decoding="async" width="32" height="32" srcset="/images/thumb/a/aa/Stick.png/48px-Stick.png 1.5x, /images/thumb/a/aa/Stick.png/64px-Stick.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Stick/ms&amp;action=edit&amp;redlink=1" class="new" title="Stick/ms (page does not exist)">Serpihan Kayu</a>
+</td>
+<td><a href="/File:Wheat.png" class="image"><img alt="Wheat.png" src="/images/thumb/e/e2/Wheat.png/32px-Wheat.png" decoding="async" width="32" height="32" srcset="/images/thumb/e/e2/Wheat.png/48px-Wheat.png 1.5x, /images/thumb/e/e2/Wheat.png/64px-Wheat.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Wheat/ms&amp;action=edit&amp;redlink=1" class="new" title="Wheat/ms (page does not exist)">Gandum</a>
+</td></tr>
+<tr>
+<td><a href="/File:Flour.png" class="image"><img alt="Flour.png" src="/images/thumb/e/e8/Flour.png/32px-Flour.png" decoding="async" width="32" height="32" srcset="/images/thumb/e/e8/Flour.png/48px-Flour.png 1.5x, /images/thumb/e/e8/Flour.png/64px-Flour.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Flour/ms&amp;action=edit&amp;redlink=1" class="new" title="Flour/ms (page does not exist)">Tepung</a>
+</td>
+<td><a href="/File:Cotton.png" class="image"><img alt="Cotton.png" src="/images/thumb/c/c3/Cotton.png/32px-Cotton.png" decoding="async" width="32" height="32" srcset="/images/thumb/c/c3/Cotton.png/48px-Cotton.png 1.5x, /images/thumb/c/c3/Cotton.png/64px-Cotton.png 2x" /></a>
+</td>
+<td width="150px"><a href="/Cotton/ms" title="Cotton/ms">Kapas</a>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Item_dalam_versi_akan_datang">Item dalam versi akan datang</span></h2>
+<p>Kemaskini terakhir: 14 Februari 2018.
+</p>
+<table class="wikitable">
+<tbody><tr>
+<td><a href="/File:Binoculars.png" class="image"><img alt="Binoculars.png" src="/images/thumb/7/74/Binoculars.png/32px-Binoculars.png" decoding="async" width="32" height="32" srcset="/images/thumb/7/74/Binoculars.png/48px-Binoculars.png 1.5x, /images/thumb/7/74/Binoculars.png/64px-Binoculars.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Binoculars/ms&amp;action=edit&amp;redlink=1" class="new" title="Binoculars/ms (page does not exist)">Binokular</a>
+</td>
+<td><a href="/File:Mapping_Kit.png" class="image"><img alt="Mapping Kit.png" src="/images/thumb/9/90/Mapping_Kit.png/32px-Mapping_Kit.png" decoding="async" width="32" height="32" srcset="/images/thumb/9/90/Mapping_Kit.png/48px-Mapping_Kit.png 1.5x, /images/thumb/9/90/Mapping_Kit.png/64px-Mapping_Kit.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Mapping_Kit/ms&amp;action=edit&amp;redlink=1" class="new" title="Mapping Kit/ms (page does not exist)">Alat Pemetaan</a>
+</td>
+<td><a href="/File:Bug_Net.png" class="image"><img alt="Bug Net.png" src="/images/thumb/d/d5/Bug_Net.png/32px-Bug_Net.png" decoding="async" width="32" height="32" srcset="/images/thumb/d/d5/Bug_Net.png/48px-Bug_Net.png 1.5x, /images/thumb/d/d5/Bug_Net.png/64px-Bug_Net.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Bug_Net/ms&amp;action=edit&amp;redlink=1" class="new" title="Bug Net/ms (page does not exist)">Jaring Pepijat</a>
+</td>
+<td><a href="/File:String.png" class="image"><img alt="String.png" src="/images/thumb/a/a0/String.png/32px-String.png" decoding="async" width="32" height="32" srcset="/images/thumb/a/a0/String.png/48px-String.png 1.5x, /images/thumb/a/a0/String.png/64px-String.png 2x" /></a>
+</td>
+<td width="150px"><a href="/String/ms" title="String/ms">Benang</a>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Item_yang_digunakan_di_peringkat_dalaman">Item yang digunakan di peringkat dalaman</span></h2>
+<p>Item yang digunakan di peringkat dalaman ialah item dalam Minetest yang hanya digunakan untuk tujuan teknikal sahaja. Mereka tidak mempunyai nilai cara main dan pemain tidak boleh/tidak patut berinteraksi dengannya secara terus. 
+</p>
+<table class="wikitable">
+<tbody><tr>
+<td><a href="/File:Unknown_Item.png" class="image"><img alt="Unknown Item.png" src="/images/thumb/b/b5/Unknown_Item.png/32px-Unknown_Item.png" decoding="async" width="32" height="32" srcset="/images/thumb/b/b5/Unknown_Item.png/48px-Unknown_Item.png 1.5x, /images/thumb/b/b5/Unknown_Item.png/64px-Unknown_Item.png 2x" /></a>
+</td>
+<td width="150px"><a href="/index.php?title=Unknown_Item/ms&amp;action=edit&amp;redlink=1" class="new" title="Unknown Item/ms (page does not exist)">Item Tidak Diketahui</a>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Lihat_juga">Lihat juga</span></h2>
+<ul><li><a href="/Item_stack/ms" title="Item stack/ms">Tindanan item</a></li>
+<li><a href="/Blocks/ms" class="mw-redirect" title="Blocks/ms">Blok</a></li>
+<li><a href="/Tool/ms" title="Tool/ms">Alatan</a></li>
+<li><a href="/Itemstrings/ms" title="Itemstrings/ms">Rentetan item</a></li></ul>
+<!-- 
+NewPP limit report
+Cached time: 20230726193516
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 0.918 seconds
+Real time usage: 1.479 seconds
+Preprocessor visited node count: 274/1000000
+Post‐expand include size: 2636/2097152 bytes
+Template argument size: 673/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 13/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.120/7 seconds
+Lua virtual size: 5.55 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  372.023      1 Template:Languages
+100.00%  372.023      1 -total
+-->
+
+<!-- Saved in parser cache with key minetest_wiki:pcache:idhash:3231-0!canonical and timestamp 20230726193514 and revision id 27652
+ -->
+</div></div><div class="printfooter">Retrieved from "<a dir="ltr" href="http://wiki.minetest.net/index.php?title=Games/Minetest_Game/Items/ms&amp;oldid=27652">http://wiki.minetest.net/index.php?title=Games/Minetest_Game/Items/ms&amp;oldid=27652</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/Category:Pages_with_broken_file_links" title="Category:Pages with broken file links">Pages with broken file links</a></li><li><a href="/Category:Malay" title="Category:Malay">Malay</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-login"><a href="/index.php?title=Special:UserLogin&amp;returnto=Games%2FMinetest+Game%2FItems%2Fms" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/Games/Minetest_Game/Items/ms" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:Games/Minetest_Game/Items/ms&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/Games/Minetest_Game/Items/ms">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/index.php?title=Games/Minetest_Game/Items/ms&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=Games/Minetest_Game/Items/ms&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Minetest Wiki" title="Search Minetest Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-recentchanges"><a href="/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li><li id="n-help-mediawiki"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help about MediaWiki</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Games/Minetest_Game/Items/ms" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Games/Minetest_Game/Items/ms" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="/index.php?title=Games/Minetest_Game/Items/ms&amp;oldid=27652" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/index.php?title=Games/Minetest_Game/Items/ms&amp;action=info" title="More information about this page">Page information</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 29 January 2023, at 14:17.</li>
+		<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike</a> unless otherwise noted.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/Minetest_Wiki:Privacy_policy" title="Minetest Wiki:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/Minetest_Wiki:About" title="Minetest Wiki:About">About Minetest Wiki</a></li>
+		<li id="footer-places-disclaimer"><a href="/Minetest_Wiki:General_disclaimer" title="Minetest Wiki:General disclaimer">Disclaimers</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution Share Alike" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.918","walltime":"1.479","ppvisitednodes":{"value":274,"limit":1000000},"postexpandincludesize":{"value":2636,"limit":2097152},"templateargumentsize":{"value":673,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":13,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  372.023      1 Template:Languages","100.00%  372.023      1 -total"]},"scribunto":{"limitreport-timeusage":{"value":"0.120","limit":"7"},"limitreport-virtmemusage":{"value":5816320,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20230726193516","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":304});});</script></body></html>
